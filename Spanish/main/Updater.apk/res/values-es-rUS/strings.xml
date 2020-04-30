@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Actualizador</string>
+  <string name="battery_islow">&lt;font color=#f37981&gt;Conecte el cargador&lt;/font&gt;</string>
+  <string name="battery_islow_desc">¡El nivel de batería es demasiado bajo para instalar el archivo zip de forma segura, conecte su cargador e intente nuevamente más tarde!</string>
+  <string name="btn_changelog">Changelog</string>
+  <string name="btn_download">Descargar (%1$s)</string>
+  <string name="btn_error">Se produjo un error, ¿intentar de nuevo?</string>
+  <string name="btn_install">Verificar MD5 &amp; Instalar</string>
+  <string name="btn_no">Cancelar</string>
+  <string name="btn_ok">OK</string>
+  <string name="btn_pause">Pausa</string>
+  <string name="btn_share">Compartir</string>
+  <string name="btn_stop">Detener</string>
+  <string name="btn_wrong_md5">¡MD5 erroneo, haga clic para eliminar la ROM!</string>
+  <string name="btn_yes">Si</string>
+  <string name="channel_downloading">Progreso de la descarga</string>
+  <string name="channel_update">Nueva versión disponible</string>
+  <string name="check_new_version">Buscar actualizaciones</string>
+  <string name="default_filedownloader_notification_content">FileDownloader se está ejecutando.</string>
+  <string name="dialog_3g_desc">Tenga en cuenta que el uso de datos móviles para descargar la ROM puede requerir una cuota significativa de su plan.</string>
+  <string name="dialog_3g_title">¡Advertencia!</string>
+  <string name="dialog_btn_3g">Continuar de todos modos</string>
+  <string name="dialog_btn_wifi">Cambiar a Wi-Fi</string>
+  <string name="dialog_stop_desc">Puede Pausar o Detener la descarga, elija ahora.</string>
+  <string name="dialog_stop_title">¿Detener la descarga?</string>
+  <string name="dialog_twrp">Su almacenamiento interno está encriptado. Después de reiniciar el dispositivo para la recuperación, ingrese la contraseña de desbloqueo de su dispositivo para continuar.</string>
+  <string name="download_done">¡Descarga exitosa!</string>
+  <string name="download_fail">¡Error al descargar!</string>
+  <string name="download_fail_desc">La suma MD5 no coincide…</string>
+  <string name="downloading">Descargando:</string>
+  <string name="downloading_desc">Descarga en curso, verifique el estado en el área de notificaciónes.</string>
+  <string name="fetching_data">Obteniendo enlace de descarga, por favor espere…</string>
+  <string name="install_desc">El dispositivo se reiniciará en modo Recovery e instalará el archivo elegido: &lt;b&gt;%1$s&lt;/b&gt;"
+Los datos no serán borrados."</string>
+  <string name="install_title">¿Esta seguro de continuar?</string>
+  <string name="menu_title_current_version_log">¿Qué hay de nuevo?</string>
+  <string name="menu_title_pick_rom_file">Elija el paquete de actualización</string>
+  <string name="menu_title_recovery">Reiniciar en modo Recovery</string>
+  <string name="message_checkbox">Ocultar mensajes futuros del equipo de Xiaomi.eu</string>
+  <string name="message_title">¡NOTA!</string>
+  <string name="new_version">¡Nueva versión encontrada!</string>
+  <string name="no_info">No hay información disponible.</string>
+  <string name="no_mirror">Todos los espejos están fuera de línea, intente más tarde…</string>
+  <string name="no_network">Sin acceso a internet.</string>
+  <string name="no_update">¡Estas actualizado!</string>
+  <string name="no_xioamieu">"¡No estás utilizando MIUI Rom creada por el equipo de Xiaomi.eu!
+¡Las actualizaciones no están disponibles para ti!"</string>
+  <string name="notif_cancel">Cancelar</string>
+  <string name="notif_install">Instalar</string>
+  <string name="notif_new_summary">Toca para obtener detalles</string>
+  <string name="notif_new_title">¡Nueva versión disponible!</string>
+  <string name="notifications_switch">Mostrar notificaciones</string>
+  <string name="permdesc_cache_filesystem">Permite que la aplicación escriba archivos en /cache.</string>
+  <string name="permdesc_reboot">Permite que la aplicación reinicie el dispositivo.</string>
+  <string name="permlab_cache_filesystem">Acceso a caché</string>
+  <string name="permlab_reboot">Reiniciar el acceso</string>
+  <string name="pick_not_found">No se encontró un administrador de archivos adecuado.</string>
+  <string name="pick_title">Elija usando:</string>
+  <string name="recovery_desc">El dispositivo se reiniciará en modo Recovery, si no está familiarizado con el modo cancele futuras acciones. ¿Continuar?</string>
+  <string name="server_error">El servidor no responde, ¡la aplicación podría no funcionar correctamente!</string>
+  <string name="share_desc">Su versión de MIUI ha sido actualizada a %1$s, verifique el último changelog en: %2$s</string>
+  <string name="share_title">Compartir con</string>
+  <string name="stable">estable</string>
+  <string name="version">Actualmente instalado:</string>
+  <string name="weekly">semanal</string>
+  <string name="wifi_recommended">¡Sin conexión WiFi para iniciar la descarga de forma segura!</string>
+</resources>

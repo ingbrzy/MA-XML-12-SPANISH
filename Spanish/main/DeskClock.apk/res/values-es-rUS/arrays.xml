@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_in_furture">
+        <item>La alarma sonará en menos de 1 minuto</item>
+        <item>La alarma sonará en %1$s</item>
+        <item>La alarma sonará en %2$s</item>
+        <item>La alarma sonará en %1$s%2$s</item>
+        <item>La alarma sonará en %3$s</item>
+        <item>La alarma sonará en %1$s%3$s</item>
+        <item>La alarma sonará en %2$s%3$s</item>
+        <item>La alarma sonará en %1$s%2$s%3$s</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Una vez</item>
+        <item>Diariamente</item>
+        <item>Días laborales</item>
+        <item>Fin de semana</item>
+        <item>De lun a vie</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Una vez</item>
+        <item>Diariamente</item>
+        <item>De lun a vie</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>La alarma sonará en menos de 1 minuto.</item>
+        <item>La alarma sonará en %1$s.</item>
+        <item>La alarma sonará en %2$s.</item>
+        <item>La alarma sonará en %1$s y %2$s.</item>
+        <item>La alarma sonará en %3$s.</item>
+        <item>La alarma sonará en %1$s y %3$s.</item>
+        <item>La alarma sonará en %2$s y %3$s.</item>
+        <item>La alarma sonará en %1$s %2$s and %3$s.</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Bueno</item>
+        <item>Satisfactorio</item>
+        <item>Moderadamente contaminado</item>
+        <item>Malo</item>
+        <item>Muy malo</item>
+        <item>Grave</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Nunca</item>
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>25 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
+    <string-array name="countries_names_miui">
+        <item>Costa de Marfil</item>
+        <item>Ghana</item>
+        <item>Etiopía</item>
+        <item>Argelia</item>
+        <item>Malawi</item>
+        <item>Congo</item>
+        <item>Egipto</item>
+        <item>Marruecos</item>
+        <item>Guinea</item>
+        <item>Senegal</item>
+        <item>Tanzania</item>
+        <item>Yibuti</item>
+        <item>Sierra Leona</item>
+        <item>Botsuana</item>
+        <item>Zimbabue</item>
+        <item>Sudáfrica</item>
+        <item>Uganda</item>
+        <item>Sudán</item>
+        <item>Ruanda</item>
+        <item>República Democrática del Congo</item>
+        <item>Nigeria</item>
+        <item>Lesoto</item>
+        <item>Somalia</item>
+        <item>Kenia</item>
+        <item>Santo Tomé y Príncipe</item>
+        <item>Malí</item>
+        <item>Libia</item>
+        <item>Túnez</item>
+        <item>Estados Unidos</item>
+        <item>Argentina</item>
+        <item>Aruba</item>
+        <item>Paraguay</item>
+        <item>Barbados</item>
+        <item>Belice</item>
+        <item>Colombia</item>
+        <item>Argentina</item>
+        <item>México</item>
+        <item>Venezuela</item>
+        <item>Islas Caimán</item>
+        <item>Estados Unidos</item>
+        <item>Costa Rica</item>
+        <item>Curazao</item>
+        <item>Canadá</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>República Dominicana</item>
+        <item>Canadá</item>
+        <item>El Salvador</item>
+        <item>Brasil</item>
+        <item>Islas Turcas y Caicos</item>
+        <item>Granada</item>
+        <item>Guatemala</item>
+        <item>Guyana</item>
+        <item>Canadá</item>
+        <item>Cuba</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Jamaica</item>
+        <item>Bolivia</item>
+        <item>Perú</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Nicaragua</item>
+        <item>Martinica</item>
+        <item>Estados Unidos</item>
+        <item>México</item>
+        <item>Estados Unidos</item>
+        <item>Uruguay</item>
+        <item>Canadá</item>
+        <item>Bahamas</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Panamá</item>
+        <item>Estados Unidos</item>
+        <item>Trinidad y Tobago</item>
+        <item>Haití</item>
+        <item>Puerto Rico</item>
+        <item>República Dominicana</item>
+        <item>Brasil</item>
+        <item>Canadá</item>
+        <item>San Cristóbal y Nieves</item>
+        <item>Santa Lucía</item>
+        <item>Islas Vírgenes Estadounidenses</item>
+        <item>México</item>
+        <item>Canadá</item>
+        <item>Canadá</item>
+        <item>Canadá</item>
+        <item>Antártida</item>
+        <item>Svalbard y Jan Mayen</item>
+        <item>Kazajistán</item>
+        <item>Jordania</item>
+        <item>Rusia</item>
+        <item>Kazajistán</item>
+        <item>Irak</item>
+        <item>Baréin</item>
+        <item>Azerbaiyán</item>
+        <item>Tailandia</item>
+        <item>Líbano</item>
+        <item>India</item>
+        <item>Siria</item>
+        <item>Bangladesh</item>
+        <item>Emiratos Árabes Unidos</item>
+        <item>Palestina</item>
+        <item>Palestina</item>
+        <item>Vietnam</item>
+        <item>China</item>
+        <item>Indonesia</item>
+        <item>Israel</item>
+        <item>Afganistán</item>
+        <item>Pakistán</item>
+        <item>Nepal</item>
+        <item>Malasia</item>
+        <item>Kuwait</item>
+        <item>China</item>
+        <item>Filipinas</item>
+        <item>Omán</item>
+        <item>Camboya</item>
+        <item>Corea del Norte</item>
+        <item>Catar</item>
+        <item>Myanmar</item>
+        <item>Arabia Saudita</item>
+        <item>China</item>
+        <item>Corea del Sur</item>
+        <item>China</item>
+        <item>Singapur</item>
+        <item>China</item>
+        <item>Irán</item>
+        <item>Israel</item>
+        <item>Japón</item>
+        <item>Mongolia</item>
+        <item>Bermuda</item>
+        <item>España</item>
+        <item>Cabo Verde</item>
+        <item>Islandia</item>
+        <item>Islas Malvinas</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Canadá</item>
+        <item>Canadá</item>
+        <item>Canadá</item>
+        <item>Chile</item>
+        <item>Países Bajos</item>
+        <item>Andorra</item>
+        <item>Grecia</item>
+        <item>Reino Unido</item>
+        <item>Serbia</item>
+        <item>Alemania</item>
+        <item>Eslovaquia</item>
+        <item>Bélgica</item>
+        <item>Rumania</item>
+        <item>Hungría</item>
+        <item>Moldavia</item>
+        <item>Dinamarca</item>
+        <item>Irlanda</item>
+        <item>Gibraltar</item>
+        <item>Finlandia</item>
+        <item>Isla de Man</item>
+        <item>Turquía</item>
+        <item>Portugal</item>
+        <item>Reino Unido</item>
+        <item>Luxemburgo</item>
+        <item>España</item>
+        <item>Malta</item>
+        <item>Bielorrusia</item>
+        <item>Mónaco</item>
+        <item>Rusia</item>
+        <item>Noruega</item>
+        <item>Francia</item>
+        <item>República Checa</item>
+        <item>Letonia</item>
+        <item>Italia</item>
+        <item>San Marino</item>
+        <item>Bosnia y Herzegovina</item>
+        <item>Ucrania</item>
+        <item>Macedonia</item>
+        <item>Bulgaria</item>
+        <item>Suecia</item>
+        <item>Estonia</item>
+        <item>Ciudad del Vaticano</item>
+        <item>Austria</item>
+        <item>Lituania</item>
+        <item>Polonia</item>
+        <item>Croacia</item>
+        <item>Suiza</item>
+        <item>Madagascar</item>
+        <item>Maldivas</item>
+        <item>Mauricio</item>
+        <item>Nueva Zelanda</item>
+        <item>Fiyi</item>
+        <item>Guam</item>
+        <item>Estados Unidos</item>
+        <item>Australia</item>
+        <item>Nueva Caledonia</item>
+        <item>Samoa</item>
+        <item>Polinesia Francesa</item>
+        <item>Antigua y Barbuda</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Canadá</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Canadá</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>El Salvador</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Catar</item>
+        <item>China</item>
+        <item>India</item>
+        <item>India</item>
+        <item>Japón</item>
+        <item>Pakistán</item>
+        <item>India</item>
+        <item>España</item>
+        <item>Alemania</item>
+        <item>Italia</item>
+        <item>Alemania</item>
+        <item>Vietnam</item>
+        <item>Turquía</item>
+        <item>India</item>
+        <item>Brasil</item>
+        <item>Sudáfrica</item>
+        <item>Pakistán</item>
+        <item>Brasil</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Reino Unido</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>China</item>
+        <item>India</item>
+        <item>Estados Unidos</item>
+        <item>Brasil</item>
+        <item>Estados Unidos</item>
+        <item>Liberia</item>
+        <item>Sri Lanka</item>
+        <item>México</item>
+        <item>India</item>
+        <item>Reino Unido</item>
+        <item>Ucrania</item>
+        <item>Rusia</item>
+        <item>Polonia</item>
+        <item>Polonia</item>
+        <item>Alemania</item>
+        <item>Finlandia</item>
+        <item>Israel</item>
+        <item>Puerto Rico</item>
+        <item>Honduras</item>
+        <item>Surinam</item>
+        <item>Ecuador</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>25 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
+    <string-array name="time">
+        <item>%1$s</item>
+        <item>%2$s</item>
+        <item>%1$s%2$s</item>
+        <item>%3$s</item>
+        <item>%1$s%3$s</item>
+        <item>%2$s%3$s</item>
+        <item>%1$s%2$s%3$s</item>
+    </string-array>
+    <string-array name="timer_duration">
+        <item>Total %1$s</item>
+        <item>Total %2$s</item>
+        <item>Total %1$s %2$s</item>
+        <item>Total %3$s</item>
+        <item>Total %1$s %3$s</item>
+        <item>Total %2$s %3$s</item>
+        <item>Total %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>No hacer nada</item>
+        <item>Dormitar</item>
+        <item>Descartar</item>
+    </string-array>
+    <string-array name="weather_tips_value">
+        <item>Reduzca las actividades al aire libre.</item>
+        <item>Las calles están resbalosas el día de hoy.</item>
+        <item>El tiempo es tomentoso, tenga cuidado.</item>
+        <item>Es un día con niebla. Conduzca de manera responsable.</item>
+        <item>El aire está contaminado, use una máscara.</item>
+        <item>No olvide su paraguas al salir.</item>
+        <item>Tenga cuidado en el camino.</item>
+        <item>Hoy está granizando, tenga cuidado.</item>
+        <item>Se aproxima una tormenta de arena, use una máscara.</item>
+        <item>¡Tenga un buen día!</item>
+    </string-array>
+</resources>
