@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
  <string name="allow_oaid_used_desc">"La aplicaciones no tendrán acceso a ninguna ID a no ser que tu explícitamente de lo permitas. Es posible que algunas funciones de recomendación personal no funcionen correctamente cuando esta función está activada."</string>
-     <string name="app_name">Preference</string>
-     <string name="auto_clean_description">"About this feature
-1. Run this feature once or twice if you find that your speaker is lightly blocked by dust.
-2. If the speaker is blocked heavily, run this feature 2-5 times while shaking your device with the speaker facing downwards."</string>
-     <string name="auto_clean_summary">Play a 30-second audio to clear the speaker</string>
-     <string name="auto_clean_title">Clear speaker</string>
-     <string name="backup_at_once">Back up</string>
-     <string name="backup_more_settings">Settings</string>
-     <string name="bluetooth_device_nearby_title">Nearby devices</string>
-     <string name="bottom_function_settings">Functions of additional buttons</string>
-     <string name="change_lock_screen_password_title">Change screen lock</string>
-     <string name="clear_data_alert_info">All backups stored on this device will be deleted permanently. Back up important items to your computer and Xiaomi Cloud before you continue.</string>
+     <string name="app_name">Preferencia</string>
+     <string name="auto_clean_description">"Sobre esta función
+1. Ejecuta esta función una o dos veces si descubres que tu altavoz está ligeramente bloqueado por polvo.
+2. Si el altavoz está fuertemente bloqueado, ejecuta esta función 2-5 veces mientras sacudes tu dispositivo con el altavoz mirando hacia abajo."</string>
+     <string name="auto_clean_summary">Reproduce un audio de 30 segundos para limpiar el altavoz</string>
+     <string name="auto_clean_title">Limpiar altavoz</string>
+     <string name="backup_at_once">Copia de seguridad</string>
+     <string name="backup_more_settings">Ajustes</string>
+     <string name="bluetooth_device_nearby_title">Dispositivos cercanos</string>
+     <string name="bottom_function_settings">Funciones de botones adicionales</string>
+     <string name="change_lock_screen_password_title">Cambiar bloqueo de pantalla</string>
+     <string name="clear_data_alert_info">Todas las copias de seguridad en este dispositivos serán eliminadas permanentemente. Resplada los elementos importantes en tu ordenador y Xiaomi Cloud antes de continuar.</string>
      <string name="cloud_category_text">Cloud</string>
      <string name="computer_backup_summary">Back up and restore items using a computer</string>
      <string name="computer_backup_title">Computer</string>
@@ -1486,7 +1486,7 @@ Debes restablecer los datos de fábrica para volver a usar el teléfono. Cuando 
 	<string name="dangerous_option">Opciones de desarrollador de alto riesgo</string>
 	<string name="dangerous_option_hint">\"%1$s\" está habilitado. Toque para cambiar la configuración.</string>
 	<string name="dangerous_option_hint_title">Característica de alto riesgo habilitada</string>
-	<string name="dangerous_option_switch_title">Notificar sobre características de alto riesgo</string>
+	<string name="dangerous_option_switch_title">Notificar sobre funciones de alto riesgo</string>
 	<string name="dark_ui_mode">Modo nocturno</string>
 	<string name="dark_ui_mode_title">Establecer modo nocturno</string>
     <string name="dashboard_title">Ajustes</string>
@@ -1667,7 +1667,7 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
     <string name="details_subtitle">Detalles de uso</string>
     <string name="dev_logpersist_clear_warning_message">Cuando ya no estamos monitorizando con el logger continuo, debemos eliminar los datos del logger que quedan en el dispositivo.</string>
     <string name="dev_logpersist_clear_warning_title">¿Limpiar almacenamiento del logger persistente?</string>
-    <string name="dev_settings_warning_message">Estos ajustes están diseñados sólo para desarrolladores. Al activar estas características, tu dispositivo y aplicaciones podrían no funcionar correctamente o causar errores.</string>
+    <string name="dev_settings_warning_message">Estos ajustes están diseñados sólo para desarrolladores. Al activar estas funciones, tu dispositivo y aplicaciones podrían no funcionar correctamente o causar errores.</string>
     <string name="dev_settings_warning_title">¿Permitir ajustes de desarrollo?</string>
     <string name="developer_build">Beta</string>
     <string name="developer_density_summary">%d dp</string>
@@ -2992,7 +2992,7 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="miui_lab_super_resolution_desc">Hacer las imágenes más nítidas</string>
     <string name="miui_lab_super_resolution_title">Súper resolución</string>
 	<string name="miui_master_clear_summary">Eliminar todos los datos del teléfono</string>
-	<string name="miui_more_special_feature">Descubrir nuevas características</string>
+	<string name="miui_more_special_feature">Descubrir nuevas funciones</string>
 	<string name="miui_sos_audio_summary">Reproducir mensaje SOS después de que el contacto de emergencia se recupera</string>
 	<string name="miui_sos_audio_title">Mensaje de SOS</string>
 	<string name="miui_sos_call_log_duration">Duración</string>
@@ -5198,7 +5198,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="tts_status_title">Estado del idioma por defecto</string>
     <string name="turn_off_common_password_confirm_msg">También se desactivará el bloqueo de pantalla.</string>
     <string name="turn_off_keyguard_password_alert_title">Desactivar</string>
-    <string name="turn_off_keyguard_password_confirm_msg">Algunas características de seguridad no funcionarán sin tu contraseña.</string>
+    <string name="turn_off_keyguard_password_confirm_msg">Algunas funciones de seguridad no funcionarán sin tu contraseña.</string>
     <string name="turn_off_keyguard_password_wait_dialog">Desactivando contraseña…</string>
     <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">No podrás desbloquear el dispositivo con tu huella tras desactivar la contraseña.</string>
     <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Después de desactivar la contraseña de la pantalla de bloqueo, las huellas guardadas se eliminarán. Ya no podrás desbloquear el dispositivo usando tu huella.</string>
@@ -5256,7 +5256,7 @@ Las huellas digitales guardadas también se eliminarán de este dispositivo y no
 
 Las huellas digitales guardadas también se eliminarán del perfil y no podrás utilizarlas para desbloquearlo, autorizar compras ni iniciar sesión en aplicaciones."</string>
     <string name="unlock_disable_frp_warning_content_pin_profile">Las funciones de protección del perfil no funcionan sin el PIN.</string>
-    <string name="unlock_disable_frp_warning_content_profile">Las características del perfil de protección no funcionarán sin tu contraseña.</string>
+    <string name="unlock_disable_frp_warning_content_profile">Las funciones del perfil de protección no funcionarán sin tu contraseña.</string>
     <string name="unlock_disable_frp_warning_content_unknown">Las funciones de protección del dispositivo no funcionarán sin tu bloqueo de pantalla.</string>
     <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Las funciones de protección del dispositivo no funcionarán sin tu bloqueo de pantalla.
 
@@ -5342,7 +5342,7 @@ Las huellas digitales guardadas también se eliminarán del perfil y no podrás 
     <string name="usb_adb_input_desc">Permitir la concesión de permisos y la simulación de entrada a través de la depuración USB</string>
     <string name="usb_audio_disable_routing">Desactivar routing de audio USB</string>
     <string name="usb_audio_disable_routing_summary">Desactivar routing automático para periféricos USB de audio</string>
-    <string name="usb_charging_summary">Desactiva el resto de características de conexión USB para acelerar la carga.</string>
+    <string name="usb_charging_summary">Desactiva el resto de funciones de conexión USB para acelerar la carga.</string>
     <string name="usb_charging_title">Acelerar la carga</string>
     <string name="usb_connection_category">Conectar como</string>
     <string name="usb_eject">Expulsar almacenamiento USB</string>
@@ -6831,7 +6831,7 @@ Actualizar la configuración a:
 	<string name="battery_suggestion_title">"Mejora la duración de la batería del teléfono"</string>
 	<string name="battery_tip_dialog_message">"Su teléfono ha sido utilizado más de lo habitual. Su batería puede agotarse antes de lo esperado. Top %1$d aplicaciones que usaste desde la carga completa:"</string>
 	<string name="battery_tip_dialog_summary_message">"Sus aplicaciones están utilizando una cantidad normal de batería. Si las aplicaciones consumen demasiada batería, su teléfono le sugerirá acciones que puede tomar. Siempre puede activar el ahorro de batería si tiene poca batería."</string>
-	<string name="battery_tip_early_heads_up_done_summary">"Algunas características pueden ser limitadas"</string>
+	<string name="battery_tip_early_heads_up_done_summary">"Algunas funciones pueden ser limitadas"</string>
 	<string name="battery_tip_early_heads_up_done_title">"El ahorro de batería está encendido"</string>
 	<string name="battery_tip_early_heads_up_summary">"La batería puede agotarse antes de lo habitual"</string>
 	<string name="battery_tip_early_heads_up_title">"Activar ahorro de batería"</string>
@@ -7072,7 +7072,7 @@ Actualizar la configuración a:
 	<string name="expand_button_title">"Avanzado"</string>
 	<string name="failed_to_erase_text">"Desactive la contraseña de la pantalla de bloqueo antes de ingresar el código \"1217\"."</string>
 	<string name="failed_to_erase_title">"No puedo completar esta acción."</string>
-	<string name="feature_flags_dashboard_title">"Banderas características"</string>
+	<string name="feature_flags_dashboard_title">"Banderas funciones"</string>
 	<string name="feedback">"Realimentación"</string>
 	<string name="fingerprint_delete_message">"¿Quieres borrar esta huella digital?"</string>
 	<string name="fingerprint_delete_title">"Eliminar ' %1$s '"</string>
@@ -7223,7 +7223,7 @@ Actualizar la configuración a:
 	<string name="miui_sos_call_log_time_unit">"%1$d m %2$d s"</string>
 	<string name="miui_touch_filtered_touchassistant_warning">"El diálogo de permisos está cubierto por la bola rápida. Aleja la bola rápida o desactiva esta función."</string>
 	<string name="model_summary">"Modelo: %1$s"</string>
-	<string name="more_dangerous_option_hint">"Las características de alto riesgo que incluyen \" %1$s \" están habilitadas. Toque para cambiar la configuración."</string>
+	<string name="more_dangerous_option_hint">"Las funciones de alto riesgo que incluyen \" %1$s \" están habilitadas. Toque para cambiar la configuración."</string>
 	<string name="more_installed_services_title">"Más servicios descargados"</string>
 	<string name="music_dirac_mode_half_in_ear">"Mi mitad en la oreja"</string>
 	<string name="music_dirac_mode_in_ear2">"Mi In-Ear 2"</string>
@@ -7308,7 +7308,7 @@ Actualizar la configuración a:
 	<string name="print_configuring_state_title_template">"Configurando %1$s"</string>
 	<string name="priority_summary">"Mostrar notificaciones en la parte superior de la lista."</string>
 	<string name="priority_title">"Prioridad"</string>
-	<string name="private_dns_help_message">"&lt;annotation id = \"url\"&gt; Obtenga más información &lt;/annotation&gt; sobre las características de DNS privado"</string>
+	<string name="private_dns_help_message">"&lt;annotation id = \"url\"&gt; Obtenga más información &lt;/annotation&gt; sobre las funciones de DNS privado"</string>
 	<string name="private_dns_mode_off">"Apagado"</string>
 	<string name="private_dns_mode_opportunistic">"Automático"</string>
 	<string name="private_dns_mode_provider">"Nombre de host del proveedor de DNS privado"</string>
