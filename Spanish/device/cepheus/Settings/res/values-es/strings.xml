@@ -350,7 +350,7 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="allow_mock_location">Permitir localizaciones ficticias</string>
     <string name="allow_mock_location_summary">Permitir localizaciones ficticias</string>
     <string name="allow_oaid_used">Permitir usar el ID del dispositivo</string>
-    <string name="allow_overlay_description">Permite que esta aplicación se muestre sobre otras aplicaciones que estés utilizando. Esto puede interferir en el uso de dichas aplicaciones o cambiar el modo en el que se muestran o se comportan.</string>
+    <string name="allow_overlay_description">Permite que esta aplicación se muestre sobre otras aplicaciones que estés usando. Esto puede interferir en el uso de dichas aplicaciones o cambiar el modo en el que se muestran o se comportan.</string>
     <string name="allow_sound_title">Permitir sonido</string>
     <string name="allow_vibrate_title">Permitir vibración</string>
     <string name="alpha_build">Alfa</string>
@@ -1186,7 +1186,7 @@ Bluetooth"</string>
     <string name="bootloader_device_bind_fail">No se pudo verificar, espera unos minutos e inténtalo de nuevo</string>
     <string name="bootloader_device_bind_msg">Preparándose para añadir cuenta y dispositivo…</string>
     <string name="bootloader_device_bind_no_account">Primero inicia sesión en tu Cuenta Mi</string>
-    <string name="bootloader_device_bind_no_data_network">Desactiva el Wi-Fi y añade tu cuenta y dispositivo utilizando datos móviles.</string>
+    <string name="bootloader_device_bind_no_data_network">Desactiva el Wi-Fi y añade tu cuenta y dispositivo usando datos móviles.</string>
     <string name="bootloader_device_bind_no_network">Conéctate a la red e inténtalo de nuevo</string>
     <string name="bootloader_device_bind_no_sim">Inserta tarjeta SIM y vuelve a intentarlo.</string>
     <string name="bootloader_device_bind_server_code">No se pudo añadir. Código de error:</string>
@@ -1196,7 +1196,7 @@ Bluetooth"</string>
     <string name="bootloader_locked_answer_1">Bloqueamos los dispositivos para asegurarnos de que son seguros y de que tu información personal no es compartida con terceros. Si necesitas entrar al Modo Fastboot para flashear el dispositivo, puedes desbloquearlo.</string>
     <string name="bootloader_locked_answer_1_warning">Recuerda: No podrás usar \"Encontrar dispositivo\" después de que el teléfono se desbloquee.</string>
     <string name="bootloader_locked_answer_2">"1. Asegúrate de haber insertado la tarjeta SIM en tu dispositivo.
-2. Desactiva el Wi-Fi y activa los datos móviles. Asegúrate de que tu dispositivo se puede conectar a internet utilizando datos móviles.
+2. Desactiva el Wi-Fi y activa los datos móviles. Asegúrate de que tu dispositivo se puede conectar a internet usando datos móviles.
 3. Toca \"Añadir cuenta\" para asociar tu Cuenta Mi con este dispositivo.
 4. Descargua la herramienta de desbloqueo de nuestro sitio web. Ten presente que debes desbloquear los dispositivos usando un ordenador. Descarga la herramienta aquí:"</string>
     <string name="bootloader_locked_answer_2_no_sim">"1. Pulsa \"Añadir cuenta\" para asociar tu Cuenta Mi con este dispositivo.
@@ -1607,7 +1607,7 @@ Puedes desactivar esta función en [Settings]"</string>
     <string name="crypt_keeper_content_title">Cifrar dispositivo</string>
     <string name="crypt_keeper_data_corrupt_summary">"La contraseña que has introducido es correcta pero, lamentablemente, tus datos están dañados. 
 
-Para seguir utilizando el teléfono, debes restablecer el estado de fábrica. Al configurar el dispositivo después de este proceso, podrás restaurar los datos incluidos en la copia de seguridad de tu cuenta de Google."</string>
+Para seguir usando el teléfono, debes restablecer el estado de fábrica. Al configurar el dispositivo después de este proceso, podrás restaurar los datos incluidos en la copia de seguridad de tu cuenta de Google."</string>
     <string name="crypt_keeper_data_corrupt_title">Descifrado incorrecto</string>
     <string name="crypt_keeper_decrypt_methods">Después de cifrar tu teléfono, suponiendo que has configurado un bloqueo de pantalla (es decir, un patrón o PIN numérico o contraseña), deberás desbloquear la pantalla para descifrar el teléfono cada vez que lo enciendas. La única manera diferente de descifrar es realizar un restablecimiento de datos de fábrica, se eliminarán todos tus datos.</string>
     <string name="crypt_keeper_decrypt_methods_cannot_decrypt">Si has cifrado tu teléfono, deberás introducir tu contraseña, PIN o patrón cada vez que reinicies el dispositivo para desbloquearlo.</string>
@@ -1951,7 +1951,7 @@ Para solucionarlo, puedes detener %1$s y evitar que se ejecute en segundo plano.
     <string name="dialog_background_check_title">¿Desactivar el uso en segundo plano y detener la aplicación?</string>
     <string name="dialog_chose_item">Seleccionar un elemento para mostrar</string>
     <string name="dialog_content_login">¿Iniciar sesión en Cuenta Mi para actualizar?</string>
-    <string name="dialog_location_message">"Tu teléfono no puede administrar el uso de la batería con normalidad porque %1$s solicita tu ubicación cuando no estás utilizando la aplicación.
+    <string name="dialog_location_message">"Tu teléfono no puede administrar el uso de la batería con normalidad porque %1$s solicita tu ubicación cuando no estás usando la aplicación.
 
 Para solucionarlo, puedes desactivar la ubicación de esta aplicación."</string>
     <string name="dialog_location_ok">Desactivar</string>
@@ -3945,7 +3945,7 @@ Selecciona tu sistema operativo:"</string>
     <string name="normal_info">Parece que todo funciona con normalidad</string>
     <string name="normal_smartcover_title">Fondo opaco</string>
     <string name="not_allowed">La tarjeta SIM no permite establecer conexión con esta red.</string>
-    <string name="not_battery_optimizing">No se está utilizando la optimización de la batería</string>
+    <string name="not_battery_optimizing">No se está usando la optimización de la batería</string>
     <string name="not_installed">No instalada para este usuario</string>
     <string name="not_set">Sin definir</string>
     <string name="notch_and_status_bar_settings">Notch y barra de estado</string>
@@ -4282,7 +4282,7 @@ OTG se desactiva automáticamente después de 10 minutos de inactividad."</strin
     <string name="pick_up_gesture_wakeup_title">Levantar para reactivar</string>
     <string name="picture_color_mode">Modo color de imagen</string>
     <string name="picture_color_mode_desc">Usar sRGB</string>
-    <string name="picture_in_picture_app_detail_summary">Permite que la aplicación cree una ventana imagen en imagen mientras esté abierta o después de que hayas salido de ella (por ejemplo, para seguir viendo un vídeo). La ventana se muestra sobre otras aplicaciones que estés utilizando.</string>
+    <string name="picture_in_picture_app_detail_summary">Permite que la aplicación cree una ventana imagen en imagen mientras esté abierta o después de que hayas salido de ella (por ejemplo, para seguir viendo un vídeo). La ventana se muestra sobre otras aplicaciones que estés usando.</string>
     <string name="picture_in_picture_app_detail_switch">Permitir imagen en imagen</string>
     <string name="picture_in_picture_app_detail_title">Imagen en imagen</string>
     <string name="picture_in_picture_empty_text">Las aplicaciones instaladas no admiten el modo Imagen en imagen</string>
@@ -5293,7 +5293,7 @@ Para usar esta opción:
     <string name="security_encryption_attention_info">Puedes cifrar cuentas, ajustes, aplicaciones descargadas y tus datos, contenido multimedia y otros archivos.</string>
     <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Importante</string>
-    <string name="security_encryption_close_dialog_info">Elegir no cifrar el dispositivo utilizando la contraseña de pantalla de bloqueo podría hacer que algunos servicios de Google dejen de funcionar.</string>
+    <string name="security_encryption_close_dialog_info">Elegir no cifrar el dispositivo usando la contraseña de pantalla de bloqueo podría hacer que algunos servicios de Google dejen de funcionar.</string>
     <string name="security_encryption_close_dialog_title">Volver a la protección de contraseña predeterminada</string>
     <string name="security_encryption_diaglog_continue">Siguiente</string>
     <string name="security_encryption_is_used">Activado</string>
@@ -5366,7 +5366,7 @@ Es posible que una persona que se parezca mucho a ti, como tu hijo o un gemelo, 
     <string name="security_settings_fingerprint_enroll_disclaimer">Además de desbloquear el teléfono, también puedes utilizar tu huella digital para autorizar acceso a aplicaciones y compras. <annotation id="url">Más información</annotation></string>
     <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">" La opción de bloqueo de pantalla está inhabilitada. Para obtener más información, ponte en contacto con el administrador de la organización. "<annotation id="admin_details">Más detalles</annotation>"
 
-Puedes seguir utilizando tu huella digital para autorizar compras y acceder a las aplicaciones. "<annotation id="url">Más información</annotation></string>
+Puedes seguir usando tu huella digital para autorizar compras y acceder a las aplicaciones. "<annotation id="url">Más información</annotation></string>
     <string name="security_settings_fingerprint_enroll_done">Listo</string>
     <string name="security_settings_fingerprint_enroll_enrolling_skip">Hacerlo más adelante</string>
     <string name="security_settings_fingerprint_enroll_error_dialog_title">Registro no completado</string>
@@ -5560,7 +5560,7 @@ Nota: No puedes utilizar tu huella digital para desbloquear este dispositivo. Si
     <string name="sim_cards_changed_message_summary">Toca para establecer actividades</string>
     <string name="sim_cellular_data_unavailable">Los datos móviles no están disponibles</string>
     <string name="sim_cellular_data_unavailable_summary">Toca para seleccionar una SIM de datos</string>
-    <string name="sim_change_data_message">Estás utilizando %2$s para los datos móviles. Si cambias a %1$s, no se utilizará más a %2$s para los datos móviles.</string>
+    <string name="sim_change_data_message">Estás usando %2$s para los datos móviles. Si cambias a %1$s, no se utilizará más a %2$s para los datos móviles.</string>
     <string name="sim_change_data_ok">Utilizar %1$s</string>
     <string name="sim_change_data_title">¿Usar %1$s para los datos móviles?</string>
     <string name="sim_change_failed">"No se puede modificar el PIN.
@@ -6998,7 +6998,7 @@ Revisa la política de privacidad de tu proveedor de servicios."</string>
     <string name="wifi_context_menu_connect">Conectar</string>
     <string name="wifi_context_menu_forget">Olvidar</string>
     <string name="wifi_coverage_extend">Activar extensión de cobertura Wi‑Fi</string>
-    <string name="wifi_coverage_extend_summary">Aumentar la cobertura Wi‑Fi utilizando un punto de acceso</string>
+    <string name="wifi_coverage_extend_summary">Aumentar la cobertura Wi‑Fi usando un punto de acceso</string>
     <string name="wifi_data_template">Datos Wi-Fi: ^1</string>
     <string name="wifi_data_usage">Uso de datos con Wi‑Fi</string>
     <string name="wifi_datanetwork_switch_not_remind">No mostrar de nuevo</string>

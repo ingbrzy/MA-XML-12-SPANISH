@@ -35,22 +35,22 @@
      <string name="face_data_input_camera_fail">"No se pudo cargar la cámara"</string>
      <string name="face_data_input_camera_ok">Cargando cámara…</string>
      <string name="face_data_input_cancel_msg">"No se pudieron añadir datos faciales"</string>
-     <string name="face_data_input_ok">Done</string>
-     <string name="face_data_input_ok_title">Added successfully</string>
-     <string name="face_data_input_structure_title">3D face data</string>
-     <string name="face_data_input_title">Add face data</string>
-     <string name="face_data_introduction_msg">Face data can be used to unlock your device or verify your identity. Add Lock screen password before adding your face data.</string>
-     <string name="face_data_introduction_next">Next</string>
+     <string name="face_data_input_ok">Hecho</string>
+     <string name="face_data_input_ok_title">Añadido satisfactoriamente</string>
+     <string name="face_data_input_structure_title">Datos faciales 3D</string>
+     <string name="face_data_input_title">Añadir datos faciales</string>
+     <string name="face_data_introduction_msg">Los datos faciales pueden ser usados para desbloquear tu dispositivo o verificar tu identidad. Añade una contraseña de bloqueo de pantalla antes de añadir tus datos faciales.</string>
+     <string name="face_data_introduction_next">Siguiente</string>
      <string name="face_data_introduction_title">Face recognition</string>
-     <string name="face_data_manage_delete">Delete face data?</string>
-     <string name="face_data_manage_delete_msg">Delete face data</string>
-     <string name="face_data_manage_delete_sure">"You won't be able to unlock device using your face data after you delete it."</string>
-     <string name="face_data_manage_unlock_liftcamera_msg">After the screen lights up, swipe up to unlock the device using face data.</string>
-     <string name="face_data_manage_unlock_msg">Unlock device using your face data</string>
-     <string name="face_data_manage_unlock_slide_msg">Replace slider shortcuts with face unlock</string>
-     <string name="face_data_manage_unlock_title">Unlock using face data</string>
-     <string name="face_data_siggesstion_next">Next</string>
-     <string name="face_data_siggesstion_next_time">Next (%ds)</string>
+     <string name="face_data_manage_delete">¿Eliminar datos faciciales?</string>
+     <string name="face_data_manage_delete_msg">Eliminar datos faciales</string>
+     <string name="face_data_manage_delete_sure">"No podrás desbloquear tu dispositivo con tus datos faciales después de eliminarlos."</string>
+     <string name="face_data_manage_unlock_liftcamera_msg">Después de que la pantalla se encienda, desliza hacia arriba para desbloquear tu dispositivo usando datos faciales.</string>
+     <string name="face_data_manage_unlock_msg">Desbloquear dispositivo usando tus datos faciales</string>
+     <string name="face_data_manage_unlock_slide_msg">Reemplazar los atajos deslizantes con el debloqueo facial</string>
+     <string name="face_data_manage_unlock_title">Desbloquear usando datos faciales</string>
+     <string name="face_data_siggesstion_next">Siguiente</string>
+     <string name="face_data_siggesstion_next_time">Siguiente (%ds)</string>
      <string name="face_data_suggesstion_first">Security issues: Face unlock is less secure than a PIN, password, or pattern. Your device might be unlocked with your photo, as well as by people or objects with similar appearance.</string>
      <string name="face_data_suggesstion_second">"Make sure all parts of your face aren't covered by objects and are clearly visible. Your face should be well-lit as well."</string>
      <string name="face_unlock">Face unlock</string>
@@ -222,7 +222,7 @@ Before using our services, read and agree to our %s."</string>
      <string name="structure_face_unlock_model_other_suggestion_3d">"El reconocimiento facial 3D es relativamente seguro. Es muy poco probable que tu dispositivo sea desbloqueado con una foto tuya cuando esta característica está activada. Sin embargo, es posible que sea desbloqueado por personas u objetos parecidos a ti."</string>
      <string name="structure_face_unlock_model_other_title">Reconocimiento facial</string>
      <string name="structure_face_unlock_not_same_person">"Tienes que completar todos los pasos tú mismo. No cambies de lugar con nadie."</string>
-     <string name="structure_face_unlock_tof_covered">"No se pudieron agregar datos faciales. Muévase más lejos de la pantalla."</string>
+     <string name="structure_face_unlock_tof_covered">"No se pudieron añadir datos faciales. Muévase más lejos de la pantalla."</string>
      <string name="three_gesture_long_press">Presiona y mantenga con %d dedos</string>
      <string name="turn_off_keyguard_password_title">Desactivar el bloqueo de pantalla</string>
      <string name="unlock_failed">Error interno</string>
@@ -449,7 +449,7 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
 	<string name="allow_device_id_access">Aplicaciones con acceso al ID del Dispositivo</string>
     <string name="allow_mock_location">Permitir localizaciones ficticias</string>
     <string name="allow_mock_location_summary">Permitir localizaciones ficticias</string>
-    <string name="allow_overlay_description">Permite que esta aplicación se muestre sobre otras aplicaciones que estés utilizando. Esto puede interferir en el uso de dichas aplicaciones o cambiar el modo en que se muestran o se comportan.</string>
+    <string name="allow_overlay_description">Permite que esta aplicación se muestre sobre otras aplicaciones que estés usando. Esto puede interferir en el uso de dichas aplicaciones o cambiar el modo en que se muestran o se comportan.</string>
     <string name="allow_sound">Permitir sonido</string>
     <string name="alpha_build">Alfa</string>
     <string name="always">Siempre</string>
@@ -707,7 +707,7 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="back_key">Atrás</string>
     <string name="background_activity_summary">Permite que la aplicación se ejecute en segundo plano</string>
     <string name="background_activity_summary_disabled">La aplicación no puede funcionar en segundo plano</string>
-    <string name="background_activity_summary_off">La actividad de la aplicación en segundo plano es limitada cuando no se está utilizando</string>
+    <string name="background_activity_summary_off">La actividad de la aplicación en segundo plano es limitada cuando no se está usando</string>
     <string name="background_activity_summary_on">La aplicación puede funcionar en segundo plano cuando no se está usando</string>
     <string name="background_activity_title">Actividad en segundo plano</string>
     <string name="background_check_pref">comprobación de uso en segundo plano</string>
@@ -1132,7 +1132,7 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="bootloader_locked_answer_1">Bloqueamos los dispositivos para asegurarnos de que son seguros y de que tu información personal no es compartida con terceros. Si necesitas entrar al Modo Fastboot para flashear el dispositivo, puedes desbloquearlo.</string>
     <string name="bootloader_locked_answer_1_warning">Recuerda: No podrás usar \"Localizar dispositivo\" después de que el teléfono se desbloquee.</string>
     <string name="bootloader_locked_answer_2">"1. Asegúrate de haber insertado la tarjeta SIM en tu dispositivo.
-2. Pulsa \"Agregar cuenta\" para asociar tu Mi Account con este dispositivo.
+2. Pulsa \"Añadir cuenta\" para asociar tu Mi Account con este dispositivo.
 3. Descarga la herramienta de desbloqueo de nuestro sitio web. Ten presente que debes desbloquear los dispositivos usando un ordenador. Descarga la herramienta aquí:"</string>
     <string name="bootloader_locked_check_status">Añadir cuenta y dispositivo</string>
     <string name="bootloader_locked_question_1">¿Por qué deberían bloquearse los dispositivos?</string>
@@ -1435,7 +1435,7 @@ Esta función puede ser desactivada en [Ajustes]"</string>
     <string name="crypt_keeper_content_title">Cifrar dispositivo</string>
     <string name="crypt_keeper_data_corrupt_summary">"La contraseña que has introducido es correcta pero, lamentablemente, tus datos están dañados. 
 
-Para seguir utilizando el teléfono, debes restablecer los datos de fábrica. Al configurar el dispositivo después de este proceso, podrás restaurar los datos incluidos en la copia de seguridad de tu cuenta de Google."</string>
+Para seguir usando el teléfono, debes restablecer los datos de fábrica. Al configurar el dispositivo después de este proceso, podrás restaurar los datos incluidos en la copia de seguridad de tu cuenta de Google."</string>
     <string name="crypt_keeper_data_corrupt_title">Descifrado incorrecto</string>
     <string name="crypt_keeper_decrypt_methods">Después de encriptar tu teléfono, suponiendo que has configurado un bloqueo de pantalla (es decir, un patrón o PIN numérico o contraseña), deberás desbloquear la pantalla para desencriptar el teléfono cada vez que lo enciendas. La única manera diferente de desencriptar es realizar un restablecimiento de datos de fábrica, se eliminarán todos tus datos.</string>
     <string name="crypt_keeper_decrypt_methods_cannot_decrypt">Si has cifrado tu teléfono, deberás introducir tu contraseña, PIN o patrón cada vez que reinicies el dispositivo para desbloquearlo.</string>
@@ -3035,7 +3035,7 @@ Hay otros usuarios presentes en este dispositivo.
 	<string name="miui_sos_remind_sendnow">Enviar ahora</string>
 	<string name="miui_sos_remind_title">Atención</string>
 	<string name="miui_sos_settings_alert_contacts_repeat">"No puedes añadir contactos duplicados."</string>
-	<string name="miui_sos_settings_alert_contacts_too_many">Puedes agregar hasta 3 contactos de emergencia..</string>
+	<string name="miui_sos_settings_alert_contacts_too_many">Puedes añadir hasta 3 contactos de emergencia..</string>
 	<string name="miui_sos_settings_category">Opciones de SOS</string>
 	<string name="miui_sos_statusbar_summary">Pulse para desactivarlo</string>
 	<string name="miui_sos_statusbar_title">SOS de Emergencia está activo</string>
@@ -3300,7 +3300,7 @@ Selecciona tu sistema operativo:"</string>
     <string name="normal">Normal</string>
     <string name="normal_info">Todo funciona normalmente</string>
     <string name="normal_smartcover_title">Fondo opaco</string>
-    <string name="not_battery_optimizing">No se está utilizando la optimización de la batería</string>
+    <string name="not_battery_optimizing">No se está usando la optimización de la batería</string>
     <string name="not_installed">No instalada para este usuario</string>
     <string name="notch_force_black_desc">Activar para oscurecer el área alrededor del notch</string>
     <string name="notch_force_black_title">Ocultar notch</string>
@@ -3545,7 +3545,7 @@ También concede a la aplicación la capacidad de activar o desactivar el modo N
     <string name="pick_up_gesture_wakeup_title">Levantar para reactivar</string>
     <string name="picture_color_mode">Modo color de imagen</string>
     <string name="picture_color_mode_desc">Usar sRGB</string>
-    <string name="picture_in_picture_app_detail_summary">Permite que la aplicación cree una ventana imagen en imagen mientras esté abierta o después de que hayas salido de ella (por ejemplo, para seguir viendo un vídeo). La ventana se muestra sobre otras aplicaciones que estés utilizando.</string>
+    <string name="picture_in_picture_app_detail_summary">Permite que la aplicación cree una ventana imagen en imagen mientras esté abierta o después de que hayas salido de ella (por ejemplo, para seguir viendo un vídeo). La ventana se muestra sobre otras aplicaciones que estés usando.</string>
     <string name="picture_in_picture_app_detail_switch">Permitir imagen en imagen</string>
     <string name="picture_in_picture_app_detail_title">Imagen en imagen</string>
     <string name="picture_in_picture_empty_text">Las aplicaciones instaladas no admiten el modo Imagen en imagen</string>
@@ -4380,7 +4380,7 @@ Para ello, sigue estos pasos:
     <string name="security_encryption_attention_4">Asegúrate de recordar la contraseña de la pantalla de bloqueo, o deberás restaurar el dispositivo al estado de fábrica.</string>
     <string name="security_encryption_attention_info">Puedes cifrar cuentas, ajustes, aplicaciones descargadas y tus datos, contenido multimedia y otros archivos.</string>
     <string name="security_encryption_attention_title">Importante</string>
-    <string name="security_encryption_close_dialog_info">Elegir no cifrar el dispositivo utilizando la contraseña de pantalla de bloqueo podría hacer que algunos servicios de Google dejen de funcionar.</string>
+    <string name="security_encryption_close_dialog_info">Elegir no cifrar el dispositivo usando la contraseña de pantalla de bloqueo podría hacer que algunos servicios de Google dejen de funcionar.</string>
     <string name="security_encryption_close_dialog_title">Volver a la protección de contraseña predeterminada</string>
     <string name="security_encryption_diaglog_continue">Proximo</string>
     <string name="security_encryption_is_used">Activado</string>
@@ -4403,7 +4403,7 @@ Para ello, sigue estos pasos:
     <string name="security_settings_fingerprint_enroll_disclaimer">Además de desbloquear el teléfono, también puedes utilizar tu huella digital para autorizar acceso a aplicaciones y compras. <annotation id="url">Más información</annotation></string>
     <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">" La opción de bloqueo de pantalla está inhabilitada. Para obtener más información, ponte en contacto con el administrador de la organización. "<annotation id="admin_details">Más detalles</annotation>"
 
-Puedes seguir utilizando tu huella digital para autorizar compras y acceder a las aplicaciones. "<annotation id="url">Más información</annotation></string>
+Puedes seguir usando tu huella digital para autorizar compras y acceder a las aplicaciones. "<annotation id="url">Más información</annotation></string>
     <string name="security_settings_fingerprint_enroll_done">Listo</string>
     <string name="security_settings_fingerprint_enroll_error_dialog_title">Registro no completado</string>
     <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">El registro de la huella digital no se ha realizado correctamente. Vuelve a intentarlo o utiliza otro dedo.</string>
@@ -4491,7 +4491,7 @@ Nota: No puedes usar tu huella digital para desbloquear este dispositivo. Para o
     <string name="settings_manual_activity_title">Manual</string>
     <string name="settings_manual_activity_unavailable">Error al intentar cargar las licencias.</string>
     <string name="settings_notify_need_backup">Realice una copia de seguridad de su configuración en Mi Cloud para acceder a ellos luego de que cambie de teléfono.</string>
-    <string name="settings_notify_phone_recycled">Su número de teléfono ha sido reciclado. Toque para agregar un número de teléfono diferente.</string>
+    <string name="settings_notify_phone_recycled">Su número de teléfono ha sido reciclado. Toque para añadir un número de teléfono diferente.</string>
     <string name="settings_safetylegal_activity_loading">Cargando…</string>
     <string name="settings_safetylegal_activity_title">Información de seguridad</string>
     <string name="settings_safetylegal_activity_unreachable">No tienes conexión de datos. Para ver esta información, accede a %s desde cualquier ordenador conectado a Internet.</string>
@@ -6656,7 +6656,7 @@ Actualizar la configuración a:
 	<string name="decryption_settings_summary">Teléfono no encriptado</string>
 	<string name="power_menu_under_keyguard_summary">Permitir el acceso al menú de apagado mientras el dispositivo está bloqueado</string>
     <string name="power_menu_under_keyguard_title">Acceso al menú de apagado</string>
-    <string name="handy_mode_tips_full_screen">"Cuando estás utilizando gestos de pantalla completa, puedes activar el modo con una mano usando el Asistente táctil. También puede cambiar a usar botones en lugar de gestos de pantalla completa."</string>
+    <string name="handy_mode_tips_full_screen">"Cuando estás usando gestos de pantalla completa, puedes activar el modo con una mano usando el Asistente táctil. También puede cambiar a usar botones en lugar de gestos de pantalla completa."</string>
 	<string name="battery_indicator_title">Indicador de batería</string>
 	<string name="toggle_collapse_after_clicked_title">Cerrar después de tocar</string>
 	<string name="manage_notification_title">Notificaciones</string>
@@ -6730,7 +6730,7 @@ Actualizar la configuración a:
 	<string name="abc_slice_show_more">"Mostrar más"</string>
 	<string name="abc_slice_updated">"Actualizado %1$s"</string>
 	<string name="abc_slices_permission_request">"%1$s quiere mostrar %2$s rebanadas"</string>
-	<string name="accessibility_autoclick_description">"Si está utilizando un mouse, puede configurar el cursor para que actúe automáticamente cuando deja de moverse durante un período de tiempo determinado."</string>
+	<string name="accessibility_autoclick_description">"Si está usando un mouse, puede configurar el cursor para que actúe automáticamente cuando deja de moverse durante un período de tiempo determinado."</string>
 	<string name="accessibility_caption_master_switch_title">"Usar subtítulos"</string>
 	<string name="accessibility_daltonizer_master_switch_title">"Usar correccion de color"</string>
 	<string name="accessibility_description_state_stopped">"Este servicio está funcionando mal."</string>
@@ -6830,7 +6830,7 @@ Actualizar la configuración a:
 	<string name="battery_saver_turn_on_automatically_pct">"a %1$s batería de %1$s"</string>
 	<string name="battery_suggestion_title">"Mejora la duración de la batería del teléfono"</string>
 	<string name="battery_tip_dialog_message">"Su teléfono ha sido utilizado más de lo habitual. Su batería puede agotarse antes de lo esperado. Top %1$d aplicaciones que usaste desde la carga completa:"</string>
-	<string name="battery_tip_dialog_summary_message">"Sus aplicaciones están utilizando una cantidad normal de batería. Si las aplicaciones consumen demasiada batería, su teléfono le sugerirá acciones que puede tomar. Siempre puede activar el ahorro de batería si tiene poca batería."</string>
+	<string name="battery_tip_dialog_summary_message">"Sus aplicaciones están usando una cantidad normal de batería. Si las aplicaciones consumen demasiada batería, su teléfono le sugerirá acciones que puede tomar. Siempre puede activar el ahorro de batería si tiene poca batería."</string>
 	<string name="battery_tip_early_heads_up_done_summary">"Algunas funciones pueden ser limitadas"</string>
 	<string name="battery_tip_early_heads_up_done_title">"El ahorro de batería está encendido"</string>
 	<string name="battery_tip_early_heads_up_summary">"La batería puede agotarse antes de lo habitual"</string>
@@ -6898,11 +6898,11 @@ Actualizar la configuración a:
 	<string name="bluetooth_unpair_dialog_body">"Su teléfono ya no se emparejará con %1$s"</string>
 	<string name="bluetooth_unpair_dialog_forget_confirm_button">"Olvide el dispositivo"</string>
 	<string name="bluetooth_unpair_dialog_title">"¿Olvidaste el dispositivo?"</string>
-	<string name="bootloader_device_bind_no_data_network">"Desactive la WLAN y agregue su cuenta y dispositivo utilizando datos móviles."</string>
-	<string name="bootloader_device_bind_server_token_expired_1">"No se pudo verificar. Intente agregar su cuenta y dispositivo de nuevo."</string>
+	<string name="bootloader_device_bind_no_data_network">"Desactive la WLAN y agregue su cuenta y dispositivo usando datos móviles."</string>
+	<string name="bootloader_device_bind_server_token_expired_1">"No se pudo verificar. Intente añadir su cuenta y dispositivo de nuevo."</string>
 	<string name="bootloader_device_bind_server_token_expired_2">"No se pudo verificar. Vuelve a iniciar sesión en tu cuenta y comienza de nuevo."</string>
-	<string name="bootloader_locked_answer_2_no_sim">"1. Toque \ \"Agregar cuenta \\" a continuación para asociar su Mi Cuenta con este dispositivo. 2. Descargue la herramienta de desbloqueo desde nuestro sitio web. Tenga en cuenta que debe desbloquear dispositivos usando una computadora. Descarga aquí:"</string>
-	<string name="bootloader_tips">"Después de agregar su Mi cuenta, no cierre sesión, realice un restablecimiento de fábrica o borre los datos de las aplicaciones del sistema. Si realiza alguna de las acciones anteriores, agregue su cuenta nuevamente o no podrá desbloquear su dispositivo."</string>
+	<string name="bootloader_locked_answer_2_no_sim">"1. Toque \ \"Añadir cuenta \\" a continuación para asociar su Mi Cuenta con este dispositivo. 2. Descargue la herramienta de desbloqueo desde nuestro sitio web. Tenga en cuenta que debe desbloquear dispositivos usando una computadora. Descarga aquí:"</string>
+	<string name="bootloader_tips">"Después de añadir su Mi cuenta, no cierre sesión, realice un restablecimiento de fábrica o borre los datos de las aplicaciones del sistema. Si realiza alguna de las acciones anteriores, agregue su cuenta nuevamente o no podrá desbloquear su dispositivo."</string>
 	<string name="bootloader_tips_ok">"Entendido!"</string>
 	<string name="bt_aac_dialog_summary">"El dispositivo actual admite codec AAC. Sin embargo, AAC puede no reproducir sonido debido a problemas de compatibilidad. Su dispositivo cambió a codec SBC automáticamente. Puedes cambiar esto en la configuración."</string>
 	<string name="bt_aac_dialog_title">"Conexión bluetooth"</string>
@@ -6934,7 +6934,7 @@ Actualizar la configuración a:
 	<string name="choose_keyguard_clock_style">"Formato de reloj de pantalla de bloqueo"</string>
 	<string name="choose_keyguard_clock_summary">"Esta configuración no funciona con temas de terceros"</string>
 	<string name="choose_unlock_face_msg">"Establecer un bloqueo de pantalla antes de grabar los datos faciales."</string>
-	<string name="choose_unlock_fingerprint_msg">"Establecer bloqueo de pantalla antes de agregar su huella digital."</string>
+	<string name="choose_unlock_fingerprint_msg">"Establecer bloqueo de pantalla antes de añadir su huella digital."</string>
 	<string name="color_led_applications_title">"Seleccionar aplicaciones"</string>
 	<string name="color_led_applications_title_summary">"Puede restringir el uso de la luz LED para aplicaciones individuales"</string>
 	<string name="color_led_battery_title">"Seguir mientras se carga"</string>
@@ -7068,7 +7068,7 @@ Actualizar la configuración a:
 	<string name="eq_return">"Regreso"</string>
 	<string name="erase_esim_storage">"Borrar eSIM"</string>
 	<string name="erase_esim_storage_description">"Borrar todos los eSIMs en el teléfono. Esto no cancelará su plan de servicio móvil."</string>
-	<string name="error_adding_apn_type">"El operador no permite agregar APN de tipo %s ."</string>
+	<string name="error_adding_apn_type">"El operador no permite añadir APN de tipo %s ."</string>
 	<string name="expand_button_title">"Avanzado"</string>
 	<string name="failed_to_erase_text">"Desactive la contraseña de la pantalla de bloqueo antes de ingresar el código \"1217\"."</string>
 	<string name="failed_to_erase_title">"No puedo completar esta acción."</string>
@@ -7336,7 +7336,7 @@ Actualizar la configuración a:
 	<string name="restore_oaid_content">"Restablecer su ID de dispositivo actual creará una nueva. ¿Restablecer ahora?"</string>
 	<string name="restore_oaid_positive">"Reiniciar"</string>
 	<string name="restore_oaid_title">"Restablecer la ID del dispositivo"</string>
-	<string name="restricted_app_detail_footer">"Estas aplicaciones han estado utilizando la batería en el fondo. Las aplicaciones restringidas pueden no funcionar correctamente y las notificaciones pueden demorarse."</string>
+	<string name="restricted_app_detail_footer">"Estas aplicaciones han estado usando la batería en el fondo. Las aplicaciones restringidas pueden no funcionar correctamente y las notificaciones pueden demorarse."</string>
 	<string name="restricted_app_title">"Aplicaciones restringidas"</string>
 	<string name="restricted_false_label">"La aplicación puede usar la batería en el fondo"</string>
 	<string name="restricted_true_label">"Restringido"</string>
@@ -7368,7 +7368,7 @@ Actualizar la configuración a:
 	<string name="set_jeejen_prompt_message">"Jeejen se establecerá como su lanzador predeterminado. Puede cambiar el iniciador predeterminado en Configuración&gt; Configuraciones del sistema&gt; Pantalla de inicio y recientes&gt; Lanzador predeterminado."</string>
 	<string name="set_jeejen_prompt_title">"Confirmar cambios"</string>
 	<string name="settings_notify_new_version">"Hay disponible una actualización. Toque para ver los detalles."</string>
-	<string name="setup_fingerprint_enroll_skip_after_adding_lock_text">"La configuración de la huella digital solo toma un minuto o dos. Si omite esto, puede agregar su huella digital más adelante en la configuración."</string>
+	<string name="setup_fingerprint_enroll_skip_after_adding_lock_text">"La configuración de la huella digital solo toma un minuto o dos. Si omite esto, puede añadir su huella digital más adelante en la configuración."</string>
 	<string name="setup_fingerprint_enroll_skip_title">"¿Omitir huella digital?"</string>
 	<string name="setup_lock_settings_options_button_label">"Opciones de bloqueo de pantalla"</string>
 	<string name="setup_lock_settings_options_dialog_title">"Opciones de bloqueo de pantalla"</string>
@@ -7564,7 +7564,7 @@ Actualizar la configuración a:
 	<string name="wifi_hotspot_auto_off_summary">"El punto de acceso WLAN se apagará si no hay dispositivos conectados"</string>
 	<string name="wifi_hotspot_auto_off_title">"Apague el punto de acceso automáticamente"</string>
 	<string name="wifi_hotspot_footer_info_local_only">"Las aplicaciones pueden crear un punto de acceso para compartir contenido con dispositivos cercanos."</string>
-	<string name="wifi_hotspot_footer_info_regular">"Use un punto de acceso para crear una red WLAN para sus otros dispositivos. Hotspot proporciona internet utilizando su conexión de datos móviles. Se pueden aplicar cargos adicionales por datos móviles."</string>
+	<string name="wifi_hotspot_footer_info_regular">"Use un punto de acceso para crear una red WLAN para sus otros dispositivos. Hotspot proporciona internet usando su conexión de datos móviles. Se pueden aplicar cargos adicionales por datos móviles."</string>
 	<string name="wifi_hotspot_name_summary_connected">"Otros dispositivos pueden conectarse a %1$s"</string>
 	<string name="wifi_hotspot_name_summary_connecting">"Encendiendo %1$s ..."</string>
 	<string name="wifi_hotspot_name_title">"Nombre del punto de acceso"</string>
