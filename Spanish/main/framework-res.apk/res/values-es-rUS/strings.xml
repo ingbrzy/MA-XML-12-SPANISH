@@ -89,9 +89,9 @@
     <string name="adb_active_notification_message">Presiona para inhabilitar la depuración por USB.</string>
     <string name="adb_active_notification_title">Depuración por USB conectada</string>
     <string name="adb_debugging_notification_channel_tv">Depuración por USB</string>
-    <string name="addToDictionary">Agregar al diccionario</string>
-    <string name="add_account_button_label">Agregar cuenta</string>
-    <string name="add_account_label">Agregar una cuenta</string>
+    <string name="addToDictionary">Añadir al diccionario</string>
+    <string name="add_account_button_label">Añadir cuenta</string>
+    <string name="add_account_label">Añadir una cuenta</string>
     <string name="aerr_application">%1$s se detuvo</string>
     <string name="aerr_application_repeated">%1$s continúa fallando</string>
     <string name="aerr_close">Cerrar</string>
@@ -397,7 +397,7 @@ Si tienes preguntas, comunícate con el administrador de tu organización."</str
     <string name="foreground_service_tap_for_details">Presiona para obtener información sobre el uso de datos y de la batería</string>
     <string name="forward_intent_to_owner">Estás utilizando esta aplicación fuera del perfil de trabajo.</string>
     <string name="forward_intent_to_work">Estás utilizando esta aplicación en tu perfil de trabajo.</string>
-    <string name="gadget_host_error_inflating">No se pudo agregar el widget.</string>
+    <string name="gadget_host_error_inflating">No se pudo añadir el widget.</string>
     <string name="global_action_assist">Asistencia</string>
     <string name="global_action_bug_report">Informe de errores</string>
     <string name="global_action_emergency">Emergencias</string>
@@ -497,7 +497,7 @@ Si tienes preguntas, comunícate con el administrador de tu organización."</str
     <string name="keyboardview_keycode_mode_change">Cambio de modo</string>
     <string name="keyboardview_keycode_shift">Mayúscula</string>
     <string name="keygaurd_accessibility_media_controls">Controles de medios</string>
-    <string name="keyguard_accessibility_add_widget">Agregar widget</string>
+    <string name="keyguard_accessibility_add_widget">Añadir widget</string>
     <string name="keyguard_accessibility_camera">Cámara</string>
     <string name="keyguard_accessibility_expand_lock_area">Expandir el área desbloqueada</string>
     <string name="keyguard_accessibility_face_unlock">Desbloqueo facial</string>
@@ -570,7 +570,7 @@ Vuelve a intentarlo en %2$d segundos."</string>
     <string name="kg_wrong_pin">PIN incorrecto</string>
     <string name="language_picker_section_all">Todos los idiomas</string>
     <string name="language_picker_section_suggested">Sugeridos</string>
-    <string name="language_selection_title">Agregar un idioma</string>
+    <string name="language_selection_title">Añadir un idioma</string>
     <string name="last_month">Último mes</string>
     <string name="launchBrowserDefault">¿Deseas iniciar el navegador?</string>
     <string name="launch_warning_original">%1$s se inició originalmente.</string>
@@ -905,7 +905,7 @@ Vuelve a intentarlo en %2$d segundos."</string>
     <string name="permdesc_install_shortcut">Permite que una aplicación agregue accesos directos a la pantalla principal sin que el usuario intervenga.</string>
     <string name="permdesc_invokeCarrierSetup">Permite al propietario ejecutar la aplicación de configuración proporcionada por el proveedor. Las aplicaciones normales no deberían necesitar este permiso.</string>
     <string name="permdesc_killBackgroundProcesses">Este permiso autoriza a la aplicación a interrumpir procesos en segundo plano de otras aplicaciones y puede hacer, por lo tanto, que esas aplicaciones dejen de ejecutarse.</string>
-    <string name="permdesc_manageFingerprint">Permite que la aplicación emplee métodos para agregar y eliminar plantillas de huellas digitales para su uso.</string>
+    <string name="permdesc_manageFingerprint">Permite que la aplicación emplee métodos para añadir y eliminar plantillas de huellas digitales para su uso.</string>
     <string name="permdesc_manageNetworkPolicy">Permite que la aplicación administre las políticas de red y defina reglas específicas de la aplicación.</string>
     <string name="permdesc_manageOwnCalls">Permite que la app transmita las llamadas a través del sistema para mejorar la experiencia de llamadas.</string>
     <string name="permdesc_manageProfileAndDeviceOwners">Permite que las aplicaciones configuren los perfiles de propietarios y el propietario del dispositivo.</string>
@@ -960,7 +960,7 @@ Vuelve a intentarlo en %2$d segundos."</string>
     <string name="permdesc_use_sip">Permite que la aplicación realice y reciba llamadas SIP.</string>
     <string name="permdesc_vibrate">Permite que la aplicación controle la vibración.</string>
     <string name="permdesc_wakeLock">Permite que la aplicación evite que el dispositivo entre en estado de inactividad.</string>
-    <string name="permdesc_writeCalendar">Esta app puede agregar, quitar o cambiar eventos del calendario en tu teléfono. Puede enviar mensajes que parecen proceder de propietarios del calendario o cambiar eventos sin notificarlos.</string>
+    <string name="permdesc_writeCalendar">Esta app puede añadir, quitar o cambiar eventos del calendario en tu teléfono. Puede enviar mensajes que parecen proceder de propietarios del calendario o cambiar eventos sin notificarlos.</string>
     <string name="permdesc_writeCallLog">Permite que la aplicación modifique el registro de llamadas del dispositivo, incluidos los datos sobre llamadas entrantes y salientes. Las aplicaciones malintencionadas pueden usar este permiso para borrar o modificar el registro de llamadas.</string>
     <string name="permdesc_writeContacts">Permite que la aplicación modifique los datos de los contactos almacenados en el dispositivo, incluida la frecuencia con la que los has llamado, les has enviado correos o te has puesto en contacto con ellos de otro modo. Las aplicaciones pueden utilizar este permiso para eliminar datos de contactos.</string>
     <string name="permdesc_writeGeolocationPermissions">Permite que la aplicación modifique los permisos de ubicación geográfica del navegador. Las aplicaciones maliciosas pueden utilizar esto para permitir el envío de información de ubicación a sitios web arbitrarios.</string>
@@ -999,7 +999,7 @@ para la cuenta %s"</string>
     <string name="permlab_accessWifiState">ver conexiones Wi-Fi</string>
     <string name="permlab_accessWimaxState">conectarse y desconectarse de WiMAX</string>
     <string name="permlab_access_notification_policy">Acceso a la función No molestar</string>
-    <string name="permlab_addVoicemail">agregar correo de voz</string>
+    <string name="permlab_addVoicemail">añadir correo de voz</string>
     <string name="permlab_answerPhoneCalls">responder llamadas telefónicas</string>
     <string name="permlab_bindCarrierMessagingService">vincular al servicio de mensajería del proveedor</string>
     <string name="permlab_bindCarrierServices">vincular con servicios de proveedores</string>
@@ -1087,7 +1087,7 @@ para la cuenta %s"</string>
     <string name="permlab_use_sip">realizar/recibir llamadas SIP</string>
     <string name="permlab_vibrate">controlar la vibración</string>
     <string name="permlab_wakeLock">evitar que el dispositivo entre en estado de inactividad</string>
-    <string name="permlab_writeCalendar">Agregar o modificar los eventos de calendario y enviar un correo a los invitados sin que los propietarios lo sepan</string>
+    <string name="permlab_writeCalendar">Añadir o modificar los eventos de calendario y enviar un correo a los invitados sin que los propietarios lo sepan</string>
     <string name="permlab_writeCallLog">escribir en el registro de llamadas</string>
     <string name="permlab_writeContacts">modificar tus contactos</string>
     <string name="permlab_writeGeolocationPermissions">Modificar los permisos de ubicación geográfica del navegador</string>

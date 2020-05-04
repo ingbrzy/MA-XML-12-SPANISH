@@ -72,8 +72,8 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="back_sound_fail">No se pudo establecer. La configuración del operador cambió. Configure la tarjeta SIM actual como su tarjeta de datos, conéctese a la red y vuelva a intentarlo.</string>
     <string name="back_sound_support">La red de su proveedor no admite esta configuración.</string>
     <string name="back_sound_data">Active los datos móviles y vuelva a intentarlo.</string>
-    <string name="dlg_move_to_white">Agregar a excepciones</string>
-    <string name="dlg_add_white">Las nuevas llamadas y mensajes de los números agregados a las excepciones se mostrarán en el historial de llamadas y en la bandeja de entrada de Mensajes. Sin embargo, los artículos previamente bloqueados no aparecerán allí. ¿Agregar números seleccionados a las excepciones?</string>
+    <string name="dlg_move_to_white">Añadir a excepciones</string>
+    <string name="dlg_add_white">Las nuevas llamadas y mensajes de los números agregados a las excepciones se mostrarán en el historial de llamadas y en la bandeja de entrada de Mensajes. Sin embargo, los artículos previamente bloqueados no aparecerán allí. ¿Añadir números seleccionados a las excepciones?</string>
     <string name="dlg_not_block_sms">¿Desbloquear los números seleccionados? Se agregarán a las excepciones, pero los elementos bloqueados previamente no aparecerán en la bandeja de entrada de Mensajes.</string>
     <string name="dlg_not_block_call">¿Desbloquear los números seleccionados? Se agregarán a las excepciones, pero los elementos bloqueados anteriormente no aparecerán en el historial de llamadas.</string>
     <string name="dlg_update_date_title">Advertencia</string>
@@ -95,7 +95,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="menu_add">Añadir</string>
     <string name="menu_edit">Editar</string>
     <string name="menu_remove">Eliminar</string>
-    <string name="menu_white">Agregar a excepciones</string>
+    <string name="menu_white">Añadir a excepciones</string>
     <string name="st_settings_name">Ajustes de la lista negra</string>
     <string name="st_filter_keywords_setting_summary1">Los mensajes enviados desde números desconocidos que contengan las palabras de esta lista serán bloqueados.</string>
     <string name="st_filter_keywords_setting_summary3">Se permitirán los mensajes de números desconocidos que contengan las palabras en esta lista.</string>
@@ -120,8 +120,8 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="st_title_man_addblacklist">Añadir número a la lista negra</string>
     <string name="st_title_man_head_addwhitelist">Añadir prefijo a la lista de excepciones</string>
     <string name="st_title_man_addwhitelist">Añadir número de teléfono a la lista de excepciones</string>
-    <string name="st_title_man_editblacklist">Elige un código de área para agregar a la lista negra</string>
-    <string name="st_title_man_editwhitelist">Elija un código de área para agregar a la lista de excepciones</string>
+    <string name="st_title_man_editblacklist">Elige un código de área para añadir a la lista negra</string>
+    <string name="st_title_man_editwhitelist">Elija un código de área para añadir a la lista de excepciones</string>
     <string name="st_title_back_sound_choose">Respuesta automática</string>
     <string name="st_title_back_sound_busy">Ocupado</string>
     <string name="st_title_back_sound_none">El número no existe</string>
@@ -2250,7 +2250,7 @@ tu dispositivo"</string>
     <string name="gs_game_duration">Duración</string>
     <string name="gs_game_disturb_msg">No molestar</string>
     <string name="add_game">Añadir juego</string>
-    <string name="add_whitelist">Agregar a excepciones</string>
+    <string name="add_whitelist">Añadir a excepciones</string>
     <string name="sys_cpu_title">Uso de CPU</string>
     <string name="sys_freememory_title">Disponible</string>
     <string name="net_delay_title">Retraso</string>
@@ -2594,11 +2594,11 @@ tu dispositivo"</string>
 	<string name="antivirus_choose_engine">%s</string>
 	<string name="app_manager_find_apps">Encuentra aplicaciones</string>
 	<string name="app_permission_use_group_calendar">Calendario</string>
-	<string name="app_permission_use_group_calendar_des">Leer y agregar información del calendario</string>
+	<string name="app_permission_use_group_calendar_des">Leer y añadir información del calendario</string>
 	<string name="app_permission_use_group_camera">Cámara</string>
 	<string name="app_permission_use_group_camera_des">Usar la cámara</string>
 	<string name="app_permission_use_group_contact">Contactos</string>
-	<string name="app_permission_use_group_contact_des">Leer y agregar información de contacto</string>
+	<string name="app_permission_use_group_contact_des">Leer y añadir información de contacto</string>
 	<string name="app_permission_use_group_location">Información de ubicación</string>
 	<string name="app_permission_use_group_location_des">Ubicación precisa y aproximada</string>
 	<string name="app_permission_use_group_mic">Micrófono</string>
@@ -2799,7 +2799,7 @@ tu dispositivo"</string>
 	<string name="gamebox_wifi">WLAN</string>
 	<string name="gamecenter_install_fail">No se pudo instalar</string>
 	<string name="gamecenter_install_sucessfull">Instalado correctamente</string>
-	<string name="gb_add_game_hint">Agregar elementos de la lista de aplicaciones</string>
+	<string name="gb_add_game_hint">Añadir elementos de la lista de aplicaciones</string>
 	<string name="gb_advance_settings_edge_gear1">Ninguna</string>
 	<string name="gb_advance_settings_edge_gear2">Pequeña</string>
 	<string name="gb_advance_settings_edge_gear3">Medio</string>

@@ -8,7 +8,7 @@ Los mensajes solo aparecerán en el segundo espacio."</string>
 esta función se agregará automáticamente al segundo espacio."</string>
     <string name="about_ent_mode">Acerca del modo trabajo</string>
     <string name="activate_ent_mode">Activar modo trabajo</string>
-    <string name="add_finger_print">Agregar huella</string>
+    <string name="add_finger_print">Añadir huella</string>
     <string name="air_space_created">Espacio de trabajo creado con éxito</string>
     <string name="air_space_deleted">Espacio de trabajo eliminado con éxito</string>
     <string name="air_space_exit">Salir del espacio</string>
@@ -17,7 +17,7 @@ esta función se agregará automáticamente al segundo espacio."</string>
     <string name="appData">Aplicaciones instaladas</string>
     <string name="app_name">Componente principal de seguridad</string>
     <string name="back">Atrás</string>
-    <string name="bind_device">Agregar dispositivo</string>
+    <string name="bind_device">Añadir dispositivo</string>
     <string name="button_input_password">Ingresar contraseña</string>
     <string name="button_text_next_step">Siguiente</string>
     <string name="button_text_next_step_timer">Siguiente paso (%d)</string>
@@ -171,11 +171,11 @@ Asegúrese de que el nombre de su empresa es correcto. Lea y acepte la Política
     <string name="green_guard_title2">Ver información de ubicación</string>
     <string name="green_guard_title3">Administrar aplicaciones</string>
     <string name="greenguard_child_des">Administre los dispositivos de sus amigos y familia</string>
-    <string name="greenguard_child_des_title">Escanee el código QR para agregar dispositivo</string>
+    <string name="greenguard_child_des_title">Escanee el código QR para añadir dispositivo</string>
     <string name="greenguard_functional_description">"Administre los dispositivos de manera remota, ver información de ubicación,
 controle las aplicaciones instaladas y restrinja su uso"</string>
     <string name="greenguard_parent_des">Administre los dispositivos de sus amigos y familia</string>
-    <string name="greenguard_parent_des_title">Usar Kite Guard para agregar dispositivos</string>
+    <string name="greenguard_parent_des_title">Usar Kite Guard para añadir dispositivos</string>
     <string name="guide_contact_sub_title_desc">"Los contactos agregados al segundo espacio se convertirán en privados.
 Los mensajes solo aparecerán en el segundo espacio."</string>
     <string name="guide_contact_suc_sub_title_desc">Solo los contactos y mensajes privados serán mostrados en el segundo espacio</string>
@@ -227,10 +227,10 @@ También puede descargarlas de forma separada."</string>
     <string name="msg_switch_photo">¿Eliminar estas fotos del espacio principal después de que se hallan movido?</string>
     <string name="needSetKeyguardFirst">Establecer contraseña del espacio principal</string>
     <string name="needSetKeyguardFirstDes">Establezca una contraseña del espacio principal antes de establecer la del segundo espacio</string>
-    <string name="need_network_when_bind">Conéctese a la red antes de agregar servicios</string>
+    <string name="need_network_when_bind">Conéctese a la red antes de añadir servicios</string>
     <string name="need_network_when_create">Conectarse a la red antes de crear un Espacio de trabajo</string>
     <string name="need_reset_passwd">Restablecer la contraseña del Espacio de trabajo antes de entrar a este</string>
-    <string name="need_set_second_space_desc">Establezca la contraseña del segundo espacio antes de agregar la huella</string>
+    <string name="need_set_second_space_desc">Establezca la contraseña del segundo espacio antes de añadir la huella</string>
     <string name="need_set_second_space_pwd_first">Establezca contraseña del segundo espacio primero</string>
     <string name="newSecondSpace">Activar segundo espacio</string>
     <string name="next_setp">Siguiente</string>
@@ -246,7 +246,7 @@ También puede descargarlas de forma separada."</string>
     <string name="notification_from_second_user">Mostrar notificaciones del segundo espacio</string>
     <string name="notification_recommend_title">Mejores 12 aplicaciones para el segundo espacio</string>
     <string name="notification_setting_second_space">Configurar segundo espacio</string>
-    <string name="notification_setting_second_space_desc">Agregar contraseña del segundo espacio y mover datos</string>
+    <string name="notification_setting_second_space_desc">Añadir contraseña del segundo espacio y mover datos</string>
     <string name="ok_button">Aceptar</string>
     <string name="openPasswordGuard">Establecer contraseña del segundo espacio</string>
     <string name="openSuccess">Activado</string>
@@ -277,7 +277,7 @@ De lo contrario podría no ser capaz de acceder al segundo espacio desde pantall
     <string name="remove_user_click_message">*Si no tiene ningún elemento importante en el segundo espacio, %s</string>
     <string name="remove_user_click_message_action">puede eliminar el segundo espacio y reiniciar su dispositivo ahora.</string>
     <string name="removingSpace">Eliminando…</string>
-    <string name="repeat_scanner_fingerprint">Agregar de nuevo</string>
+    <string name="repeat_scanner_fingerprint">Añadir de nuevo</string>
     <string name="reset_passwd_success">La contraseña fue restablecida con éxito</string>
     <string name="reset_password_dialog_message">Está usando diferentes tipos de contraseña para el espacio principal y el segundo espacio. El segundo espacio debería tener el mismo tipo de contraseña que el espacio principal para que el acceso directo esté oculto.</string>
     <string name="reset_password_dialog_positve_btn_title">Cambiar</string>
@@ -294,7 +294,7 @@ De lo contrario podría no ser capaz de acceder al segundo espacio desde pantall
     <string name="scanner_fingerprint">Escaneando huella…</string>
     <string name="scanner_fingerprint_enter_second">"Escanee la huella del segundo espacio
 para acceder desde la pantalla de bloqueo"</string>
-    <string name="scanner_fingerprint_error_tips_desc">No se pudo verificar la huella. ¿Agregar huella de segundo espacio?</string>
+    <string name="scanner_fingerprint_error_tips_desc">No se pudo verificar la huella. ¿Añadir huella de segundo espacio?</string>
     <string name="scanner_fingerprint_error_tips_title">No se pudo verificar la huella</string>
     <string name="scanner_fingerprint_tips_desc">Seleccionar huella para acceder al segundo espacio. No podrá usarla en el espacio principal.</string>
     <string name="scanner_fingerprint_tips_title">Acceder al segundo espacio usando una huella existente</string>
@@ -314,7 +314,7 @@ Si no actualiza, las aplicaciones duales tampoco funcionarán correctamente."</s
     <string name="second_space_desktop_tips_dialog_message">Después de esta actualización, los íconos para mover datos y administrar el segundo espacio ya no se mostrarán en la pantalla de inicio. Podrá acceder a sus funciones correspondientes en Configuración.</string>
     <string name="second_space_desktop_tips_dialog_positive_text">Entendido</string>
     <string name="second_space_desktop_tips_dialog_title">Actualización importante</string>
-    <string name="second_space_finger_printf_desc">Agregar huella usada solamente para entrar al segundo espacio</string>
+    <string name="second_space_finger_printf_desc">Añadir huella usada solamente para entrar al segundo espacio</string>
     <string name="second_space_finger_printf_title">Huella del segundo espacio</string>
     <string name="select_existed_fingerprint">Seleccionar huella</string>
     <string name="serNameSummary">Segundo espacio</string>
@@ -329,8 +329,8 @@ Si no actualiza, las aplicaciones duales tampoco funcionarán correctamente."</s
     <string name="set_space_pwd_detail">Puede acceder al segundo espacio usando su contraseña</string>
     <string name="set_space_pwd_suc">Contraseña de segundo espacio agregada</string>
     <string name="setting_finger_print_sub_title">Asegurese de que la huella es diferente a la del espacio principal</string>
-    <string name="setting_finger_print_title">Agregar huella del segundo espacio</string>
-    <string name="setting_fingerprint_title">Agregar contraseña del segundo espacio</string>
+    <string name="setting_finger_print_title">Añadir huella del segundo espacio</string>
+    <string name="setting_fingerprint_title">Añadir contraseña del segundo espacio</string>
     <string name="setting_is_show_text_contacts">Configurar contactos privados y mensajes</string>
     <string name="settings_cross_notification_summary">Reciba notificaciones del otro espacio</string>
     <string name="settings_cross_notification_title">Notificaciones</string>
@@ -380,8 +380,8 @@ Si no actualiza, las aplicaciones duales tampoco funcionarán correctamente."</s
     <string name="space_name_default">Espacio de trabajo</string>
     <string name="startSet">Establecer</string>
     <string name="startTransfer">Mover</string>
-    <string name="start_input_finger_print">Agregar huella</string>
-    <string name="start_new_fingerprint">Agregar nueva huella</string>
+    <string name="start_input_finger_print">Añadir huella</string>
+    <string name="start_new_fingerprint">Añadir nueva huella</string>
     <string name="start_new_fingerprint_tips">"Usar la huella del segundo espacio
 para acceder desde la pantalla de bloqueo"</string>
     <string name="start_setting_guide_desc_title">Aún hay algunas cosas que configurar</string>

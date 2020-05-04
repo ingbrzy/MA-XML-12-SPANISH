@@ -15,7 +15,7 @@
     <string name="activity_title_confirm_add_detail">Añadir a contactos</string>
     <string name="activity_title_contacts_filter">Contactos que mostrar</string>
     <string name="activity_title_settings">Ajustes</string>
-    <string name="addPeopleToGroup">Para agregar alguno, edite el grupo.</string>
+    <string name="addPeopleToGroup">Para añadir alguno, edite el grupo.</string>
     <string name="add_2sec_pause">Añadir pausa de 2-seg</string>
     <string name="add_account">Añadir cuenta</string>
     <string name="add_blacklist">Bloquear</string>
@@ -23,10 +23,10 @@
     <string name="add_blacklist_dialog_title">¿Bloquear este número de teléfono?</string>
     <string name="add_connection_button">Añadir conexión</string>
     <string name="add_contact_dlg_message_fmt">¿Añadir \"%s\" a contactos?</string>
-    <string name="add_display_photo_entry">Agregar foto de perfil</string>
+    <string name="add_display_photo_entry">Añadir foto de perfil</string>
     <string name="add_field">Añadir otro campo</string>
-    <string name="add_field_toast">Sin más campos para agregar.</string>
-    <string name="add_incall_show_entry">Agregar video</string>
+    <string name="add_field_toast">Sin más campos para añadir.</string>
+    <string name="add_incall_show_entry">Añadir video</string>
     <string name="add_new_account">Añadir una cuenta nueva</string>
     <string name="add_new_entry_for_section">Añadir nuevo</string>
     <string name="add_organization">Añadir organización</string>
@@ -392,7 +392,7 @@ Las tarjetas de contacto están desactivadas"</string>
     <string name="device_version_header_bluetooth">Importar vía Bluetooth</string>
     <string name="device_version_header_no_bluetooth">Importar vía tarjeta SIM</string>
     <string name="dial">Teclado</string>
-    <string name="dialerDialpadHintText">Marcar para agregar una llamada</string>
+    <string name="dialerDialpadHintText">Marcar para añadir una llamada</string>
     <string name="dialerIconLabel">Recientes</string>
     <string name="dialerKeyboardHintText">Use el teclado para marcar</string>
     <string name="dialer_addAnotherCall">Añadir llamada</string>
@@ -508,7 +508,7 @@ Motivo: \"%s\""</string>
     <string name="ghostData_title">Título</string>
     <string name="groupSavedErrorToast">No se pudo guardar los cambios realizados al grupo</string>
     <string name="groupSavedToast">Grupo guardado</string>
-    <string name="group_add_fail_toast">No se pudo agregar destinatarios</string>
+    <string name="group_add_fail_toast">No se pudo añadir destinatarios</string>
     <string name="group_create_fail_toast">No se pudo crear el grupo</string>
     <string name="group_create_success_toast">Grupo creado</string>
     <string name="group_delete_success_toast">Grupo eliminado</string>
@@ -675,10 +675,10 @@ Motivo: \"%s\""</string>
     <string name="miprofile_alertdialog_edit">Ingresar nombre</string>
     <string name="miprofile_alertdialog_message">Muestra este nombre a los contactos cuando solicita intercambiar tarjetas.</string>
     <string name="miprofile_alertdialog_title">Ingresar nombre</string>
-    <string name="miprofile_bind_account_alertdialog_message">Debe agregar el número de teléfono de este dispositivo a su Cuenta Mi para utilizar esta función.</string>
-    <string name="miprofile_bind_account_alertdialog_positive">Agregar número</string>
-    <string name="miprofile_bind_account_alertdialog_title">Agregar número de teléfono</string>
-    <string name="miprofile_contact_add">Agregar</string>
+    <string name="miprofile_bind_account_alertdialog_message">Debe añadir el número de teléfono de este dispositivo a su Cuenta Mi para utilizar esta función.</string>
+    <string name="miprofile_bind_account_alertdialog_positive">Añadir número</string>
+    <string name="miprofile_bind_account_alertdialog_title">Añadir número de teléfono</string>
+    <string name="miprofile_contact_add">Añadir</string>
     <string name="miprofile_contact_added">Agregado</string>
     <string name="miprofile_contact_header">Contactos con tarjetas de contacto</string>
     <string name="miprofile_contact_meaasge">Contactos locales</string>
@@ -689,10 +689,10 @@ Motivo: \"%s\""</string>
     <string name="miprofile_error_not_opened">Desactivar tarjetas de contacto</string>
     <string name="miprofile_error_not_set">Su tarjeta de contacto no ha sido sincronizada con el servidor</string>
     <string name="miprofile_error_unknown">Error desconocido</string>
-    <string name="miprofile_find_miprofile_title">Agregar para ver toda la información</string>
-    <string name="miprofile_find_profile_batch_add">Agregar todo</string>
+    <string name="miprofile_find_miprofile_title">Añadir para ver toda la información</string>
+    <string name="miprofile_find_profile_batch_add">Añadir todo</string>
     <string name="miprofile_find_profile_batch_finish">Finalizar</string>
-    <string name="miprofile_find_profile_batch_request_failed">No se pudo agregar el perfil</string>
+    <string name="miprofile_find_profile_batch_request_failed">No se pudo añadir el perfil</string>
     <string name="miprofile_find_profile_loading">Cargando…</string>
     <string name="miprofile_find_profile_no_recommend">No hay perfiles recomendados</string>
     <string name="miprofile_finding_label">Buscar tarjetas de contacto</string>
@@ -765,10 +765,10 @@ Motivo: \"%s\""</string>
     <string name="noContactsWithPhoneNumbers">No hay contactos con número de teléfono</string>
     <string name="noFavoritesHelpText">"\"Usted no tiene ningún favorito.
 
-Para agregar un contacto a su lista de favoritos:
+Para añadir un contacto a su lista de favoritos:
  "<li>"Toque la pestaña
  de "<b>Contactos</b></li>" 
-"<li>"Toque al contacto que quiera agregar a favoritos
+"<li>"Toque al contacto que quiera añadir a favoritos
 "</li>" 
 "<li>"Toque la estrella que se encuentra al lado del nombre de contacto
 "</li>"\" "</string>
@@ -859,7 +859,7 @@ Para agregar un contacto a su lista de favoritos:
     <string name="picker_postal_title">Seleccione un código postal</string>
     <string name="picker_recent_list_empty">Sin contactos recientes</string>
     <string name="pkgLabel">Contactos y teléfono</string>
-    <string name="play_add_incall_show_entry">Reproducir o agregar video</string>
+    <string name="play_add_incall_show_entry">Reproducir o añadir video</string>
     <string name="play_incall_show_entry">Reproducir video</string>
     <string name="postalLabelsGroup">Dirección</string>
     <string name="postal_address">Dirección</string>
@@ -949,7 +949,7 @@ Para agregar un contacto a su lista de favoritos:
     <string name="qrcode_card_title">Código QR</string>
     <string name="quick_dial_setting_delete_dialog_message">¿Eliminar los números de marcado rápido?</string>
     <string name="quick_dial_setting_delete_dialog_option_delete">Eliminar</string>
-    <string name="quick_dial_setting_hint">Toque el botón para agregar o eliminar un número de marcado rápido. Mantenga presionado un botón con un número asignado para marcarlo.</string>
+    <string name="quick_dial_setting_hint">Toque el botón para añadir o eliminar un número de marcado rápido. Mantenga presionado un botón con un número asignado para marcarlo.</string>
     <string name="quick_dial_setting_set_dialog_message">¿Asignar un número de marcado rápido a este botón?</string>
     <string name="quick_dial_setting_set_dialog_option_set">Sí</string>
     <string name="quick_dial_setting_title">Marcado rápido</string>
