@@ -17,10 +17,6 @@ Todas la issues que no tengan estos datos serán rechazadas
 
 ## Voluntarios que ayudaron a la traducción:
 
-* [@Infante007](https://github.com/Infante007)
-* [@danielchc](https://github.com/danielchc)
-* [@rdgi](https://github.com/rdgi)
-* [@Muchachito](https://github.com/Muchachito)
 * [@esansnewman](https://github.com/esansnewman)
 
 *Si quieres donar para contribuir al proyecto no dudes en contactarnos*
