@@ -1,4 +1,4 @@
-# SPANISH MIUI 11 TRANSLATION FOR XIAOMI.EU
+# SPANISH MIUI 12 TRANSLATION FOR XIAOMI.EU
 REPOSITORIO DEL IDIOMA ESPAÑOL PARA LAS ROMs XIAOMI.EU
 
 ![MIUI11 logo](https://i.imgur.com/A44OaCG.gif)
@@ -21,6 +21,7 @@ Todas la issues que no tengan estos datos serán rechazadas
 * [@danielchc](https://github.com/danielchc)
 * [@rdgi](https://github.com/rdgi)
 * [@Muchachito](https://github.com/Muchachito)
+* [@esansnewman](https://github.com/esansnewman)
 
 *Si quieres donar para contribuir al proyecto no dudes en contactarnos*
 ## Misc
