@@ -12,7 +12,7 @@
         espacios. Muchos servidores no admiten contraseñas con espacios."</string>
     <string name="account_security_dialog_content_fmt">\"%s requiere que actualice sus ajustes de seguridad\".</string>
     <string name="account_security_dialog_title">Actualización de seguridad</string>
-    <string name="account_security_policy_explanation_fmt">\"El servidor %s requiere que le permita controlar remotamente algunas características de seguridad de su dispositivo Android\".</string>
+    <string name="account_security_policy_explanation_fmt">\"El servidor %s requiere que le permita controlar remotamente algunas funciones de seguridad de su dispositivo Android\".</string>
     <string name="account_security_title">Seguridad del dispositivo</string>
     <string name="account_set_up_change_type_note">Si necesita cambiar entre ajustes POP3 e IMAP, elimine su cuenta y cree una nueva con la configuración deseada.</string>
     <string name="account_setting">Cuentas</string>
@@ -107,7 +107,7 @@
     <string name="account_setup_failed_ioerror">No se pudo establecer conexión con el servidor.</string>
     <string name="account_setup_failed_protocol_unsupported">Introdujo una dirección del servidor incorrecta o el servidor requiere una versión de protocolo que el correo no admite.</string>
     <string name="account_setup_failed_security">No se pudo establecer conexión con el servidor debido a un error de seguridad.</string>
-    <string name="account_setup_failed_security_policies_unsupported">Este servidor requiere características de seguridad que su dispositivo Android no admite, incluyendo: %s</string>
+    <string name="account_setup_failed_security_policies_unsupported">Este servidor requiere funciones de seguridad que su dispositivo Android no admite, incluyendo: %s</string>
     <string name="account_setup_failed_tls_required">Se requiere TLS, pero el servidor no lo admite.</string>
     <string name="account_setup_failed_too_many_partnerships">No se pudo acceder, demasiadas conexiones.</string>
     <string name="account_setup_incoming_delete_policy_delete_label">Cuando lo elimine de la Papelera</string>
