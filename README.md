@@ -1,7 +1,7 @@
 # SPANISH MIUI 12 TRANSLATION FOR XIAOMI.EU
 REPOSITORIO DEL IDIOMA ESPAÑOL PARA LAS ROMs XIAOMI.EU
 
-![](https://imgur.com/gallery/JHlPTpU)
+![](https://imgur.com/gallery/JHlPTpU.jpg)
 
 ## ¿Qué hacer si encuentro algo sin traducir?
 ¡Importante leer!
