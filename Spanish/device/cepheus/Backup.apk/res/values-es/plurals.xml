@@ -60,4 +60,20 @@
         <item quantity="other">%d minutos</item>
         <item quantity="one">%d minuto</item>
     </plurals>
+    <plurals name="data_item_count_pair">
+        <item quantity="other">%1$d/%2$d elementos</item>
+        <item quantity="one">%1$d/%2$d elemento</item>
+    </plurals>
+    <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s copias de seguridad (%2$s)</item>
+        <item quantity="one">%1$s copia de seguridad (%2$s)</item>
+    </plurals>
+    <plurals name="new_task_backup_failed">
+        <item quantity="other">"Respaldado exitosamente. No se pudieron realizar copias de seguridad de %d elementos."</item>
+        <item quantity="one">"Respaldado exitosamente. No se pudieron realizar copias de seguridad de %d elemento."</item>
+    </plurals>
+    <plurals name="new_task_restore_failed">
+        <item quantity="other">"Restaurado con éxito. No se pudieron restaurar %d elementos."</item>
+        <item quantity="one">"Restaurado con éxito. No se pudieron restaurar %d elemento."</item>
+     </plurals>
 </resources>
