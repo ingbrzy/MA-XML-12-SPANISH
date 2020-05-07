@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="HIPS_Perm_Intl_group_desc_audio_recorder">Grabando audio y haciendo llamadas</string>
     <string name="HIPS_Action_Accept">Permitir</string>
     <string name="HIPS_Action_Accept_Once">Permitir una vez</string>
     <string name="HIPS_Action_Reject">Denegar</string>
@@ -22,6 +23,21 @@
     <string name="HIPS_Perm_Contact_Desc">modificar y eliminar contactos</string>
     <string name="HIPS_Perm_External_Storage">Acceder y cambiar archivos en el almacenamiento interno</string>
     <string name="HIPS_Perm_External_Storage_Desc">añadir y eliminar archivos en el almacenamiento interno del dispositivo</string>
+    <string name="HIPS_Perm_Intl_group_desc_auto_start">Lanzamiento de aplicaciones en segundo plano automáticamente</string>
+    <string name="HIPS_Perm_Intl_group_desc_calendar">Acceso a los eventos del calendario</string>
+    <string name="HIPS_Perm_Intl_group_desc_call_log">Acceder y editar el historial de llamadas</string>
+    <string name="HIPS_Perm_Intl_group_desc_camera">Tomar fotos y hacer videos</string>
+    <string name="HIPS_Perm_Intl_group_desc_contact">Editar y borrar contactos</string>
+    <string name="HIPS_Perm_Intl_group_desc_location">Acceder a la ubicación precisa (GPS y basado en la red)</string>
+    <string name="HIPS_Perm_Intl_group_desc_storage">"Añadir y eliminar archivos en el almacenamiento interno del dispositivo"</string>
+    <string name="HIPS_Perm_Intl_group_name_audio_recorder">Micrófono</string>
+    <string name="HIPS_Perm_Intl_group_name_auto_start">Arranque automático</string>
+    <string name="HIPS_Perm_Intl_group_name_calendar">Calendario</string>
+    <string name="HIPS_Perm_Intl_group_name_call_log">Historial de llamadas</string>
+    <string name="HIPS_Perm_Intl_group_name_camera">Cámara</string>
+    <string name="HIPS_Perm_Intl_group_name_contact">Contactos</string>
+    <string name="HIPS_Perm_Intl_group_name_location">Ubicación</string>
+    <string name="HIPS_Perm_Intl_group_name_storage">Almacenamiento</string>
     <string name="HIPS_Perm_Location">Obtener información sobre la ubicación</string>
     <string name="HIPS_Perm_Location_Desc">obtener ubicación precisa (basada en GPS y redes de datos)</string>
     <string name="HIPS_Perm_PhoneID">Obtener información del dispositivo</string>
@@ -55,6 +71,8 @@
     <string name="HIPS_Perm_add_voicemail_Desc">añadir mensajes de voz del sistema</string>
     <string name="HIPS_Perm_background_start_activity">Mostrar ventanas emergentes mientras se ejecuta en segundo plano</string>
     <string name="HIPS_Perm_background_start_activity_Desc">mostrar ventanas emergentes mientras se ejecuta en segundo plano</string>
+    <string name="HIPS_Perm_clipboard">Portapapeles</string>
+    <string name="HIPS_Perm_clipboard_Desc">Permitir que la aplicación acceda y añada elementos del portapapeles</string>
     <string name="HIPS_Perm_deamon_notification">Notificación permanente</string>
     <string name="HIPS_Perm_deamon_notification_Desc">mostrar notificaciones permanentes</string>
     <string name="HIPS_Perm_get_accounts">Acceder a cuentas en el dispositivo</string>
@@ -91,6 +109,7 @@
     <string name="grant_dialog_button_allow_always">Permitir siempre</string>
     <string name="grant_dialog_button_allow_background">Permitir siempre</string>
     <string name="grant_dialog_button_allow_foreground">Permitir solo al usar la aplicación</string>
+    <string name="grant_dialog_button_allow_onetime">Una vez</string>
     <string name="grant_dialog_button_deny">Denegar</string>
     <string name="grant_dialog_button_deny_and_dont_ask_again">Denegar y no volver a preguntar</string>
     <string name="grant_dialog_button_deny_background">Solo al usar la aplicación</string>
@@ -125,7 +144,10 @@
     <string name="permission_group_title_charges_related">Cargos</string>
     <string name="permission_group_title_media_related">Multimedia</string>
     <string name="permission_group_title_privacy_related">Privacidad</string>
+    <string name="permission_group_title_sensitive_privacy_related">Permisos sensibles</string>
     <string name="permission_group_title_settings_related">Ajustes</string>
+    <string name="permission_list_include">"Incluyendo lo siguiente:
+"</string>
     <string name="permission_reminders">Recordatorios de permiso</string>
     <string name="permission_warning_template">¿Permitir %1$s a %2$s?</string>
     <string name="permission_warning_template_ask">¿Permitir a %1$s los siguientes permisos?</string>
@@ -134,4 +156,10 @@
     <string name="screen_overlay_message">Para cambiar este permiso, debe desactivar la superposición de pantalla en Configuración> de aplicaciones.</string>
     <string name="screen_overlay_title">Superposición de pantalla detectada</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="virtual_reject_notice_content">Una respuesta en blanco fue enviada a la aplicación para proteger su información personal</string>
+    <string name="virtual_reject_notice_title_calendar">Acceder al calendario por %1$s</string>
+    <string name="virtual_reject_notice_title_calllog">Acceder al historial de llamadas por %1$s</string>
+    <string name="virtual_reject_notice_title_contacts">Acceder a los contactos por %1$s</string>
+    <string name="virtual_reject_notice_title_phonestate">Acceder a la información del dispositivo por %1$s</string>
+    <string name="virtual_reject_notice_title_sms">Acceder a los mensajes por %1$s</string>
 </resources>
