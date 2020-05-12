@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name">Servicio de extensión de aplicaciones</string>
+    <string name="auth_activity_label">Códigos de verificación</string>
+    <string name="auth_fingerprint_content">Leyendo huella digital…</string>
+    <string name="auth_fingerprint_content_message">Pon tu dedo en el sensor</string>
+    <string name="auth_fingerprint_content_message_error">"No se pudo escanear la huella digital, intente nuevamente"</string>
+    <string name="auth_fingerprint_title">Verifica tu huella digital</string>
+    <string name="autofill_description">"MIUI puede encriptar y almacenar sus contraseñas para que pueda ingresarlas cuando lo necesite automáticamente. Xiaomi no podrá leer sus contraseñas encriptadas."</string>
+    <string name="autofill_hint_email_address">Correo electrónico</string>
+    <string name="autofill_hint_name">Nombre</string>
+    <string name="autofill_hint_password">Contraseña</string>
+    <string name="autofill_hint_phone">Número de teléfono</string>
+    <string name="autofill_hint_username">Nombre de usuario</string>
+    <string name="autofill_item_activity_label">Contraseñas de aplicaciones</string>
+    <string name="autofill_list_activity_label">Contraseñas de aplicaciones</string>
+    <string name="autofill_list_title">Administrar contraseñas</string>
+    <string name="autofill_password">Ingrese las contraseñas automáticamente</string>
+    <string name="autofill_password_activity_label">Códigos de verificación</string>
+    <string name="autofill_service_label">Administrar contraseñas</string>
+    <string name="autofill_setting_activity_label">Administrar contraseñas</string>
+    <string name="cancel">Cancelar</string>
+    <string name="change_passwork_dialog_content">"Ya ha guardado una contraseña para esta cuenta. ¿Actualizar la contraseña ahora?"</string>
+    <string name="change_passwork_dialog_title">¿Actualiza contraseña?</string>
+    <string name="delete">Eliminar</string>
+    <string name="invalid_package_signature">Firma de aplicación inválida</string>
+    <string name="ok">ACEPTAR</string>
+    <string name="save_content_tip">"Se guardarán los siguientes elementos:"</string>
+    <string name="search">Buscar</string>
+    <string name="settings_clear_data_confirmation_description">"Si elimina las contraseñas ahora, deberá ingresarlas manualmente la próxima vez que inicie sesión. ¿Eliminar la contraseña?"</string>
+    <string name="settings_clear_data_confirmation_title">Eliminar contraseñas</string>
+    <string name="using_miui_autofill_message">Para ingresar contraseñas automáticamente, MIUI guardará la información de su cuenta y las contraseñas en su dispositivo.</string>
+</resources>
