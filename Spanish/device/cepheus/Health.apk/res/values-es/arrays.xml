@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_prompt_label">
+        <item>Razonable</item>
+        <item>Largo</item>
+        <item>Demasiado largo</item>
+    </string-array>
+    <string-array name="arr_sedentary_reminder">
+        <item>¡Hora de moverse!</item>
+        <item>Aprender más</item>
+        <item>Bebe algo de agua y da un paseo.</item>
+        <item>Aprender más</item>
+        <item>Sube un tramo de escaleras</item>
+        <item>Aprender más</item>
+        <item>No te sientes demasiado tiempo</item>
+        <item>Aprender más</item>
+    </string-array>
+    <string-array name="arr_time_label">
+        <item>1 hora</item>
+        <item>2 horas</item>
+    </string-array>
+    <string-array name="energy_unit">
+        <item>" kcal"</item>
+        <item>" kJ"</item>
+    </string-array>
+    <string-array name="length_unit">
+        <item>" cm"</item>
+        <item>" m"</item>
+        <item>" km"</item>
+    </string-array>
+    <string-array name="pager_titles">
+        <item>Día</item>
+        <item>Semana</item>
+        <item>Mes</item>
+    </string-array>
+    <string-array name="run_in_background_state">
+        <item>Sin restricciones</item>
+        <item>Limitar la actividad en segundo plano</item>
+        <item>Detener después de 10 minutos</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="speed_unit">
+        <item>" km/h"</item>
+        <item>" m/s"</item>
+    </string-array>
+    <string-array name="temperature_unit">
+        <item>℃</item>
+        <item>°F</item>
+    </string-array>
+    <string-array name="week">
+        <item>Domingo</item>
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miércoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sábado</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>Dom</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mié</item>
+        <item>Jue</item>
+        <item>Vie</item>
+        <item>Sáb</item>
+    </string-array>
+</resources>

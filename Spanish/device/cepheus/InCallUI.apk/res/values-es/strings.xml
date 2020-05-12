@@ -139,7 +139,7 @@
     <string name="manageConferenceLabel">Gestionar llamada de conferencia</string>
     <string name="manager_conference_done">Listo</string>
     <string name="msim_select_default_time_left">(%d s)</string>
-    <string name="notification_action_accept">OK</string>
+    <string name="notification_action_accept">ACEPTAR</string>
     <string name="notification_action_answer_video">Vídeo</string>
     <string name="notification_action_answer_voice">Voz</string>
     <string name="notification_action_dismiss">Rechazar</string>
@@ -152,7 +152,7 @@
     <string name="notification_on_hold">En espera</string>
     <string name="notification_ongoing_call">Llamada en curso</string>
     <string name="notification_requesting_video_call">Llamada de vídeo entrante</string>
-    <string name="ok">OK</string>
+    <string name="ok">ACEPTAR</string>
     <string name="onscreenEndCallText">Terminar</string>
     <string name="onscreen_add_call_text">Añadir llamada</string>
     <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
@@ -207,4 +207,9 @@
     <string name="wait_prompt_str">"¿Enviar los siguientes tonos?
 "</string>
     <string name="waiting_close_airplane_mode">Un momento…</string>
+    <string name="ai_assistant_not_installed">Primero instale AI Call Assistant</string>
+    <string name="enter_ai_assistant">Usar</string>
+    <string name="enter_ai_assistant_tip">"AI Call Assistant puede atender esta llamada y transcribir el discurso de la otra persona por usted. ¿Permitir que AI responda ahora?"</string>
+    <string name="video_call_downgrade_insufficient_bandwidth">Ancho de banda insuficiente, cambiando a llamada de voz</string>
+    <string name="wifi_call">Llamada VoWifi</string>
 </resources>
