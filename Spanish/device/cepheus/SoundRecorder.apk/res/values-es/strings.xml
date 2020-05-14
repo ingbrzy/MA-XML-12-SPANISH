@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
+    <string name="abc_action_bar_up_description">Ir hacia arriba</string>
+    <string name="abc_action_menu_overflow_description">Más</string>
+    <string name="abc_action_mode_done">Listo</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
+    <string name="abc_capital_off">DESACTIVADO</string>
+    <string name="abc_capital_on">ACTIVADO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Eliminar</string>
+    <string name="abc_menu_enter_shortcut_label">Intro</string>
+    <string name="abc_menu_function_shortcut_label">Función+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Mayús+</string>
+    <string name="abc_menu_space_shortcut_label">Espacio</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menú+</string>
+    <string name="abc_search_hint">Buscar…</string>
+    <string name="abc_searchview_description_clear">Borrar consulta</string>
+    <string name="abc_searchview_description_query">Consulta</string>
+    <string name="abc_searchview_description_search">Buscar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+    <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="alert_message_clear_records">¿Eliminar grabaciones seleccionadas?</string>
     <string name="alert_message_delete_local_record">¿Eliminar esta grabación?</string>
     <string name="alert_message_delete_record">Al eliminar la grabación de tu dispositivo, también se eliminará de Xiaomi Cloud. ¿Eliminarla ahora?</string>
@@ -21,8 +48,9 @@
     <string name="cloud_status_full_dialog_msg">El almacenamiento en la nube está lleno, no puede sincronizar las grabaciones. Actualiza tu cuenta para obtener más espacio de almacenamiento.</string>
     <string name="cloud_status_full_dialog_ok">Actualizar</string>
     <string name="cloud_status_full_dialog_title">El almacenamiento de Xiaomi Cloud está lleno</string>
+    <string name="copy">Copiar</string>
     <string name="data_connection_body">Usar su conexión de datos para descargar este archivo aumentará su uso de datos. Si supera los datos establecidos por su plan de datos, su operador podría cobrarle cargos adicionales.</string>
-    <string name="data_connection_button_text">OK</string>
+    <string name="data_connection_button_text">ACEPTAR</string>
     <string name="data_connection_title">Aviso de uso de datos</string>
     <string name="delete">Eliminar</string>
     <string name="delete_cloud_data_at_same_time">Eliminar también de la nube</string>
@@ -61,6 +89,7 @@
     <string name="error_filename_too_long">Nombre del archivo muy largo.</string>
     <string name="error_sdcard_access">No se puede acceder a la tarjeta SD</string>
     <string name="error_sdcard_unmounted">Inserte una tarjeta SD ahora</string>
+    <string name="expand_button_title">Avanzado</string>
     <string name="export_to_note">Exportar</string>
     <string name="head_set_tip_dialog_msg">Desconecte sus auriculares para poder grabar sonido con preajustes específicos (por ejemplo, música, voz).</string>
     <string name="head_set_tip_dialog_ok">Entendido</string>
@@ -79,7 +108,7 @@
     <string name="loading_order_list">Un momento…</string>
     <string name="loading_order_list_empty">Aquí no hay pedidos.</string>
     <string name="low_battery_error">Menos del 5% de batería restante. Pause y guarde su grabación para asegurarse de que no se pierda.</string>
-    <string name="low_battery_error_confirm">OK</string>
+    <string name="low_battery_error_confirm">ACEPTAR</string>
     <string name="low_battery_error_title">Batería baja</string>
     <string name="lyric_item_point_count">%1$d a %2$d</string>
     <string name="mark_point_list_title">Marcas</string>
@@ -88,13 +117,14 @@
     <string name="mi_account_msg">Inicia sesión con tu Cuenta Mi para transcribir archivos a la nube y obtener los primeros 60 minutos gratis.</string>
     <string name="mi_account_ok">Iniciar sesión</string>
     <string name="mi_account_title">Iniciar sesión con Cuenta Mi</string>
-    <string name="network_tip_dialog_cancel">No estoy de acuerdo</string>
+    <string name="network_tip_dialog_cancel">No aceptar</string>
     <string name="network_tip_dialog_content">La grabadora necesita conectarse a internet para funcionar con normalidad. ¿Aceptar?</string>
     <string name="network_tip_dialog_ok">Acepto</string>
     <string name="network_tip_dialog_title">Se requiere conexión a internet</string>
     <string name="network_unavailable_tip">Conéctate a la red e inténtalo de nuevo.</string>
     <string name="new_record_name">Nueva grabación</string>
     <string name="no_file">Vacío</string>
+    <string name="not_set">Sin definir</string>
     <string name="notification_message_all_paused">Esperando a una conexión Wi-Fi.</string>
     <string name="notification_playback">Reproduciendo…</string>
     <string name="notification_recording">Grabando…</string>
@@ -137,6 +167,7 @@
     <string name="pay_error_unknown">Error desconocido</string>
     <string name="playback_delete_records">Eliminar grabación</string>
     <string name="playback_share_records">Compartir grabación</string>
+    <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="preference_enable_earpiece_summary">Usar el altavoz del receptor para la reproducción externa</string>
     <string name="preference_enable_earpiece_title">Usar receptor para reproducir audio</string>
     <string name="preference_led_indicator">Notificaciones en la pantalla de bloqueo</string>
@@ -152,6 +183,10 @@
     <string name="preference_status_bar_indicator_prompt">Mostrar acceso directo en la barra de estado al grabar</string>
     <string name="preference_tip_rename">Nombrar grabaciones manualmente</string>
     <string name="privacy_policy_title">Política de Privacidad</string>
+    <string name="recognition_button_add_to_queue">Añadir a la cola</string>
+    <string name="recognition_button_cancel">Ahora no</string>
+    <string name="recognition_button_start">Transcribir</string>
+    <string name="recognition_confirm_dialog_body">La transcripción podría llevar algo de tiempo. Recibirás una notificación cuando esta tarea sea completada. ¿Transcribir ahora?</string>
     <string name="recognition_error_cancel">Cancelado</string>
     <string name="recognition_error_code">Código de error: %d</string>
     <string name="recognition_error_download_cancel">Más tarde</string>
@@ -167,6 +202,11 @@
     <string name="recognition_error_internal">Error interno</string>
     <string name="recognition_error_stopped">Transcripción detenida</string>
     <string name="recognition_error_unknown">Ha ocurrido un error desconocido. Repórtalo y vuelve a intentarlo.</string>
+    <string name="recognition_interrupt_current_dialog_body">La transcripción podría llevar algo de tiempo. Recibirás una notificación cuando esta tarea sea completada. \"%s\" está siendo transcrito. ¿Añadir esta tarea a la cola de transcripción?</string>
+    <string name="recognition_notification_channel">Transcribiendo</string>
+    <string name="recognition_notification_complete_success">\"%s\" transcrito con éxito. Pulsa para ver.</string>
+    <string name="recognition_notification_error">No se pudo transcribir \"%s\"</string>
+    <string name="recognition_notification_running">Transcribiendo \"%s\"…</string>
     <string name="recognition_process_dialog_body">Otras (%s) grabaciones están siendo convertidas a texto. ¿Detener las tareas en curso y comenzar una nueva?</string>
     <string name="recognition_process_dialog_cancel">En cola</string>
     <string name="recognition_process_dialog_confirm">Forzar inicio</string>
@@ -174,6 +214,7 @@
     <string name="recognition_status_downloaded">Motor de transcripción descargado con éxito</string>
     <string name="recognition_status_downloading">"Descargando "</string>
     <string name="recognition_status_init">"Preparando "</string>
+    <string name="recognition_stop_current">Detener la tarea en curso</string>
     <string name="recognize_choose_dialog_offline">Transcribir gratis</string>
     <string name="recognize_choose_dialog_offline_desp">Transcribir grabaciones sin conectarse a internet</string>
     <string name="recognize_choose_dialog_online">Transcribir en la nube</string>
@@ -236,6 +277,7 @@
     <string name="search_hint">Buscar</string>
     <string name="search_led_indicator">Notificaciones en la pantalla de bloqueo</string>
     <string name="search_led_indicator_prompt">Mientras se graba, mostrar atajo en la barra de estado y encender la luz de notificación en la Pantalla de bloqueo</string>
+    <string name="search_menu_title">Buscar</string>
     <string name="search_quliaty_title">Calidad de grabación</string>
     <string name="search_scenes">Tipo de grabación</string>
     <string name="search_silent_mode">Silenciar el tono de llamada mientras se graba</string>
@@ -251,8 +293,10 @@
     <string name="speech_recognition_running_tip">"Procesando "</string>
     <string name="start">Reanudar</string>
     <string name="status_bar_back">Pulse para volver a la grabadora</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recording">Grabando…</string>
     <string name="status_bar_recording_pause">Grabación en pausa</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="text_btn_backward_3_seconds">3 segundos atrás</string>
     <string name="text_btn_complete">Detener</string>
     <string name="text_btn_forward_3_seconds">3 segundos adelante</string>
@@ -275,6 +319,8 @@
     <string name="toast_max_record_time">%1$s puede grabar hasta %2$s</string>
     <string name="toast_uninstall_fileexplorer">El Gestor de archivos no está instalado</string>
     <string name="usage_description">Transcribiendo audio y sincronizando elementos con la nube</string>
+    <string name="v7_preference_off">DESACTIVADA</string>
+    <string name="v7_preference_on">ACTIVADA</string>
     <string name="webview_check_network">Ajustes de red</string>
     <string name="webview_data_error">Ha ocurrido un error</string>
     <string name="webview_locating_fail">No se pudo encontrar tu ubicación</string>

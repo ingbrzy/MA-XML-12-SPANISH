@@ -44,6 +44,10 @@
         <item quantity="other">(%d elementos)</item>
         <item quantity="one">(%d elemento)</item>
     </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">%d álbumes</item>
+        <item quantity="one">%d álbum</item>
+    </plurals>
     <plurals name="album_photo_count_text">
         <item quantity="other">%1$d elementos</item>
         <item quantity="one">%1$d elemento</item>
@@ -232,6 +236,14 @@
         <item quantity="other">%1$d elementos en total</item>
         <item quantity="one">%1$d elemento en total</item>
     </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d días</item>
+        <item quantity="one">%d día</item>
+    </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">Las fotos seleccionadas no se encuentran en el dispositivo. ¿Deseas descargarlas usando datos móviles?</item>
         <item quantity="one">La foto seleccionada no se encuentra en el dispositivo. ¿Deseas descargarla usando datos móviles?</item>
@@ -327,6 +339,26 @@
     <plurals name="sync_total_count">
         <item quantity="other">%d elementos</item>
         <item quantity="one">%d elemento</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">No podrás restaurar %d elementos seleccionados si los eliminas. ¿Eliminar de todos modos?</item>
+        <item quantity="one">No podrás restaurar %d elemento seleccionado si lo eliminas. ¿Eliminar de todos modos?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">No podrás restaurar %d elementos seleccionados si los eliminas. ¿Eliminar de todos modos?</item>
+        <item quantity="one">No podrás restaurar %d elemento seleccionado si lo eliminas. ¿Eliminar de todos modos?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">No podrás restaurar %d elementos seleccionados si los eliminas. ¿Eliminar de todos modos?</item>
+        <item quantity="one">No podrás restaurar %d elemento seleccionado si lo eliminas. ¿Eliminar de todos modos?</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">Aquí se pueden almacenar elementos durante %1$d días (%2$s)</item>
+        <item quantity="one">Aquí se pueden almacenar elementos durante %1$d día (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">Aquí se pueden almacenar elementos durante %1$d días. Mejora tu plan para extender este periodo.</item>
+        <item quantity="one">Aquí se pueden almacenar elementos durante %1$d día. Mejora tu plan para extender este periodo.</item>
     </plurals>
     <plurals name="video_count_format">
         <item quantity="other">%1$d archivos</item>

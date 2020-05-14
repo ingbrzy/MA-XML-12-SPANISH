@@ -8,7 +8,7 @@
     <string name="app_label">Cola de impresión</string>
     <string name="blocked_notification_title_template">La impresora ha bloqueado %1$s</string>
     <string name="button_delete">Eliminar</string>
-    <string name="button_ok">OK</string>
+    <string name="button_ok">ACEPTAR</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_print">Cancelar tarea</string>
     <string name="cancelling_notification_title_template">Cancelando %1$s</string>
@@ -109,4 +109,15 @@
     <string name="template_all_pages">Todas (%1$s)</string>
     <string name="template_page_range">Intervalo de %1$s</string>
     <string name="wifi_direct">Wi-Fi Direct</string>
+    <string name="activity_convert_pdf_alert_message">La conversión de archivos es proporcionada por WPS Office</string>
+    <string name="activity_convert_pdf_alert_title">Convirtiendo archivos antes de imprimir…</string>
+    <string name="activity_jump_market_alert_install_message">"Instale WPS Office para convertir este archivo y prepararlo para imprimir. Deberá comenzar a imprimir nuevamente una vez que se complete la instalación. ¿Instalar ahora?"</string>
+    <string name="activity_jump_market_alert_install_positive_button">Instalar</string>
+    <string name="activity_jump_market_alert_title">Atención</string>
+    <string name="activity_jump_market_alert_update_message">"Actualice WPS Office para convertir este archivo y prepárelo para imprimir. Deberá comenzar a imprimir nuevamente después de instalar la nueva versión. ¿Actualizar ahora?"</string>
+    <string name="activity_jump_market_alert_update_positive_button">Actualizar</string>
+    <string name="copies_decrease">Menos una copia</string>
+    <string name="copies_increase">Más una copia</string>
+    <string name="wps_convert_error_toast_text">"No se pudo convertir el archivo debido a un error de formato"</string>
+    <string name="wps_convert_too_large_and_wait_toast_text">La conversión puede llevar más tiempo debido al tamaño de archivo más grande. Convirtiendo…</string>
 </resources>
