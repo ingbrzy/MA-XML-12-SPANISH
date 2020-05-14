@@ -21,13 +21,14 @@ Todas la issues que no tengan estos datos serán rechazadas
 * [@danielchc](https://github.com/danielchc)
 * [@rdgi](https://github.com/rdgi)
 * [@Muchachito](https://github.com/Muchachito)
+* [@nmercy-arg](https://github.com/nmercy-arg)
 
 *Si quieres donar para contribuir al proyecto no dudes en contactarnos*
 ## Misc
 
-[Validador XML](https://translators.xiaomi.eu/XML_MIUI11-Spanish-es.html)
+[Validador XML](https://translators.xiaomi.eu/XML_MIUI12-Spanish-es.html)
 
-[Últimos cambios hechos al repositorio original en Inglés para añadir y traducir](https://github.com/ingbrzy/Xiaomi.eu-MIUIv11-XML-Compare)
+[Últimos cambios hechos al repositorio original en Inglés para añadir y traducir](https://github.com/ingbrzy/Xiaomi.eu-MIUIv12-XML-Compare)
 
 [Últimas actualizaciones al repositorio en Español](https://github.com/danielchc/MA-XML-11-SPANISH-Global/commits)
 
