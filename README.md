@@ -30,7 +30,7 @@ Todas la issues que no tengan estos datos serán rechazadas
 
 [Últimos cambios hechos al repositorio original en Inglés para añadir y traducir](https://github.com/ingbrzy/Xiaomi.eu-MIUIv12-XML-Compare)
 
-[Últimas actualizaciones al repositorio en Español](https://github.com/danielchc/MA-XML-11-SPANISH-Global/commits)
+[Últimas actualizaciones al repositorio en Español](https://github.com/ingbrzy/MA-XML-12-SPANISH/commits/master)
 
 
 # Si quieres ayudar a traducir, por favor crea una issue en el repositorio para más información.
