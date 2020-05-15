@@ -70,19 +70,6 @@
     <string name="accessibility_clear_all">Eliminar todas las notificaciones.</string>
     <string name="accessibility_compatibility_zoom_button">Botón de zoom de compatibilidad.</string>
     <string name="accessibility_compatibility_zoom_example">Ampliar de pantalla grande a pequeña.</string>
-    <string name="accessibility_data_connection_1x">1 X</string>
-    <string name="accessibility_data_connection_3.5g">3.5G</string>
-    <string name="accessibility_data_connection_3g">3G</string>
-    <string name="accessibility_data_connection_4g">4G</string>
-    <string name="accessibility_data_connection_4g_plus">4G+</string>
-    <string name="accessibility_data_connection_cdma">CDMA</string>
-    <string name="accessibility_data_connection_edge">Edge</string>
-    <string name="accessibility_data_connection_gprs">GPRS</string>
-    <string name="accessibility_data_connection_hspa">HSPA</string>
-    <string name="accessibility_data_connection_lte">LTE</string>
-    <string name="accessibility_data_connection_lte_plus">LTE+</string>
-    <string name="accessibility_data_connection_roaming">Itinerancia</string>
-    <string name="accessibility_data_connection_wifi">Wi-Fi</string>
     <string name="accessibility_data_one_bar">Una barra de señal para datos.</string>
     <string name="accessibility_data_saver_off">Ahorro de datos desactivado</string>
     <string name="accessibility_data_saver_on">Ahorro de datos activado</string>
@@ -210,7 +197,6 @@
     <string name="accessibility_quick_settings_rotation_value">%s modo</string>
     <string name="accessibility_quick_settings_settings">Abrir ajustes.</string>
     <string name="accessibility_quick_settings_user">Sesión iniciada como %s</string>
-    <string name="accessibility_quick_settings_wifi">%1$s.</string>
     <string name="accessibility_quick_settings_wifi_changed_off">Wi-Fi desactivado.</string>
     <string name="accessibility_quick_settings_wifi_changed_on">Wi-Fi activado.</string>
     <string name="accessibility_quick_settings_work_mode_changed_off">Modo trabajo desactivado.</string>
@@ -229,7 +215,6 @@
     <string name="accessibility_recents_item_launched">Iniciando %s.</string>
     <string name="accessibility_recents_item_open_app_info">Abrir información de %s.</string>
     <string name="accessibility_recents_item_will_be_dismissed">Desestimar%s.</string>
-    <string name="accessibility_recents_task_header">%1$s %2$s</string>
     <string name="accessibility_remove_notification">Eliminar notificación.</string>
     <string name="accessibility_ringer_silent">Silencio.</string>
     <string name="accessibility_ringer_vibrate">Vibración.</string>
@@ -300,7 +285,7 @@
     <string name="as_important">Importante</string>
     <string name="as_unimportant">No importante</string>
     <string name="aspect_cancel">Cancelar</string>
-    <string name="aspect_message">Esta aplicación volverá a ser lanzada en el modo pantalla completa. Si has eencontrado cualquier problema puedes desactivar el modo pantalla completa para esta aplicación en Ajustes > Visualización todo pantalla > Modo todo pantalla.</string>
+    <string name="aspect_message">Esta aplicación volverá a ser lanzada en el modo pantalla completa. Si has eencontrado cualquier problema puedes desactivar el modo pantalla completa para esta aplicación en Ajustes &gt; Visualización todo pantalla &gt; Modo todo pantalla.</string>
     <string name="aspect_ok">ACEPTAR</string>
     <string name="aspect_title">Modo pantalla completa</string>
     <string name="audio_effect_custom">Configurar</string>
@@ -498,7 +483,7 @@ Bluetooth"</string>
     <string name="connected_via_passpoint">Conectado vía %1$s</string>
     <string name="content_description_menu_button">Menú</string>
     <string name="convert_to_fbe_warning">"Convertir partición de datos en encriptación basada en archivo.
- Alerta: Esto eliminará todos tus datos.
+ ¡¡Alerta!! Esto eliminará todos tus datos.
  Esta función está siendo desarrollada y puede no funcionar correctamente.
  Presiona 'Deslizar y convertir…' para continuar."</string>
     <string name="convert_to_file_encryption">Convertir en archivo de encriptación</string>
@@ -595,7 +580,6 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">Pantalla dividida no es compatible con Pantalla de bloqueo.</string>
     <string name="dock_non_resizeble_failed_to_dock_text">La aplicación no es compatible con la pantalla dividida.</string>
     <string name="download_lock_wallpaper">Pulsa dos veces para descargar el Carrusel de fondos de pantalla</string>
-    <string name="doze_pickup_subtype_performs_proximity_check" />
     <string name="drag_to_add_tiles">Mantén pulsado para añadir o reorganizar elementos</string>
     <string name="drag_to_remove_tiles">Arrastra aquí para eliminar</string>
     <string name="drive_mode_tip">Modo coche activado</string>
@@ -744,7 +728,7 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="fs_gesture_back_ready_title">Volver</string>
     <string name="fs_gesture_final_over">He terminado</string>
     <string name="fs_gesture_final_restart">Una vez más</string>
-    <string name="fs_gesture_final_summary">Puede volver a usar los botones en la Configuración > Pantalla completa</string>
+    <string name="fs_gesture_final_summary">Puede volver a usar los botones en la Configuración &gt; Pantalla completa</string>
     <string name="fs_gesture_final_title">¡Todo listo!</string>
     <string name="fs_gesture_finish">¡Genial!</string>
     <string name="fs_gesture_left_back_ready_summary">Deslizar hacia la derecha desde el borde</string>
@@ -771,7 +755,6 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="guest_wipe_session_title">¡Signos exclamación invitado!</string>
     <string name="guest_wipe_session_wipe">Empezar de nuevo</string>
     <string name="gxzw_area">Escáner de huella digital</string>
-    <string name="gxzw_long_press_tip" />
     <string name="gxzw_press_harder">Pulsa con un poco más de fuerza</string>
     <string name="gxzw_quick_open_add_event">Añadir evento</string>
     <string name="gxzw_quick_open_add_event_sub">Calendario</string>
@@ -911,10 +894,8 @@ Utilice sólo el cargador proporcionado."</string>
     <string name="keyguard_carrier_default">Sin servicio</string>
     <string name="keyguard_charged">Cargado</string>
     <string name="keyguard_charging_back_to_lockscreen">Volver a la Pantalla de bloqueo</string>
-    <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="keyguard_charging_info_battery_used_time_text">De batería</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Agotada</string>
-    <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Hoy %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">Ayer %s</string>
     <string name="keyguard_charging_info_last_charged_time_text">Última carga</string>
@@ -932,9 +913,6 @@ Utilice sólo el cargador proporcionado."</string>
     <string name="keyguard_indication_charging_time_slowly">Cargando lentamente (%s hasta llenarse)</string>
     <string name="keyguard_indication_trust_disabled">El dispositivo permanecerá bloqueado hasta que lo desbloquees manualmente</string>
     <string name="keyguard_instructions_when_pattern_disabled">Presiona Menú para desbloquear.</string>
-    <string name="keyguard_left_mi_wallet">Mi Wallet</string>
-    <string name="keyguard_left_remotecentral">Mi control remoto</string>
-    <string name="keyguard_left_smarthome">Mi Home</string>
     <string name="keyguard_left_torch">Linterna</string>
     <string name="keyguard_left_view_lock_wallpaper">Carrusel de fondos de pantalla</string>
     <string name="keyguard_low_battery">Conecta tu cargador.</string>
@@ -949,7 +927,6 @@ Utilice sólo el cargador proporcionado."</string>
     <string name="keyguard_password_enter_pin_prompt">Nuevo PIN de la SIM</string>
     <string name="keyguard_password_enter_puk_code">Introduce el PUK de la SIM y el nuevo PIN</string>
     <string name="keyguard_password_enter_puk_prompt">PUK de la SIM</string>
-    <string name="keyguard_password_entry_touch_hint"><font size="17">Pulsa para introducir la contraseña</font></string>
     <string name="keyguard_password_wrong_pin_code">El código PIN es incorrecto.</string>
     <string name="keyguard_permanent_disabled_sim_instructions">"Tu tarjeta SIM ha sido deshabilitada permanentemente.
  Contacta con tu proveedor de servicio para conseguir otra."</string>
@@ -1017,7 +994,6 @@ Vuelve a intentarlo en %2$d segundos."</string>
     <string name="kg_wrong_password">Contraseña incorrecta</string>
     <string name="kg_wrong_pattern">Patrón incorrecto</string>
     <string name="kg_wrong_pin">PIN incorrecto</string>
-    <string name="kilobyte_per_second">KB/s</string>
     <string name="label_view">Ver</string>
     <string name="launch_defaults_none">Sin ajustes predefinidos</string>
     <string name="launch_defaults_some">Algunos ajustes predefinidos</string>
@@ -1090,7 +1066,6 @@ d MMMM"</string>
     <string name="media_projection_dialog_text">%s comenzará la captura de todo lo que se muestra en la pantalla.</string>
     <string name="media_projection_remember_text">No mostrar de nuevo</string>
     <string name="media_transfer_this_device_name">Este dispositivo</string>
-    <string name="megabyte_per_second">MB/s</string>
     <string name="memory_clear_result_giga">%1$sGB borrados</string>
     <string name="memory_clear_result_mega">%1$sMB borrados</string>
     <string name="menu_ime">Cambiador del teclado</string>
@@ -1112,7 +1087,7 @@ d MMMM"</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Cambiado al Modo silencio. Llamadas, notificaciones y sonidos multimedia silenciados.</string>
     <string name="mobile_data">Datos móviles</string>
     <string name="mobile_data_always_on">Datos móviles siempre activos</string>
-    <string name="mobile_data_always_on_summary">Mantener siempre activos los datos móviles, también cuando Wi‑Fi esté activo (para cambio rápido de red).</string>
+    <string name="mobile_data_always_on_summary">Mantener siempre activos los datos móviles, también cuando Wi-Fi esté activo (para cambio rápido de red).</string>
     <string name="mock_location_app">Seleccionar aplicación para localización ficticia</string>
     <string name="mock_location_app_not_set">No hay aplicación de localización ficticia definida</string>
     <string name="mock_location_app_set">Aplicación de localización ficticia: %1$s</string>
@@ -1204,7 +1179,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="no_application">Nada</string>
     <string name="no_multi_window_app">No hay aplicaciones compatibles con Pantalla Dividida</string>
     <string name="no_notification_tips">Sin notificaciones</string>
-    <string name="no_weather_description">Obtener información meteorológica ></string>
+    <string name="no_weather_description">Obtener información meteorológica &gt;</string>
     <string name="not_set">Sin definir</string>
     <string name="not_support_multi_window">Esta aplicación no es compatible con el modo Pantalla Dividida</string>
     <string name="notch_sos_status_bar_title">SOS</string>
@@ -1224,11 +1199,9 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="notification_channel_switch_accessibility">Permitir notificaciones de este canal</string>
     <string name="notification_channel_tv_pip">Imagen en imagen</string>
     <string name="notification_channel_usb">USB</string>
-    <string name="notification_channels_list_desc_2">%1$s, %2$s</string>
     <string name="notification_default_channel_desc">Esta aplicación no tiene categorías de notificaciones</string>
     <string name="notification_done">Listo</string>
     <string name="notification_group_collapse_button_text">Doblar</string>
-    <string name="notification_group_overflow_indicator">+%s</string>
     <string name="notification_header_default_channel">Notificaciones</string>
     <string name="notification_header_title">Notificaciones</string>
     <string name="notification_hidden_by_policy_text">Contenido oculto</string>
@@ -1241,7 +1214,6 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="notification_low_battery_title">Menos de %d%% de batería restante</string>
     <string name="notification_manager">Gestionar notificaciones</string>
     <string name="notification_manager_des">Filtrar y gestionar notificaciones</string>
-    <string name="notification_menu_accessibility">%1$s %2$s</string>
     <string name="notification_menu_filter_description">Notificaciones no importantes</string>
     <string name="notification_menu_filter_secondary_text">Todas las notificaciones de %s aparecerán en una carpeta separada.</string>
     <string name="notification_menu_filter_title">No importante</string>
@@ -1290,11 +1262,11 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="phone_locked_foget_password">¿Olvidaste la contraseña?</string>
     <string name="phone_locked_foget_password_mehod_back">Atrás</string>
     <string name="phone_locked_foget_password_method">¿Olvidaste la contraseña?</string>
-    <string name="phone_locked_foget_password_method_content">&lt;Data>Tienes que &lt;font color=#a5220e>borrar todos los datos &lt;/font> de tu dispositivo, incluyendo fotos y contactos, y después establecer una nueva contraseña de Pantalla de bloqueo.&lt;/Data></string>
+    <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Tienes que &amp;lt;font color=#a5220e&amp;gt;borrar todos los datos &amp;lt;/font&amp;gt;de tu dispositivo, incluyendo fotos y contactos, y después establecer una nueva contraseña de Pantalla de bloqueo.&lt;/Data&gt;</string>
     <string name="phone_locked_foget_password_method_next">Siguiente</string>
     <string name="phone_locked_foget_password_ok">Entendido</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data>Apaga tu dispositivo, presiona y mantén el &lt;font color=#a5220e>botón de encendido&lt;/font> y el &lt;font color=#a5220e>botón de subir volumen&lt;/font> simultáneamente hasta que veas el logo de Mi.&lt;/Data></string>
-    <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>Selecciona &lt;font color=#a5220e>\"Limpiar y Restablecer\"&lt;/font> y espera hasta que el dispositivo se reinicie.;&lt;/Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Apaga tu dispositivo, presiona y mantén el &amp;lt;font color=#a5220e&amp;gt;botón de encendido&amp;lt;/font&amp;gt; y el &amp;lt;font color=#a5220e&amp;gt;botón de subir volumen&amp;lt;/font&amp;gt; simultáneamente hasta que veas el logo de Mi.&lt;/Data&gt;</string>
+    <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Selecciona &amp;lt;font color=#a5220e&amp;gt;\"Limpiar y Restablecer\"&amp;lt;/font&amp;gt; y espera hasta que el dispositivo se reinicie.&lt;/Data&gt;</string>
     <string name="phone_locked_forget_password_suggesstions_title">¿Cómo borrar los datos?</string>
     <string name="phone_locked_string">El teléfono ha sido bloqueado</string>
     <string name="picture_color_mode">Modo color de imagen</string>
@@ -1326,32 +1298,32 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="power_discharging_duration_enhanced">Sobre %1$s restante basado en tu uso (%2$s)</string>
     <string name="power_notification_controls_description">"Con los controles de notificaciones de energía puedes fijar un nivel de importancia del 0 al 5 para notificaciones de aplicaciones. 
 
-"<b>Nivel 5</b>" 
+"&lt;b&gt;Level 5&lt;/b&gt;" 
 - Mostrar en la parte superior de la lista de notificaciones 
 - Permitir la interrupción de pantalla completa 
 - Siempre visible 
 
-"<b>Nivel 4</b>" 
+"&lt;b&gt;Level 4&lt;/b&gt;" 
 - Evitar la interrupción de pantalla completa 
 - Siempre visible 
 
-"<b>Nivel 3</b>" 
+"&lt;b&gt;Level 3&lt;/b&gt;" 
 - Evitar la interrupción de pantalla completa 
 - Nunca visible 
 
-"<b>Nivel 2</b>" 
+"&lt;b&gt;Level 2&lt;/b&gt;" 
 - Evitar la interrupción de pantalla completa 
 - Nunca visible 
 - Nunca reproducir sonidos o vibrar 
 
-"<b>Nivel 1</b>" 
+"&lt;b&gt;Level 1&lt;/b&gt;" 
 - Evitar la interrupción de pantalla completa 
 - Nunca visible 
 - Nunca reproducir sonidos o vibrar 
 - Ocultar de la Pantalla de Bloqueo y barra de estado 
 - Mostrar al final de la lista de notificaciones 
 
-"<b>Nivel 0</b>" 
+"&lt;b&gt;Level 0&lt;/b&gt;" 
 - Bloquear todas las notificaciones de la aplicación "</string>
     <string name="power_remaining_charging_duration_only">%1$s restante hasta que esté completamente cargado</string>
     <string name="power_remaining_duration_only">Sobre %1$s restante</string>
@@ -1533,7 +1505,6 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="recents_title_garbage_deepclean">Limpieza profunda</string>
     <string name="recents_title_market">Encontrar aplicaciones</string>
     <string name="recents_title_security_scan">Análisis de seguridad</string>
-    <string name="regrettable_lack_of_easter_egg">¯\\_(ツ)_/¯</string>
     <string name="reject_call">Rechazando llamada</string>
     <string name="remaining_length_format">%1$s restante</string>
     <string name="remove_from_settings">Eliminar de Ajustes</string>
@@ -1663,9 +1634,10 @@ d MMM"</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Configurar métodos de entrada</string>
     <string name="status_bar_latest_events_title">Notificaciones</string>
     <string name="status_bar_network_flow_content">"Hoy: %1$s   Restante: %2$s"</string>
-    <string name="status_bar_network_flow_exceed_content">Hoy: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan excedido: &lt;font color=%2$s>%3$s&lt;/font></string>
+  <string name="status_bar_network_flow_exceed_content">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan exceeded: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
+    <string name="status_bar_network_flow_exceed_content">Hoy: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan excedido: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
     <string name="status_bar_network_flow_limit">"   Límite mensual: %1$s   "</string>
-    <string name="status_bar_network_flow_purchase">"   Comprar >"</string>
+    <string name="status_bar_network_flow_purchase">"   Comprar &gt;"</string>
     <string name="status_bar_network_flow_today">Hoy: %1$s</string>
     <string name="status_bar_no_notifications_title">Sin notificaciones</string>
     <string name="status_bar_no_recent_apps">Tus pantallas recientes aparecen aquí</string>
@@ -1679,7 +1651,6 @@ Desliza hacia abajo para bloquear"</string>
     <string name="status_bar_recent_guide_top">Desliza hacia arriba para cerrar</string>
     <string name="status_bar_recent_inspect_item_title">Información de aplicación</string>
     <string name="status_bar_recent_memory_info1">%1$sB de %2$sB disponibles</string>
-    <string name="status_bar_recent_memory_info2" />
     <string name="status_bar_recent_remove_item_title">Eliminar de la lista</string>
     <string name="status_bar_recording_back">Volver a la Grabadora</string>
     <string name="status_bar_recording_pause">Grabadora pausada</string>
@@ -1971,8 +1942,8 @@ Cualquier usuario puede actualizar aplicaciones para otros."</string>
     <string name="wifi_check_password_try_again">Comprueba la contraseña y vuelve a intentarlo</string>
     <string name="wifi_connected_mac_randomization">Conectado a aleatorización MAC</string>
     <string name="wifi_connected_no_internet">Conectado, sin internet</string>
-    <string name="wifi_coverage_extend">Activar extensión de cobertura Wi‑Fi</string>
-    <string name="wifi_coverage_extend_summary">Aumentar la cobertura Wi‑Fi utilizando un punto de acceso</string>
+    <string name="wifi_coverage_extend">Activar extensión de cobertura Wi-Fi</string>
+    <string name="wifi_coverage_extend_summary">Aumentar la cobertura Wi-Fi utilizando un punto de acceso</string>
     <string name="wifi_disabled_by_recommendation_provider">Sin conectar debido a la baja calidad de la red</string>
     <string name="wifi_disabled_generic">Deshabilitado</string>
     <string name="wifi_disabled_network_failure">No se puede configurar la IP</string>
@@ -1992,14 +1963,7 @@ Cualquier usuario puede actualizar aplicaciones para otros."</string>
     <string name="wifi_remembered">Guardado</string>
     <string name="wifi_scan_throttling">Limitación para búsqueda de redes Wi-Fi</string>
     <string name="wifi_scan_throttling_summary">Reduce el uso de batería y mejora el rendimiento de la red</string>
-    <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
-    <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_none">Nada</string>
-    <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
-    <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
-    <string name="wifi_security_wapi_cert">WAPI-Cert</string>
-    <string name="wifi_security_wapi_psk">WAPI-PSK</string>
-    <string name="wifi_security_wapi_psk_ascii">ASCII</string>
     <string name="wifi_security_wapi_psk_hexadecimal">Hexadecimal</string>
     <string name="wifi_ssid_is_empty">SSID no puede estar en blanco</string>
     <string name="wifi_ssid_length_is_max">SSID puede contener hasta 32 caracteres</string>
@@ -2007,8 +1971,8 @@ Cualquier usuario puede actualizar aplicaciones para otros."</string>
     <string name="wifi_status_no_internet">Sin internet</string>
     <string name="wifi_status_sign_in_required">Se requiere inicio de sesión</string>
     <string name="wifi_unmetered_label">No medido</string>
-    <string name="wifi_verbose_logging">Activar registro extenso de Wi‑Fi</string>
-    <string name="wifi_verbose_logging_summary">Aumentar nivel de registro de Wi‑Fi, mostrar RSSI para todas las SSID en la lista de redes Wi‑Fi.</string>
+    <string name="wifi_verbose_logging">Activar registro extenso de Wi-Fi</string>
+    <string name="wifi_verbose_logging_summary">Aumentar nivel de registro de Wi-Fi, mostrar RSSI para todas las SSID en la lista de redes Wi-Fi.</string>
     <string name="wifi_wapi_as_certificate">Certificado AS</string>
     <string name="wifi_wapi_cert_mode_hand_text">Seleccionar manualmente</string>
     <string name="wifi_wapi_certification_dont_exist">La contraseña de red introducida no es correcta.</string>
@@ -2072,7 +2036,6 @@ Parece que los credenciales de almacenamiento no están habilitados."</string>
     <string name="choose_clock_third_theme_hint_text">Pantalla de bloqueo del tema aplicado actualmente</string>
     <string name="clear_text_end_icon_content_description">Borrar texto</string>
     <string name="config_navBarLayout">izquierda,atrás;inicio;reciente,derecha</string>
-    <string name="control_quick_settings_tiles_default">linterna,silencio,captura de pantalla,modo avión,bloqueo de pantalla,gps,rotación,modo papel,noche,modo silencioso,protector de batería,ahorro extremo de batería,personalizado (com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),personalizado (com.milink.service /com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,custom(com.miui.screenrecorder/.service.QuickService),vibrate,hotspot,sync,botón de pantalla,potencia inalámbrica,nfc,editar</string>
     <string name="control_quick_settings_tiles_stock">linterna,silencio,captura de pantalla,modo avión,bloqueo de pantalla,gps,rotación,modo papel,noche,modo silencioso,ahorro de batería,ahorro extremo de batería,modo de potencia,vibración,punto de acceso,sincronización,botón de pantalla,potencia inalámbrica,nfc,edición,modo de manejo</string>
     <string name="control_quick_settings_tiles_super_save">gps,nfc,captura de pantalla,vibrar</string>
     <string name="default_theme">Predeterminado</string>
@@ -2139,7 +2102,7 @@ Parece que los credenciales de almacenamiento no están habilitados."</string>
     <string name="quick_settings_cellular_detail_unable_change">"No se puede configurar durante la llamada"</string>
     <string name="quick_settings_sim_disabled">" (Discapacitado)"</string>
     <string name="quick_settings_tiles">predeterminado</string>
-    <string name="quick_settings_tiles_default">celular,wifi,linterna,silencio,captura de pantalla,bt,brillo automático,avión,bloqueo de pantalla,gps,rotación,modo papel,noche,modo silencioso,ahorro de batería,ahorro extremo de batería,personalizado (com.miui.securitycenter /com.miui.superpower.notification.SuperPowerTileService) ,personalizado (com.milink.service /com.milink.ui.service.MiLinkTileService),personalizado (com.miui.mishare.connectivity /.tile.MiShareTileService),powermode,personalizado (com.miui.screenrecorder /.service.QuickService ),vibrar,zona activa,sincronización,botón de pantalla,energía inalámbrica,nfc,editar</string>
+    <string name="quick_settings_tiles_default">celular,wifi,linterna,silencio,captura de pantalla,bt,brillo automático,avión,bloqueo de pantalla,gps,rotación,modo papel,noche,modo silencioso,ahorro de batería,ahorro extremo de batería,personalizado(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),personalizado(com.milink.service/com.milink.ui.service.MiLinkTileService),personalizado(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,personalizado(com.miui.screenrecorder/.service.QuickService ),vibrar,zona activa,sincronización,botón de pantalla,energía inalámbrica,nfc,editar</string>
     <string name="quick_settings_tiles_old_mode">celular,wifi,bt,linterna,batería,captura de pantalla,editar</string>
     <string name="quick_settings_tiles_retail_mode">celular,batería,modo de alimentación,linterna,rotación,ubicación</string>
     <string name="quick_settings_tiles_stock">celular,wifi,linterna,silencio,captura de pantalla,bt,brillo automático,avión,bloqueo de pantalla,gps,rotación,modo de papel,noche,modo silencioso,ahorro de batería,ahorro extremo de batería,modo de energía,vibración,punto de acceso,sincronización,botón de pantalla,potencia inalámbrica,nfc,edición,modo de manejo,modo de trabajo</string>
