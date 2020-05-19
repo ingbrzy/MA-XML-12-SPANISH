@@ -27,7 +27,15 @@
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="afternoon">Tarde</string>
+    <string name="clearable_edittext_clear_description">Claro</string>
+    <string name="date_picker_lunar">Calendario Tradicional Chino</string>
+    <string name="early_morning">Mañana</string>
+    <string name="eras_ad">DC</string>
+    <string name="eras_bc">AC</string>
+    <string name="evening">Tarde</string>
     <string name="mi_service_app_name">Servicios y comentarios</string>
+    <string name="midnight">Noche</string>
     <string name="miservice_channel_update_notification_info">\"Servicios y comentarios\" está solicitando datos online…</string>
     <string name="miservice_notification_boot_content">Aprende más sobre lo que puede hacer MIUI</string>
     <string name="miservice_notification_huanji_content">Transfiérelos usando Mi Mover</string>
@@ -93,8 +101,8 @@
     <string name="miui_feedback_edit_storage_permission_name">Acceder al almacenamiento del dispositivo</string>
     <string name="miui_feedback_edit_submit_dialog_cancel">No aceptar</string>
     <string name="miui_feedback_edit_submit_dialog_confirm">Aceptar</string>
-    <string name="miui_feedback_edit_submit_dialog_content">&lt;Data>Debes aceptar nuestra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidad&lt;/a> y nuestro &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Acuerdo de Usuario&lt;/a> para poder utilizar la función de Comentarios. Los problemas que reportes, así como los elementos que adjuntes (podrían contener información personal, sobre tu dispositivo y sobre la red) serán subidos a los servidores de MIUI. Esto nos ayudará a localizar y solucionar los problemas que reportes.&lt;/Data></string>
-    <string name="miui_feedback_edit_submit_dialog_content_global">&lt;Data>Tus comentarios, junto con los archivos adjuntos (si los hubiese) y los registros (puedes desmarcar las casillas correspondientes de los elementos que no quieres subir), se enviarán a los servidores de MIUI. Los registros podrían contener información personal y tus datos de ubicación. Seleccionando Aceptar significa que has leído y aceptado nuestra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidad&lt;/a> y &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Acuerdo de Usuario&lt;/a>.&lt;/Data></string>
+    <string name="miui_feedback_edit_submit_dialog_content">&lt;Data&gt;Debes aceptar nuestra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Política de Privacidad&lt;/a&gt; y nuestro &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;Acuerdo de Usuario&lt;/a&gt; para poder utilizar la función de Comentarios. Los problemas que reportes, así como los elementos que adjuntes (podrían contener información personal, sobre tu dispositivo y sobre la red) serán subidos a los servidores de MIUI. Esto nos ayudará a localizar y solucionar los problemas que reportes.&lt;/Data&gt;</string>
+    <string name="miui_feedback_edit_submit_dialog_content_global">&lt;Data&gt;Tus comentarios, junto con los archivos adjuntos (si los hubiese) y los registros (puedes desmarcar las casillas correspondientes de los elementos que no quieres subir), se enviarán a los servidores de MIUI. Los registros podrían contener información personal y tus datos de ubicación. Seleccionando Aceptar significa que has leído y aceptado nuestra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Política de Privacidad&lt;/a&gt; y &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;Acuerdo de Usuario&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="miui_feedback_edit_submit_dialog_not_show_again">No mostrar de nuevo</string>
     <string name="miui_feedback_edit_submit_dialog_title">Enviar reporte</string>
     <string name="miui_feedback_edit_submit_directly">Enviar</string>
@@ -136,36 +144,6 @@
     <string name="miui_main_update_success_sub_title">Conoce el nuevo MIUI</string>
     <string name="miui_main_update_success_title">Haz tu vida más fácil</string>
     <string name="miui_main_update_success_title_12">Solo tuyo</string>
-    <string name="permission_agree">Aceptar</string>
-    <string name="permission_china_version_msg">&lt;Data>Antes de usar \"Servicios y comentarios\", debes leer y aceptar nuestro &lt;a href=%1$s>Acuerdo de Usuario&lt;/a> y &lt;a href=%2$s>Política de Privacidad&lt;/a>. Esta aplicación también necesita conectarse a internet para trabajar con normalidad.&lt;/Data></string>
-    <string name="permission_complete">Listo</string>
-    <string name="permission_contacts_info">Acceso a la información de la cuenta</string>
-    <string name="permission_contacts_introduce">Para iniciar sesión usando una Cuenta Mi</string>
-    <string name="permission_device_info">Acceder a la información del dispositivo</string>
-    <string name="permission_device_introduce">Para determinar el periodo límite de la garantía</string>
-    <string name="permission_exit">Salir</string>
-    <string name="permission_first_start_network_title">Términos y condiciones</string>
-    <string name="permission_main_purpose">Mostrar funciones demo de MIUI, enviar comentarios y solicitar servicios post venta.</string>
-    <string name="permission_privacy">Política de Privacidad (obligatorio)</string>
-    <string name="permission_region_version_msg">&lt;Data>Antes de usar \"Servicios y comentarios\", debes leer y aceptar nuestro &lt;a href=%1$s>Acuerdo de Usuario&lt;/a> y &lt;a href=%2$s>Política de Privacidad&lt;/a>.&lt;/Data></string>
-    <string name="permission_select_all">Seleccionar todo</string>
-    <string name="permission_storage">Almacenamiento</string>
-    <string name="permission_storage_introduce">Para guardar elementos en tu dispositivo</string>
-    <string name="permission_user_protocol">Acuerdo de Usuario (obligatorio)</string>
-    <string name="public_loading_text">Un momento…</string>
-    <string name="public_net_error_retry">Vuelve a intentarlo</string>
-    <string name="public_net_error_sub_title">Comprueba la configuración de red y vuelve a intentarlo</string>
-    <string name="public_net_error_title">No se pudo conectar a la red</string>
-    <string name="search_menu_title">Buscar</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="afternoon">Tarde</string>
-    <string name="clearable_edittext_clear_description">Claro</string>
-    <string name="date_picker_lunar">Calendario Tradicional Chino</string>
-    <string name="early_morning">Mañana</string>
-    <string name="eras_ad">DC</string>
-    <string name="eras_bc">AC</string>
-    <string name="evening">Tarde</string>
-    <string name="midnight">Noche</string>
     <string name="miuix_appcompat_cloud_state_disabled">La sincronización con la nube está desactivada</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronizado con la nube completado</string>
     <string name="miuix_appcompat_cloud_state_syncing">Sincronizando con la nube…</string>
@@ -181,8 +159,29 @@
     <string name="morning">Mañana</string>
     <string name="night">Noche</string>
     <string name="noon">Mediodía</string>
+    <string name="permission_agree">Aceptar</string>
+    <string name="permission_china_version_msg">&lt;Data&gt;Antes de usar \"Servicios y comentarios\", debes leer y aceptar nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt;. Esta aplicación también necesita conectarse a internet para trabajar con normalidad.&lt;/Data&gt;</string>
+    <string name="permission_complete">Listo</string>
+    <string name="permission_contacts_info">Acceso a la información de la cuenta</string>
+    <string name="permission_contacts_introduce">Para iniciar sesión usando una Cuenta Mi</string>
+    <string name="permission_device_info">Acceder a la información del dispositivo</string>
+    <string name="permission_device_introduce">Para determinar el periodo límite de la garantía</string>
+    <string name="permission_exit">Salir</string>
+    <string name="permission_first_start_network_title">Términos y condiciones</string>
+    <string name="permission_main_purpose">Mostrar funciones demo de MIUI, enviar comentarios y solicitar servicios post venta.</string>
+    <string name="permission_privacy">Política de Privacidad (obligatorio)</string>
+    <string name="permission_region_version_msg">&lt;Data&gt;Antes de usar \"Servicios y comentarios\", debes leer y aceptar nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="permission_select_all">Seleccionar todo</string>
+    <string name="permission_storage">Almacenamiento</string>
+    <string name="permission_storage_introduce">Para guardar elementos en tu dispositivo</string>
+    <string name="permission_user_protocol">Acuerdo de Usuario (obligatorio)</string>
+    <string name="public_loading_text">Un momento…</string>
+    <string name="public_net_error_retry">Vuelve a intentarlo</string>
+    <string name="public_net_error_sub_title">Comprueba la configuración de red y vuelve a intentarlo</string>
+    <string name="public_net_error_title">No se pudo conectar a la red</string>
     <string name="rationale_ask">Es posible que esta aplicación no funcione correctamente sin los permisos solicitados.</string>
     <string name="rationale_ask_again">Es posible que esta aplicación no funcione correctamente sin los permisos solicitados. Abra la pantalla de configuración de la aplicación para modificar los permisos de la aplicación.</string>
+    <string name="search_menu_title">Buscar</string>
     <string name="share_cancel">Compartir cancelado</string>
     <string name="share_failed">"No se pudo compartir"</string>
     <string name="share_no_network">"No se pudo conectar a la red"</string>

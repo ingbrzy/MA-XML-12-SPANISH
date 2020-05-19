@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Ir hacia arriba</string>
     <string name="abc_action_menu_overflow_description">Más</string>
     <string name="abc_action_mode_done">Listo</string>
@@ -19,8 +17,6 @@
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
-    <string name="search_menu_title">Buscar</string>
-    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="age_label_add_to_calendar">Añadir a Calendario</string>
     <string name="age_label_dob">Fecha de nacimiento</string>
     <string name="age_label_hours">Horas</string>
@@ -78,8 +74,6 @@
     <string name="currency_update_support">Tipos de cambio proporcionados por Webull.</string>
     <string name="currency_update_time_format">Tipos de cambio proporcionados por Webull (%s)</string>
     <string name="currency_update_updating">Actualizando tasas…</string>
-    <string name="current_rate_remind_commercial" />
-    <string name="current_rate_remind_fund" />
     <string name="dateformat">dd/MM/yyyy</string>
     <string name="day">día</string>
     <string name="degDesc">Ángulo</string>
@@ -93,16 +87,6 @@
     <string name="dialog_rating_desc_less">¿Podrías darnos también tu opinión?</string>
     <string name="dialog_rating_desc_perfect">¡Genial! ¿Valorar también la Calculadora en la Tienda de aplicaciones?</string>
     <string name="dialog_rating_title">Valora nuestra aplicación</string>
-    <string name="digit0">0</string>
-    <string name="digit1">1</string>
-    <string name="digit2">2</string>
-    <string name="digit3">3</string>
-    <string name="digit4">4</string>
-    <string name="digit5">5</string>
-    <string name="digit6">6</string>
-    <string name="digit7">7</string>
-    <string name="digit8">8</string>
-    <string name="digit9">9</string>
     <string name="divDesc">dividir</string>
     <string name="dob_selection_error">La fecha de nacimiento debe ser anterior a la fecha de hoy</string>
     <string name="dotDesc">punto</string>
@@ -117,7 +101,6 @@
     <string name="extra_deduction_title">Deducciones adicionales</string>
     <string name="factorialDesc">factorial</string>
     <string name="float_window_guide_text">Pulsa aquí para minimizar la calculadora</string>
-    <string name="fund" />
     <string name="fund_loan">Préstamo de fondos</string>
     <string name="further_education">Estudios superiores</string>
     <string name="global_network_confirm_content">El conversor de divisas necesita conectarse a internet para funcionar normalmente.</string>
@@ -145,7 +128,6 @@
     <string name="home_loan">Interés hipotecario</string>
     <string name="home_title_calculator">Calculadora</string>
     <string name="house_rent">Alquiler</string>
-    <string name="income_type" />
     <string name="install">Instalar</string>
     <string name="install_scanner_to_continued_use">Escáner está desinstalado. ¿Instalar de nuevo?</string>
     <string name="interest_rate_hint">Introducir tasa de interés</string>
@@ -195,7 +177,6 @@
     <string name="label_total_payment">Pago total</string>
     <string name="label_total_principal">Capital</string>
     <string name="label_years">Años</string>
-    <string name="leftParen">(</string>
     <string name="leftParenDesc">paréntesis izquierdo</string>
     <string name="lg">lg</string>
     <string name="lgDesc">logaritmo</string>
@@ -231,7 +212,6 @@ El LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden pro
     <string name="medical_treatment">Tratamiento médico</string>
     <string name="menuDesc">menú</string>
     <string name="minusDesc">menos</string>
-    <string name="month" />
     <string name="mortgage_amount">Total (×10K)</string>
     <string name="mortgage_average_repayment_first_month">Primer mes de reembolso</string>
     <string name="mortgage_average_repayment_monthly">Reembolso mensual</string>
@@ -269,7 +249,6 @@ El LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden pro
     <string name="mulDesc">multiplicar</string>
     <string name="n_a">N/D</string>
     <string name="name_amount">Cantidad</string>
-    <string name="name_cgst">CGST/SGST: 2.5</string>
     <string name="name_discount">Descuento (% de descuento)</string>
     <string name="name_gst">GST</string>
     <string name="name_is">Resultado</string>
@@ -286,8 +265,7 @@ El LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden pro
     <string name="network_purpose">¡Bienvenido a la Calculadora! La Calculadora te permite convertir divisas, calcular pagos de hipotecas y más.</string>
     <string name="none">Nada</string>
     <string name="not_supported_due_to_language">Esta función solo está disponible en el idioma chino</string>
-    <string name="ok">OK </string>
-    <string name="percent" />
+    <string name="ok">ACEPTAR </string>
     <string name="percentDesc">por ciento</string>
     <string name="piDesc">pi</string>
     <string name="plusDesc">más</string>
@@ -303,8 +281,6 @@ El LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden pro
     <string name="preference_follow_qq_group">Grupo de QQ: 523274279</string>
     <string name="preference_follow_us">Síguenos</string>
     <string name="preference_follow_web_title">Pagina web oficial</string>
-    <string name="preference_follow_wechat_title">WeChat</string>
-    <string name="preference_follow_weibo_title">Sina Weibo</string>
     <string name="preference_help">Ayuda y comentarios</string>
     <string name="preference_other">Otros</string>
     <string name="preference_privacy_title">Política de Privacidad</string>
@@ -321,23 +297,22 @@ El LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden pro
     <string name="rate_data_provider">Tasas de interés proporcionadas por hexun.com</string>
     <string name="reciprocalDesc">Recíproco</string>
     <string name="reverceDesc">arco</string>
-    <string name="rightParen">)</string>
     <string name="rightParenDesc">paréntesis derecho</string>
     <string name="scannerDesc">Escáner</string>
     <string name="scanner_had_been_uninstalled">Escáner desinstalado</string>
+    <string name="search_menu_title">Buscar</string>
     <string name="secondFunctionDesc">Cambiar a la segunda función</string>
     <string name="settingsDesc">ajustes</string>
     <string name="sin">sen</string>
     <string name="sinDesc">seno</string>
-    <string name="social_security" />
     <string name="sqrtDesc">raíz cuadrada</string>
-    <string name="start_calculate" />
     <string name="statistic_label_balance">Saldo</string>
     <string name="statistic_label_interest">Interés</string>
     <string name="statistic_label_month">Mes</string>
     <string name="statistic_label_monthly">Mensual</string>
     <string name="statistic_label_yearly">Anual</string>
     <string name="statistic_year">Año %d</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="support_elder">Ayudas para la tercera edad</string>
     <string name="switchDesc">Cambiar</string>
     <string name="tab_title_calculator">Calculadora</string>
@@ -369,7 +344,6 @@ El LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden pro
     <string name="tax_detail_rate">Tasa de impuestos</string>
     <string name="tax_detail_take_off">Deducción</string>
     <string name="tax_detail_tax_payed">Cantidad pagada</string>
-    <string name="tax_edittext_hint" />
     <string name="tax_endowment">Fondo de pensiones</string>
     <string name="tax_fixed_salary_hint">Introduce tus ingresos brutos</string>
     <string name="tax_income_annual_bonus_list">Bonos anuales</string>
@@ -399,12 +373,9 @@ El LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden pro
     <string name="tax_thershold_native_new">%s (nuevo)</string>
     <string name="tax_thershold_native_new_description">Los impuestos se calcularán de acuerdo a la nueva ley de impuestos a partir del 1 de octubre de 2018</string>
     <string name="tax_threshold">Umbral libre de impuestos</string>
-    <string name="tax_title_primary" />
-    <string name="tax_title_secondary" />
     <string name="tax_total_insurance_provident_fund">Seguro y fondo de vivienda</string>
     <string name="tax_unemployment">Desempleo</string>
     <string name="tax_update_time_format">Datos suministrados por HeXun (%s)</string>
-    <string name="times" />
     <string name="unKnow_error">Error desconocido</string>
     <string name="unit_cm">Centímetros</string>
     <string name="unit_data_display_area_acre">Acre</string>
@@ -435,7 +406,6 @@ El LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden pro
     <string name="unit_data_display_currency_bnd">Dólar de Brunéi</string>
     <string name="unit_data_display_currency_brl">Real brasileño</string>
     <string name="unit_data_display_currency_byn">Rublo bielorruso</string>
-    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Dólar canadiense</string>
     <string name="unit_data_display_currency_chf">Franco suizo</string>
     <string name="unit_data_display_currency_clp">Peso chileno</string>
@@ -693,7 +663,6 @@ El LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden pro
     <string name="unit_meter">Metros</string>
     <string name="unit_myriads">×10K</string>
     <string name="unit_pound">Libras</string>
-    <string name="unit_times" />
     <string name="unit_year">A</string>
     <string name="unit_year_format">Año %s</string>
     <string name="unit_yuan">CNY</string>
@@ -705,36 +674,12 @@ El LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden pro
     <string name="warn_locale_unsupport_for_voice">La salida de voz todavía no es soportada para este idioma.</string>
     <string name="weight_prompt">Peso</string>
     <string name="wf_word_figure">Caracteres financieros</string>
-    <string name="word_figure_big_unit_fen">分</string>
-    <string name="word_figure_big_unit_jiao">角</string>
-    <string name="word_figure_big_unit_wan">"万 "</string>
-    <string name="word_figure_big_unit_yi">"亿 "</string>
-    <string name="word_figure_big_unit_zhao">"兆 "</string>
     <string name="word_figure_guide_text">Mantén presionado el texto para convertirlo entre casos.</string>
-    <string name="word_figure_number_0">零</string>
-    <string name="word_figure_number_1">壹</string>
-    <string name="word_figure_number_2">贰</string>
-    <string name="word_figure_number_3">叁</string>
-    <string name="word_figure_number_4">肆</string>
-    <string name="word_figure_number_5">伍</string>
-    <string name="word_figure_number_6">陆</string>
-    <string name="word_figure_number_7">柒</string>
-    <string name="word_figure_number_8">捌</string>
-    <string name="word_figure_number_9">玖</string>
-    <string name="word_figure_unit_bai">佰</string>
-    <string name="word_figure_unit_qian">仟</string>
-    <string name="word_figure_unit_shi">拾</string>
-    <string name="word_figure_yuan">元</string>
-    <string name="word_figure_zheng">整</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">No se pudo conectar con Descargas. Comprueba si esta aplicación tiene todos los permisos requeridos en Ajustes y Aplicaciones instaladas.</string>
     <string name="xiaomi_external_storage_unavailable">Almacenamiento no disponible. Comprueba tu tarjeta SD.</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"Versión de introducción %1$s
 Tamaño:%2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Versión de introducción %1$s
 Tamaño de la actualización delta:%2$s"</string>
     <string name="xiaomi_update_dialog_title">¡Actualización de %1$s!</string>
-    <string name="year" />
 </resources>

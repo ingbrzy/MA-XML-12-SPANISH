@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ai_assistant_not_installed">Primero instale AI Call Assistant</string>
     <string name="antispam_local_marked">Marcado localmente</string>
     <string name="antispam_notification_title">Número desconocido</string>
     <string name="antispam_provider">Identificado por %s</string>
@@ -106,18 +107,10 @@
     <string name="description_image_button_zero">cero</string>
     <string name="description_message_list_title">Lista de respuestas rápidas</string>
     <string name="description_target_answer">Contestar</string>
-    <string name="dialpad_eight">8</string>
-    <string name="dialpad_five">5</string>
-    <string name="dialpad_four">4</string>
-    <string name="dialpad_nine">9</string>
-    <string name="dialpad_one">1</string>
-    <string name="dialpad_seven">7</string>
-    <string name="dialpad_six">6</string>
-    <string name="dialpad_three">3</string>
-    <string name="dialpad_two">2</string>
-    <string name="dialpad_zero">0</string>
     <string name="do_not_support_video_calls_by_remote">Las videollamadas no compatibles en el otro dispositivo</string>
     <string name="emergency_call_dialog_number_for_display">Número de emergencia</string>
+    <string name="enter_ai_assistant">Usar</string>
+    <string name="enter_ai_assistant_tip">"AI Call Assistant puede atender esta llamada y transcribir el discurso de la otra persona por usted. ¿Permitir que AI responda ahora?"</string>
     <string name="inCallLabel">Teléfono</string>
     <string name="incall_bubble_hangup_click_hint">Vuelve a tocar para volver a la llamada</string>
     <string name="incall_call_type_label_sip">Llamada por Internet</string>
@@ -138,7 +131,6 @@
     <string name="incoming_circle_text_video_answer_p">Desliza hacia arriba para responder con videollamada</string>
     <string name="manageConferenceLabel">Gestionar llamada de conferencia</string>
     <string name="manager_conference_done">Listo</string>
-    <string name="msim_select_default_time_left">(%d s)</string>
     <string name="notification_action_accept">ACEPTAR</string>
     <string name="notification_action_answer_video">Vídeo</string>
     <string name="notification_action_answer_voice">Voz</string>
@@ -187,11 +179,6 @@
     <string name="select_sim_hint_for_heduohao">"Can't use other, while SIM %1$d Sub %2$d is in use."</string>
     <string name="select_voice_call_sim">Elegir tarjeta SIM</string>
     <string name="separate_from_conference">Separar llamada</string>
-    <string name="sim1_description">SIM1</string>
-    <string name="sim1_heduohao_card">Sub1</string>
-    <string name="sim2_description">SIM2</string>
-    <string name="sim2_heduohao_card">Sub2</string>
-    <string name="sim3_heduohao_card">Sub3</string>
     <string name="sip_call_not_support_record">No se pueden grabar llamadas SIP</string>
     <string name="supp_service_notification_call_waiting">El número que has marcado está ocupado. Por favor espera…</string>
     <string name="suspect_info">Se cuidadoso con tu información personal.</string>
@@ -199,6 +186,7 @@
     <string name="unlock_phone">Desbloquear dispositivo</string>
     <string name="upgrade_vt_prompt">¿Cambiar a videollamada?</string>
     <string name="user_locked_prompt">Desbloquea el dispositivo para acceder a Contactos.</string>
+    <string name="video_call_downgrade_insufficient_bandwidth">Ancho de banda insuficiente, cambiando a llamada de voz</string>
     <string name="video_conference_caller_info_name">Llamada de vídeo-conferencia de %1$s</string>
     <string name="video_crbt_title">El tono de devolución de llamada de la otra parte está sonando</string>
     <string name="voicemail">Buzón de voz</string>
@@ -207,9 +195,5 @@
     <string name="wait_prompt_str">"¿Enviar los siguientes tonos?
 "</string>
     <string name="waiting_close_airplane_mode">Un momento…</string>
-    <string name="ai_assistant_not_installed">Primero instale AI Call Assistant</string>
-    <string name="enter_ai_assistant">Usar</string>
-    <string name="enter_ai_assistant_tip">"AI Call Assistant puede atender esta llamada y transcribir el discurso de la otra persona por usted. ¿Permitir que AI responda ahora?"</string>
-    <string name="video_call_downgrade_insufficient_bandwidth">Ancho de banda insuficiente, cambiando a llamada de voz</string>
     <string name="wifi_call">Llamada VoWifi</string>
 </resources>

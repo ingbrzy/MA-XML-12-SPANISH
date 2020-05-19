@@ -27,7 +27,7 @@ Contacta tu agente de ventas para más detalles."</string>
     <string name="find_device_error_server">Error del servidor (%s)</string>
     <string name="find_device_error_unknown">Error desconocido (%s)</string>
     <string name="find_device_noise_title">Alarma de Localizar dispositivo</string>
-    <string name="find_device_notice">Ve a&lt;br />&lt;b>&lt;font color=#e84700>i.mi.com&lt;/font>&lt;/b>&lt;br />para localizar, bloquear o restaurar tu dispositivo.</string>
+    <string name="find_device_notice">Ve a&lt;br /&gt;&lt;b&gt;&lt;font color=#e84700&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;&lt;br /&gt;para localizar, bloquear o restaurar tu dispositivo.</string>
     <string name="find_device_notice_sms_alert">Si cambias las tarjetas SIM, se enviará automáticamente un SMS para reactivar esta característica.</string>
     <string name="find_device_stop_noise">Pulsa OK para silenciar</string>
     <string name="find_device_storage_corrupted">El almacenamiento de Localizar dispositivo está dañado. Tu dispositivo no es seguro ahora.</string>
@@ -50,7 +50,6 @@ Contacta tu agente de ventas para más detalles."</string>
     <string name="phone_locked_account_email">, correo electrónico asociado: %s</string>
     <string name="phone_locked_account_phone">, número de teléfono asociado: %s</string>
     <string name="return_to_call">Volver a la llamada</string>
-    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="stop_on_empty_captcha">Captcha no puede estar en blanco</string>
     <string name="stop_on_empty_password">La contraseña no puede estar en blanco</string>
     <string name="sys_notification_async_open_failed_content">Toca para reintentar o cancelar.</string>
@@ -82,9 +81,9 @@ Ve a id.mi.com para restablecer tu contraseña
 Otros motivos
 Inicia sesión en i.mi.com e intenta desbloquear tu dispositivo desde allí."</string>
     <string name="unlock_help_title">Desbloquear ayuda:</string>
+    <string name="unlock_number">Código de desbloqueo: %s</string>
     <string name="unlock_wrong_captcha">El código introducido es incorrecto</string>
     <string name="unlocking">Activando…</string>
     <string name="verifing_account">Comprobando contraseña…</string>
-    <string name="verify_password_failed">No se pudo verificar el ID de la cuenta Mi. %s.</string>
-    <string name="unlock_number">Código de desbloqueo: %s</string>
+    <string name="verify_password_failed">No se pudo verificar el ID de la Cuenta Mi. %s.</string>
 </resources>

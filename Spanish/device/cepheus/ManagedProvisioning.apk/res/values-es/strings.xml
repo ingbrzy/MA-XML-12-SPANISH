@@ -31,8 +31,8 @@
     <string name="access_links">Accede a los enlaces</string>
     <string name="access_list_of_links">Accede a una lista de enlaces</string>
     <string name="access_terms">Accede a condiciones</string>
-    <string name="admin_has_ability_to_monitor_device">Tu administrador de TI puede supervisar y gestionar los ajustes, acceso corporativo, aplicaciones, permisos y datos asociados con este dispositivo, además de la actividad de red, la ubicación del dispositivo, el historial de llamadas y el historial de búsqueda de contactos.&lt;br>&lt;br>Ponte en contacto con tu administrador de TI para obtener más información, además de para conocer las políticas de privacidad de tu organización.</string>
-    <string name="admin_has_ability_to_monitor_profile">Tu administrador de TI puede supervisar y gestionar los ajustes, acceso corporativo, aplicaciones, permisos y datos asociados con este perfil, además de la actividad de red, la ubicación del dispositivo, el historial de llamadas y el historial de búsqueda de contactos.&lt;br>&lt;br>Ponte en contacto con tu administrador de TI para obtener más información, además de para conocer las políticas de privacidad de tu organización.</string>
+    <string name="admin_has_ability_to_monitor_device">Tu administrador de TI puede supervisar y gestionar los ajustes, acceso corporativo, aplicaciones, permisos y datos asociados con este dispositivo, además de la actividad de red, la ubicación del dispositivo, el historial de llamadas y el historial de búsqueda de contactos.&lt;br&gt;&lt;br&gt;Ponte en contacto con tu administrador de TI para obtener más información, además de para conocer las políticas de privacidad de tu organización.</string>
+    <string name="admin_has_ability_to_monitor_profile">Tu administrador de TI puede supervisar y gestionar los ajustes, acceso corporativo, aplicaciones, permisos y datos asociados con este perfil, además de la actividad de red, la ubicación del dispositivo, el historial de llamadas y el historial de búsqueda de contactos.&lt;br&gt;&lt;br&gt;Ponte en contacto con tu administrador de TI para obtener más información, además de para conocer las políticas de privacidad de tu organización.</string>
     <string name="app_label">Configuración de trabajo</string>
     <string name="back">Atrás</string>
     <string name="brand_screen_header">Este dispositivo pertenece a tu organización</string>
@@ -49,6 +49,9 @@
     <string name="cant_set_up_device">No se ha podido configurar el dispositivo</string>
     <string name="cant_set_up_profile">No se ha podido configurar el perfil</string>
     <string name="change_device_launcher">Cambiar el launcher del dispositivo</string>
+    <string name="character_counter_content_description">Caracteres ingresados %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Límite de caracteres excedido %1$d de %2$d</string>
+    <string name="clear_text_end_icon_content_description">Borrar texto</string>
     <string name="close_list">Cerrar lista</string>
     <string name="collapse">Ocultar</string>
     <string name="comp_profile_benefits_description">Si utilizas un perfil de trabajo, puedes tener todas tus aplicaciones de trabajo en un único lugar</string>
@@ -107,9 +110,7 @@
     <string name="info_anim_title_0">Cambia tu forma de trabajar</string>
     <string name="info_anim_title_1">Separa tus datos del trabajo de tu información personal</string>
     <string name="info_anim_title_2">Desconecta del trabajo en cuanto lo acabes</string>
-    <string name="join_many_items_first">%1$s, %2$s</string>
     <string name="join_many_items_last">%1$s y %2$s</string>
-    <string name="join_many_items_middle">%1$s, %2$s</string>
     <string name="join_two_items">%1$s y %2$s</string>
     <string name="launcher_app_cant_be_used_by_work_profile">Tu perfil de trabajo no puede utilizar esta aplicación de launcher</string>
     <string name="learn_more_label">Botón para obtener más información</string>
@@ -118,6 +119,11 @@
     <string name="managed_device_info">Información sobre el dispositivo administrado</string>
     <string name="managed_provisioning_error_text">No se ha podido configurar el perfil de trabajo. Ponte en contacto con el departamento de TI o vuelve a intentarlo más tarde.</string>
     <string name="mdm_icon_label">Icono de %1$s</string>
+    <string name="mtrl_chip_close_icon_content_description">Eliminar %1$s</string>
+    <string name="mtrl_picker_cancel">Cancelar</string>
+    <string name="mtrl_picker_confirm">Guardar</string>
+    <string name="mtrl_picker_header_prompt">Selecciona una fecha</string>
+    <string name="mtrl_picker_range_header_prompt">Elija un rango de fechas</string>
     <string name="next">Siguiente</string>
     <string name="not_set">Sin definir</string>
     <string name="now_lets_set_up_everything_else">Vamos a configurar el resto de opciones</string>
@@ -125,13 +131,14 @@
     <string name="one_place_for_work_apps">Un único lugar para las aplicaciones de trabajo</string>
     <string name="opening_paragraph_delete_profile">Ya tienes un perfil de trabajo administrado a través de la siguiente aplicación:</string>
     <string name="organization_admin">Administrador de TI</string>
+    <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="pick_launcher">Aceptar</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="profile_benefits_description">Si utilizas un perfil de trabajo, puedes mantener separados tus datos personales y los profesionales</string>
     <string name="profile_owner_cancel_cancel">No</string>
     <string name="profile_owner_cancel_message">¿Detener configuración?</string>
     <string name="profile_owner_cancel_ok">Sí</string>
-    <string name="profile_owner_cancelling">Cancelando...</string>
+    <string name="profile_owner_cancelling">Cancelando…</string>
     <string name="profile_owner_info">Estás a punto de crear un perfil de trabajo que gestionará y supervisará tu organización. Se aplicarán condiciones.</string>
     <string name="profile_owner_info_comp">Se creará un perfil para tus aplicaciones de trabajo. Tu organización gestionará y supervisará este perfil y el resto de tu dispositivo. Se aplicarán condiciones.</string>
     <string name="profile_owner_info_with_terms_headers">Estás a punto de crear un perfil de trabajo que gestionará y supervisará tu organización. Se aplicarán las condiciones de %1$s.</string>
@@ -147,7 +154,7 @@
     <string name="progress_set_owner">Estableciendo propietario del dispositivo…</string>
     <string name="provisioning">Administrando</string>
     <string name="provisioning_error_title">¡Vaya!</string>
-    <string name="read_more_delete_profile">Para continuar, <a href="#read_this_link">consulta esta información</a>.</string>
+    <string name="read_more_delete_profile">Para continuar, &lt;a href="#read_this_link"&gt;consulta esta información&lt;/a&gt;.</string>
     <string name="read_terms">Lee las condiciones</string>
     <string name="reset">Recuperar</string>
     <string name="scroll_bar_page_down_button">Hacia abajo</string>
@@ -170,9 +177,10 @@
     <string name="setup_work_device">Configurando el dispositivo de trabajo…</string>
     <string name="setup_work_profile">Configura el perfil de trabajo</string>
     <string name="speed_bump_lockout_message">Céntrate en la carretera</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_setup_reset_device_question">¿Detener la configuración y recuperar los datos del dispositivo?</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="sud_back_button_label">Atrás</string>
+    <string name="sud_more_button_label">Más</string>
+    <string name="sud_next_button_label">Siguiente</string>
     <string name="sure_you_want_to_delete_profile">Si continuas, se eliminarán todas las aplicaciones y datos de este perfil.</string>
     <string name="take_a_few_minutes">Este proceso puede tardar unos minutos</string>
     <string name="terms">Condiciones</string>
@@ -202,16 +210,4 @@
     <string name="your_org_app_used">%1$s gestionará y supervisará este dispositivo mediante la siguiente aplicación:</string>
     <string name="your_organization_beginning">Tu organización</string>
     <string name="your_organization_middle">tu organización</string>
-    <string name="character_counter_content_description">Caracteres ingresados %1$d de %2$d</string>
-    <string name="character_counter_overflowed_content_description">Límite de caracteres excedido %1$d de %2$d</string>
-    <string name="clear_text_end_icon_content_description">Borrar texto</string>
-    <string name="mtrl_chip_close_icon_content_description">Eliminar %1$s</string>
-    <string name="mtrl_picker_cancel">Cancelar</string>
-    <string name="mtrl_picker_confirm">Guardar</string>
-    <string name="mtrl_picker_header_prompt">Selecciona una fecha</string>
-    <string name="mtrl_picker_range_header_prompt">Elija un rango de fechas</string>
-    <string name="password_toggle_content_description">Mostrar contraseña</string>
-    <string name="sud_back_button_label">Atrás</string>
-    <string name="sud_more_button_label">Más</string>
-    <string name="sud_next_button_label">Siguiente</string>
 </resources>

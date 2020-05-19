@@ -143,7 +143,6 @@
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Esta es la última pestaña</string>
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Deslizar hacia arriba para cerrar</string>
     <string name="browserFrameFileErrorLabel">Error de archivo</string>
-    <string name="browserFrameFormResubmitLabel" />
     <string name="browserFrameFormResubmitMessage">La página que intentas visualizar contiene datos que ya se han enviado. Si reenvías los datos, acciones anteriores (por ejemplo, búsquedas o compras) se repetirán.</string>
     <string name="browserFrameNetworkErrorLabel">Error de conexión</string>
     <string name="cancel">Cancelar</string>
@@ -165,7 +164,7 @@
     <string name="clip_dialog_title">¿Abrir la URL copiada?</string>
     <string name="close_ads_choice_no">Permitir</string>
     <string name="close_ads_choice_yes">Bloquear</string>
-    <string name="close_ads_message">¿Bloquear el contenido de este sitio? Puedes ver los sitios que has bloqueado en Ajustes > Avanzados > Sitios bloqueados.</string>
+    <string name="close_ads_message">¿Bloquear el contenido de este sitio? Puedes ver los sitios que has bloqueado en Ajustes &gt; Avanzados &gt; Sitios bloqueados.</string>
     <string name="close_ads_title">¿Bloquear contenido?</string>
     <string name="close_all_tab_alert_message">¿Cerrar todas las pestañas abiertas del navegador?</string>
     <string name="close_all_tab_alert_title">Cerrar todas las pestañas</string>
@@ -289,8 +288,8 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="download_change_dir">Cambiar carpeta</string>
     <string name="download_complete">Descargado con éxito</string>
     <string name="download_completed">Descargado</string>
-    <string name="download_completed_private_tips">Descargado con éxito y añadido a archivos ocultos. &lt;font color=\"#2dd9ce\">Pulsa para ver.&lt;/font></string>
-    <string name="download_completed_tips">Descargado con éxito. &lt;font color=\"#0081ff\">Pulsa para ver.&lt;/font></string>
+    <string name="download_completed_private_tips">Descargado con éxito y añadido a archivos ocultos. &lt;font color=\"#2dd9ce\"&gt;Pulsa para ver.&lt;/font&gt;</string>
+    <string name="download_completed_tips">Descargado con éxito. &lt;font color=\"#0081ff\"&gt;Pulsa para ver.&lt;/font&gt;</string>
     <string name="download_default_path_txt">Recordar esta elección</string>
     <string name="download_delete_download">Eliminar</string>
     <string name="download_dialog_cannot_resume">La descarga fue interrumpida</string>
@@ -383,7 +382,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="downloading">Descargando…</string>
     <string name="edit">Editar</string>
     <string name="edit_bookmark">Editar marcador</string>
-    <string name="edit_bookmark_tips">Añadido a marcadores con éxito. &lt;font color=\"#247BFF\">Editar&lt;/font></string>
+    <string name="edit_bookmark_tips">Añadido a marcadores con éxito. &lt;font color=\"#247BFF\"&gt;Editar&lt;/font&gt;</string>
     <string name="edit_quicklink">Editar</string>
     <string name="empty_app_name">Otra aplicación</string>
     <string name="empty_bookmark">Vacío</string>
@@ -989,7 +988,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="privacy_authorize_revoking">Revocando autorización…</string>
     <string name="privacy_authorize_summary">Activa y desactiva el interruptor para conceder o revocar tu autorización</string>
     <string name="privacy_authorize_title">Autorización</string>
-    <string name="privacy_message">Antes de usar el Navegador, debes aceptar nuestro &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Acuerdo de Usuario&lt;/a>&lt;/font> y &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Política de Privacidad&lt;/a>&lt;/font>.</string>
+    <string name="privacy_message">Antes de usar el Navegador, debes aceptar nuestro &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%1$s\" style=\"color:#4086f5;\"&gt;Acuerdo de Usuario&lt;/a&gt;&lt;/font&gt; y &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%2$s\" style=\"color:#4086f5;\"&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt;.</string>
     <string name="privacy_policy">Política de Privacidad</string>
     <string name="privacy_title">Bienvenido al Navegador Mi</string>
     <string name="private_title">Archivos ocultos</string>
@@ -1048,7 +1047,6 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="replay">Volver a reproducir</string>
     <string name="reply_comment_title">Re: %s</string>
     <string name="return_to_homepage">Volver a la página de inicio</string>
-    <string name="rlz_access_point">Y1</string>
     <string name="root_folder_lable">Ninguno</string>
     <string name="router_download_exist">Este archivo ya existe</string>
     <string name="router_download_failed">No se pudo descargar</string>
@@ -1118,7 +1116,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="skip_current_version">Saltar esta versión</string>
     <string name="snapshot">Local</string>
     <string name="snapshot_failed">No se pudo guardar la página</string>
-    <string name="snapshot_successed">Abrir marcadores/Historial->LOCAL para ver la página</string>
+    <string name="snapshot_successed">Abrir Marcadores &amp; Historial -&gt; LOCAL para ver la página</string>
     <string name="soft_toast_see_view">Ver</string>
     <string name="source_dislike">No me gusta</string>
     <string name="ssl_bad_clock_date_settings">Establecer fecha</string>
@@ -1305,7 +1303,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="ytb_login_to_look_subscribe">Inicia sesión para ver tus suscripciones a YouTube.</string>
     <string name="ytb_logout">Cerrar sesión</string>
     <string name="ytb_logout_fail">No se pudo cerrar sesión</string>
-    <string name="ytb_my">Mi cuenta</string>
+    <string name="ytb_my">Mi Cuenta</string>
     <string name="ytb_subscribe">Suscribirse</string>
     <string name="ytb_subscribe_channel">Suscripciones</string>
     <string name="ytb_subscribed">Suscrito</string>

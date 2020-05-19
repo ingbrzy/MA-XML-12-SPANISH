@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
+    <string name="abc_action_bar_up_description">Ir hacia arriba</string>
+    <string name="abc_action_menu_overflow_description">Más</string>
+    <string name="abc_action_mode_done">Listo</string>
+    <string name="abc_action_mode_select_all">Seleccionar todo</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
+    <string name="abc_capital_off">DESACTIVADO</string>
+    <string name="abc_capital_on">ACTIVADO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Eliminar</string>
+    <string name="abc_menu_enter_shortcut_label">Intro</string>
+    <string name="abc_menu_function_shortcut_label">Función+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Mayús+</string>
+    <string name="abc_menu_space_shortcut_label">Espacio</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menú+</string>
+    <string name="abc_search_hint">Buscar…</string>
+    <string name="abc_searchview_description_clear">Borrar consulta</string>
+    <string name="abc_searchview_description_query">Consulta</string>
+    <string name="abc_searchview_description_search">Buscar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+    <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="abort_backup_confirm">La copia no ha terminado. ¿Detener de todos modos?</string>
     <string name="abort_restore_confirm">Restauración no finalizada. ¿Detener de todos modos?</string>
     <string name="account_contact_backup_info">Cuenta Google, Cuenta Mi y datos de Contactos</string>
@@ -32,7 +60,7 @@
     <string name="auto_backup_setting">Programar copia de seguridad</string>
     <string name="auto_backup_system_data">Sistema</string>
     <string name="auto_backup_time">Hora</string>
-    <string name="auto_backup_user_data">Apps</string>
+    <string name="auto_backup_user_data">Aplicaciones</string>
     <string name="backup">Copia de seguridad</string>
     <string name="backup_data">Selecciona los elementos para copiar</string>
     <string name="backup_delete">Eliminar:</string>
@@ -68,6 +96,7 @@
     <string name="button_send">Enviar</string>
     <string name="call_title">Historial de llamadas</string>
     <string name="camera_summary">Ajustes de cámara (sin incluir fotos)</string>
+    <string name="camera_summary_for_cta">Ajustes de cámara</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_backup">Detener</string>
     <string name="cancel_moving_dialog_message">¿Detener la importación?</string>
@@ -108,6 +137,7 @@ https://appleid.apple.com/#!&amp;page=iniciar sesión para cerrar"</string>
     <string name="connect_wifi">Conectar a Wi-Fi</string>
     <string name="connect_wifi_tip">No se pudo conectar a la red. Conéctese a Wi-Fi para importar elementos desde iCloud.</string>
     <string name="contact_title">Contactos</string>
+    <string name="copy">Copiar</string>
     <string name="current_account">Hola %s</string>
     <string name="current_pad_location">Tablet</string>
     <string name="current_phone_location">Teléfono</string>
@@ -131,7 +161,6 @@ https://appleid.apple.com/#!&amp;page=iniciar sesión para cerrar"</string>
     <string name="dialog_backup_password_change_machine_tips">No podrás transferir copias de seguridad protegidas por contraseña. Desactiva la contraseña de la copia de seguridad antes de usar Mi Mover.</string>
     <string name="dialog_backup_password_restore_tips">No puede usar restaurar elementos mientras la contraseña de seguridad esté activada. Desactiva la contraseña de seguridad primero.</string>
     <string name="dialog_backup_password_to_settings">Ajustes</string>
-    <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="disable_encrypt_description">No cifrar</string>
     <string name="disable_encrypt_title">Desactivar el cifrado</string>
     <string name="enable_encrypt">Activar el cifrado</string>
@@ -161,6 +190,7 @@ https://appleid.apple.com/#!&amp;page=iniciar sesión para cerrar"</string>
     <string name="error_permissions">Esta aplicación no tiene los permisos necesarios para acceder a Calendario. Vaya a Ajustes y verifique los permisos para continuar.</string>
     <string name="every_day">Todos los días</string>
     <string name="exchange_account">Cambiar cuentas</string>
+    <string name="expand_button_title">Advanced</string>
     <string name="fail">Fallido</string>
     <string name="failed_description">Ha fallado</string>
     <string name="feature_title_account">Cuenta Mi</string>
@@ -222,18 +252,45 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Descarga la app de Mi Talk e inicia sesión.
 \u0009http://www.miliao.com
 
-2.\u0009Ve a los Ajustes de Mi Talk y selecciona ”Crear copia de contactos en Cuenta Mii”"</string>
+2.\u0009Ve a los Ajustes de Mi Talk y selecciona ”Crear copia de contactos en Cuenta Mi”"</string>
     <string name="import_from_xiaomi_account_hint2">Si ya existe una copia de seguridad, pulsa Siguiente.</string>
     <string name="import_from_xiaomi_account_hint_title">Usa Mi Talk para crear copias de seguridad de tus contactos entre dispositivos.</string>
     <string name="import_tip_summary">Debido a problemas de compatibilidad, solo puede transferir datos parciales desde dispositivos iOS. Asegúrese de crear una copia de seguridad de iCloud antes de comenzar la transferencia.</string>
-    <string name="lack_perm_msg">Mi Mover necesita los siguientes permisos: &lt;b>%s&lt;/b>.</string>
+    <string name="lack_perm_msg">Mi Mover necesita los siguientes permisos: &lt;b&gt;%s&lt;/b&gt;.</string>
     <string name="lack_perm_title">Permisos requeridos</string>
     <string name="list_footer_tip_title">Consejos:</string>
     <string name="loading_data">Cargando datos</string>
     <string name="local_app_name">Copia de seguridad</string>
+    <string name="local_back_up_detail_description">"Nota:
+1. Para evitar la pérdida de datos, copie copias de seguridad locales en su computadora.
+2. Copie siempre las copias de seguridad locales a su computadora antes de realizar un restablecimiento de fábrica; de lo contrario, se perderán las copias de seguridad locales.
+3. ¿Dónde se almacenan las copias de seguridad locales? %1$s"</string>
+    <string name="local_backup_select_activity">Crea una copia de seguridad</string>
     <string name="local_backup_window_title">Datos de copia de seguridad local</string>
+    <string name="local_button_backup_data">Respaldar este dispositivo</string>
+    <string name="local_button_backup_now">Respaldar</string>
+    <string name="local_button_restore_data">Restaurar a este dispositivo</string>
+    <string name="local_button_restore_now">Restaurar</string>
+    <string name="local_click_to_jump">Toca para ver</string>
+    <string name="local_config_off">Desactivar</string>
+    <string name="local_config_on">Activar</string>
     <string name="local_home_title">Copia de seguridad local</string>
+    <string name="local_main_auto_backup_title">Copia de seguridad automática</string>
+    <string name="local_main_backup">Copias de seguridad locales</string>
+    <string name="local_main_backup_and_restore">En este dispositivo</string>
+    <string name="local_main_backup_detail_title">Ajustes del sistema, cuentas y datos de aplicaciones</string>
+    <string name="local_main_backup_manager">Administrar copias de seguridad locales</string>
+    <string name="local_main_backup_manager_title">Administrar copias de seguridad</string>
+    <string name="local_main_backup_settings">Configuración de respaldo local</string>
+    <string name="local_main_backup_time">Última copia de seguridad: %1$s</string>
+    <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
+    <string name="local_main_encrypt_backup_summary">Cifre los elementos que respalda con su Cuenta Mi</string>
+    <string name="local_main_encrypt_backup_title">Cifrar copias de seguridad</string>
+    <string name="local_main_latest_backup_time_loading">Un momento…</string>
     <string name="local_no_backup">Sin copias de seguridad.</string>
+    <string name="local_no_backup_data">No hay copias de seguridad aun</string>
+    <string name="local_restore_select_activity">Administrar copias de seguridad</string>
+    <string name="local_restore_select_data_activity">Restaurar desde una copia de seguridad</string>
     <string name="local_restore_window_title">Restauración local</string>
     <string name="local_select_account_contact">Cuentas y contactos</string>
     <string name="local_select_audio">Archivos de audio</string>
@@ -248,6 +305,14 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="logining">Iniciando sesión…</string>
     <string name="miliao_account_guide">Usa tu Cuenta Mi para iniciar sesión en Xiaomi Cloud, Temas de MIUI y otros servicios de Mi desde cualquier lugar.</string>
     <string name="miliao_account_login">Iniciar sesión con Mi Talk</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tire hacia abajo para actualizar</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelte para actualizar</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar elementos"</string>
     <string name="mms_title">Mensajes multimedia</string>
     <string name="multi_select_title">%1$s seleccionado(s)</string>
     <string name="multi_user_mode_backup_message">No se permite realizar copias de seguridad en el modo multiusuario. Desactívalo para continuar.</string>
@@ -256,8 +321,14 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="name_password_not_consistent">Usuario o contraseña incorrectos</string>
     <string name="never">Nunca</string>
     <string name="new_backup">Copia de seguridad</string>
+    <string name="new_britem_audio">Audio</string>
+    <string name="new_britem_doc">Archivos</string>
+    <string name="new_britem_other">Otro</string>
+    <string name="new_britem_pic">Imágenes</string>
+    <string name="new_britem_video">Videos</string>
     <string name="no_encrypt_password">Sin contraseña</string>
     <string name="no_network">No se puede conectar a la red</string>
+    <string name="not_set">No establecido</string>
     <string name="note_title">Notas</string>
     <string name="nothing_searched">Sin resultados.</string>
     <string name="notif_backup_complete_title">Copiado correctamente</string>
@@ -307,6 +378,7 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="platform_chooser_item_android_others">Otras marcas</string>
     <string name="platform_chooser_item_ios">Importar desde un dispositivo iOS</string>
     <string name="platform_chooser_title">Seleccione el dispositivo antiguo</string>
+    <string name="preference_copied">\"%1$s\" copiado al portapapeles.</string>
     <string name="progress_backup_hint">Realizando copia…</string>
     <string name="progress_restore_hint">Recuperando…</string>
     <string name="prompt_reading">Leyendo…</string>
@@ -356,6 +428,7 @@ Libere al menos %s."</string>
     <string name="sdcard_no_enough_space">No hay suficiente espacio</string>
     <string name="sdcard_no_enough_space_message">No hay espacio de almacenamiento suficiente en su tarjeta SD.</string>
     <string name="sdcard_unmounted">Insertar tarjeta SD ahora</string>
+    <string name="search_menu_title">Buscar</string>
     <string name="see_backup_files_on_router">Ver copias de seguridad en Router Mi %s</string>
     <string name="select_all">Seleccionar todo</string>
     <string name="select_backup_item">Seleccionar elementos</string>
@@ -370,10 +443,6 @@ Libere al menos %s."</string>
     <string name="select_storage_location">Elige la ubicación de la copia de seguridad</string>
     <string name="service_stoped">Servicio detenido</string>
     <string name="settings_summary">Ajustes de mensajes y teléfono</string>
-    <string name="size_byte">B</string>
-    <string name="size_giga_byte">GB</string>
-    <string name="size_kilo_byte">KB</string>
-    <string name="size_mega_byte">MB</string>
     <string name="sms_title">Mensajes</string>
     <string name="soft_ap_create_failed">No se pudo crear el punto de acceso</string>
     <string name="soft_ap_creating">Creando un punto de acceso…</string>
@@ -420,7 +489,6 @@ Libere al menos %s."</string>
     <string name="task_running_restore_hint">Esta tarea se está ejecutando en segundo plano</string>
     <string name="task_service_not_launched">La tarea aún no ha empezado</string>
     <string name="task_stopped_exception">Restauración cancelada</string>
-    <string name="total_size">, %s</string>
     <string name="trans_backingup">Copia de seguridad en curso…</string>
     <string name="trans_backingup_no_items">Sincronizando…</string>
     <string name="trans_button_cancel">Cancelar</string>
@@ -436,7 +504,7 @@ Libere al menos %s."</string>
     <string name="trans_cancelling">Cancelando…</string>
     <string name="trans_complete_restoring">Transferido con éxito. Restaurando los datos de aplicación…</string>
     <string name="trans_connect_failed_device_incompatible">Dispositivo no compatible. Cancelar la transferencia y reintentar.</string>
-    <string name="trans_connect_failed_message">No se pudo conectar, por favor vuelve a intentarlo o reinicia. En el otro dispositivo, ve a Ajustes > Ajustes adicionales > Mi Mover, pulsa [Soy el remitente], o vuelve a abrir Mi Mover después del reinicio.</string>
+    <string name="trans_connect_failed_message">No se pudo conectar, por favor vuelve a intentarlo o reinicia. En el otro dispositivo, ve a Ajustes &gt; Ajustes adicionales &gt; Mi Mover, pulsa [Soy el remitente], o vuelve a abrir Mi Mover después del reinicio.</string>
     <string name="trans_connect_failed_title">No se pudo conectar</string>
     <string name="trans_connect_failed_toast">No es posible conectar</string>
     <string name="trans_connecting_toast">Conectando…</string>
@@ -495,7 +563,7 @@ para descargar e instalar Mi Mover."</string>
     <string name="trans_intro_desc_6">Razones posibles son: problemas de compatibilidad de sistema y versión de la aplicación, problemas de red, problemas de compatibilidad específicos de un dispositivo particular, etc.</string>
     <string name="trans_intro_desc_7">Algunos perfiles de aplicaciones (e-banking, finanzas, etc) están asociados a un dispositivo específico por razones de seguridad. Prueba a borrar los datos de la aplicación o a reinstalarla en un nuevo dispositivo.</string>
     <string name="trans_intro_desc_8">Los datos de WeChat y el historial de chat podrían no transferirse completamente con Mi Mover. Ve a los ajustes de WeChat y cierra sesión para tener más oportunidades de éxito.</string>
-    <string name="trans_intro_desc_9_method_1_dec">Ve a la Pantalla de Inicio > Herramientas > Comentarios.</string>
+    <string name="trans_intro_desc_9_method_1_dec">Ve a la Pantalla de Inicio &gt; Herramientas &gt; Comentarios.</string>
     <string name="trans_intro_desc_9_method_1_title">1. Comparte tus comentarios usando la aplicación \"Comentarios\".</string>
     <string name="trans_intro_desc_9_method_2_dec">Envía tus comentarios a miui-mover@xiaomi.com.</string>
     <string name="trans_intro_desc_9_method_2_title">2. Envíanos un correo electrónico</string>
@@ -535,19 +603,19 @@ Liberar espacio de almacenamiento o transferir solo elementos importantes."</str
     <string name="trans_old_phone_low_space_msg">Mi Mover necesita espacio de almacenamiento para almacenar los datos transferidos, pero parece que no hay espacio suficiente en el dispositivo antiguo. Libera espacio en \"Seguridad\" o transfiere solo elementos importantes.</string>
     <string name="trans_old_phone_low_space_title">No hay suficiente espacio de almacenamiento</string>
     <string name="trans_one_key_migrate">Mi Mover</string>
-    <string name="trans_open_camera_failed_message">Reinicia tu dispositivo o comprueba si Mi Mover puede acceder a &lt;b>Cámara&lt;/b>.</string>
+    <string name="trans_open_camera_failed_message">Reinicia tu dispositivo o comprueba si Mi Mover puede acceder a &lt;b&gt;Cámara&lt;/b&gt;.</string>
     <string name="trans_open_camera_failed_title">No se pudo conectar con la cámara</string>
     <string name="trans_open_location_button">Activar</string>
     <string name="trans_open_location_message">Activar los servicios de ubicación para obtener la lista de redes Wi-Fi disponibles.</string>
     <string name="trans_open_location_title">Activar los servicios de localización</string>
     <string name="trans_operate_func_one">Método A</string>
     <string name="trans_operate_func_two">Método B</string>
-    <string name="trans_operate_new_phone_tips">"Ve a Ajustes > Ajustes adicionales > Mi Mover
+    <string name="trans_operate_new_phone_tips">"Ve a Ajustes &gt; Ajustes adicionales &gt; Mi Mover
 Pulsa [Soy el destinatario] para crear un código QR"</string>
     <string name="trans_operate_old_phone_tips1">"1. Instala la aplicación Mi Mover en su dispositivo antiguo
 2. Abre la aplicación y pulsa Inicio
 3. Escanea el código QR con el dispositivo antiguo"</string>
-    <string name="trans_operate_old_phone_tips2">Ve a Ajustes > Ajustes adicionales > Mi Mover, pulsa [Soy el remitente]</string>
+    <string name="trans_operate_old_phone_tips2">Ve a Ajustes &gt; Ajustes adicionales &gt; Mi Mover, pulsa [Soy el remitente]</string>
     <string name="trans_operate_reconnect_new_tips">"Espera a que el teléfono muestre \"Conexión interrumpida\".
 Después pulsa \"Conectar de nuevo\" para crear un código QR."</string>
     <string name="trans_operate_reconnect_old_tips">"Espera a que el teléfono muestre \"Conexión interrumpida\".
@@ -639,6 +707,8 @@ Libera espacio o transfiere solo los elementos importantes."</string>
     <string name="user_notice_declaration_ignore">No mostrar de nuevo</string>
     <string name="user_notice_message">Algunas características necesitan conexión a Internet para funcionar normalmente.</string>
     <string name="user_notice_title">Atención</string>
+    <string name="v7_preference_off">DESACTIVADA</string>
+    <string name="v7_preference_on">ACTIVADA</string>
     <string name="view_password_description">Mostrar contraseña</string>
     <string name="wait_link">"Abrir Mi Mover en el dispositivo antiguo,
 pulsa \"Soy un emisor\" y selecciona un punto de acceso para conectar.
@@ -654,124 +724,4 @@ Tamaño:%2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Presentando la versión %1$s
 Tamaño de actualización Delta: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Actualización disponible</string>
-    <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
-    <string name="abc_action_bar_up_description">Ir hacia arriba</string>
-    <string name="abc_action_menu_overflow_description">Más</string>
-    <string name="abc_action_mode_done">Listo</string>
-    <string name="abc_action_mode_select_all">Seleccionar todo</string>
-    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
-    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
-    <string name="abc_capital_off">DESACTIVADO</string>
-    <string name="abc_capital_on">ACTIVADO</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">Eliminar</string>
-    <string name="abc_menu_enter_shortcut_label">Intro</string>
-    <string name="abc_menu_function_shortcut_label">Función+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Mayús+</string>
-    <string name="abc_menu_space_shortcut_label">Espacio</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menú+</string>
-    <string name="abc_search_hint">Buscar…</string>
-    <string name="abc_searchview_description_clear">Borrar consulta</string>
-    <string name="abc_searchview_description_query">Consulta</string>
-    <string name="abc_searchview_description_search">Buscar</string>
-    <string name="abc_searchview_description_submit">Enviar consulta</string>
-    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
-    <string name="abc_shareactionprovider_share_with">Compartir con</string>
-    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
-    <string name="abc_toolbar_collapse_description">Contraer</string>
-    <string name="camera_summary_for_cta">Camera settings</string>
-    <string name="copy">Copy</string>
-    <string name="expand_button_title">Advanced</string>
-    <string name="local_back_up_detail_description">"Note:
-1. To avoid data loss, copy local backups to your computer.
-2. Always copy local backups to your computer before performing a factory reset; otherwise, local backups will be lost.
-3. Where are local backups stored? %1$s"</string>
-    <string name="local_backup_select_activity">Create a backup</string>
-    <string name="local_button_backup_data">Back up</string>
-    <string name="local_button_backup_now">Back up</string>
-    <string name="local_button_restore_data">Restore to this device</string>
-    <string name="local_button_restore_now">Restore</string>
-    <string name="local_click_to_jump">Tap to view</string>
-    <string name="local_config_off">Off</string>
-    <string name="local_config_on">On</string>
-    <string name="local_main_auto_backup_title">Back up automatically</string>
-    <string name="local_main_backup">Local backups</string>
-    <string name="local_main_backup_and_restore">On this device</string>
-    <string name="local_main_backup_detail_title">System settings, accounts, and app data</string>
-    <string name="local_main_backup_manage_null">%s</string>
-    <string name="local_main_backup_manager">Manage local backups</string>
-    <string name="local_main_backup_manager_title">Manage backups</string>
-    <string name="local_main_backup_settings">Local backup settings</string>
-    <string name="local_main_backup_time">Latest backup: %1$s</string>
-    <string name="local_main_date_format">MM/dd/yyyy HH:mm</string>
-    <string name="local_main_encrypt_backup_summary">Encrypt the items you back up using your Mi Account</string>
-    <string name="local_main_encrypt_backup_title">Encrypt backups</string>
-    <string name="local_main_latest_backup_time_loading">Just a sec…</string>
-    <string name="local_no_backup_data">No backups here yet</string>
-    <string name="local_restore_select_activity">Manage backups</string>
-    <string name="local_restore_select_data_activity">Restore from a backup</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tire hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelte para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar elementos"</string>
-    <string name="new_britem_audio">Audio</string>
-    <string name="new_britem_doc">Files</string>
-    <string name="new_britem_other">Other</string>
-    <string name="new_britem_pic">Images</string>
-    <string name="new_britem_video">Videos</string>
-    <string name="new_confirm_enable_encrypt_content">"MIUI associates encrypted backups with your Mi Account. You'll have to sign in to your Mi Account to restore items from such backups."</string>
-    <string name="new_confirm_enable_encrypt_title">Encrypt</string>
-    <string name="new_local_button_backup">Back up</string>
-    <string name="new_local_button_restore">Restore</string>
-    <string name="new_local_click_to_jump">Tap to view detailed instructions</string>
-    <string name="new_local_detail_description">"Note:
-%1$d. Copy backups to your computer to avoid data loss. %2$s.
-%3$d. Backups will be saved to MIUI-Backup-AllBackup."</string>
-    <string name="new_local_tab_backup">Back up to mobile device</string>
-    <string name="new_local_tab_restore">Restore from mobile device</string>
-    <string name="new_low_storage_title">Not enough storage space</string>
-    <string name="new_more_settings_label">Additional settings</string>
-    <string name="new_pc_backup_content1">%1$d. Open \"%2$s\".</string>
-    <string name="new_pc_backup_content2">%d. Wait until all items are backed up.</string>
-    <string name="new_pc_backup_content3">%d. Find the backup in MIUI-Backup-AllBackup.</string>
-    <string name="new_pc_backup_content4">%d. Copy the file to your computer.</string>
-    <string name="new_pc_backup_restore_link">Mobile device</string>
-    <string name="new_pc_backup_summary1">Select items and tap \"Back up\".</string>
-    <string name="new_pc_backup_summary2">Connect your mobile device to the computer via a USB cable.</string>
-    <string name="new_pc_backup_summary4">Note: you can also copy photos and videos from DCIM.</string>
-    <string name="new_pc_restore_content1">%d. Connect your mobile device to the computer via a USB cable.</string>
-    <string name="new_pc_restore_content2">%d. Copy the backup from your computer to MIUI-Backup-AllBackup.</string>
-    <string name="new_pc_restore_content3">%1$d. Open \"%2$s\" and select items to restore.</string>
-    <string name="new_pc_title">Copy backups</string>
-    <string name="new_select_file">Audio, videos, and files</string>
-    <string name="new_select_message">SMS, contacts, and call history</string>
-    <string name="new_select_pic">Images</string>
-    <string name="new_select_system">Other system app data</string>
-    <string name="new_select_tencent">QQ and WeChat</string>
-    <string name="new_select_third">Third party apps and app data</string>
-    <string name="new_select_third_apk">Third party apps</string>
-    <string name="new_select_third_data">Third party app data</string>
-    <string name="new_tab_pc_backup">Back up to computer</string>
-    <string name="new_tab_pc_restore">Restore from computer</string>
-    <string name="new_task_finished">Done</string>
-    <string name="new_usb_detail_description">"Note:
-%1$d. This method allows backing up third party apps and app data.
-%2$d. Make sure there's enough storage space on your USB drive to store backups."</string>
-    <string name="new_usb_disconnect_dialog_message">Connect a USB drive first.</string>
-    <string name="new_usb_disconnect_dialog_title">"Couldn't find USB drive"</string>
-    <string name="new_usb_select_data_no_space">Only %s of storage is available on your USB drive. Free up storage space.</string>
-    <string name="new_usb_tab_backup">Back up to USB drive</string>
-    <string name="new_usb_tab_restore">Restore from USB drive</string>
-    <string name="not_set">Not set</string>
-    <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
-    <string name="search_menu_title">Search</string>
-    <string name="v7_preference_off">DESACTIVADA</string>
-    <string name="v7_preference_on">ACTIVADA</string>
 </resources>

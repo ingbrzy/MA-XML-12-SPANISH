@@ -1,135 +1,135 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="actionbar_large_unread_count">
+     <plurals name="actionbar_large_unread_count">
         <item quantity="other">%1$d+ no leídos</item>
         <item quantity="one">%1$d+ no leído</item>
-    </plurals>
-    <plurals name="actionbar_unread_messages">
+     </plurals>
+     <plurals name="actionbar_unread_messages">
         <item quantity="other">%1$d no leídos</item>
         <item quantity="one">%1$d no leído</item>
-    </plurals>
-    <plurals name="confirm_archive_conversation">
+     </plurals>
+     <plurals name="confirm_archive_conversation">
         <item quantity="other">¿Archivar estas %1$d conversaciones?</item>
         <item quantity="one">¿Archivar esta conversación?</item>
-    </plurals>
-    <plurals name="confirm_delete_conversation">
+     </plurals>
+     <plurals name="confirm_delete_conversation">
         <item quantity="other">¿Eliminar estas %1$d conversaciones?</item>
         <item quantity="one">¿Eliminar esta conversación?</item>
-    </plurals>
-    <plurals name="confirm_delete_conversation_with_sub">
+     </plurals>
+     <plurals name="confirm_delete_conversation_with_sub">
         <item quantity="other">Estas conversaciones contienen elementos combinados. ¿Borrarlas de todos modos?</item>
         <item quantity="one">Esta conversación contiene elementos combinados. ¿Borrarla de todos modos?</item>
-    </plurals>
-    <plurals name="confirm_delete_draft">
+     </plurals>
+     <plurals name="confirm_delete_draft">
         <item quantity="other">¿Borrar %1$d borradores?</item>
         <item quantity="one">¿Borrar %1$d borrador?</item>
-    </plurals>
-    <plurals name="contact_num_selected">
+     </plurals>
+     <plurals name="contact_num_selected">
         <item quantity="other">%d seleccionados</item>
         <item quantity="one">%d seleccionado</item>
-    </plurals>
-    <plurals name="conversation_archived">
+     </plurals>
+     <plurals name="conversation_archived">
         <item quantity="other">&lt;b>%1$d&lt;/b> archivadas.</item>
         <item quantity="one">&lt;b>%1$d&lt;/b> archivada.</item>
-    </plurals>
-    <plurals name="conversation_deleted">
+     </plurals>
+     <plurals name="conversation_deleted">
         <item quantity="other">&lt;b>%1$d&lt;/b> eliminadas.</item>
         <item quantity="one">&lt;b>%1$d&lt;/b> eliminada.</item>
-    </plurals>
-    <plurals name="conversation_folder_changed">
+     </plurals>
+     <plurals name="conversation_folder_changed">
         <item quantity="other">Carpetas modificadas.</item>
         <item quantity="one">Carpeta modificada.</item>
-    </plurals>
-    <plurals name="conversation_msg_header_count">
+     </plurals>
+     <plurals name="conversation_msg_header_count">
         <item quantity="other">%1$dotras personas</item>
         <item quantity="one">%1$dotra persona</item>
-    </plurals>
-    <plurals name="conversation_muted">
+     </plurals>
+     <plurals name="conversation_muted">
         <item quantity="other">&lt;b>%1$d&lt;/b> silenciadas</item>
         <item quantity="one">&lt;b>%1$d&lt;/b> silenciada.</item>
-    </plurals>
-    <plurals name="conversation_not_important">
-        <item quantity="other">&lt;b>%1$d&lt;/b>" eliminadas de la carpeta 'importantes'"</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b>" eliminada de la carpeta 'importantes'"</item>
-    </plurals>
-    <plurals name="conversation_not_spam">
-        <item quantity="other">&lt;b>%1$d&lt;/b>" eliminadas de la carpeta 'spam'"</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b>" eliminada de la carpeta 'spam'"</item>
-    </plurals>
-    <plurals name="conversation_phished">
+     </plurals>
+     <plurals name="conversation_not_important">
+        <item quantity="other">"&lt;b>%1$d&lt;/b>" eliminadas de la carpeta 'importantes'""</item>
+        <item quantity="one">"&lt;b>%1$d&lt;/b>" eliminada de la carpeta 'importantes'""</item>
+     </plurals>
+     <plurals name="conversation_not_spam">
+        <item quantity="other">"&lt;b>%1$d&lt;/b>" eliminadas de la carpeta 'spam'""</item>
+        <item quantity="one">"&lt;b>%1$d&lt;/b>" eliminada de la carpeta 'spam'""</item>
+     </plurals>
+     <plurals name="conversation_phished">
         <item quantity="other">&lt;b>%1$d&lt;/b> mensajes denunciados como spam</item>
         <item quantity="one">&lt;b>%1$d&lt;/b> mensaje denunciado como spam</item>
-    </plurals>
-    <plurals name="conversation_spammed">
+     </plurals>
+     <plurals name="conversation_spammed">
         <item quantity="other">&lt;b>%1$d&lt;/b> marcadas como spam</item>
         <item quantity="one">&lt;b>%1$d&lt;/b> marcada como spam</item>
-    </plurals>
-    <plurals name="day">
+     </plurals>
+     <plurals name="day">
         <item quantity="other">%d días</item>
         <item quantity="one">%d día</item>
-    </plurals>
-    <plurals name="day_after">
+     </plurals>
+     <plurals name="day_after">
         <item quantity="other">En %d días</item>
         <item quantity="one">En %d día</item>
-    </plurals>
-    <plurals name="day_before">
+     </plurals>
+     <plurals name="day_before">
         <item quantity="other">Hace %d días</item>
         <item quantity="one">Hace %d día</item>
-    </plurals>
-    <plurals name="draft">
+     </plurals>
+     <plurals name="draft">
         <item quantity="other">Borradores</item>
         <item quantity="one">Borrador</item>
-    </plurals>
-    <plurals name="empty_folder_dialog_message">
+     </plurals>
+     <plurals name="empty_folder_dialog_message">
         <item quantity="other">%1$d mensajes se eliminarán permanentemente.</item>
         <item quantity="one">%1$d mensaje se eliminará permanentemente.</item>
-    </plurals>
-    <plurals name="hide_atts_remaining">
+     </plurals>
+     <plurals name="hide_atts_remaining">
         <item quantity="other">Ocultar %1$d documentos adjuntos</item>
         <item quantity="one">Ocultar %1$d documento adjunto</item>
-    </plurals>
-    <plurals name="local_search_result">
+     </plurals>
+     <plurals name="local_search_result">
         <item quantity="other">%sresultados en mensajes sincronizados</item>
         <item quantity="one">%sresultado en mensajes sincronizados</item>
-    </plurals>
-    <plurals name="month">
+     </plurals>
+     <plurals name="month">
         <item quantity="other">%d meses</item>
         <item quantity="one">%d mes</item>
-    </plurals>
-    <plurals name="more_atts_remaining">
+     </plurals>
+     <plurals name="more_atts_remaining">
         <item quantity="other">%1$d documentos adjuntos pendientes</item>
         <item quantity="one">%1$d documento adjunto pendiente</item>
-    </plurals>
-    <plurals name="move_conversation">
+     </plurals>
+     <plurals name="move_conversation">
         <item quantity="other">Mover %1$d conversaciones</item>
         <item quantity="one">Mover conversación</item>
-    </plurals>
-    <plurals name="new_incoming_messages_many">
+     </plurals>
+     <plurals name="new_incoming_messages_many">
         <item quantity="other">Show %1$d mensajes nuevos.</item>
         <item quantity="one">Show %1$d mensaje nuevo.</item>
-    </plurals>
-    <plurals name="new_messages">
+     </plurals>
+     <plurals name="new_messages">
         <item quantity="other">%1$d mensajes nuevos</item>
         <item quantity="one">%1$d mensaje nuevo</item>
-    </plurals>
-    <plurals name="num_selected">
+     </plurals>
+     <plurals name="num_selected">
         <item quantity="other">%d seleccionados</item>
         <item quantity="one">%d seleccionado</item>
-    </plurals>
-    <plurals name="quick_reply_hint">
+     </plurals>
+     <plurals name="quick_reply_hint">
         <item quantity="other">Responder a %1$d personas</item>
         <item quantity="one">Responder a %1$d persona</item>
-    </plurals>
-    <plurals name="remote_search_result">
+     </plurals>
+     <plurals name="remote_search_result">
         <item quantity="other">%sresultados en todas las cuentas</item>
         <item quantity="one">%sresultado en todas las cuentas</item>
-    </plurals>
-    <plurals name="show_messages_read">
+     </plurals>
+     <plurals name="show_messages_read">
         <item quantity="other">%1$d mensajes antiguos</item>
         <item quantity="one">%1$d mensaje antiguo</item>
-    </plurals>
-    <plurals name="unsent_messages_in_outbox">
+     </plurals>
+     <plurals name="unsent_messages_in_outbox">
         <item quantity="other">%1$smensajes sin enviar en %2$s</item>
         <item quantity="one">%1$smensaje sin enviar en %2$s</item>
-    </plurals>
+     </plurals>
 </resources>

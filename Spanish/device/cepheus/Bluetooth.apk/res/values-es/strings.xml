@@ -30,7 +30,6 @@
     <string name="bt_enable_line1">Para utilizar los servicios de Bluetooth, primero debes activar la función Bluetooth.</string>
     <string name="bt_enable_line2">¿Quieres activar la función Bluetooth ahora?</string>
     <string name="bt_enable_ok">Activar</string>
-    <string name="bt_enable_title" />
     <string name="bt_error_btn_ok">Aceptar</string>
     <string name="bt_share_picker_label">Bluetooth</string>
     <string name="bt_sm_2_1_default">No hay suficiente espacio en la tarjeta SD para guardar el archivo de \"%1$s\"</string>
@@ -44,7 +43,6 @@
     <string name="bt_toast_6">Se ha detenido el envío del archivo a \"%1$s\"</string>
     <string name="btopp_live_folder">Recibido por Bluetooth</string>
     <string name="defaultname">Carkit</string>
-    <string name="defaultnumber">000000</string>
     <string name="deleteAll_record">Eliminar todas las grabaciones</string>
     <string name="delete_record">Eliminar grabación</string>
     <string name="download_cancel">Detener</string>
@@ -55,15 +53,14 @@
     <string name="download_line1">De: \"%1$s\"</string>
     <string name="download_line2">Archivo: %1$s</string>
     <string name="download_line3">Tamaño del archivo: %1$s</string>
-    <string name="download_line4" />
     <string name="download_line5">Recibiendo archivo…</string>
     <string name="download_ok">Ocultar</string>
     <string name="download_succ_line5">Archivo recibido</string>
     <string name="download_succ_ok">Abrir</string>
     <string name="download_success">Recepción de %1$s completada</string>
     <string name="download_title">Transferencia de archivos</string>
-    <string name="enabling_progress_content">Activando Bluetooth...</string>
-    <string name="enabling_progress_title">Por favor, espera...</string>
+    <string name="enabling_progress_content">Activando Bluetooth…</string>
+    <string name="enabling_progress_title">Por favor, espera…</string>
     <string name="inbound_history_title">Transferencias entrantes</string>
     <string name="inbound_noti_title">Bluetooth: archivos recibidos</string>
     <string name="incoming_file_confirm_Notification_content">%1$s ya puede enviar %2$s</string>
@@ -121,6 +118,9 @@
     <string name="status_running">Transferencia de archivos en curso</string>
     <string name="status_success">La transferencia de archivos se ha completado correctamente.</string>
     <string name="status_unknown_error">Error desconocido</string>
+    <string name="switch_audio_device_bt">Bluetooth</string>
+    <string name="switch_audio_device_phone">Este dispositivo</string>
+    <string name="switch_audio_notification_content">Dispositivo de salida de audio actual:</string>
     <string name="transfer_clear_dlg_msg">Se borrarán todos los elementos de la lista.</string>
     <string name="transfer_clear_dlg_title">Borrar</string>
     <string name="transfer_menu_clear">Borrar de la lista</string>
@@ -143,7 +143,4 @@
     <string name="upload_succ_line5">Archivo enviado</string>
     <string name="upload_succ_ok">Aceptar</string>
     <string name="upload_success">Envío de %1$s completado</string>
-    <string name="switch_audio_device_bt">Bluetooth</string>
-    <string name="switch_audio_device_phone">Este dispositivo</string>
-    <string name="switch_audio_notification_content">Dispositivo de salida de audio actual:</string>
 </resources>

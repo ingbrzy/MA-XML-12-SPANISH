@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Ir hacia arriba</string>
     <string name="abc_action_menu_overflow_description">Más</string>
     <string name="abc_action_mode_done">Listo</string>
@@ -19,30 +17,6 @@
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
-    <string name="common_google_play_services_enable_button">Habilitar</string>
-    <string name="common_google_play_services_enable_text">%1$s no funcionará hasta que no habilites Servicios de Google Play.</string>
-    <string name="common_google_play_services_enable_title">Habilita Servicios de Google Play</string>
-    <string name="common_google_play_services_install_button">Instalar</string>
-    <string name="common_google_play_services_install_text">%1$s no se ejecutará si los Servicios de Google Play no están instalados en tu dispositivo.</string>
-    <string name="common_google_play_services_install_title">Descargar Servicios de Google Play</string>
-    <string name="common_google_play_services_notification_channel_name">Disponibilidad Servicios de Google Play</string>
-    <string name="common_google_play_services_notification_ticker">Error de Servicios de Google Play</string>
-    <string name="common_google_play_services_unknown_issue">La aplicación %1$s tiene problemas con los Servicios de Google Play. Vuelve a intentarlo.</string>
-    <string name="common_google_play_services_unsupported_text">No es posible ejecutar la aplicación %1$s sin los Servicios de Google Play, que no son compatibles con tu dispositivo.</string>
-    <string name="common_google_play_services_update_button">Actualizar</string>
-    <string name="common_google_play_services_update_text">%1$s no funcionará hasta que no actualices Servicios de Google Play.</string>
-    <string name="common_google_play_services_update_title">Actualiza Servicios de Google Play</string>
-    <string name="common_google_play_services_updating_text">%1$s no se ejecutará hasta que finalice la actualización en curso de Servicios de Google Play.</string>
-    <string name="common_google_play_services_wear_update_text">Se necesita una nueva versión de Servicios de Google Play. Se actualizará en breve.</string>
-    <string name="common_open_on_phone">Abrir en teléfono</string>
-    <string name="common_signin_button_text">Iniciar sesión</string>
-    <string name="common_signin_button_text_long">Iniciar sesión con Google</string>
-    <string name="copy_email">Copiar dirección de correo electrónico</string>
-    <string name="copy_number">Copiar número de teléfono</string>
-    <string name="done">Intro</string>
-    <string name="more_string">+%1$s</string>
-    <string name="search_menu_title">Buscar</string>
-    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="accessibility_add_attendee">Añadir asistente</string>
     <string name="accessibility_all_day">Evento de todo el día</string>
     <string name="accessibility_pick_start_date">Fecha de inicio</string>
@@ -51,6 +25,7 @@
     <string name="accessibility_repeats">Repetir</string>
     <string name="accessibility_sync_cal">Sincronizar calendario</string>
     <string name="account_and_calendar">Cuentas</string>
+    <string name="action_bar_date_button_title">Calcular fecha</string>
     <string name="action_bar_return">Atrás</string>
     <string name="action_text_card_manager">Canal</string>
     <string name="add_anniversary">Añadir aniversario</string>
@@ -77,15 +52,14 @@
     <string name="birthday_event_description_day_after_tomorrow">Pasado mañana es</string>
     <string name="birthday_event_description_day_before_yesterday">Anteayer fue</string>
     <string name="birthday_event_description_default">%3$s%4$s de %1$s%2$s</string>
-    <string name="birthday_event_description_special">%1$s %3$s %4$s %5$sde %2$s</string>
+    <string name="birthday_event_description_special">%1$s %3$s %4$s %5$s de %2$s</string>
     <string name="birthday_event_description_today">Hoy es</string>
     <string name="birthday_event_description_tomorrow">Mañana es</string>
     <string name="birthday_event_description_yesterday">Ayer fue</string>
     <string name="birthday_notification_text_days_later">%1$s días hasta el %4$s (%5$s)</string>
     <string name="birthday_notification_text_today">No olvides felicitarles.</string>
-    <string name="birthday_notification_title_days_later">Se acerca el %2$sde%1$s.</string>
+    <string name="birthday_notification_title_days_later">Se acerca el %2$s de %1$s.</string>
     <string name="birthday_notification_title_today">%3$s de %1$s</string>
-    <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_saved">Cumpleaños guardado</string>
     <string name="birthday_term">cumpleaños</string>
     <string name="calendar_permission_desc">Gestionar eventos</string>
@@ -108,7 +82,27 @@
     <string name="choose_your_holidays">Seleccionar festivos</string>
     <string name="click_to_share">Pulsa para compartir</string>
     <string name="close_alarm">Desactivar</string>
+    <string name="common_google_play_services_enable_button">Habilitar</string>
+    <string name="common_google_play_services_enable_text">%1$s no funcionará hasta que no habilites Servicios de Google Play.</string>
+    <string name="common_google_play_services_enable_title">Habilita Servicios de Google Play</string>
+    <string name="common_google_play_services_install_button">Instalar</string>
+    <string name="common_google_play_services_install_text">%1$s no se ejecutará si los Servicios de Google Play no están instalados en tu dispositivo.</string>
+    <string name="common_google_play_services_install_title">Descargar Servicios de Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilidad Servicios de Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Error de Servicios de Google Play</string>
+    <string name="common_google_play_services_unknown_issue">La aplicación %1$s tiene problemas con los Servicios de Google Play. Vuelve a intentarlo.</string>
+    <string name="common_google_play_services_unsupported_text">No es posible ejecutar la aplicación %1$s sin los Servicios de Google Play, que no son compatibles con tu dispositivo.</string>
+    <string name="common_google_play_services_update_button">Actualizar</string>
+    <string name="common_google_play_services_update_text">%1$s no funcionará hasta que no actualices Servicios de Google Play.</string>
+    <string name="common_google_play_services_update_title">Actualiza Servicios de Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s no se ejecutará hasta que finalice la actualización en curso de Servicios de Google Play.</string>
+    <string name="common_google_play_services_wear_update_text">Se necesita una nueva versión de Servicios de Google Play. Se actualizará en breve.</string>
+    <string name="common_open_on_phone">Abrir en teléfono</string>
+    <string name="common_signin_button_text">Iniciar sesión</string>
+    <string name="common_signin_button_text_long">Iniciar sesión con Google</string>
     <string name="contacts_permission_desc">Acceder a la información de contacto</string>
+    <string name="copy_email">Copiar dirección de correo electrónico</string>
+    <string name="copy_number">Copiar número de teléfono</string>
     <string name="countdown_event_title">Cuenta atrás: %1$s</string>
     <string name="countdown_notify_before_3_day_title">Cuenta atrás: %1$s en 3 días</string>
     <string name="countdown_notify_title">Cuenta atrás: %1$s</string>
@@ -149,6 +143,7 @@
     <string name="directory_searching_fmt">Buscar %s…</string>
     <string name="discard_label">Cancelar</string>
     <string name="does_not_repeat">Evento de una sola vez</string>
+    <string name="done">Intro</string>
     <string name="edit_date_calculate_days_backward_error_hint">No se pueden calcular días posteriores</string>
     <string name="edit_date_calculate_days_empty_hint">Introduce número de días</string>
     <string name="edit_date_calculate_days_forward_error_hint">No se pueden calcular días pasados</string>
@@ -233,7 +228,6 @@
     <string name="global_joke_collapse_text">Mostrar menos</string>
     <string name="global_joke_copy_toast_message">Texto copiado con éxio</string>
     <string name="global_joke_expand_text">Mostrar más</string>
-    <string name="global_onthisday_com">OnThisDay.com</string>
     <string name="greetingcard_end_of_page">Eso es todo por hoy. ¡Vuelve más tarde!</string>
     <string name="greetingcard_notification_desc">Comprueba los últimos estados</string>
     <string name="greetingcard_notification_title">Tus noticias diarias están listas</string>
@@ -328,6 +322,7 @@
     <string name="monthly">Mensualmente</string>
     <string name="monthly_on_day">Mensualmente (misma fecha)</string>
     <string name="monthly_on_day_count">Cada mes (%1$s)</string>
+    <string name="more_string">+%1$s</string>
     <string name="network_not_available">No se puede conectar a la red</string>
     <string name="new_event_description">Nuevo</string>
     <string name="news">Noticias</string>
@@ -345,7 +340,6 @@ Comprueba los ajustes de red e inténtalo de nuevo."</string>
     <string name="no_visiable_calendar_select_account">Añadir cuenta</string>
     <string name="no_visiable_calendar_title">Añadir cuenta</string>
     <string name="not_more_than_three_weekday">Puedes seleccionar hasta 3 días</string>
-    <string name="notification_channel_description" />
     <string name="notification_channel_name">Recordatorios de calendario</string>
     <string name="panchang_amanta">Amanta</string>
     <string name="panchang_amanta_month">Mes Amanta:</string>
@@ -388,9 +382,12 @@ Comprueba los ajustes de red e inténtalo de nuevo."</string>
     <string name="preferences_title">Calendario</string>
     <string name="preferences_use_home_tz_descrip">Mostrar tiempo de calendarios y eventos en tu zona horaria de casa al viajar</string>
     <string name="preferences_use_home_tz_title">Usar zona horaria de casa</string>
+    <string name="preferences_week_settings_title">Ajustes de la semana</string>
     <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_week_start_day_dialog">Inicio de la semana</string>
     <string name="preferences_week_start_day_title">Inicio de la semana</string>
+    <string name="preferences_weekly_holiday_summary">Los días seleccionados serán marcados como días libres</string>
+    <string name="preferences_weekly_holiday_title">Días libres</string>
     <string name="pull_to_refresh_hint">Arrastra para cargar eventos desde %1$d</string>
     <string name="refresh">Recargar</string>
     <string name="refreshing_hint">Un momento…</string>
@@ -430,6 +427,7 @@ Comprueba los ajustes de red e inténtalo de nuevo."</string>
     <string name="search_calendar">Fecha;Solar Términos;Lunar;Almanaque;Fortuna;Agenda;Reunión;Recordatorio;Vacaciones;Festivo;Cumpleaños;2016;2017;Año nuevo chino;Día de Año Nuevo;Día Internacional del Trabajo;Festival chino de Medio Otoño</string>
     <string name="search_calendar_edit_event">Reunión;Recordatorio;Agenda</string>
     <string name="search_calendar_settings">Calendario;Agenda;Recordatorio</string>
+    <string name="search_menu_title">Buscar</string>
     <string name="second_saturday_holiday">Cada segundo sábado es un día de descanso</string>
     <string name="select_date">Ir a la fecha</string>
     <string name="set_reminder">Establecer recordatorio</string>
@@ -460,6 +458,7 @@ Comprueba los ajustes de red e inténtalo de nuevo."</string>
     <string name="show_indic_date_summary">El calendario hindú está disponible al establecer uno de los idiomas de la India como idioma del sistema</string>
     <string name="single_selected_holiday">%1$s es un día de descanso</string>
     <string name="start_date_calculate">Calcular</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="storage_permission_denied">Permitir primero acceso al almacenamiento</string>
     <string name="subscribe_card">Suscribirse ahora</string>
     <string name="subscribe_card_success">¡Suscrito con éxito! Revisa los detalles en la página de inicio.</string>
@@ -522,7 +521,7 @@ También puedes añadir recordatorios para no perderte nada importante."</string
     <string name="unsubscribing_card">No suscrito</string>
     <string name="use_system_language">Usar idioma del sistema</string>
     <string name="user_notice_button_exit">Cancelar</string>
-    <string name="user_notice_button_ok">OK </string>
+    <string name="user_notice_button_ok">ACEPTAR </string>
     <string name="user_notice_message">Al utilizar este producto, aceptas las %1$s y %2$s de Xiaomi. Algunas características requieren conexión a Internet, acceso a la ubicación, a los contactos y SMS para funcionar normalmente.</string>
     <string name="user_notice_title">Atención</string>
     <string name="view_details">Ver detalles</string>
@@ -540,8 +539,4 @@ También puedes añadir recordatorios para no perderte nada importante."</string
     <string name="xiaomi_calendar_display_name">Calendario de Cuenta Mi</string>
     <string name="yearly">Anualmente (cada %s)</string>
     <string name="yearly_plain">Anualmente</string>
-    <string name="action_bar_date_button_title">Calcular fecha</string>
-    <string name="preferences_week_settings_title">Ajustes de la semana</string>
-    <string name="preferences_weekly_holiday_summary">Los días seleccionados serán marcados como días libres</string>
-    <string name="preferences_weekly_holiday_title">Días libres</string>
 </resources>

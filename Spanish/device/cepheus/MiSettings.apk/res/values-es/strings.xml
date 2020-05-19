@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="actionbar_button_up_description">Atrás</string>
     <string name="advanced_mode">Ajustes avanzados</string>
     <string name="anti_flicker_mode">Antiparpadeo</string>
     <string name="anti_flicker_mode_categroy">Modos</string>
@@ -38,11 +39,13 @@
     <string name="calendar_sound">Recordatorios de eventos</string>
     <string name="calendar_tip">Los sonidos para recordatorios de eventos funcionan para recordatorios del calendario, notas y tareas</string>
     <string name="category_other">Otros</string>
+    <string name="clearable_edittext_clear_description">Claro</string>
     <string name="color_gamut">Gama de colores</string>
     <string name="contact_description">Pulsa los accesos directos de la Pantalla de inicio para realizar llamadas</string>
     <string name="contact_title">Accesos directos a contactos</string>
     <string name="contrast_ratio">Contraste</string>
     <string name="control_center_title">Horas de pantalla de hoy</string>
+    <string name="control_center_title_new">Usado hoy</string>
     <string name="copy">Copiar</string>
     <string name="create">Crear</string>
     <string name="create_failed">No se pudo crear</string>
@@ -50,11 +53,15 @@
     <string name="created">Creado</string>
     <string name="created_successfully">Creado con éxito</string>
     <string name="cu_confirm">Establecer</string>
+    <string name="date_picker_lunar">Lunar Calendar</string>
     <string name="display_description">Iconos y texto más grande, menos desorden visual</string>
     <string name="display_title">Elementos más grandes</string>
+    <string name="eras_ad">DC</string>
+    <string name="eras_bc">AC</string>
     <string name="exit_easymode">Desactivar el Modo lite</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="first_unlock_time">"Primera vez desbloqueado: "</string>
+    <string name="focus_mode_custom_time">Duración personalizada</string>
     <string name="focus_mode_timer_add_limit">Puedes añadir hasta %d temporizadores personalizados</string>
     <string name="focus_mode_timer_delete">Eliminar</string>
     <string name="focus_mode_timer_exist">Esta sesión ya existe</string>
@@ -70,10 +77,21 @@
     <string name="hsv_space_color_value">Valor</string>
     <string name="intelligent_recognition_item_summary">Usa un tono designado para las llamadas de taxis y servicios de reparto. Esta función funcionará cuando %s sea establecido como tu tono por defecto.</string>
     <string name="intelligent_recognition_item_title">Identificar servicios</string>
-    <string name="less_than_one">&lt; %d</string>
     <string name="lock_summary">Protege tu información personal</string>
     <string name="low_light_preview">Previsualización con poca luz</string>
+    <string name="miuix_appcompat_cloud_state_disabled">La sincronización con la nube está desactivada</string>
+    <string name="miuix_appcompat_cloud_state_finished">Sincronizado con la nube completado</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Sincronizando con la nube…</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tire hacia abajo para actualizar</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelte para actualizar</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar elementos"</string>
     <string name="mms">Mensajería</string>
+    <string name="more">Más</string>
     <string name="more_ringtone">Todos los tonos de llamada</string>
     <string name="more_settings">Ajustes</string>
     <string name="most_unlock_week_day">"Máximo de desbloqueos: "</string>
@@ -84,7 +102,6 @@
     <string name="not_set">Sin definir</string>
     <string name="notification_sound">Sonidos de notificaciones</string>
     <string name="other_parameter">Otros</string>
-    <string name="p3_color_region">P3</string>
     <string name="p3_color_region_summary">Mostrar todo el contenido de la pantalla en la gama de colores P3</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="preview">Previsualizar</string>
@@ -95,9 +112,6 @@
     <string name="restore_default">Restaurar valores predeterminados</string>
     <string name="retry">Vuelve a intentarlo</string>
     <string name="rgb_space_color">Espacio de color RGB</string>
-    <string name="rgb_space_color_B">B</string>
-    <string name="rgb_space_color_G">G</string>
-    <string name="rgb_space_color_R">R</string>
     <string name="ringtone_slot_setting_title">Tonos de SIM dual</string>
     <string name="ringtone_sound">Tonos de llamada</string>
     <string name="ringtone_title">Tonos de llamada</string>
@@ -117,14 +131,10 @@
     <string name="search_menu_title">Buscar</string>
     <string name="several_days_use_time">Horas de pantalla: %2$s</string>
     <string name="shortcut_created">Este acceso directo ya existe</string>
-    <string name="sim_slot_1">" (SIM 1)"</string>
-    <string name="sim_slot_2">" (SIM 2)"</string>
     <string name="sms_delivered_sound_title">Mensaje enviado</string>
     <string name="sms_received_sound_title">Mensaje entrante</string>
-    <string name="srgb_color_region">sRGB</string>
     <string name="srgb_color_region_summary">Mostrar todo el contenido de la pantalla en la gama de colores sRGB</string>
     <string name="start_easymode">Activar el Modo lite</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="steady_on_screen_notification_title">Deja el teléfono y tómate un descanso</string>
     <string name="steady_on_screen_notify">Notificar acerca del uso ininterrumpido</string>
     <string name="steady_on_screen_setting">Tiempo límite para sesiones ininterrumpidas</string>
@@ -135,12 +145,14 @@
     <string name="stop_app_timer_tip">Todos los datos y permisos de Horas de pantalla, incluidas las configuraciones individuales, así como los elementos almacenados localmente y sincronizados con la nube, se eliminarán después de que desactives esta función.</string>
     <string name="stop_summary">Las estadísticas de Horas de pantalla y los datos serán eliminados cuando esta función esté desactivada</string>
     <string name="suggestion">Comentarios</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="thememanager_not_found">No se pudo abrir Temas. Asegúrate de que la aplicación está instalada en u ditspositivo.</string>
+    <string name="time_picker_dialog_title">Fijar tiempo</string>
     <string name="title_activity_easy_mode">Modo lite</string>
     <string name="to_authorize">Conceder permisos</string>
+    <string name="today">Hoy</string>
     <string name="today_usage_title">Hoy</string>
     <string name="today_use_time">Horas de pantalla: %1$s</string>
+    <string name="tomorrow">mañana</string>
     <string name="touch_description">Los botones y accesos directos optimizados te ayudarán a evitar toques accidentales</string>
     <string name="touch_title">Controles táctiles mejorados</string>
     <string name="trend_from_yesterday_equal">Igual que ayer</string>
@@ -205,9 +217,9 @@ Esta aplicación también necesita conectarse a internet y requiere los siguient
 Para poder trabajar con normalidad, esta aplicación necesita recolectar información sobre el tiempo de pantalla: la cantidad de veces que desbloqueas tu teléfono, los nombres de las aplicaciones y la duración del uso de la aplicación son necesarios para generar estadísticas de Horas de pantalla.
 Esta aplicación también necesita conectarse a internet y requiere los siguientes permisos para recolectar tu información personal:"</string>
     <string name="usage_home_premission_second_summary">Para poder trabajar normalmente, esta aplicación necesita recolectar tu información personal. Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.</string>
-    <string name="usage_home_premission_second_summary_double_link_prefix">Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes. Si no aceptas otorgar tales permisos o compartir y cargar tu información personal, no podrás usar esta aplicación. Revoca tu autorización en Horas de pantalla > Ajustes > Desactivar Horas de pantalla.</string>
-    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>Antes de usar esta aplicación, lee acepta nuestro &lt;a href='%1s'>Acuerdo de Usuario&lt;/a> y &lt;a href='%2s'>Política de Privacidad&lt;/a>.&lt;/Data>"</string>
-    <string name="usage_home_premission_second_summary_new">Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes. Si no aceptas otorgar tales permisos o compartir y cargar tu información personal, no podrás usar esta aplicación. Revoca tu autorización en Horas de pantalla > Ajustes > Desactiva Horas de pantalla. Si tienes más preguntas sobre la privacidad, puedes contactarnos en privacy@xiaomi.com.</string>
+    <string name="usage_home_premission_second_summary_double_link_prefix">Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes. Si no aceptas otorgar tales permisos o compartir y cargar tu información personal, no podrás usar esta aplicación. Revoca tu autorización en Horas de pantalla &gt; Ajustes &gt; Desactivar Horas de pantalla.</string>
+    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data&gt;Antes de usar esta aplicación, lee acepta nuestro &lt;a href='%1s'&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href='%2s'&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;"</string>
+    <string name="usage_home_premission_second_summary_new">Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes. Si no aceptas otorgar tales permisos o compartir y cargar tu información personal, no podrás usar esta aplicación. Revoca tu autorización en Horas de pantalla &gt; Ajustes &gt; Desactiva Horas de pantalla. Si tienes más preguntas sobre la privacidad, puedes contactarnos en privacy@xiaomi.com.</string>
     <string name="usage_new_home_average">"Media "</string>
     <string name="usage_new_home_category">Categoría</string>
     <string name="usage_new_home_compare_text1">%.2f más que el día anterior</string>
@@ -239,15 +251,13 @@ Esta aplicación también necesita conectarse a internet y requiere los siguient
     <string name="usage_optional_title">Permisos opcionales</string>
     <string name="usage_permisison_agree_desc_o">Para proporcionarte estadísticas de Horas de pantalla, esta aplicación necesita recopilar los siguientes datos: el número de veces que desbloqueas el dispositivo, la lista de tus aplicaciones junto con la duración de uso correspondiente.</string>
     <string name="usage_permisison_agree_desc_p">Para proporcionarte estadísticas de Horas de pantalla y Modo concentración, esta aplicación necesita recopilar los siguientes datos: el número de veces que desbloqueas el dispositivo, la lista de tus aplicaciones junto con la duración de uso correspondiente, el número de veces que se enciende tu pantalla y los ajustes del Modo concentración.</string>
-    <string name="usage_permission_double_link" formatted="false">"&lt;Data>Esta aplicación necesita conectarse a internet y recopilar los datos personales necesarios para poder funcionar con normalidad. Para comprender plenamente tus derechos como usuario, así como la forma en que usamos tus datos, lee y acepta nuestro &lt;a href='%1s'>Acuerdo de Usuario&lt;/a> y nuestra &lt;a href='%2s'>Política de Privacidad&lt;/a>.&lt;/Data>"</string>
+    <string name="usage_permission_double_link" formatted="false">"&lt;Data&gt;Esta aplicación necesita conectarse a internet y recopilar los datos personales necesarios para poder funcionar con normalidad. Para comprender plenamente tus derechos como usuario, así como la forma en que usamos tus datos, lee y acepta nuestro &lt;a href='%1s'&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href='%2s'&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;"</string>
     <string name="usage_permission_main_desc">"¡Bienvenido a Horas de pantalla!
 Esta aplicación necesita conectarse a internet y requiere de los siguientes permisos para poder trabajar con normalidad:"</string>
     <string name="usage_permission_title">Atención</string>
     <string name="usage_reach_device_limit">¡Tiempo agotado! Has llegado a tu límite.</string>
     <string name="usage_reach_device_limit_warning_text">Has llegado a tu límite de horas de pantalla de hoy</string>
     <string name="usage_refresh">Vuelve a intentarlo</string>
-    <string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
-    <string name="usage_remain_hour_miunte">%1$s%2$s</string>
     <string name="usage_request_error_summary">Ha ocurrido un error desconocido</string>
     <string name="usage_request_timeout_summary">Tiempo de espera agotado</string>
     <string name="usage_runtime_per_des_summary">Para guardar tus estadísticas de Horas de pantalla</string>
@@ -300,7 +310,6 @@ Esta aplicación necesita conectarse a internet y requiere de los siguientes per
     <string name="usage_state_focus_weak_summary">Aleja tu teléfono</string>
     <string name="usage_state_friday">Vie</string>
     <string name="usage_state_go_more">Más aplicaciones</string>
-    <string name="usage_state_hour_minute">%1$dh %2$dmin</string>
     <string name="usage_state_less_one_minute">&lt; 1 minuto</string>
     <string name="usage_state_monday">Lun</string>
     <string name="usage_state_mourth_day">Horas de pantalla el %s</string>
@@ -310,7 +319,6 @@ Esta aplicación necesita conectarse a internet y requiere de los siguientes per
     <string name="usage_state_num_level">"Nivel %d: "</string>
     <string name="usage_state_open_focus_mode">Activar el Modo concentración</string>
     <string name="usage_state_over_p">Mejor que</string>
-    <string name="usage_state_percent">%s%%</string>
     <string name="usage_state_remind_new_summary">Recibir una notificación al alcanzar el límite de horas de pantalla</string>
     <string name="usage_state_remind_summary">Activar para recibir alertas de horas de pantalla</string>
     <string name="usage_state_remind_title">Alerta de horas de pantalla</string>
@@ -392,27 +400,5 @@ Esta aplicación necesita conectarse a internet y requiere de los siguientes per
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADA</string>
     <string name="wait_tip">Un momento…</string>
-    <string name="actionbar_button_up_description">Atrás</string>
-    <string name="clearable_edittext_clear_description">Claro</string>
-    <string name="control_center_title_new">Usado hoy</string>
-    <string name="date_picker_lunar">Lunar Calendar</string>
-    <string name="eras_ad">DC</string>
-    <string name="eras_bc">AC</string>
-    <string name="focus_mode_custom_time">Duración personalizada</string>
-    <string name="miuix_appcompat_cloud_state_disabled">La sincronización con la nube está desactivada</string>
-    <string name="miuix_appcompat_cloud_state_finished">Sincronizado con la nube completado</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Sincronizando con la nube…</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tire hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelte para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar elementos"</string>
-    <string name="more">Más</string>
-    <string name="time_picker_dialog_title">Fijar tiempo</string>
-    <string name="today">Hoy</string>
-    <string name="tomorrow">mañana</string>
     <string name="yesterday">Ayer</string>
 </resources>

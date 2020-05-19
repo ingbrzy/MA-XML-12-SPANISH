@@ -28,18 +28,15 @@
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="allow">Permitir</string>
-    <string name="altitude">%.1f</string>
-    <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="altitude_title">Altitud</string>
     <string name="altitude_uncalibrate_cancel">Cancelar</string>
     <string name="altitude_uncalibrate_msg">No es posible calibrar la altitud con precisión sin un GPS o conexión de datos móviles.</string>
     <string name="altitude_uncalibrate_refresh">Inténtalo de nuevo</string>
     <string name="altitude_uncalibrate_tip">Datos sin calibrar</string>
-    <string name="altitude_unit">m</string>
-    <string name="angle">%.0f</string>
     <string name="app_description_content">La brújula se usa para navegación y orientación y te muestra la dirección. Asegúrate de no necesitar estas funciones antes de desinstalar la aplicación.</string>
     <string name="app_description_title">Acerca de Brújula</string>
     <string name="app_label">Brújula</string>
+    <string name="app_name">Preferencia</string>
     <string name="calibrate_failed">Error calibrando la altitud</string>
     <string name="calibrate_failed_no_location">No se puede calibrar</string>
     <string name="calibrate_failed_timeout">No es posible conectarse al servidor</string>
@@ -48,9 +45,9 @@
     <string name="calibrate_tip">Inclina el dispositivo para hacer rodar la bola alrededor del círculo</string>
     <string name="calibrate_title">Calibrar brújula</string>
     <string name="cancel">Cancelar</string>
-    <string name="cannot_get_location">--</string>
     <string name="compass_settings">Ajustes</string>
     <string name="copy">Copiar</string>
+    <string name="cta_agree_desc">Permita que esta aplicación se conecte a Internet y otorgue permisos opcionales para poder usar todas sus funciones.</string>
     <string name="cta_v2_app_purpose">mostrar direcciones, coordenadas, presión atmosférica y altitud actual</string>
     <string name="dialog_body_no_network">Conecta al Wi-Fi o activa los datos móviles.</string>
     <string name="dialog_calibrat_altitude">Calibrando…</string>
@@ -70,6 +67,7 @@
     <string name="first_using_dialog_message">La brújula necesita una conexión de red, cámara y servicios de ubicación de su dispositivo para funcionar normalmente.</string>
     <string name="first_using_dialog_title">Permiso de acceso</string>
     <string name="guide_toast">Para calibrar, mueve tu dispositivo como se muestra abajo.</string>
+    <string name="keywords_search_compass">Brújula;Calibrar brújula;Presión;Altitud;Latitud;Longitud;Verificar longitud;Verificar latitud;MIUI Compass;Aplicación Brújula;Aplicación MIUI Brújula;Dónde está Brújula;Descargar Brújula;Presión atmosférica;Verificar altitud;Cuales la altitud</string>
     <string name="latitude">LAT</string>
     <string name="location_east">LE</string>
     <string name="location_enable">Permitir</string>
@@ -91,19 +89,13 @@
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="preference_other">Otros</string>
     <string name="preference_privacy_title">Política de Privacidad</string>
-    <string name="pressure">%.1f</string>
     <string name="pressure_title">Presión</string>
     <string name="pressure_unit">hPa</string>
     <string name="search_menu_title">Buscar</string>
     <string name="shake_enter_tip">Agitar para calibrar</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="unit_degree">Grados</string>
     <string name="using_camera_confirm_cancel">Salir</string>
     <string name="using_camera_confirm_ok">De acuerdo</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADA</string>
-    <string name="app_name">Preferencia</string>
-    <string name="cta_agree_desc">Permita que esta aplicación se conecte a Internet y otorgue permisos opcionales para poder usar todas sus funciones.</string>
-    <string name="keywords_search_compass">Brújula;Calibrar brújula;Presión;Altitud;Latitud;Longitud;Verificar longitud;Verificar latitud;MIUI Compass;Aplicación Brújula;Aplicación MIUI Brújula;Dónde está Brújula;Descargar Brújula;Presión atmosférica;Verificar altitud;Cuales la altitud</string>
 </resources>

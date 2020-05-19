@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="cancel">Cancelar</string>
-    <string name="copy">Copiar</string>
-    <string name="copyUrl">Copiar URL</string>
-    <string name="cut">Cortar</string>
-    <string name="defaultVoiceMailAlphaTag">Buzón de voz</string>
-    <string name="defaultMsisdnAlphaTag">MSISDN1</string>
-    <string name="emptyPhoneNumber">(Sin número de teléfono)</string>
-    <string name="httpErrorBadUrl">No se ha podido abrir la página porque la URL no es válida.</string>
-    <string name="httpErrorUnsupportedScheme">Protocolo no admitido</string>
-    <string name="no">Cancelar</string>
-    <string name="ok">Aceptar</string>
-    <string name="paste">Pegar</string>
-    <string name="search_go">Buscar</string>
-    <string name="selectAll">Seleccionar todo</string>
-    <string name="unknownName">Desconocido</string>
-    <string name="untitled">&lt;Sin título></string>
-    <string name="VideoView_error_button">Aceptar</string>
-    <string name="VideoView_error_text_unknown">No se puede reproducir el vídeo.</string>
-    <string name="VideoView_error_title">Incidencias con el vídeo</string>
-    <string name="yes">Aceptar</string>
-    <string name="dialog_alert_title">Atención</string>
-    <string name="VideoView_error_text_invalid_progressive_playback">Este vídeo no se puede transmitir al dispositivo.</string>
-    <string name="selectTextMode">Seleccionar texto</string>
-    <string name="fingerprint_icon_content_description">Icono de huella digital</string>
-    <string name="paste_as_plain_text">Pegar como texto sin formato</string>
-    <string name="autofill">Autocompletar</string>
     <string name="BaMmi">Bloqueo de llamada</string>
     <string name="CLIRDefaultOffNextCallOff">El ID de emisor presenta el valor predeterminado de no restringido. Siguiente llamada: No restringido</string>
     <string name="CLIRDefaultOffNextCallOn">El ID de emisor presenta el valor predeterminado de no restringido. Siguiente llamada: Restringido</string>
@@ -59,6 +33,10 @@
     <string name="RuacMmi">Rechazo de llamadas molestas no deseadas</string>
     <string name="SetupCallDefault">¿Aceptar la llamada?</string>
     <string name="ThreeWCMmi">Llamada a tres</string>
+    <string name="VideoView_error_button">Aceptar</string>
+    <string name="VideoView_error_text_invalid_progressive_playback">Este vídeo no se puede transmitir al dispositivo.</string>
+    <string name="VideoView_error_text_unknown">No se puede reproducir el vídeo.</string>
+    <string name="VideoView_error_title">Incidencias con el vídeo</string>
     <string name="accept">Aceptar</string>
     <string name="accessibility_binding_label">Accesibilidad</string>
     <string name="accessibility_button_instructional_text">Para cambiar de un servicio a otro, mantén pulsado el botón de accesibilidad.</string>
@@ -76,11 +54,9 @@
  Función de accesibilidad actual:
  %1$s
 
- Puedes cambiar la función en Ajustes > Accesibilidad."</string>
+ Puedes cambiar la función en Ajustes &gt; Accesibilidad."</string>
     <string name="accessibility_shortcut_warning_dialog_title">¿Utilizar acceso directo de accesibilidad?</string>
     <string name="action_bar_home_description">Ir al escritorio</string>
-    <string name="action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="action_bar_up_description">Desplazarse hacia arriba</string>
     <string name="action_menu_overflow_description">Más opciones</string>
     <string name="action_mode_done">Listo</string>
@@ -124,8 +100,8 @@
     <string name="android_preparing_apk">Preparando %1$s.</string>
     <string name="android_start_title">El teléfono se está iniciando…</string>
     <string name="android_system_label">Sistema Android</string>
-    <string name="android_upgrading_apk">Optimizando aplicación %1$d de %2$d...</string>
-    <string name="android_upgrading_complete">Finalizando inicio...</string>
+    <string name="android_upgrading_apk">Optimizando aplicación %1$d de %2$d…</string>
+    <string name="android_upgrading_complete">Finalizando inicio…</string>
     <string name="android_upgrading_fstrim">Optimizando almacenamiento.</string>
     <string name="android_upgrading_notification_title">Finalizando actualización del sistema…</string>
     <string name="android_upgrading_starting_apps">Iniciando aplicaciones</string>
@@ -134,7 +110,6 @@
     <string name="anr_activity_process">%1$s no responde</string>
     <string name="anr_application_process">%1$s no responde</string>
     <string name="anr_process">El proceso %1$s no responde</string>
-    <string name="anr_title" />
     <string name="app_category_audio">Música y audio</string>
     <string name="app_category_game">Juegos</string>
     <string name="app_category_image">Fotos e imágenes</string>
@@ -151,17 +126,18 @@
     <string name="app_suspended_more_details">Más información</string>
     <string name="app_suspended_title">La aplicación no está disponible</string>
     <string name="app_upgrading_toast">%1$s se está actualizando…</string>
-    <string name="autofill_address_name_separator">" "</string>
-    <string name="autofill_address_summary_format">$1$2$3</string>
-    <string name="autofill_address_summary_name_format">$1$2$3</string>
-    <string name="autofill_address_summary_separator">", "</string>
+    <string name="autofill">Autocompletar</string>
+    <string name="autofill_address_type_same_as_re">igual que</string>
+    <string name="autofill_address_type_use_my_re">usar mi</string>
     <string name="autofill_area">Área</string>
+    <string name="autofill_billing_designator_re">cuenta</string>
     <string name="autofill_county">Condado</string>
     <string name="autofill_department">Departamento</string>
     <string name="autofill_district">Distrito</string>
     <string name="autofill_emirate">Emirato</string>
     <string name="autofill_error_cannot_autofill">El contenido no se puede autocompletar</string>
     <string name="autofill_island">Isla</string>
+    <string name="autofill_name_on_card_contextual_re">nombre</string>
     <string name="autofill_parish">Distrito</string>
     <string name="autofill_picker_accessibility_title">Opciones de Autocompletar</string>
     <string name="autofill_picker_no_suggestions">No hay sugerencias de Autocompletar</string>
@@ -170,22 +146,23 @@
     <string name="autofill_province">Provincia</string>
     <string name="autofill_save_accessibility_title">Guardar en la función Autocompletar</string>
     <string name="autofill_save_no">No, gracias</string>
-    <string name="autofill_save_title">¿Guardar en <b>%1$s</b>?</string>
-    <string name="autofill_save_title_with_2types">¿Guardar %1$s y %2$s en <b>%3$s</b>?</string>
-    <string name="autofill_save_title_with_3types">¿Guardar %1$s, %2$s y %3$s en <b>%4$s</b>?</string>
-    <string name="autofill_save_title_with_type">¿Guardar %1$s en <b>%2$s</b>?</string>
+    <string name="autofill_save_title">¿Guardar en &lt;b&gt;%1$s&lt;/b&gt;?</string>
+    <string name="autofill_save_title_with_2types">¿Guardar %1$s y %2$s en &lt;b&gt;%3$s&lt;/b&gt;?</string>
+    <string name="autofill_save_title_with_3types">¿Guardar %1$s, %2$s y %3$s en &lt;b&gt;%4$s&lt;/b&gt;?</string>
+    <string name="autofill_save_title_with_type">¿Guardar %1$s en &lt;b&gt;%2$s&lt;/b&gt;?</string>
     <string name="autofill_save_type_address">dirección</string>
     <string name="autofill_save_type_credit_card">tarjeta de crédito</string>
     <string name="autofill_save_type_email_address">dirección de correo electrónico</string>
     <string name="autofill_save_type_password">contraseña</string>
     <string name="autofill_save_type_username">nombre de usuario</string>
     <string name="autofill_save_yes">Guardar</string>
+    <string name="autofill_shipping_designator_re">enviar</string>
     <string name="autofill_state">Estado</string>
     <string name="autofill_this_form">Autocompletar</string>
-    <string name="autofill_update_title">¿Actualizar en <b>%1$s</b>?</string>
-    <string name="autofill_update_title_with_2types">¿Actualizar %1$s y %2$s en <b>%3$s</b>?</string>
-    <string name="autofill_update_title_with_3types">¿Actualizar estos elementos en <b>%4$s</b> (%1$s, %2$s y %3$s)?</string>
-    <string name="autofill_update_title_with_type">¿Actualizar %1$s en <b>%2$s</b>?</string>
+    <string name="autofill_update_title">¿Actualizar en &lt;b&gt;%1$s&lt;/b&gt;?</string>
+    <string name="autofill_update_title_with_2types">¿Actualizar %1$s y %2$s en &lt;b&gt;%3$s&lt;/b&gt;?</string>
+    <string name="autofill_update_title_with_3types">¿Actualizar estos elementos en &lt;b&gt;%4$s&lt;/b&gt; (%1$s, %2$s y %3$s)?</string>
+    <string name="autofill_update_title_with_type">¿Actualizar %1$s en &lt;b&gt;%2$s&lt;/b&gt;?</string>
     <string name="autofill_update_yes">Actualizar</string>
     <string name="autofill_window_title">Autocompletar con %1$s</string>
     <string name="autofill_zip_code">Código postal</string>
@@ -194,7 +171,7 @@
     <string name="badPuk">El código PUK que has introducido no es correcto.</string>
     <string name="battery_saver_charged_notification_title">Nivel de la batería del teléfono: %1$s</string>
     <string name="battery_saver_description">El modo Ahorro de batería desactiva o restringe la actividad en segundo plano, así como algunos efectos visuales y otras funciones que consumen mucha batería para poder prolongar su duración.</string>
-    <string name="battery_saver_description_with_learn_more">El modo Ahorro de batería desactiva o restringe la actividad en segundo plano, así como algunos efectos visuales y otras funciones que consumen mucha batería para poder prolongar su duración. <annotation id="url">Más información</annotation></string>
+    <string name="battery_saver_description_with_learn_more">El modo Ahorro de batería desactiva o restringe la actividad en segundo plano, así como algunos efectos visuales y otras funciones que consumen mucha batería para poder prolongar su duración. &lt;annotation id="url"&gt;Más información&lt;/annotation&gt;</string>
     <string name="battery_saver_notification_channel_name">Ahorro de batería</string>
     <string name="battery_saver_off_alternative_notification_summary">Ahorro de batería desactivado. Las funciones ya no están restringidas.</string>
     <string name="battery_saver_off_notification_summary">Ahorro de batería desactivado. Las funciones ya no están restringidas.</string>
@@ -216,7 +193,7 @@
     <string name="bugreport_option_interactive_summary">Usa esta opción en la mayoría de los casos. Te permite realizar un seguimiento del progreso del informe, introducir más información sobre el problema y hacer capturas de pantalla. Es posible que se omitan algunas secciones menos utilizadas y que requieran más tiempo.</string>
     <string name="bugreport_option_interactive_title">Informe interactivo</string>
     <string name="bugreport_title">Informe de errores</string>
-    <string name="byteShort">B</string>
+    <string name="cancel">Cancelar</string>
     <string name="capability_desc_canCaptureFingerprintGestures">Puede capturar los gestos realizados en el sensor de huellas digitales del dispositivo.</string>
     <string name="capability_desc_canControlMagnification">Controla el posicionamiento y el nivel de zoom de la pantalla.</string>
     <string name="capability_desc_canPerformGestures">Puedes tocar y pellizcar la pantalla, deslizar el dedo y hacer otros gestos.</string>
@@ -237,7 +214,6 @@
     <string name="car_mode_disable_notification_title">Aplicación de conducción en uso</string>
     <string name="carrier_app_notification_text">Toca para configurar</string>
     <string name="carrier_app_notification_title">Nueva SIM insertada</string>
-    <string name="cfTemplateForwarded">{0}: {1}</string>
     <string name="cfTemplateForwardedTime">{0}: {1} transcurridos {2} segundos</string>
     <string name="cfTemplateNotForwarded">{0}: No desviada</string>
     <string name="cfTemplateRegistered">{0}: No desviada</string>
@@ -248,7 +224,7 @@
     <string name="chooser_all_apps_button_label">Lista de aplicaciones</string>
     <string name="chooser_no_direct_share_targets">No se puede compartir directamente</string>
     <string name="chooser_wallpaper">Cambiar fondo de pantalla</string>
-    <string name="clearDefaultHintMsg">Para borrar los valores predeterminados, accede a Ajustes del sistema > Aplicaciones > Descargadas.</string>
+    <string name="clearDefaultHintMsg">Para borrar los valores predeterminados, accede a Ajustes del sistema &gt; Aplicaciones &gt; Descargadas.</string>
     <string name="close_button_text">Cerrar</string>
     <string name="color_correction_feature_name">Corrección de color</string>
     <string name="color_inversion_feature_name">Inversión de color</string>
@@ -261,9 +237,12 @@
     <string name="contentServiceTooManyDeletesNotificationDesc">Se han intentado eliminar demasiados elementos de %s.</string>
     <string name="content_description_sliding_handle">Mantén pulsado el icono de desbloqueo y deslízalo.</string>
     <string name="copied">Copiado</string>
+    <string name="copy">Copiar</string>
+    <string name="copyUrl">Copiar URL</string>
     <string name="country_selection_title">Preferencia de región</string>
     <string name="create_contact_using">"Crear un contacto
 a partir de %s"</string>
+    <string name="cut">Cortar</string>
     <string name="data_saver_description">El ahorro de datos evita que algunas aplicaciones envíen o reciban datos en segundo plano, lo que permite reducir el uso de datos. Una aplicación activa podrá acceder a los datos, aunque con menos frecuencia. Esto significa que, por ejemplo, algunas imágenes no se mostrarán hasta que las toques.</string>
     <string name="data_saver_enable_button">Activar</string>
     <string name="data_saver_enable_title">¿Activar ahorro de datos?</string>
@@ -280,7 +259,6 @@ a partir de %s"</string>
     <string name="data_usage_warning_title">Advertencia de datos</string>
     <string name="data_usage_wifi_limit_snoozed_title">Límite de datos Wi-Fi superado</string>
     <string name="data_usage_wifi_limit_title">Límite de datos Wi-Fi alcanzado</string>
-    <string name="date_and_time" formatted="false">%d/%m/%Y, %H:%M:%S</string>
     <string name="date_picker_decrement_day_button">Reducir días</string>
     <string name="date_picker_decrement_month_button">Reducir mes</string>
     <string name="date_picker_decrement_year_button">Reducir año</string>
@@ -290,19 +268,17 @@ a partir de %s"</string>
     <string name="date_picker_increment_year_button">Aumentar año</string>
     <string name="date_picker_next_month_button">Próximo mes</string>
     <string name="date_picker_prev_month_button">Mes anterior</string>
-    <string name="date_time">%1$s, %2$s</string>
     <string name="date_time_done">Listo</string>
     <string name="date_time_set">Establecer</string>
     <string name="day">día</string>
     <string name="days">días</string>
     <string name="decline">Rechazar</string>
     <string name="decline_remote_bugreport_action">RECHAZAR</string>
+    <string name="defaultVoiceMailAlphaTag">Buzón de voz</string>
     <string name="default_audio_route_category_name">Sistema</string>
     <string name="default_audio_route_name">Teléfono</string>
     <string name="default_audio_route_name_dock_speakers">Altavoces de la base</string>
-    <string name="default_audio_route_name_hdmi">HDMI</string>
     <string name="default_audio_route_name_headphones">Auriculares</string>
-    <string name="default_audio_route_name_usb">USB</string>
     <string name="default_notification_channel_label">Sin clasificar</string>
     <string name="define">Definir</string>
     <string name="define_desc">Definir el texto seleccionado</string>
@@ -320,6 +296,7 @@ a partir de %s"</string>
     <string name="dial_desc">Llamar al número de teléfono seleccionado</string>
     <string name="dial_number_using">"Marcar número
 con %s"</string>
+    <string name="dialog_alert_title">Atención</string>
     <string name="disable_accessibility_shortcut">Desactivar acceso directo</string>
     <string name="disable_tether_notification_message">Ponte en contacto con el administrador para obtener más información</string>
     <string name="disable_tether_notification_title">La conexión compartida está inhabilitada</string>
@@ -327,7 +304,6 @@ con %s"</string>
     <string name="display_manager_hdmi_display_name">Pantalla HDMI</string>
     <string name="display_manager_overlay_display_name">Superposición #%1$d</string>
     <string name="display_manager_overlay_display_secure_suffix">, seguro</string>
-    <string name="display_manager_overlay_display_title">%1$s: %2$d x %3$d, %4$d dpi</string>
     <string name="dlg_ok">Aceptar</string>
     <string name="done_label">Listo</string>
     <string name="double_tap_toast">Sugerencia: toca dos veces para ampliar o reducir el contenido.</string>
@@ -342,8 +318,6 @@ con %s"</string>
     <string name="dynamic_mode_notification_summary">Se ha activado el ahorro de batería para aumentar la duración de la batería</string>
     <string name="dynamic_mode_notification_title">Es posible que te quedes sin batería antes de lo habitual</string>
     <string name="editTextMenuTitle">Acciones de texto</string>
-    <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
-    <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
     <string name="email">Enviar correo</string>
     <string name="emailTypeCustom">Personalizado</string>
     <string name="emailTypeHome">Casa</string>
@@ -353,6 +327,7 @@ con %s"</string>
     <string name="email_desc">Enviar un correo electrónico a la dirección seleccionada</string>
     <string name="emergency_call_dialog_number_for_display">Número de emergencia</string>
     <string name="emergency_calls_only">Solo llamadas de emergencia</string>
+    <string name="emptyPhoneNumber">(Sin número de teléfono)</string>
     <string name="enablePin">Error, habilitar bloqueo de SIM/RUIM.</string>
     <string name="enable_explore_by_touch_warning_message">%1$s quiere habilitar la exploración táctil. Cuando esta función esté activada, podrás escuchar o ver descripciones del contenido seleccionado o usar gestos para interactuar con el teléfono.</string>
     <string name="enable_explore_by_touch_warning_title">¿Habilitar exploración táctil?</string>
@@ -360,7 +335,6 @@ con %s"</string>
     <string name="error_message_title">Error</string>
     <string name="etws_primary_default_message_earthquake">Mantén la calma y busca refugio en algún lugar cercano.</string>
     <string name="etws_primary_default_message_earthquake_and_tsunami">Mantén la calma y busca refugio en algún lugar cercano.</string>
-    <string name="etws_primary_default_message_others" />
     <string name="etws_primary_default_message_test">Prueba de mensajes de emergencia</string>
     <string name="etws_primary_default_message_tsunami">Aléjate inmediatamente de las zonas costeras y situadas junto a un río para dirigirte hacia un lugar más seguro, por ejemplo, un terreno elevado.</string>
     <string name="eventTypeAnniversary">Aniversario</string>
@@ -392,7 +366,7 @@ con %s"</string>
     <string name="ext_media_ready_notification_message">Para transferir fotos y multimedia</string>
     <string name="ext_media_seamless_action">Cambiar salida</string>
     <string name="ext_media_status_bad_removal">Extraído de forma no segura</string>
-    <string name="ext_media_status_checking">Comprobando...</string>
+    <string name="ext_media_status_checking">Comprobando…</string>
     <string name="ext_media_status_ejecting">Expulsando…</string>
     <string name="ext_media_status_formatting">Formateando…</string>
     <string name="ext_media_status_missing">No insertado</string>
@@ -457,8 +431,6 @@ Si tienes alguna pregunta, ponte en contacto con el administrador de tu organiza
     <string name="factorytest_not_system">La acción FACTORY_TEST solo es compatible con los paquetes instalados en /system/app.</string>
     <string name="factorytest_reboot">Reiniciar</string>
     <string name="failed_to_copy_to_clipboard">No se ha podido copiar el contenido en el portapapeles</string>
-    <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-    <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Código de función completo</string>
     <string name="fcError">Se ha producido un problema de conexión o el código de la función no es válido.</string>
     <string name="find">Buscar</string>
@@ -481,6 +453,7 @@ Si tienes alguna pregunta, ponte en contacto con el administrador de tu organiza
     <string name="fingerprint_error_timeout">Se ha alcanzado el tiempo de espera de la huella digital. Vuelve a intentarlo.</string>
     <string name="fingerprint_error_unable_to_process">Vuelve a intentarlo.</string>
     <string name="fingerprint_error_user_canceled">El usuario ha cancelado la operación de huella digital.</string>
+    <string name="fingerprint_icon_content_description">Icono de huella digital</string>
     <string name="fingerprint_name_template">Dedo %d</string>
     <string name="fingerprints">Huellas digitales:</string>
     <string name="floating_toolbar_close_overflow_description">Cerrar menú adicional</string>
@@ -488,12 +461,10 @@ Si tienes alguna pregunta, ponte en contacto con el administrador de tu organiza
     <string name="force_close">Aceptar</string>
     <string name="foreground_service_app_in_background">%1$s está usando la batería</string>
     <string name="foreground_service_apps_in_background">%1$d aplicaciones están usando la batería</string>
-    <string name="foreground_service_multiple_separator">%1$s, %2$s</string>
     <string name="foreground_service_tap_for_details">Toca para ver información detallada sobre el uso de datos y de la batería</string>
     <string name="forward_intent_to_owner">Estás usando esta aplicación fuera del perfil de trabajo</string>
     <string name="forward_intent_to_work">Estás usando esta aplicación en tu perfil de trabajo</string>
     <string name="gadget_host_error_inflating">No se ha podido añadir el widget.</string>
-    <string name="gigabyteShort">GB</string>
     <string name="global_action_assist">Asistencia</string>
     <string name="global_action_bug_report">Informe de error</string>
     <string name="global_action_emergency">Emergencia</string>
@@ -523,6 +494,10 @@ Si tienes alguna pregunta, ponte en contacto con el administrador de tu organiza
     <string name="granularity_label_line">línea</string>
     <string name="granularity_label_link">enlace</string>
     <string name="granularity_label_word">palabra</string>
+    <string name="handset_text_unsupported_handset_insert">Toque para ver detalles</string>
+    <string name="handset_text_usb_handset_insert">Toque para abrir configuraciones adicionales</string>
+    <string name="handset_title_unsupported_handset_insert">"No se puede reproducir audio a través del adaptador"</string>
+    <string name="handset_title_usb_handset_insert">Reproducción de audio a través de USB</string>
     <string name="hardware">Mostrar teclado virtual</string>
     <string name="harmful_app_warning_open_anyway">ABRIR IGUALMENTE</string>
     <string name="harmful_app_warning_title">Se ha detectado una aplicación dañina</string>
@@ -536,6 +511,7 @@ Si tienes alguna pregunta, ponte en contacto con el administrador de tu organiza
     <string name="hours">horas</string>
     <string name="httpError">Se ha producido un error de red.</string>
     <string name="httpErrorAuth">No se ha podido autenticar.</string>
+    <string name="httpErrorBadUrl">No se ha podido abrir la página porque la URL no es válida.</string>
     <string name="httpErrorConnect">No se ha podido establecer conexión con el servidor.</string>
     <string name="httpErrorFailedSslHandshake">No se ha podido establecer una conexión segura.</string>
     <string name="httpErrorFile">No se ha podido acceder al archivo.</string>
@@ -548,16 +524,8 @@ Si tienes alguna pregunta, ponte en contacto con el administrador de tu organiza
     <string name="httpErrorTimeout">Se ha agotado el tiempo de espera de conexión con el servidor.</string>
     <string name="httpErrorTooManyRequests">Se están procesando demasiadas solicitudes. Vuelve a intentarlo más tarde.</string>
     <string name="httpErrorUnsupportedAuthScheme">No se admite el esquema de autenticación del sitio.</string>
-    <string name="imProtocolAim">AIM</string>
+    <string name="httpErrorUnsupportedScheme">Protocolo no admitido</string>
     <string name="imProtocolCustom">Personalizado</string>
-    <string name="imProtocolGoogleTalk">Hangouts</string>
-    <string name="imProtocolIcq">ICQ</string>
-    <string name="imProtocolJabber">Jabber</string>
-    <string name="imProtocolMsn">Windows Live</string>
-    <string name="imProtocolNetMeeting">NetMeeting</string>
-    <string name="imProtocolQq">QQ</string>
-    <string name="imProtocolSkype">Skype</string>
-    <string name="imProtocolYahoo">Yahoo!</string>
     <string name="imTypeCustom">Personalizado</string>
     <string name="imTypeHome">Casa</string>
     <string name="imTypeOther">Otro</string>
@@ -569,7 +537,6 @@ Si tienes alguna pregunta, ponte en contacto con el administrador de tu organiza
     <string name="ime_action_previous">Anterior</string>
     <string name="ime_action_search">Buscar</string>
     <string name="ime_action_send">Enviar</string>
-    <string name="imei">IMEI</string>
     <string name="immersive_cling_description">Para salir, desliza el dedo de arriba abajo.</string>
     <string name="immersive_cling_positive">Entendido</string>
     <string name="immersive_cling_title">Modo de pantalla completa</string>
@@ -631,7 +598,7 @@ Si tienes alguna pregunta, ponte en contacto con el administrador de tu organiza
     <string name="keyguard_password_enter_pin_prompt">Nuevo código PIN</string>
     <string name="keyguard_password_enter_puk_code">Introduce el código PUK y un nuevo código PIN.</string>
     <string name="keyguard_password_enter_puk_prompt">Código PUK</string>
-    <string name="keyguard_password_entry_touch_hint"><font size="17">Toca para escribir contraseña</font></string>
+    <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Toca para escribir contraseña&lt;/font&gt;</string>
     <string name="keyguard_password_wrong_pin_code">Código PIN incorrecto</string>
     <string name="kg_enter_confirm_pin_hint">Confirma el código PIN</string>
     <string name="kg_failed_attempts_almost_at_login">"Has fallado %1$d veces al dibujar el patrón de desbloqueo. Si fallas otras %2$d veces, deberás usar una cuenta de correo electrónico para desbloquear el teléfono.
@@ -645,7 +612,7 @@ Si tienes alguna pregunta, ponte en contacto con el administrador de tu organiza
     <string name="kg_invalid_sim_pin_hint">Introduce un código PIN con una longitud comprendida entre cuatro y ocho dígitos.</string>
     <string name="kg_invalid_sim_puk_hint">El código PUK debe tener 8 números.</string>
     <string name="kg_login_account_recovery_hint">"Si has olvidado tu nombre de usuario o tu contraseña,
-accede a la página "<b>google.com/accounts/recovery</b>.</string>
+accede a la página "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
     <string name="kg_login_checking_password">Comprobando cuenta…</string>
     <string name="kg_login_instructions">Para desbloquear el teléfono, inicia sesión con tu cuenta de Google.</string>
     <string name="kg_login_invalid_input">El nombre de usuario o la contraseña no son válidos.</string>
@@ -674,7 +641,6 @@ Inténtalo de nuevo en %2$d segundos."</string>
     <string name="kg_wrong_password">Contraseña incorrecta</string>
     <string name="kg_wrong_pattern">El patrón es incorrecto</string>
     <string name="kg_wrong_pin">PIN incorrecto</string>
-    <string name="kilobyteShort">kB</string>
     <string name="language_picker_section_all">Todos los idiomas</string>
     <string name="language_picker_section_suggested">Sugeridos</string>
     <string name="language_selection_title">Añade un idioma</string>
@@ -684,7 +650,7 @@ Inténtalo de nuevo en %2$d segundos."</string>
     <string name="launch_warning_replace">%1$s se está ejecutando.</string>
     <string name="launch_warning_title">Aplicación redireccionada</string>
     <string name="leave_accessibility_shortcut_on">Utilizar acceso directo</string>
-    <string name="loading">Cargando...</string>
+    <string name="loading">Cargando…</string>
     <string name="locale_search_menu">Buscar</string>
     <string name="lock_to_app_description">"El anclaje de pantalla bloquea la pantalla en un solo vistazo.
 
@@ -712,8 +678,8 @@ Para desanclar, mantén pulsado el botón de Inicio y el botón de Encendido sim
     <string name="lockscreen_failed_attempts_now_wiping">Has intentado desbloquear el teléfono %d veces, pero no lo has conseguido. Se restablecerá el estado de fábrica del dispositivo.</string>
     <string name="lockscreen_forgot_pattern_button_text">¿Has olvidado el patrón?</string>
     <string name="lockscreen_glogin_account_recovery_hint">"Si has olvidado tu nombre de usuario o tu contraseña,
-accede a la página "<b>google.com/accounts/recovery</b>.</string>
-    <string name="lockscreen_glogin_checking_password">Comprobando...</string>
+accede a la página "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
+    <string name="lockscreen_glogin_checking_password">Comprobando…</string>
     <string name="lockscreen_glogin_forgot_pattern">Desbloqueo de cuenta</string>
     <string name="lockscreen_glogin_instructions">Para desbloquear el teléfono, inicia sesión con tu cuenta de Google.</string>
     <string name="lockscreen_glogin_invalid_input">Nombre de usuario o contraseña no válido</string>
@@ -740,7 +706,7 @@ Contacta con tu proveedor de servicio para conseguir otra."</string>
     <string name="lockscreen_sim_locked_message">Introduce el código PIN.</string>
     <string name="lockscreen_sim_puk_locked_instructions">Consulta la guía del usuario o ponte en contacto con el servicio de atención al cliente.</string>
     <string name="lockscreen_sim_puk_locked_message">La tarjeta SIM está bloqueada con el código PUK.</string>
-    <string name="lockscreen_sim_unlock_progress_dialog_message">Desbloqueando tarjeta SIM...</string>
+    <string name="lockscreen_sim_unlock_progress_dialog_message">Desbloqueando tarjeta SIM…</string>
     <string name="lockscreen_sound_off_label">Desactivar sonido</string>
     <string name="lockscreen_sound_on_label">Activar sonido</string>
     <string name="lockscreen_storage_locked">Desbloquear para todos los datos y funciones</string>
@@ -785,80 +751,7 @@ Inténtalo de nuevo dentro de %2$d segundos."</string>
     <string name="media_route_status_in_use">En uso</string>
     <string name="media_route_status_not_available">No disponible</string>
     <string name="media_route_status_scanning">Analizando...</string>
-    <string name="mediasize_chinese_om_dai_pa_kai">Dai Pa Ka</string>
-    <string name="mediasize_chinese_om_jurro_ku_kai">Jurro Ku Kai</string>
-    <string name="mediasize_chinese_om_pa_kai">Pa Kai</string>
-    <string name="mediasize_chinese_prc_1">PRC 1</string>
-    <string name="mediasize_chinese_prc_10">PRC 10</string>
-    <string name="mediasize_chinese_prc_16k">PRC 16K</string>
-    <string name="mediasize_chinese_prc_2">PRC 2</string>
-    <string name="mediasize_chinese_prc_3">PRC 3</string>
-    <string name="mediasize_chinese_prc_4">PRC 4</string>
-    <string name="mediasize_chinese_prc_5">PRC 5</string>
-    <string name="mediasize_chinese_prc_6">PRC 6</string>
-    <string name="mediasize_chinese_prc_7">PRC 7</string>
-    <string name="mediasize_chinese_prc_8">PRC 8</string>
-    <string name="mediasize_chinese_prc_9">PRC 9</string>
-    <string name="mediasize_chinese_roc_16k">ROC 16K</string>
-    <string name="mediasize_chinese_roc_8k">ROC 8K</string>
-    <string name="mediasize_iso_a0">ISO A0</string>
-    <string name="mediasize_iso_a1">ISO A1</string>
-    <string name="mediasize_iso_a10">ISO A10</string>
-    <string name="mediasize_iso_a2">ISO A2</string>
-    <string name="mediasize_iso_a3">ISO A3</string>
-    <string name="mediasize_iso_a4">ISO A4</string>
-    <string name="mediasize_iso_a5">ISO A5</string>
-    <string name="mediasize_iso_a6">ISO A6</string>
-    <string name="mediasize_iso_a7">ISO A7</string>
-    <string name="mediasize_iso_a8">ISO A8</string>
-    <string name="mediasize_iso_a9">ISO A9</string>
-    <string name="mediasize_iso_b0">ISO B0</string>
-    <string name="mediasize_iso_b1">ISO B1</string>
-    <string name="mediasize_iso_b10">ISO B10</string>
-    <string name="mediasize_iso_b2">ISO B2</string>
-    <string name="mediasize_iso_b3">ISO B3</string>
-    <string name="mediasize_iso_b4">ISO B4</string>
-    <string name="mediasize_iso_b5">ISO B5</string>
-    <string name="mediasize_iso_b6">ISO B6</string>
-    <string name="mediasize_iso_b7">ISO B7</string>
-    <string name="mediasize_iso_b8">ISO B8</string>
-    <string name="mediasize_iso_b9">ISO B9</string>
-    <string name="mediasize_iso_c0">ISO C0</string>
-    <string name="mediasize_iso_c1">ISO C1</string>
-    <string name="mediasize_iso_c10">ISO C10</string>
-    <string name="mediasize_iso_c2">ISO C2</string>
-    <string name="mediasize_iso_c3">ISO C3</string>
-    <string name="mediasize_iso_c4">ISO C4</string>
-    <string name="mediasize_iso_c5">ISO C5</string>
-    <string name="mediasize_iso_c6">ISO C6</string>
-    <string name="mediasize_iso_c7">ISO C7</string>
-    <string name="mediasize_iso_c8">ISO C8</string>
-    <string name="mediasize_iso_c9">ISO C9</string>
-    <string name="mediasize_japanese_chou2">Chou2</string>
-    <string name="mediasize_japanese_chou3">Chou3</string>
-    <string name="mediasize_japanese_chou4">Chou4</string>
-    <string name="mediasize_japanese_hagaki">Hagaki</string>
-    <string name="mediasize_japanese_jis_b0">JIS B0</string>
-    <string name="mediasize_japanese_jis_b1">JIS B1</string>
-    <string name="mediasize_japanese_jis_b10">JIS B10</string>
-    <string name="mediasize_japanese_jis_b2">JIS B2</string>
-    <string name="mediasize_japanese_jis_b3">JIS B3</string>
-    <string name="mediasize_japanese_jis_b4">JIS B4</string>
-    <string name="mediasize_japanese_jis_b5">JIS B5</string>
-    <string name="mediasize_japanese_jis_b6">JIS B6</string>
-    <string name="mediasize_japanese_jis_b7">JIS B7</string>
-    <string name="mediasize_japanese_jis_b8">JIS B8</string>
-    <string name="mediasize_japanese_jis_b9">JIS B9</string>
-    <string name="mediasize_japanese_jis_exec">JIS Exec</string>
-    <string name="mediasize_japanese_kahu">Kahu</string>
-    <string name="mediasize_japanese_kaku2">Kaku2</string>
-    <string name="mediasize_japanese_oufuku">Oufuku</string>
-    <string name="mediasize_japanese_you4">You4</string>
-    <string name="mediasize_na_foolscap">Foolscap</string>
     <string name="mediasize_na_gvrnmt_letter">Carta del gobierno</string>
-    <string name="mediasize_na_index_3x5">Index Card 3x5</string>
-    <string name="mediasize_na_index_4x6">Index Card 4x6</string>
-    <string name="mediasize_na_index_5x8">Index Card 5x8</string>
     <string name="mediasize_na_junior_legal">Junior legal</string>
     <string name="mediasize_na_ledger">Doble carta</string>
     <string name="mediasize_na_legal">Legal</string>
@@ -868,8 +761,6 @@ Inténtalo de nuevo dentro de %2$d segundos."</string>
     <string name="mediasize_na_tabloid">Tabloide</string>
     <string name="mediasize_unknown_landscape">Cualquier tamaño horizontal</string>
     <string name="mediasize_unknown_portrait">Cualquier tamaño vertical</string>
-    <string name="megabyteShort">MB</string>
-    <string name="meid">MEID</string>
     <string name="menu_alt_shortcut_label">Alt +</string>
     <string name="menu_ctrl_shortcut_label">Ctrl +</string>
     <string name="menu_delete_shortcut_label">eliminar</string>
@@ -916,10 +807,10 @@ Inténtalo de nuevo dentro de %2$d segundos."</string>
     <string name="mmiFdnError">La operación solo es válida para números de marcación fija.</string>
     <string name="month_day_year" formatted="false">%-e de %B de %Y</string>
     <string name="more_item_label">Más</string>
+    <string name="move_button_text">Toque el botón de marco para poder mover toda la ventana</string>
     <string name="muted_by">%1$s silencia algunos sonidos</string>
     <string name="needPuk">La tarjeta SIM está bloqueada con el código PUK. Introduce el código PUK para desbloquearla.</string>
     <string name="needPuk2">Introduce el código PUK2 para desbloquear la tarjeta SIM.</string>
-    <string name="negative_duration">−%1$s</string>
     <string name="network_available_sign_in">Iniciar sesión en la red</string>
     <string name="network_logging_notification_text">Tu organización administra este dispositivo y puede supervisar el tráfico de red. Toca la notificación para obtener más información.</string>
     <string name="network_logging_notification_title">El dispositivo está administrado</string>
@@ -934,6 +825,7 @@ Inténtalo de nuevo dentro de %2$d segundos."</string>
     <string name="new_sms_notification_content">Abre la aplicación de SMS para ver el mensaje</string>
     <string name="new_sms_notification_title">Tienes mensajes nuevos</string>
     <string name="next_button_label">Siguiente</string>
+    <string name="no">Cancelar</string>
     <string name="noApplications">Ninguna aplicación puede realizar esta acción.</string>
     <string name="no_file_chosen">Archivo no seleccionado</string>
     <string name="no_matches">No hay coincidencias.</string>
@@ -973,6 +865,7 @@ Inténtalo de nuevo dentro de %2$d segundos."</string>
     <string name="notification_channel_voice_mail">Mensajes de voz</string>
     <string name="notification_channel_vpn">Estado de la VPN</string>
     <string name="notification_channel_wfc">Llamada por Wi-Fi</string>
+    <string name="notification_description">Estado de la llamada de voz</string>
     <string name="notification_hidden_text">Notificación nueva</string>
     <string name="notification_listener_binding_label">Detector de notificaciones</string>
     <string name="notification_ranker_binding_label">Servicio de clasificación de notificaciones</string>
@@ -984,6 +877,7 @@ Inténtalo de nuevo dentro de %2$d segundos."</string>
     <string name="number_picker_increment_button">Aumentar</string>
     <string name="number_picker_increment_scroll_action">Desliza el dedo hacia arriba para aumentar y hacia abajo para disminuir.</string>
     <string name="number_picker_increment_scroll_mode">Mantén pulsado %s.</string>
+    <string name="ok">Aceptar</string>
     <string name="old_app_action">Volver a %1$s</string>
     <string name="older">Anterior</string>
     <string name="oneMonthDurationPast">Hace un mes</string>
@@ -998,9 +892,8 @@ Inténtalo de nuevo dentro de %2$d segundos."</string>
     <string name="package_installed_device_owner">Instalado por el administrador</string>
     <string name="package_updated_device_owner">Actualizado por el administrador</string>
     <string name="passwordIncorrect">Contraseña incorrecta</string>
-    <string name="password_keyboard_label_alpha_key">ABC</string>
-    <string name="password_keyboard_label_alt_key">ALT</string>
-    <string name="password_keyboard_label_symbol_key">\?123</string>
+    <string name="paste">Pegar</string>
+    <string name="paste_as_plain_text">Pegar como texto sin formato</string>
     <string name="peerTtyModeFull">Un dispositivo ha solicitado el modo TTY FULL</string>
     <string name="peerTtyModeHco">Un dispositivo ha solicitado el modo TTY HCO</string>
     <string name="peerTtyModeOff">Un dispositivo ha solicitado el modo TTY OFF</string>
@@ -1126,7 +1019,7 @@ Inténtalo de nuevo dentro de %2$d segundos."</string>
     <string name="permdesc_writeHistoryBookmarks">Permite que la aplicación modifique el historial o los marcadores del navegador almacenados en el teléfono. La aplicación puede utilizar este permiso para borrar o modificar datos del navegador. Nota: este permiso no pueden utilizarlo navegadores externos ni otras aplicaciones que tengan funciones de navegación por Internet.</string>
     <string name="permdesc_writeSettings">Permite que la aplicación modifique los datos de configuración del sistema. Las aplicaciones malintencionadas pueden dañar la configuración del sistema.</string>
     <string name="permdesc_writeSyncSettings">Permite que la aplicación modifique la configuración de sincronización de una cuenta. Este permiso se puede utilizar, por ejemplo, para habilitar la sincronización de la aplicación Contactos con una cuenta.</string>
-    <string name="permgroupbackgroundrequest_location">¿Quieres permitir que &lt;b>%1$s&lt;/b> acceda siempre &lt;b>a la ubicación de tu dispositivo&lt;/b>?</string>
+    <string name="permgroupbackgroundrequest_location">¿Quieres permitir que &lt;b&gt;%1$s&lt;/b&gt; acceda siempre &lt;b&gt;a la ubicación de tu dispositivo&lt;/b&gt;?</string>
     <string name="permgroupbackgroundrequestdetail_location">Actualmente la aplicación puede acceder a la ubicación solo cuando la estés usando</string>
     <string name="permgroupdesc_activityRecognition">acceder a tu actividad física</string>
     <string name="permgroupdesc_calendar">acceder a tu calendario</string>
@@ -1150,18 +1043,20 @@ Inténtalo de nuevo dentro de %2$d segundos."</string>
     <string name="permgrouplab_sensors">Sensores corporales</string>
     <string name="permgrouplab_sms">SMS</string>
     <string name="permgrouplab_storage">Almacenamiento</string>
-    <string name="permgrouprequest_activityRecognition">¿Quieres permitir que &lt;b>%1$s&lt;/b> acceda a tu actividad física?</string>
-    <string name="permgrouprequest_calendar">¿Quieres permitir que &lt;b>%1$s&lt;/b> acceda a tu calendario?</string>
-    <string name="permgrouprequest_calllog">¿Quieres permitir que &lt;b>%1$s&lt;/b> acceda a los registros de llamadas del teléfono?</string>
-    <string name="permgrouprequest_camera">¿Quieres permitir que &lt;b>%1$s&lt;/b> haga fotos y grabe vídeos?</string>
-    <string name="permgrouprequest_contacts">¿Quieres permitir que &lt;b>%1$s&lt;/b> acceda a tus contactos?</string>
-    <string name="permgrouprequest_location">¿Quieres permitir que &lt;b>%1$s&lt;/b> acceda a la ubicación de este dispositivo?</string>
-    <string name="permgrouprequest_microphone">¿Quieres permitir que &lt;b>%1$s&lt;/b> grabe audio?</string>
-    <string name="permgrouprequest_phone">¿Quieres permitir que &lt;b>%1$s&lt;/b> haga y gestione llamadas?</string>
-    <string name="permgrouprequest_sensors">¿Quieres permitir que &lt;b>%1$s&lt;/b> acceda a los datos del sensor sobre tus constantes vitales?</string>
-    <string name="permgrouprequest_sms">¿Quieres permitir que &lt;b>%1$s&lt;/b> envíe y lea mensajes SMS?</string>
-    <string name="permgrouprequest_storage">¿Quieres permitir que &lt;b>%1$s&lt;/b> acceda a las fotos, al contenido multimedia y a los archivos de tu dispositivo?</string>
+    <string name="permgrouprequest_activityRecognition">¿Quieres permitir que &lt;b&gt;%1$s&lt;/b&gt; acceda a tu actividad física?</string>
+    <string name="permgrouprequest_calendar">¿Quieres permitir que &lt;b&gt;%1$s&lt;/b&gt; acceda a tu calendario?</string>
+    <string name="permgrouprequest_calllog">¿Quieres permitir que &lt;b&gt;%1$s&lt;/b&gt; acceda a los registros de llamadas del teléfono?</string>
+    <string name="permgrouprequest_camera">¿Quieres permitir que &lt;b&gt;%1$s&lt;/b&gt; haga fotos y grabe vídeos?</string>
+    <string name="permgrouprequest_contacts">¿Quieres permitir que &lt;b&gt;%1$s&lt;/b&gt; acceda a tus contactos?</string>
+    <string name="permgrouprequest_location">¿Quieres permitir que &lt;b&gt;%1$s&lt;/b&gt; acceda a la ubicación de este dispositivo?</string>
+    <string name="permgrouprequest_microphone">¿Quieres permitir que &lt;b&gt;%1$s&lt;/b&gt; grabe audio?</string>
+    <string name="permgrouprequest_phone">¿Quieres permitir que &lt;b&gt;%1$s&lt;/b&gt; haga y gestione llamadas?</string>
+    <string name="permgrouprequest_sensors">¿Quieres permitir que &lt;b&gt;%1$s&lt;/b&gt; acceda a los datos del sensor sobre tus constantes vitales?</string>
+    <string name="permgrouprequest_sms">¿Quieres permitir que &lt;b&gt;%1$s&lt;/b&gt; envíe y lea mensajes SMS?</string>
+    <string name="permgrouprequest_storage">¿Quieres permitir que &lt;b&gt;%1$s&lt;/b&gt; acceda a las fotos, al contenido multimedia y a los archivos de tu dispositivo?</string>
     <string name="permgrouprequestdetail_location">La aplicación solo podrá acceder a la ubicación cuando la estés usando</string>
+    <string name="permission">Permiso</string>
+    <string name="permission_remember_choice">Recuerda</string>
     <string name="permission_request_notification_title">Permiso solicitado</string>
     <string name="permission_request_notification_with_subtitle">"Permiso solicitado
 para la cuenta %s"</string>
@@ -1286,8 +1181,7 @@ para la cuenta %s"</string>
     <string name="permlab_writeSettings">modificar los ajustes del sistema</string>
     <string name="permlab_writeSyncSettings">activar y desactivar la sincronización</string>
     <string name="perms_description_app">Proporcionado por %1$s</string>
-    <string name="perms_new_perm_prefix"><font fgcolor="#ff33b5e5" size="12">NUEVO:</font></string>
-    <string name="petabyteShort">PB</string>
+    <string name="perms_new_perm_prefix">&lt;font fgcolor="#ff33b5e5" size="12"&gt;NUEVO:&lt;/font&gt;</string>
     <string name="phoneTypeAssistant">Asistente</string>
     <string name="phoneTypeCallback">Devolución de llamada</string>
     <string name="phoneTypeCar">Coche</string>
@@ -1296,7 +1190,6 @@ para la cuenta %s"</string>
     <string name="phoneTypeFaxHome">Fax de casa</string>
     <string name="phoneTypeFaxWork">Fax del trabajo</string>
     <string name="phoneTypeHome">Casa</string>
-    <string name="phoneTypeIsdn">RDSI</string>
     <string name="phoneTypeMain">Principal</string>
     <string name="phoneTypeMms">MMS</string>
     <string name="phoneTypeMobile">Móvil</string>
@@ -1339,7 +1232,6 @@ para la cuenta %s"</string>
     <string name="postalTypeWork">Trabajo</string>
     <string name="power_dialog">Opciones del teléfono</string>
     <string name="power_off">Apagar</string>
-    <string name="prepend_shortcut_label">MENU+</string>
     <string name="preposition_for_date">el %s</string>
     <string name="preposition_for_time">a las %s</string>
     <string name="preposition_for_year">en %s</string>
@@ -1378,9 +1270,7 @@ para la cuenta %s"</string>
     <string name="relationTypeReferredBy">Recomendado por</string>
     <string name="relationTypeRelative">Pariente</string>
     <string name="relationTypeSister">Hermana</string>
-    <string name="relationTypeSpouse">Cónyuge</string>
-    <string name="relative_time">%1$s, %2$s</string>
-    <string name="replace">Sustituir...</string>
+    <string name="replace">Sustituir…</string>
     <string name="report">Informar</string>
     <string name="reset">Restablecer</string>
     <string name="restr_pin_confirm_pin">Confirma tu nuevo PIN</string>
@@ -1424,12 +1314,13 @@ Escuchar sonidos fuertes durante mucho tiempo puede dañar los oídos."</string>
     <string name="save_password_never">Nunca</string>
     <string name="save_password_notnow">Ahora no</string>
     <string name="save_password_remember">Recordar</string>
-    <string name="screen_compat_mode_hint">Para volver a habilitar esta opción, accede a Ajustes > Aplicaciones > Descargadas.</string>
+    <string name="screen_compat_mode_hint">Para volver a habilitar esta opción, accede a Ajustes &gt; Aplicaciones &gt; Descargadas.</string>
     <string name="screen_compat_mode_scale">Escala</string>
     <string name="screen_compat_mode_show">Mostrar siempre</string>
     <string name="screen_lock">Bloqueo de pantalla</string>
     <string name="screenshot_edit">Editar</string>
-    <string name="search_hint">Buscar...</string>
+    <string name="search_go">Buscar</string>
+    <string name="search_hint">Buscar…</string>
     <string name="search_language_hint">Nombre de idioma</string>
     <string name="searchview_description_clear">Borrar consulta</string>
     <string name="searchview_description_query">Consulta</string>
@@ -1438,6 +1329,8 @@ Escuchar sonidos fuertes durante mucho tiempo puede dañar los oídos."</string>
     <string name="searchview_description_voice">Búsqueda por voz</string>
     <string name="second">segundos</string>
     <string name="seconds">segundos</string>
+    <string name="selectAll">Seleccionar todo</string>
+    <string name="selectTextMode">Seleccionar texto</string>
     <string name="select_character">Insertar carácter</string>
     <string name="select_day">Seleccionar mes y día</string>
     <string name="select_hours">Seleccionar horas</string>
@@ -1447,13 +1340,11 @@ Escuchar sonidos fuertes durante mucho tiempo puede dañar los oídos."</string>
     <string name="select_minutes">Seleccionar minutos</string>
     <string name="select_year">Seleccionar año</string>
     <string name="sendText">Selecciona una acción para el texto</string>
-    <string name="sending">Enviando...</string>
+    <string name="sending">Enviando…</string>
     <string name="serial_number">Número de serie:</string>
     <string name="serviceClassData">Datos</string>
     <string name="serviceClassDataAsync">Asíncronos</string>
     <string name="serviceClassDataSync">Sincronización</string>
-    <string name="serviceClassFAX">FAX</string>
-    <string name="serviceClassPAD">PAD</string>
     <string name="serviceClassPacket">Paquete</string>
     <string name="serviceClassSMS">SMS</string>
     <string name="serviceClassVoice">Voz</string>
@@ -1482,7 +1373,7 @@ Escuchar sonidos fuertes durante mucho tiempo puede dañar los oídos."</string>
     <string name="show_ime">Mantener en la pantalla mientras el teclado físico está activo</string>
     <string name="shutdown_confirm">El teléfono se apagará.</string>
     <string name="shutdown_confirm_question">¿Seguro que quieres apagar el teléfono?</string>
-    <string name="shutdown_progress">Apagando...</string>
+    <string name="shutdown_progress">Apagando…</string>
     <string name="silent_mode">Modo silencio</string>
     <string name="silent_mode_ring">Timbre activado</string>
     <string name="silent_mode_silent">Timbre desactivado</string>
@@ -1501,20 +1392,20 @@ Escuchar sonidos fuertes durante mucho tiempo puede dañar los oídos."</string>
     <string name="slice_more_content">%1$d más</string>
     <string name="slices_permission_request">%1$s quiere mostrar fragmentos de %2$s</string>
     <string name="sms">Enviar SMS</string>
-    <string name="sms_control_message">&lt;b>%1$s&lt;/b> está enviando un gran número de mensajes SMS. ¿Quieres permitir que está aplicación siga enviando mensajes?</string>
+    <string name="sms_control_message">&lt;b&gt;%1$s&lt;/b&gt; está enviando un gran número de mensajes SMS. ¿Quieres permitir que está aplicación siga enviando mensajes?</string>
     <string name="sms_control_no">Denegar</string>
-    <string name="sms_control_title">Enviando mensajes SMS...</string>
+    <string name="sms_control_title">Enviando mensajes SMS…</string>
     <string name="sms_control_yes">Permitir</string>
     <string name="sms_desc">Enviar SMS al teléfono seleccionado</string>
-    <string name="sms_premium_short_code_details"><b>Se aplicarán cargos en tu cuenta móvil.</b></string>
+    <string name="sms_premium_short_code_details">&lt;b&gt;Se aplicarán cargos en tu cuenta móvil.&lt;/b&gt;</string>
     <string name="sms_short_code_confirm_allow">Enviar</string>
     <string name="sms_short_code_confirm_always_allow">Permitir siempre</string>
     <string name="sms_short_code_confirm_deny">Cancelar</string>
-    <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> quiere enviar un mensaje a &lt;b>%2$s&lt;/b>.</string>
+    <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; quiere enviar un mensaje a &lt;b&gt;%2$s&lt;/b&gt;.</string>
     <string name="sms_short_code_confirm_never_allow">No permitir nunca</string>
-    <string name="sms_short_code_details"><b>Es posible que se apliquen cargos</b> en tu cuenta móvil.</string>
+    <string name="sms_short_code_details">&lt;b&gt;Es posible que se apliquen cargos&lt;/b&gt; en tu cuenta móvil.</string>
     <string name="sms_short_code_remember_choice">Recordar opción seleccionada</string>
-    <string name="sms_short_code_remember_undo_instruction">Puedes cambiar esta opción más tarde en Ajustes > Aplicaciones.</string>
+    <string name="sms_short_code_remember_undo_instruction">Puedes cambiar esta opción más tarde en Ajustes &gt; Aplicaciones.</string>
     <string name="smv_application">La aplicación %1$s (proceso %2$s) ha infringido su política StrictMode autoaplicable.</string>
     <string name="smv_process">El proceso %1$s ha infringido su política StrictMode autoaplicable.</string>
     <string name="ssl_ca_cert_noti_by_administrator">Por el administrador de tu perfil de trabajo</string>
@@ -1522,6 +1413,8 @@ Escuchar sonidos fuertes durante mucho tiempo puede dañar los oídos."</string>
     <string name="ssl_ca_cert_noti_managed">Por %s</string>
     <string name="ssl_certificate">Certificado de seguridad</string>
     <string name="ssl_certificate_is_valid">Este certificado es válido.</string>
+    <string name="status_communication_speaker_summary">Una llamada manos libres está en progreso. El audio se reproducirá a través del altavoz cuando los auriculares estén conectados.</string>
+    <string name="status_communication_summary">Una llamada está en progreso. Solo puede ajustar el volumen de la llamada ahora.</string>
     <string name="stk_cc_ss_to_dial">Se ha cambiado la solicitud de SS a una llamada normal</string>
     <string name="stk_cc_ss_to_dial_video">Se ha cambiado la solicitud de SS a una videollamada</string>
     <string name="stk_cc_ss_to_ss">Se ha cambiado a una nueva solicitud de SS</string>
@@ -1547,7 +1440,6 @@ Escuchar sonidos fuertes durante mucho tiempo puede dañar los oídos."</string>
     <string name="system_error_manufacturer">Se ha producido un problema interno en el dispositivo. Ponte en contacto con el fabricante para obtener más información.</string>
     <string name="system_error_wipe_data">Se ha producido un problema interno en el dispositivo y es posible que este no sea estable hasta que restablezcas el estado de fábrica.</string>
     <string name="taking_remote_bugreport_notification_title">Creando informe de errores…</string>
-    <string name="terabyteShort">TB</string>
     <string name="test_harness_mode_notification_message">Restablece los ajustes de fábrica para inhabilitar el modo de agente de prueba.</string>
     <string name="test_harness_mode_notification_title">Modo de agente de prueba habilitado</string>
     <string name="tethered_notification_message">Pulsa para configurar.</string>
@@ -1557,7 +1449,6 @@ Escuchar sonidos fuertes durante mucho tiempo puede dañar los oídos."</string>
     <string name="tethered_notification_title">Anclaje de red o punto de acceso activo</string>
     <string name="textSelectionCABTitle">Selección de texto</string>
     <string name="text_copied">Texto copiado al portapapeles.</string>
-    <string name="time_of_day" formatted="false">%H:%M:%S</string>
     <string name="time_picker_decrement_hour_button">Reducir horas</string>
     <string name="time_picker_decrement_minute_button">Reducir minutos</string>
     <string name="time_picker_decrement_set_am_button">Establecer a.m.</string>
@@ -1569,6 +1460,7 @@ Escuchar sonidos fuertes durante mucho tiempo puede dañar los oídos."</string>
     <string name="time_picker_increment_set_pm_button">Establecer p.m.</string>
     <string name="time_picker_input_error">Introduce una hora válida</string>
     <string name="time_picker_minute_label">minuto</string>
+    <string name="time_picker_mode">reloj</string>
     <string name="time_picker_prompt_label">Introduce la hora</string>
     <string name="time_picker_radial_mode_description">Cambia al modo de reloj para escribir la hora.</string>
     <string name="time_picker_text_input_mode_description">Cambia al modo de introducción de texto para escribir la hora.</string>
@@ -1580,13 +1472,16 @@ Escuchar sonidos fuertes durante mucho tiempo puede dañar los oídos."</string>
     <string name="turn_on_radio">Activar conexión inalámbrica</string>
     <string name="tutorial_double_tap_to_zoom_message_short">Da dos toques para acceder al control de zoom.</string>
     <string name="undo">Deshacer</string>
+    <string name="unknownName">Desconocido</string>
     <string name="unsupported_compile_sdk_check_update">Comprobar actualizaciones</string>
     <string name="unsupported_compile_sdk_message">%1$s se diseñó para una versión incompatible de Android OS y puede que funcione de forma inesperada. Es posible que haya una versión actualizada de la aplicación.</string>
     <string name="unsupported_compile_sdk_show">Mostrar siempre</string>
     <string name="unsupported_display_size_message">%1$s no admite el tamaño de pantalla actual y es posible que funcione de forma inesperada.</string>
     <string name="unsupported_display_size_show">Mostrar siempre</string>
+    <string name="untitled">&lt;Sin título&gt;</string>
     <string name="upload_file">Seleccionar archivo</string>
     <string name="usb_accessory_notification_title">Accesorio USB conectado</string>
+    <string name="usb_cd_installer_notification_title">Conectado como instalador</string>
     <string name="usb_charging_notification_title">Cargando dispositivo por USB</string>
     <string name="usb_contaminant_detected_message">El puerto USB se ha inhabilitado automáticamente. Toca para obtener más información.</string>
     <string name="usb_contaminant_detected_title">Se ha detectado líquido o suciedad en el puerto USB</string>
@@ -1602,6 +1497,19 @@ Escuchar sonidos fuertes durante mucho tiempo puede dañar los oídos."</string>
     <string name="usb_notification_message">Toca para ver más opciones.</string>
     <string name="usb_power_notification_message">Cargando el dispositivo conectado. Toca para ver más opciones.</string>
     <string name="usb_ptp_notification_title">PTP vía USB activado</string>
+    <string name="usb_storage_activity_title">Almacenamiento masivo USB</string>
+    <string name="usb_storage_button_mount">Activa el almacenamiento del USB</string>
+    <string name="usb_storage_error_message">"Hay un problema al usar su almacenamiento USB para el almacenamiento masivo USB."</string>
+    <string name="usb_storage_message">"Se ha conectado a su computadora a través de USB. Toque el botón a continuación si desea copiar archivos entre su computadora y el almacenamiento USB de su Android."</string>
+    <string name="usb_storage_notification_message">Toque para copiar archivos desde/a su computadora.</string>
+    <string name="usb_storage_notification_title">USB conectado</string>
+    <string name="usb_storage_stop_button_mount">Desactiva el almacenamiento USB</string>
+    <string name="usb_storage_stop_error_message">"Hubo un problema al desactivar el almacenamiento USB. Verifique que haya desmontado el host USB y vuelva a intentarlo."</string>
+    <string name="usb_storage_stop_message">"Antes de desactivar el almacenamiento USB, desmonte (\"expulsar\") el almacenamiento USB de su Android desde su computadora."</string>
+    <string name="usb_storage_stop_notification_message">Toque para apagar el almacenamiento USB.</string>
+    <string name="usb_storage_stop_notification_title">Desactiva el almacenamiento USB</string>
+    <string name="usb_storage_stop_title">Almacenamiento USB en uso</string>
+    <string name="usb_storage_title">USB conectado</string>
     <string name="usb_supplying_notification_title">Cargando dispositivo conectado por USB</string>
     <string name="usb_tether_notification_title">Anclaje USB activado</string>
     <string name="usb_unsupported_audio_accessory_message">El dispositivo conectado no es compatible con este teléfono. Pulsa para aprender más.</string>
@@ -1717,7 +1625,6 @@ Escuchar sonidos fuertes durante mucho tiempo puede dañar los oídos."</string>
     <string name="wifi_p2p_from_message">De:</string>
     <string name="wifi_p2p_invitation_sent_title">Invitación enviada</string>
     <string name="wifi_p2p_invitation_to_connect_title">Invitación para conectarse</string>
-    <string name="wifi_p2p_show_pin_message">PIN:</string>
     <string name="wifi_p2p_to_message">Para:</string>
     <string name="wifi_p2p_turnon_message">Iniciar Wi-Fi Direct. Se desactivará el funcionamiento del punto de acceso o cliente Wi-Fi.</string>
     <string name="wifi_softap_config_change">Cambios en los ajustes de tu punto de acceso</string>
@@ -1746,6 +1653,7 @@ Escuchar sonidos fuertes durante mucho tiempo puede dañar los oídos."</string>
     <string name="write_fail_reason_cannot_write">Error al escribir contenido</string>
     <string name="year">año</string>
     <string name="years">años</string>
+    <string name="yes">Aceptar</string>
     <string name="zen_mode_alarm">Hasta las %1$s (próxima alarma)</string>
     <string name="zen_mode_default_events_name">Evento</string>
     <string name="zen_mode_default_every_night_name">Durmiendo</string>
@@ -1760,34 +1668,4 @@ Escuchar sonidos fuertes durante mucho tiempo puede dañar los oídos."</string>
     <string name="zen_upgrade_notification_title">Ha cambiado el modo No molestar</string>
     <string name="zen_upgrade_notification_visd_content">Toca para obtener más información y hacer cambios.</string>
     <string name="zen_upgrade_notification_visd_title">Novedad: El modo No molestar oculta las notificaciones</string>
-    <string name="autofill_address_type_same_as_re">igual que</string>
-    <string name="autofill_address_type_use_my_re">usar mi</string>
-    <string name="autofill_billing_designator_re">cuenta</string>
-    <string name="autofill_name_on_card_contextual_re">nombre</string>
-    <string name="autofill_shipping_designator_re">enviar</string>
-    <string name="handset_text_unsupported_handset_insert">Toque para ver detalles</string>
-    <string name="handset_text_usb_handset_insert">Toque para abrir configuraciones adicionales</string>
-    <string name="handset_title_unsupported_handset_insert">"No se puede reproducir audio a través del adaptador"</string>
-    <string name="handset_title_usb_handset_insert">Reproducción de audio a través de USB</string>
-    <string name="move_button_text">Toque el botón de marco para poder mover toda la ventana</string>
-    <string name="notification_description">Estado de la llamada de voz</string>
-    <string name="permission">Permiso</string>
-    <string name="permission_remember_choice">Recuerda</string>
-    <string name="status_communication_speaker_summary">Una llamada manos libres está en progreso. El audio se reproducirá a través del altavoz cuando los auriculares estén conectados.</string>
-    <string name="status_communication_summary">Una llamada está en progreso. Solo puede ajustar el volumen de la llamada ahora.</string>
-    <string name="time_picker_mode">reloj</string>
-    <string name="usb_cd_installer_notification_title">Conectado como instalador</string>
-    <string name="usb_storage_activity_title">Almacenamiento masivo USB</string>
-    <string name="usb_storage_button_mount">Activa el almacenamiento del USB</string>
-    <string name="usb_storage_error_message">"Hay un problema al usar su almacenamiento USB para el almacenamiento masivo USB."</string>
-    <string name="usb_storage_message">"Se ha conectado a su computadora a través de USB. Toque el botón a continuación si desea copiar archivos entre su computadora y el almacenamiento USB de su Android."</string>
-    <string name="usb_storage_notification_message">Toque para copiar archivos desde/a su computadora.</string>
-    <string name="usb_storage_notification_title">USB conectado</string>
-    <string name="usb_storage_stop_button_mount">Desactiva el almacenamiento USB</string>
-    <string name="usb_storage_stop_error_message">"Hubo un problema al desactivar el almacenamiento USB. Verifique que haya desmontado el host USB y vuelva a intentarlo."</string>
-    <string name="usb_storage_stop_message">"Antes de desactivar el almacenamiento USB, desmonte (\"expulsar\") el almacenamiento USB de su Android desde su computadora."</string>
-    <string name="usb_storage_stop_notification_message">Toque para apagar el almacenamiento USB.</string>
-    <string name="usb_storage_stop_notification_title">Desactiva el almacenamiento USB</string>
-    <string name="usb_storage_stop_title">Almacenamiento USB en uso</string>
-    <string name="usb_storage_title">USB conectado</string>
 </resources>
