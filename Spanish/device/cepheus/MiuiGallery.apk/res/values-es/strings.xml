@@ -238,7 +238,6 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="base_btn_download">Descargar</string>
     <string name="begin_share">Álbum del bebé \"%s\" creado, ahora puede compartirlo</string>
     <string name="begin_share_toast">¿Crear un álbum independiente para este niño antes de compartir?</string>
-    <string name="blank_app_name" />
     <string name="browse_category_title">Explorar</string>
     <string name="btn_cancel">Cancelar</string>
     <string name="btn_sure">ACEPTAR</string>
@@ -252,7 +251,6 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="by_email">Correo electrónico</string>
     <string name="by_others">Otros</string>
     <string name="by_sms">SMS</string>
-    <string name="byteShort">B</string>
     <string name="camera_needs_auto_backup_tip">El álbum de la cámara debe ser sincronizado</string>
     <string name="can_authorize_owner_albums_share_to_tv">Autoriza la visualización de álbumes en tu televisor</string>
     <string name="can_not_transfer_when_screening">No se puede emitir durante las transferencias</string>
@@ -366,11 +364,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="collage_title_poster">Poster</string>
     <string name="collage_title_stitching">Rollo de película</string>
     <string name="collaps_people">Ocultar</string>
-    <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Qzone</string>
-    <string name="com.sina.weibo_com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
-    <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">Momentos de WeChat</string>
-    <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
     <string name="confirm">ACEPTAR</string>
     <string name="confirm_cancel_task_files">¿Cancelar el envío de archivos a %1$s?</string>
     <string name="confirm_cancel_task_images">¿Cancelar el envío de imágenes a %1$s?</string>
@@ -380,13 +374,13 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="confirm_hidden_recommend_group">ACEPTAR</string>
     <string name="confirm_hidden_recommend_group_message">Cuando las recomendaciones estén desactivadas, puede utilizar la opción \"Más personas que se parecen\"</string>
     <string name="confirm_hidden_recommend_group_title">No mostrar recomendaciones</string>
-    <string name="confirm_merge_face_albums">&lt;Data> ¿Combinar este álbum con %s? &lt;/Data></string>
-    <string name="confirm_merge_many_face_albums">&lt;Data> ¿Combinar estos álbumes con %s? &lt;/Data></string>
+    <string name="confirm_merge_face_albums">&lt;Data&gt; ¿Combinar este álbum con %s? &lt;/Data&gt;</string>
+    <string name="confirm_merge_many_face_albums">&lt;Data&gt; ¿Combinar estos álbumes con %s? &lt;/Data&gt;</string>
     <string name="confirm_not_face">Sin resultados</string>
-    <string name="confirm_recommandation_face_is">&lt;Data> ¿Estás seguro de que es &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Esta persona se moverá al álbum \"%2$s\". &lt;/Data></string>
-    <string name="confirm_recommandation_face_not">&lt;Data> ¿Estás seguro de que no es &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data></string>
-    <string name="confirm_recommandation_multiple_faces_are">&lt;Data> ¿Estás seguro de que estas personas son &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Estas personas se moverán al álbum \"%2$s\". &lt;/Data></string>
-    <string name="confirm_recommandation_multiple_faces_not">&lt;Data> ¿Estás seguro de que no son &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data></string>
+    <string name="confirm_recommandation_face_is">&lt;Data&gt; ¿Estás seguro de que es &lt;font color=#323232&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;? Esta persona se moverá al álbum \"%2$s\". &lt;/Data&gt;</string>
+    <string name="confirm_recommandation_face_not">&lt;Data&gt; ¿Estás seguro de que no es &lt;font color=#323232&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;? &lt;/Data&gt;</string>
+    <string name="confirm_recommandation_multiple_faces_are">&lt;Data&gt; ¿Estás seguro de que estas personas son &lt;font color=#323232&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;? Estas personas se moverán al álbum \"%2$s\". &lt;/Data&gt;</string>
+    <string name="confirm_recommandation_multiple_faces_not">&lt;Data&gt; ¿Estás seguro de que no son &lt;font color=#323232&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;? &lt;/Data&gt;</string>
     <string name="contact_tip">Contacto</string>
     <string name="context_menu_add_contact">Añadir a contactos</string>
     <string name="context_menu_copy">Copiar</string>
@@ -436,7 +430,6 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="delete_third_party_video">¿Eliminar este vídeo?</string>
     <string name="deny">Rechazar</string>
     <string name="detail_title">Información detallada</string>
-    <string name="device_name_with_ellipsize">%1$s…</string>
     <string name="device_offline">El otro dispositivo está fuera de servicio. Comienza de nuevo.</string>
     <string name="device_type_pc">Ordenador</string>
     <string name="disable_auto_upload_tip">¿Desactivar la sincronización con la nube para este álbum?</string>
@@ -464,7 +457,6 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="download_type_title">Calidad de descarga</string>
     <string name="download_with_metered_network_msg">Descargar ficheros originales podría generar cargos adicionales de tu operador. ¿Descargar de todas formas?</string>
     <string name="download_with_metered_network_title">Estás conectado a una red de pago</string>
-    <string name="downloading_desc">%1$d/%2$d</string>
     <string name="downloading_dialog_message">Puedes seleccionar la calidad de las imágenes descargadas o desactivar las descargas automáticas en Ajustes.</string>
     <string name="downloading_title">Descargando fotos desde Xiaomi Cloud</string>
     <string name="edit_baby_info">Ver información del bebé</string>
@@ -498,7 +490,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="error_build_thumbnail_msg">No se han podido descargar las miniaturas. Prueba a descargar el archivo original.</string>
     <string name="error_build_thumbnail_tip">No se han podido descargar las miniaturas.</string>
     <string name="error_change_storage_action">Cambiar almacenamiento</string>
-    <string name="error_change_storage_msg">Ir a Ajustes > Almacenamiento, cambiar almacenamiento, y reintentar.</string>
+    <string name="error_change_storage_msg">Ir a Ajustes &gt; Almacenamiento, cambiar almacenamiento, y reintentar.</string>
     <string name="error_cloud_not_active">No hay fotos en Xiaomi Cloud</string>
     <string name="error_connect_timeout_action">Seleccionar red</string>
     <string name="error_connect_timeout_msg">Conéctate a diferentes redes e inténtalo de nuevo.</string>
@@ -506,7 +498,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="error_decode_tip">El formato no es compatible o el archivo está dañado.</string>
     <string name="error_download_tip">No se pudo descargar</string>
     <string name="error_external_sdcard_write_action">Cambiar almacenamiento</string>
-    <string name="error_external_sdcard_write_msg">Ir a Ajustes > Almacenamiento, cambiar almacenamiento, y reintentar.</string>
+    <string name="error_external_sdcard_write_msg">Ir a Ajustes &gt; Almacenamiento, cambiar almacenamiento, y reintentar.</string>
     <string name="error_external_sdcard_write_tip">No se pueden guardar los elementos en la tarjeta SD.</string>
     <string name="error_forbidden">La sincronización se ha deshabilitado debido a problemas con Cuenta Mi.</string>
     <string name="error_install_connect_fail">No se pudo cargar complemento. Comprueba tu conexión de red.</string>
@@ -563,7 +555,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="exit_video_play">Salir</string>
     <string name="expand_desc">Más</string>
     <string name="expand_people">Mostrar más personas</string>
-    <string name="ext_sdcard_first_entrance_request_failed_text">La Galería guardará los elementos en el almacenamiento interno. Puedes cambiar esto en Ajustes > Almacenamiento > Ajustes del almacenamiento.</string>
+    <string name="ext_sdcard_first_entrance_request_failed_text">La Galería guardará los elementos en el almacenamiento interno. Puedes cambiar esto en Ajustes &gt; Almacenamiento &gt; Ajustes del almacenamiento.</string>
     <string name="ext_sdcard_first_entrance_request_failed_title">No se pudo dar permisos.</string>
     <string name="ext_sdcard_guide_first_page_button_text">Siguiente</string>
     <string name="ext_sdcard_guide_last_page_button_text">Conceder permisos</string>
@@ -573,7 +565,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="ext_sdcard_permission_request_button_text">Entendido</string>
     <string name="ext_sdcard_permission_request_reason">La Galería necesita permiso para acceder a la tarjeta SD. Esto te permitirá eliminar y editar fotos y videos almacenados en la tarjeta SD.</string>
     <string name="ext_sdcard_permission_request_title">Permitir a la galería acceder a la tarjeta SD</string>
-    <string name="ext_sdcard_request_failed_button_text">OK </string>
+    <string name="ext_sdcard_request_failed_button_text">ACEPTAR </string>
     <string name="ext_sdcard_request_succeed_toast_text">¡Ya estás listo para disfrutar!</string>
     <string name="face_album_empty">"Fotos insuficientes para reconocer a la gente.
 ¡Haz más fotos de tus amigos!"</string>
@@ -592,7 +584,6 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="face_name_edit">Editar</string>
     <string name="face_name_input">Introducir nombre</string>
     <string name="face_recommend">Recomendaciones</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">No se pudo completar la operación</string>
     <string name="fail_to_pick_email">Dirección de correo electrónico no válida</string>
     <string name="fail_to_sync_album">No se pudo sincronizar el álbum. Comprueba tu conexión de datos e inténtalo de nuevo.</string>
@@ -603,7 +594,6 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="feature_guidance_photo_effects">"Nuevos efectos de foto
 disponibles"</string>
     <string name="feature_guidance_video_editor_smart_effects">Nuevos efectos disponibles</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">No se puede imprimir este elemento.</string>
     <string name="file_cannot_screen_throw">No se puede emitir este elemento.</string>
     <string name="file_sending">Transfiriendo archivos…</string>
@@ -703,10 +693,7 @@ disponibles"</string>
     <string name="generate_story_summary">MIUI analizará tus fotos y creará recuerdos. Desactiva esta función para detener la creación de recuerdos.</string>
     <string name="generate_story_title">Recuerdos</string>
     <string name="get_album_info_in_process">Solicitando detalles del álbum compartido…</string>
-    <string name="gif_tip">GIF</string>
-    <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Establecer</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"La Galería necesita acceso a 
 %s
  para funcionar normalmente, pulsa \"Ajustes\" para ir a Permisos."</string>
@@ -769,9 +756,8 @@ disponibles"</string>
     <string name="kick_sharer">Retirar acceso compartido</string>
     <string name="kick_sharer_failed">No se pudo eliminar a esta persona</string>
     <string name="kick_sharer_successfully">Esta persona se ha eliminado</string>
-    <string name="kilobyteShort">KB</string>
-    <string name="limit_height">La altura debe ser > 0</string>
-    <string name="limit_width">El ancho debe ser > 0</string>
+    <string name="limit_height">La altura debe ser &gt; 0</string>
+    <string name="limit_width">El ancho debe ser &gt; 0</string>
     <string name="load_complete">No hay más elementos aquí</string>
     <string name="load_failed">No se pudo cargar la información, toca para intentarlo de nuevo</string>
     <string name="load_relations">Un momento…</string>
@@ -811,7 +797,6 @@ para personalizar la Galería"</string>
     <string name="mark_operation_processing">Procesando…</string>
     <string name="mark_operation_succeeded">Añadido correctamente</string>
     <string name="mark_people_ignore_info_message">Mantén presionadas las fotos de personas para agregarlas a grupos</string>
-    <string name="megabyteShort">MB</string>
     <string name="member_menu_vipname_free">Gratuito</string>
     <string name="member_menu_vipname_mega">Mega</string>
     <string name="member_menu_vipname_premium">Premium</string>
@@ -824,10 +809,6 @@ para personalizar la Galería"</string>
     <string name="merge_album">Combinar</string>
     <string name="merge_album_title">Combinar con una persona</string>
     <string name="messagelist_sender_self">Yo</string>
-    <string name="mi_9t">Mi 9T</string>
-    <string name="mi_9t_pro">Mi 9T Pro</string>
-    <string name="mi_a3">Mi A3</string>
-    <string name="mi_drop">Mi Share</string>
     <string name="micloud_introduce">Sincronizar fotos y vídeos automáticamente (se requiere Cuenta Mi)</string>
     <string name="month_view_tip_button_text">Entendido</string>
     <string name="month_view_tip_sub_title">Toca la pantalla para cambiar a la visualización mensual</string>
@@ -898,10 +879,7 @@ para personalizar la Galería"</string>
     <string name="movie_template_xmas">Navidad</string>
     <string name="movie_video_long">Vídeo más largo</string>
     <string name="movie_video_short">Vídeo de 10s</string>
-    <string name="multi_file_name">%1$s, %2$s</string>
     <string name="must_pick_file">Seleccionar foto</string>
-    <string name="name_split">, </string>
-    <string name="name_with_ellipsize">%1$s…%2$s</string>
     <string name="need_to_turn_on_network">El dispositivo no está conectado a internet</string>
     <string name="need_to_turn_on_sync">Activar la sincronización con la nube</string>
     <string name="need_to_turn_on_sync_first">Activa primero la sincronización con la nube</string>
@@ -923,7 +901,7 @@ para personalizar la Galería"</string>
     <string name="not_is">No</string>
     <string name="not_remind_again">No mostrar de nuevo</string>
     <string name="not_remind_any_more">No mostrar de nuevo</string>
-    <string name="ok">OK </string>
+    <string name="ok">ACEPTAR </string>
     <string name="onekey_auto">Auto</string>
     <string name="onekey_food">Comida</string>
     <string name="onekey_none">Original</string>
@@ -975,8 +953,6 @@ para personalizar la Galería"</string>
     <string name="operation_too_often">¡Vaya! Existen demasiadas solicitudes desde tu IP. Espera uno o dos minutos e inténtalo de nuevo.</string>
     <string name="operation_unforce_top">Desanclar</string>
     <string name="operation_unhide">Visible</string>
-    <string name="oppo">OPPO</string>
-    <string name="oppo_phone">OPPO</string>
     <string name="orientation_lock_tip">Rotación automática desactivada</string>
     <string name="orientation_unlock_tip">Rotación automática activada</string>
     <string name="origin_gif_name">archivo original</string>
@@ -992,7 +968,6 @@ para personalizar la Galería"</string>
     <string name="people_mark_mode_title_no_mark_name">Seleccionar una persona</string>
     <string name="people_page_label">Personas</string>
     <string name="people_page_unname">Sin nombre</string>
-    <string name="percent_sign">%</string>
     <string name="permission_contacts_desc">Para asignar contactos a personas en fotos</string>
     <string name="permission_contacts_name">Contactos</string>
     <string name="permission_optional_category">Permisos opcionales</string>
@@ -1003,7 +978,6 @@ para personalizar la Galería"</string>
     <string name="permission_storage_name">Almacenamiento</string>
     <string name="permission_use_desc">Permisos</string>
     <string name="pet_album_display_name">Fotos de mascotas</string>
-    <string name="petabyteShort">PB</string>
     <string name="photo">Fotos</string>
     <string name="photo_edit_file_not_exits_tip">Descarga la foto antes de editarla</string>
     <string name="photo_editor_adjust">Ajuste</string>
@@ -1146,7 +1120,6 @@ para personalizar la Galería"</string>
     <string name="publish_succeeded">Álbum publicado</string>
     <string name="publishing">Publicando…</string>
     <string name="purge_or_recovery_processing">Procesando…</string>
-    <string name="quotation">\"%s\"</string>
     <string name="recent_album_empty_title">No se han añadido fotos recientemente</string>
     <string name="recommanded_face_abandon_tip">Eliminado de sugerencias</string>
     <string name="recommanded_face_added_tip">Añadido a \"%s\"</string>
@@ -1157,15 +1130,6 @@ para personalizar la Galería"</string>
     <string name="recovery_not_synced_reason">Los elementos no fueron restaurados</string>
     <string name="recovery_not_synced_solution">Conectar a la red para restaurar elementos.</string>
     <string name="recovery_rename">Renombrar</string>
-    <string name="redmi_6">Redmi 6</string>
-    <string name="redmi_6_pro">Redmi 6 Pro</string>
-    <string name="redmi_6a">Redmi 6A</string>
-    <string name="redmi_7a">Redmi 7A</string>
-    <string name="redmi_k20">Redmi K20</string>
-    <string name="redmi_k20_pro">Redmi K20 Pro</string>
-    <string name="redmi_note_5">Redmi Note 5</string>
-    <string name="redmi_note_7">Redmi Note 7</string>
-    <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
     <string name="refocus_desc">Volver a enfocar</string>
     <string name="relation_text_empty_alert">Añadir información de la relación</string>
     <string name="relation_text_family">Miembro de la familia</string>
@@ -1211,7 +1175,6 @@ para personalizar la Galería"</string>
     <string name="retry_to_request_qr_code">Inténtalo de nuevo</string>
     <string name="risk_control_deleted_date">dd/MM</string>
     <string name="risk_control_deleted_message">Alguien eliminó los elementos de tu Galería desde la nube usando un %3$s el %1$s a las %2$s. ¿Eras tu?</string>
-    <string name="risk_control_deleted_time">HH:mm</string>
     <string name="risk_control_deleted_title">Aviso de seguridad</string>
     <string name="runtime_permission_ungranted">Galería cerrada, no se necesitan permisos</string>
     <string name="same_name_album_exist_and_toast">"Ya existe un álbum con el mismo nombre. Se ha creado '%s' en su lugar."</string>
@@ -1222,13 +1185,8 @@ para personalizar la Galería"</string>
     <string name="screen_doodle_talkback_size">Ancho de línea de dibujo</string>
     <string name="screen_editor_btn_delete">Eliminar</string>
     <string name="screen_editor_btn_save">Guardar</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">¿Eliminar esta captura de pantalla?</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Listo</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">Cancelar</string>
     <string name="screen_save_dialog_btn_delete">Eliminar captura de pantalla</string>
     <string name="screen_save_dialog_btn_save">Guardar en Galería</string>
@@ -1287,9 +1245,6 @@ para personalizar la Galería"</string>
     <string name="search_title_recommend">Recomendado</string>
     <string name="search_title_suggestion">Sugerencias</string>
     <string name="search_title_tag">Objetos</string>
-    <string name="search_transition_element_icon">search_icon</string>
-    <string name="search_transition_element_input">search_input</string>
-    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Buscando proyector…</string>
     <string name="secret_album_card_description">El mejor lugar para todos tus secretos</string>
     <string name="secret_album_card_title">Prueba álbum oculto</string>
@@ -1379,7 +1334,6 @@ para personalizar la Galería"</string>
     <string name="special_type_wide_angle">Ángulo ultra grande IA</string>
     <string name="start_debug">Depurar la Galería</string>
     <string name="start_to_use_face_albumset">Ordenar por personas</string>
-    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="sticker_ad">Folleto</string>
     <string name="sticker_baibai">Plantas</string>
     <string name="sticker_beard">Barbería</string>
@@ -1429,10 +1383,8 @@ para personalizar la Galería"</string>
     <string name="syncing_metadata_title">Sincronizando datos de Xiaomi Cloud</string>
     <string name="syncing_normal_title">Respaldando fotos y vídeos</string>
     <string name="system_album">Álbum del sistema</string>
-    <string name="terabyteShort">TB</string>
     <string name="text_append_color">Color</string>
     <string name="text_append_font">Fuente</string>
-    <string name="text_append_font_example">Aa</string>
     <string name="text_append_hint">Introduce el texto</string>
     <string name="text_append_style">Burbuja</string>
     <string name="text_append_transparent">Opacidad</string>
@@ -1507,7 +1459,7 @@ para personalizar la Galería"</string>
     <string name="user_agreement2">Términos de Servicio</string>
     <string name="user_agreement4">Política de Privacidad</string>
     <string name="user_alias_self">Yo mismo</string>
-    <string name="user_notice_identify_summary_format">&lt;Data>Al usar este servicio, aceptas los &lt;a href=\"%1$s\">\"Términos de Servicio\"&lt;/a> y la &lt;a href=\"%2$s\">\"Política de Privacidad\"&lt;/a> de Xiaomi.&lt;/Data></string>
+    <string name="user_notice_identify_summary_format">&lt;Data&gt;Al usar este servicio, aceptas los &lt;a href=\"%1$s\"&gt;\"Términos de Servicio\"&lt;/a&gt; y la &lt;a href=\"%2$s\"&gt;\"Política de Privacidad\"&lt;/a&gt; de Xiaomi.&lt;/Data&gt;</string>
     <string name="user_notice_title">Términos y Condiciones</string>
     <string name="video_edit_file_not_exits_tip">Primero descarga el vídeo</string>
     <string name="video_editor_abandon_changes_tip_message">¿Descartar todos los cambios?</string>
@@ -1619,33 +1571,13 @@ para personalizar la Galería"</string>
     <string name="view_by_gallery_tip">Galería MIUI</string>
     <string name="view_face_album">Ver álbum</string>
     <string name="view_more_face_desc">Ver más gente</string>
-    <string name="vivo">vivo</string>
-    <string name="vivo_phone">vivo</string>
     <string name="voice_assistant">Entrada de voz</string>
     <string name="welcome_to_micloud">Bienvenido a Xiaomi Cloud</string>
     <string name="where_is_barcode">¿Dónde está el código QR?</string>
     <string name="who_is_this">¿Quién es?</string>
-    <string name="xiaomi">Mi</string>
-    <string name="xiaomi_6">Mi 6</string>
-    <string name="xiaomi_8">Mi 8</string>
-    <string name="xiaomi_8_exp">Mi 8 Explorer Edition</string>
-    <string name="xiaomi_8_se">Mi 8 SE</string>
-    <string name="xiaomi_8_ud">Mi 8 Pro</string>
-    <string name="xiaomi_8_young">Mi 8 Lite</string>
-    <string name="xiaomi_9">Mi 9</string>
-    <string name="xiaomi_9_se">Mi 9 SE</string>
     <string name="xiaomi_account_not_exists_toast">Esta Cuenta Mi no existe</string>
     <string name="xiaomi_cc_9">Mi CC9</string>
     <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>
-    <string name="xiaomi_cc_9e">Mi CC9e</string>
-    <string name="xiaomi_max_3">Mi MAX 3</string>
-    <string name="xiaomi_mix_2">Mi MIX 2</string>
-    <string name="xiaomi_mix_2s">Mi MIX 2S</string>
-    <string name="xiaomi_mix_3">Mi MIX 3</string>
-    <string name="xiaomi_mix_3_5g">Mi MIX 3 5G</string>
-    <string name="xiaomi_note_3">Mi Note 3</string>
-    <string name="xiaomi_phone">Xiaomi</string>
-    <string name="xiaomi_poco_f1">POCO F1</string>
     <string name="yes">Sí</string>
     <string name="yesterday">Ayer</string>
     <string name="you_are">Relación con el bebé</string>

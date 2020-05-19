@@ -223,7 +223,6 @@ Selección"</string>
     <string name="disabled_by_admin_summary_text">Controlada por el administrador</string>
     <string name="dont_show_again">No volver a mostrar</string>
     <string name="eight_hours">8 horas</string>
-    <string name="eight_thousand_kb">8192 kB</string>
     <string name="enable_adb">Depuración por USB</string>
     <string name="enable_adb_summary">Activar el modo de depuración cuando el dispositivo esté conectado por USB</string>
     <string name="enable_freeform_support">Habilitar ventanas de forma libre</string>
@@ -238,7 +237,6 @@ Selección"</string>
     <string name="external_source_trusted">Autorizadas</string>
     <string name="external_source_untrusted">No autorizadas</string>
     <string name="failed_to_open_app_settings_toast">Error al abrir los ajustes de %1$s</string>
-    <string name="five_gb">5 GB</string>
     <string name="force_allow_on_external">Forzar permitir aplicaciones de forma externa</string>
     <string name="force_allow_on_external_summary">Hacer que cualquier aplicación se pueda escribir en un dispositivo de almacenamiento externo independientemente de los valores definidos</string>
     <string name="force_msaa">Forzar MSAA 4x</string>
@@ -267,8 +265,6 @@ Selección"</string>
     <string name="keywords">systrace, traza, rendimiento</string>
     <string name="launch_defaults_none">No se han establecido valores predeterminados</string>
     <string name="launch_defaults_some">Se han establecido algunos valores predeterminados</string>
-    <string name="lb_control_display_fast_forward_multiplier">%1$dx</string>
-    <string name="lb_control_display_rewind_multiplier">%1$dx</string>
     <string name="lb_guidedaction_continue_title">Continuar</string>
     <string name="lb_guidedaction_finish_title">Finalizar</string>
     <string name="lb_media_player_error">Código de error de MediaPlayer %1$d extra %2$d</string>
@@ -300,7 +296,6 @@ Selección"</string>
     <string name="lb_playback_controls_thumb_down_outline">Seleccionar No me gusta</string>
     <string name="lb_playback_controls_thumb_up">No seleccionar Me gusta</string>
     <string name="lb_playback_controls_thumb_up_outline">Seleccionar Me gusta</string>
-    <string name="lb_playback_time_separator">/</string>
     <string name="lb_search_bar_hint">Haz una búsqueda</string>
     <string name="lb_search_bar_hint_speech">Habla para buscar</string>
     <string name="lb_search_bar_hint_with_title">Busca %1$s</string>
@@ -354,7 +349,6 @@ Selección"</string>
     <string name="oem_unlock_enable">Desbloqueo de OEM</string>
     <string name="oem_unlock_enable_summary">Permitir desbloquear el bootloader</string>
     <string name="okay">Aceptar</string>
-    <string name="one_gb">1 GB</string>
     <string name="one_hour">1 hora</string>
     <string name="orb_search_action">Buscar acción</string>
     <string name="osu_completing_sign_up">Completando registro…</string>
@@ -367,7 +361,6 @@ Selección"</string>
     <string name="picture_color_mode_desc">Utiliza sRGB</string>
     <string name="pointer_location">Ubicación del puntero</string>
     <string name="pointer_location_summary">Superponer los datos de las pulsaciones en la pantalla</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s para completar la carga</string>
     <string name="power_discharge_by">Debería durar aproximadamente hasta %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Debería durar aproximadamente hasta %1$s según el uso (%2$s)</string>
@@ -385,10 +378,8 @@ Selección"</string>
     <string name="power_remaining_less_than_duration_only">Tiempo restante: menos de %1$s</string>
     <string name="power_remaining_more_than_subtext">Queda más del %1$s (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Tiempo restante: más de %1$s</string>
-    <string name="power_remaining_settings_home_page">%1$s: %2$s</string>
     <string name="power_suggestion_extend_battery">Prolongar la duración de la batería después de las %1$s</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
-    <string name="preference_summary_default_combination">%1$s/%2$s</string>
     <string name="private_dns_mode_off">Desactivado</string>
     <string name="private_dns_mode_opportunistic">Automático</string>
     <string name="private_dns_mode_provider">Nombre de host del proveedor de DNS privado</string>
@@ -444,8 +435,6 @@ Selección"</string>
     <string name="show_touches">Mostrar toques</string>
     <string name="show_touches_summary">Mostrar la ubicación de los toques en la pantalla</string>
     <string name="simulate_color_space">Simular espacio de color</string>
-    <string name="sixteen_thousand_kb">16384 kB</string>
-    <string name="sixtyfive_thousand_kb">65536 kB</string>
     <string name="speed_label_fast">Rápida</string>
     <string name="speed_label_medium">Media</string>
     <string name="speed_label_okay">Aceptable</string>
@@ -458,14 +447,12 @@ Selección"</string>
     <string name="stop_tracing">Deja de guardar rastros</string>
     <string name="strict_mode">Modo estricto</string>
     <string name="strict_mode_summary">Parpadear si las aplicaciones tardan mucho en el subproceso principal</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="system_trace_sensitive_data">Es posible que los archivos de Trazado del sistema incluyan datos sensibles del sistema y de aplicaciones (como (como información sobre el uso de las aplicaciones). Comparte las trazas del sistema únicamente con usuarios y aplicaciones en los que confíes.</string>
     <string name="system_traces_storage_title">Seguimiento del sistema</string>
     <string name="system_tracing">Trazado del sistema</string>
     <string name="tap_to_share">Toca para compartir tu captura</string>
     <string name="tap_to_sign_up">Toca para registrarte</string>
     <string name="tap_to_stop_tracing">Toca para dejar de guardar rastros</string>
-    <string name="ten_gb">10 GB</string>
     <string name="ten_minutes">10 minutos</string>
     <string name="tether_settings_title_all">Compartir conexión y zona Wi-Fi</string>
     <string name="tether_settings_title_bluetooth">Compartir conexión por Bluetooth</string>
@@ -476,7 +463,6 @@ Selección"</string>
     <string name="tethering_hardware_offload_summary">Usar la conexión compartida con aceleración por hardware si está disponible</string>
     <string name="tethering_settings_not_available">Los ajustes para compartir conexión no están disponibles para este usuario</string>
     <string name="thirty_minutes">30 minutos</string>
-    <string name="thirtytwo_thousand_kb">32768 kB</string>
     <string name="time_unit_just_now">Justo ahora</string>
     <string name="title_convert_fbe">Convirtiendo a un cifrado basado en archivos</string>
     <string name="trace_debuggable_applications">Rastrear aplicaciones que se puedan depurar</string>
@@ -508,15 +494,13 @@ Selección"</string>
     <string name="tts_reset_speech_pitch_title">Restablecer el tono de voz</string>
     <string name="tts_settings">Ajustes de síntesis de voz</string>
     <string name="tts_settings_title">Síntesis de voz</string>
-    <string name="tts_status_checking">Comprobando...</string>
+    <string name="tts_status_checking">Comprobando…</string>
     <string name="tts_status_not_supported">No se admite el %1$s</string>
     <string name="tts_status_ok">El %1$s se admite completamente</string>
     <string name="tts_status_requires_network">El idioma %1$s requiere conexión a Internet</string>
     <string name="tts_status_title">Estado del idioma predeterminado</string>
     <string name="twelve_hours">12 horas</string>
-    <string name="twenty_gb">20 GB</string>
     <string name="twentyfour_hours">24 horas</string>
-    <string name="two_hundred_mb">200 MB</string>
     <string name="unknown">Desconocido</string>
     <string name="usb_audio_disable_routing">Inhabilitar enrutamiento de audio por USB</string>
     <string name="usb_audio_disable_routing_summary">Inhabilitar el enrutamiento automático a periféricos de audio USB</string>
@@ -563,7 +547,6 @@ Selección"</string>
     <string name="zen_alarm_warning">No oirás la próxima alarma (%1$s)</string>
     <string name="zen_alarm_warning_indef">Solo oirás la próxima alarma (%1$s) si desactivas esta opción antes</string>
     <string name="zen_interruption_level_priority">Solo interrupciones prioritarias</string>
-    <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="zen_mode_duration_always_prompt_title">Preguntar siempre</string>
     <string name="zen_mode_duration_settings_title">Duración</string>
     <string name="zen_mode_enable_dialog_turn_on">Activar</string>

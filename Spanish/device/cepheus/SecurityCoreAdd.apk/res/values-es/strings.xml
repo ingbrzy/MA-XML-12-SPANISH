@@ -6,6 +6,33 @@
  Los mensajes solo aparecerán en el Segundo espacio."</string>
     <string name="PrivacyContactDes2">"Si utilizabas mensajes privados en el Primer espacio,
  se añadirá esta característica automáticamente al Segundo espacio."</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Ir hacia arriba</string>
+    <string name="abc_action_menu_overflow_description">Más</string>
+    <string name="abc_action_mode_done">Listo</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
+    <string name="abc_capital_off">DESACTIVADO</string>
+    <string name="abc_capital_on">ACTIVADO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Eliminar</string>
+    <string name="abc_menu_enter_shortcut_label">Intro</string>
+    <string name="abc_menu_function_shortcut_label">Función+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Espacio</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menú+</string>
+    <string name="abc_search_hint">Buscar…</string>
+    <string name="abc_searchview_description_clear">Borrar consulta</string>
+    <string name="abc_searchview_description_query">Consulta</string>
+    <string name="abc_searchview_description_search">Buscar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+    <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="about_ent_mode">Acerca del Modo empresa</string>
     <string name="activate_ent_mode">Activar Modo empresa</string>
     <string name="add_finger_print">Añadir huella</string>
@@ -61,6 +88,7 @@
  para poder verlos en cualquier momento"</string>
     <string name="contact_us">Contáctenos</string>
     <string name="continueButton">Continuar</string>
+    <string name="copy">Copiar</string>
     <string name="createANewSpace">Cree un espacio separado en su teléfono.</string>
     <string name="createUserFail">No se pudo crear</string>
     <string name="create_app_icon_failed">No se pudo crear el icono</string>
@@ -70,7 +98,7 @@
     <string name="create_work_space">Crear un Espacio de trabajo</string>
     <string name="creating_app_icon">Creando icono…</string>
     <string name="cta_declaration_agree_and_continue">Aceptar</string>
-    <string name="cta_declaration_message_format" formatted="false">Debes leer y aceptar nuestros &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> para utilizar el modo trabajo. Tu dispositivo necesita conectarse a internet para activar el modo trabajo. ¿Aceptar?</string>
+    <string name="cta_declaration_message_format" formatted="false">Debes leer y aceptar nuestros &lt;font color=%s&gt;&lt;a href=%s&gt;%s&lt;/a&gt;&lt;/font&gt; para utilizar el modo trabajo. Tu dispositivo necesita conectarse a internet para activar el modo trabajo. ¿Aceptar?</string>
     <string name="cta_declaration_title">Términos y condiciones</string>
     <string name="current_space">Espacio actual</string>
     <string name="dataSafe">Usar el Segundo espacio es como tener dos dispositivos.</string>
@@ -149,6 +177,7 @@ Asegúrate de que el nombre de tu empresa es correcto. Lee y acepta la Política
     <string name="err_unknown">Error desconocido</string>
     <string name="err_volume_not_enough">No hay suficiente espacio de almacenamiento</string>
     <string name="exit_private_space">Cambiar</string>
+    <string name="expand_button_title">Avanzado</string>
     <string name="experience_more_features">Añade un dispositivo para ver todas las funciones</string>
     <string name="facebook_login">Iniciar sesión usando Facebook</string>
     <string name="facebook_send">Compartir con Facebook</string>
@@ -174,6 +203,10 @@ Asegúrate de que el nombre de tu empresa es correcto. Lee y acepta la Política
     <string name="greenguard_child_des_title">Escanea el código QR para añadir dispositivo</string>
     <string name="greenguard_functional_description">"Gestiona dispositivos de forma remota, obtén información de ubicación,
 controla aplicaciones instaladas y restringe el uso"</string>
+    <string name="greenguard_install_cancle">No, gracias</string>
+    <string name="greenguard_install_confirm">Instalar</string>
+    <string name="greenguard_install_message">"Family Guard es una aplicación del sistema. No necesitas internet para instalarlo."</string>
+    <string name="greenguard_install_title">Instalar Family Guard</string>
     <string name="greenguard_parent_des">Gestiona el dispositivo de tus amigos y familia</string>
     <string name="greenguard_parent_des_title">Usa Kite Guard para añadir dispositivos</string>
     <string name="guide_contact_sub_title_desc">"Los contactos añadidos al Segundo espacio se mantendrán privados.
@@ -219,8 +252,17 @@ Dos espacios. Un dispositivo."</string>
     <string name="master_clear_apply_step_2">Asegúrate de haber copiado todos los archivos importantes en tu ordenador. Después de aceptar se realizará una restauración de fábrica. Se eliminarán de manera permanente todos los archivos y datos, incluidas las cuentas, los contactos, fotos y aplicaciones.</string>
     <string name="master_clear_apply_title">Atención</string>
     <string name="master_clear_not_available">El reseteo de fábrica está restringido por tu empresa.</string>
+    <string name="master_clear_not_available_ep">"No está permitido realizar un restablecimiento de fábrica o revocar su autorización ahora. Contacta a tu supervisor."</string>
     <string name="menu_item_about_privacy_title">Política de Privacidad</string>
     <string name="messageData">Mensajes</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tire hacia abajo para actualizar</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelte para actualizar</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar elementos"</string>
     <string name="more_settings">Más</string>
     <string name="msg_switch_file">¿Eliminar estos archivos en el Primer espacio después de haberlos movido?</string>
     <string name="msg_switch_file_second">¿Eliminar estos archivos en el Segundo espacio después de haberlos movido?</string>
@@ -236,6 +278,7 @@ Dos espacios. Un dispositivo."</string>
     <string name="next_setp">Siguiente</string>
     <string name="no_match_repate_scanner">No se pudo verificar la huella, escanee de nuevo</string>
     <string name="normal_app">Primer espacio</string>
+    <string name="not_set">No establecido</string>
     <string name="not_support_air_space">Esta función todavía no es compatible con su teléfono</string>
     <string name="not_support_multiple_users">No se admiten múltiples espacios</string>
     <string name="notificationSetPassword">Establecer contraseña</string>
@@ -258,6 +301,7 @@ Dos espacios. Un dispositivo."</string>
     <string name="passwordProtect">Contraseña</string>
     <string name="please_diff_finger_print">"Asegúrese de usar diferentes huellas en el Primer y Segundo espacio.
 De lo contrario podría no ser capaz de acceder al Segundo espacio desde Pantalla de bloqueo."</string>
+    <string name="preference_copied">\"%1$s\" copiado al portapapeles.</string>
     <string name="privacyContactsSummary">Mostrar elementos privados en el Segundo espacio</string>
     <string name="privacyContactsTitle">Mensajes privados y contactos</string>
     <string name="privacy_password_fingerprint_dialog_message">Pon tu dedo en el sensor</string>
@@ -307,7 +351,8 @@ Si no realizas la actualización, las aplicaciones duales podrían no funcionar 
     <string name="sdcradfs_dialog_in_sec_message">"Para actualizar, debes eliminar tu Segundo espacio y luego crearlo de nuevo. Mueve los datos del segundo espacio al primer espacio y reinicia tu dispositivo para completar la actualización.
 Si no actualizas, es posible que las aplicaciones duales no funcionen correctamente."</string>
     <string name="sdcradfs_dialog_in_sec_title">Actualización importante</string>
-    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+    <string name="search_menu_title">Buscar</string>
     <string name="search_result_text">Imposible encontrar aplicaciones</string>
     <string name="secondSpace">Segundo espacio</string>
     <string name="second_owner_finger_print">Huella del Segundo espacio</string>
@@ -316,6 +361,8 @@ Si no actualizas, es posible que las aplicaciones duales no funcionen correctame
     <string name="second_space_desktop_tips_dialog_title">Actualización importante</string>
     <string name="second_space_finger_printf_desc">Añadir huella especifica para entrar en el Segundo espacio</string>
     <string name="second_space_finger_printf_title">Huella del segundo espacio</string>
+    <string name="secondspace_homepage">"Establecer un bloqueo de pantalla designado para el Segundo espacio.
+Separe y asegure sus datos."</string>
     <string name="select_existed_fingerprint">Seleccionar huella</string>
     <string name="serNameSummary">Segundo espacio</string>
     <string name="setSecondSpacePassword">Establecer contraseña para el Segundo espacio</string>
@@ -437,6 +484,8 @@ para acceder desde la Pantalla de bloqueo"</string>
     <string name="undo_success">Revocado con éxito</string>
     <string name="use_google_open">Activar usando el Asistente de Google</string>
     <string name="use_xiaoai_open">Activar usando Mi IA</string>
+    <string name="v7_preference_off">DESACTIVADA</string>
+    <string name="v7_preference_on">ACTIVADA</string>
     <string name="wating">Un momento…</string>
     <string name="weibo_send">Enviar a Weibo</string>
     <string name="weixin_pay">WeChat Pay</string>
@@ -456,6 +505,8 @@ para acceder desde la Pantalla de bloqueo"</string>
     <string name="xspace_description">"Las aplicaciones duales son copias que pueden ser usadas de forma separada con una cuenta diferente.
 
 Algunas aplicaciones duales requieren la compatibilidad con el marco de Servicios Google. En estos casos, se crea un Marco de Servicios Google dual."</string>
+    <string name="xspace_disable">No creado</string>
+    <string name="xspace_enable">Creado</string>
     <string name="xspace_facebook_title">Facebook</string>
     <string name="xspace_guide_des">Usar dos cuentas sin cambiar</string>
     <string name="xspace_guide_title">Crear aplicación dual</string>
@@ -468,68 +519,13 @@ Algunas aplicaciones duales requieren la compatibilidad con el marco de Servicio
     <string name="xspace_introduce">Recomendado</string>
     <string name="xspace_label">Aplicaciones duales</string>
     <string name="xspace_loading_msg">Cargando aplicaciones…</string>
-    <string name="xspace_qq_title">QQ</string>
+    <string name="xspace_notification">Notificaciones de aplicaciones duales</string>
+    <string name="xspace_notification_error">Inicie sesión en WeChat dual e intente nuevamente</string>
     <string name="xspace_remove">Eliminar cuentas de aplicaciones duales</string>
     <string name="xspace_setting_label">Ajustes de aplicación dual</string>
+    <string name="xspace_settins">Establecer</string>
     <string name="xspace_uninstall_completed">Aplicación dual desinstalada correctamente</string>
     <string name="xspace_uninstall_dialog_content">Desinstalar una aplicación dual eliminará todos los datos de la aplicación.</string>
     <string name="xspace_uninstall_dialog_title">Desinstalar aplicación dual</string>
     <string name="xspace_uninstalling">Desinstalando…</string>
-    <string name="xspace_weibo_title">Weibo</string>
-    <string name="xspace_weixin_title">WeChat</string>
-    <string name="xspace_whatsapp_title">WhatsApp</string>
-    <string name="abc_action_bar_home_description">Navigate home</string>
-    <string name="abc_action_bar_up_description">Ir hacia arriba</string>
-    <string name="abc_action_menu_overflow_description">Más</string>
-    <string name="abc_action_mode_done">Listo</string>
-    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
-    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
-    <string name="abc_capital_off">DESACTIVADO</string>
-    <string name="abc_capital_on">ACTIVADO</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">Eliminar</string>
-    <string name="abc_menu_enter_shortcut_label">Intro</string>
-    <string name="abc_menu_function_shortcut_label">Función+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
-    <string name="abc_menu_space_shortcut_label">Espacio</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menú+</string>
-    <string name="abc_search_hint">Buscar…</string>
-    <string name="abc_searchview_description_clear">Borrar consulta</string>
-    <string name="abc_searchview_description_query">Consulta</string>
-    <string name="abc_searchview_description_search">Buscar</string>
-    <string name="abc_searchview_description_submit">Enviar consulta</string>
-    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
-    <string name="abc_shareactionprovider_share_with">Compartir con</string>
-    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
-    <string name="abc_toolbar_collapse_description">Contraer</string>
-    <string name="copy">Copiar</string>
-    <string name="expand_button_title">Avanzado</string>
-    <string name="greenguard_install_cancle">No, gracias</string>
-    <string name="greenguard_install_confirm">Instalar</string>
-    <string name="greenguard_install_message">"Family Guard es una aplicación del sistema. No necesitas internet para instalarlo."</string>
-    <string name="greenguard_install_title">Instalar Family Guard</string>
-    <string name="master_clear_not_available_ep">"No está permitido realizar un restablecimiento de fábrica o revocar su autorización ahora. Contacta a tu supervisor."</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tire hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelte para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar elementos"</string>
-    <string name="not_set">No establecido</string>
-    <string name="preference_copied">\"%1$s\" copiado al portapapeles.</string>
-    <string name="search_menu_title">Buscar</string>
-    <string name="secondspace_homepage">"Establecer un bloqueo de pantalla designado para el Segundo espacio.
-Separe y asegure sus datos."</string>
-    <string name="v7_preference_off">DESACTIVADA</string>
-    <string name="v7_preference_on">ACTIVADA</string>
-    <string name="xspace_disable">No creado</string>
-    <string name="xspace_enable">Creado</string>
-    <string name="xspace_notification">Notificaciones de aplicaciones duales</string>
-    <string name="xspace_notification_error">Inicie sesión en WeChat dual e intente nuevamente</string>
-    <string name="xspace_settins">Establecer</string>
 </resources>

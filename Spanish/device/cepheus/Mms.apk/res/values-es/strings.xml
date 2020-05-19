@@ -286,7 +286,7 @@
     <string name="guild_add_attachments">Pulsa para añadir emoticonos y otros elementos</string>
     <string name="guild_add_recipients">Pulsa para añadir destinatarios desde contactos</string>
     <string name="guild_msim_switcher">Pulsa para cambiar las tarjetas SIM</string>
-    <string name="has_invalid_recipient">Destinatarios no válidos: &lt;%1$s></string>
+    <string name="has_invalid_recipient">Destinatarios no válidos: &lt;%1$s&gt;</string>
     <string name="hidden_sender_address">Dirección de remitente oculta</string>
     <string name="hold_to_talk">Mantén presionado para hablar</string>
     <string name="hybrid_check_network">Ajustes de red</string>
@@ -429,7 +429,7 @@ Este mensaje podría ser no deseado."</string>
     <string name="mx_enable_ex">Mi Mensaje y Voz</string>
     <string name="mx_enable_popup_msg">Mi Mensaje le permite enviar mensajes a otros dispositivos MIUI sin cargos adicionales.</string>
     <string name="mx_filter_message_from_stranger">Bloquear Mi Mensaje de números desconocidos</string>
-    <string name="mx_filter_message_from_stranger_dialog_desc">Todavía puedes recibir SMS de números desconocidos. Puedes activar o desactivar esta función en cualquier momento en Mensajes > Ajustes.</string>
+    <string name="mx_filter_message_from_stranger_dialog_desc">Todavía puedes recibir SMS de números desconocidos. Puedes activar o desactivar esta función en cualquier momento en Mensajes &gt; Ajustes.</string>
     <string name="mx_filter_message_from_stranger_dialog_title">Bloquear Mi Mensaje de números desconocidos</string>
     <string name="mx_filter_message_from_stranger_summary">Todavía puedes recibir SMS de un número desconocido</string>
     <string name="mx_main_purpose">"Mi Mensaje te permite enviar mensajes a otros usuarios de Mi Mensaje sin incurrir en cargos. 
@@ -741,8 +741,8 @@ Se requiere un mensaje SMS para activar Mi Mensaje. Tu operador te cobrará por 
     <string name="second_mms_introduction">Ir al Segundo espacio</string>
     <string name="second_mms_switch">Cambiar</string>
     <string name="secs">segs</string>
-    <string name="security_alert_desc"><font color="#7f000000">"El remitente no está en sus contactos.\"
-\" "</font></string>
+    <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"El remitente no está en sus contactos.\"
+\" "&lt;/font&gt;</string>
     <string name="security_alert_desc_highlight">Notificar este número</string>
     <string name="security_alert_dialog_desc">Enviar este número (%s) y el mensaje a Xiaomi para su revisión.</string>
     <string name="security_alert_dialog_title">Notificar</string>
@@ -922,7 +922,7 @@ Intentos realizados: %s."</string>
     <string name="url_fraud_risky_alert">"El sitio %s que intenta visitar podría ser peligroso. ¿Visitar?
 "</string>
     <string name="url_fraud_title">El sitio web puede ser falso</string>
-    <string name="url_fraud_visit"><u>Visitar de todos modos</u></string>
+    <string name="url_fraud_visit">&lt;u&gt;Visitar de todos modos&lt;/u&gt;</string>
     <string name="url_result_safe">Esta URL es segura</string>
     <string name="url_scan_again">Comprobar de nuevo</string>
     <string name="url_scanning">Comprobando URL…</string>

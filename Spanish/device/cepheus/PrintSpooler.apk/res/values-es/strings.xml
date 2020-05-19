@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="activity_convert_pdf_alert_message">La conversión de archivos es proporcionada por WPS Office</string>
+    <string name="activity_convert_pdf_alert_title">Convirtiendo archivos antes de imprimir…</string>
+    <string name="activity_jump_market_alert_install_message">"Instale WPS Office para convertir este archivo y prepararlo para imprimir. Deberá comenzar a imprimir nuevamente una vez que se complete la instalación. ¿Instalar ahora?"</string>
+    <string name="activity_jump_market_alert_install_positive_button">Instalar</string>
+    <string name="activity_jump_market_alert_title">Atención</string>
+    <string name="activity_jump_market_alert_update_message">"Actualice WPS Office para convertir este archivo y prepárelo para imprimir. Deberá comenzar a imprimir nuevamente después de instalar la nueva versión. ¿Actualizar ahora?"</string>
+    <string name="activity_jump_market_alert_update_positive_button">Actualizar</string>
     <string name="add_print_service_label">Añadir servicio</string>
     <string name="all_printers">Todas las impresoras…</string>
     <string name="all_printers_label">Todas las impresoras</string>
@@ -16,6 +23,8 @@
     <string name="collapse_handle">Controlador para contraer</string>
     <string name="connectio_delay_content">Podrías necesitar confirmar la conexión de tu impresora.</string>
     <string name="connectio_help_title">Conectando a una impresora</string>
+    <string name="copies_decrease">Menos una copia</string>
+    <string name="copies_increase">Más una copia</string>
     <string name="could_not_create_file">No se ha podido crear el archivo</string>
     <string name="delete_saved_printer_content">¿Eliminar ahora las impresoras seleccionadas?</string>
     <string name="destination_default_text">Elige una impresora</string>
@@ -103,21 +112,11 @@
     <string name="search_brand">Buscar</string>
     <string name="select_to_add_printers">Selecciona para añadir una impresora</string>
     <string name="start_print">Imprimir</string>
-    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="summary_template">Resumen, copias (%1$s), tamaño del papel (%2$s)</string>
     <string name="system_print_service_help">Sobre la impresión</string>
     <string name="template_all_pages">Todas (%1$s)</string>
     <string name="template_page_range">Intervalo de %1$s</string>
     <string name="wifi_direct">Wi-Fi Direct</string>
-    <string name="activity_convert_pdf_alert_message">La conversión de archivos es proporcionada por WPS Office</string>
-    <string name="activity_convert_pdf_alert_title">Convirtiendo archivos antes de imprimir…</string>
-    <string name="activity_jump_market_alert_install_message">"Instale WPS Office para convertir este archivo y prepararlo para imprimir. Deberá comenzar a imprimir nuevamente una vez que se complete la instalación. ¿Instalar ahora?"</string>
-    <string name="activity_jump_market_alert_install_positive_button">Instalar</string>
-    <string name="activity_jump_market_alert_title">Atención</string>
-    <string name="activity_jump_market_alert_update_message">"Actualice WPS Office para convertir este archivo y prepárelo para imprimir. Deberá comenzar a imprimir nuevamente después de instalar la nueva versión. ¿Actualizar ahora?"</string>
-    <string name="activity_jump_market_alert_update_positive_button">Actualizar</string>
-    <string name="copies_decrease">Menos una copia</string>
-    <string name="copies_increase">Más una copia</string>
     <string name="wps_convert_error_toast_text">"No se pudo convertir el archivo debido a un error de formato"</string>
     <string name="wps_convert_too_large_and_wait_toast_text">La conversión puede llevar más tiempo debido al tamaño de archivo más grande. Convirtiendo…</string>
 </resources>
