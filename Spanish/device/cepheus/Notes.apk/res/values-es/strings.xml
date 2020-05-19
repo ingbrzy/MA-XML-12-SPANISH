@@ -33,6 +33,7 @@
     <string name="action_mode_switcher_grid_description">Ver en cuadrícula</string>
     <string name="action_mode_switcher_list_description">Ver en lista</string>
     <string name="action_settings_description">Ajustes</string>
+    <string name="actionbar_button_up_description">Atrás</string>
     <string name="actionbar_close_description">Cerrar</string>
     <string name="actionbar_home_description">Atrás</string>
     <string name="add_account_desc">¿Sincronizar tus notas con Cuenta Mi?</string>
@@ -47,20 +48,20 @@
     <string name="alert_title_hidden_note">Recibido un recordatorio de una nota oculta</string>
     <string name="alert_title_restore">Restaurar nota</string>
     <string name="all_folder_name">Todas las notas</string>
-    <string name="all_terms">%1$s y %2$s</string>
     <string name="app_name">Notas</string>
     <string name="app_notification_info">Notas se está ejecutando en segundo plano</string>
     <string name="app_widget">Notas</string>
     <string name="application_icon">Icono de la aplicación</string>
     <string name="audio_create_normal_state">Suelta para crear. Desliza hacia arriba para cancelar.</string>
     <string name="audio_create_will_cancel_state">Soltar para cancelar</string>
-    <string name="audio_panel_time_counter_default">00:00</string>
     <string name="audio_toast_file_invalid">Archivo de audio inválido</string>
     <string name="audio_toast_file_undownload">El archivo de audio no está descargado completamente o no se encuentra</string>
     <string name="audio_toast_network_is_not_available">No se pudo conectar a la red</string>
+    <string name="btn_next">Siguiente</string>
     <string name="call_folder_name">Notas de llamada</string>
     <string name="cancel_alarm_description">Cancelar alarma</string>
     <string name="check_in_todo_app">Ver tareas</string>
+    <string name="clearable_edittext_clear_description">Borrar</string>
     <string name="cloud_service_state_open_reminder">Activa la sincronización con la nube para sincronizar notas.</string>
     <string name="cloud_trash_bin_title">Notas eliminadas en la nube</string>
     <string name="confirm_cancel">No aceptar</string>
@@ -76,10 +77,7 @@
     <string name="cta_v2_app_purpose_v12">¡Bienvenido a Notas! Puedes usar esta aplicación para crear tareas y notas que contengan texto, imágenes y audio.</string>
     <string name="data_empty_note">No hay notas todavía</string>
     <string name="data_empty_todo">No hay tareas todavía</string>
-    <string name="date_calculate_today">0 días</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
+    <string name="date_picker_lunar">Calendario Lunar</string>
     <string name="date_time_picker_alarm_reminder">Alarma</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="date_time_picker_has_not_set_alarm">Alarma no establecida</string>
@@ -115,6 +113,8 @@
     <string name="empty_folder_no_notes">No hay notas</string>
     <string name="enable_sync">Sincronizar</string>
     <string name="enable_sync_desc">¿Sincronizar tus notas con tu Cuenta Mi (%1$s)?</string>
+    <string name="eras_ad">DC</string>
+    <string name="eras_bc">AC</string>
     <string name="error_contact_not_exist">El contacto no existe</string>
     <string name="error_hide_empty_note">No se puede ocultar una nota vacía</string>
     <string name="error_note_empty_for_clock">No se puede establecer la hora en una nota vacía</string>
@@ -131,8 +131,6 @@
     <string name="float_todo_guide_message">El acceso directo a la Pantalla de inicio te permite deslizar desde el borde de la pantalla para ver y crear tareas. ¿Crear ahora el acceso directo?</string>
     <string name="float_todo_guide_ok">Crear</string>
     <string name="float_todo_guide_title">Acceso directo a la Pantalla de inicio</string>
-    <string name="fmt_chinese_date">N e</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
     <string name="folder_exist">La carpeta con ese nombre está repetida</string>
     <string name="folder_operation_delete">Eliminar</string>
     <string name="folder_operation_rename">Renombrar</string>
@@ -179,6 +177,18 @@
     <string name="menu_unhide">Desocultar</string>
     <string name="menu_unstick">Desacoplar</string>
     <string name="merge_to_folder">Crear una carpeta</string>
+    <string name="miuix_appcompat_cloud_state_disabled">La sincronización con la nube está desactivada</string>
+    <string name="miuix_appcompat_cloud_state_finished">Sincronizado con la nube completado</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Sincronizando con la nube…</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tire hacia abajo para actualizar</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelte para actualizar</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar elementos"</string>
+    <string name="more">Más</string>
     <string name="new_audio_create_cancel_talkback_des">Cancelado</string>
     <string name="new_audio_create_done_talkback_des">Creado</string>
     <string name="new_audio_create_guide_tip">Mantén pulsado para crear una nota de voz</string>
@@ -187,6 +197,9 @@
     <string name="not_set">Sin definir</string>
     <string name="note_description_content">La aplicación de Notas es una gran herramienta para registrar tus ideas. Contiene memoria integrada y sincroniza tus elementos con la nube para que puedas acceder a ellos en cualquier momento y lugar. Asegúrate de no necesitar estas funciones antes de eliminar la aplicación.</string>
     <string name="note_description_title">Acerca de Notas</string>
+    <string name="note_gesture_guide_step1">Mantenga presionado el signo más para crear una nota de voz.</string>
+    <string name="note_gesture_guide_step2">Mantenga presionada una nota y luego arrástrela sobre otra nota para crear una carpeta</string>
+    <string name="note_gesture_guide_step3">Mantenga presionada una nota y luego arrástrela sobre una carpeta para mover la nota allí</string>
     <string name="note_link_email">Redactar correo</string>
     <string name="note_link_other">Abrir utilizando la aplicación de mapas</string>
     <string name="note_link_select">Seleccionar texto</string>
@@ -209,7 +222,7 @@
     <string name="permission_phone_state_desc">Para dejar de grabar notas de voz durante las llamadas</string>
     <string name="permission_read_contact_desc">Asociar las notas creadas durante las llamadas con contactos</string>
     <string name="permission_storage_desc">Para guardar notas como imágenes</string>
-    <string name="permission_xiaoai_desc">&lt;Data>Mi AI recolectará tus grabaciones de voz y el ID del dispositivo para transcribir audio y crear notas de voz. Aprende más en la &lt;a href=\"%1$s\">Política de Privacidad&lt;/a> de Mi AI.&lt;/Data></string>
+    <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI recolectará tus grabaciones de voz y el ID del dispositivo para transcribir audio y crear notas de voz. Aprende más en la &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; de Mi AI.&lt;/Data&gt;</string>
     <string name="permlab_accessNote">Acceder a tus notas</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">Desliza hacia arriba usando 2 dedos para eliminar notas sin confirmación</string>
     <string name="pref_desc_todo_float_mode">Desliza desde el borde de la pantalla para abrir la caja de herramientas para tareas</string>
@@ -290,8 +303,6 @@
     <string name="sns_title_send">Enviar mensaje</string>
     <string name="sns_toast_empty">No se puede enviar un mensaje vacío</string>
     <string name="sns_toast_over_limit">Enviar como imagen</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sync_tips">Pulsa para sincronizar notas con la nube.</string>
     <string name="theme_blue_description">Azul</string>
     <string name="theme_green_description">Verde</string>
@@ -309,8 +320,7 @@
     <string name="theme_title_yellow">Amarillo</string>
     <string name="theme_white_description">Blanco</string>
     <string name="theme_yellow_description">Amarillo</string>
-    <string name="time_picker_label_hour">H</string>
-    <string name="time_picker_label_minute">M</string>
+    <string name="time_picker_dialog_title">Establecer hora</string>
     <string name="toast_cancel_to_insert_image">No se pudo añadir la imagen.</string>
     <string name="toast_message_add_image_fail">Fallo al insertar imagen</string>
     <string name="toast_notes_delete_success">Eliminado con éxito</string>
@@ -331,6 +341,7 @@ Permite a las Notas leer el contenido de tu tarjeta SD."</string>
 Permite a las Notas leer el estado del teléfono y la identidad."</string>
     <string name="toast_refuse_to_use_record_audio">"Los permisos del micrófono están restringidos.
 Permite a las Notas grabar audio."</string>
+    <string name="today">Hoy</string>
     <string name="todo_alert_title_delete">Eliminar tareas completadas</string>
     <string name="todo_audio_default_content">"[Tarea de voz] "</string>
     <string name="todo_custom_remind_tag_pattern_with_md">dd/MM HH:mm</string>
@@ -370,8 +381,6 @@ Permite a las Notas grabar audio."</string>
     <string name="todo_module_name">Tareas</string>
     <string name="todo_notify_alarm_title">Recordatorio de tarea</string>
     <string name="todo_schedule_time_expired">" (Expirado)"</string>
-    <string name="todo_schedule_time_for_picker_hm">H mm</string>
-    <string name="todo_schedule_time_hm">HH:mm</string>
     <string name="todo_schedule_time_md">dd/MM</string>
     <string name="todo_schedule_time_mdhm">dd/MM HH:mm</string>
     <string name="todo_schedule_time_repeat_day">, todos los días</string>
@@ -393,6 +402,7 @@ Permite a las Notas grabar audio."</string>
     <string name="todo_user_guide_tip5">¡Mantente al día de tu juego y nunca te pierdas nada importante!</string>
     <string name="todo_user_guide_tip6">Pulsa \"Entrar\" para crear una lista de verificación de subtareas</string>
     <string name="todoalert_done">ACEPTAR</string>
+    <string name="tomorrow">Mañana</string>
     <string name="toolbar_check_description">Añadir casilla de verificación</string>
     <string name="toolbar_delete_description">Eliminar esta nota</string>
     <string name="toolbar_gallery_description">Añadir imagen</string>
@@ -411,29 +421,5 @@ Permite a las Notas grabar audio."</string>
     <string name="v7_preference_on">ACTIVADA</string>
     <string name="widget_content_loading">Un momento…</string>
     <string name="widget_havenot_content">Toca para crear una nota. Mantén presionado el widget para cambiar el tamaño.</string>
-    <string name="actionbar_button_up_description">Atrás</string>
-    <string name="btn_next">Siguiente</string>
-    <string name="clearable_edittext_clear_description">Borrar</string>
-    <string name="date_picker_lunar">Calendario Lunar</string>
-    <string name="eras_ad">DC</string>
-    <string name="eras_bc">AC</string>
-    <string name="miuix_appcompat_cloud_state_disabled">La sincronización con la nube está desactivada</string>
-    <string name="miuix_appcompat_cloud_state_finished">Sincronizado con la nube completado</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Sincronizando con la nube…</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tire hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelte para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar elementos"</string>
-    <string name="more">Más</string>
-    <string name="note_gesture_guide_step1">Mantenga presionado el signo más para crear una nota de voz.</string>
-    <string name="note_gesture_guide_step2">Mantenga presionada una nota y luego arrástrela sobre otra nota para crear una carpeta</string>
-    <string name="note_gesture_guide_step3">Mantenga presionada una nota y luego arrástrela sobre una carpeta para mover la nota allí</string>
-    <string name="time_picker_dialog_title">Establecer hora</string>
-    <string name="today">Hoy</string>
-    <string name="tomorrow">Mañana</string>
     <string name="yesterday">Ayer</string>
 </resources>

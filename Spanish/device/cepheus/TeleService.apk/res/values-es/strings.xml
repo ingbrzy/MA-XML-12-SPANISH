@@ -339,7 +339,6 @@ Selección"</string>
     <string name="call_settings">Ajustes de llamada</string>
     <string name="call_settings_admin_user_only">Los ajustes de llamada sólo pueden ser modificados por el administrador.</string>
     <string name="call_settings_primary_user_only">Los ajustes de llamadas sólo pueden ser modificados por el usuario principal.</string>
-    <string name="call_settings_title_font_family">sans-serif-light</string>
     <string name="call_settings_with_label">Ajustes (%s)</string>
     <string name="call_waiting_summary">Notificarme las demás llamadas entrantes durante una llamada</string>
     <string name="call_waiting_title">Llamada en espera</string>
@@ -565,13 +564,12 @@ Selección"</string>
     <string name="debug_networking_category">Redes</string>
     <string name="debug_view_attributes">Inspección de atributos de vista</string>
     <string name="default_notification_description">Sonido predeterminado (%1$s)</string>
-    <string name="default_preference_summary_domain_address">&lt;No configurado></string>
-    <string name="default_preference_summary_password">&lt;No configurado></string>
-    <string name="default_preference_summary_username">&lt;No configurado></string>
+    <string name="default_preference_summary_domain_address">&lt;No configurado&gt;</string>
+    <string name="default_preference_summary_password">&lt;No configurado&gt;</string>
+    <string name="default_preference_summary_username">&lt;No configurado&gt;</string>
     <string name="delete">Eliminar</string>
     <string name="delete_fdn_contact">Eliminar número de marcación fija</string>
     <string name="deleting_fdn_contact">Eliminando número de marcación fija…</string>
-    <string name="description_concat_format">%1$s, %2$s</string>
     <string name="description_delete_button">retroceso</string>
     <string name="description_dial_button">marcar</string>
     <string name="description_dialpad_back">Volver</string>
@@ -609,16 +607,6 @@ Selección"</string>
     <string name="dialog_cancel">Cancelar</string>
     <string name="dialog_network_priority_title">Red con prioridad</string>
     <string name="dialog_report">Reportar</string>
-    <string name="dialpad_eight">8</string>
-    <string name="dialpad_five">5</string>
-    <string name="dialpad_four">4</string>
-    <string name="dialpad_nine">9</string>
-    <string name="dialpad_one">1</string>
-    <string name="dialpad_seven">7</string>
-    <string name="dialpad_six">6</string>
-    <string name="dialpad_three">3</string>
-    <string name="dialpad_two">2</string>
-    <string name="dialpad_zero">0</string>
     <string name="direct_boot_unaware_dialog_message">Nota: Después de reiniciar, tienes que desbloquear el teléfono para que esta aplicación se pueda iniciar</string>
     <string name="disable">Desactivar</string>
     <string name="disable_all_cf">Desactivar todas las funciones de desvío de llamadas</string>
@@ -634,7 +622,7 @@ Selección"</string>
     <string name="disabled">Inhabilitada</string>
     <string name="disabled_by_admin">Deshabilitado por el administrador</string>
     <string name="disabled_by_admin_summary_text">Controlada por el administrador</string>
-    <string name="display_name_summary">&lt;El mismo que el usuario></string>
+    <string name="display_name_summary">&lt;El mismo que el usuario&gt;</string>
     <string name="display_name_title">Mostrar nombre</string>
     <string name="do_not_show_again">No mostrar de nuevo</string>
     <string name="domain_address_title">Servidor</string>
@@ -717,7 +705,6 @@ Selección"</string>
     <string name="enhanced_4g_lte_mode_title">Modo 4G LTE mejorado</string>
     <string name="enter_callbarring_password">Introduce la contraseña de restricción de llamadas (4 dígitos)</string>
     <string name="enter_input" formatted="false">El mensaje USSD debe tener entre %d y %d caracteres. Inténtalo de nuevo.</string>
-    <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin_text">PIN de tarjeta SIM:</string>
     <string name="entertainment_news_settings">Noticias de ocio</string>
     <string name="eo_disable">Oportunidades de trabajo desactivadas</string>
@@ -831,14 +818,6 @@ Póngase en contacto con su operador si el problema persiste."</string>
     <string name="ivr_mo_area_code_settings">Código de área actual</string>
     <string name="ivr_mo_area_code_settings_hint">Introduce tu código de área actual</string>
     <string name="ivr_parameter_settings">Parámetros de configuración IVR</string>
-    <string name="ivr_type_cm_1">M-Zone</string>
-    <string name="ivr_type_cm_2">GoTone</string>
-    <string name="ivr_type_cm_3">Easy own</string>
-    <string name="ivr_type_ct_1">China Telecom VIP</string>
-    <string name="ivr_type_ct_2">Cliente de China Telecom</string>
-    <string name="ivr_type_cu_1">China Unicom 3G</string>
-    <string name="ivr_type_cu_2">China Unicom 4G</string>
-    <string name="ivr_type_cu_3">China Unicom 2G</string>
     <string name="ivr_type_settings">Ajustes del plan de datos</string>
     <string name="ivr_type_settings_hint">Introduce tu código de plan de datos</string>
     <string name="jump_to_mobile_network_setting">Configuración de red móvil</string>
@@ -1004,7 +983,6 @@ Póngase en contacto con su operador si el problema persiste."</string>
     <string name="msim_not_set_summary">No establecido</string>
     <string name="msim_pref_title_data">Internet</string>
     <string name="msim_pref_title_voice">Marcar</string>
-    <string name="msim_select_default_time_left">(%d s)</string>
     <string name="msim_set_icc_card_error">Error de tarjeta ICC</string>
     <string name="msim_set_sub_not_supported_phone_in_call">No se puede establecer durante una llamada</string>
     <string name="msim_set_sub_not_supported_slot_id_error">Error de tarjeta SIM</string>
@@ -1051,8 +1029,6 @@ Se usarán las redes preferidas en su lugar."</string>
     <string name="network_settings_title">Redes móviles</string>
     <string name="network_settings_turn_off">Desactivada</string>
     <string name="network_settings_warn_message">Tu dispositivo sólo se conectará a las redes que selecciones manualmente.</string>
-    <string name="network_type_3g_preferred_cmcc">3G/2G</string>
-    <string name="network_type_4g_preferred_cmcc">4G/3G/2G</string>
     <string name="network_unlock">Desbloquear</string>
     <string name="networks_title">Redes móviles</string>
     <string name="newPin2Label">Nuevo PIN2</string>
@@ -1087,7 +1063,6 @@ Se usarán las redes preferidas en su lugar."</string>
     <string name="oldPin2Label">PIN2 antiguo</string>
     <string name="oldPinLabel">PIN antiguo</string>
     <string name="old_password_label">Contraseña actual de 4 dígitos</string>
-    <string name="old_pin2_label">PIN2</string>
     <string name="old_pin_label">PIN antiguo</string>
     <string name="onHold">En espera</string>
     <string name="onscreenAddCallText">Añadir llamada</string>
@@ -1105,7 +1080,7 @@ Se usarán las redes preferidas en su lugar."</string>
     <string name="opened_dual_4g_confirm_prompt">Parece que tienes una tarjeta SIM que solo soporta 4G. El 4G dual fue activado automáticamente.</string>
     <string name="opened_dual_4g_confirm_prompt_with_sim">La tarjeta SIM %1$s solo soporta 4G. Para asegurar que tu tarjeta SIM funciona con normalidad se ha activado el 4G dual.</string>
     <string name="operator">Operadora</string>
-    <string name="optional_summary">&lt;Opcional></string>
+    <string name="optional_summary">&lt;Opcional&gt;</string>
     <string name="osu_completing_sign_up">Completando registro…</string>
     <string name="osu_connect_failed">No se ha podido conectar</string>
     <string name="osu_opening_provider">Abriendo %1$s</string>
@@ -1150,36 +1125,36 @@ Inténtelo de nuevo o póngase en contacto con el servicio de atención al clien
     <string name="path_antispam_setting">Aplicaciones del sistema/Teléfono/Lista de bloqueo</string>
     <string name="path_app_name">Aplicaciones del sistema/Teléfono</string>
     <string name="path_auto_answer_pref_title">Aplicaciones del sistema/Teléfono/Respuesta automática</string>
-    <string name="path_auto_retry_mode_title">Aplicaciones del sistema/Teléfono/Configuración avanzada/Reintento auntomático</string>
-    <string name="path_call_advanced_settings_title">Aplicaciones del sistema/Teléfono/Configuración avanzada</string>
+    <string name="path_auto_retry_mode_title">Aplicaciones del sistema/Teléfono/Ajustes avanzados/Reintento auntomático</string>
+    <string name="path_call_advanced_settings_title">Aplicaciones del sistema/Teléfono/Ajustes avanzados</string>
     <string name="path_call_forwarding_settings">Aplicaciones del sistema/Teléfono/Ajustes de reenvío de llamadas</string>
     <string name="path_call_record_auto_title">Aplicaciones del sistema/Teléfono/Grabación de llamadas/Grabar llamadas automáticamente</string>
     <string name="path_call_record_setting">Aplicaciones del sistema/Teléfono/Grabación de llamada</string>
     <string name="path_call_recording_notification_toggle_title">Aplicaciones del sistema/Teléfono/Grabación de llamadas/Notificación de grabación de llamadas</string>
     <string name="path_call_waiting_title">Aplicaciones del sistema/Teléfono/Llamada en espera</string>
-    <string name="path_call_waiting_tone_title">Aplicaciones del sistema/Teléfono/Configuración avanzada/Notificación de llamada en espera</string>
-    <string name="path_caller_id_title">Aplicaciones del sistema/Teléfono/Configuración avanzada/Identificador de llamada</string>
+    <string name="path_call_waiting_tone_title">Aplicaciones del sistema/Teléfono/Ajustes avanzados/Notificación de llamada en espera</string>
+    <string name="path_caller_id_title">Aplicaciones del sistema/Teléfono/Ajustes avanzados/Identificador de llamada</string>
     <string name="path_cloud_antispam_title">Aplicaciones del sistema/Teléfono/Identificar números desconocidos</string>
-    <string name="path_connect_disconnect_vibrate_title">Aplicaciones del sistema/Teléfono/Configuración avanzada/Vibrar cuando se conteste la llamada</string>
+    <string name="path_connect_disconnect_vibrate_title">Aplicaciones del sistema/Teléfono/Ajustes avanzados/Vibrar cuando se conteste la llamada</string>
     <string name="path_crescendo_ringer_title">Aplicaciones del sistema/Teléfono/Ajustes de llamadas entrantes/Aumentar el volumen del tono</string>
-    <string name="path_dtmf_tones_title">Aplicaciones del sistema/Teléfono/Configuración avanzada/Tonos DTMF</string>
+    <string name="path_dtmf_tones_title">Aplicaciones del sistema/Teléfono/Ajustes avanzados/Tonos DTMF</string>
     <string name="path_enable_antispam_strange_title">Aplicaciones del sistema/Teléfono/Ajustes de llamadas entrantes/Silenciar primer tono</string>
     <string name="path_enable_proximity_title">Aplicaciones del sistema/Teléfono/Ajustes de llamadas entrantes/Sensor de proximidad</string>
-    <string name="path_fdn">Aplicaciones del sistema/Teléfono/Configuración avanzada/Marcación fija</string>
+    <string name="path_fdn">Aplicaciones del sistema/Teléfono/Ajustes avanzados/Marcación fija</string>
     <string name="path_flash_when_ring_title">Aplicaciones del sistema/Teléfono/Ajustes de llamadas entrantes/Flash al sonar</string>
     <string name="path_handon_ringer_title">Aplicaciones del sistema/Teléfono/Ajustes de llamadas entrantes/Parar tono al levantar</string>
-    <string name="path_missed_call_notify_times_title">Aplicaciones del sistema/Teléfono/Configuración avanzada/Recordatorios de llamadas perdidas</string>
-    <string name="path_preference_dial_pad_touch_tone_title">Aplicaciones del sistema/Teléfono/Configuración avanzada/Tonos del teclado de marcado</string>
+    <string name="path_missed_call_notify_times_title">Aplicaciones del sistema/Teléfono/Ajustes avanzados/Recordatorios de llamadas perdidas</string>
+    <string name="path_preference_dial_pad_touch_tone_title">Aplicaciones del sistema/Teléfono/Ajustes avanzados/Tonos del teclado de marcado</string>
     <string name="path_preference_telocation_title">Aplicaciones del sistema/Teléfono/Ubicación</string>
-    <string name="path_reject_via_sms">Aplicaciones del sistema/Teléfono/Configuración avanzada/Respuestas rápidas</string>
-    <string name="path_sip_settings">Aplicaciones del sistema/Teléfono/Configuración avanzada/Ajustes SIP</string>
-    <string name="path_t9_indexing_method_title">Aplicaciones del sistema/Teléfono/Configuración avanzada/Entrada de búsqueda T9</string>
+    <string name="path_reject_via_sms">Aplicaciones del sistema/Teléfono/Ajustes avanzados/Respuestas rápidas</string>
+    <string name="path_sip_settings">Aplicaciones del sistema/Teléfono/Ajustes avanzados/Ajustes SIP</string>
+    <string name="path_t9_indexing_method_title">Aplicaciones del sistema/Teléfono/Ajustes avanzados/Entrada de búsqueda T9</string>
     <string name="path_telocation_auto_country_code">Aplicaciones del sistema/Teléfono/Ubicación/Añadir código de país</string>
     <string name="path_telocation_contacts_countrycode">Aplicaciones del sistema/Teléfono/Ubicación/Código de país predeterminado</string>
     <string name="path_telocation_custom_location_title">Aplicaciones del sistema/Teléfono/Ubicación/Mis ubicaciones</string>
     <string name="path_telocation_enable_title">Aplicaciones del sistema/Teléfono/Ubicación/Mostrar ubicación</string>
     <string name="path_turnover_mute_title">Aplicaciones del sistema/Teléfono/Ajustes de llamadas entrantes/Dar la vuelta para silenciar la llamada</string>
-    <string name="path_voicemail_settings">Aplicaciones del sistema/Teléfono/Configuración avanzada/Ajustes de buzón de voz</string>
+    <string name="path_voicemail_settings">Aplicaciones del sistema/Teléfono/Ajustes avanzados/Ajustes de buzón de voz</string>
     <string name="pause_prompt_no">No</string>
     <string name="pause_prompt_str">"Enviando tonos
 "</string>
@@ -1246,7 +1221,6 @@ Su teléfono se bloqueará automáticamente después de otro intento fallido"</s
     <string name="power_remaining_less_than_duration_only">Tiempo restante: menos de %1$s</string>
     <string name="power_remaining_more_than_subtext">Queda más del %1$s (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Tiempo restante: más de %1$s</string>
-    <string name="power_remaining_settings_home_page">%1$s: %2$s</string>
     <string name="power_suggestion_extend_battery">Prolongar la duración de la batería después de las %1$s</string>
     <string name="prefered_network_type_3g_promp">Deberías desactivar VoLTE antes de seleccionar 3G como tu tipo de red preferido. ¿Desactivarlo ahora?</string>
     <string name="preference_auto_ip_summary_disable">Desactivar</string>
@@ -1258,7 +1232,6 @@ Su teléfono se bloqueará automáticamente después de otro intento fallido"</s
     <string name="preference_dial_pad_touch_tone_off">Desactivar</string>
     <string name="preference_dial_pad_touch_tone_piano">Teclas de piano</string>
     <string name="preference_dial_pad_touch_tone_title">Tono del teclado de llamada</string>
-    <string name="preference_summary_default_combination">%1$s/%2$s</string>
     <string name="preference_telocation_summary_countrycode_off">No añadir automáticamente el código del país</string>
     <string name="preference_telocation_summary_countrycode_on">Añadir automáticamente el código del país</string>
     <string name="preference_telocation_summary_teloc_off">Ocultar ubicación del contacto</string>
@@ -1345,7 +1318,7 @@ Su tarjeta SIM se bloqueará tras otro intento fallido."</string>
     <string name="register_automatically">Registro automático…</string>
     <string name="register_on_network">Registrándose en %s…</string>
     <string name="registration_done">Conexión con la red establecida.</string>
-    <string name="registration_status_checking_status">Comprobando estatus…</string>
+    <string name="registration_status_checking_status">Comprobando estatus...</string>
     <string name="registration_status_done">No se puede recibir llamadas.</string>
     <string name="registration_status_failed_try_later">No se pudo registrar la cuenta: %s. Se intentará más tarde.</string>
     <string name="registration_status_invalid_credentials">No se pudo registrar la cuenta: Nombre de usuario o contraseña incorrectas.</string>
@@ -1363,7 +1336,7 @@ Su tarjeta SIM se bloqueará tras otro intento fallido."</string>
     <string name="remove">Eliminar</string>
     <string name="remove_sip_account">Eliminar cuenta</string>
     <string name="removing_account">Eliminando la cuenta…</string>
-    <string name="requesting_unlock">Solicitando desbloqueo de red...</string>
+    <string name="requesting_unlock">Solicitando desbloqueo de red…</string>
     <string name="respond_via_sms_canned_response_1">Ahora no puedo hablar. ¿Puedes llamarme más tarde?</string>
     <string name="respond_via_sms_canned_response_2">Te llamo ahora.</string>
     <string name="respond_via_sms_canned_response_3">Te llamo más tarde.</string>
@@ -1395,9 +1368,9 @@ Su tarjeta SIM se bloqueará tras otro intento fallido."</string>
     <string name="roaming_notification_title">Parece ser que la itinerancia se encuentra activada</string>
     <string name="roaming_reenable_message">Prueba a usar roaming para conectar otra vez.</string>
     <string name="roaming_warning">Puede que se apliquen cargos adicionales.</string>
-    <string name="rtt_mode_more_information">"La función TTR (texto en tiempo real) ofrece asistencia a las personas sordas o con discapacidades auditivas, que tienen algún trastorno del habla o que necesitan una transcripción además de la voz para comunicarse.&lt;br> &lt;a href=http://support.google.com/mobile?p=telephony_rtt>Más información&lt;/a>
-       &lt;br>&lt;br> - Las llamadas de TTR se guardan como la transcripción de un mensaje.
-       &lt;br> - La función TTR no está disponible en videollamadas."</string>
+    <string name="rtt_mode_more_information">"La función TTR (texto en tiempo real) ofrece asistencia a las personas sordas o con discapacidades auditivas, que tienen algún trastorno del habla o que necesitan una transcripción además de la voz para comunicarse.&lt;br&gt; &lt;a href=http://support.google.com/mobile?p=telephony_rtt&gt;Más información&lt;/a&gt;
+      &lt;br&gt;&lt;br&gt; - Las llamadas de TTR se guardan como la transcripción de un mensaje.
+      &lt;br&gt; - La función TTR no está disponible en videollamadas."</string>
     <string name="rtt_mode_summary">Permitir mensajes en una llamada de voz</string>
     <string name="rtt_mode_title">Llamada de texto en tiempo real (TTR)</string>
     <string name="running_process_item_user_label">Usuario: %1$s</string>
@@ -1552,7 +1525,6 @@ Su tarjeta SIM se bloqueará tras otro intento fallido."</string>
     <string name="sum_select_automatically">Seleccionar automáticamente red preferida</string>
     <string name="sum_show_caller_id">Número mostrado en llamadas salientes</string>
     <string name="sum_voicemail_choose_provider">Seleccionar servicio de buzón de voz</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="supp_service_additional_call_forwarded">Se ha desviado una de las llamadas.</string>
     <string name="supp_service_additional_ect_connected">Se ha completado la transferida explícita de la llamada.</string>
     <string name="supp_service_additional_ect_connecting">La transferencia explícita de la llamada está en curso.</string>
@@ -1576,10 +1548,7 @@ Su tarjeta SIM se bloqueará tras otro intento fallido."</string>
     <string name="supp_service_over_ut_precautions_roaming">Para utilizar %s, los datos móviles y la itinerancia de datos deben estar activados. Puedes cambiar estas opciones en los ajustes de red móvil.</string>
     <string name="supp_service_over_ut_precautions_roaming_dual_sim">Para utilizar %1$s, los datos móviles y la itinerancia de datos deben estar activados en la SIM %2$d. Puedes cambiar estas opciones en los ajustes de red móvil.</string>
     <string name="switch_dds_to_sub_alert">Establece esta tarjeta como tu tarjeta de datos por defecto.</string>
-    <string name="system_visual_voicemail_client" />
-    <string name="t9_indexing_method_pinyin">Pinyin</string>
     <string name="t9_indexing_method_title">Configuración de búsqueda T9</string>
-    <string name="t9_indexing_method_zhuyin">Zhuyin</string>
     <string name="t9_indexing_rebuilding_message">Recontruyendo índices T9…</string>
     <string name="tap_to_sign_up">Toca para registrarte</string>
     <string name="technology_news_disable">Noticias de tecnología desactivadas</string>
@@ -1674,7 +1643,7 @@ El próximo período comienza en %2$d días (%3$s)"</string>
     <string name="tts_reset_speech_pitch_title">Restablecer el tono de voz</string>
     <string name="tts_settings">Ajustes de síntesis de voz</string>
     <string name="tts_settings_title">Síntesis de voz</string>
-    <string name="tts_status_checking">Comprobando...</string>
+    <string name="tts_status_checking">Comprobando…</string>
     <string name="tts_status_not_supported">No se admite el %1$s</string>
     <string name="tts_status_ok">El %1$s se admite completamente</string>
     <string name="tts_status_requires_network">El idioma %1$s requiere conexión a Internet</string>
@@ -1752,7 +1721,7 @@ Esta tablet no cuenta con un altavoz. Puedes cambiar al modo manos libres o usar
     <string name="voicemail_default">Su operadora</string>
     <string name="voicemail_notification_vibrate_when_title">Vibrar</string>
     <string name="voicemail_notifications_preference_title">Notificaciones</string>
-    <string name="voicemail_number_not_set">&lt;No definido></string>
+    <string name="voicemail_number_not_set">&lt;No definido&gt;</string>
     <string name="voicemail_provider">Servicio</string>
     <string name="voicemail_provider_summary">Selecciona un servicio de buzón de voz</string>
     <string name="voicemail_set_pin_dialog_title">Configurar PIN</string>
@@ -1840,7 +1809,6 @@ Las llamadas de emergencia están solo disponibles en áreas con cobertura móvi
     <string name="zen_alarm_warning">No oirás la próxima alarma (%1$s)</string>
     <string name="zen_alarm_warning_indef">Solo oirás la próxima alarma (%1$s) si desactivas esta opción antes</string>
     <string name="zen_interruption_level_priority">Solo interrupciones prioritarias</string>
-    <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="zen_mode_duration_always_prompt_title">Preguntar siempre</string>
     <string name="zen_mode_duration_settings_title">Duración</string>
     <string name="zen_mode_enable_dialog_turn_on">Activar</string>

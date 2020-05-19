@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Approval">Solicitar</string>
+    <string name="Xiaomi_account_pending_approval">Revisando solicitud</string>
     <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
     <string name="abc_action_bar_up_description">Ir hacia arriba</string>
     <string name="abc_action_menu_overflow_description">Más</string>
@@ -27,10 +29,6 @@
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
-    <string name="search_menu_title">Buscar</string>
-    <string name="status_bar_notification_info_overflow">+999</string>
-    <string name="Approval">Solicitar</string>
-    <string name="Xiaomi_account_pending_approval">Revisando solicitud</string>
     <string name="about_title">Acerca de</string>
     <string name="access_sd_fail">No se pudo acceder a la tarjeta SD</string>
     <string name="accessibility_shutter_button">Obturador</string>
@@ -49,7 +47,6 @@
     <string name="back">Atrás</string>
     <string name="barcode_into_rectangle">Coloca el código dentro del recuadro</string>
     <string name="birthday">Cumpleaños:</string>
-    <string name="blog">Weibo</string>
     <string name="business_card">Tarjeta de visita</string>
     <string name="business_card_result_title">Tarjeta de visita</string>
     <string name="business_card_title">Coloca la tarjeta de visita dentro del recuadro</string>
@@ -77,7 +74,7 @@
     <string name="common_retry">Inténtalo de nuevo</string>
     <string name="common_save">Guardar</string>
     <string name="company">Empresa:</string>
-    <string name="confirm">OK </string>
+    <string name="confirm">ACEPTAR </string>
     <string name="connect_wifi">Conectarse a esta red</string>
     <string name="contact_details">Código QR de contacto:</string>
     <string name="continue_access_web_url">Ir a la web</string>
@@ -95,7 +92,6 @@
     <string name="document_crop_title">Recortar documento</string>
     <string name="document_grayscale">Escala de grises</string>
     <string name="document_grayscale_tip_msg">Convirtiendo a escala de grises…</string>
-    <string name="document_ocr">OCR</string>
     <string name="document_ocr_result_copy">Copiar texto</string>
     <string name="document_ocr_result_save">Guardar en Notas</string>
     <string name="document_ocr_result_title">Foto del documento</string>
@@ -145,11 +141,10 @@
     <string name="got_it">Entendido</string>
     <string name="gps">Navegar</string>
     <string name="import_contact">Importar contacto</string>
-    <string name="impunity_declaration_content">El Escáner necesita usar tu cámara y procesar las imágenes que tomas al usar la aplicación. No uses el Escáner para tomar fotos de objetos que contengan información personal. Al pulsar \"Acertar\" estás aceptando nuestra &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Política de Privacidad&lt;/a>&lt;/font> y permitiendo al Escáner conectarse a internet.</string>
+    <string name="impunity_declaration_content">El Escáner necesita usar tu cámara y procesar las imágenes que tomas al usar la aplicación. No uses el Escáner para tomar fotos de objetos que contengan información personal. Al pulsar \"Acertar\" estás aceptando nuestra &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt; y permitiendo al Escáner conectarse a internet.</string>
     <string name="impunity_declaration_negative_text">Salir</string>
     <string name="impunity_declaration_title">Política de Privacidad</string>
     <string name="jd_shopping_title">Buscar en JD</string>
-    <string name="jingdong">JD</string>
     <string name="kuaidi100_data">Desarrollado por Kuaidi 100</string>
     <string name="label_choose_picture">Elegir imagen</string>
     <string name="label_flash_light">Flash</string>
@@ -169,7 +164,6 @@
     <string name="miracast_message">¿Emitir a %s?</string>
     <string name="miracast_switch_off">Dispositivo inalámbrico desactivado</string>
     <string name="miracast_switch_tip">Activar dispositivo inalámbrico para usar esta función</string>
-    <string name="mishop">Tienda Mi</string>
     <string name="module_title_business_card">Tarjeta de visita</string>
     <string name="module_title_code">Código QR</string>
     <string name="module_title_document">Documento</string>
@@ -217,23 +211,23 @@
     <string name="scan_result">Resultado</string>
     <string name="scan_support_type">WeChat, Alipay, códigos QR, códigos de barras</string>
     <string name="sdk_not_ready">Preparando SDK. Inténtalo de nuevo más tarde.</string>
+    <string name="search_menu_title">Buscar</string>
     <string name="secure_access_web_url">Ir a la web</string>
     <string name="see_app_details">Ver detalles de la aplicación</string>
     <string name="see_details">Pulsa para ver detalles</string>
-    <string name="select_dialog_confirm">OK </string>
+    <string name="select_dialog_confirm">ACEPTAR </string>
     <string name="send_mail">Enviar correo electrónico</string>
-    <string name="setting_alipay">Alipay</string>
     <string name="setting_choose_every_time">Preguntar siempre</string>
     <string name="setting_default_function">Función por defecto</string>
     <string name="setting_function_sort">Reorganizar funciones</string>
     <string name="setting_preference_pay">Método de pago preferido</string>
     <string name="setting_title">Ajustes</string>
     <string name="setting_use_last_choose">Recordar elección previa</string>
-    <string name="setting_wechat">WeChat</string>
     <string name="shopping_searching">Buscando…</string>
     <string name="shopping_title">Toma una foto del producto</string>
     <string name="shopping_vendor_info">Desarrollado por Taobao</string>
     <string name="spaceIsLow_content">No hay suficiente espacio en el almacenamiento interno. Libera algo de espacio.</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="store_feedback_prompt">Introduce tus comentarios primero</string>
     <string name="store_location_dialog">Este servicio es proporcionado por Dianping. Todas las fotos que tomas al usar este servico, incluyendo la información local relacionada serán compartidas con Dianping con el fin de obtener información acerca de las tiendas.</string>
     <string name="store_location_fail">No se pudo obtener la información de ubicación</string>
@@ -283,7 +277,7 @@
     <string name="translation_see_more">Ver definición</string>
     <string name="translation_type_sentence">Frase</string>
     <string name="translation_type_word">Palabra</string>
-    <string name="uninstall_prompt">Si se produce un problema durante la instalación, ve a Ajustes > Aplicaciones > Administrar aplicaciones > Escáner, pulsa \"Desinstalar\" y vuelve a instalar la aplicación.</string>
+    <string name="uninstall_prompt">Si se produce un problema durante la instalación, ve a Ajustes &gt; Aplicaciones &gt; Administrar aplicaciones &gt; Escáner, pulsa \"Desinstalar\" y vuelve a instalar la aplicación.</string>
     <string name="url_is_phish">Esta web parece ser una página de suplantación de identidad</string>
     <string name="url_is_safety">Esta web es segura</string>
     <string name="url_is_unknown">No se pudo comprobar si esta web es segura</string>
@@ -300,7 +294,6 @@
     <string name="wifi_psd_toolong">Esta contraseña es demasiado larga. Introduce la contraseña manualmente.</string>
     <string name="wifi_pwd">Contraseña:</string>
     <string name="wifi_security">Seguridad:</string>
-    <string name="wifi_ssid">SSID:</string>
     <string name="will_be_sent_tothe_background_review">" (Tu solicitud será pronto revisada)"</string>
     <string name="wx_not_installed_toast">Esta función necesita usar WeChat. Instala WeChat primero.</string>
     <string name="xiaoai_dialog">"Prueba a decir a Mi IA

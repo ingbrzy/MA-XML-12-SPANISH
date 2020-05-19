@@ -61,9 +61,6 @@
     <string name="dialog_privacy_revoke_tips">Después de revocar la autorización, la aplicación dejará de recopilar datos y todos los datos relacionados se eliminarán de los servidores. Esto podría hacer que la aplicación sea prácticamente inutilizable. ¿Deseas revocar la autorización? Para garantizar la seguridad de tu cuenta, inicia sesión en i.mi.com antes de revocar la autorización de los servicios de Xiaomi Cloud.</string>
     <string name="dialog_title_storage_full">No hay suficiente espacio</string>
     <string name="download">Descargar</string>
-    <string name="duration_format_hour">%sh</string>
-    <string name="duration_format_minute">%sm</string>
-    <string name="duration_format_second">%ss</string>
     <string name="empty_recognition_tip">Vacío</string>
     <string name="err_msg_abandon">El pedido fue abandonado</string>
     <string name="err_msg_complete">Se completó el pedido</string>
@@ -159,7 +156,6 @@
     <string name="online_recognize_service_unavailable">El servicio no está disponible ahora. Espera uno o dos minutos y vuelve a intentarlo.</string>
     <string name="order_item_duration">Duración： %s</string>
     <string name="order_item_number">Número del pedido: %s</string>
-    <string name="order_item_price">%s CNY</string>
     <string name="path_soundrecorder_setting">Aplicaciones del sistema/Grabadora</string>
     <string name="pause">Pausa</string>
     <string name="pay_error_cancel">El pago fue cancelado</string>
@@ -244,8 +240,6 @@
     <string name="record_list_fm">Grabaciones FM</string>
     <string name="record_list_item_recognize_text">Texto</string>
     <string name="record_mark_point">Marcar %s</string>
-    <string name="record_name_hour">.</string>
-    <string name="record_name_minute" />
     <string name="record_quliaty_preference_title">Calidad de grabación</string>
     <string name="record_resotre">Recuperar registros</string>
     <string name="recording">Grabando</string>
@@ -293,10 +287,8 @@
     <string name="speech_recognition_running_tip">"Procesando "</string>
     <string name="start">Reanudar</string>
     <string name="status_bar_back">Pulse para volver a la grabadora</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recording">Grabando…</string>
     <string name="status_bar_recording_pause">Grabación en pausa</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="text_btn_backward_3_seconds">3 segundos atrás</string>
     <string name="text_btn_complete">Detener</string>
     <string name="text_btn_forward_3_seconds">3 segundos adelante</string>
@@ -313,9 +305,6 @@
     <string name="text_play_speed_1_0">Velocidad de reproducción normal</string>
     <string name="text_play_speed_1_5">Velocidad de reproducción 1.5X</string>
     <string name="text_play_speed_2_0">Velocidad de reproducción 2X</string>
-    <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
-    <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">%1$s puede grabar hasta %2$s</string>
     <string name="toast_uninstall_fileexplorer">El Gestor de archivos no está instalado</string>
     <string name="usage_description">Transcribiendo audio y sincronizando elementos con la nube</string>

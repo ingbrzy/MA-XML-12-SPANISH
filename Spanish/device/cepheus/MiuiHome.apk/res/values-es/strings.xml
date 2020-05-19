@@ -103,7 +103,6 @@
     <string name="announce_for_show_uninstall_dialog">Apareció un diálogo de desinstalación. Cancela o confirma.</string>
     <string name="announce_for_unchecked">%1$s sin comprobar</string>
     <string name="announce_for_widget_span">Ancho %1$d, alto %2$d</string>
-    <string name="announce_for_xiaoai">Mi IA</string>
     <string name="app_already_exist">La aplicación ya existe</string>
     <string name="app_being_backup_message">La aplicación está siendo copiada</string>
     <string name="app_being_restored_message">La aplicación se está restaurando</string>
@@ -123,8 +122,6 @@
     <string name="app_category_sport">Deportes</string>
     <string name="app_category_tools">Herramientas</string>
     <string name="app_category_travel">Viajes</string>
-    <string name="app_category_vr">VR</string>
-    <string name="app_name">smallWindow</string>
     <string name="application_name">Lanzador del sistema</string>
     <string name="apply">Establecer</string>
     <string name="apply_action">Establecer</string>
@@ -166,10 +163,13 @@
     <string name="chooser_wallpaper">Selecciona un nuevo fondo de pantalla</string>
     <string name="cloud_app_restore_title">Pendiente</string>
     <string name="configure_wallpaper">Ajustes</string>
-    <string name="confirm_btn_label">OK </string>
+    <string name="confirm_btn_label">ACEPTAR </string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Las aplicaciones duales se desinstalarán junto con estas.</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">La aplicación dual se desinstalará junto con esta.</string>
     <string name="confirm_uninstall_dialog_title">Las aplicaciones duales serán desinstaladas</string>
+    <string name="content_description_button_add">Toque para agregar a las aplicaciones actuales</string>
+    <string name="content_description_button_disable">"No se pueden agregar más aplicaciones actuales"</string>
+    <string name="content_description_button_remove">Toque para eliminar de las aplicaciones actuales</string>
     <string name="content_description_for_shortcut_icon_checked">%1$s, comprobado</string>
     <string name="content_description_shortcut_icon_unchecked">%1$s sin comprobar</string>
     <string name="content_description_workspace_thumbnail_item">Previsualización de la pantalla, página %1$s</string>
@@ -189,7 +189,6 @@
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Herramientas</string>
     <string name="default_screen_preview_title">Establecer pantalla predeterminada</string>
-    <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">Eliminar</string>
     <string name="delete_category_dialog_content">No podrás restaurar esta categoría si la eliminas. ¿Eliminar de todos modos?</string>
     <string name="delete_category_dialog_title">¿Eliminar esta categoría?</string>
@@ -197,9 +196,8 @@
     <string name="delete_wallpaper_message">¿Eliminar %1$d fondo de pantalla?</string>
     <string name="deselect_all">Deseleccionar todo</string>
     <string name="disable_wallpaper_scroll">Desactivar desplazamiento entre pantallas</string>
+    <string name="double_tap_to_lock_title">Toca dos veces para bloquear la pantalla</string>
     <string name="download_action">Descargar</string>
-    <string name="drag_multiple_item_name" />
-    <string name="drag_single_item_name" />
     <string name="drawer_background">Fondos</string>
     <string name="drawer_background_dark">Oscuro</string>
     <string name="drawer_background_light">Claro</string>
@@ -288,6 +286,7 @@
     <string name="guide_install_app_msg">Esta aplicación no está instalada en el dispositivo. ¿Quieres encontrar e instalar la aplicación ahora?</string>
     <string name="guide_install_app_title">¿Encontrar e instalar aplicación?</string>
     <string name="guide_tips_editing_mode">Mantén pulsado para seleccionar un acceso rápido</string>
+    <string name="hide_apps_title">Ocultar iconos de aplicaciones</string>
     <string name="home_gesture_content_center">Centro de contenido</string>
     <string name="home_gesture_global_search">Buscar</string>
     <string name="home_gesture_no_action">Nada</string>
@@ -303,6 +302,8 @@
     <string name="invalid_contact_shortcut">Contacto no válido</string>
     <string name="is_setting_wallpaper_message">Estableciendo fondo de pantalla…</string>
     <string name="is_system_wallpaper_message">No se pueden eliminar recursos del sistema</string>
+    <string name="launcher_global_search_mode_title">Búsqueda global</string>
+    <string name="launcher_global_search_provider_title">Proveedor de búsqueda global</string>
     <string name="launcher_not_exist">Ha ocurrido un error. Vuelve a la Pantalla de inicio y vuelve a intentarlo.</string>
     <string name="launcher_pull_down_title">Deslizar hacia abajo en la Pantalla de inicio</string>
     <string name="launcher_search_bar_title">Barra de búsqueda de la Pantalla de inicio</string>
@@ -351,6 +352,14 @@
     <string name="mi_wallpaper">Temas MIUI</string>
     <string name="minus_one_screen">Bóveda de aplicaciones</string>
     <string name="miui_screen_config_title">Ajustes de Pantalla de inicio</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tire hacia abajo para actualizar</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelte para actualizar</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar elementos"</string>
     <string name="mtzgadget_missing_text">El widget no está disponible</string>
     <string name="multi_selecting_tips">Para seleccionar una aplicación, arrastra el icono hasta aquí.</string>
     <string name="no_detail_page">No hay detalles de página</string>
@@ -429,7 +438,6 @@
     <string name="recents_title_market">Encontrar aplicaciones</string>
     <string name="recents_title_security_scan">Análisis de seguridad</string>
     <string name="recents_tv_small_window_text">Ventanas flotantes</string>
-    <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_app">Sugerencias de aplicaciones</string>
     <string name="recommend_apps_default_title">Vacío</string>
     <string name="recommend_apps_no_data">Sin datos</string>
@@ -485,15 +493,12 @@
     <string name="sort_by_not_defined">Ordenar automáticamente</string>
     <string name="start_activity_failed">No se puede iniciar lanzador</string>
     <string name="starting_preset_app">Iniciando…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_info1">%1$sB de %2$sB disponibles</string>
-    <string name="status_bar_recent_memory_info2" />
     <string name="status_downloaded">Descargado</string>
     <string name="status_downloading">Descargando</string>
     <string name="status_installing">Instalando</string>
     <string name="status_paused">Pausado</string>
     <string name="status_pending">En espera</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="switch_personal_assistant_app_vault">Bóveda de aplicaciones</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Nada</string>
@@ -541,19 +546,4 @@
     <string name="widget_global_search">Buscar</string>
     <string name="widget_quick_function">Funciones rápidas</string>
     <string name="widgets_preview_title">Añadir widget</string>
-    <string name="content_description_button_add">Toque para agregar a las aplicaciones actuales</string>
-    <string name="content_description_button_disable">"No se pueden agregar más aplicaciones actuales"</string>
-    <string name="content_description_button_remove">Toque para eliminar de las aplicaciones actuales</string>
-    <string name="double_tap_to_lock_title">Toca dos veces para bloquear la pantalla</string>
-    <string name="hide_apps_title">Ocultar iconos de aplicaciones</string>
-    <string name="launcher_global_search_mode_title">Búsqueda global</string>
-    <string name="launcher_global_search_provider_title">Proveedor de búsqueda global</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tire hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelte para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar elementos"</string>
 </resources>
