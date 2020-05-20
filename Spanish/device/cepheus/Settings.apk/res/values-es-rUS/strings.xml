@@ -1221,7 +1221,6 @@ calidad de reproducción"</string>
 Si ya ha realizado alguna de las acciones anteriores, vuelva a agregar su Cuenta Mi o no podrá desbloquear su dispositivo."</string>
     <string name="bootloader_tips_ok">Entendido</string>
     <string name="bootloader_tips_warning">No se desconecte de la red, cierre sesión en su Cuenta Mi, realice una restauración de fábrica o elimine los datos del sistema.</string>
-    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">Color de luz</string>
     <string name="breathing_light_color_summary">Color de luz al recibir una nueva notificación</string>
     <string name="breathing_light_freq_summary">Parpadear cuando tenga nuevas notificaciones</string>
@@ -1978,7 +1977,6 @@ Si el problema persiste, es posible que debas desinstalar la app para mejorar el
     <string name="dialog_title_hdmi_color_calibration">Configuración de corrección de color</string>
     <string name="dialog_title_login">Iniciar sesión con su Cuenta Mi</string>
     <string name="dialog_yes">Sí</string>
-    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Nota: después de reiniciar, deberá desbloquear el teléfono para usar esta aplicación</string>
     <string name="disable_overlays">Desactivar superposiciones HW</string>
     <string name="disable_overlays_summary">Siempre usar GPU para renderización de pantalla</string>
@@ -2048,7 +2046,6 @@ Si el problema persiste, es posible que debas desinstalar la app para mejorar el
     <string name="dndm_auto_button_title">Repetir hora de no molestar</string>
     <string name="dndm_auto_setting_group">Programado</string>
     <string name="dndm_auto_time_setting">Establecer hora</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">Hasta</string>
     <string name="dndm_auto_time_turn_off_title">Desactivar automáticamente modo no molestar</string>
     <string name="dndm_auto_time_turn_on">Desde</string>
@@ -3447,7 +3444,6 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="memory_title">Disponible: %1$s\u0009\u0009Total: %2$s</string>
     <string name="memory_usage">Uso de la memoria</string>
     <string name="memory_usage_apps">Memoria que utilizan las aplicaciones</string>
-    <string name="memory_use_running_format">%1$s/%2$s</string>
     <string name="memory_use_summary">Se utilizó un promedio de %1$s de memoria en las últimas tres horas</string>
     <string name="menu_cancel">Descartar</string>
     <string name="menu_check">Experiencia</string>
@@ -3855,7 +3851,6 @@ Seleccione su sistema operativo:"</string>
     <string name="nfc_how_it_works_got_it">Entendido</string>
     <string name="nfc_how_it_works_title">Cómo pagar en la terminal</string>
     <string name="nfc_more_title">Más…</string>
-    <string name="nfc_payment_app_and_desc">%1$s: %2$s</string>
     <string name="nfc_payment_default">App de pago predeterminada</string>
     <string name="nfc_payment_default_not_set">Sin establecer</string>
     <string name="nfc_payment_favor_default">Siempre usar la aplicación por defecto</string>
@@ -4163,7 +4158,6 @@ OTG se desactiva automáticamente después de 10 minutos de inactividad."</strin
     <string name="overlay_settings">Mostrar sobre otras apps</string>
     <string name="overlay_toast_failed_to_apply">Error al aplicar superposición</string>
     <string name="owner_info_settings_edit_text_hint">Por ejemplo, Android de Juan</string>
-    <string name="owner_info_settings_status">%1$d/%2$d</string>
     <string name="owner_info_settings_summary">Ninguno</string>
     <string name="owner_info_settings_title">Firma en la pantalla de bloqueo</string>
     <string name="owner_space">Espacio principal</string>
@@ -4314,7 +4308,6 @@ OTG se desactiva automáticamente después de 10 minutos de inactividad."</strin
     <string name="power_cell">Red móvil en modo de espera</string>
     <string name="power_center">Optimización de batería</string>
     <string name="power_charge_remaining">Carga completa en %1$s</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s para carga completa</string>
     <string name="power_checker">Verificador de energía</string>
     <string name="power_discharge_by">Debería de durar hasta %1$s (%2$s)</string>
@@ -4354,7 +4347,6 @@ OTG se desactiva automáticamente después de 10 minutos de inactividad."</strin
     <string name="power_remaining_less_than_duration_only">Menos de %1$s restante</string>
     <string name="power_remaining_more_than_subtext">Más de %1$s restante (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Más de %1$s restante</string>
-    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">Pantalla</string>
     <string name="power_settings_title">Rendimiento del sistema</string>
     <string name="power_suggestion_extend_battery">Extender duración de la batería pasando las %1$s</string>
@@ -4575,8 +4567,6 @@ OTG se desactiva automáticamente después de 10 minutos de inactividad."</strin
     <string name="private_sms_recording_intro_header">Dibuje un patrón de desbloqueo:</string>
     <string name="private_sms_reset_by_account">Inicie sesión en su Cuenta Mi para restablecer su contraseña</string>
     <string name="process_dex2oat_label">Optimización de las aplicaciones</string>
-    <string name="process_format">%1$s (%2$d)</string>
-    <string name="process_kernel_label">SO Android</string>
     <string name="process_mediaserver_label">Servidor de medios</string>
     <string name="process_provider_in_use_description">El proveedor %1$s está en uso.</string>
     <string name="process_service_in_use_description">El servicio %1$s está en uso.</string>
@@ -5290,7 +5280,6 @@ Para usar esta función:
     <string name="security_encryption_attention_3">Deberá definir una nueva contraseña de pantalla de bloqueo.</string>
     <string name="security_encryption_attention_4">Asegúrese de recordar la contraseña de pantalla de bloqueo o tendrá que realizar una restauración de fábrica y eliminar todos los datos del dispositivo para volver a usarlo.</string>
     <string name="security_encryption_attention_info">Puede encriptar cuentas, ajustes, aplicaciones descargadas y sus datos, medios y otros archivos.</string>
-    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Importante</string>
     <string name="security_encryption_close_dialog_info">No encriptar el dispositivo usando la contraseña de pantalla de bloqueo podría hacer que algunos servicios de Google no estén disponibles.</string>
     <string name="security_encryption_close_dialog_title">Regresar a la protección de contraseña por defecto</string>
@@ -5613,7 +5602,6 @@ PIN posiblemente incorrecto."</string>
     <string name="sim_select_card">Seleccionar una tarjeta SIM</string>
     <string name="sim_selection_channel_title">Selección de SIM</string>
     <string name="sim_selection_required_pref">Selección requerida</string>
-    <string name="sim_settings_summary">%1$s (%2$s)</string>
     <string name="sim_settings_title">Tarjetas SIM</string>
     <string name="sim_setup_wizard_title">Tarjetas SIM</string>
     <string name="sim_signal_strength">%1$d dBm y %2$d asu</string>
@@ -5629,7 +5617,6 @@ PIN posiblemente incorrecto."</string>
     <string name="size_kilo_byte">kB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_anyway_button_label">Omitir</string>
     <string name="skip_label">Omitir</string>
@@ -5756,10 +5743,8 @@ Esto ocurre porque hay una credencial de confianza instalada en el dispositivo."
     <string name="status_bar_app_enable_keyguard">Pantalla de bloqueo</string>
     <string name="status_bar_app_enable_message">Íconos</string>
     <string name="status_bar_carrier_settings_no_sim_card">No hay tarjeta SIM</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_settings">Notificaciones y barra de estado</string>
     <string name="status_bar_settings_all_app_display_loading">Un momento…</string>
-    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_manage_notification">Notificaciones de aplicaciones</string>
     <string name="status_bar_settings_notification_bar">Panel de notificaciones</string>
     <string name="status_bar_settings_status_bar">Barra de estado</string>
@@ -6008,7 +5993,6 @@ Intenta usar un ^3 más rápido o usa ^4 como almacenamiento portátil."</string
     <string name="sum_carrier_select">Elegir un operador de red</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_divider_text">", "</string>
-    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">De %1$s a %2$s</string>
     <string name="supl_not_set">&lt;No establecido></string>
     <string name="support_summary">Artículos de ayuda, teléfono y chat, comenzar</string>
@@ -7680,10 +7664,8 @@ Cuando desactives No interrumpir, desliza el dedo hacia abajo desde la parte sup
     <string name="zone_auto_summaryOn">Usar la hora proporcionada por el operador</string>
     <string name="zone_auto_title">Usar la zona horaria proporcionada por la red</string>
     <string name="zone_change_to_from_dst">%1$s a partir del %2$s</string>
-    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer">Zona horaria: %1$s (%2$s a partir del %3$s).</string>
     <string name="zone_info_footer_no_dst">Zona horaria: %1$s. Sin horario de verano.</string>
-    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_list_menu_sort_alphabetically">Ordenar alfabéticamente</string>
     <string name="zone_list_menu_sort_by_timezone">Ordenar por zona horaria</string>
     <string name="zone_menu_by_offset">Seleccionar por desplazamiento de UTC</string>
