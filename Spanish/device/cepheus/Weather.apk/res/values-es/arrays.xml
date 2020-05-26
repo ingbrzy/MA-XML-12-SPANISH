@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="aqi_detail_title">
+    <string-array name="aqi_detail_title">
         <item>Bueno</item>
         <item>Moderado</item>
         <item>Insalubre para los grupos sensibles</item>
         <item>Insalubre</item>
         <item>Muy insalubre</item>
         <item>Peligroso</item>
-     </string-array>
-     <string-array name="aqi_title">
+    </string-array>
+    <string-array name="aqi_title">
         <item>%1$s</item>
         <item>%1$s</item>
         <item>%1$s</item>
         <item>%1$s</item>
         <item>%1$s</item>
         <item>%1$s</item>
-     </string-array>
-     <string-array name="aqi_title_append">
+    </string-array>
+    <string-array name="aqi_title_append">
         <item>%1$s</item>
         <item>%1$s</item>
         <item>%1$s</item>
         <item>%1$s</item>
         <item>%1$s</item>
         <item>%1$s</item>
-     </string-array>
-     <string-array name="aqi_title_prefix">
+    </string-array>
+    <string-array name="aqi_title_prefix">
         <item>ICA %1$s</item>
         <item>ICA %1$s</item>
         <item>ICA %1$s</item>
         <item>ICA %1$s</item>
         <item>ICA %1$s</item>
         <item>ICA %1$s</item>
-     </string-array>
-     <string-array name="aqi_value">
+    </string-array>
+    <string-array name="aqi_value">
         <item>Bueno</item>
         <item>Aceptable</item>
         <item>Moderadamente contaminado</item>
@@ -40,15 +40,15 @@
         <item>Considerablemente malo</item>
         <item>Muy malo</item>
         <item>Excede el índice</item>
-     </string-array>
-     <string-array name="breeze">
+    </string-array>
+    <string-array name="breeze">
         <item>&lt;Fuerza 2</item>
         <item>&lt;6.0km/h</item>
         <item>&lt;1.7m/s</item>
         <item>&lt;3.7mph</item>
         <item>&lt;3.2kn</item>
-     </string-array>
-     <string-array name="hot_city">
+    </string-array>
+    <string-array name="hot_city">
         <item>Beijing</item>
         <item>Shanghai</item>
         <item>Hong Kong</item>
@@ -71,13 +71,13 @@
         <item>Bangkok</item>
         <item>Seúl</item>
         <item>Kuala Lumpur</item>
-     </string-array>
-     <string-array name="minute_rain_array">
+    </string-array>
+    <string-array name="minute_rain_array">
         <item>Torrencial</item>
         <item>Moderado</item>
         <item>Bajo</item>
-     </string-array>
-     <string-array name="pollution_level_desc_arr">
+    </string-array>
+    <string-array name="pollution_level_desc_arr">
         <item>Excelente</item>
         <item>Buena</item>
         <item>Levemente contaminado</item>
@@ -85,8 +85,8 @@
         <item>Muy contaminado</item>
         <item>Seriamente contaminado</item>
         <item>Excede el índice</item>
-     </string-array>
-     <string-array name="weather_type">
+    </string-array>
+    <string-array name="weather_type">
         <item>Despejado</item>
         <item>Nublado</item>
         <item>Cubierto</item>
@@ -114,8 +114,8 @@
         <item>Neblina</item>
         <item>Aguanieve</item>
         <item></item>
-     </string-array>
-     <string-array name="wind_direction">
+    </string-array>
+    <string-array name="wind_direction">
         <item>Norte</item>
         <item>Noreste</item>
         <item>Este</item>
@@ -124,8 +124,8 @@
         <item>Suroeste</item>
         <item>Oeste</item>
         <item>Noroeste</item>
-     </string-array>
-     <string-array name="wind_direction_simple">
+    </string-array>
+    <string-array name="wind_direction_simple">
         <item>N</item>
         <item>NE</item>
         <item>E</item>
@@ -134,8 +134,8 @@
         <item>SO</item>
         <item>O</item>
         <item>NO</item>
-     </string-array>
-     <string-array name="wind_power">
+    </string-array>
+    <string-array name="wind_power">
         <item>0</item>
         <item>1</item>
         <item>2</item>
@@ -149,19 +149,19 @@
         <item>10</item>
         <item>11</item>
         <item>12</item>
-     </string-array>
-     <string-array name="wind_unit_detail">
+    </string-array>
+    <string-array name="wind_unit_detail">
         <item>Escala Beaufort</item>
         <item>Kilómetros por hora (km/h)</item>
         <item>Metros por segundo (m/s)</item>
         <item>Millas por hora (mph)</item>
         <item>Nudos (kn)</item>
-     </string-array>
-     <string-array name="wind_unit_replace">
+    </string-array>
+    <string-array name="wind_unit_replace">
         <item>Fuerza %1$s</item>
         <item>%1$skm/h</item>
         <item>%1$sm/s</item>
         <item>%1$smph</item>
         <item>%1$skn</item>
-     </string-array>
+    </string-array>
 </resources>
