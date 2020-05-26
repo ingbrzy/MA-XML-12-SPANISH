@@ -12,6 +12,16 @@
         <item quantity="other">Haciendo respaldo de canciones, %1$d canciiones restantes (%2$.1fMB)</item>
         <item quantity="one">Haciendo respaldo de canciones, %1$d canción restante (%2$.1fMB)</item>
     </plurals>
+    <plurals name="Ndialog_renew_content">
+        <item quantity="other">"Tu suscripción expirará en %d días.
+¿Quieres que te ayudemos a renovarla?"</item>
+        <item quantity="one">"Tu suscripción expirará en %d día.
+¿Quieres que te ayudemos a renovarla?"</item>
+    </plurals>
+    <plurals name="Nhungama_free_download_summary">
+        <item quantity="other">Puedes descargar %1$d canciones gratis. ¿Descargar %2$s ahora?</item>
+        <item quantity="one">Puedes descargar %1$d canción gratis. ¿Descargar %2$s ahora?</item>
+    </plurals>
     <plurals name="Nquit_warning">
         <item quantity="other">El reproductor se detendrá en %d minutos</item>
         <item quantity="one">El reproductor se detendrá en %d minuto</item>
@@ -52,6 +62,10 @@
         <item quantity="other">%d comentarios</item>
         <item quantity="one">%d comentario</item>
     </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">Hace %d días</item>
+        <item quantity="one">Hace %d día</item>
+    </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">¿Borrar %d elementos?</item>
         <item quantity="one">¿Borrar %d elemento?</item>
@@ -86,9 +100,21 @@ Nota: El archivo también será eliminado de este dispositivo."</item>
         <item quantity="other">&lt;font color=\"red\">%d canciones&lt;/font> descargando</item>
         <item quantity="one">&lt;font color==\"red\">%d canción&lt;/font> descargando</item>
     </plurals>
+    <plurals name="free_downloads_num_hint">
+        <item quantity="other">%d descargas gratuitas restantes</item>
+        <item quantity="one">%d descarga gratuita restante</item>
+    </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d elementos seleccionados</item>
         <item quantity="one">%d elemento seleccionado</item>
+    </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">Descargando %1$d archivos</item>
+        <item quantity="one">Descargando %1$d archivo</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">No se pudo descargar %1$d elementos</item>
+        <item quantity="one">No se pudo descargar %1$d elemento</item>
     </plurals>
     <plurals name="reader_count">
         <item quantity="other">%d seguidores</item>
@@ -110,8 +136,16 @@ Nota: El archivo también será eliminado de este dispositivo."</item>
         <item quantity="other">%d canciones</item>
         <item quantity="one">%d canción</item>
     </plurals>
+    <plurals name="video_count">
+        <item quantity="other">Vídeos</item>
+        <item quantity="one">Vídeo</item>
+    </plurals>
     <plurals name="video_play_count">
         <item quantity="other">%1$s vistas</item>
         <item quantity="one">%1$s vista</item>
+    </plurals>
+    <plurals name="vip_remain_days_hint">
+        <item quantity="other">%d días restantes</item>
+        <item quantity="one">%d día restante</item>
     </plurals>
 </resources>

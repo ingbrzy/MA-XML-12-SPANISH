@@ -8,6 +8,22 @@
         <item>Muy insalubre</item>
         <item>Peligroso</item>
     </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
     <string-array name="aqi_title_prefix">
         <item>ICA %1$s</item>
         <item>ICA %1$s</item>
@@ -118,6 +134,21 @@
         <item>SO</item>
         <item>O</item>
         <item>NO</item>
+    </string-array>
+    <string-array name="wind_power">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
     </string-array>
     <string-array name="wind_unit_detail">
         <item>Escala Beaufort</item>

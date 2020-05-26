@@ -24,6 +24,30 @@
         <item quantity="other">%d vídeos</item>
         <item quantity="one">%d vídeo</item>
     </plurals>
+    <plurals name="plus_edit_delete_comfire_text">
+        <item quantity="other">¿Eliminar ahora %s elementos?</item>
+        <item quantity="one">¿Eliminar ahora %s elemento?</item>
+    </plurals>
+    <plurals name="plus_edit_top_titletext">
+        <item quantity="other">%s elementos seleccionados</item>
+        <item quantity="one">%s elemento seleccionado</item>
+    </plurals>
+    <plurals name="plus_player_subtitle_online_size">
+        <item quantity="other">Tamaño del archivo: %.2fKB</item>
+        <item quantity="one">Tamaño del archivo: %.2fKB</item>
+    </plurals>
+    <plurals name="plus_search_result_title">
+        <item quantity="other">%2$s resultados para \"%1$s\"</item>
+        <item quantity="one">%2$s resultado para \"%1$s\"</item>
+    </plurals>
+    <plurals name="plus_serval_pictures">
+        <item quantity="other">%d imágenes</item>
+        <item quantity="one">%d imagen</item>
+    </plurals>
+    <plurals name="plus_serval_videos">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
+    </plurals>
     <plurals name="pw_comment_count">
         <item quantity="other">%d comentarios</item>
         <item quantity="one">%d comentario</item>
@@ -35,5 +59,9 @@
     <plurals name="pw_comment_view_all_comment">
         <item quantity="other">Ver %d comentarios</item>
         <item quantity="one">Ver %d comentario</item>
+    </plurals>
+    <plurals name="subscriber">
+        <item quantity="other"> suscriptores</item>
+        <item quantity="one"> suscriptor</item>
     </plurals>
 </resources>

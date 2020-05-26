@@ -17,6 +17,20 @@
         <item>Máximo 3 procesos</item>
         <item>Máximo 4 procesos</item>
     </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
     <string-array name="battery_options">
         <item>Mostrar siempre porcentaje</item>
         <item>Mostrar porcentaje al cargar (predeterminado)</item>
@@ -71,16 +85,16 @@
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-		<item>Usar preferencia de sistema (Por defecto)</item>
-		<item>SBC</item>
-		<item>AAC</item>
-		<item>Qualcomm® aptX™ audio</item>
-		<item>Qualcomm® aptX™ HD audio</item>
-		<item>LDAC</item>
-		<item>Qualcomm® aptX™ Adaptive audio</item>
-		<item>LHDC</item>
-		<item>Habilitar códigos opcionales</item>
-		<item>Deshabilitar códigos opcionales</item>
+        <item>Usar preferencia de sistema (Por defecto)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>LHDC</item>
+        <item>Habilitar códigos opcionales</item>
+        <item>Deshabilitar códigos opcionales</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Usar preferencia de sistema (Por defecto)</item>
@@ -92,10 +106,29 @@
         <item>Habilitar códigos opcionales</item>
         <item>Deshabilitar códigos opcionales</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | Activo"</item>
+        <item>" | Activo (multimedia)"</item>
+        <item>" | Activo (teléfono)"</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Por defecto)</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Deshabilitado</item>
+        <item>Habilitado Filtrado</item>
+        <item>Cabezales habilitados y filtrados</item>
+        <item>Media Pkts habilitados y filtrados</item>
+        <item>Habilitado</item>
     </string-array>
     <string-array name="carrier_name">
         <item>China Mobile</item>
@@ -182,7 +215,6 @@
         <item>4K (escalonado, seguro)</item>
         <item>720p, 1080p (pantalla dual)</item>
     </string-array>
-    <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">
         <item>Desactivado</item>
         <item>64K</item>
@@ -246,6 +278,17 @@
         <item>Veloz</item>
         <item>Muy veloz</item>
         <item>Rapidísimo</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Cargando</item>

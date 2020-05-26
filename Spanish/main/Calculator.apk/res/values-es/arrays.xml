@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="height_array">
+        <item>Centímetros</item>
+        <item>Metros</item>
+        <item>Pies</item>
+        <item>Pulgadas</item>
+    </string-array>
     <string-array name="mortgage_repayment">
         <item>Cuotas iguales</item>
         <item>Cuotas decrecientes</item>
@@ -29,5 +35,9 @@
         <item>JPY</item>
         <item>CNY</item>
         <item>HKD</item>
+    </string-array>
+    <string-array name="weight_array">
+        <item>Kilogramos</item>
+        <item>Libras</item>
     </string-array>
 </resources>
