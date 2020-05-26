@@ -3108,7 +3108,6 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="ipaddr_label">IPaddr:</string>
     <string name="item_system_app">Aplicaciones del sistema</string>
     <string name="join_two_items">%1$s y %2$s</string>
-    <string name="join_two_unrelated_items">%1$s, %2$s</string>
     <string name="keep_legacy_fingerprint">Mantener</string>
     <string name="keep_screen_on">Mantener encendida</string>
     <string name="keep_screen_on_summary">La pantalla no se suspenderá nunca mientras se carga</string>
@@ -4456,7 +4455,6 @@ También concede a la aplicación la capacidad de activar o desactivar el modo N
     <string name="notification_style_title">Estilo de las notificaciones</string>
     <string name="notification_suggestion_summary">Mostrar u ocultar contenido de las notificaciones</string>
     <string name="notification_suggestion_title">Controlar los datos que aparecen en la pantalla de bloqueo</string>
-    <string name="notification_summary_channel">%1$s • %2$s</string>
     <string name="notification_summary_level">Nivel %d</string>
     <string name="notification_summary_none">Activadas para todas las aplicaciones</string>
     <string name="notification_switch_label">Mostrar notificaciones</string>
@@ -4470,7 +4468,6 @@ También concede a la aplicación la capacidad de activar o desactivar el modo N
     <string name="notification_volume_title">Notificación</string>
     <string name="notifications_disabled">Desactivadas</string>
     <string name="notifications_enabled">Activadas</string>
-    <string name="notifications_enabled_with_info">%1$s/%2$s</string>
     <string name="notifications_hidden">Ocultas en la pantalla de bloqueo</string>
     <string name="notifications_label">Notificaciones</string>
     <string name="notifications_partly_blocked">Categorías desactivadas: %1$d de %2$d</string>
@@ -4752,7 +4749,6 @@ OTG se desactiva automáticamente después de 10 minutos de inactividad."</strin
     <string name="power_remaining_charging_duration_only">%1$s restante hasta que esté completamente cargado</string>
     <string name="power_remaining_duration_only">Sobre %1$s restante</string>
     <string name="power_remaining_duration_only_enhanced">Sobre %1$s restante basado en tu uso</string>
-    <string name="power_remaining_duration_only_short">%1$s</string>
     <string name="power_remaining_duration_only_shutdown_imminent">El teléfono podría apagarse pronto</string>
     <string name="power_remaining_duration_shutdown_imminent">El teléfono podría apagarse pronto (%1$s)</string>
     <string name="power_remaining_less_than_duration">Menos de %1$s restante (%2$s)</string>
@@ -4765,7 +4761,6 @@ OTG se desactiva automáticamente después de 10 minutos de inactividad."</strin
     <string name="power_unaccounted">Varios</string>
     <string name="power_usage_enhanced_debug">Quedan %1$s (nuevo ML est)</string>
     <string name="power_usage_history">Uso de la batería</string>
-    <string name="power_usage_level_and_status">%1$s - %2$s</string>
     <string name="power_usage_list_summary">Uso de la batería desde la última carga completa</string>
     <string name="power_usage_not_available">Datos de uso no disponibles</string>
     <string name="power_usage_old_debug">Quedan %1$s (Est. Antiguo)</string>
@@ -4793,7 +4788,6 @@ OTG se desactiva automáticamente después de 10 minutos de inactividad."</strin
     <string name="pref_volume_wake_title">Activar con los botones de volumen</string>
     <string name="preference_change_password_title">Cambiar contraseña</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
-    <string name="preference_summary_default_combination">%1$s / %2$s</string>
     <string name="preferred_app_settings">Ajustes predeterminados</string>
     <string name="preferred_app_settings_default">Predeterminado</string>
     <string name="preferred_app_settings_not_selected">No seleccionado</string>
@@ -6506,8 +6500,6 @@ Prueba a utilizar una ^3 más rápida o utiliza esta ^4 como almacenamiento port
     <string name="suggestions_title">Sugerencias</string>
     <string name="suggestions_title_v2">Sugerencias personalizadas</string>
     <string name="sum_carrier_select">Selecciona un operador de red</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-    <string name="summary_divider_text">", "</string>
     <string name="summary_range_verbal_combination">De %1$s a %2$s</string>
     <string name="sunlight_mode">Modo luz solar</string>
     <string name="sunlight_mode_summary">Ajuste el brillo a una luz ambiental intensa cuando el brillo automático esté apagado</string>
@@ -8039,7 +8031,6 @@ Parece que los credenciales de almacenamiento no están habilitados."</string>
     <string name="zen_mode_alarms">Permitir alarmas</string>
     <string name="zen_mode_alarms_list">alarmas</string>
     <string name="zen_mode_all_callers">todo el mundo</string>
-    <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="zen_mode_app_set_behavior">Estas opciones no se pueden modificar en este momento. Una aplicación (%1$s) ha activado automáticamente el modo No molestar con funcionamiento personalizado.</string>
     <string name="zen_mode_automatic_rule_settings_page_title">Programación</string>
     <string name="zen_mode_automation_settings_page_title">Programaciones</string>
@@ -8201,7 +8192,6 @@ Cuando desactives el modo No molestar, podrás deslizar el dedo desde la parte s
     <string name="zen_mode_summary_alarms_only_by_time">Cambiar a Solo alarmas hasta las %1$s</string>
     <string name="zen_mode_summary_alarms_only_indefinite">Cambiar a Solo alarmas de forma indefinida</string>
     <string name="zen_mode_summary_always">Cambiar a interrumpir siempre</string>
-    <string name="zen_mode_summary_combination">%1$s: %2$s</string>
     <string name="zen_mode_system">Permitir sonidos táctiles</string>
     <string name="zen_mode_system_list">sonidos al tocar</string>
     <string name="zen_mode_unknown_app_set_behavior">Estas opciones no se pueden modificar en este momento. Una aplicación ha activado automáticamente el modo No molestar con funcionamiento personalizado.</string>
