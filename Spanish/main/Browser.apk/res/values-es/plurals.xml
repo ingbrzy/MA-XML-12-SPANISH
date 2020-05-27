@@ -20,9 +20,29 @@
         <item quantity="other">¿Eliminar tareas %d?</item>
         <item quantity="one">¿Eliminar tarea %d?</item>
     </plurals>
+    <plurals name="download_business_v5_edit_mode_title">
+        <item quantity="other">%1$d seleccionados</item>
+        <item quantity="one">%1$d seleccionado</item>
+    </plurals>
+    <plurals name="download_dialog_confirm_delete_downloads_message">
+        <item quantity="other">¿Eliminar %d tareas?</item>
+        <item quantity="one">¿Eliminar %d tarea?</item>
+    </plurals>
     <plurals name="find_on_page_matches">
         <item quantity="other">%d resultados</item>
         <item quantity="one">%d resultado</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">%d últimos días</item>
+        <item quantity="one">%d último día</item>
+    </plurals>
+    <plurals name="le_notification_download_completed">
+        <item quantity="other">%d elementos descargados con éxito</item>
+        <item quantity="one">%d elemento descargado con éxito</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d de %2$d</item>
+        <item quantity="one">1 resultado</item>
     </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">Últimos %d días</item>
@@ -35,6 +55,10 @@
     <plurals name="nav_screen_incognito_time">
         <item quantity="other">Después de %d segundos creará automáticamente una página nueva</item>
         <item quantity="one">Después de %d segundo creará automáticamente una página nueva</item>
+    </plurals>
+    <plurals name="nf_item_like">
+        <item quantity="other">%s me gusta</item>
+        <item quantity="one">%s me gusta</item>
     </plurals>
     <plurals name="pref_adblock_counts">
         <item quantity="other">%d bloqueados</item>
@@ -99,13 +123,5 @@
     <plurals name="vote_all_people">
         <item quantity="other">%d personas han votado</item>
         <item quantity="one">%d persona ha votado</item>
-    </plurals>
-    <plurals name="last_num_days">
-        <item quantity="other">%d últimos días</item>
-        <item quantity="one">%d último día</item>
-    </plurals>
-    <plurals name="matches_found">
-        <item quantity="other">%1$d de %2$d</item>
-        <item quantity="one">1 resultado</item>
     </plurals>
 </resources>

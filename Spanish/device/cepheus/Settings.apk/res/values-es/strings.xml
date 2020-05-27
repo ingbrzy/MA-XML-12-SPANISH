@@ -395,14 +395,14 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="animator_duration_scale_title">Nivel de duración de las animaciones</string>
     <string name="another_migration_already_in_progress">Hay otra migración en curso.</string>
     <string name="anti_spam">Lista negra</string>
-    <string name="aod_and_lock_screen_settings_title">Pantalla siempre activa y Pantalla de bloqueo</string>
+    <string name="aod_and_lock_screen_settings_title">Pantalla ambiente y Pantalla de bloqueo</string>
     <string name="aod_close_color_inversion">Esta función no funciona con inversión del color. Desactiva inversión del color primero.</string>
-    <string name="aod_name_wanxiang">Pantalla siempre activa</string>
+    <string name="aod_name_wanxiang">Pantalla ambiente</string>
     <string name="aod_notification_style_animation">Mostrar animaciones</string>
     <string name="aod_notification_style_none">No hacer nada</string>
     <string name="aod_notification_style_screen_on">Iluminar la pantalla</string>
-    <string name="aod_settings_category_name">Pantalla siempre activa</string>
-    <string name="aod_settings_title">Pantalla siempre activa</string>
+    <string name="aod_settings_category_name">Pantalla ambiente</string>
+    <string name="aod_settings_title">Pantalla ambiente</string>
     <string name="aod_show_mode_title">Mostrar elementos</string>
     <string name="aod_style_description">Mostrar reloj, fecha, hora, notificaciones y otros elementos cuando la pantalla está apagada</string>
     <string name="aod_style_title">Estilo</string>
@@ -1792,7 +1792,7 @@ Debes restablecer el estado de fábrica para volver a usar el teléfono. Cuando 
     <string name="dark_ui_settings_dark_summary">Las aplicaciones que lo admitan también se cambiarán al tema oscuro</string>
     <string name="dark_ui_settings_dialog_acknowledge">Entendido</string>
     <string name="dark_ui_settings_light_summary">Estos ajustes también se aplican a aplicaciones</string>
-    <string name="dark_wallpaper_mode">Ajuste el fondo de pantalla al Modo oscuro</string>
+    <string name="dark_wallpaper_mode">Ajustar fondo de pantalla al Modo oscuro</string>
     <string name="dashboard_title">Ajustes</string>
     <string name="data_during_calls_summary">Permitir que esta SIM se use para los datos móviles únicamente durante las llamadas</string>
     <string name="data_during_calls_title">Datos durante las llamadas</string>
@@ -2794,7 +2794,7 @@ No parecía que en aquel lugar hubiese caballos ni animales de ningún tipo, pue
     <string name="fsg_mistake_touch_title">Realizar gestos dos veces</string>
     <string name="full_screen_display">Modo pantalla completa</string>
     <string name="full_screen_keyboard_optimization">Mejorar teclado</string>
-    <string name="full_screen_keyboard_settings">Ajustes de teclado para pantallas todo pantalla</string>
+    <string name="full_screen_keyboard_settings">Ajustes de teclado en pantalla completa</string>
     <string name="full_transparent_smarrcover_title">Cubierta frontal transparente</string>
     <string name="fullbackup_data_summary">"Realiza una copia de seguridad automática de los datos del dispositivo (como las contraseñas de redes Wi-Fi y el historial de llamadas) y de los datos de las aplicaciones (como sus ajustes y archivos guardados) de forma remota.
 
@@ -3028,7 +3028,7 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="incoming_call_volume_title">Tono</string>
     <string name="infinity_display_settings">Pantalla completa</string>
     <string name="infinity_display_slogan">Innovación en pantalla completa</string>
-    <string name="infinity_display_title">Reproducir a pantalla completa</string>
+    <string name="infinity_display_title">Pantalla completa</string>
     <string name="information_dialog_button_text">Entendido</string>
     <string name="information_label">Información</string>
     <string name="input_assistance">Herramientas</string>
@@ -3108,7 +3108,6 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="ipaddr_label">IPaddr:</string>
     <string name="item_system_app">Aplicaciones del sistema</string>
     <string name="join_two_items">%1$s y %2$s</string>
-    <string name="join_two_unrelated_items">%1$s, %2$s</string>
     <string name="keep_legacy_fingerprint">Mantener</string>
     <string name="keep_screen_on">Mantener encendida</string>
     <string name="keep_screen_on_summary">La pantalla no se suspenderá nunca mientras se carga</string>
@@ -3858,9 +3857,9 @@ Continúe para acceder a ajustes adicionales."</string>
     <string name="miui_sos_contacts_category">Contactos de emergencia</string>
     <string name="miui_sos_emergency_contacts">Contactos de emergencia</string>
     <string name="miui_sos_emergency_delete">Eliminar</string>
-    <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s(%2s)ya ha sido aceptado.</string>
+    <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s (%2s) ya ha sido aceptado.</string>
     <string name="miui_sos_emergency_delivered_sms_noname">%1s ya ha sido aceptado</string>
-    <string name="miui_sos_emergency_failed_sms" formatted="false">No se pudo enviar el mensaje a %1s (%2s).</string>
+    <string name="miui_sos_emergency_failed_sms" formatted="false">"No se pudo enviar el mensaje a %1s (%2s)."</string>
     <string name="miui_sos_emergency_failed_sms_noname">No se pudo enviar el mensaje a %1s.</string>
     <string name="miui_sos_enable_switch_summary">Presiona rapidamente el Botón de encendido 5 veces para enviar un mensaje de texto SOS con tu ubicación a tus contactos de emergencia</string>
     <string name="miui_sos_enable_switch_title">SOS de emergencia</string>
@@ -4456,7 +4455,6 @@ También concede a la aplicación la capacidad de activar o desactivar el modo N
     <string name="notification_style_title">Estilo de las notificaciones</string>
     <string name="notification_suggestion_summary">Mostrar u ocultar contenido de las notificaciones</string>
     <string name="notification_suggestion_title">Controlar los datos que aparecen en la pantalla de bloqueo</string>
-    <string name="notification_summary_channel">%1$s • %2$s</string>
     <string name="notification_summary_level">Nivel %d</string>
     <string name="notification_summary_none">Activadas para todas las aplicaciones</string>
     <string name="notification_switch_label">Mostrar notificaciones</string>
@@ -4470,7 +4468,6 @@ También concede a la aplicación la capacidad de activar o desactivar el modo N
     <string name="notification_volume_title">Notificación</string>
     <string name="notifications_disabled">Desactivadas</string>
     <string name="notifications_enabled">Activadas</string>
-    <string name="notifications_enabled_with_info">%1$s/%2$s</string>
     <string name="notifications_hidden">Ocultas en la pantalla de bloqueo</string>
     <string name="notifications_label">Notificaciones</string>
     <string name="notifications_partly_blocked">Categorías desactivadas: %1$d de %2$d</string>
@@ -4752,7 +4749,6 @@ OTG se desactiva automáticamente después de 10 minutos de inactividad."</strin
     <string name="power_remaining_charging_duration_only">%1$s restante hasta que esté completamente cargado</string>
     <string name="power_remaining_duration_only">Sobre %1$s restante</string>
     <string name="power_remaining_duration_only_enhanced">Sobre %1$s restante basado en tu uso</string>
-    <string name="power_remaining_duration_only_short">%1$s</string>
     <string name="power_remaining_duration_only_shutdown_imminent">El teléfono podría apagarse pronto</string>
     <string name="power_remaining_duration_shutdown_imminent">El teléfono podría apagarse pronto (%1$s)</string>
     <string name="power_remaining_less_than_duration">Menos de %1$s restante (%2$s)</string>
@@ -4765,7 +4761,6 @@ OTG se desactiva automáticamente después de 10 minutos de inactividad."</strin
     <string name="power_unaccounted">Varios</string>
     <string name="power_usage_enhanced_debug">Quedan %1$s (nuevo ML est)</string>
     <string name="power_usage_history">Uso de la batería</string>
-    <string name="power_usage_level_and_status">%1$s - %2$s</string>
     <string name="power_usage_list_summary">Uso de la batería desde la última carga completa</string>
     <string name="power_usage_not_available">Datos de uso no disponibles</string>
     <string name="power_usage_old_debug">Quedan %1$s (Est. Antiguo)</string>
@@ -4793,7 +4788,6 @@ OTG se desactiva automáticamente después de 10 minutos de inactividad."</strin
     <string name="pref_volume_wake_title">Activar con los botones de volumen</string>
     <string name="preference_change_password_title">Cambiar contraseña</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
-    <string name="preference_summary_default_combination">%1$s / %2$s</string>
     <string name="preferred_app_settings">Ajustes predeterminados</string>
     <string name="preferred_app_settings_default">Predeterminado</string>
     <string name="preferred_app_settings_not_selected">No seleccionado</string>
@@ -5869,7 +5863,7 @@ Nota: No puedes utilizar tu huella digital para desbloquear este dispositivo. Si
     <string name="services_subtitle">Servicios</string>
     <string name="set_data_limit">Establecer límite de datos</string>
     <string name="set_data_warning">Establecer advertencia de datos</string>
-    <string name="set_jeejen_prompt_message">Jeejen será establecido como tu navegador por defecto. Puedes cambiar el launcher por defecto en Ajustes &gt; Ajustes del sistema &gt; Pantalla de inicio &amp; Recientes &gt; Launcher por defecto.</string>
+    <string name="set_jeejen_prompt_message">Jeejen será establecido como tu navegador por defecto. Puedes cambiar el launcher por defecto en Ajustes &gt; Ajustes del sistema &gt; Pantalla de inicio y Recientes &gt; Launcher por defecto.</string>
     <string name="set_jeejen_prompt_title">Confirmar cambios</string>
     <string name="setting_privacy_password">Establece la contraseña de protección de privacidad</string>
     <string name="settings_ad_loading">Cargando…</string>
@@ -6506,8 +6500,6 @@ Prueba a utilizar una ^3 más rápida o utiliza esta ^4 como almacenamiento port
     <string name="suggestions_title">Sugerencias</string>
     <string name="suggestions_title_v2">Sugerencias personalizadas</string>
     <string name="sum_carrier_select">Selecciona un operador de red</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-    <string name="summary_divider_text">", "</string>
     <string name="summary_range_verbal_combination">De %1$s a %2$s</string>
     <string name="sunlight_mode">Modo luz solar</string>
     <string name="sunlight_mode_summary">Ajuste el brillo a una luz ambiental intensa cuando el brillo automático esté apagado</string>
@@ -6653,7 +6645,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="title_jeejen">Pantalla de inicio de Jeejen</string>
     <string name="title_layout_current">Tamaño del texto</string>
     <string name="title_layout_current2">Tamaño del texto</string>
-    <string name="title_layout_current2_weight">Tamaño de texto y grosor de la fuente</string>
+    <string name="title_layout_current2_weight">Tamaño del texto y grosor de la fuente</string>
     <string name="title_of_auto_launch_manage">Inicio automático</string>
     <string name="to_close">Desactivar</string>
     <string name="toast_lockscreen_glogin_empty_password">Introducir contraseña</string>
@@ -6904,7 +6896,7 @@ Las huellas digitales guardadas también se eliminarán del perfil y no podrás 
     <string name="usage_state_device_unlock_today_tip_title" formatted="false">Dispositivo desbloqueado entre %d:00 y %d:00</string>
     <string name="usage_state_friday">Vie</string>
     <string name="usage_state_go_more">Más aplicaciones</string>
-    <string name="usage_state_hour_minute" formatted="false">%dh %dmin</string>
+    <string name="usage_state_hour_minute" formatted="false">%dh %dm</string>
     <string name="usage_state_less_one_minute">Menos de 1 minuto</string>
     <string name="usage_state_monday">Lun</string>
     <string name="usage_state_mourth_day">Horas de pantalla el %s</string>
@@ -6930,7 +6922,7 @@ Las huellas digitales guardadas también se eliminarán del perfil y no podrás 
     <string name="usage_state_week_total_text">Horas de pantalla (últimos 7 días)</string>
     <string name="usage_state_which_mouth">MMM</string>
     <string name="usage_state_work_day">Entre semana</string>
-    <string name="usage_state_work_day_hour_minute" formatted="false">Entre semana: %d h %d min</string>
+    <string name="usage_state_work_day_hour_minute" formatted="false">Entre semana: %dh %dm</string>
     <string name="usage_stats_label">Estadísticas de uso</string>
     <string name="usage_stats_normal_day">Entre semana</string>
     <string name="usage_stats_week_day">Fines de semana</string>
@@ -6968,9 +6960,9 @@ Las huellas digitales guardadas también se eliminarán del perfil y no podrás 
     <string name="usagestats_app_category_miui_video_etc">Música y vídeo</string>
     <string name="usagestats_device_notification_des">Límite de horas de pantalla para hoy: %s</string>
     <string name="usagestats_device_notification_des_over">Hoy has alcanzado tu límite de horas de pantalla.</string>
-    <string name="usagestats_device_notification_des_reset" formatted="false">Límite de hoy: %s | %s restante</string>
+    <string name="usagestats_device_notification_des_reset" formatted="false">"Límite de hoy: %s | %s restante"</string>
     <string name="usagestats_device_notification_title">Alerta de horas de pantalla</string>
-    <string name="usagestats_device_timeout_des" formatted="false">Has estado usando tu dispositivo durante %dh %dmin hoy. ¡Descansa un poco!</string>
+    <string name="usagestats_device_timeout_des" formatted="false">"Has estado usando tu dispositivo durante %dh %dm hoy. ¡Descansa un poco!"</string>
     <string name="usagestats_device_timeout_negative">Recordar en 1 hora</string>
     <string name="usagestats_device_timeout_positive">Entendido</string>
     <string name="usagestats_device_timeout_title">Alerta de horas de pantalla</string>
@@ -8039,7 +8031,6 @@ Parece que los credenciales de almacenamiento no están habilitados."</string>
     <string name="zen_mode_alarms">Permitir alarmas</string>
     <string name="zen_mode_alarms_list">alarmas</string>
     <string name="zen_mode_all_callers">todo el mundo</string>
-    <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="zen_mode_app_set_behavior">Estas opciones no se pueden modificar en este momento. Una aplicación (%1$s) ha activado automáticamente el modo No molestar con funcionamiento personalizado.</string>
     <string name="zen_mode_automatic_rule_settings_page_title">Programación</string>
     <string name="zen_mode_automation_settings_page_title">Programaciones</string>
@@ -8201,7 +8192,6 @@ Cuando desactives el modo No molestar, podrás deslizar el dedo desde la parte s
     <string name="zen_mode_summary_alarms_only_by_time">Cambiar a Solo alarmas hasta las %1$s</string>
     <string name="zen_mode_summary_alarms_only_indefinite">Cambiar a Solo alarmas de forma indefinida</string>
     <string name="zen_mode_summary_always">Cambiar a interrumpir siempre</string>
-    <string name="zen_mode_summary_combination">%1$s: %2$s</string>
     <string name="zen_mode_system">Permitir sonidos táctiles</string>
     <string name="zen_mode_system_list">sonidos al tocar</string>
     <string name="zen_mode_unknown_app_set_behavior">Estas opciones no se pueden modificar en este momento. Una aplicación ha activado automáticamente el modo No molestar con funcionamiento personalizado.</string>

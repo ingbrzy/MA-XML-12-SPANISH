@@ -36,6 +36,10 @@
         <item quantity="other">%1$d contactos importados</item>
         <item quantity="one">%1$d contacto importado</item>
     </plurals>
+    <plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">%1$d contactos importados</item>
+        <item quantity="one">%1$d contacto importado</item>
+    </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">¿Bloquear %1$d números de teléfono?</item>
         <item quantity="one">¿Bloquear %1$d número de teléfono?</item>
@@ -47,6 +51,10 @@
     <plurals name="export_sim_contacts_dialog_message">
         <item quantity="other">La tarjeta SIM puede guardar %1$d contactos.</item>
         <item quantity="one">La tarjeta SIM puede guardar %1$d contacto.</item>
+    </plurals>
+    <plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">Se encontraron más de %d contactos.</item>
+        <item quantity="one">Se encontró más de %d contacto.</item>
     </plurals>
     <plurals name="group_add_success_toast">
         <item quantity="other">%1$d contactos añadidos</item>
@@ -76,6 +84,10 @@
         <item quantity="other">%1$d números</item>
         <item quantity="one">%1$d número</item>
     </plurals>
+    <plurals name="label_duplicate_count_plurals">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
+    </plurals>
     <plurals name="listFoundAllContacts">
         <item quantity="other">%d encontrados</item>
         <item quantity="one">1 encontrado</item>
@@ -87,6 +99,10 @@
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d contactos con números de teléfono</item>
         <item quantity="one">1 contacto con número de teléfono</item>
+    </plurals>
+    <plurals name="merge_contact_message_plurals">
+        <item quantity="other">%1$d contactos con datos parcialmente duplicados</item>
+        <item quantity="one">%1$d contactos con datos parcialmente duplicados</item>
     </plurals>
     <plurals name="merge_info">
         <item quantity="other">combinados desde %0$d fuentes</item>
@@ -135,6 +151,14 @@
     <plurals name="searchFoundContacts">
         <item quantity="other">%d encontrados</item>
         <item quantity="one">1 encontrado</item>
+    </plurals>
+    <plurals name="select_all_exceed_plurals">
+        <item quantity="other">Selecciona no más de %1$d, no puedes seleccionar todos</item>
+        <item quantity="one">Selecciona no más de %1$d, no puedes seleccionar todos</item>
+    </plurals>
+    <plurals name="select_exceed_plurals">
+        <item quantity="other">Selecciona no más de %1$d</item>
+        <item quantity="one">Selecciona no más de %1$d</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%1$d personas</item>

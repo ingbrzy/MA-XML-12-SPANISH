@@ -8,6 +8,14 @@
         <item quantity="other">La acción seleccionada no está disponible durante el modo de devolución de llamada de emergencia. El teléfono permanecerá en este modo durante %s minutos. ¿Quiere salir ahora?</item>
         <item quantity="one">La acción seleccionada no está disponible durante el modo de devolución de llamada de emergencia. El teléfono permanecerá en este modo durante %s minuto. ¿Quiere salir ahora?</item>
     </plurals>
+    <plurals name="auto_answer_summary_delay">
+        <item quantity="other">retraso: %s segundos</item>
+        <item quantity="one">retraso: %s segundo</item>
+    </plurals>
+    <plurals name="call_record_add_white_list_over_reminder">
+        <item quantity="other">Puedes añadir hasta %s personas, selecciona otra vez.</item>
+        <item quantity="one">Puedes añadir hasta %s persona, selecciona otra vez.</item>
+    </plurals>
     <plurals name="call_record_auto_whitelist_summary">
         <item quantity="other">%d números</item>
         <item quantity="one">%d número</item>
@@ -16,18 +24,14 @@
         <item quantity="other">Se borrarán %d números.</item>
         <item quantity="one">Se borrará %d número.</item>
     </plurals>
-    <plurals name="call_record_add_white_list_over_reminder">
-        <item quantity="other">Puedes añadir hasta %s personas, selecciona otra vez.</item>
-        <item quantity="one">Puedes añadir hasta %s persona, selecciona otra vez.</item>
-    </plurals>
-    <plurals name="auto_answer_summary_delay">
-        <item quantity="other">retraso: %s segundos</item>
-        <item quantity="one">retraso: %s segundo</item>
-    </plurals>
     <plurals name="pin_attempts">
         <item quantity="other">"
 %d intentos restantes."</item>
         <item quantity="one">"
 %d intento restante."</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d dispositivos conectados</item>
+        <item quantity="one">%1$d dispositivo conectado</item>
     </plurals>
 </resources>

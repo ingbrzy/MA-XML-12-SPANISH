@@ -96,7 +96,7 @@
     <string name="callAgain">Volver a llamar</string>
     <string name="callBack">Devolver llamada</string>
     <string name="callDetailTitle">Detalles de llamada</string>
-    <string name="callDetailsDurationFormat" formatted="false">%s min %s seg</string>
+    <string name="callDetailsDurationFormat">%1$s min %2$s seg</string>
     <string name="callShortcutActivityTitle">Selecciona un número para llamar</string>
     <string name="call_assistant">Llamar a %s</string>
     <string name="call_callback">Devolver llamada</string>
@@ -224,9 +224,6 @@
     <string name="cloud_state_sync_finished">Sincronizado con la nube</string>
     <string name="cloud_state_syncing">Sincronizando con la nube</string>
     <string name="cloud_upgrade_recommend">"No se pueden sincronizar los contactos debido a la falta de espacio de almacenamiento en la nube. Actualice su plan de almacenamiento en la nube."</string>
-    <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
-    <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
-%2$s"</string>
     <string name="composer_failed_to_get_database_infomation">Error al obtener información de la base de datos.</string>
     <string name="composer_has_no_exportable_contact">No hay contactos que exportar. Si ya tienes contactos en el dispositvo, es posible que algunos proveedores de datos no permitan que se exporten los contactos desde el dispositivo.</string>
     <string name="composer_not_initialized">El redactor de vCard no se ha iniciado correctamente.</string>
@@ -517,13 +514,13 @@ Para evitar consultas frecuentes, actualizamos la información del balance una v
 Motivo: \"%s\""</string>
     <string name="exporting_contact_failed_title">No se pudo exportar</string>
     <string name="exporting_contact_list_message">Exportando a %s.</string>
-    <string name="exporting_contact_list_progress" formatted="false">%s de %s contactos</string>
+    <string name="exporting_contact_list_progress">%1$s de %2$s contactos</string>
     <string name="exporting_contact_list_title">Exportando datos de contacto</string>
     <string name="exporting_vcard_canceled_title">Exportación de %s cancelada.</string>
     <string name="exporting_vcard_finished_title">Exportación de %s finalizada.</string>
     <string name="external_profile_title">Mi perfil %1$s</string>
     <string name="fail_reason_could_not_initialize_exporter">No es posible iniciar la exportación: \"%s\".</string>
-    <string name="fail_reason_could_not_open_file" formatted="false">No se pudo abrir \"%s: %s.</string>
+	<string name="fail_reason_could_not_open_file">"No se pudo abrir \"%1$s\": %2$s."</string>
     <string name="fail_reason_error_occurred_during_export">Se ha producido un error durante la exportación: \"%s\".</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">No se pudo recoger información de metadatos de los archivos vCard.</string>
     <string name="fail_reason_failed_to_read_files">Uno o más archivos no pueden importarse (%s).</string>
@@ -1124,7 +1121,7 @@ Para añadir un contacto a tu lista de favoritos:
     <string name="simContacts_emptyLoading">Cargando contactos desde la tarjeta SIM…</string>
     <string name="simContacts_title">Contactos de la tarjeta SIM</string>
     <string name="sim_capacity">Ver espacio en la tarjeta SIM</string>
-    <string name="sim_capacity_content" formatted="false">%d total | %d usados</string>
+    <string name="sim_capacity_content">%1$d total | %2$d usados</string>
     <string name="sim_card_no_free_space_message">No hay suficiente espacio</string>
     <string name="sim_card_no_free_space_title">Tarjeta SIM llena</string>
     <string name="sim_contact_existing">El contacto ya existe</string>
