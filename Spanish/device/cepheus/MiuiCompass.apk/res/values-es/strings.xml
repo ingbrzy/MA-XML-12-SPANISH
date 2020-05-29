@@ -50,6 +50,7 @@
     <string name="cta_agree_desc">Permita que esta aplicación se conecte a Internet y otorgue permisos opcionales para poder usar todas sus funciones.</string>
     <string name="cta_v2_app_purpose">mostrar direcciones, coordenadas, presión atmosférica y altitud actual</string>
     <string name="dialog_body_no_network">Conecta al Wi-Fi o activa los datos móviles.</string>
+    <string name="dialog_body_no_network_global">Connect to Wi-Fi or turn on mobile data.</string>
     <string name="dialog_calibrat_altitude">Calibrando…</string>
     <string name="dialog_title_no_network">No se pudo conectar a la red</string>
     <string name="direction_east">E</string>
@@ -81,6 +82,14 @@
     <string name="longitude">LON</string>
     <string name="mobiledata_alert_dialog_message">¿Conectarse a internet para calibrar la altitud?</string>
     <string name="mobiledata_alert_dialog_title">Aviso de uso de datos</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tire hacia abajo para actualizar</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelte para actualizar</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar elementos"</string>
     <string name="not_set">Sin definir</string>
     <string name="open_perm_msg">La brújula necesita acceso a tu ubicación y a la cámara. Esto es necesario para determinar las coordenadas y proveer previsualizaciones en vivo. ¿Permitir?</string>
     <string name="open_perm_title">Permisos requeridos</string>
