@@ -313,7 +313,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="cta_dialog_title">Conexión a Internet</string>
     <string name="cta_dialog_msg">Seguridad requiere una conexión a internet para obtener actualizaciones, así como acceder a la ubicación para funcionar correctamente.</string>
     <string name="cta_settings">Permitir conexión a la red</string>
-    <string name="gdpr_msg"><Data>Para poder usar las funciones básicas de Seguridad, debe aceptar que Xiaomi recopilará, procesará y usará su información personal, incluida información sobre la manera en que utiliza las funciones básicas (p. ej. estadísticas del uso de datos móviles, información sobre malware, así como información básica de su dispositivo) y otro tipo de información especificada en nuestra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidad&lt;/a>.</Data></string>
+    <string name="gdpr_msg">&lt;Data&gt;Para poder usar las funciones básicas de Seguridad, debe aceptar que Xiaomi recopilará, procesará y usará su información personal, incluida información sobre la manera en que utiliza las funciones básicas (p. ej. estadísticas del uso de datos móviles, información sobre malware, así como información básica de su dispositivo) y otro tipo de información especificada en nuestra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidad&lt;/a>.&lt;/Data&gt;</string>
     <string name="app_name_na">Uso de datos</string>
     <string name="list_empty_text">Vacío</string>
     <string name="dialog_title_attention">Advertencia</string>
@@ -367,7 +367,7 @@ responda"</string>
     <string name="main_tobe_added_desc">Datos móviles desde ¥0.03/MB</string>
     <string name="main_button_mi_sim_close">Activar Mi SIM</string>
     <string name="main_button_mi_sim_open">Ver detalles</string>
-    <string name="adjust_sms_cmd"><u>Ajustar plantilla SMS de calibración</u></string>
+    <string name="adjust_sms_cmd">&lt;u&gt;Ajustar plantilla SMS de calibración&lt;/u&gt;</string>
     <string name="sms_detail_correct_success_text">Estas son las estadísticas de uso de datos de la calibración anterior (%1$s):</string>
     <string name="tc_send_sms_error">No se pudo enviar el mensaje</string>
     <string name="tc_cmd_invalid">La plantilla es inválida</string>
@@ -769,19 +769,19 @@ Mientras se esté calibrando, MIUI enviará un mensaje a su operadora para recib
 3. Asegúrese de que su tarjeta SIM y la ranura SIM de su dispositivo no estén dañadas. Confirme que la tarjeta SIM que está utilizando se ha insertado correctamente en la bandeja SIM de su dispositivo."</string>
     <string name="network_route_exception_detail">"Puede haber un problema con el router al que está conectado:
 
- "<b>1. Problemas de red Wi-Fi pública</b>"
+ "&lt;b&gt;1. Problemas de red Wi-Fi pública&lt;/b&gt;"
 Si está conectado a una red Wi-Fi pública, el número de usuarios conectados a la red podría estar haciéndola lenta o causando problemas de conectividad. Cambie a otra red e intente nuevamente.
 
- "<b>2. Problemas de proveedores de servicios de Internet</b>"
+ "&lt;b&gt;2. Problemas de proveedores de servicios de Internet&lt;/b&gt;"
 Asegúrese que su cuenta está en buenos términos con su proveedor de servicios de internet.
 
- "<b>3. Problemas de hardware del router</b>"
+ "&lt;b&gt;3. Problemas de hardware del router&lt;/b&gt;"
 Intente reiniciar el router o comprobar la configuración de administración de su router.
 
- "<b>4. Otras cuestiones de router </b>"
+ "&lt;b&gt;4. Otras cuestiones de router &lt;/b&gt;"
 Lea las instrucciones que vienen con el router y restaure las configuraciones de fábrica.
 
- "<b>5. Asegúrese de que el router esté conectado correctamente</b>"
+ "&lt;b&gt;5. Asegúrese de que el router esté conectado correctamente&lt;/b&gt;"
 Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un problema con su conexión de casa, póngase en contacto con su proveedor de servicios de internet."</string>
     <string name="permission_exception_title">Conexión restringida para aplicaciones</string>
     <string name="bg_network_exception_title">Conexión de segundo plano restringida</string>
@@ -1760,7 +1760,7 @@ su dispositivo"</string>
     <string name="exit_dialog_release_storage_positive_button">Liberar espacio</string>
     <string name="skin_change_close_toast">Los cambios serán aplicados la próxima vez que inicie Seguridad</string>
     <string name="password_type">Cambiar contraseña</string>
-    <string name="password_type_underline"><u>Cambiar contraseña</u></string>
+    <string name="password_type_underline">&lt;u&gt;Cambiar contraseña&lt;/u&gt;</string>
     <string name="Setting_lock">Ajustes</string>
     <string name="more_lock">Más</string>
     <string name="app_name">Bloqueo de aplicaciones</string>
@@ -1804,7 +1804,7 @@ su dispositivo"</string>
     <string name="suggest_app_tolock">Sugerencias</string>
     <string name="suggest_app_tolock_masked">Oculto</string>
     <string name="suggest_app_tolock_unmasked">Notificaciones visibles</string>
-    <string name="forget_password_button_text"><u>Contraseña olvidada</u></string>
+    <string name="forget_password_button_text">&lt;u&gt;Contraseña olvidada&lt;/u&gt;</string>
     <string name="forget_password_button_text_normal">Olvidé la contraseña</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">¡Demasiados intentos fallidos!</string>
     <string name="lockscreen_glogin_password_hint">Contraseña</string>
@@ -1844,9 +1844,9 @@ su dispositivo"</string>
     <string name="numeric_password_confirmed_header_confirm">Establecido con éxito. Toque para confirmar.</string>
     <string name="mixed_password_confirmed_header_continue">Establecido con éxito. Toque \"Siguiente\".</string>
     <string name="mixed_password_confirmed_header_confirm">Establecido con éxito. Toque para confirmar.</string>
-    <string name="forget_pattern"><u>Olvidé la contraseña</u></string>
-    <string name="unlock_pattern"><u>Patrón</u></string>
-    <string name="modify_password_mode"><u>Cambiar tipo de contraseña</u></string>
+    <string name="forget_pattern">&lt;u&gt;Olvidé la contraseña&lt;/u&gt;</string>
+    <string name="unlock_pattern">&lt;u&gt;Patrón&lt;/u&gt;</string>
+    <string name="modify_password_mode">&lt;u&gt;Cambiar tipo de contraseña&lt;/u&gt;</string>
     <string name="fingerprint_to_lock">Desbloquear con huella dactilar</string>
     <string name="system_application">Aplicaciones del sistema</string>
     <string name="third_application">Aplicaciones instaladas</string>
@@ -1875,7 +1875,7 @@ su dispositivo"</string>
     <string name="applock_add_account_info">Agregar Mi Cuenta para poder restaurar su contraseña si la olvida.</string>
     <string name="applock_exit_account_info">La cuenta se eliminará automáticamente al cerrar la sesión</string>
     <string name="applock_login_and_add_account">Iniciar sesión y agregar</string>
-    <string name="applock_not_add_account"><u>Ahora no</u></string>
+    <string name="applock_not_add_account">&lt;u&gt;Ahora no&lt;/u&gt;</string>
     <string name="applock_add_account">Agregar</string>
     <string name="applock_not_login_account">No ha iniciado sesión</string>
     <string name="applock_bind_account_title">Olvidé la contraseña</string>
@@ -2041,10 +2041,10 @@ su dispositivo"</string>
     <string name="app_manager_reset_app_preferences_title">¿Restablecer las preferencias de app?</string>
     <string name="app_manager_reset_app_preferences_desc">"Esto restablecerá todas las preferencias para:
 
- "<li>Apps desactivadas</li>"
- "<li>Notificaciones de app desactivada</li>"
- "<li>Apps predeterminadas</li>"
- "<li>Restricciones de datos en segundo plano de apps</li>"
+ "&lt;li&gt;Apps desactivadas&lt;/li&gt;"
+ "&lt;li&gt;Notificaciones de app desactivada&lt;/li&gt;"
+ "&lt;li&gt;Apps predeterminadas&lt;/li&gt;"
+ "&lt;li&gt;Restricciones de datos en segundo plano de apps&lt;/li&gt;"
 
  No perderá ningún dato de app."</string>
     <string name="app_manager_reset_app_preferences_button">Restablecer apps</string>
