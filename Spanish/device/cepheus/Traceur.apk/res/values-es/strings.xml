@@ -552,4 +552,35 @@ Selección"</string>
     <string name="zen_mode_forever">Hasta que se desactive</string>
     <string name="zen_mode_settings_summary_off">Nunca</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Activar el modo No molestar</string>
+    <string name="wapi_all_sel_mode">Seleccionar modo</string>
+    <string name="wapi_auto_sel_cert_fail">No se puede seleccionar el certificado automáticamente. Seleccione un certificado de la lista y luego intente conectarse.</string>
+    <string name="wapi_cert_is_not_exist">No hay certificado disponible, primero instale el certificado</string>
+    <string name="wapi_cert_is_not_selected">Por favor seleccione el certificado primero</string>
+    <string name="wapi_cert_manage_error">Error al establecer el certificado WAPI.</string>
+    <string name="wapi_cert_manage_summary">Agregar o eliminar el certificado WAPI</string>
+    <string name="wapi_cert_manage_title">Gestión de certificados WAPI</string>
+    <string name="wapi_cert_roaming">Conectando…</string>
+    <string name="wapi_no">no</string>
+    <string name="wapi_no_vaild_cert">No hay certificados disponibles, ¿instalarlo ahora?</string>
+    <string name="wapi_password_hex_format_add">El recuento de caracteres hexadecimales no puede ser un número impar</string>
+    <string name="wapi_password_is_empty">El campo de contraseña no se puede dejar en blanco</string>
+    <string name="wapi_password_is_not_hex_format">Caracteres hexadecimales no válidos</string>
+    <string name="wapi_password_length_is_max">La contraseña no puede exceder los 64 caracteres de longitud</string>
+    <string name="wapi_password_length_is_min">La contraseña no puede tener menos de 8 caracteres de longitud</string>
+    <string name="wapi_password_length_is_min_to_max">La contraseña debe tener: 8-64 caracteres.</string>
+    <string name="wapi_yes">si</string>
+    <string name="wifi_auto_sel_wapi_cert">Seleccionar automáticamente</string>
+    <string name="wifi_coverage_extend">Habilitar la Función de Extensión de Cobertura Wi‑Fi</string>
+    <string name="wifi_coverage_extend_summary">Habilitar extensión de la cobertura Wi‑Fi utilizando Hotspot</string>
+    <string name="wifi_hand_sel_wapi_cert">Certificado WAPI</string>
+    <string name="wifi_ssid_is_empty">El campo SSID no puede dejarse en blanco</string>
+    <string name="wifi_ssid_length_is_max">SSID no puede exceder los 32 caracteres de longitud</string>
+    <string name="wifi_wapi_cert_mode_hand_text">Seleccionar el certificado</string>
+    <string name="wifi_wapi_certification_dont_exist">Los certificados WAPI no existen. Por favor instalarlos.</string>
+    <string name="wifi_wapi_fail_to_auth">"La autenticación WAPI falló
+Por favor verifique la validez de los certificados"</string>
+    <string name="wifi_wapi_fail_to_init">"No se pueden abrir los certificados WAPI
+El almacenamiento de credenciales podría no habilitar"</string>
+    <string name="wifi_wapi_psk_type">Tipo de contraseña</string>
+    <string name="wifi_wapi_user_certificate">Certificado de usuario</string>
 </resources>

@@ -824,7 +824,7 @@ Solo utilice el cargador proporcionado."</string>
     <string name="keyguard_password_enter_pin_prompt">Nuevo PIN de la SIM</string>
     <string name="keyguard_password_enter_puk_code">Ingrese el PUK de la SIM y el nuevo PIN</string>
     <string name="keyguard_password_enter_puk_prompt">PUK de la SIM</string>
-    <string name="keyguard_password_entry_touch_hint"><font size="17">Toque para ingresar la contraseña</font></string>
+    <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Toque para ingresar la contraseña&lt;/font&gt;</string>
     <string name="keyguard_password_wrong_pin_code">PIN incorrecto.</string>
     <string name="keyguard_permanent_disabled_sim_instructions">"Su tarjeta SIM ha sido deshabilitada permanentemente.
  Contacte a su proveedor de servicio para conseguir otra."</string>
@@ -1117,11 +1117,11 @@ También está conectado a una red VPN, la cual puede monitorear su actividad en
     <string name="phone_locked_foget_password">¿Olvidó la contraseña?</string>
     <string name="phone_locked_foget_password_mehod_back">Atrás</string>
     <string name="phone_locked_foget_password_method">¿Olvidó la contraseña?</string>
-    <string name="phone_locked_foget_password_method_content"><Data>Debe &lt;font color=#a5220e>borrar todos los datos &lt;/font> de su dispositivo, incluyendo fotos y contactos, y después configurar una nueva contraseña de pantalla de bloqueo.</Data></string>
+    <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Debe &lt;font color=#a5220e>borrar todos los datos &lt;/font> de su dispositivo, incluyendo fotos y contactos, y después configurar una nueva contraseña de pantalla de bloqueo.&lt;/Data&gt;</string>
     <string name="phone_locked_foget_password_method_next">Siguiente</string>
     <string name="phone_locked_foget_password_ok">Entendido</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Apague su dispositivo, mantenga presionados el &lt;font color=#a5220e>botón de encendido&lt;/font> y el &lt;font color=#a5220e>botón para subir volumen&lt;/font> al mismo tiempo hasta que vea el logo de Mi.</Data></string>
-    <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Seleccionar &lt;font color=#a5220e>\"Limpiar y restaurar\"&lt;/font> y espere a que se reinicie el dispositivo.</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Apague su dispositivo, mantenga presionados el &lt;font color=#a5220e>botón de encendido&lt;/font> y el &lt;font color=#a5220e>botón para subir volumen&lt;/font> al mismo tiempo hasta que vea el logo de Mi.&lt;/Data&gt;</string>
+    <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Seleccionar &lt;font color=#a5220e>\"Limpiar y restaurar\"&lt;/font> y espere a que se reinicie el dispositivo.&lt;/Data&gt;</string>
     <string name="phone_locked_forget_password_suggesstions_title">¿Cómo borrar los datos?</string>
     <string name="phone_locked_string">El teléfono ha sido bloqueado</string>
     <string name="picture_color_mode">Modo color de imagen</string>
@@ -1145,32 +1145,32 @@ También está conectado a una red VPN, la cual puede monitorear su actividad en
     <string name="pointer_location_summary">Superposición de pantalla mostrando datos de toques actuales</string>
     <string name="power_notification_controls_description">"Con los controles de notificaciones de energía puede fijar un nivel de importancia del 0 al 5 para notificaciones de aplicaciones. 
 
-"<b>Nivel 5</b>" 
+"&lt;b&gt;Nivel 5&lt;/b&gt;" 
 - Mostrar en la parte superior de la lista de notificaciones 
 - Permitir la interrupción de pantalla completa 
 - Siempre visible 
 
-"<b>Nivel 4</b>" 
+"&lt;b&gt;Nivel 4&lt;/b&gt;" 
 - Evitar la interrupción de pantalla completa 
 - Siempre visible 
 
-"<b>Nivel 3</b>" 
+"&lt;b&gt;Nivel 3&lt;/b&gt;" 
 - Evitar la interrupción de pantalla completa 
 - Nunca visible 
 
-"<b>Nivel 2</b>" 
+"&lt;b&gt;Nivel 2&lt;/b&gt;" 
 - Evitar la interrupción de pantalla completa 
 - Nunca visible 
 - Nunca reproducir sonidos o vibrar 
 
-"<b>Nivel 1</b>" 
+"&lt;b&gt;Nivel 1&lt;/b&gt;" 
 - Evitar la interrupción de pantalla completa 
 - Nunca visible 
 - Nunca reproducir sonidos o vibrar 
 - Ocultar de la Pantalla de Bloqueo y barra de estado 
 - Mostrar al final de la lista de notificaciones 
 
-"<b>Nivel 0</b>" 
+"&lt;b&gt;Nivel 0&lt;/b&gt;" 
 - Bloquear todas las notificaciones de la aplicación"</string>
     <string name="power_remaining_charging_duration_only">%1$s - para carga completa</string>
     <string name="power_remaining_duration_only">Alrededor de %1$s restantes</string>

@@ -231,7 +231,7 @@
     <string name="accessibility_status_bar_headphones">Auriculares conectados</string>
     <string name="accessibility_status_bar_headset">Auriculares conectados</string>
     <string name="accessibility_status_bar_hotspot">Punto de acceso</string>
-    <string name="accessibility_status_bar_micphone">Micrófono conectado exitosamente</string>
+    <string name="accessibility_status_bar_micphone">Micrófono conectado con éxito</string>
     <string name="accessibility_status_bar_no_slave_wifi">Wi-Fi auxiliar desconectada</string>
     <string name="accessibility_status_bar_slave_wifi_four_bars">Wi-Fi auxiliar cuatro barras</string>
     <string name="accessibility_status_bar_slave_wifi_one_bar">Wi-Fi auxiliar de una barra</string>
@@ -2117,4 +2117,14 @@ Parece que los credenciales de almacenamiento no están habilitados."</string>
     <string name="zen_priority_introduction">No serás molestado por sonidos o vibraciones, excepto por los de alarmas, recordatorios, eventos y llamadas de contactos que especifique. Podrás escuchar cualquier elemento que decidas reproducir, incluyendo música, videos y juegos.</string>
     <string name="zen_silence_introduction">Esto bloquea todos los sonidos y vibraciones, incluidos los de alarmas, música, videos y juegos.</string>
     <string name="zen_silence_introduction_voice">Esto bloquea todos los sonidos y vibraciones, incluidos los de alarmas, música, videos y juegos. Podrás realizar llamadas.</string>
+    <string name="auto_brightness_off">Brillo automático deshabilitado</string>
+    <string name="auto_brightness_on">Brillo automático habilitado</string>
+    <string name="bluetooth_paired">Guardado</string>
+    <string name="notification_storage_float">Almacenamiento externo</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Los datos móviles (WCDMA / LTE) se apagarán. A menos que use Wi-Fi, ya no podrá usar aplicaciones que requieran una conexión de datos. Enviar o recibir mensajes multimedia estará restringido.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">Los datos móviles se activarán. La conexión a redes móviles puede generar cargos adicionales según su plan de pago.</string>
+    <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Cancelar</string>
+    <string name="quick_settings_cellular_detail_dialog_positive_button_ok">ACEPTAR</string>
+    <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Apagar</string>
+    <string name="storage_is_connecting">%1$s está conectado</string>
 </resources>

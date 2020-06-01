@@ -723,4 +723,46 @@ Tamaño:%2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Presentando la versión %1$s
 Tamaño de actualización Delta: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Actualización disponible</string>
+    <string name="new_confirm_enable_encrypt_content">"MIUI asocia copias de seguridad cifradas con su Cuenta Mi. Tendrá que iniciar sesión en su Cuenta Mi para restaurar elementos de dichas copias de seguridad."</string>
+    <string name="new_confirm_enable_encrypt_title">Cifrar</string>
+    <string name="new_local_button_backup">Respaldar</string>
+    <string name="new_local_button_restore">Restaurar</string>
+    <string name="new_local_click_to_jump">Toque para ver instrucciones detalladas</string>
+    <string name="new_local_detail_description">"Nota:
+%1$d. Copie las copias de seguridad en su computadora para evitar la pérdida de datos. %2$s.
+%3$d. Las copias de seguridad se guardarán en MIUI-Backup-AllBackup."</string>
+    <string name="new_local_tab_backup">Copia de seguridad en dispositivo móvil</string>
+    <string name="new_local_tab_restore">Restaurar desde dispositivo móvil</string>
+    <string name="new_low_storage_title">No hay suficiente espacio de almacenamiento</string>
+    <string name="new_more_settings_label">Ajustes adicionales</string>
+    <string name="new_pc_backup_content1">%1$d. Abrir \"%2$s\".</string>
+    <string name="new_pc_backup_content2">%d. Espere hasta que todos los artículos estén respaldados.</string>
+    <string name="new_pc_backup_content3">%d. Encuentra la copia de seguridad en MIUI-Backup-AllBackup.</string>
+    <string name="new_pc_backup_content4">%d. Copie el archivo a su computadora.</string>
+    <string name="new_pc_backup_restore_link">Dispositivo móvil</string>
+    <string name="new_pc_backup_summary1">Seleccione elementos y toque \"Respaldar\".</string>
+    <string name="new_pc_backup_summary2">Conecte su dispositivo móvil a la computadora mediante un cable USB.</string>
+    <string name="new_pc_backup_summary4">Nota: también puede copiar fotos y videos de DCIM.</string>
+    <string name="new_pc_restore_content1">%d. Conecte su dispositivo móvil a la computadora mediante un cable USB.</string>
+    <string name="new_pc_restore_content2">%d. Copie la copia de seguridad de su computadora a MIUI-Backup-AllBackup.</string>
+    <string name="new_pc_restore_content3">%1$d. Abra \"%2$s\" y seleccione elementos para restaurar.</string>
+    <string name="new_pc_title">Copiar copias de seguridad</string>
+    <string name="new_select_file">Audio, videos y archivos</string>
+    <string name="new_select_message">SMS, contactos e historial de llamadas</string>
+    <string name="new_select_pic">Imágenes</string>
+    <string name="new_select_system">Otros datos de aplicaciones del sistema</string>
+    <string name="new_select_third">Aplicaciones de terceros y datos de aplicaciones</string>
+    <string name="new_select_third_apk">Aplicaciones de terceros</string>
+    <string name="new_select_third_data">Datos de aplicaciones de terceros</string>
+    <string name="new_tab_pc_backup">Copia de seguridad en la computadora</string>
+    <string name="new_tab_pc_restore">Restaurar desde la computadora</string>
+    <string name="new_task_finished">Hecho</string>
+    <string name="new_usb_detail_description">"Nota:
+%1$d. Este método permite realizar copias de seguridad de aplicaciones y datos de aplicaciones de terceros.
+%2$d. Asegúrese de que haya suficiente espacio de almacenamiento en su unidad USB para almacenar copias de seguridad."</string>
+    <string name="new_usb_disconnect_dialog_message">Conecte primero una unidad USB.</string>
+    <string name="new_usb_disconnect_dialog_title">"No se pudo encontrar la unidad USB"</string>
+    <string name="new_usb_select_data_no_space">Solo %s de almacenamiento está disponible en su unidad USB. Libere espacio de almacenamiento.</string>
+    <string name="new_usb_tab_backup">Copia de seguridad en unidad USB</string>
+    <string name="new_usb_tab_restore">Restaurar desde unidad USB</string>
 </resources>

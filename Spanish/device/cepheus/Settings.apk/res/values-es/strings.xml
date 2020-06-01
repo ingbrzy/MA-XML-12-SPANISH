@@ -473,7 +473,6 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="app_list_preference_none">Ninguna</string>
     <string name="app_memory_use">Uso de memoria</string>
     <string name="app_mobile">Datos móviles</string>
-    <string name="app_name">Preferencia</string>
     <string name="app_name_label">Aplicación</string>
     <string name="app_name_na">Uso de datos</string>
     <string name="app_names_concatenation_template_2">%1$s y %2$s</string>
@@ -2514,7 +2513,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="face_data_input_camera_ok">Cargando cámara…</string>
     <string name="face_data_input_cancel_msg">"No se pudieron agregar datos de la cara"</string>
     <string name="face_data_input_ok">Hecho</string>
-    <string name="face_data_input_ok_title">Agregado exitosamente</string>
+    <string name="face_data_input_ok_title">Agregado con éxito</string>
     <string name="face_data_input_structure_title">Datos faciales en 3D</string>
     <string name="face_data_input_title">Agregar datos faciales</string>
     <string name="face_data_introduction_msg">Los datos faciales se pueden usar para desbloquear su dispositivo o verificar su identidad. Agregue la contraseña de la pantalla de bloqueo antes de agregar sus datos faciales.</string>
@@ -4252,7 +4251,7 @@ Selecciona tu sistema operativo:"</string>
     <string name="nfc_repair_fail_title">"No se pudo restaurar"</string>
     <string name="nfc_repair_ongoing">"Restaurando… No salgas de esta página".</string>
     <string name="nfc_repair_pass_desc">Reinicia tu dispositivo para aplicar los cambios.</string>
-    <string name="nfc_repair_pass_title">Restaurado exitosamente</string>
+    <string name="nfc_repair_pass_title">Restaurado con éxito</string>
     <string name="nfc_repair_summary">Solucione los problemas que le impiden usar las funciones NFC</string>
     <string name="nfc_repair_title">Restaurar la funcionalidad NFC</string>
     <string name="nfc_se_route_title">Posición del elemento de seguridad</string>
@@ -8248,4 +8247,10 @@ Actualice la configuración a:
     <string name="zone_menu_by_region">Seleccionar por región</string>
     <string name="zone_time_type_dst">Horario de verano</string>
     <string name="zone_time_type_standard">Hora estándar</string>
+    <string name="content_miui_music_mute_by_user">¿Reproducir sonido multimedia cuando el modo Silencioso está activado?</string>
+    <string name="miui_sos_remind_close">El modo de emergencia SOS está activado. ¿Apagarlo junto con toda la funcionalidad relacionada?</string>
+    <string name="miui_sos_remind_close_confirm">Apagar</string>
+    <string name="reset_confirm_directory">"Nota: Antes de restaurar elementos, verifique si la carpeta \"MIUI-Backup-AllBackup\" existe en su dispositivo móvil. Si no es así, créalo."</string>
+    <string name="reset_remove_data_hint">Todos los elementos enumerados anteriormente se borrarán permanentemente. Haga una copia de seguridad de todos los elementos importantes en su computadora o Xiaomi Cloud antes de continuar.</string>
+    <string name="restore_oaid_dialog_content">Varias aplicaciones están usando su ID virtual. Si lo reinicia ahora, una parte de los datos de su aplicación podría perderse o quedar inutilizable. ¿Restablecer el ID virtual de todos modos?</string>
 </resources>

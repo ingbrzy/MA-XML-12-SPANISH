@@ -74,7 +74,7 @@
     <string name="add_whitelist">Agregar a excepciones</string>
     <string name="address">Dirección</string>
     <string name="address_choose_hint">%1$s, %2$s y %3$d otras ubicaciones</string>
-    <string name="adjust_sms_cmd"><u>Ajustar plantilla SMS de calibración</u></string>
+    <string name="adjust_sms_cmd">&lt;u&gt;Ajustar plantilla SMS de calibración&lt;/u&gt;</string>
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualizado hace más de un mes</string>
     <string name="adjust_traffic_carrier_summary_more_oneweek_before">Actualizado hace más de una semana</string>
     <string name="adjust_traffic_carrier_summary_oneweek_before">Actualizado hace 1 semana</string>
@@ -227,10 +227,10 @@
     <string name="app_manager_reset_app_preferences_button">Restablecer aplicaciones</string>
     <string name="app_manager_reset_app_preferences_desc">"Esto restablecerá todas las preferencias para:
 
- "<li>Aplicaciones deshabilitadas</li>"
- "<li>Notificaciones de aplicaciones deshabilitadas</li>"
- "<li>Aplicaciones predeterminadas </li>"
- "<li>Restricciones de datos de fondo para las aplicaciones</li>"
+ "&lt;li&gt;Aplicaciones deshabilitadas&lt;/li&gt;"
+ "&lt;li&gt;Notificaciones de aplicaciones deshabilitadas&lt;/li&gt;"
+ "&lt;li&gt;Aplicaciones predeterminadas &lt;/li&gt;"
+ "&lt;li&gt;Restricciones de datos de fondo para las aplicaciones&lt;/li&gt;"
 
  No perderá ningún dato de la aplicación."</string>
     <string name="app_manager_reset_app_preferences_title">¿Restablecer las preferencias de aplicación?</string>
@@ -301,7 +301,7 @@
     <string name="applock_go_to">Configuraciones</string>
     <string name="applock_header_text_less_than_half">Demasiado corto. Arrastra un poco más.</string>
     <string name="applock_login_and_add_account">Iniciar sesión y añadir</string>
-    <string name="applock_not_add_account"><u>Ahora no</u></string>
+    <string name="applock_not_add_account">&lt;u&gt;Ahora no&lt;/u&gt;</string>
     <string name="applock_not_login_account">No ha iniciado sesión</string>
     <string name="applock_settings_unlock_all_toast">Desbloqueó todas las aplicaciones.</string>
     <string name="applock_toast_tip">La aplicación verificada se bloqueó correctamente</string>
@@ -1038,9 +1038,9 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="forbid_autobright_summary">El brillo de la pantalla seguirá siendo el mismo cuando juegue a juegos</string>
     <string name="forbid_autobright_title">Ajustar brillo de la pantalla</string>
     <string name="foreground_traffic">Primer plano %s</string>
-    <string name="forget_password_button_text"><u>¿Contraseña olvidada?</u></string>
+    <string name="forget_password_button_text">&lt;u&gt;¿Contraseña olvidada?&lt;/u&gt;</string>
     <string name="forget_password_button_text_normal">Contraseña olvidada</string>
-    <string name="forget_pattern"><u>Contraseña olvidada</u></string>
+    <string name="forget_pattern">&lt;u&gt;Contraseña olvidada&lt;/u&gt;</string>
     <string name="forground_network_optimization_summary">Dar más ancho de banda a los juegos que se ejecutan en primer plano</string>
     <string name="forground_network_optimization_title">Prioridad del ancho de banda</string>
     <string name="free_send_net_booster">Optimización de velocidad gratuita</string>
@@ -1233,7 +1233,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="gb_xunyou_gift_type_one">1 día de aceleración Xunyou</string>
     <string name="gb_xunyou_gift_type_three">3 días de aceleración Xunyou</string>
     <string name="gb_xunyou_gift_type_two">2 días de aceleración Xunyou</string>
-    <string name="gdpr_msg"><Data>Para utilizar las funciones básicas de seguridad, debe aceptar que Xiaomi recopile, procese y use sus datos personales, incluida información sobre las formas en que usa las funciones de seguridad (por ejemplo, estadísticas de uso de datos móviles, información sobre malware,          así como información básica sobre su dispositivo) y otros tipos de información especificados en nuestro &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidad&lt;/a>.</Data></string>
+    <string name="gdpr_msg">&lt;Data&gt;Para utilizar las funciones básicas de seguridad, debe aceptar que Xiaomi recopile, procese y use sus datos personales, incluida información sobre las formas en que usa las funciones de seguridad (por ejemplo, estadísticas de uso de datos móviles, información sobre malware,          así como información básica sobre su dispositivo) y otros tipos de información especificados en nuestro &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidad&lt;/a>.&lt;/Data&gt;</string>
     <string name="get_sys_info">Obteniendo info…</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_wa_setting_alert_dialog_content">Puedes liberar %s</string>
@@ -1613,7 +1613,7 @@ responda"</string>
     <string name="mixed_recording_intro_header">Ingrese al menos 4 caracteres</string>
     <string name="mixed_retry_button_text">Cancelar</string>
     <string name="mixed_settings_help_how_to_record">Cómo establecer la contraseña</string>
-    <string name="modify_password_mode"><u>Cambiar tipo de contraseña</u></string>
+    <string name="modify_password_mode">&lt;u&gt;Cambiar tipo de contraseña&lt;/u&gt;</string>
     <string name="modifypassword">Cambiar contraseña</string>
     <string name="monitor_app_add">Añadir</string>
     <string name="monitor_app_more">Más</string>
@@ -1651,19 +1651,19 @@ responda"</string>
     <string name="network_roaming_exception_tips">No se pueden usar los datos móviles en itinerancia para conectarse a la red.</string>
     <string name="network_route_exception_detail">"Podría haber un problema con el router al que estás conectado:
 
-"<b>1. Problemas de red Wi-Fi pública</b>"
+"&lt;b&gt;1. Problemas de red Wi-Fi pública&lt;/b&gt;"
 Si estás conectado a una red pública Wi-Fi, el número de usuarios conectados podría ralentizar la conexión o crear problemas de conectividad. Prueba a cambiar a otra red e inténtalo de nuevo.
 
-"<b>2. Problemas del operador de Internet</b>"
+"&lt;b&gt;2. Problemas del operador de Internet&lt;/b&gt;"
 Asegúrate de que tu cuenta no tiene problemas con tu proveedor de servicios de Internet.
 
-"<b>3. Problemas del hardware del router</b>"
+"&lt;b&gt;3. Problemas del hardware del router&lt;/b&gt;"
 Reinicia el router o comprueba los ajustes del administrador para tu router.
 
-"<b>4. Otros problemas del router</b>"
+"&lt;b&gt;4. Otros problemas del router&lt;/b&gt;"
 Lee las instrucciones que vienen con el router y restaura los ajuntes de fábrica.
 
-"<b> 5. Asegúrate de que tu router está bien conectado</b>"
+"&lt;b&gt;5. Asegúrate de que tu router está bien conectado&lt;/b&gt;"
 Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problemas con la conexión de casa, contacta con el proveedor de servicios de internet."</string>
     <string name="network_sim_exception_detail">"Podría haber un problema con tu tarjeta SIM:
 
@@ -1853,7 +1853,7 @@ Esta actividad acorta la vida de la batería."</string>
     <string name="password_promotion_postbutton_text">Añadir</string>
     <string name="password_promotion_title">Añadir Mi Cuenta</string>
     <string name="password_type">Cambiar la contraseña</string>
-    <string name="password_type_underline"><u>Cambiar la contraseña</u></string>
+    <string name="password_type_underline">&lt;u&gt;Cambiar la contraseña&lt;/u&gt;</string>
     <string name="password_xspace_forget_pattern_message">Para cambiar la contraseña de tu Segundo Espacio, elimina tu Segundo espacio actual y crea uno nuevo.</string>
     <string name="path_antispam">Aplicaciones del sistema/Seguridad/Lista de bloqueo</string>
     <string name="path_antivirus">Aplicaciones del sistema/Seguridad/Escaneo de virus</string>
@@ -3061,7 +3061,7 @@ Los datos restantes incluyen datos excedentes del mes anterior."</string>
     <string name="uninstall_danagerous_title">Desinstalar aplicaciones maliciosas</string>
     <string name="unlike">No, gracias</string>
     <string name="unlock_failed">Error interno</string>
-    <string name="unlock_pattern"><u>Patrón</u></string>
+    <string name="unlock_pattern">&lt;u&gt;Patrón&lt;/u&gt;</string>
     <string name="unlock_pattern_to_bind_fingerprint">Introduce la contraseña para activar la huella</string>
     <string name="unlock_set_unlock_password_summary">Combine diferentes caracteres</string>
     <string name="unlock_set_unlock_password_title">Contraseña</string>

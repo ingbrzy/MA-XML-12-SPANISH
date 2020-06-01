@@ -71,25 +71,25 @@
     <string name="accessibility_screen_magnification_navbar_short_summary">Presiona un botón para acercar</string>
     <string name="accessibility_screen_magnification_navbar_summary">"Cuando se activa la ampliación, usa el botón de Accesibilidad en la parte inferior de la pantalla para ampliar rápidamente.
 
-"<b>Para acercar</b>", presiona el botón de Accesibilidad y, luego, presiona cualquier lugar de la pantalla.
-"<ul><li>Arrastra 2 o más dedos para desplazarte.</li>"
-"<li>Pellizca con 2 o más dedos para ajustar el zoom.</li></ul>"
+"&lt;b&gt;Para acercar&lt;/b&gt;", presiona el botón de Accesibilidad y, luego, presiona cualquier lugar de la pantalla.
+"&lt;ul&gt;&lt;li&gt;Arrastra 2 o más dedos para desplazarte.&lt;/li&gt;"
+"&lt;li&gt;Pellizca con 2 o más dedos para ajustar el zoom.&lt;/li&gt;&lt;/ul&gt;"
 
-"<b>Para hacer zoom de manera temporal</b>", presiona el botón de Accesibilidad y, luego, mantén presionado cualquier lugar de la pantalla.
-"<ul><li>Arrastra el dedo para moverte por la pantalla.</li>"
-"<li>Levanta el dedo para alejar la imagen.</li></ul>"
+"&lt;b&gt;Para hacer zoom de manera temporal&lt;/b&gt;", presiona el botón de Accesibilidad y, luego, mantén presionado cualquier lugar de la pantalla.
+"&lt;ul&gt;&lt;li&gt;Arrastra el dedo para moverte por la pantalla.&lt;/li&gt;"
+"&lt;li&gt;Levanta el dedo para alejar la imagen.&lt;/li&gt;&lt;/ul&gt;"
 
 No puedes hacer acercar con el teclado ni en la barra de navegación."</string>
     <string name="accessibility_screen_magnification_navbar_title">Ampliar con el botón</string>
     <string name="accessibility_screen_magnification_short_summary">Presiona tres veces para aplicar el zoom</string>
     <string name="accessibility_screen_magnification_state_navbar_gesture">Ampliar con el botón y al presionar tres veces</string>
-    <string name="accessibility_screen_magnification_summary"><b>Para ampliar</b>", presiona la pantalla 3 veces rápidamente 
-"<ul><li>Arrastra 2 o más dedos para desplazarte.</li>"
-"<li>Pellizca con 2 o más dedos para ajustar el zoom.</li></ul>"
+    <string name="accessibility_screen_magnification_summary">&lt;b&gt;Para ampliar&lt;/b&gt;", presiona la pantalla 3 veces rápidamente 
+"&lt;ul&gt;&lt;li&gt;Arrastra 2 o más dedos para desplazarte.&lt;/li&gt;"
+"&lt;li&gt;Pellizca con 2 o más dedos para ajustar el zoom.&lt;/li&gt;&lt;/ul&gt;"
 
-"<b>Para hacer zoom de manera temporal</b>", presiona la pantalla 3 veces rápidamente y mantén presionado la última vez.
-"<ul><li>Arrastra el dedo para moverte por la pantalla.</li>"
-"<li>Levanta el dedo para alejar la imagen.</li></ul>"
+"&lt;b&gt;Para hacer zoom de manera temporal&lt;/b&gt;", presiona la pantalla 3 veces rápidamente y mantén presionado la última vez.
+"&lt;ul&gt;&lt;li&gt;Arrastra el dedo para moverte por la pantalla.&lt;/li&gt;"
+"&lt;li&gt;Levanta el dedo para alejar la imagen.&lt;/li&gt;&lt;/ul&gt;"
 
 No puedes acercar con el teclado ni en la barra de navegación."</string>
     <string name="accessibility_screen_magnification_title">Ampliación</string>
@@ -1325,10 +1325,10 @@ Recuerda que los datos registrados por el teléfono y el proveedor pueden ser di
     <string name="data_usage_restrict_denied_dialog">Solo se pueden restringir los datos en segundo plano si estableciste un límite de datos móviles.</string>
     <string name="data_usage_summary_format">%1$s de datos usados</string>
     <string name="data_usage_summary_title">Uso de datos</string>
-    <string name="data_usage_sweep_limit"><font size="18">^1</font> <font size="9">^2</font>"
-"<font size="12">límite</font></string>
-    <string name="data_usage_sweep_warning"><font size="18">^1</font><font size="9">^2</font>"
-"<font size="12">advertencia</font></string>
+    <string name="data_usage_sweep_limit">&lt;font size="18"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
+"&lt;font size="12"&gt;límite&lt;/font&gt;</string>
+    <string name="data_usage_sweep_warning">&lt;font size="18"&gt;^1&lt;/font&gt;&lt;font size="9"&gt;^2&lt;/font&gt;"
+"&lt;font size="12"&gt;advertencia&lt;/font&gt;</string>
     <string name="data_usage_tab_3g">2 GB - 3 GB</string>
     <string name="data_usage_tab_4g">4 GB</string>
     <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -1949,8 +1949,8 @@ Parecía no haber caballos ni animales de ningún tipo. Los hombres cargaban obj
     <string name="force_touch_enable_tips">Presione los iconos de las apps en el lanzador de manera prolongada para ver los accesos directos cuando el 3D Touch esté activado.</string>
     <string name="foreground_traffic">Primer plano %s</string>
     <string name="forget">Olvidar</string>
-    <string name="forget_password_button_text"><u>Contraseña olvidada</u></string>
-    <string name="forget_pattern"><u>¿Olvidó su patrón?</u></string>
+    <string name="forget_password_button_text">&lt;u&gt;Contraseña olvidada&lt;/u&gt;</string>
+    <string name="forget_pattern">&lt;u&gt;¿Olvidó su patrón?&lt;/u&gt;</string>
     <string name="forget_privacy_password_setting">Agregar Mi Cuenta</string>
     <string name="forget_privacy_password_summary">Use Mi Cuenta para restablecer su contraseña</string>
     <string name="forget_wifi_message">Su teléfono dejará de conectarse a esta red automáticamente.</string>
@@ -2574,22 +2574,22 @@ Puedes cambiar esta opción más tarde en Configuración > Apps y notificaciones
 Accediste a las siguientes cuentas:
 "</string>
     <string name="master_clear_all">¿Borrar todos los datos de la memoria interna de tu teléfono? ¡Esta acción no podrá deshacerse!</string>
-    <string name="master_clear_apply_step_1"><b>“Reinicio de fábrica” eliminará todos los datos de su teléfono</b>, incluyendo fotos, canciones, notas y otros datos personales. Asegúrese de copiar en su ordenador cualquier elemento importante.</string>
-    <string name="master_clear_apply_step_2">Asegúrese de que todos los elementos importantes están respaldados en su computadora. Todos los datos en este dispositivo se borrarán durante la restauración.<b> No podrá restaurar los elementos que no haya respaldado.</b></string>
+    <string name="master_clear_apply_step_1">&lt;b&gt;“Reinicio de fábrica” eliminará todos los datos de su teléfono&lt;/b&gt;, incluyendo fotos, canciones, notas y otros datos personales. Asegúrese de copiar en su ordenador cualquier elemento importante.</string>
+    <string name="master_clear_apply_step_2">Asegúrese de que todos los elementos importantes están respaldados en su computadora. Todos los datos en este dispositivo se borrarán durante la restauración. &lt;b&gt;No podrá restaurar los elementos que no haya respaldado.&lt;/b&gt;</string>
     <string name="master_clear_apply_title">Advertencia</string>
     <string name="master_clear_button_text">Restablecer dispositivo</string>
     <string name="master_clear_confirm_title">¿Restablecer?</string>
-    <string name="master_clear_desc">Se borrarán todos los datos del <b>almacenamiento interno</b>" del dispositivo, por ejemplo:
+    <string name="master_clear_desc">Se borrarán todos los datos del &lt;b&gt;almacenamiento interno&lt;/b&gt;" del dispositivo, por ejemplo:
 
-"<li>La cuenta de Google</li>"
-"<li>Datos de apps y configuraciones</li>"
-"<li>Apps descargadas</li></string>
-    <string name="master_clear_desc_also_erases_external"><li>Música</li>"
-"<li>Fotos</li>"
-"<li>Otros datos de usuario</li></string>
+"&lt;li&gt;La cuenta de Google&lt;/li&gt;"
+"&lt;li&gt;Datos de apps y configuraciones&lt;/li&gt;"
+"&lt;li&gt;Apps descargadas&lt;/li&gt;</string>
+    <string name="master_clear_desc_also_erases_external">&lt;li&gt;Música&lt;/li&gt;"
+"&lt;li&gt;Fotos&lt;/li&gt;"
+"&lt;li&gt;Otros datos de usuario&lt;/li&gt;</string>
     <string name="master_clear_desc_erase_external_storage">"
 
-Para borrar música, imágenes y otros datos del usuario, debes borrar la "<b>tarjeta SD</b>.</string>
+Para borrar música, imágenes y otros datos del usuario, debes borrar la "&lt;b&gt;tarjeta SD&lt;/b&gt;.</string>
     <string name="master_clear_erase_application_progress">Eliminar apps…</string>
     <string name="master_clear_failed">No se realizó ningún restablecimiento debido a que el servicio \"Eliminar sistema\" no está disponible.</string>
     <string name="master_clear_final_button_text">Eliminar todo</string>
@@ -3353,7 +3353,7 @@ La app podrá activar y desactivar el modo No molestar, y cambiar la configuraci
     <string name="privacy_authorize_cloud_msg">Para garantizar la seguridad de su cuenta, inicie sesión en i.mi.com si desea cancelar la autorización de los servicios de Mi Cloud (incluyendo sincronización y respaldos).</string>
     <string name="privacy_authorize_dialog_agree">Aceptar</string>
     <string name="privacy_authorize_dialog_exit">Salir</string>
-    <string name="privacy_authorize_dialog_message"><Data>Para usar las funciones básicas de este dispositivo, debe aceptar que Xiaomi recolecte, procese y use su información personal. Consulte nuestra Política de Privacidad para aprender cómo recolectamos y procesamos la información personal. Seleccionando \"Acepto\" declara que ha leído y está de acuerdo con nuestra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidad&lt;/a> y &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Acuerdo de Usuario&lt;/a>.</Data></string>
+    <string name="privacy_authorize_dialog_message">&lt;Data&gt;Para usar las funciones básicas de este dispositivo, debe aceptar que Xiaomi recolecte, procese y use su información personal. Consulte nuestra Política de Privacidad para aprender cómo recolectamos y procesamos la información personal. Seleccionando \"Acepto\" declara que ha leído y está de acuerdo con nuestra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidad&lt;/a> y &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Acuerdo de Usuario&lt;/a>.&lt;/Data&gt;</string>
     <string name="privacy_authorize_network_error">Conéctese a la red y vuelva a intentarlo.</string>
     <string name="privacy_authorize_privacy_policy">Política de Privacidad</string>
     <string name="privacy_authorize_revoke">Revocar</string>
@@ -3584,11 +3584,11 @@ Interfaz de UT: %5$s"</string>
     <string name="reset_app_preferences_button">Restablecer aplicaciones</string>
     <string name="reset_app_preferences_desc">"Se restablecerán todas las preferencias de:
 
- "<li>Aplicaciones inhabilitadas</li>"
- "<li>Notificaciones de aplicaciones inhabilitadas</li>"
- "<li>Aplicaciones predeterminadas para realizar acciones</li>"
- "<li>Restricciones de datos en segundo plano para aplicaciones</li>"
- "<li>Restricciones de permisos</li>"
+ "&lt;li&gt;Aplicaciones inhabilitadas&lt;/li&gt;"
+ "&lt;li&gt;Notificaciones de aplicaciones inhabilitadas&lt;/li&gt;"
+ "&lt;li&gt;Aplicaciones predeterminadas para realizar acciones&lt;/li&gt;"
+ "&lt;li&gt;Restricciones de datos en segundo plano para aplicaciones&lt;/li&gt;"
+ "&lt;li&gt;Restricciones de permisos&lt;/li&gt;"
 
  Los datos de las aplicaciones no se perderán."</string>
     <string name="reset_app_preferences_title">¿Restablecer?</string>
@@ -3602,9 +3602,9 @@ Interfaz de UT: %5$s"</string>
     <string name="reset_network_data">Datos móviles</string>
     <string name="reset_network_desc">"Se restablecerán las opciones de configuración de todas las redes, incluidos:
 
-"<li>Wi‑Fi</li>"
-"<li>datos móviles</li>"
-"<li>Bluetooth</li></string>
+"&lt;li&gt;Wi‑Fi&lt;/li&gt;"
+"&lt;li&gt;datos móviles&lt;/li&gt;"
+"&lt;li&gt;Bluetooth&lt;/li&gt;</string>
     <string name="reset_network_final_button_text">Restablecer configuración</string>
     <string name="reset_network_final_desc">¿Quieres restablecer la configuración de red? Esta acción no se puede deshacer.</string>
     <string name="reset_network_title">Restablecer configuración de red</string>
@@ -4494,13 +4494,13 @@ Podrás volver a instalar las aplicaciones en otro momento, pero se perderán lo
 
 Todos los datos se borrarán de ^1. Primero, deberías realizar una copia de seguridad. 
 
-"<b>Realizar una copia de seguridad de las fotos y otro contenido multimedia</b>" 
+"&lt;b&gt;Realizar una copia de seguridad de las fotos y otro contenido multimedia&lt;/b&gt;" 
 Transfiere los archivos multimedia a un medio de almacenamiento alternativo en este dispositivo o a un equipo mediante un cable USB. 
 
-"<b>Realizar una copia de seguridad de las aplicaciones</b>" 
+"&lt;b&gt;Realizar una copia de seguridad de las aplicaciones&lt;/b&gt;" 
 Se desinstalarán todas las aplicaciones guardadas en ^1 y se eliminarán todos los datos relacionados. Para conservar estas aplicaciones, puedes transferirlas a un medio de almacenamiento alternativo en este dispositivo."</string>
     <string name="storage_internal_title">Almacenamiento no ocupado por el sistema</string>
-    <string name="storage_internal_unmount_details"><b>Al expulsar este dispositivo interno ^1, las aplicaciones allí guardadas dejarán de funcionar, y los archivos multimedia almacenados no estarán disponibles hasta que vuelvas a insertarlo.</b>" 
+    <string name="storage_internal_unmount_details">&lt;b&gt;Al expulsar este dispositivo interno ^1, las aplicaciones allí guardadas dejarán de funcionar, y los archivos multimedia almacenados no estarán disponibles hasta que vuelvas a insertarlo.&lt;/b&gt;" 
 
 El medio de almacenamiento ^1 está formateado para funcionar solo en este dispositivo; no funcionará en otro."</string>
     <string name="storage_label">Espacio de almacenamiento</string>
@@ -4533,8 +4533,8 @@ El medio de almacenamiento ^1 está formateado para funcionar solo en este dispo
     <string name="storage_settings">Espacio de almacenamiento</string>
     <string name="storage_settings_summary">Desmontar tarjeta SD, ver espacio de almacenamiento disponible</string>
     <string name="storage_settings_title">Configuración de almacenamiento</string>
-    <string name="storage_size_large">^1<small><small> ^2</small></small></string>
-    <string name="storage_size_large_alternate">^1<small> ^2</small></string>
+    <string name="storage_size_large">^1&lt;small&gt;&lt;small&gt; ^2&lt;/small&gt;&lt;/small&gt;</string>
+    <string name="storage_size_large_alternate">^1&lt;small&gt; ^2&lt;/small&gt;</string>
     <string name="storage_summary">En uso: %1$s - Libre: %2$s</string>
     <string name="storage_summary_format">%1$s usado en %2$s</string>
     <string name="storage_summary_with_sdcard">Almacenamiento interno: %1$s en uso (%2$s libre)</string>
@@ -4554,10 +4554,10 @@ El medio de almacenamiento ^1 está formateado para funcionar solo en este dispo
 
 Al finalizar, el medio de almacenamiento ^1 solo funcionará en este dispositivo. 
 
-"<b>Al formatearlo, borrarás todos los datos almacenados en ^1 de forma reciente.</b> Para evitar perderlos, puedes realizar una copia de seguridad.</string>
+"&lt;b&gt;Al formatearlo, borrarás todos los datos almacenados en ^1 de forma reciente.&lt;/b&gt; Para evitar perderlos, puedes realizar una copia de seguridad.</string>
     <string name="storage_wizard_format_confirm_next">Borrar y formatear</string>
     <string name="storage_wizard_format_confirm_public_body">"Es necesario formatear ^1. 
-"<b>Al formatear se eliminarán todos los datos almacenados en ^1.</b> Para evitar la pérdida de datos, haga una copia de seguridad.</string>
+"&lt;b&gt;Al formatear se eliminarán todos los datos almacenados en ^1.&lt;/b&gt; Para evitar la pérdida de datos, haga una copia de seguridad.</string>
     <string name="storage_wizard_format_confirm_public_title">Formatear como almacen. portátil</string>
     <string name="storage_wizard_format_confirm_third_body">^1 está en proceso de formateo</string>
     <string name="storage_wizard_format_confirm_title">Formatear como almacenamiento</string>
@@ -4570,7 +4570,7 @@ Al finalizar, el medio de almacenamiento ^1 solo funcionará en este dispositivo
     <string name="storage_wizard_init_title">Configurar el dispositivo ^1</string>
     <string name="storage_wizard_migrate_body">"Puede mover sus fotos, archivos y algunas apps a ^1. 
 Tardará ^2 y liberará ^3 de almacenamiento interno. Algunas apps no funcionarán durante el proceso."</string>
-    <string name="storage_wizard_migrate_confirm_body"><b>Transferir el contenido demora alrededor de ^1. Con esta acción, liberarás ^2 de ^3.</b></string>
+    <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;Transferir el contenido demora alrededor de ^1. Con esta acción, liberarás ^2 de ^3.&lt;/b&gt;</string>
     <string name="storage_wizard_migrate_confirm_next">Transferir</string>
     <string name="storage_wizard_migrate_confirm_title">Transferencia de datos</string>
     <string name="storage_wizard_migrate_details">"Al transferir el contenido: 
@@ -4681,7 +4681,7 @@ Considera utilizar una ^1 más rápida para mejorar el rendimiento."</string>
     <string name="sync_now">Sincronizar</string>
     <string name="sync_one_time_sync">"Presiona para sincronizar ahora
 %1$s"</string>
-    <string name="sync_plug"><font fgcolor="#ffffffff">Te damos la bienvenida a Google Sync</font>"  
+    <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Te damos la bienvenida a Google Sync&lt;/font&gt;"  
 Con este software de Google, puedes sincronizar tus datos y acceder a tus contactos, citas y más desde cualquier lugar."</string>
     <string name="sync_settings">Sincronización</string>
     <string name="sync_wifi_label">Wi-Fi</string>
@@ -5638,7 +5638,7 @@ Toque el \"más\" para agregar palabras."</string>
     <string name="wifi_setup_back">Atrás</string>
     <string name="wifi_setup_cancel">Cancelar</string>
     <string name="wifi_setup_connect">Conectar</string>
-    <string name="wifi_setup_description_connected">Toque<b> Siguiente</b> para continuar con la configuración. Toque <b>Volver</b> para conectarse a otras redes Wi-Fi.</string>
+    <string name="wifi_setup_description_connected">Toque &lt;b&gt;Siguiente&lt;/b&gt; para continuar con la configuración. Toque &lt;b&gt;Volver&lt;/b&gt; para conectarse a otras redes Wi-Fi.</string>
     <string name="wifi_setup_description_connecting">La conexión puede demorar unos minutos...</string>
     <string name="wifi_setup_detail">Detalles de la red</string>
     <string name="wifi_setup_eap_not_supported">Durante la configuración no puede definir una conexión Wi-Fi EAP, pero puede hacerlo cuando haya finalizado a través de ajustes y conexiones inalámbricas y redes.</string>

@@ -748,8 +748,8 @@ Se requiere un mensaje SMS para activar Mi Mensaje. Tu operador te cobrará por 
     <string name="second_mms_introduction">Ir al Segundo espacio</string>
     <string name="second_mms_switch">Cambiar</string>
     <string name="secs">segs</string>
-    <string name="security_alert_desc">"<font color="#7f000000">"El remitente no está en sus contactos.\"
-\" "</font>"</string>
+    <string name="security_alert_desc">"&lt;font color="#7f000000"&gt;"El remitente no está en sus contactos.\"
+\" "&lt;/font&gt;"</string>
     <string name="security_alert_desc_highlight">Notificar este número</string>
     <string name="security_alert_dialog_desc">Enviar este número (%s) y el mensaje a Xiaomi para su revisión.</string>
     <string name="security_alert_dialog_title">Notificar</string>
@@ -930,7 +930,7 @@ Intentos realizados: %s."</string>
     <string name="url_fraud_risky_alert">"El sitio %s que intenta visitar podría ser peligroso. ¿Visitar?
 "</string>
     <string name="url_fraud_title">El sitio web puede ser falso</string>
-    <string name="url_fraud_visit"><u>Visitar de todos modos</u></string>
+    <string name="url_fraud_visit">&lt;u&gt;Visitar de todos modos&lt;/u&gt;</string>
     <string name="url_result_safe">Esta URL es segura</string>
     <string name="url_scan_again">Comprobar de nuevo</string>
     <string name="url_scanning">Comprobando URL…</string>
