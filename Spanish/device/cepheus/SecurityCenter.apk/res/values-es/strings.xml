@@ -766,7 +766,6 @@ No perderás ningún dato de la aplicación."</string>
     <string name="card_main_private_space_summary">Usar el Segundo espacio es como tener dos dispositivos</string>
     <string name="card_main_private_space_title">Segundo espacio</string>
     <string name="card_main_sectool_title">Herramientas</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">Crear</string>
     <string name="card_main_xspace_summary">Cree cuentas duales para cualquier aplicación</string>
     <string name="card_main_xspace_title">Aplicaciones duales</string>
@@ -969,7 +968,6 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="doze_optimization_title">Controles táctiles optimizados</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
-    <string name="ellipsis">…</string>
     <string name="email">Correo electrónico</string>
     <string name="empty_app">Sin aplicaciones</string>
     <string name="empty_title_auto_start_list">No hay aplicaciones que puedan iniciarse automáticamente.</string>
@@ -1021,9 +1019,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="exo_download_notification_channel_name">Descargas</string>
     <string name="exo_download_removing">Quitando descargas</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d×%2$d</string>
     <string name="exo_track_selection_auto">Automático</string>
     <string name="exo_track_selection_none">Ninguna</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -1670,11 +1666,9 @@ responda"</string>
     <string name="menu_text_antispam">Lista de bloqueo</string>
     <string name="menu_text_antivirus">Análisis de seguridad</string>
     <string name="menu_text_garbage_cleanup">Limpiador</string>
-    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_license_manager">Permisos</string>
     <string name="menu_text_networkassistants">Uso de datos</string>
     <string name="menu_text_networkassistants_danger">%s por encima del límite</string>
-    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s restantes</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -1682,7 +1676,6 @@ responda"</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_optimize_manage">Aumento de velocidad</string>
     <string name="menu_text_power_manager">Batería y rendimiento</string>
-    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Eliminar de la lista de excepciones</string>
     <string name="menu_white">Agregar a excepciones</string>
     <string name="mi_service_app_detail">Detalles del uso de datos</string>
@@ -2062,11 +2055,6 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="power_center_dialog_msg_top">Cuando el Ahorro de batería esté activado, MIUI realizará las siguientes optimizaciones:</string>
     <string name="power_center_hints_scan_danger_result">Puedes solucionar problemas de batería ahora</string>
     <string name="power_center_list_item_auto_brightness">Ajustar brillo de la pantalla automáticamente</string>
-    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
-    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
-    <string name="power_center_list_item_battery_status_capacity">mAh</string>
-    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">h</string>
     <string name="power_center_list_item_close_bluetooth">Desactivar Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Ajustes avanzados</string>
@@ -2243,7 +2231,6 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="pref_normal_traffic_limit">Cuando el plan de datos se agote</string>
     <string name="pref_open_adjust_traffic">Actualizar uso de datos diariamente usando las estadísticas de su operadora</string>
     <string name="pref_operator_not_set">No se ha establecido ninguna compañía telefónica</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Cuando sobrepase su plan de datos</string>
     <string name="pref_package_traffic_settings">Plan de datos</string>
     <string name="pref_pkg_begin_date">Reinicio del período de facturación</string>
@@ -2407,7 +2394,6 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="privacy_using_record">Grabar audio</string>
     <string name="privacyapp_number_masked_text">El contenido de las notificaciónes está oculto</string>
     <string name="privacyapp_number_unmasked_text">El contenido de las notificaciónes puede estar oculto</string>
-    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Servidor multimedia</string>
     <string name="process_vpnsdkmanager_label">Game Turbo</string>
     <string name="promotion">Anuncio</string>

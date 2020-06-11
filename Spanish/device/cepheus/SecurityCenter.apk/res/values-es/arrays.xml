@@ -69,12 +69,6 @@
         <item>Podrás monitorear y grabar el contenido de tu pantalla de forma remota.</item>
         <item>Será posible acceder a la información detallada sobre tu dispositivo.</item>
     </string-array>
-    <string-array name="key_app_info">
-        <item>install_source</item>
-        <item>install_time</item>
-        <item>update_source</item>
-        <item>update_time</item>
-    </string-array>
     <string-array name="lock_mode">
         <item>Cuando el dispositivo esté bloqueado</item>
         <item>Cuando el dispositivo esté bloqueado o después de salir de la aplicación</item>
@@ -93,20 +87,10 @@
         <item>Importante: varias aplicaciones del sistema podrían dejar de funcionar correctamente.</item>
         <item>Es posible que los diseños de texto, las cuentas y el contenido no se muestren correctamente.</item>
     </string-array>
-    <string-array name="operate_entries">
-        <item>@string/auto_task_operation_open</item>
-        <item>@string/auto_task_operation_close</item>
-        <item>@string/auto_task_operation_no_op</item>
-    </string-array>
     <string-array name="operate_entryValues">
         <item>0</item>
         <item>1</item>
         <item>2</item>
-    </string-array>
-    <string-array name="operate_memory_entries">
-        <item>@string/auto_task_operation_open</item>
-        <item>@string/auto_task_operation_close</item>
-        <item>@string/auto_task_operation_no_op</item>
     </string-array>
     <string-array name="operate_memory_entryValues">
         <item>0</item>
@@ -116,10 +100,6 @@
     <string-array name="over_limit_traffic_waring_style">
         <item>Mostrar aviso</item>
         <item>Advertir y desactivar los datos móviles</item>
-    </string-array>
-    <string-array name="pc_battery_history_spinner_choice">
-        <item>@string/pc_battery_history_consume_rank_menu_item</item>
-        <item>@string/pc_battery_history_battery_detail_menu_item</item>
     </string-array>
     <string-array name="pc_settings_thermal_entries">
         <item>Predeterminado</item>
