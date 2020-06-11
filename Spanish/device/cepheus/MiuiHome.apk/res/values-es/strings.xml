@@ -27,7 +27,9 @@
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
-    <string name="accessibility_menu_item_split_disable">La aplicación no es compatible con la Pantalla dividida.</string>
+    <string name="accessibility_menu_item_smallwindow_disable">"Esta aplicación no admite ventanas flotantes"</string>
+    <string name="accessibility_menu_item_smallwindow_enable">Esta aplicación admite ventanas flotantes</string>
+    <string name="accessibility_menu_item_split_disable">La aplicación no soporta la Pantalla dividida.</string>
     <string name="accessibility_menu_item_split_enable">La aplicación soporta la Pantalla dividida</string>
     <string name="accessibility_recent_task_enter">Se abrió Recientes</string>
     <string name="accessibility_recent_task_exit">Se cerró Recientes</string>
@@ -379,6 +381,8 @@
     <string name="open_personal_assistant_dialog_title">Desactivar Bóveda de aplicaciones</string>
     <string name="open_personal_assistant_title">Bóveda de aplicaciones</string>
     <string name="out_of_space">No queda más espacio en esta Pantalla de inicio</string>
+    <string name="perfect_icons_switch_summary">Renderizar animaciones en iconos de aplicaciones de terceros</string>
+    <string name="perfect_icons_switch_title">Animaciones globales en íconos</string>
     <string name="permdesc_install_shortcut">Permitir que una aplicación añada accesos directos sin intervención del usuario.</string>
     <string name="permdesc_install_widget">Permitir que una aplicación añada widgets sin la intervención del usuario.</string>
     <string name="permdesc_read_settings">Permitir a una aplicación leer los ajustes y accesos directos de la Pantalla de inicio.</string>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="add_secret_ensure_message">
-        <item quantity="other">¿Ocultar estos archivos?</item>
-        <item quantity="one">¿Ocultar este archivo?</item>
+        <item quantity="other">¿Añadir estos elementos al álbum privado?</item>
+        <item quantity="one">¿Añadir este elemento al álbum privado?</item>
     </plurals>
     <plurals name="add_to_album_cloud_photo_count_tip">
         <item quantity="other">Añadidas %d fotos en la nube, desactiva \"Mostrar solo álbumes locales\" para ver.</item>
@@ -13,8 +13,8 @@
         <item quantity="one">%2$d elemento no puede ser agregado al álbum. %1$s.</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
-        <item quantity="other">%2$d elementos no se pueden agregar al álbum oculto. %1$s.</item>
-        <item quantity="one">%2$d elemento no se puede agregar al álbum oculto. %1$s.</item>
+        <item quantity="other">%2$d elementos no pueden ser añadidos al álbum privado. %1$s.</item>
+        <item quantity="one">%2$d elemento no puede ser añadido al álbum privado. %1$s.</item>
     </plurals>
     <plurals name="age_day">
         <item quantity="other">%d días</item>
@@ -47,6 +47,10 @@
     <plurals name="album_item_msg_format_new">
         <item quantity="other">%d álbumes</item>
         <item quantity="one">%d álbum</item>
+    </plurals>
+    <plurals name="album_member">
+        <item quantity="other">%s personas pueden ver este álbum</item>
+        <item quantity="one">%s persona puede ver este álbum</item>
     </plurals>
     <plurals name="album_photo_count_text">
         <item quantity="other">%1$d elementos</item>
@@ -257,16 +261,24 @@
         <item quantity="one">La foto seleccionada (%dMB) no se encuentra en el dispositivo. ¿Deseas descargarla usando datos móviles?</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
-        <item quantity="other">¿Cancelar la descarga de las %d fotos restantes?</item>
-        <item quantity="one">¿Cancelar la descarga de la foto restante?</item>
+        <item quantity="other">Todavía no se ha descargado %d archivos. ¿Cancelar de todas formas?</item>
+        <item quantity="one">Todavía no se ha descargado %d archivo. ¿Cancelar de todas formas?</item>
+    </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">Descargando %d archivos restantes</item>
+        <item quantity="one">Descargando %d archivo restante</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
         <item quantity="other">No se pudieron descargar %1$d fotos, conéctate a la red e inténtalo de nuevo</item>
         <item quantity="one">No se pudo descargar la foto, conéctate a la red e inténtalo de nuevo</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">No se pudieron descargar %1$d fotos (%2$dMB), conéctate a la red e inténtalo de nuevo</item>
-        <item quantity="one">No se pudo descargar la foto (%2$dMB), conéctate a la red e inténtalo de nuevo</item>
+        <item quantity="other">No se pudo descargar %1$d archivo (%2$dMB). Conecta a la red y vuelve a intentarlo.</item>
+        <item quantity="one">No se pudo descargar %1$d archivo (%2$dMB). Conecta a la red y vuelve a intentarlo.</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">Todavía no se ha descargado %1$d archivos (%2$dMB). ¿Descargar usando datos móviles?</item>
+        <item quantity="one">Todavía no se ha descargado %1$d archivo (%2$dMB). ¿Descargar usando datos móviles?</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">No se pudieron descargar %1$d fotos, ¿intentar de nuevo?</item>
@@ -278,7 +290,7 @@
     </plurals>
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">Se han omitido %d fotos que no están en el dispositivo.</item>
-        <item quantity="one">Se ha omitido una foto que no está en el dispositivo.</item>
+        <item quantity="one">Se ha omitido %d foto que no está en el dispositivo.</item>
     </plurals>
     <plurals name="quickly_discovery_message_format">
         <item quantity="other">Se encontraron %1$d fotos</item>
@@ -289,8 +301,8 @@
         <item quantity="one">%d foto en total</item>
     </plurals>
     <plurals name="remove_from_secret_failed_with_reason_and_count">
-        <item quantity="other">%2$d elementos no pueden eliminarse del álbum oculto. %1$s.</item>
-        <item quantity="one">%2$d elemento no puede eliminarse del álbum oculto. %1$s.</item>
+        <item quantity="other">%2$d elementos no pueden ser eliminados del álbum privado. %1$s.</item>
+        <item quantity="one">%2$d elemento no puede ser eliminado del álbum privado. %1$s.</item>
     </plurals>
     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">%1$d fotos añadidas a \"%2$s\" y añadidas a la base de datos.</item>
