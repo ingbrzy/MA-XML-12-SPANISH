@@ -28,18 +28,18 @@
     <string name="audio_toast_network_is_not_available">No se pudo conectar a la red</string>
     <string name="call_folder_name">Notas de llamada</string>
     <string name="cancel_alarm_description">Cancelar alarma</string>
-    <string name="cloud_service_state_open_reminder">Activar sincronización con Mi Cloud para sincronizar notas.</string>
-    <string name="cloud_trash_bin_title">Eliminar notas en Mi Cloud</string>
-    <string name="cta_reminder">Esta aplicación necesita conectarse a internet para respaldar las notas en Mi Cloud y leer sus contactos para etiquetar las notas que tome mientras realiza una llamada.</string>
+    <string name="cloud_service_state_open_reminder">Activar sincronización con Xiaomi Cloud para sincronizar notas.</string>
+    <string name="cloud_trash_bin_title">Eliminar notas en Xiaomi Cloud</string>
+    <string name="cta_reminder">Esta aplicación necesita conectarse a internet para respaldar las notas en Xiaomi Cloud y leer sus contactos para etiquetar las notas que tome mientras realiza una llamada.</string>
     <string name="date_time_picker_alarm_reminder">Alarma</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="date_time_picker_has_not_set_alarm">Alarma no establecida</string>
     <string name="date_time_picker_has_set_alarm">Establecido con éxito</string>
     <string name="db_downgrade_clear_button">Borrar datos de aplicación</string>
-    <string name="db_downgrade_clear_date_reminder">Cambiar a otra versión de MIUI requiere borrar los datos de la aplicación. Antes de hacerlo, asegúrese de haber respaldado sus notas con Mi Cloud.</string>
+    <string name="db_downgrade_clear_date_reminder">Cambiar a otra versión de MIUI requiere borrar los datos de la aplicación. Antes de hacerlo, asegúrese de haber respaldado sus notas con Xiaomi Cloud.</string>
     <string name="default_folder_name">Notas</string>
     <string name="delete_folder_dialog_tile">Eliminar carpeta</string>
-    <string name="dialog_privacy_revoke_tips">Después de cancelar la autorización, la aplicación dejará de recolectar información y todos los datos relacionados se eliminarán de los servidores. Esto podría hacer que la aplicación sea prácticamente inutilizable. ¿Desea cancelar la autorización? Para garantizar la seguridad de su cuenta, inicie sesión en i.mi.com antes de cancelar la autorización de los servicios Mi Cloud.</string>
+    <string name="dialog_privacy_revoke_tips">Después de cancelar la autorización, la aplicación dejará de recolectar información y todos los datos relacionados se eliminarán de los servidores. Esto podría hacer que la aplicación sea prácticamente inutilizable. ¿Desea cancelar la autorización? Para garantizar la seguridad de su cuenta, inicie sesión en i.mi.com antes de cancelar la autorización de los servicios Xiaomi Cloud.</string>
     <string name="dialog_share_as_pic">Compartir nota como imagen</string>
     <string name="dialog_share_as_text">Compartir nota como texto</string>
     <string name="dlg_btn_set_password">Establecer contraseña</string>
@@ -115,7 +115,7 @@
     <string name="menu_unhide">Desocultar</string>
     <string name="menu_unstick">Desanclar</string>
     <string name="not_now">Ahora no</string>
-    <string name="note_description_content">Notas es una gran herramienta para registrar sus ideas. Cuenta con recordatorios y sincroniza sus elementos con Mi Cloud para que pueda acceder a ellos cuando y donde lo desee. Asegúrese de que puede realizar estas acciones antes de eliminar la aplicación.</string>
+    <string name="note_description_content">Notas es una gran herramienta para registrar sus ideas. Cuenta con recordatorios y sincroniza sus elementos con Xiaomi Cloud para que pueda acceder a ellos cuando y donde lo desee. Asegúrese de que puede realizar estas acciones antes de eliminar la aplicación.</string>
     <string name="note_description_title">Acerca de Notas</string>
     <string name="note_link_email">Redactar email</string>
     <string name="note_link_other">Abrir utilizando la app de mapas</string>
@@ -129,7 +129,7 @@
     <string name="permdesc_accessNote">Las apps maliciosas pueden usar esto para acceder a sus datos personales.</string>
     <string name="permlab_accessNote">Acceder a sus notas</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">No preguntar por confirmación cuando se elimine una nota usando un gesto</string>
-    <string name="pref_title_cloud_trash_bin">Notas eliminadas de Mi Cloud</string>
+    <string name="pref_title_cloud_trash_bin">Notas eliminadas de Xiaomi Cloud</string>
     <string name="pref_title_common">Ajustes adicionales</string>
     <string name="pref_title_font_size">Tamaño de fuente</string>
     <string name="pref_title_note_style">Estilo</string>
@@ -178,7 +178,7 @@
     <string name="sns_title_send">Enviar mensaje</string>
     <string name="sns_toast_empty">No se puede enviar un mensaje vacío</string>
     <string name="sns_toast_over_limit">Enviar como imagen</string>
-    <string name="sync_tips">Toca para sincronizar notas con Mi Cloud.</string>
+    <string name="sync_tips">Toca para sincronizar notas con Xiaomi Cloud.</string>
     <string name="theme_blue_description">Azul</string>
     <string name="theme_green_description">Verde</string>
     <string name="theme_red_description">Rojo</string>
@@ -223,6 +223,6 @@
     <string name="widget_content_loading">Espere un segundo…</string>
     <string name="widget_havenot_content">Toque para crear una nota. Mantenga presionado el widget para cambiar el tamaño.</string>
     <string name="welcome_note_for_cm">"¡Y otras grandes características!
- - Sincronizar con Mi Cloud
+ - Sincronizar con Xiaomi Cloud
  - Establecer recordatorios"</string>
 </resources>

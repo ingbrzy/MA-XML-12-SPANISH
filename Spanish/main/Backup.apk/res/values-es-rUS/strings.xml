@@ -46,8 +46,8 @@ Tamaño de actualización Delta: %2$s"</string>
     <string name="settings_summary">Ajustes de mensajes y teléfono</string>
     <string name="camera_summary">Ajustes de cámara (sin incluir fotos)</string>
     <string name="account_summary">Respaldar la cuenta de Google, Mi Cuenta y otros datos de usuario</string>
-    <string name="cloud_app_name">Respaldo de Mi Cloud</string>
-    <string name="cloud_home_title">Mi Cloud</string>
+    <string name="cloud_app_name">Respaldo de Xiaomi Cloud</string>
+    <string name="cloud_home_title">Xiaomi Cloud</string>
     <string name="prompt_reading">Leyendo…</string>
     <string name="prompt_sending">Subiendo…</string>
     <string name="prompt_writing">Guardando…</string>
@@ -55,17 +55,17 @@ Tamaño de actualización Delta: %2$s"</string>
     <string name="backup_update">Actualizar</string>
     <string name="backup_delete">Eliminar:</string>
     <string name="findlost_contact">Recuperar contactos</string>
-    <string name="findlost_contact_online">Recuperar contactos desde Mi Cloud</string>
+    <string name="findlost_contact_online">Recuperar contactos desde Xiaomi Cloud</string>
     <string name="cloud_backup_login">Inicie sesión con su Mi Cuenta</string>
     <string name="cloud_backup_hint">Inicie sesión para acceder a sus copias de seguridad</string>
-    <string name="cloud_backup_window_title">Copia de seguridad de Mi Cloud</string>
-    <string name="cloud_restore_window_title">Recuperación de Mi Cloud</string>
+    <string name="cloud_backup_window_title">Copia de seguridad de Xiaomi Cloud</string>
+    <string name="cloud_restore_window_title">Recuperación de Xiaomi Cloud</string>
     <string name="cloud_restore_title">Restaurar los datos respaldados</string>
     <string name="local_backup_window_title">Copia de seguridad local</string>
     <string name="local_restore_window_title">Restauración local</string>
     <string name="account_login">Iniciar sesión</string>
     <string name="miliao_account_login">Iniciar sesión con Mi Talk</string>
-    <string name="miliao_account_guide">Use su Mi Cuenta para iniciar sesión en Mi Cloud, la tienda de MIUI Temas y otros servicios de Mi desde cualquier lugar.</string>
+    <string name="miliao_account_guide">Use su Mi Cuenta para iniciar sesión en Xiaomi Cloud, la tienda de MIUI Temas y otros servicios de Mi desde cualquier lugar.</string>
     <string name="auto_backup">Programar copia de seguridad de rutina</string>
     <string name="contact_title">Contactos</string>
     <string name="call_title">Historial de llamadas</string>
@@ -112,7 +112,7 @@ Tamaño de actualización Delta: %2$s"</string>
     <string name="sc_network_unavailable">Compruebe su conexión e inténtelo de nuevo.</string>
     <string name="sc_bad_request">Solicitud inválida</string>
     <string name="sc_unaccess_password_file">No se puede encontrar la contraseña de la red Wi-Fi</string>
-    <string name="sc_service_unavailable">El servicio Mi Cloud no está disponible</string>
+    <string name="sc_service_unavailable">El servicio Xiaomi Cloud no está disponible</string>
     <string name="sc_unauthorized">Vuelva a iniciar sesión</string>
     <string name="sc_request_timeout">Tiempo de espera agotado</string>
     <string name="sc_precondition_failed">Primero debe agregar una cuenta de correo a su Mi Cuenta.</string>
@@ -170,7 +170,7 @@ Tamaño de actualización Delta: %2$s"</string>
     <string name="deselect_all">Deseleccionar todo</string>
     <string name="reverse_all">Desmarcar todo</string>
     <string name="refresh">Actualizar</string>
-    <string name="cloud_item_info_summary">" (Local: %1$s | Mi Cloud: %2$s)"</string>
+    <string name="cloud_item_info_summary">" (Local: %1$s | Xiaomi Cloud: %2$s)"</string>
     <string name="cloud_restore_guide">Para restaurar sus datos de usuario para %s, pulse Restaurar</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Descargue la app de Mi Talk e inicie sesión.
 \u0009http://www.miliao.com
@@ -433,7 +433,7 @@ para descargar e instalar Mi Mudanza."</string>
     <string name="trans_intro_title_account">Cuentas y contraseñas:</string>
     <string name="trans_intro_desc_account">Por razones de seguridad debe iniciar sesión de nuevo en sus cuentas (p. ej. Mi Cuenta, Exchange, Google, etc) en un nuevo dispositivo.</string>
     <string name="trans_intro_title_private">Álbum oculto:</string>
-    <string name="trans_intro_desc_private">Mi Mudanza no puede acceder a las fotos del álbum oculto porque están cifradas. Puede restaurar estas fotos desde Mi Cloud en un nuevo dispositivo.</string>
+    <string name="trans_intro_desc_private">Mi Mudanza no puede acceder a las fotos del álbum oculto porque están cifradas. Puede restaurar estas fotos desde Xiaomi Cloud en un nuevo dispositivo.</string>
     <string name="trans_intro_title_multiuser">Datos del Segundo espacio:</string>
     <string name="trans_intro_desc_multiuser">Mi Mudanza no puede acceder a los elementos del Segundo espacio. Muévalos al Primer espacio y ahí abra Mi Mudanza.</string>
     <string name="trans_intro_title_multiapp">Datos de aplicaciones duales:</string>

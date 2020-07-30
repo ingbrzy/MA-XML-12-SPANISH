@@ -28,6 +28,22 @@
         <item quantity="other">%d grabaciones descargadas</item>
         <item quantity="one">%d grabación descargada</item>
     </plurals>
+    <plurals name="recovery_failed_dialog_message">
+        <item quantity="other">"No se pudieron restaurar %d elementos debido a un error desconocido."</item>
+        <item quantity="one">"No se pudo restaurar %d elemento debido a un error desconocido."</item>
+    </plurals>
+    <plurals name="search_alll_records_hint">
+        <item quantity="other">Buscar entre %d grabaciones</item>
+        <item quantity="one">Buscar entre %d grabación</item>
+    </plurals>
+    <plurals name="search_app_records_hint">
+        <item quantity="other">Buscar entre %d grabaciones</item>
+        <item quantity="one">Buscar entre %d grabación</item>
+    </plurals>
+    <plurals name="search_call_records_hint">
+        <item quantity="other">Buscar entre %d grabaciones de llamadas</item>
+        <item quantity="one">Buscar entre %d grabación de llamada</item>
+    </plurals>
     <plurals name="search_result">
         <item quantity="other">Se encontraron %d grabaciones</item>
         <item quantity="one">Se encontró %d grabación</item>
