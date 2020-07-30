@@ -1328,7 +1328,7 @@ Calidad de reproducción"</string>
     <string name="bootloader_device_bind_server_token_expired_2">"No se pudo verificar. Vuelve a iniciar sesión en tu cuenta y comienza de nuevo."</string>
     <string name="bootloader_device_bind_sim_invalid">Tarjeta SIM inválida. Reemplázala y vuelve a intentarlo.</string>
     <string name="bootloader_locked_answer_1">Bloqueamos los dispositivos para asegurarnos de que son seguros y de que tu información personal no es compartida con terceros. Si necesitas entrar al Modo Fastboot para flashear el dispositivo, puedes desbloquearlo.</string>
-    <string name="bootloader_locked_answer_1_warning">Recuerda: No podrás usar \"Localizar dispositivo\" después de que el teléfono se desbloquee.</string>
+    <string name="bootloader_locked_answer_1_warning">Recuerda: No podrás usar \"Encontrar dispositivo\" después de que el teléfono se desbloquee.</string>
     <string name="bootloader_locked_answer_2">"1. Asegúrate de haber insertado la tarjeta SIM en tu dispositivo.
 2. Pulsa \"Agregar cuenta\" para asociar tu Mi Account con este dispositivo.
 3. Descarga la herramienta de desbloqueo de nuestro sitio web. Ten presente que debes desbloquear los dispositivos usando un ordenador. Descarga la herramienta aquí:"</string>
@@ -2741,12 +2741,12 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="face_unlock_success_stay_screen_title">Permanezca en la pantalla de bloqueo después de desbloquear</string>
     <string name="face_unlock_title">Puedes desbloquear el teléfono con tu cara. Por motivos de seguridad, para utilizar esta opción necesitas un método de bloqueo de pantalla alternativo.</string>
     <string name="factory_reset_summary">Eliminar todos los datos de la memoria interna del teléfono</string>
-    <string name="failed_to_check_find_device_status_content">No se pudo verificar el estado de Localizar dispositivo. Espera un par de minutos e inténtalo de nuevo.</string>
+    <string name="failed_to_check_find_device_status_content">No se pudo verificar el estado de Encontrar dispositivo. Espera un par de minutos e inténtalo de nuevo.</string>
     <string name="failed_to_check_find_device_status_title">No se pudo comprobar el estado</string>
     <string name="failed_to_erase_text">"Desactive la contraseña de la pantalla de bloqueo antes de ingresar el código \"1217\"."</string>
     <string name="failed_to_erase_title">"No puedo completar esta acción."</string>
     <string name="failed_to_open_app_settings_toast">No se pudo abrir los ajustes para: %1$s</string>
-    <string name="failed_to_shut_down_find_device_content">No se pudo desactivar Localizar dispositivo. Espera un par de minutos e inténtalo de nuevo.</string>
+    <string name="failed_to_shut_down_find_device_content">No se pudo desactivar Encontrar dispositivo. Espera un par de minutos e inténtalo de nuevo.</string>
     <string name="failed_to_shut_down_find_device_title">No se pudo desactivar</string>
     <string name="fallback_home_title">Un momento…</string>
     <string name="fcc_equipment_id">ID de equipo</string>
@@ -2777,7 +2777,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="filter_personal_apps">Personales</string>
     <string name="filter_work_apps">Trabajo</string>
     <string name="filter_write_settings_apps">Puede modificar los ajustes del sistema</string>
-    <string name="find_my_device">Localizar dispositivo</string>
+    <string name="find_my_device">Encontrar dispositivo</string>
     <string name="find_my_device_disable">Desactivado</string>
     <string name="find_my_device_enable">Activado</string>
     <string name="fingerprint_add_max">Puedes añadir hasta %d huellas digitales</string>
@@ -6323,9 +6323,9 @@ Nota: No puedes usar tu huella digital para desbloquear este dispositivo. Para o
     <string name="show_user_info_on_lockscreen_label">Mostrar info del usuario en la pantalla de bloqueo</string>
     <string name="show_wifi_name_title">"Mostrar WLAN"</string>
     <string name="shut_down_find_device_failure_confirm">Aceptar</string>
-    <string name="shut_down_find_device_network_failure_content">No se pudo desactivar Localizar dispositivo. Asegúrate de que tu dispositivo tiene una conexión a internet.</string>
+    <string name="shut_down_find_device_network_failure_content">No se pudo desactivar Encontrar dispositivo. Asegúrate de que tu dispositivo tiene una conexión a internet.</string>
     <string name="shut_down_find_device_network_failure_title">No es posible conectarse a la red</string>
-    <string name="shuting_down_find_device">Desactivando Localizar dispositivo…</string>
+    <string name="shuting_down_find_device">Desactivando Encontrar dispositivo…</string>
     <string name="silent_duration">Duración</string>
     <string name="silent_mode">Modo silencioso</string>
     <string name="silent_mode_title">Modo silencioso</string>
