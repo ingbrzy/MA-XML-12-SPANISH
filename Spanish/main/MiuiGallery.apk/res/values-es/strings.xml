@@ -67,7 +67,7 @@
     <string name="ai_album_open_switch_button_title">Iniciar análisis de fotos</string>
     <string name="ai_album_requesting_title">El algoritmo de AI todavía está analizando tus fotos. Regresa más tarde.</string>
     <string name="ai_album_setting_key_word">Buscar fotos</string>
-    <string name="ai_album_setting_sub_title">Permitir al algoritmo de AI identificar personas, lugares y objetos en sus fotos para que puedas encontrarlas más rápido.</string>
+    <string name="ai_album_setting_sub_title">Permitir al algoritmo de IA identificar personas, lugares y objetos en sus fotos para que puedas encontrarlas más rápido.</string>
     <string name="ai_album_setting_title">Identificar objetos en fotos</string>
     <string name="album_already_exists_check">Vista</string>
     <string name="album_already_exists_msg">El álbum \"%s\" ya existe</string>
@@ -148,7 +148,7 @@
     <string name="authorize_to_device_failed">No se pudo autorizar</string>
     <string name="authorize_watch_on_tv_failed">No se pudo autorizar para ver en la TV</string>
     <string name="auto_backup_introduce">Respaldar fotos y vídeos automáticamente (se requiere Mi Cuenta)</string>
-    <string name="auto_download_media_title">Descarga fotos desde Xiaomi Cloud automáticamente</string>
+    <string name="auto_download_media_title">Descargar fotos de Xiaomi Cloud automáticamente</string>
     <string name="auto_update_face">Añadir fotos automáticamente</string>
     <string name="auto_update_face_summary">Localizar y añadir fotos automáticamente al álbum del bebé</string>
     <string name="auto_update_off">Desactivado</string>
@@ -182,10 +182,10 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="baby_sexy">Género</string>
     <string name="baby_suffix">bebé</string>
     <string name="back">Atrás</string>
-    <string name="backup_automatically_summary">Haz copias de seguridad de fotos y videos de todos los dispositivos a Xiaomi Cloud. Por lo tanto, puede navegar, ordenar, editar y compartir fotos y vídeos cómodamente en todos tus dispositivos.</string>
-    <string name="backup_automatically_title">Realizar copias de seguridad automáticamente</string>
-    <string name="backup_battery_low_desc">Aún puedes elegir continuar copiando elementos</string>
-    <string name="backup_battery_low_title">Copia pausada por batería baja</string>
+    <string name="backup_automatically_summary">Sincroniza fotos y videos de todos los dispositivos en Xiaomi Cloud. Por lo tanto, podrás navegar, ordenar, editar y compartir fotos y vídeos en todos tus dispositivos.</string>
+    <string name="backup_automatically_title">Sincronizar automáticamente</string>
+    <string name="backup_battery_low_desc">Puedes reanudar la sincronización cuando tengas poca batería</string>
+    <string name="backup_battery_low_title">Copia en pausa por batería baja</string>
     <string name="backup_close">Cerrar copia de seguridad</string>
     <string name="backup_cloud_space_low_btn_text">Obtener más</string>
     <string name="backup_cloud_space_low_desc">%1$s en Xiaomi Cloud | Disponible %2$s</string>
@@ -333,8 +333,8 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="cleaner_slim_description">Mantén las fotos optimizadas en tu dispositivo. Los archivos originales serán guardados en Xiaomi Cloud.</string>
     <string name="cleaner_slim_start">Optimizar</string>
     <string name="cleaner_slim_title">Optimizar fotos</string>
-    <string name="cleaner_space_description">se puede liberar</string>
-    <string name="cleaner_space_detail_description">Elimina fotos de la Galería para liberar espacio de almacenamiento</string>
+    <string name="cleaner_space_description">pueden ser liberados</string>
+    <string name="cleaner_space_detail_description">Elimina fotos en tu Galería para liberar espacio de almacenamiento</string>
     <string name="cleaner_stop_scan">Detener escaneo</string>
     <string name="cleaner_video_action">"Eliminar ahora"</string>
     <string name="cleaner_video_description">"Eliminar videos que ocupan espacio de almacenamiento"</string>
@@ -354,7 +354,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="cloud_privacy_with_ai_album">Declaración de privacidad acerca de la sincronización automática y procesado de imagen</string>
     <string name="cloud_privacy_with_face">Declaración de privacidad acerca de la sincronización automática y reconocimiento facial</string>
     <string name="cloud_screenshots_display_name">Capturas de pantalla</string>
-    <string name="cloud_settings">Copias de seguridad de la Galería</string>
+    <string name="cloud_settings">Sincronización</string>
     <string name="cloud_storage_extend">Aumentar espacio en la nube</string>
     <string name="cloud_storage_ok_append_desc">Disponible %s</string>
     <string name="cloud_storage_ok_desc">Almacenamiento de Xiaomi Cloud %s</string>
@@ -745,8 +745,8 @@ disponibles"</string>
     <string name="functions_are_being_developed">Esta función estará disponible pronto. ¡Permanece atento!</string>
     <string name="gallery_setting">Ajustes</string>
     <string name="gallery_sync_disable_toast">La sincronización para la Galería está desactivada</string>
-    <string name="generate_story_summary">MIUI analizará tus fotos y creará álbumes de historias. Desactive esta función para detener la creación de álbumes de historias.</string>
-    <string name="generate_story_title">Álbumes de historia</string>
+    <string name="generate_story_summary">Toma fotos suficientes, conecta el cargador y apaga la pantalla para hacer que aparezcan los recuerdos</string>
+    <string name="generate_story_title">Recuerdos</string>
     <string name="get_album_info_in_process">Solicitando detalles del álbum compartido…</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
@@ -1209,6 +1209,7 @@ para personalizar la Galería"</string>
     <string name="privacy_permission_request_negative">Denegar</string>
     <string name="privacy_permission_request_positive">Permitir</string>
     <string name="privacy_permission_request_title">Se necesitan permisos</string>
+    <string name="problem_feedback">Comentarios</string>
     <string name="projection_cancel">Cancelar</string>
     <string name="projection_checkbox_text">Recordar esta pantalla</string>
     <string name="projection_device_connection_failed">No se pudo conectar el proyector</string>
@@ -1391,8 +1392,8 @@ para personalizar la Galería"</string>
     <string name="select_origin_tip">Archivo original (%s)</string>
     <string name="send_file_beautify_failed">No se pudo compartir</string>
     <string name="send_files_to">Enviar elementos a</string>
-    <string name="send_heif_summary">Convierte las imágenes antes de enviarlas para garantizar la compatibilidad</string>
-    <string name="send_heif_title">Convertir HEIF a JPG antes de enviar</string>
+    <string name="send_heif_summary">Convierte las imágenes HEIF a JPEG para garantizar la compatibilidad</string>
+    <string name="send_heif_title">Convertir HEIF a JPEG antes de enviar</string>
     <string name="send_multiple_files_hint_format">Enviar (%s)</string>
     <string name="send_public_url">Enviar URL del álbum</string>
     <string name="send_secret_file_failed">No se pudo compartir</string>
@@ -1432,8 +1433,9 @@ para personalizar la Galería"</string>
     <string name="similar_keep_clear">"Mantener las mejores fotos"</string>
     <string name="slideshow_interval_dialog_title">Definir intervalo</string>
     <string name="slideshow_interval_invalid">El intervalo debe estar entre 3 y 3600 segundos</string>
-    <string name="slideshow_interval_title">Mostrar cada diapositiva</string>
+    <string name="slideshow_interval_title">Mostrar cada diapositiva durante</string>
     <string name="slideshow_interval_value">%1$d segundos</string>
+    <string name="slideshow_loop_title">Poner todas las diapositivas en bucle</string>
     <string name="slim_complete">Listo</string>
     <string name="slim_complete_action_title">Optimizado con éxito</string>
     <string name="slim_cost_time_minute">%d min restante</string>
@@ -1714,5 +1716,6 @@ para personalizar la Galería"</string>
     <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>
     <string name="yes">Sí</string>
     <string name="yesterday">Ayer</string>
-    <string name="you_are">Relación con el bebé</string>
+    <string name="you_are">"Eres un bebé"</string>
+    <string name="zman_title">Intercambio seguro</string>
 </resources>
