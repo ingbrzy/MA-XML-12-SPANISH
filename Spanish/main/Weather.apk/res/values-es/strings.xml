@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about_weather_setting">Acerca de Tiempo</string>
-    <string name="about_weather_setting_feedback">Comentario</string>
+    <string name="about_weather_setting_feedback">Comentarios</string>
     <string name="abrupt_weather_settings_summary_type">Recibir alertas acerca de previsiones de lluvias, cambios en la calidad del aire y otros cambios significativos</string>
     <string name="abrupt_weather_settings_summary_type_a">Interruptor de advertencia de clima inusual</string>
     <string name="abrupt_weather_settings_summary_type_b">Interruptor de advertencia de clima inusual</string>
@@ -105,7 +105,7 @@
     <string name="daily_forecast_no_data">"No se pudo obtener la información del tiempo
 Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="data_provided_by">Datos proporcionados por</string>
-    <string name="edit_city">Administrar ciudad</string>
+    <string name="edit_city">Administrar ciudades</string>
     <string name="empty_view_net_loading">Actualizado…</string>
     <string name="empty_view_net_unavailable">"No se pudo conectar a la red"</string>
     <string name="empty_view_refresh">Intentar de nuevo</string>
@@ -122,7 +122,7 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="feedback_overcast">Cubierto</string>
     <string name="feedback_report_privacy_msg">Informe contendrá su información de ubicación</string>
     <string name="feedback_result_fail_no_choice">Elige las condiciones del tiempo actuales</string>
-    <string name="feedback_result_fail_no_reason">¡Gracias por tu comentario!</string>
+    <string name="feedback_result_fail_no_reason">¡Gracias por tus comentarios!</string>
     <string name="feedback_result_fail_same_type">Parece que tu informe es diferente del tiempo actual. Vuelve a intentarlo.</string>
     <string name="feedback_result_success">Enviado con éxito, gracias por tus comentarios.</string>
     <string name="feedback_sand">Arena</string>
@@ -147,6 +147,7 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="indices_title_pressure">Presión</string>
     <string name="information_settings_title">Información del tiempo</string>
     <string name="install">Instalar</string>
+   <string name="international_details_humidity_title">HUMEDAD</string>
     <string name="international_details_pressure_title">PRESIÓN</string>
     <string name="international_details_real_feel_title">REAL FEEL®</string>
     <string name="international_details_title">Detalles</string>
@@ -214,6 +215,8 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="pull_fresh_updating">Actualizando…</string>
     <string name="radar_cloud_image_title">Mapa radar</string>
     <string name="radar_cloud_update_time">Antes %1$s</string>
+     <string name="rain_sound_setting_summary_text">Acompaña los cambios climáticos con efectos de sonido</string>
+    <string name="rain_sound_setting_title_text">Efectos de sonido</string>
     <string name="rainfall_settings_summary">Alertas por lluvias</string>
     <string name="rainfall_settings_title">Aguacero</string>
     <string name="real_time_sunrise">Amanecer %1$s</string>
@@ -232,6 +235,12 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>
     <string name="settings">Ajustes</string>
+    <string name="settings_atmospheric_pressure_atm">Atmósfera estándar (atm)</string>
+    <string name="settings_atmospheric_pressure_hpa">Hectopascal (hPa)</string>
+    <string name="settings_atmospheric_pressure_inhg">Pulgada de mercurio (inHg)</string>
+    <string name="settings_atmospheric_pressure_mbar">Milibar (mbar)</string>
+    <string name="settings_atmospheric_pressure_mmhg">Milímetro de mercurio (mmHg)</string>
+    <string name="settings_atmospheric_pressure_title">Unidades de presion atmosférica</string>
     <string name="share">Compartir</string>
     <string name="share_button">Compartir</string>
     <string name="share_menu_title">Compartir</string>
