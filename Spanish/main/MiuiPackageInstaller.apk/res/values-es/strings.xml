@@ -6,6 +6,9 @@
     <string name="dialog_title_cloud_virus">El escaneo de virus en la nube permite encontrar malware y virus en tu dispositivo de forma rápida y más efectiva. ¿Conectar a la red y usar el escaneo de virus en la nube cada vez que compruebes tu dispositivo en busca de virus?</string>
     <string name="dialog_title_stop_scan">Al interrumpir el escaneo de virus, podrías dejar algún virus sin detectar. ¿Interrumpir de todas formas?</string>
     <string name="dialog_title_update">Actualización disponible. ¿Actualizar ahora?</string>
+    <string name="external_sources_settings">Ajustes</string>
+    <string name="external_sources_settings_negative">Denegar</string>
+    <string name="external_sources_settings_positive">Permitir una vez</string>
     <string name="gdpr_msg">&lt;Data&gt;El análisis de virus es proporcionado por Xiaomi. Para poder usar esta función, debes permitir que Xiaomi recolecte, procese y use tu información personal (incluidos los datos relacionados al uso de esta función, el cual será usado para las recomendaciones de contenido) en conformidad con la &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Política de Privacidad&lt;/a&gt;&lt;/Data&gt;</string>
     <string name="install">Instalar</string>
     <string name="install_open_applock">Bloqueo de aplicación</string>
@@ -13,6 +16,7 @@
     <string name="launch">Abrir</string>
     <string name="miui_app_detail">Detalles</string>
     <string name="miui_delete">Desinstalar</string>
+    <string name="miui_install_source">Desde \"%s\"</string>
     <string name="miui_install_version">Versión: %s</string>
     <string name="miui_please_clear">Eliminar virus</string>
     <string name="miui_security_scan">Escaneando…</string>
@@ -30,7 +34,7 @@
     <string name="perm_privacy_app_finish">HECHO</string>
     <string name="perm_privacy_app_installed">Aplicación instalada con éxito</string>
     <string name="pref_key_about_privacy_title">Política de Privacidad</string>
-    <string name="scan_from_gp">Escanear aplicacaciones desde la Google Play Store</string>
+    <string name="scan_from_gp">Escanear aplicaciones desde la Google Play Store</string>
     <string name="scan_safe">Seguro</string>
     <string name="scan_service">Escaneo de seguridad</string>
     <string name="scanning_virus">Escaneando…</string>
@@ -45,6 +49,10 @@
     <string name="settings_title">Ajustes</string>
     <string name="settings_title_virus">Ajustes de análisis de virus</string>
     <string name="unlike">No, gracias</string>
+    <string name="untrusted_external_source_always_click">Permitir siempre</string>
+    <string name="untrusted_external_source_title">¿Permitir a \"%1$s\" instalar aplicaciones?</string>
+    <string name="untrusted_external_source_warning">"Por tu seguridad, tu dispositivo no tiene permitido instalar aplicaciones desconocidas desde esta fuente."</string>
+    <string name="untrusted_external_source_warning_summary">"Tu dispositivo e información personal son vulnerables a ataques por las aplicaciones instaladas de fuentes desconocidas. Al permitir instalar aplicaciones desde esta fuente, usted está aceptando la responsabilidad por cualquier daño o pérdida de datos que puedan ocurrir mientras esté usando estas aplicaciones."</string>
     <string name="upper_cancel">CANCELAR</string>
     <string name="upper_dualapps">APLICACIONES DUALES</string>
     <string name="upper_moreapps">MÁS APLICACIONES</string>
