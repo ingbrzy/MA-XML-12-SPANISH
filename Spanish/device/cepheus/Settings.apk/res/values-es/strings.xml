@@ -899,7 +899,7 @@ Aplicaciones:
     <string name="billing_cycle_less_than_one_day_left">Queda menos de 1 día</string>
     <string name="billing_cycle_none_left">No queda tiempo</string>
     <string name="bind_xiaomi_account_confirm">Añadir</string>
-    <string name="bind_xiaomi_account_dialog_summery">Estás a punto de añadir Mi Account %s. Si olvidas tu contraseña, puedes utilizar esta cuenta para reiniciarla.</string>
+    <string name="bind_xiaomi_account_dialog_summery">Estás a punto de añadir Cuenta Mi %s. Si olvidas tu contraseña, puedes utilizar esta cuenta para reiniciarla.</string>
     <string name="bind_xiaomi_account_success">Cuenta Mi añadida con éxito</string>
     <string name="biometric_weak_improve_matching_title">Mejorar correspondencia facial</string>
     <string name="biometric_weak_liveliness_summary">Se requiere parpadear para desbloquear</string>
@@ -2299,7 +2299,7 @@ Si el problema persiste, desinstala la aplicación para mejorar el rendimiento d
 Puedes ver los registros generados en el administrador de archivos."</string>
     <string name="dump_log_title">Acerca de esta función</string>
     <string name="eab_provisioned_switch_string">EAB/Presence asignados</string>
-    <string name="easymode_hint">Toque para desactivar el modo Lite</string>
+    <string name="easymode_hint">Toca para desactivar el modo Lite</string>
     <string name="edge_mode_back">Volver</string>
     <string name="edge_mode_back_summary">Toca dos veces el borde de tu teléfono para volver</string>
     <string name="edge_mode_clean">Limpiar caché del sistema</string>
@@ -2657,7 +2657,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="fingerprint_unlock_set_unlock_pin">Huella digital + PIN</string>
     <string name="fingerprint_unlock_skip_fingerprint">Continuar sin huella digital</string>
     <string name="fingerprint_unlock_title">Puedes desbloquear el teléfono con tu huella digital. Por motivos de seguridad, para utilizar esta opción necesitas un método de bloqueo de pantalla alternativo.</string>
-    <string name="fingerprint_unlock_touch_type">Toque</string>
+    <string name="fingerprint_unlock_touch_type">Toca</string>
     <string name="fingerprint_unlock_type">Método de reconocimiento de huellas digitales</string>
     <string name="fingerprint_usage_category_title">Usar huella para</string>
     <string name="finish_application">Forzar cierre</string>
@@ -2749,7 +2749,7 @@ No parecía que en aquel lugar hubiese caballos ni animales de ningún tipo, pue
     <string name="forget_password_dialog_title">Limpiar datos</string>
     <string name="forget_pattern">&lt;u&gt;¿Olvidaste el patrón?&lt;/u&gt;</string>
     <string name="forget_privacy_password_setting">Añadir Cuenta Mi</string>
-    <string name="forget_privacy_password_summary">Utiliza Mi Account para restablecer tu contraseña</string>
+    <string name="forget_privacy_password_summary">Utiliza Cuenta Mi para restablecer tu contraseña</string>
     <string name="forget_wifi_message">Tu dispositivo dejará de conectarse a esta red automáticamente.</string>
     <string name="found_new_version">Actualización disponible</string>
     <string name="fourhours">2 horas</string>
@@ -2782,18 +2782,18 @@ No parecía que en aquel lugar hubiese caballos ni animales de ningún tipo, pue
     <string name="freeform_guide_move_title">Mover ventanas flotantes</string>
     <string name="freeform_guide_move_to_small_freeform_window_summary">Arrastre la ventana flotante a la esquina de la pantalla.</string>
     <string name="freeform_guide_move_to_small_freeform_window_title">Minimizando ventanas flotantes</string>
-    <string name="freeform_guide_notification_drop_down_summary">Mantenga presionado y luego despliegue la barra de acción de una notificación</string>
+    <string name="freeform_guide_notification_drop_down_summary">Mantenga presionado y luego despliega la barra de acción de una notificación</string>
     <string name="freeform_guide_notification_drop_down_title">Abrir ventanas flotantes</string>
     <string name="freeform_guide_settings">Ventana flotante</string>
     <string name="freeform_guide_slide_up_to_close_summary">Desliza hacia arriba desde la barra de acción de una ventana flotante</string>
     <string name="freeform_guide_slide_up_to_close_title">Cerrar ventanas flotantes</string>
-    <string name="freeform_vedio_description">"Mantenga presionado y luego despliegue una notificación para abrirla en una ventana flotante.
-·Toque \"Ventanas flotantes\" en Recientes para seleccionar aplicaciones."</string>
+    <string name="freeform_vedio_description">"Mantenga presionado y luego despliega una notificación para abrirla en una ventana flotante.
+·Toca \"Ventanas flotantes\" en Recientes para seleccionar aplicaciones."</string>
     <string name="frequently_fragment_delete">Eliminar</string>
     <string name="frequently_fragment_tempty">Los elementos frecuentes se mostrarán aquí</string>
     <string name="fsg_mistake_touch_summary">En algunos casos, como juegos y vídeos a pantalla completa se deben realizar los gestos dos veces para que tenga efecto</string>
     <string name="fsg_mistake_touch_title">Realizar gestos dos veces</string>
-    <string name="full_screen_display">Modo pantalla completa</string>
+    <string name="full_screen_display">Modo de pantalla completa</string>
     <string name="full_screen_keyboard_optimization">Mejorar teclado</string>
     <string name="full_screen_keyboard_settings">Ajustes de teclado en pantalla completa</string>
     <string name="full_transparent_smarrcover_title">Cubierta frontal transparente</string>
@@ -2982,7 +2982,7 @@ Nota: ¡Recuerde la contraseña que estableció para las copias de seguridad cif
     <string name="how_restore_backup_content">"A continuación, le mostramos cómo puede restaurar elementos de los que se realizó una copia de seguridad utilizando diferentes métodos:
 
 Dispositivo móvil
-Toque \"Dispositivo móvil\", encuentre la opción para restaurar elementos y seleccione la copia de seguridad para continuar.
+Toca \"Dispositivo móvil\", encuentre la opción para restaurar elementos y seleccione la copia de seguridad para continuar.
 
 Computadora
 Copie la copia de seguridad de su computadora a MIUI-backup-AllBackup a través del cable USB y restaure elementos desde su dispositivo móvil.
@@ -3043,7 +3043,7 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="input_method_cloud_paste_mode_bubble_title">Burbuja</string>
     <string name="input_method_cloud_paste_mode_no_des">"No verá las notificaciones cuando aparezca nuevo contenido en el portapapeles de la nube. Sin embargo, aún podrá usar su portapapeles tocando el icono".</string>
     <string name="input_method_cloud_paste_mode_no_title">Ninguna</string>
-    <string name="input_method_cloud_paste_mode_red_point_des">"Verá un punto rojo en la parte inferior del teclado cada vez que aparezca contenido nuevo en el portapapeles de la nube. Toque el icono para abrir el portapapeles y usar el contenido copiado".</string>
+    <string name="input_method_cloud_paste_mode_red_point_des">"Verá un punto rojo en la parte inferior del teclado cada vez que aparezca contenido nuevo en el portapapeles de la nube. Toca el icono para abrir el portapapeles y usar el contenido copiado".</string>
     <string name="input_method_cloud_paste_mode_red_point_title">Punto rojo</string>
     <string name="input_method_function_clipboard">Portapapeles y frases frecuentes</string>
     <string name="input_method_function_clipboard_des">Pulsa para ver el contenido del portapapeles y frases frecuentes</string>
@@ -4239,7 +4239,7 @@ Selecciona tu sistema operativo:"</string>
     <string name="nfc_quick_toggle_summary">Permitir el intercambio de datos cuando el teléfono toque otro dispositivo</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_repair_action_btn">Restaurar</string>
-    <string name="nfc_repair_action_desc">Toque \"&lt;b&gt; Restaurar &lt;/b&gt;"\"para solucionar los problemas que le impiden utilizar las funciones de NFC. No abandone la página actual mientras se restaura la funcionalidad de NFC. Reinicie su dispositivo para aplicar los cambios".</string>
+    <string name="nfc_repair_action_desc">Toca \"&lt;b&gt; Restaurar &lt;/b&gt;"\"para solucionar los problemas que le impiden utilizar las funciones de NFC. No abandone la página actual mientras se restaura la funcionalidad de NFC. Reinicie su dispositivo para aplicar los cambios".</string>
     <string name="nfc_repair_btn_no">No</string>
     <string name="nfc_repair_btn_reboot">Reiniciar</string>
     <string name="nfc_repair_btn_reboot_later">Más tarde</string>
@@ -4686,8 +4686,8 @@ OTG se desactiva automáticamente después de 10 minutos de inactividad."</strin
     <string name="ping_test_label">Ejecutar prueba de ping</string>
     <string name="please_select_phase2">Autenticación de fase 2</string>
     <string name="please_type_passphrase">Contraseña</string>
-    <string name="poco_launcher_privacy_policy">Política de privacidad de POCO Launcher</string>
-    <string name="poco_launcher_user_agreement">Acuerdo de usuario de POCO Launcher</string>
+    <string name="poco_launcher_privacy_policy">Política de Privacidad de POCO Launcher</string>
+    <string name="poco_launcher_user_agreement">Acuerdo de Usuario de POCO Launcher</string>
     <string name="pointer_location">Ubicación del puntero</string>
     <string name="pointer_location_summary">Mostrar coordenadas táctiles</string>
     <string name="pointer_settings_category">Ratón/track pad</string>
@@ -4891,7 +4891,7 @@ OTG se desactiva automáticamente después de 10 minutos de inactividad."</strin
     <string name="privacy_authorize_dialog_exit">Salir</string>
     <string name="privacy_authorize_dialog_message">&lt;Data&gt;Para usar las funciones básicas de los servicios de este debes aceptar que Xiaomi recoja, procese y use tu información personal. Consulta nuestra Política de Privacidad para aprender como recogemos y procesamos información personal. Seleccionando \"Aceptar\" declaras que has leido y estás de acuerdo con nuestra &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Política de Privacidad&lt;/a&gt; y &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;Acuerdo de Usuario&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="privacy_authorize_network_error">Conéctate a la red e inténtalo de nuevo.</string>
-    <string name="privacy_authorize_privacy_policy">Política de privacidad</string>
+    <string name="privacy_authorize_privacy_policy">Política de Privacidad</string>
     <string name="privacy_authorize_revoke">Revocar</string>
     <string name="privacy_authorize_revoke_dialog_msg">Después de revocar la autorización, la aplicación dejará de recopilar datos y todos los datos relacionados se eliminarán de los servidores. Esto podría hacer que la aplicación sea prácticamente inutilizable. ¿Revocar autorización de todos modos?</string>
     <string name="privacy_authorize_revoke_dialog_title">Revocación de la autorización</string>
@@ -5111,7 +5111,7 @@ Interfaz UT: %5$s"</string>
     <string name="radio_info_voice_network_type_label">Tipo de red de voz:</string>
     <string name="raise_bottom_height_of_keyboard">Mejorado</string>
     <string name="raise_bottom_height_of_keyboard_sub_title">Aparecerá una barra con accesos directos personalizables debajo del teclado si cambias al Modo mejorado</string>
-    <string name="raise_bottom_height_of_keyboard_title">Ajusta el teclado al modo pantalla completa</string>
+    <string name="raise_bottom_height_of_keyboard_title">Ajusta el teclado al modo de pantalla completa</string>
     <string name="ram_total_size">Tamaño total de RAM</string>
     <string name="rank_title">Clasificaciones</string>
     <string name="rarely_running">Apenas en ejecución (%s)</string>
@@ -5216,7 +5216,7 @@ Reinicia el dispositivo y vuelve a intentarlo."</string>
     <string name="restr_pin_enter_admin_pin">Introducir el PIN del administrador</string>
     <string name="restrict_background_blacklisted">Las datos en segundo plano están desactivadas</string>
     <string name="restrict_bg_app">Restringir</string>
-    <string name="restrict_max_aspect_ratio_title">Estas aplicaciones no funcionarán bien en modo Pantalla completa</string>
+    <string name="restrict_max_aspect_ratio_title">Estas aplicaciones no funcionarán bien en modo de pantalla completa</string>
     <string name="restricted_app_detail_footer">Estas aplicaciones han estado consumiendo batería en segundo plano. Es posible que las aplicaciones restringidas no funcionen correctamente y las notificaciones se retrasen.</string>
     <string name="restricted_app_time_summary">Restringida %1$s</string>
     <string name="restricted_app_title">Aplicaciones restringidas</string>
@@ -5334,8 +5334,8 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="screen_key_press">Presiona los botones de navegación</string>
     <string name="screen_key_press_action">Función de disparo</string>
     <string name="screen_locking_sounds_title">Sonidos de bloqueo de pantalla</string>
-    <string name="screen_max_aspect_ratio_desc">Permitir que las aplicaciones seleccionadas funcionen en modo pantalla completa</string>
-    <string name="screen_max_aspect_ratio_title">Modo pantalla completa</string>
+    <string name="screen_max_aspect_ratio_desc">Permitir que las aplicaciones seleccionadas funcionen en modo de pantalla completa</string>
+    <string name="screen_max_aspect_ratio_title">Modo de pantalla completa</string>
     <string name="screen_monochrome_mode_apps_loading">Un momento…</string>
     <string name="screen_monochrome_mode_apps_title">Usar Modo monocromo</string>
     <string name="screen_monochrome_mode_global_summary">Usar Modo monocromo para todas las aplicaciones</string>
@@ -5657,7 +5657,7 @@ Para usar esta opción:
     <string name="search_trusted_credentials">Credenciales de confianza;Firma de aplicación;Firmas de aplicaciones;Credenciales;Firma</string>
     <string name="search_tts_settings_title">Salida de texto por voz;Texto por voz</string>
     <string name="search_turn_on_security_lock">Selecciona bloqueo de pantalla;Bloqueo de pantalla;Añadir bloqueo de pantalla;Bloqueo de pantalla</string>
-    <string name="search_unlogin_account_title">Cuenta Mi;ID de Cuenta Mi;Cuenta;ID de Cuenta;Cuenta de Xiaomi;Protección de Cuenta;Proteger cuenta;Seguridad de cuenta;Mi Cuenta</string>
+    <string name="search_unlogin_account_title">Cuenta Mi;ID de Cuenta Mi;Cuenta;ID de Cuenta;Cuenta de Xiaomi;Protección de Cuenta;Proteger cuenta;Seguridad de cuenta;Cuenta Mi</string>
     <string name="search_usb_tethering_button_text">Conexión USB;Conexiones;USB</string>
     <string name="search_user_agreement">Términos del servicio</string>
     <string name="search_user_dict_settings_title">Diccionario personal;Diccionario</string>
@@ -5687,7 +5687,7 @@ Para usar esta opción:
     <string name="search_wifi_wapi_cert_install">Instalar certificado WAPI;Certificados WAPI;WAPI</string>
     <string name="search_wifi_wapi_cert_uninstall">Desinstalar certificado WAPI;Certificados WAPI;WAPI</string>
     <string name="search_wps_connect_title">Botón WPS;Conectar WPS;WPS</string>
-    <string name="search_xiaomi_account">Cuenta Mi;ID de Cuenta Mi;Cuenta;ID de Cuenta;Cuenta de Xiaomi;Protección de Cuenta;Proteger cuenta;Seguridad de cuenta;Mi Cuenta</string>
+    <string name="search_xiaomi_account">Cuenta Mi;ID de Cuenta Mi;Cuenta;ID de Cuenta;Cuenta de Xiaomi;Protección de Cuenta;Proteger cuenta;Seguridad de cuenta;Cuenta Mi</string>
     <string name="search_xspace">Aplicación dual;aplicaciones duales;aplicación doble;aplicaciones dobles;Clonar aplicación;Clonar aplicaciones;Dos cuentas;2 cuentas</string>
     <string name="second_space">Segundo espacio</string>
     <string name="secondspace_category">Segundo espacio</string>
@@ -6486,7 +6486,7 @@ Prueba a utilizar una ^3 más rápida o utiliza esta ^4 como almacenamiento port
     <string name="sud_back_button_label">Atrás</string>
     <string name="sud_more_button_label">Más</string>
     <string name="sud_next_button_label">Siguiente</string>
-    <string name="suggest_unrestrict_max_aspect_ratio_title">Estas aplicaciones funcionarán mejor en Modo Pantalla completa</string>
+    <string name="suggest_unrestrict_max_aspect_ratio_title">Estas aplicaciones funcionarán mejor en Modo de pantalla completa</string>
     <string name="suggested_fingerprint_lock_settings_summary" />
     <string name="suggested_fingerprint_lock_settings_title">Añadir huella digital para desbloquear</string>
     <string name="suggested_lock_settings_summary">Añade bloqueo de pantalla para proteger el teléfono</string>
@@ -6617,7 +6617,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="tethering_hardware_offload_summary">Usar anclaje de aceleración hardware si está disponible</string>
     <string name="tethering_help_button_text">Ayuda</string>
     <string name="tethering_settings_not_available">Cambia los ajustes de anclaje en tu Primer espacio</string>
-    <string name="the_way_of_wakeup_voice_assistant_summary">Activar el asistente de voz en el modo pantalla completa (sin botones virtuales)</string>
+    <string name="the_way_of_wakeup_voice_assistant_summary">Activar el asistente de voz en el modo de pantalla completa (sin botones virtuales)</string>
     <string name="theme_customization_accent_color_title">Color que destacar</string>
     <string name="theme_customization_category">Temas</string>
     <string name="theme_customization_device_default">Opción predeterminada del dispositivo</string>
@@ -6855,7 +6855,7 @@ Las huellas digitales guardadas también se eliminarán del perfil y no podrás 
     <string name="unlogin_account_title">Iniciar sesión en Cuenta Mi</string>
     <string name="unmount_inform_text">Se desactivará el almacenamiento USB.</string>
     <string name="unmute_sound_title">Activar sonido</string>
-    <string name="unrestrict_max_aspect_ratio_title">Estas aplicaciones están optimizadas para modo Pantalla completa</string>
+    <string name="unrestrict_max_aspect_ratio_title">Estas aplicaciones están optimizadas para modo de pantalla completa</string>
     <string name="unrestricted_app_summary">No restringir datos si el ahorro de datos está activado</string>
     <string name="unrestricted_app_title">Uso de datos no restringido</string>
     <string name="unrestricted_data_saver">Datos sin restricción</string>
@@ -7393,7 +7393,7 @@ Solo se pueden hacer llamadas de emergencia en zonas con cobertura móvil."</str
     <string name="wfc_disclaimer_emergency_limitation_title_text">Llamadas de emergencia</string>
     <string name="wfc_disclaimer_location_desc_text">"Tu proveedor de servicios puede guardar tu ubicación para proporcionar este servicio.
 
-Revisa la política de privacidad de tu proveedor de servicios."</string>
+Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wfc_disclaimer_location_title_text">Ubicación</string>
     <string name="wfc_disclaimer_title_text">Información importante</string>
     <string name="wfc_provisioned_switch_string">Llamada Wi-Fi preparada</string>

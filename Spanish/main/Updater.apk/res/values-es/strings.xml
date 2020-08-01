@@ -15,6 +15,7 @@
     <string name="btn_wrong_md5">MD5 erroneo, haga clic para eliminar ROM!</string>
     <string name="btn_yes">Sí</string>
     <string name="channel_downloading">Progreso de la descarga</string>
+    <string name="channel_service">Servicio en segundo plano de Actualizador</string>
     <string name="channel_update">Nueva versión disponible</string>
     <string name="check_new_version">Comprobar</string>
     <string name="default_filedownloader_notification_content">FileDownloader se está ejecutando.</string>
@@ -50,8 +51,10 @@ Los datos no serán borrados.\""</string>
 Las actualizaciones no están disponibles!"</string>
     <string name="notif_cancel">Cancelar</string>
     <string name="notif_install">Instalar</string>
-    <string name="notif_new_summary">Toque para obtener detalles</string>
+    <string name="notif_new_summary">Toca para obtener detalles</string>
     <string name="notif_new_title">¡Nueva actualización disponible!</string>
+    <string name="notif_service_summary">Mantén pulsado para desactivar la notificación \"Servicio en segundo plano\"</string>
+    <string name="notif_service_title">La aplicación está funcionando en segundo plano…</string>
     <string name="notifications_switch">Mostrar notificaciones</string>
     <string name="permdesc_cache_filesystem">Permite a esta aplicación a escribir en /cache.</string>
     <string name="permdesc_reboot">Permitir a esta aplicación reiniciar el dispositivo.</string>

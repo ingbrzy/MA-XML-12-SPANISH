@@ -95,7 +95,7 @@
     <string name="accessibility_display_daltonizer_preference_title">Corrección del color</string>
     <string name="accessibility_divider">Separador de pantalla dividida</string>
     <string name="accessibility_drag_hint_message">Arrastre elementos a la parte superior de la pantalla</string>
-    <string name="accessibility_enter_lock_wallpaper">Toque para ver el carrusel de fondos de pantalla</string>
+    <string name="accessibility_enter_lock_wallpaper">Toca para ver el carrusel de fondos de pantalla</string>
     <string name="accessibility_ethernet_connected">Ethernet conectado.</string>
     <string name="accessibility_ethernet_disconnected">Ethernet desconectado.</string>
     <string name="accessibility_gps_acquiring">Buscando GPS.</string>
@@ -131,12 +131,12 @@
     <string name="accessibility_phone_signal_full">Señal al máximo.</string>
     <string name="accessibility_phone_three_bars">Tres barras de señal.</string>
     <string name="accessibility_phone_two_bars">Dos barras de señal.</string>
-    <string name="accessibility_qs_edit_add_tile_label">%1$s. Toque 2 veces para agregar.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. Toca 2 veces para agregar.</string>
     <string name="accessibility_qs_edit_move_tile">Mover %1$s</string>
-    <string name="accessibility_qs_edit_position_label">Posición %1$d. Toque 2 veces para seleccionar.</string>
+    <string name="accessibility_qs_edit_position_label">Posición %1$d. Toca 2 veces para seleccionar.</string>
     <string name="accessibility_qs_edit_remove_tile">Eliminar %1$s</string>
     <string name="accessibility_qs_edit_tile_added">Se agregó %1$s a la posición %2$d</string>
-    <string name="accessibility_qs_edit_tile_label">Posición %1$d, %2$s. Toque 2 veces para editar.</string>
+    <string name="accessibility_qs_edit_tile_label">Posición %1$d, %2$s. Toca 2 veces para editar.</string>
     <string name="accessibility_qs_edit_tile_moved">Se movió %1$s a la posición %2$d</string>
     <string name="accessibility_qs_edit_tile_removed">%1$s eliminado</string>
     <string name="accessibility_quick_settings_airplane_changed_off">Modo avión desactivado.</string>
@@ -202,7 +202,7 @@
     <string name="accessibility_recent_task_exit">Cerradas recientemente</string>
     <string name="accessibility_recent_task_locked">Bloqueada, deslice hacia abajo para desbloquearla.</string>
     <string name="accessibility_recent_task_locked_state">Bloqueado</string>
-    <string name="accessibility_recent_task_memory_info">RAM total: %2$s | RAM disponible: %1$s. Toque dos veces para limpiar.</string>
+    <string name="accessibility_recent_task_memory_info">RAM total: %2$s | RAM disponible: %1$s. Toca dos veces para limpiar.</string>
     <string name="accessibility_recent_task_unlocked">Desbloqueado</string>
     <string name="accessibility_recent_task_unlocked_state">Desbloqueado</string>
     <string name="accessibility_recents_all_items_dismissed">Todas las aplicaciones recientes descartadas.</string>
@@ -281,7 +281,7 @@
     <string name="audio_effect_custom">Configurar</string>
     <string name="audio_effect_info">Optimizar audio</string>
     <string name="audio_effect_settings">Selecciona el tipo de auriculares</string>
-    <string name="auto_disable_screenbuttons_disable_toast_text">Botones de navegación desactivados. Toque cualquier botón 2 veces para activarlos.</string>
+    <string name="auto_disable_screenbuttons_disable_toast_text">Botones de navegación desactivados. Toca cualquier botón 2 veces para activarlos.</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Botones de navegación activados</string>
     <string name="available_via_passpoint">Disponible vía %1$s</string>
     <string name="back">Volver</string>
@@ -420,8 +420,8 @@ calidad de reproducción"</string>
     <string name="choose_profile">Elegir perfil</string>
     <string name="clear_adb_keys">Revocar permisos de depuración USB</string>
     <string name="clear_all_notifications_text">Borrar todo</string>
-    <string name="click_to_enter_text">Toque para ver</string>
-    <string name="click_to_return_multi_window">Toque para volver a Pantalla dividida</string>
+    <string name="click_to_enter_text">Toca para ver</string>
+    <string name="click_to_return_multi_window">Toca para volver a Pantalla dividida</string>
     <string name="click_to_return_multi_window_of_notch">Volver a Pantalla Dividida</string>
     <string name="clipboard">Portapapeles</string>
     <string name="clock">Reloj</string>
@@ -440,7 +440,7 @@ calidad de reproducción"</string>
     <string name="convert_to_fbe_warning">"Convertir la partición de datos en encriptación basada en archivos.
  Alerta: esto eliminará todos sus datos.
  Esta función está en desarrollo y podría no funcionar correctamente.
- Toque \"Limpiar y convertir…\" para continuar."</string>
+ Toca \"Limpiar y convertir…\" para continuar."</string>
     <string name="convert_to_file_encryption">Convertir a encriptación de archivos</string>
     <string name="convert_to_file_encryption_done">Archivos encriptados</string>
     <string name="convert_to_file_encryption_enabled">Convertir…</string>
@@ -559,7 +559,7 @@ Si reanuda la conexión de datos móviles, podría generarle cargos."</string>
     <string name="ext_media_badremoval_notification_title">La SD se ha retirado de forma inesperada</string>
     <string name="ext_media_checking_notification_message">Verificando que no haya errores.</string>
     <string name="ext_media_checking_notification_title">Preparando tarjeta SD</string>
-    <string name="ext_media_mountable_notification_message">Toque para abrir el Gestor de archivos</string>
+    <string name="ext_media_mountable_notification_message">Toca para abrir el Gestor de archivos</string>
     <string name="ext_media_mountable_notification_title">Dispositivo de almacenamiento USB conectado</string>
     <string name="ext_media_nofs_notification_message">La SD está vacía o tiene un sistema de archivos no compatible.</string>
     <string name="ext_media_nofs_notification_title">Unidad SD vacía</string>
@@ -614,7 +614,7 @@ Si reanuda la conexión de datos móviles, podría generarle cargos."</string>
     <string name="face_unlock_passwork">Usar contraseña</string>
     <string name="face_unlock_passwork_and_fingerprint">Usar contraseña o datos faciales</string>
     <string name="face_unlock_quality">No se pudo ver claramente su cara</string>
-    <string name="face_unlock_reenter_content">El algoritmo de reconocimiento facial se está actualizando. Toque para volver a grabar la información facial.</string>
+    <string name="face_unlock_reenter_content">El algoritmo de reconocimiento facial se está actualizando. Toca para volver a grabar la información facial.</string>
     <string name="face_unlock_reenter_title">Vuelva a grabar la información facial.</string>
     <string name="face_unlock_reveal_eye">Sus ojos deben estar visibles</string>
     <string name="face_unlock_reveal_mouth">Sus labios deben estar visibles</string>
@@ -706,8 +706,8 @@ Una vez que se teléfono se haya enfriado, funcionará normalmente."</string>
     <string name="immediately_destroy_activities">No mantener actividades</string>
     <string name="immediately_destroy_activities_summary">Terminar cada actividad en cuanto el usuario salga de ella</string>
     <string name="important_desc">Todas las notificaciones importantes aparecerán directamente en el Panel de notificaciones.</string>
-    <string name="inactive_app_active_summary">Activa. Toque para cambiar.</string>
-    <string name="inactive_app_inactive_summary">Inactiva. Toque para cambiar.</string>
+    <string name="inactive_app_active_summary">Activa. Toca para cambiar.</string>
+    <string name="inactive_app_inactive_summary">Inactiva. Toca para cambiar.</string>
     <string name="inactive_apps_title">Aplicaciones inactivas</string>
     <string name="incorrect_pincode">Código PIN incorrecto</string>
     <string name="incorrect_pukcode">Código PUK incorrecto</string>
@@ -824,7 +824,7 @@ Solo utilice el cargador proporcionado."</string>
     <string name="keyguard_password_enter_pin_prompt">Nuevo PIN de la SIM</string>
     <string name="keyguard_password_enter_puk_code">Ingrese el PUK de la SIM y el nuevo PIN</string>
     <string name="keyguard_password_enter_puk_prompt">PUK de la SIM</string>
-    <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Toque para ingresar la contraseña&lt;/font&gt;</string>
+    <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Toca para ingresar la contraseña&lt;/font&gt;</string>
     <string name="keyguard_password_wrong_pin_code">PIN incorrecto.</string>
     <string name="keyguard_permanent_disabled_sim_instructions">"Su tarjeta SIM ha sido deshabilitada permanentemente.
  Contacte a su proveedor de servicio para conseguir otra."</string>
@@ -832,7 +832,7 @@ Solo utilice el cargador proporcionado."</string>
     <string name="keyguard_plugged_in">Cargando</string>
     <string name="keyguard_plugged_in_charging_fast">Carga rápida</string>
     <string name="keyguard_plugged_in_charging_slowly">Carga lenta</string>
-    <string name="keyguard_quick_charging_info_click_to_detail">Carga rápida. Toque para ver detalles.</string>
+    <string name="keyguard_quick_charging_info_click_to_detail">Carga rápida. Toca para ver detalles.</string>
     <string name="keyguard_sim_locked_message">Tarjeta SIM bloqueada.</string>
     <string name="keyguard_sim_puk_locked_message">Tarjeta SIM bloqueda por el PUK.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">Desbloqueando tarjeta SIM…</string>
@@ -1101,8 +1101,8 @@ También está conectado a una red VPN, la cual puede monitorear su actividad en
     <string name="notification_otg_trackball_out">Trackball desconectado</string>
     <string name="notification_otg_unknow_in">Dispositivo OTG conectado</string>
     <string name="notification_otg_unknow_out">OTG desconectado</string>
-    <string name="notification_tap_again">Toque de nuevo para abrir</string>
-    <string name="notification_template_text">" tiene una notificación. Toque para ver."</string>
+    <string name="notification_tap_again">Toca de nuevo para abrir</string>
+    <string name="notification_template_text">" tiene una notificación. Toca para ver."</string>
     <string name="oem_unlock_enable">Desbloqueo OEM</string>
     <string name="oem_unlock_enable_summary">Permitir el desbloqueo de bootloader</string>
     <string name="oldman_airplane_mode_text">Modo avión</string>
@@ -1290,7 +1290,7 @@ También está conectado a una red VPN, la cual puede monitorear su actividad en
     <string name="quick_settings_wifi_on_label">Wi-Fi activado</string>
     <string name="quick_settings_work_mode_label">Modo trabajo</string>
     <string name="recent_cannot_dock">No se puede usar la Pantalla Dividida en Segundo Espacio</string>
-    <string name="recent_dock_tip">Toque para seleccionar apps</string>
+    <string name="recent_dock_tip">Toca para seleccionar apps</string>
     <string name="recent_menu_item_info">Información</string>
     <string name="recent_menu_item_lock">Lock</string>
     <string name="recent_menu_item_multi_window">Dividir</string>
@@ -1368,7 +1368,7 @@ También está conectado a una red VPN, la cual puede monitorear su actividad en
     <string name="screenshot_feedback_txt">Comentarios</string>
     <string name="screenshot_insert_failed">No se pudo cargar la captura de pantalla. Haga una nueva o véala en la Galería.</string>
     <string name="screenshot_long_screenshot">Scroll</string>
-    <string name="screenshot_saved_text">Toque para ver su captura de pantalla.</string>
+    <string name="screenshot_saved_text">Toca para ver su captura de pantalla.</string>
     <string name="screenshot_saved_title">Captura realizada con éxito.</string>
     <string name="screenshot_saving_text">Guardando captura…</string>
     <string name="screenshot_saving_ticker">Guardando captura de pantalla…</string>
@@ -1649,11 +1649,11 @@ Su teléfono podría calentarse de más si:
     <string name="usb_ptp_text">Fotos</string>
     <string name="usb_share_net_info">Usar conexión de internet de la PC</string>
     <string name="usb_storage_error_message">Hay un problema con su tarjeta SD.</string>
-    <string name="usb_storage_message">Conectado con su PC via USB. Toque el botón de abajo si desea copiar archivos entre su pc y la tarjeta SD de su Android‘s.</string>
-    <string name="usb_storage_notification_message">Toque para copiar archivos a y desde su PC.</string>
+    <string name="usb_storage_message">Conectado con su PC via USB. Toca el botón de abajo si desea copiar archivos entre su pc y la tarjeta SD de su Android‘s.</string>
+    <string name="usb_storage_notification_message">Toca para copiar archivos a y desde su PC.</string>
     <string name="usb_storage_notification_title">USB conectado</string>
     <string name="usb_storage_stop_message">Antes de desactivar el alamcenamiento USB, asegurese de haber desmontado (“ejected”) la SD en su Android‘s de su PC.</string>
-    <string name="usb_storage_stop_notification_message">Toque para desactivar el almacenamiento USB.</string>
+    <string name="usb_storage_stop_notification_message">Toca para desactivar el almacenamiento USB.</string>
     <string name="usb_storage_stop_notification_title">Desactivar alamacenamiento USB</string>
     <string name="usb_storage_stop_title">Almacenamiento USB en uso</string>
     <string name="usb_storage_title">USB conectado</string>
@@ -1684,17 +1684,17 @@ Cualquier usuario puede actualizar aplicaciones para otros."</string>
     <string name="volume_dialog_accessibility_dismissed_message">Controles de volumen ocultos</string>
     <string name="volume_dialog_accessibility_shown_message">%s control de volumen mostrado. Deslice hacia arriba para descartar.</string>
     <string name="volume_dnd_silent">Atajo de botones de volumen</string>
-    <string name="volume_stream_content_description_mute">%1$s. Toque para silenciar, Los servicios de accesibilidad podrían ser silenciados.</string>
-    <string name="volume_stream_content_description_mute_a11y">%1$s. Toque para silenciar.</string>
-    <string name="volume_stream_content_description_unmute">%1$s. Toque para dejar de silenciar.</string>
-    <string name="volume_stream_content_description_vibrate">%1$s. Toque para establecer vibración. Los servicios de accesibilidad podrían ser silenciados.</string>
-    <string name="volume_stream_content_description_vibrate_a11y">%1$s. Toque para establecer vibración.</string>
+    <string name="volume_stream_content_description_mute">%1$s. Toca para silenciar, Los servicios de accesibilidad podrían ser silenciados.</string>
+    <string name="volume_stream_content_description_mute_a11y">%1$s. Toca para silenciar.</string>
+    <string name="volume_stream_content_description_unmute">%1$s. Toca para dejar de silenciar.</string>
+    <string name="volume_stream_content_description_vibrate">%1$s. Toca para establecer vibración. Los servicios de accesibilidad podrían ser silenciados.</string>
+    <string name="volume_stream_content_description_vibrate_a11y">%1$s. Toca para establecer vibración.</string>
     <string name="volume_up_silent">Botón de subir volumen para salir del modo no molestar</string>
     <string name="volume_zen_end_now">Desactivar ahora</string>
     <string name="vpn_footer">La red podría estar monitoreada</string>
     <string name="vpn_settings_not_available">Los ajustes del VPN no están disponibles para este usuario</string>
-    <string name="vpn_text">Toque para ver los ajustes.</string>
-    <string name="vpn_text_long">Conectado a %s. Toque para ver los detalles.</string>
+    <string name="vpn_text">Toca para ver los ajustes.</string>
+    <string name="vpn_text_long">Conectado a %s. Toca para ver los detalles.</string>
     <string name="vpn_title">VPN activado</string>
     <string name="vpn_title_long">Conectando a VPN utilizando %s</string>
     <string name="wait_for_debugger">Espere por el depurador</string>

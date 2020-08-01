@@ -28,7 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="access_denied">Acceso denegado</string>
-    <string name="account_related">Este dispositivo está asociado a una Mi Cuenta existente (%s). Conéctate a la red para verificar el dispositivo.</string>
+    <string name="account_related">Este dispositivo está asociado a una Cuenta Mi existente (%s). Conéctate a la red para verificar el dispositivo.</string>
     <string name="activate_find_device_success">Encontrar dispositivo activado.</string>
     <string name="activate_finddevice">Conéctate a la red para activar el dispositivo</string>
     <string name="activating">Activando…</string>
@@ -171,26 +171,26 @@
     <string name="micloud_battery_low_notification_title">Batería baja</string>
     <string name="micloud_buy_member_safe">Obtener más almacenamiento en Xiaomi Cloud</string>
     <string name="micloud_check_sim_notify_text">"Parece que has cambiado las tarjetas SIM. Inicia sesión
- en Mi Cuenta para reactivar Xiaomi Cloud."</string>
+ en Cuenta Mi para reactivar Xiaomi Cloud."</string>
     <string name="micloud_check_sim_notify_title">Reactivar Xiaomi Cloud</string>
     <string name="micloud_check_sim_title">"Parece que has cambiado las tarjetas SIM. Inicia sesión
- en Mi Cuenta para reactivar Xiaomi Cloud."</string>
+ en Cuenta Mi para reactivar Xiaomi Cloud."</string>
     <string name="micloud_confusion_account_hint">Los cambios que hagas en este dispositivo se sincronizarán en todos los dispositivos. Para proteger tu cuenta, te recomendamos que desactives la sincronización de otros dispositivos cuando no estén en uso.</string>
     <string name="micloud_confusion_account_name">Cuenta:</string>
-    <string name="micloud_confusion_account_notify_text">Otro dispositivo está modificando Mi Cuenta. Verifica tu cuenta ahora.</string>
+    <string name="micloud_confusion_account_notify_text">Otro dispositivo está modificando Cuenta Mi. Verifica tu cuenta ahora.</string>
     <string name="micloud_confusion_account_notify_title">Verificar cuenta</string>
-    <string name="micloud_confusion_account_question">¿Es suyo el ID %s de Mi Cuenta?</string>
-    <string name="micloud_confusion_account_title">Mi Cuenta</string>
-    <string name="micloud_confusion_alert_message">%s está modificando la información de Mi Cuenta.</string>
+    <string name="micloud_confusion_account_question">¿Es suyo el ID %s de Cuenta Mi?</string>
+    <string name="micloud_confusion_account_title">Cuenta Mi</string>
+    <string name="micloud_confusion_alert_message">%s está modificando la información de Cuenta Mi.</string>
     <string name="micloud_confusion_alert_negative">Más tarde</string>
     <string name="micloud_confusion_alert_positive">Detalles</string>
     <string name="micloud_confusion_alert_title">Otro dispositivo está modificando tu cuenta</string>
     <string name="micloud_confusion_cancel">Cancelar</string>
-    <string name="micloud_confusion_check_account_title">Inicia sesión en Mi Cuenta para reactivar Xiaomi Cloud.</string>
-    <string name="micloud_confusion_entrance_hint">No inicies sesión en Mi Cuenta desde dispositivos públicos</string>
+    <string name="micloud_confusion_check_account_title">Inicia sesión en Cuenta Mi para reactivar Xiaomi Cloud.</string>
+    <string name="micloud_confusion_entrance_hint">No inicies sesión en Cuenta Mi desde dispositivos públicos</string>
     <string name="micloud_confusion_entrance_notify_text">Toca para ver detalles.</string>
     <string name="micloud_confusion_entrance_notify_title">Otro dispositivo está modificando tu cuenta</string>
-    <string name="micloud_confusion_entrance_question">¿Ha modificado recientemente Mi Cuenta usando %s?</string>
+    <string name="micloud_confusion_entrance_question">¿Ha modificado recientemente Cuenta Mi usando %s?</string>
     <string name="micloud_confusion_entrance_title">Datos modificados</string>
     <string name="micloud_confusion_finish_hint">Los cambios que hagas en este dispositivo se sincronizarán en todos los dispositivos. Para proteger tu cuenta, te recomendamos que desactives la sincronización de otros dispositivos cuando no estén en uso.</string>
     <string name="micloud_confusion_finish_message">Desactiva la sincronización para otros dispositivos.</string>
@@ -203,7 +203,7 @@
     <string name="micloud_confusion_setting_question">Desactiva la sincronización de otros dispositivos asociados a tu cuenta.</string>
     <string name="micloud_confusion_setting_title">Demasiados dispositivos</string>
     <string name="micloud_confusion_toast_confirm">Dispositivo confirmado</string>
-    <string name="micloud_confusion_toast_deny">Inicia sesión en Mi Cuenta</string>
+    <string name="micloud_confusion_toast_deny">Inicia sesión en Cuenta Mi</string>
     <string name="micloud_confusion_yes">Sí</string>
     <string name="micloud_detail_fail">No se pudo sincronizar</string>
     <string name="micloud_detail_force_sync">Sincronizar ahora</string>
@@ -230,13 +230,13 @@
     <string name="micloud_find_device_close_fail">No se pudo desactivar Encontrar dispositivo</string>
     <string name="micloud_find_device_close_progress">Desactivando Localizar dispositivo…</string>
     <string name="micloud_find_device_finish">Hecho</string>
-    <string name="micloud_find_device_guide_alert_content">Encontrar dispositivo está asociado a Mi Cuenta. Es necesario establecer una contraseña o introducir la contraseña establecida. Asegúrate que recuerdas el ID de Mi Cuenta y contraseña.</string>
+    <string name="micloud_find_device_guide_alert_content">Encontrar dispositivo está asociado a Cuenta Mi. Es necesario establecer una contraseña o introducir la contraseña establecida. Asegúrate que recuerdas el ID de Cuenta Mi y contraseña.</string>
     <string name="micloud_find_device_guide_alert_negtive">No, gracias</string>
     <string name="micloud_find_device_guide_alert_negtive_activate">No, gracias</string>
     <string name="micloud_find_device_guide_alert_positive">Aceptar</string>
     <string name="micloud_find_device_guide_alert_title">Recuerda tu contraseña</string>
     <string name="micloud_find_device_guide_button">Activar Encontrar dispositivo</string>
-    <string name="micloud_find_device_guide_fail_reopen">Puedes activar Encontrar dispositivo en Mi Cuenta - Xiaomi Cloud</string>
+    <string name="micloud_find_device_guide_fail_reopen">Puedes activar Encontrar dispositivo en Cuenta Mi - Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_fail_sub_net">Comprueba tu conexión de red e inténtalo de nuevo.</string>
     <string name="micloud_find_device_guide_micloud_sub_content">Sincronizar contactos, fotos, notas y más con Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_noti_content">Protege tus datos incluso cuando se pierda el dispositivo</string>
@@ -380,7 +380,7 @@ Usa una cuenta diferente."</string>
     <string name="micloud_privacy_warning_title">Atención</string>
     <string name="micloud_proceed">Continuar</string>
     <string name="micloud_request_permission_confirm">De acuerdo</string>
-    <string name="micloud_request_permission_content">Se necesitan permisos para sincronizar datos a Xiaomi Cloud. Permite a Xiaomi Cloud acceder al Calendario, a los Contactos, a Mi Cuenta, al estado de la tarjeta SIM, al historial de llamadas y a los mensajes.</string>
+    <string name="micloud_request_permission_content">Se necesitan permisos para sincronizar datos a Xiaomi Cloud. Permite a Xiaomi Cloud acceder al Calendario, a los Contactos, a Cuenta Mi, al estado de la tarjeta SIM, al historial de llamadas y a los mensajes.</string>
     <string name="micloud_request_permission_title">Se necesitan permisos para Xiaomi Cloud</string>
     <string name="micloud_request_sync_too_frequent">Demasiadas solicitudes. Espera un minuto o dos y vuelve a intentarlo.</string>
     <string name="micloud_sec_dspt">y compartir cosas con sus amigos.</string>
@@ -494,11 +494,11 @@ Esta característica cifra y envía el ID de su dispositivo a los servidores Mi.
     <string name="search_cloudbackup_pref">Copia de seguridad en la Nube</string>
     <string name="search_cloudbackup_pref_desc">Activar/Desactivar Copia en la Nube</string>
     <string name="search_cloudbackup_pref_key_words">copiaenlanube, copia en la nube</string>
-    <string name="search_cloudbackup_pref_path">Mi Cuenta/Xiaomi Cloud/Copia de seguridad del dispositivo</string>
+    <string name="search_cloudbackup_pref_path">Cuenta Mi/Xiaomi Cloud/Copia de seguridad del dispositivo</string>
     <string name="search_finddevice_pref">Encontrar dispositivo</string>
     <string name="search_finddevice_pref_desc">Activar/Desactivar Encontrar dispositivo</string>
     <string name="search_finddevice_pref_key_words">localizardispositivo, Encontrar dispositivo</string>
-    <string name="search_finddevice_pref_path">Mi Cuenta/Xiaomi Cloud/Encontrar dispositivo</string>
+    <string name="search_finddevice_pref_path">Cuenta Mi/Xiaomi Cloud/Encontrar dispositivo</string>
     <string name="search_menu_title">Buscar</string>
     <string name="share_cancel">Compartir cancelado</string>
     <string name="share_failed">No se pudo compartir</string>
@@ -561,7 +561,7 @@ Esta característica cifra y envía el ID de su dispositivo a los servidores Mi.
     <string name="tip_short_cut_added_success">Creado con éxito</string>
     <string name="tip_short_cut_already_added">Creado</string>
     <string name="title_back">Atrás</string>
-    <string name="title_reg">Crear Mi Cuenta</string>
+    <string name="title_reg">Crear Cuenta Mi</string>
     <string name="trying_to_connect_to_network">Conectándose a la red…</string>
     <string name="user_agreement_content">Al utilizar este servicio, aceptas %s.</string>
     <string name="user_agreement_link">Términos de Servicio de Xiaomi Cloud</string>

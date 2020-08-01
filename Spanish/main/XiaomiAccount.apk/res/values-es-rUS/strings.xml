@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="passport_account_label">Mi Cuenta</string>
+    <string name="passport_account_label">Cuenta Mi</string>
     <string name="passport_notification_title">Error de inicio de sesión para %1$s</string>
-    <string name="passport_login_prompt">Una Mi Cuenta. Todos los servicios Mi.</string>
+    <string name="passport_login_prompt">Una Cuenta Mi. Todos los servicios Mi.</string>
     <string name="passport_login_using_other_ways">Otras formas de iniciar sesión</string>
     <string name="passport_register_using_other_ways">Otras maneras de crear una cuenta</string>
-    <string name="passport_login_title">Iniciar sesión con Mi Cuenta</string>
+    <string name="passport_login_title">Iniciar sesión con Cuenta Mi</string>
     <string name="passport_login">Iniciar sesión</string>
     <string name="passport_relogin">Volver a iniciar sesión</string>
     <string name="passport_skip_login">Omitir</string>
     <string name="passport_skip_setup_account_title">Saltar configuración</string>
-    <string name="passport_skip_setup_account_msg">Puedes configurar Mi Cuenta más tarde en Ajustes.</string>
+    <string name="passport_skip_setup_account_msg">Puedes configurar Cuenta Mi más tarde en Ajustes.</string>
     <string name="passport_confirm_login">Continuar</string>
     <string name="passport_find_password_on_web_msg">Visita account.mi.com para restablecer tu contraseña.</string>
     <string name="passport_title_reg">Crear una cuenta</string>
-    <string name="passport_reg_prompt">¿No tiene Mi Cuenta? Cree una de forma gratuita.</string>
+    <string name="passport_reg_prompt">¿No tiene Cuenta Mi? Cree una de forma gratuita.</string>
     <string name="passport_uplink_reg">Utilizar número de teléfono</string>
     <string name="passport_uplink_slot1_reg">Usar SIM 1</string>
     <string name="passport_uplink_slot2_reg">Usar SIM 2</string>
@@ -34,12 +34,12 @@
     <string name="passport_re_get_verify_code">Obtener código de nuevo</string>
     <string name="passport_getting_verify_code">Obteniendo</string>
     <string name="passport_send_too_many_code">Se han enviado demasiados códigos de verificación a este número. Espere 24 horas e intente de nuevo.</string>
-    <string name="passport_restart_register_title">Crear Mi Cuenta</string>
+    <string name="passport_restart_register_title">Crear Cuenta Mi</string>
     <string name="passport_restart_register_prompt">Podría requerirse otro mensaje de verificación para crear su cuenta.</string>
     <string name="passport_wait_for_sms_prompt">¿Comenzar de nuevo ahora? Los mensajes de verificación pueden tardar hasta 10 minutos en llegar cuando su teléfono se encuentra dentro del área de servicio.</string>
     <string name="passport_send_vcode_failed">No se pudo enviar código</string>
     <string name="passport_sms_send_success">Enviado</string>
-    <string name="passport_recycle_account_prompt">¿Es esta Mi Cuenta?</string>
+    <string name="passport_recycle_account_prompt">¿Es esta Cuenta Mi?</string>
     <string name="passport_confirm_recycle_account">Sí</string>
     <string name="passport_reject_recycle_account">No</string>
     <string name="passport_input_password_for_login">Este número está asociado a una cuenta existente; ingrese su contraseña</string>
@@ -88,8 +88,8 @@ Para activar su cuenta, siga el
     <string name="passport_delete_account">Cerrar sesión</string>
     <string name="passport_vcode_notification_title">Su verificación de inicio de sesión está incompleta</string>
     <string name="passport_account_name">Cuenta: %1$s</string>
-    <string name="passport_account_hint_text">Correo electrónico/Número de teléfono/Mi Cuenta</string>
-    <string name="passport_email_or_id_hint_text">Correo/Mi Cuenta</string>
+    <string name="passport_account_hint_text">Correo electrónico/Número de teléfono/Cuenta Mi</string>
+    <string name="passport_email_or_id_hint_text">Correo/Cuenta Mi</string>
     <string name="passport_phone_num_hint_text">Número telefónico</string>
     <string name="passport_input_password_hint">Introducir contraseña</string>
     <string name="passport_input_captcha_hint">Introducir código</string>
@@ -165,7 +165,7 @@ Para activar su cuenta, siga el
     <string name="passport_error_unknown">No se puede iniciar sesión</string>
     <string name="passport_error_auth_fail">Sesión expirada, inicie sesión de nuevo más tarde</string>
     <string name="passport_imei_permission_denied_title">Solicitud de permiso IMEI</string>
-    <string name="passport_imei_permission_denied_message">Estamos solicitando permiso para obtener el IMEI de su dispositivo. La Mi Cuenta utiliza el IMEI para identificar el dispositivo en el que inicia sesión, para mantener segura su Mi Cuenta.</string>
+    <string name="passport_imei_permission_denied_message">Estamos solicitando permiso para obtener el IMEI de su dispositivo. La Cuenta Mi utiliza el IMEI para identificar el dispositivo en el que inicia sesión, para mantener segura su Cuenta Mi.</string>
     <string name="passport_account_identity_title">Verifique su identidad</string>
     <string name="passport_error_login">No se pudo iniciar sesión</string>
     <string name="passport_relogin_notice">Debe iniciar sesión de nuevo</string>
@@ -174,8 +174,8 @@ Para activar su cuenta, siga el
     <string name="passport_message_dialog_title">SMS con códigos de verificación</string>
     <string name="passport_trust_device">Agregar este dispositivo a dispositivos verificados</string>
     <string name="passport_barcode_add_account_prompt">Para conectar una cuenta, vuelva a escanear el codigo QR despues de iniciar sesion.</string>
-    <string name="passport_quick_register_notice">&lt;u&gt;¿No tiene Mi Cuenta? Crear una.&lt;/u&gt;</string>
-    <string name="passport_password_phone_login">Iniciar sesión usando Mi Cuenta</string>
+    <string name="passport_quick_register_notice">&lt;u&gt;¿No tiene Cuenta Mi? Crear una.&lt;/u&gt;</string>
+    <string name="passport_password_phone_login">Iniciar sesión usando Cuenta Mi</string>
     <string name="passport_sms_verification_code_login">Iniciar sesión con SMS</string>
     <string name="passport_login_other_account">Otra cuenta</string>
     <string name="passport_reg_new_account">Crear cuenta</string>
@@ -196,11 +196,11 @@ Para activar su cuenta, siga el
     <string name="passport_set">Establecer</string>
     <string name="passport_set_password_no_phone_msg">Agregar su número telefónico para proteger su cuenta.</string>
     <string name="passport_user_reg_region">País/Región</string>
-    <string name="passport_user_id_notice">Su ID de Mi Cuenta es %s.</string>
+    <string name="passport_user_id_notice">Su ID de Cuenta Mi es %s.</string>
     <string name="passport_user_reg_region_warning">No podrá cambiar su país/región una vez creada la cuenta.</string>
     <string name="passport_sync_account_data">Sincronizando info de la cuenta…</string>
-    <string name="passport_sync_account_data_failed_warning">La info de su cuenta está siendo sincronizada, puede iniciar sesión usando su ID de Mi Cuenta. Si quiere usar su teléfono o email, espere hasta que la info esté completamente sincronizada.</string>
-    <string name="passport_confirm_recycle_account_msg">&lt;font color=Red>Parece ser que&lt;/font>el número %s ha sido reciclado por su operador y está asoaciado a otra Mi Cuenta. ¿Es esta tu cuenta?</string>
+    <string name="passport_sync_account_data_failed_warning">La info de su cuenta está siendo sincronizada, puede iniciar sesión usando su ID de Cuenta Mi. Si quiere usar su teléfono o email, espere hasta que la info esté completamente sincronizada.</string>
+    <string name="passport_confirm_recycle_account_msg">&lt;font color=Red>Parece ser que&lt;/font>el número %s ha sido reciclado por su operador y está asoaciado a otra Cuenta Mi. ¿Es esta tu cuenta?</string>
     <string name="passport_login_recycle_account_yes">Sí</string>
     <string name="passport_login_recycle_account_no">No</string>
     <string name="passport_reg_recycle_account_yes">Sí</string>
@@ -209,28 +209,28 @@ Para activar su cuenta, siga el
     <string name="passport_get_innetdate_msg">&lt;font color=Red>Parece ser que&lt;/font>el número %s ha sido reciclado por su operador. ¿Verificar cuándo el número estuvo en línea?</string>
     <string name="passport_get_innetdate_agree">Verificar</string>
     <string name="passport_get_innetdate_disagree">No</string>
-    <string name="passport_extra_gdpr_license">Al crear Mi Cuenta, usted está de acuerdo con que Xiaomi recolecte, procese y utilice su información personal, incluyendo la información de verificación (códigos de verificación), información del Segundo Espacio (información sobre cómo utiliza el Segundo Espacio, identificaciones utilizadas en el Primer y Segundo Espacio), y otra información especificada en nuestra Política de Privacidad. Vaya a nuestra Política de Privacidad para aprender más sobre cómo procesamos y utilizamos su información personal.</string>
+    <string name="passport_extra_gdpr_license">Al crear Cuenta Mi, usted está de acuerdo con que Xiaomi recolecte, procese y utilice su información personal, incluyendo la información de verificación (códigos de verificación), información del Segundo Espacio (información sobre cómo utiliza el Segundo Espacio, identificaciones utilizadas en el Primer y Segundo Espacio), y otra información especificada en nuestra Política de Privacidad. Vaya a nuestra Política de Privacidad para aprender más sobre cómo procesamos y utilizamos su información personal.</string>
     <string name="passport_talkback_image_captcha">Código de imagen de verificación</string>
     <string name="passport_talkback_voice_captcha">Reproducir código de verificación de voz</string>
     <string name="passport_talkback_switch_voice_captcha">Cambiar a código de verificación de voz</string>
     <string name="passport_talkback_switch_image_captcha">Cambiar a código de imagen de verificación</string>
     <string name="passport_license_info_open">Detalles</string>
     <string name="passport_license_info_collapse">Contraer</string>
-    <string name="search_app_name">Mi Cuenta</string>
-    <string name="search_mi_account">Mi Cuenta</string>
+    <string name="search_app_name">Cuenta Mi</string>
+    <string name="search_mi_account">Cuenta Mi</string>
     <string name="search_mi_account_key_words">Xiaomi Cloud,Ajustes de Cuenta,Información Mi Pago,Cerrar sesión</string>
-    <string name="search_mi_account_desc">Mi Cuenta</string>
-    <string name="search_mi_account_path">Ajustes/Mi Cuenta</string>
+    <string name="search_mi_account_desc">Cuenta Mi</string>
+    <string name="search_mi_account_path">Ajustes/Cuenta Mi</string>
     <string name="search_user_detail">Info personal</string>
     <string name="search_user_detail_top_key_words">Info personal,Cambiar foto de perfil,Cambiar Nombre de Usuario,Cambiar Apodo,Cambiar Cumpleaños,Cambiar Género</string>
     <string name="search_user_detail_bottom_key_words">Cambiar Ingreso,Cambiar Educación,Cambiar Ubicación,Cambiar Región</string>
     <string name="search_user_detail_desc">Información personal</string>
-    <string name="search_user_detail_path">Ajustes/Mi Cuenta/Info personal</string>
+    <string name="search_user_detail_path">Ajustes/Cuenta Mi/Info personal</string>
     <string name="search_account_security">Seguridad de la cuenta</string>
     <string name="search_account_security_key_words">Cambiar Teléfono,Cambiar Email,Protección de cuenta,Cuentas,Sina Weibo,QQ,Autorización,Dispositivos</string>
     <string name="search_account_security_desc">Ajustes de Cuenta</string>
-    <string name="search_account_security_path">Ajustes/Mi Cuenta/Seguridad de la Cuenta</string>
-    <string name="app_name">Mi Cuenta</string>
+    <string name="search_account_security_path">Ajustes/Cuenta Mi/Seguridad de la Cuenta</string>
+    <string name="app_name">Cuenta Mi</string>
     <string name="account">Cuenta</string>
     <string name="logout_failed">No se pudo cerrar sesión</string>
     <string name="turning_off_find_device">Desactivando Encontrar dispositivo…</string>
@@ -252,9 +252,9 @@ Para activar su cuenta, siga el
     <string name="binded">Conectado</string>
     <string name="nobind">No conectado</string>
     <string name="button_unbind">Desconectado</string>
-    <string name="unbind_sns_description">Cuando haya desconectado esta cuenta, no podrá usar la información de su cuenta %s para iniciar sesión en su Mi Cuenta.</string>
+    <string name="unbind_sns_description">Cuando haya desconectado esta cuenta, no podrá usar la información de su cuenta %s para iniciar sesión en su Cuenta Mi.</string>
     <string name="confirm_unbind">¿Desconectar esta cuenta?</string>
-    <string name="binded_description" formatted="false">%s ha sido añadida a tu Mi Cuenta. Tu perfil ha sido actualizado con información de tu cuenta %s.</string>
+    <string name="binded_description" formatted="false">%s ha sido añadida a tu Cuenta Mi. Tu perfil ha sido actualizado con información de tu cuenta %s.</string>
     <string name="update_contacts">Actualizar contactos</string>
     <string name="updated_nothing">Actualizado</string>
     <string name="access_token_expired_warning">La cuenta Weibo ha expirado</string>
@@ -262,7 +262,7 @@ Para activar su cuenta, siga el
     <string name="service_error">Error del servicio</string>
     <string name="account_user_base_info">Información personal</string>
     <string name="account_user_name">Nombre</string>
-    <string name="account_user_id">ID de Mi Cuenta</string>
+    <string name="account_user_id">ID de Cuenta Mi</string>
     <string name="account_none">Ninguna</string>
     <string name="account_no_set">Ninguna</string>
     <string name="account_has_been_set">Cambiar</string>
@@ -271,7 +271,7 @@ Para activar su cuenta, siga el
     <string name="account_user_gender">Género</string>
     <string name="account_user_birthday">Fecha de nacimiento</string>
     <string name="account_user_name_dialog_title">Introduzca su nombre de usuario</string>
-    <string name="account_empty_user_name">Introduzca el nombre de usuario de su Mi Cuenta</string>
+    <string name="account_empty_user_name">Introduzca el nombre de usuario de su Cuenta Mi</string>
     <string name="account_error_all_space_user_name">El nombre no puede estar compuesto solo por caracteres de espacio</string>
     <string name="account_error_invalid_user_name">El nombre no puede contener &lt;, >, /</string>
     <string name="account_error_shorter_user_name">El nombre debe contener más de 2 caracteres</string>
@@ -304,11 +304,11 @@ Para activar su cuenta, siga el
     <string name="account_bind_secure_phone_title">Agregar número de teléfono</string>
     <string name="account_bind_secure_email_title">Agregar correo electrónico</string>
     <string name="update_phone_number_notice_message">Necesita verificar su identidad antes de poder actualizar el número de teléfono.</string>
-    <string name="failed_dup_secure_phone_number">Este número de teléfono ya está asociado con otra Mi Cuenta</string>
+    <string name="failed_dup_secure_phone_number">Este número de teléfono ya está asociado con otra Cuenta Mi</string>
     <string name="confirm_phone_number_dialog_title">Confirmar número telefónico</string>
     <string name="confirm_bundled_phone_dialog_title">Confirmar número telefónico asociado</string>
     <string name="confirm_phone_number_dialog_message">El código de verificación se enviará a: %s.</string>
-    <string name="confirm_unbundled_phone_dialog_message">El número telefónico %1$s está asociado a Mi Cuenta %2$s. No se asociará a Mi Cuenta %3$s si continua. ¿Continuar?</string>
+    <string name="confirm_unbundled_phone_dialog_message">El número telefónico %1$s está asociado a Cuenta Mi %2$s. No se asociará a Cuenta Mi %3$s si continua. ¿Continuar?</string>
     <string name="change_phone_number">Cambiar número de teléfono</string>
     <string name="change_email_address">Cambiar correo electrónico</string>
     <string name="continue_action">Continuar</string>
@@ -317,13 +317,13 @@ Para activar su cuenta, siga el
     <string name="restart_phone_bind_title">Cambiar teléfono de recuperación</string>
     <string name="restart_phone_bind_message">Puede tardar algún tiempo en recibir el SMS. ¿Empezar de nuevo de todos modos?</string>
     <string name="restart_action">Volver a comenzar</string>
-    <string name="error_dup_binded_email">Esta dirección de correo electrónico ya está asociada con una Mi Cuenta.</string>
+    <string name="error_dup_binded_email">Esta dirección de correo electrónico ya está asociada con una Cuenta Mi.</string>
     <string name="error_invalid_bind_address">La dirección de correo electrónico introducida no es válida.</string>
-    <string name="get_phone_bind_exceed_limit">Puede asociar hasta 3 Mi Cuentas con un número telefónico. No puede agregar nuevas cuentas.</string>
+    <string name="get_phone_bind_exceed_limit">Puede asociar hasta 3 Cuenta Mis con un número telefónico. No puede agregar nuevas cuentas.</string>
     <string name="just_a_second">Espere un momento…</string>
     <string name="get_phone_verifycode_exceed_limit">Se han enviado demasiados códigos de verificación a este número. Espere 24 horas y vuelva a intentarlo.</string>
     <string name="mi_account_identity_title">Verifique su identidad</string>
-    <string name="exceed_binded_phone_times_notice">Este número de teléfono ya está asociado con una Mi Cuenta.</string>
+    <string name="exceed_binded_phone_times_notice">Este número de teléfono ya está asociado con una Cuenta Mi.</string>
     <string name="input_email_address_notice">Utilizaremos este correo electrónico para verificar su cuenta</string>
     <string name="send_email_activate_message">Correo de verificación enviado</string>
     <string name="activate_email_notice">Asegúrese de activar su cuenta dentro de un periodo de 24 horas</string>
@@ -357,7 +357,7 @@ Para activar su cuenta, siga el
     <string name="vip_settings_info">Ajustes VIP</string>
     <string name="loading_micloud_sync_data">Espere un momento…</string>
     <string name="activity_not_found_notice">No se puede encontrar la app</string>
-    <string name="scan_barcode_title">Entre de forma segura en su Mi Cuenta escaneando el código QR desde la página web o la TV</string>
+    <string name="scan_barcode_title">Entre de forma segura en su Cuenta Mi escaneando el código QR desde la página web o la TV</string>
     <string name="talkback_scan_barcode">Escanear código QR</string>
     <string name="authorize_title">Autorización</string>
     <string name="my_device_title">Dispositivo actual</string>
@@ -369,7 +369,7 @@ Para activar su cuenta, siga el
     <string name="other_devices_title">Otros dispositivos</string>
     <string name="remove_trust_notice">Desvincular de los dispositivos de confianza y cerrar sesión</string>
     <string name="remove_trust_btn">Desvincular de los dispositivos de confianza</string>
-    <string name="delete_device_notice">Después de retirar el dispositivo, se cerrará la sesión automáticamente y saldrá de su Mi Cuenta. No podrá usar este dispositivo para acceder a las fotos, mensajes u otros contenidos almacenados en su cuenta.</string>
+    <string name="delete_device_notice">Después de retirar el dispositivo, se cerrará la sesión automáticamente y saldrá de su Cuenta Mi. No podrá usar este dispositivo para acceder a las fotos, mensajes u otros contenidos almacenados en su cuenta.</string>
     <string name="delete_device_btn">Eliminiar</string>
     <string name="phone_activated">%s activado</string>
     <string name="no_sim_card_or_unactivated">La tarjeta SIM no está instalada o activada</string>
@@ -385,7 +385,7 @@ Para activar su cuenta, siga el
     <string name="empty_device_list_notice">No hay dispositivos</string>
     <string name="device_name">Nombre del dispositivo</string>
     <string name="multi_user_not_show_sync_activity_title">No activar la sincronización con Xiaomi Cloud</string>
-    <string name="multi_user_not_show_sync_activity_message_1">Parece que esta usando la Mi Cuenta de su Primer espacio.</string>
+    <string name="multi_user_not_show_sync_activity_message_1">Parece que esta usando la Cuenta Mi de su Primer espacio.</string>
     <string name="multi_user_not_show_sync_activity_message_2">En ese caso, todos los datos serán sincronizados a su Segundo espacio. Para evitar esto, no active la sincronización con Xiaomi Cloud.</string>
     <string name="find_device_access_denied">No se pudo obtener estatus, acceso negado</string>
     <string name="find_device_account_error">No se pudo obtener estatus debido a un error de cuenta</string>
@@ -398,16 +398,16 @@ Para activar su cuenta, siga el
     <string name="find_device_operation_failed_error">Ha ocurrido un error de servidor, espere unos minutos e inténtelo de nuevo</string>
     <string name="find_device_unknown_error">No se puede obtener el estado del dispositivo, espere unos minutos e inténtelo de nuevo</string>
     <string name="find_device_error_password_recently_changed">Cambio su contraseña hace menos de 3 días. No puede desactivar Buscar dispositivo, debido a razones de seguridad.</string>
-    <string name="find_device_error_password_not_confirmed">No se pudo desactivar Encontrar dispositivo. Introduzca de nuevo la contraseña de su Mi Cuenta.</string>
+    <string name="find_device_error_password_not_confirmed">No se pudo desactivar Encontrar dispositivo. Introduzca de nuevo la contraseña de su Cuenta Mi.</string>
     <string name="find_device_operation_failed_error_unknown">Ha ocurrido un error, vuelva a intentar más tarde</string>
     <string name="find_device_remote_exception">Error RPC</string>
     <string name="io_error_title">Confirme su red</string>
     <string name="login_check_find_device_failed_title">No se pudo comprobar la información de seguridad del dispositivo</string>
-    <string name="notify_network_restricted_title">Mi Cuenta no se pudo conectar a la red</string>
-    <string name="notify_network_restricted_content_hidden_state">La actividad de la Mi Cuenta está restringida a segundo plano. Toque para permitir.</string>
-    <string name="notify_network_restricted_content_bg_network">El acceso a internet por parte de la Mi Cuenta está restringida. Toque para permitir.</string>
-    <string name="notify_network_restricted_content_mobile_network">El acceso a internet por parte de la Mi Cuenta está restringida. Toque para permitir.</string>
-    <string name="login_guard_prompt">Requerir número de verificación de teléfono al iniciar sesión de Mi Cuenta por primera vez en un dispositivo o app desconocidos.</string>
+    <string name="notify_network_restricted_title">Cuenta Mi no se pudo conectar a la red</string>
+    <string name="notify_network_restricted_content_hidden_state">La actividad de la Cuenta Mi está restringida a segundo plano. Toca para permitir.</string>
+    <string name="notify_network_restricted_content_bg_network">El acceso a internet por parte de la Cuenta Mi está restringida. Toca para permitir.</string>
+    <string name="notify_network_restricted_content_mobile_network">El acceso a internet por parte de la Cuenta Mi está restringida. Toca para permitir.</string>
+    <string name="login_guard_prompt">Requerir número de verificación de teléfono al iniciar sesión de Cuenta Mi por primera vez en un dispositivo o app desconocidos.</string>
     <string name="verified_devices">Dispositivos verificados</string>
     <string name="verified_apps">Apps verificadas</string>
     <string name="trusted_browsers">Navegadores confiables</string>
@@ -417,9 +417,9 @@ Para activar su cuenta, siga el
     <string name="delete_device">Eliminar dispositivo</string>
     <string name="delete_app">Eliminar app</string>
     <string name="delete_browser">Eliminar navegador</string>
-    <string name="confirm_delete_device_message">Después de eliminar este dispositivo, tendrá que verificar su número de teléfono la próxima vez que inicie sesión en Mi Cuenta.</string>
-    <string name="confirm_delete_app_message">Después de eliminar esta app, tendrá que verificar su número de teléfono la próxima vez que inicie sesión en Mi Cuenta.</string>
-    <string name="confirm_delete_browser_message">Después de eliminar este navegador, tendrá que verificar su número de teléfono la próxima vez que inicie sesión en Mi Cuenta.</string>
+    <string name="confirm_delete_device_message">Después de eliminar este dispositivo, tendrá que verificar su número de teléfono la próxima vez que inicie sesión en Cuenta Mi.</string>
+    <string name="confirm_delete_app_message">Después de eliminar esta app, tendrá que verificar su número de teléfono la próxima vez que inicie sesión en Cuenta Mi.</string>
+    <string name="confirm_delete_browser_message">Después de eliminar este navegador, tendrá que verificar su número de teléfono la próxima vez que inicie sesión en Cuenta Mi.</string>
     <string name="delete_lock_device_success">Eliminado con éxito</string>
     <string name="verify_phone_title">Comprobar número de teléfono</string>
     <string name="verify_phone_prompt">Seleccionar número de teléfono para verificar</string>
@@ -434,18 +434,18 @@ Para activar su cuenta, siga el
 1. Si olvidó su contraseña, vaya a id.mi.com para restablecerla.
 2. Si no puede restablecer su contraseña o alguien bloqueó su dispositivo, vaya a i.mi.com para desbloquearlo.
 3. Su número de desbloqueo es: %s"</string>
-    <string name="login_find_device_bind">Este dispositivo esta asociado a un ID de Mi Cuenta en uso (%s).</string>
+    <string name="login_find_device_bind">Este dispositivo esta asociado a un ID de Cuenta Mi en uso (%s).</string>
     <string name="find_device_locked_account_phone" formatted="false">%s, número telefónico asociado: %s</string>
     <string name="find_device_locked_account_email" formatted="false">%s, dirección de email asociada: %s</string>
-    <string name="oauth_title">Iniciar sesión con Mi Cuenta</string>
+    <string name="oauth_title">Iniciar sesión con Cuenta Mi</string>
     <string name="oauth_getting_scopes">Verificando la cuenta…</string>
     <string name="oauth_get_scopes_failed">No se pudo obtener información de cuenta</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> obtendrá los siguientes permisos:&lt;br> &lt;br> %3$s</string>
-    <string name="guest_account_label">Mi Cuenta de Invitado</string>
-    <string name="push_notification_title">Ha iniciado sesión en Mi Cuenta en un dispositivo desconocido</string>
+    <string name="guest_account_label">Cuenta Mi de Invitado</string>
+    <string name="push_notification_title">Ha iniciado sesión en Cuenta Mi en un dispositivo desconocido</string>
     <string name="push_notification_content">Obtener código de verificación</string>
     <string name="push_notify_dialog_title">Verificación de cuenta</string>
-    <string name="push_notify_dialog_message">Se ha usado un dispositivo desconocido para iniciar sesión en Mi Cuenta. Introduzca este código de verificación en el dispositivo. Si no fue usted, cambie la contraseña de Mi Cuenta de inmediato. No revele su código de verificación a otras personas.</string>
+    <string name="push_notify_dialog_message">Se ha usado un dispositivo desconocido para iniciar sesión en Cuenta Mi. Introduzca este código de verificación en el dispositivo. Si no fue usted, cambie la contraseña de Cuenta Mi de inmediato. No revele su código de verificación a otras personas.</string>
     <string name="account_secure_info_pref_title">Info de la cuenta</string>
     <string name="account_user_email">Correo electrónico</string>
     <string name="account_user_phone">Teléfono</string>
@@ -468,12 +468,12 @@ Para activar su cuenta, siga el
     <string name="account_token_expired_title">No se pudo autentificar</string>
     <string name="account_token_expired_msg">"Código de verificación expiró, iniciar de nuevo o cerrar sesión
 ID de su cuenta: %s"</string>
-    <string name="bind_safe_phone_msg">Agregar su número telefónico para poder iniciar sesión en Mi Cuenta la próxima vez.</string>
+    <string name="bind_safe_phone_msg">Agregar su número telefónico para poder iniciar sesión en Cuenta Mi la próxima vez.</string>
     <string name="account_notification_message">La sesión expiró. Vuelva a iniciar sesión.</string>
     <string name="sim_changed_notification_title">¿Cambió su número de teléfono?</string>
-    <string name="sim_changed_notification_msg">Toque para actualizar su teléfono de respaldo y mantener su cuenta más segura.</string>
-    <string name="recycle_phone_notification_title">Riesgo de seguridad de Mi Cuenta</string>
-    <string name="recycle_phone_notification_msg">Parece que su número de teléfono ha sido reciclado. Toque para actualizar.</string>
+    <string name="sim_changed_notification_msg">Toca para actualizar su teléfono de respaldo y mantener su cuenta más segura.</string>
+    <string name="recycle_phone_notification_title">Riesgo de seguridad de Cuenta Mi</string>
+    <string name="recycle_phone_notification_msg">Parece que su número de teléfono ha sido reciclado. Toca para actualizar.</string>
      <string name="abc_action_menu_overflow_description">Mas opciones</string>
      <string name="abc_action_mode_done">Hecho</string>
      <string name="abc_activity_chooser_view_see_all">Ver todo</string>
@@ -540,7 +540,7 @@ ID de su cuenta: %s"</string>
      <string name="diagnosis_log_sent_format">"Registro enviado con éxito.
 ID:%s
 Enviar este código al supervisor."</string>
-     <string name="ep_unsupported">"No puede iniciar sesión en Mi Cuenta en su dispositivo"</string>
+     <string name="ep_unsupported">"No puede iniciar sesión en Cuenta Mi en su dispositivo"</string>
      <string name="exit">Salir</string>
      <string name="for_diagnosis_usage_only">Utilizado solo para localizar problemas.</string>
      <string name="google">Google</string>
@@ -548,7 +548,7 @@ Enviar este código al supervisor."</string>
      <string name="i_agree_continue">De acuerdo</string>
      <string name="inconsistent_pwd">"Las contraseñas no coinciden"</string>
      <string name="input_new_pwd">Ingrese nueva clave</string>
-     <string name="kr_license_desc">Debe aceptar nuestro Acuerdo de Usuario y nuestra Política de Privacidad antes de usar Mi Cuenta y los servicios de Xiaomi Cloud.</string>
+     <string name="kr_license_desc">Debe aceptar nuestro Acuerdo de Usuario y nuestra Política de Privacidad antes de usar Cuenta Mi y los servicios de Xiaomi Cloud.</string>
      <string name="kr_permission_contacts_desc">Para acceder a la información de contacto</string>
      <string name="kr_permission_desc">Permisos requeridos</string>
      <string name="kr_permission_phone_desc">Para proteger tu cuenta</string>
@@ -560,7 +560,7 @@ Enviar este código al supervisor."</string>
      <string name="ok">OK</string>
      <string name="optional_permissions">Permisos opcionales</string>
      <string name="passport_can_not_receive_verification_code">"¿No puede recibir el código de verificación?"</string>
-     <string name="passport_first_login_prompt">Mi Cuenta se creará automáticamente cuando inicies sesión por primera vez.</string>
+     <string name="passport_first_login_prompt">Cuenta Mi se creará automáticamente cuando inicies sesión por primera vez.</string>
      <string name="passport_input_phone_password">Ingrese la contraseña para %s</string>
      <string name="passport_international_register_by_email">Crear una cuenta usando la dirección de correo electrónico</string>
      <string name="passport_privacy_policy_required">Política de Privacidad (obligatoria)</string>
@@ -576,7 +576,7 @@ Enviar este código al supervisor."</string>
      <string name="permission_group_phone">Teléfono</string>
      <string name="permission_group_sms">SMS</string>
      <string name="permission_group_storage">Almacenamiento</string>
-     <string name="pwd_width_phone_number_or_mail_num">"La contraseña no puede contener su número de teléfono, correo electrónico o ID de Mi Cuenta"</string>
+     <string name="pwd_width_phone_number_or_mail_num">"La contraseña no puede contener su número de teléfono, correo electrónico o ID de Cuenta Mi"</string>
      <string name="risky_pwd_not_allow">"La nueva contraseña no es segura. Establecer uno diferente."</string>
      <string name="same_new_and_old_pwd">La nueva contraseña debe ser diferente de la anterior</string>
      <string name="search_menu_title">Buscar</string>
@@ -592,7 +592,7 @@ Enviar este código al supervisor."</string>
      <string name="temporary_not_available">"Esta característica aún no está disponible."</string>
      <string name="two_factor_auth">Autenticación de dos factores</string>
      <string name="two_factor_auth_click_confirm">Confirmar para iniciar sesión</string>
-     <string name="two_factor_auth_click_confirm_summary">"Verás una notificación en otros dispositivos Mi conectados. Toque la notificación para permitir iniciar sesión en un nuevo dispositivo."</string>
+     <string name="two_factor_auth_click_confirm_summary">"Verás una notificación en otros dispositivos Mi conectados. Toca la notificación para permitir iniciar sesión en un nuevo dispositivo."</string>
      <string name="two_factor_auth_method">Método de autentificación</string>
      <string name="two_factor_auth_need_code">Ingrese el código</string>
      <string name="two_factor_auth_need_code_summary">"Verá un código en otros dispositivos Mi conectados. Ingrese este código en un nuevo dispositivo para iniciar sesión."</string>

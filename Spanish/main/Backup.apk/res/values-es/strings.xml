@@ -30,9 +30,9 @@
     <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="abort_backup_confirm">La copia no ha terminado. ¿Detener de todos modos?</string>
     <string name="abort_restore_confirm">Restauración no finalizada. ¿Detener de todos modos?</string>
-    <string name="account_contact_backup_info">Cuenta Google, Mi Cuenta y datos de Contactos</string>
+    <string name="account_contact_backup_info">Cuenta Google, Cuenta Mi y datos de Contactos</string>
     <string name="account_login">Iniciar sesión</string>
-    <string name="account_summary">Hacer copia de seguridad de tu cuenta de Google, Mi Cuenta y otros datos de usuario</string>
+    <string name="account_summary">Hacer copia de seguridad de tu cuenta de Google, Cuenta Mi y otros datos de usuario</string>
     <string name="alert_button_agree_and_continue">Permitir</string>
     <string name="alert_button_deny">Rechazar</string>
     <string name="alert_message_backup_to_miasist">Mi PC Suite requiere permisos para crear una copia en el ordenador. ¿Permitir?</string>
@@ -116,7 +116,7 @@ https://appleid.apple.com/#!&amp;page=iniciar sesión para cerrar"</string>
     <string name="close_twice_auth_tutor">Desactivar la autorización de dos factores de Apple ID</string>
     <string name="cloud_app_name">Copia de seguridad Xiaomi Cloud</string>
     <string name="cloud_backup_hint">Iniciar sesión para acceder a tus copias de seguridad</string>
-    <string name="cloud_backup_login">Iniciar sesión en Mi Cuenta</string>
+    <string name="cloud_backup_login">Iniciar sesión en Cuenta Mi</string>
     <string name="cloud_backup_window_title">Copia de seguridad Xiaomi Cloud</string>
     <string name="cloud_home_title">Xiaomi Cloud</string>
     <string name="cloud_item_info_summary">" (Local: %1$s | Xiaomi Cloud: %2$s)"</string>
@@ -168,8 +168,8 @@ https://appleid.apple.com/#!&amp;page=iniciar sesión para cerrar"</string>
     <string name="enable_encrypt_description">Cifrar</string>
     <string name="enable_encrypt_fail">Error de encriptación</string>
     <string name="enable_encrypt_indicator">Pulsa para cifrar</string>
-    <string name="enable_encrypt_summery1">Iniciar sesión en Mi Cuenta para acceder a las copias de seguridad cifradas.</string>
-    <string name="enable_encrypt_summery2">Tus copias de seguridad serán cifradas automáticamente. Para acceder a ellas debes iniciar sesión en Mi Cuenta.</string>
+    <string name="enable_encrypt_summery1">Iniciar sesión en Cuenta Mi para acceder a las copias de seguridad cifradas.</string>
+    <string name="enable_encrypt_summery2">Tus copias de seguridad serán cifradas automáticamente. Para acceder a ellas debes iniciar sesión en Cuenta Mi.</string>
     <string name="enable_encrypt_title">Cifrar copias de seguridad</string>
     <string name="enable_encrypt_xiaomi_account">Esta copia de seguridad ha sido creada por %1$s. Para restaurar, borra la cuenta actual y accede como %2$s.</string>
     <string name="err_acquire_system_service">No se pudo iniciar el servicio del sistema.</string>
@@ -194,7 +194,7 @@ https://appleid.apple.com/#!&amp;page=iniciar sesión para cerrar"</string>
     <string name="expand_button_title">Advanced</string>
     <string name="fail">Fallido</string>
     <string name="failed_description">Ha fallado</string>
-    <string name="feature_title_account">Mi Cuenta</string>
+    <string name="feature_title_account">Cuenta Mi</string>
     <string name="feature_title_antispam">Lista negra</string>
     <string name="feature_title_call_log">Historial de llamadas</string>
     <string name="feature_title_contacts">Contactos</string>
@@ -253,7 +253,7 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Descarga la app de Mi Talk e inicia sesión.
 \u0009http://www.miliao.com
 
-2.\u0009Ve a los Ajustes de Mi Talk y selecciona ”Crear copia de contactos en Mi Cuentai”"</string>
+2.\u0009Ve a los Ajustes de Mi Talk y selecciona ”Crear copia de contactos en Cuenta Mii”"</string>
     <string name="import_from_xiaomi_account_hint2">Si ya existe una copia de seguridad, pulsa Siguiente.</string>
     <string name="import_from_xiaomi_account_hint_title">Usa Mi Talk para crear copias de seguridad de tus contactos entre dispositivos.</string>
     <string name="import_tip_summary">Debido a problemas de compatibilidad, solo puede transferir datos parciales desde dispositivos iOS. Asegúrese de crear una copia de seguridad de iCloud antes de comenzar la transferencia.</string>
@@ -304,7 +304,7 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="login">Iniciar sesión</string>
     <string name="login_failed">No se pudo iniciar sesión. Reintentar.</string>
     <string name="logining">Iniciando sesión…</string>
-    <string name="miliao_account_guide">Usar tu Mi Cuenta para iniciar sesión en Xiaomi Cloud, la tienda de MIUI Temas y otros servicios de Mi desde cualquier lugar.</string>
+    <string name="miliao_account_guide">Usar tu Cuenta Mi para iniciar sesión en Xiaomi Cloud, la tienda de MIUI Temas y otros servicios de Mi desde cualquier lugar.</string>
     <string name="miliao_account_login">Iniciar sesión con Mi Talk</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tire hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
@@ -418,7 +418,7 @@ Libere al menos %s."</string>
     <string name="sc_internal_server_error">Error interno del servidor</string>
     <string name="sc_network_unavailable">Comprueba la conexión e inténtalo de nuevo.</string>
     <string name="sc_others">Ha ocurrido un error</string>
-    <string name="sc_precondition_failed">Primero debes añadir un correo electrónico a Mi Cuenta.</string>
+    <string name="sc_precondition_failed">Primero debes añadir un correo electrónico a Cuenta Mi.</string>
     <string name="sc_request_timeout">Tiempo de espera agotado</string>
     <string name="sc_service_unavailable">Xiaomi Cloud no está disponible</string>
     <string name="sc_unaccess_password_file">No se puede encontrar la contraseña de la red Wi-Fi</string>
@@ -460,9 +460,9 @@ Libere al menos %s."</string>
     <string name="storage_usb">Unidad USB</string>
     <string name="succ_description">Exitosamente</string>
     <string name="succeed">Completado</string>
-    <string name="summary_err_backup_encrypting">Iniciar sesión en Mi Cuenta.</string>
+    <string name="summary_err_backup_encrypting">Iniciar sesión en Cuenta Mi.</string>
     <string name="summary_err_backup_no_network">No se pudo conectar a la red</string>
-    <string name="summary_err_restore_encrypting">No se pudo restaurar. Asegúrate de que esta copia se realizó utilizando Mi Cuenta.</string>
+    <string name="summary_err_restore_encrypting">No se pudo restaurar. Asegúrate de que esta copia se realizó utilizando Cuenta Mi.</string>
     <string name="summary_err_restore_no_network">No se pudo conectar a la red</string>
     <string name="system_backup">Copia de seguridad</string>
     <string name="system_backup_info">Ajustes de sistema y disposición de escritorio</string>
@@ -573,7 +573,7 @@ para descargar e instalar Mi Mover."</string>
     <string name="trans_intro_desc_9_method_2_title">2. Envíanos un correo electrónico</string>
     <string name="trans_intro_desc_9_method_3_dec">El grupo de Mi Mover en QQ es: 687338378</string>
     <string name="trans_intro_desc_9_method_3_title">3. Reporta los problemas en QQ</string>
-    <string name="trans_intro_desc_account">Tienes que iniciar sesión otra vez en tus cuentas (p. ej. Mi Cuenta, Exchange, Google, etc) en un nuevo dispositivo por razones de seguridad.</string>
+    <string name="trans_intro_desc_account">Tienes que iniciar sesión otra vez en tus cuentas (p. ej. Cuenta Mi, Exchange, Google, etc) en un nuevo dispositivo por razones de seguridad.</string>
     <string name="trans_intro_desc_gms">Debido a alta probabilidad de error en las transferencias por problemas de compatibilidad, Mi Mover no soporta la transferencia de datos generados por aplicaciones de Google.</string>
     <string name="trans_intro_desc_multiapp">Mi Mover no transfiere datos de aplicaciones duales para evitar conflictos de archivos.</string>
     <string name="trans_intro_desc_multiuser">Mi Mover no puede acceder a los elementos del Segundo espacio. Muévelos al Primer espacio y lanza Mi Mover allí.</string>
@@ -677,7 +677,7 @@ Mantén los dispositivos cerca uno del otro."</string>
     <string name="trans_success_dialog_button_market_comment">Comentario</string>
     <string name="trans_success_dialog_button_market_favourable_comment">Valora Mi Mover</string>
     <string name="trans_success_dialog_button_survey">Encuesta</string>
-    <string name="trans_success_dialog_market_comment_and_survey_title">"Estás listo para el rock! Cuéntanos qué te parece Mi Mover."</string>
+    <string name="trans_success_dialog_market_comment_and_survey_title">"¡Todo listo! Cuéntanos qué te parece Mi Mover."</string>
     <string name="trans_success_dialog_market_comment_title">"Ahora tu nuevo dispositivo se siente como casa.
 ¿Te gustó Mi Mover?"</string>
     <string name="trans_success_dialog_survey_title">Agradecemos tus comentarios</string>

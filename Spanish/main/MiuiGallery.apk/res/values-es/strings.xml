@@ -151,7 +151,7 @@
     <string name="associate_face_album">Seleccionar un álbum</string>
     <string name="authorize_to_device_failed">No se pudo autorizar</string>
     <string name="authorize_watch_on_tv_failed">No se pudo autorizar para ver en la TV</string>
-    <string name="auto_backup_introduce">Respaldar fotos y vídeos automáticamente (se requiere Mi Cuenta)</string>
+    <string name="auto_backup_introduce">Respaldar fotos y vídeos automáticamente (se requiere Cuenta Mi)</string>
     <string name="auto_download_media_title">Descargar fotos de Xiaomi Cloud automáticamente</string>
     <string name="auto_update_face">Añadir fotos automáticamente</string>
     <string name="auto_update_face_summary">Localizar y añadir fotos automáticamente al álbum del bebé</string>
@@ -559,7 +559,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="error_external_sdcard_write_action">Cambiar almacenamiento</string>
     <string name="error_external_sdcard_write_msg">Ir a Ajustes > Almacenamiento, cambiar almacenamiento, y reintentar.</string>
     <string name="error_external_sdcard_write_tip">No se pueden guardar los elementos en la tarjeta SD.</string>
-    <string name="error_forbidden">La sincronización se ha deshabilitado debido a problemas con Mi Cuenta.</string>
+    <string name="error_forbidden">La sincronización se ha deshabilitado debido a problemas con Cuenta Mi.</string>
     <string name="error_install_connect_fail">No se pudo cargar complemento. Comprueba tu conexión de red.</string>
     <string name="error_install_sdcard_not_available">No se pudo cargar el complemento por un error en la tarjeta SD.</string>
     <string name="error_install_storage_not_enough">Libera espacio en tu dispositivo para cargar complemento.</string>
@@ -570,8 +570,8 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="error_network_restrict_msg">Permitir a Galería conectarse a la red.</string>
     <string name="error_network_restrict_tip">No fue posible conectarse a la red.</string>
     <string name="error_no_account_action">Iniciar sesión</string>
-    <string name="error_no_account_msg">Inicia sesión con Mi Cuenta y vuelve a intentarlo.</string>
-    <string name="error_no_account_tip">Iniciar sesión en Mi Cuenta</string>
+    <string name="error_no_account_msg">Inicia sesión con Cuenta Mi y vuelve a intentarlo.</string>
+    <string name="error_no_account_tip">Iniciar sesión en Cuenta Mi</string>
     <string name="error_no_cta_permission_action">Permitir</string>
     <string name="error_no_cta_permission_msg">Acceso a red restringido.</string>
     <string name="error_no_cta_permission_tip">Acceso a red restringido</string>
@@ -625,7 +625,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="ext_sdcard_permission_request_reason">"Galería necesita tu permiso para acceder a la tarjeta SD. Le permitirá eliminar y editar las fotos y los videos que están almacenados en su tarjeta SD."</string>
     <string name="ext_sdcard_permission_request_title">"Permitir que la Galería acceda a la tarjeta SD"</string>
     <string name="ext_sdcard_request_failed_button_text">"DE ACUERDO"</string>
-    <string name="ext_sdcard_request_succeed_toast_text">"Estás listo para el rock!"</string>
+    <string name="ext_sdcard_request_succeed_toast_text">"¡Todo listo!​"</string>
     <string name="face_album_empty">"Fotos insuficientes para reconocer la gente.
 ¡Haz más fotos de tus amigos!"</string>
     <string name="face_album_empty_syncing">Sincronizando datos, vuelve en un rato</string>
@@ -849,7 +849,7 @@ disponibles"</string>
     <string name="loading_video_fail_sync_without_network">Conéctate a la red para descargar los metadatos</string>
     <string name="loading_video_fail_syncing">Espera hasta que los metadatos se descarguen por completo e inténtalo de nuevo</string>
     <string name="loading_video_thumbnail">Descargando portada del vídeo…</string>
-    <string name="login_and_enable_service">Iniciar sesión con Mi Cuenta</string>
+    <string name="login_and_enable_service">Iniciar sesión con Cuenta Mi</string>
     <string name="long_press_to_refocus">Pulsa y mantén pulsado para reenfocar</string>
     <string name="main_discard_confirm_message">Hay cambios sin guardar</string>
     <string name="main_discard_negative_btn">Descartar</string>
@@ -879,7 +879,7 @@ para personalizar la Galería"</string>
     <string name="merge_album">Combinar</string>
     <string name="merge_album_title">Combinar con una persona</string>
     <string name="messagelist_sender_self">Yo</string>
-    <string name="micloud_introduce">Respalda fotos y vídeos automáticamente (se necesitará Mi Cuenta)</string>
+    <string name="micloud_introduce">Respalda fotos y vídeos automáticamente (se necesitará Cuenta Mi)</string>
     <string name="month_view_tip_button_text">"Lo tengo"</string>
     <string name="month_view_tip_sub_title">"Pellizcar la pantalla para cambiar a vista de mes"</string>
     <string name="month_view_tip_title">"Vista mensual"</string>
@@ -933,7 +933,7 @@ para personalizar la Galería"</string>
     <string name="movie_return">Atrás</string>
     <string name="movie_save">Guardar</string>
     <string name="movie_save_failed">"No se pudo guardar"</string>
-    <string name="movie_save_stop_tips">"Toque de nuevo para cancelar guardar el video"</string>
+    <string name="movie_save_stop_tips">"Toca de nuevo para cancelar guardar el video"</string>
     <string name="movie_save_successfully">"Guardado a la creatividad"</string>
     <string name="movie_saving">"Creando clip ..."</string>
     <string name="movie_tab_edit">"Editar"</string>
@@ -1348,13 +1348,13 @@ para personalizar la Galería"</string>
     <string name="search_feedback_task_request_award_failed">No se pudo recibir premio. Prueba otra vez</string>
     <string name="search_feedback_task_requesting_award">Recibiendo premio…</string>
     <string name="search_feedback_user_notice">He leído y acepto %s.</string>
-    <string name="search_feedback_user_policy">Política de privacidad del algoritmo del programa Galería MI AIUI</string>
-    <string name="search_hint">Toque para buscar</string>
+    <string name="search_feedback_user_policy">Política de Privacidad del algoritmo del programa Galería MI AIUI</string>
+    <string name="search_hint">Toca para buscar</string>
     <string name="search_image_result_title">Resultados de la búsqueda</string>
     <string name="search_login_now">Iniciar sesión</string>
     <string name="search_login_sub_title">Iniciar sesión para encontrar más fotos</string>
-    <string name="search_login_title">Mi Cuenta</string>
-    <string name="search_login_title_full_screen">Iniciar sesión con Mi Cuenta para encontrar más objetos y personas</string>
+    <string name="search_login_title">Cuenta Mi</string>
+    <string name="search_login_title_full_screen">Iniciar sesión con Cuenta Mi para encontrar más objetos y personas</string>
     <string name="search_mark_feedback_false_negative_title">Aceptar</string>
     <string name="search_mark_feedback_false_positive_title">Solucionar</string>
     <string name="search_menu_title">Buscar</string>
@@ -1493,7 +1493,7 @@ para personalizar la Galería"</string>
     <string name="storage_no_space">No hay espacio suficiente</string>
     <string name="story_action_remove">Eliminar de la historia</string>
     <string name="story_action_share">Compartir</string>
-    <string name="story_back_stop_download">"Toque de nuevo para detener la descarga"</string>
+    <string name="story_back_stop_download">"Toca de nuevo para detener la descarga"</string>
     <string name="story_cancel_download">Cancelar</string>
     <string name="story_download">Descargar</string>
     <string name="story_download_failed_for_notwork">"No se pudo descargar. Conéctate a la red y vuelve a intentarlo."</string>
@@ -1725,7 +1725,7 @@ para personalizar la Galería"</string>
     <string name="welcome_to_micloud">Bienvenido/a a Xiaomi Cloud</string>
     <string name="where_is_barcode">¿Dónde está el código QR?</string>
     <string name="who_is_this">¿Quién es?</string>
-    <string name="xiaomi_account_not_exists_toast">Esta Mi Cuenta no existe</string>
+    <string name="xiaomi_account_not_exists_toast">Esta Cuenta Mi no existe</string>
     <string name="xiaomi_cc_9">Mi CC9</string>
     <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>
     <string name="yes">Sí</string>

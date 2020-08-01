@@ -64,7 +64,7 @@
     <string name="available_playlist_name_format">Nueva lista de reproducción %d</string>
     <string name="avoid_to_use_traffic_summary">No use redes móviles para transmitir música en línea</string>
     <string name="avoid_to_use_traffic_title">Avisar cuando se utilicen datos móviles para reproducir canciones</string>
-    <string name="back_confirm">Toque de nuevo para enviar la aplicación al segundo plano</string>
+    <string name="back_confirm">Toca de nuevo para enviar la aplicación al segundo plano</string>
     <string name="backup_complete">Todas las canciones están respaldadas en Xiaomi Cloud</string>
     <string name="backup_empty_button">No hay canciones seleccionadas</string>
     <string name="backup_immediate">Respaldar</string>
@@ -84,7 +84,7 @@
     <string name="choose_download_quality">Elija la calidad de descarga</string>
     <string name="choose_language">Seleccionar idioma</string>
     <string name="choose_stream_quality">Elija la calidad de transmisión</string>
-    <string name="click_to_shuffle">Toque para reproducción aleatoria</string>
+    <string name="click_to_shuffle">Toca para reproducción aleatoria</string>
     <string name="close_music_time">"Tiempo restante: "</string>
     <string name="cloud_empty_local_empty_button">No hay canciones en este dispositivo</string>
     <string name="cloud_empty_message">No hay canciones en Xiaomi Cloud</string>
@@ -195,7 +195,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
     <string name="download_auto_message">Las canciones marcadas como favoritas serán descargadas automáticamente al conectarse al Wi-Fi. Puede cambiar esto en Ajustes.</string>
     <string name="download_auto_when_free_network">Usar solo Wi-Fi</string>
     <string name="download_auto_when_free_network_summary">Ajustes adicionales para canciones marcadas como favoritas</string>
-    <string name="download_cloud_error_not_auth">Inicie sesión en Mi Cuenta y vuelva a intentarlo.</string>
+    <string name="download_cloud_error_not_auth">Inicie sesión en Cuenta Mi y vuelva a intentarlo.</string>
     <string name="download_cloud_error_retryable">Error del servidor Xiaomi Cloud, vuelva a intentarlo más tarde.</string>
     <string name="download_cloud_error_unknow">No se pudo conectar a Xiaomi Cloud</string>
     <string name="download_complete">Descarga completa</string>
@@ -276,9 +276,9 @@ es proporcionado principalmente por Ultimate Inc."</string>
     <string name="eq_preset_select">Elija un preajuste</string>
     <string name="eq_rock">Rock</string>
     <string name="equalizer">Ecualizador</string>
-    <string name="error_forbidden">La sincronización se ha desactivado debido a problemas con Mi Cuenta.</string>
+    <string name="error_forbidden">La sincronización se ha desactivado debido a problemas con Cuenta Mi.</string>
     <string name="error_not_acceptable">La sincronización está desactivada.</string>
-    <string name="error_title">No se puede sincronizar con Mi Cuenta</string>
+    <string name="error_title">No se puede sincronizar con Cuenta Mi</string>
     <string name="error_unauthorized">La sincronización se ha desactivado debido a demasiados intentos de inicio de sesión.</string>
     <string name="exo_controls_fastforward_description">Avanzar</string>
     <string name="exo_controls_fullscreen_description">Modo de pantalla completa</string>
@@ -314,7 +314,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
     <string name="facebook_not_installed">Instale Facebook primero.</string>
     <string name="fail_to_fetch_payment_page_url">No se pudo obtener información del pago</string>
     <string name="fail_to_play">No se puede reproducir la canción</string>
-    <string name="fav_login_msg">Inicie sesión con Mi Cuenta para descargar canciones</string>
+    <string name="fav_login_msg">Inicie sesión con Cuenta Mi para descargar canciones</string>
     <string name="favorite_canceled">Eliminado de Favoritos</string>
     <string name="favorite_playlist">Favoritos</string>
     <string name="favorite_singer">Artistas favoritos</string>
@@ -479,7 +479,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
     <string name="music_filter">Filtrar archivos de audio</string>
     <string name="music_service">Servicio de música</string>
     <string name="music_settings">Música</string>
-    <string name="my_account">Mi Cuenta</string>
+    <string name="my_account">Cuenta Mi</string>
     <string name="my_music_empty">Lista de reproducción vacía.</string>
     <string name="my_music_empty_goto_online">No se encontraron canciones</string>
     <string name="nav_online_playlist">Listas de reproducción</string>
@@ -588,7 +588,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
     <string name="pulluprefreshrecyclerview_loading_running">Cargando2026</string>
     <string name="queue_is_empty">La cola de reproducción está vacía.</string>
     <string name="radar">ACRCloud</string>
-    <string name="radar_click_to_retry">Toque para intentarlo de nuevo</string>
+    <string name="radar_click_to_retry">Toca para intentarlo de nuevo</string>
     <string name="radar_fail">No hay resultados</string>
     <string name="radar_fail_by_noise">Parece que hay demasiado ruido aquí</string>
     <string name="radar_listening_state">Identificando…</string>
@@ -734,7 +734,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
     <string name="title_search_history">Historial de búsqueda</string>
     <string name="to_mi_pay">Mi Créditos</string>
     <string name="toast_download_error_by_count_limit">Ha agotado su cuota mensual de descargas.</string>
-    <string name="toast_download_error_by_not_login">Inicie sesión en Mi Cuenta y vuelva a intentarlo.</string>
+    <string name="toast_download_error_by_not_login">Inicie sesión en Cuenta Mi y vuelva a intentarlo.</string>
     <string name="toast_download_error_by_vip_required">Obtenga el Paquete de Canciones Premium para descargar esta canción.</string>
     <string name="toast_download_in_process">Descarga en proceso</string>
     <string name="toast_new_playlist_name_no_enter">No se puede iniciar un nuevo párrafo</string>
@@ -768,6 +768,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
     <string name="vip_tomorrow_renew_message">No podrá transmitir audio de alta calidad, pero algunas canciones estarán disponibles en calidad estándar.</string>
     <string name="wifi_required_body" formatted="false">"Conéctese a Wi-Fi para completar esta %sdescarga.
 
-Toque%spara iniciar esta descarga la próxima vez que se conecte a una red Wi-Fi."</string>
+Toca%spara iniciar esta descarga la próxima vez que se conecte a una red Wi-Fi."</string>
     <string name="wifi_required_title">Debe conectarse a Wi-Fi para descargar este archivo</string>
 </resources>

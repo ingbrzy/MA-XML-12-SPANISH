@@ -32,8 +32,8 @@
     <string name="add_organization">Añadir organización</string>
     <string name="add_to_my_contacts">Añadir a mis contactos</string>
     <string name="add_wait">Añadir espera</string>
-    <string name="add_xiaomi_account_dialog_btn">Usar Mi Cuenta</string>
-    <string name="add_xiaomi_account_dialog_msg">¡Realice copias de seguridad de sus contactos a Mi Cuenta para acceder a ellos desde cualquier lugar!</string>
+    <string name="add_xiaomi_account_dialog_btn">Usar Cuenta Mi</string>
+    <string name="add_xiaomi_account_dialog_msg">¡Realice copias de seguridad de sus contactos a Cuenta Mi para acceder a ellos desde cualquier lugar!</string>
     <string name="add_xiaomi_account_dialog_title">Seleccione una cuenta</string>
     <string name="aggregation_suggestion_edit_dialog_message">¿Cambiar a editar el mismo contacto seleccionado? La información que introduzca no será copiada.</string>
     <string name="aggregation_suggestion_edit_dialog_title">Mismo nombre</string>
@@ -174,13 +174,13 @@
     <string name="clear_copy_number_description">Eliminar número copiado</string>
     <string name="clear_default">Borrar predeterminado</string>
     <string name="clear_digits">Eliminar número telefónico</string>
-    <string name="click_close">Toque para cerrar</string>
+    <string name="click_close">Toca para cerrar</string>
     <string name="clip_dialog_title">¿Llamar al número copiado?</string>
     <string name="close_dial_pad_description">Cerrar teclado</string>
     <string name="cloud_antispam_mark">Reportar</string>
     <string name="cloud_antispam_marked">Marcado</string>
     <string name="cloud_antispam_title">Id de llamada</string>
-    <string name="cloud_recommend_msg">Toque para sincronizar los contactos con Xiaomi Cloud.</string>
+    <string name="cloud_recommend_msg">Toca para sincronizar los contactos con Xiaomi Cloud.</string>
     <string name="cloud_state_disabled">Sincronizar contactos con Xiaomi Cloud</string>
     <string name="cloud_state_loading">Espere un momento…</string>
     <string name="cloud_state_sync_finished">Sincronizado con Xiaomi Cloud</string>
@@ -219,14 +219,14 @@
     <string name="contact_detail_miprofile_accept_fail_toast">No se pudieron intercambiar las tarjetas de contacto</string>
     <string name="contact_detail_miprofile_accept_success_toast">Tarjetas de contacto intercambiadas</string>
     <string name="contact_detail_miprofile_binded_label">Verificado</string>
-    <string name="contact_detail_miprofile_exchange_closed">"No hay números asociados a esta Mi Cuenta
+    <string name="contact_detail_miprofile_exchange_closed">"No hay números asociados a esta Cuenta Mi
 Las tarjetas de contacto están desactivadas"</string>
     <string name="contact_detail_miprofile_privacy_settings">Requerir permiso para ver</string>
     <string name="contact_detail_miprofile_request">Intercambiar tarjetas de contacto</string>
     <string name="contact_detail_miprofile_request_fail_toast">No se pudo enviar la solicitud</string>
     <string name="contact_detail_miprofile_request_subtitle">Actualizar automáticamente la información de este contacto</string>
     <string name="contact_detail_miprofile_request_success_toast">Solicitud enviada</string>
-    <string name="contact_detail_miprofile_save">Toque para obtener la tarjeta de contacto</string>
+    <string name="contact_detail_miprofile_save">Toca para obtener la tarjeta de contacto</string>
     <string name="contact_detail_miprofile_save_fail_toast">No se pudo obtener la tarjeta de contacto</string>
     <string name="contact_detail_miprofile_save_success_toast">Tarjeta de contacto recibida</string>
     <string name="contact_detail_miprofile_settings_header">AJUSTES ADICIONALES</string>
@@ -238,7 +238,7 @@ Las tarjetas de contacto están desactivadas"</string>
     <string name="contact_detail_profile_switch_off_success_toast">Tarjetas de contacto desactivadas</string>
     <string name="contact_detail_profile_switch_on">Ver las fotos de perfil de los contactos</string>
     <string name="contact_detail_profile_switch_on_fail_toast">No se pudo activar las tarjetas de contacto</string>
-    <string name="contact_detail_profile_switch_on_subtitle">Toque para activar las tarjetas de contacto</string>
+    <string name="contact_detail_profile_switch_on_subtitle">Toca para activar las tarjetas de contacto</string>
     <string name="contact_detail_profile_switch_on_success_toast">Tarjetas de contacto activadas</string>
     <string name="contact_directory_description">Directorio %1$s</string>
     <string name="contact_edit_save_error_empty">El contacto está vacío</string>
@@ -379,7 +379,7 @@ Las tarjetas de contacto están desactivadas"</string>
 
 2. En Dispositivos Android el modo Visible debería estar activado. 
 
-3. Toque \"Siguiente\", y dé a Contactos los permisos necesarios."</string>
+3. Toca \"Siguiente\", y dé a Contactos los permisos necesarios."</string>
     <string name="device_transfer_by_sim_message">"“1. Guarde los contactos del otro dispositivo en la tarjeta SIM; 
 
 2. Abra Ajustes en la app de Contactos y vaya a “Importar/Exportar contactos” -- “Importar desde tarjeta SIM”, mantenga pulsado cualquier contacto SIM para seleccionarlo, seleccione todos los contactos requeridos y pulse “Importar”.”"</string>
@@ -551,8 +551,8 @@ Motivo: \"%s\""</string>
     <string name="import_to_xiaomi_account_confirm">Importar</string>
     <string name="import_to_xiaomi_account_progress_finish">Contactos importados</string>
     <string name="import_to_xiaomi_account_progress_message">Importando…</string>
-    <string name="import_to_xiaomi_account_progress_title">Importar contactos a su Mi Cuenta</string>
-    <string name="import_to_xiaomi_account_title">Importar a la Mi Cuenta</string>
+    <string name="import_to_xiaomi_account_progress_title">Importar contactos a su Cuenta Mi</string>
+    <string name="import_to_xiaomi_account_title">Importar a la Cuenta Mi</string>
     <string name="import_vcard_description">Importe contactos desde el almacenamiento de su dispositivo</string>
     <string name="import_vcard_dialog_message">¿Importar vCard?</string>
     <string name="importing_sim_contacts_miui">Importando contactos de la tarjeta SIM…</string>
@@ -661,7 +661,7 @@ Motivo: \"%s\""</string>
     <string name="miprofile_alertdialog_edit">Introduzca nombre</string>
     <string name="miprofile_alertdialog_message">Mostrar este nombre a los contactos cuando solicite el intercambio de tarjetas.</string>
     <string name="miprofile_alertdialog_title">Introduzca nombre</string>
-    <string name="miprofile_bind_account_alertdialog_message">Debe agregar el número de teléfono de este dispositivo a su Mi Cuenta para usar esta función.</string>
+    <string name="miprofile_bind_account_alertdialog_message">Debe agregar el número de teléfono de este dispositivo a su Cuenta Mi para usar esta función.</string>
     <string name="miprofile_bind_account_alertdialog_positive">Añadir número</string>
     <string name="miprofile_bind_account_alertdialog_title">Añadir número telefónico</string>
     <string name="miprofile_contact_add">Agregar</string>
@@ -671,7 +671,7 @@ Motivo: \"%s\""</string>
     <string name="miprofile_contact_verifying">Comprobando</string>
     <string name="miprofile_edit_title">Editar perfil</string>
     <string name="miprofile_error_accept_self">No puede intercambiar su propia tarjeta de contacto</string>
-    <string name="miprofile_error_no_miaccount">Inicie sesión con su Mi Cuenta</string>
+    <string name="miprofile_error_no_miaccount">Inicie sesión con su Cuenta Mi</string>
     <string name="miprofile_error_not_opened">Desactivar tarjetas de contacto</string>
     <string name="miprofile_error_not_set">Su tarjeta de contacto no ha sido sincronizada con el servidor</string>
     <string name="miprofile_error_unknown">Error desconocido</string>
@@ -689,7 +689,7 @@ Motivo: \"%s\""</string>
     <string name="miprofile_nick_name_edit_dialog_message">Su alias aparecerá en el historial de llamadas y en la información del perfil</string>
     <string name="miprofile_nick_name_edit_dialog_title">Editar alias</string>
     <string name="miprofile_notice_close">Cerrar</string>
-    <string name="miprofile_notice_text">Toque para ver la foto de perfil del contacto</string>
+    <string name="miprofile_notice_text">Toca para ver la foto de perfil del contacto</string>
     <string name="miprofile_request_agenda_date">Esta persona quiere intercambiar tarjetas [%1$s]</string>
     <string name="miprofile_request_agenda_today">Esta persona quiere cambiar tarjetas [Hoy %1$s]</string>
     <string name="miprofile_request_agenda_yesterday">Esta persona quiere intercambiar tarjetas [Ayer %1$s]</string>
@@ -744,7 +744,7 @@ Motivo: \"%s\""</string>
     <string name="nickname_picker_nickname_column">Título</string>
     <string name="noAccounts">Para crear grupos necesita una cuenta.</string>
     <string name="noContactHelpTextAccountsInfo" />
-    <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar contactos desde su Mi Cuenta</string>
+    <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar contactos desde su Cuenta Mi</string>
     <string name="noContacts">Sin contactos</string>
     <string name="noContactsWithPhoneNumbers">No hay contactos con número de teléfono</string>
     <string name="noGroups">Sin grupos</string>
@@ -855,9 +855,9 @@ Motivo: \"%s\""</string>
     <string name="pref_key_sim_manage">Tarjetas SIM</string>
     <string name="pref_key_sim_manage1">Configurar tarjeta SIM 1</string>
     <string name="pref_key_sim_manage2">Configurar tarjeta SIM 2</string>
-    <string name="pref_summary_import_from_account">Transferir contactos de las cuentas de Google y Exchange a su Mi Cuenta</string>
+    <string name="pref_summary_import_from_account">Transferir contactos de las cuentas de Google y Exchange a su Cuenta Mi</string>
     <string name="pref_title_account_import">Importar contactos</string>
-    <string name="pref_title_import_from_account">Importar a la Mi Cuenta</string>
+    <string name="pref_title_import_from_account">Importar a la Cuenta Mi</string>
     <string name="preference_auto_ip_summary_disable">Desactivado</string>
     <string name="preference_auto_ip_summary_on">Prefijo IP del operador: %s</string>
     <string name="preference_auto_ip_title">Prefijo IP automático</string>
@@ -921,7 +921,7 @@ Motivo: \"%s\""</string>
     <string name="qrcode_card_title">Código QR</string>
     <string name="quick_dial_setting_delete_dialog_message">¿Eliminar los números de marcado rápido?</string>
     <string name="quick_dial_setting_delete_dialog_option_delete">Eliminar</string>
-    <string name="quick_dial_setting_hint">Toque el botón para agregar o eliminar un número de marcado rápido. Mantenga presionado un botón con un número asignado para marcarlo.</string>
+    <string name="quick_dial_setting_hint">Toca el botón para agregar o eliminar un número de marcado rápido. Mantenga presionado un botón con un número asignado para marcarlo.</string>
     <string name="quick_dial_setting_set_dialog_message">¿Asignar un número de marcado rápido a este botón?</string>
     <string name="quick_dial_setting_set_dialog_option_set">Sí</string>
     <string name="quick_dial_setting_title">Marcado rápido</string>

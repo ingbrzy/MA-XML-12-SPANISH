@@ -58,7 +58,7 @@
     <string name="accessibility_action_divider_top_full">Pantalla superior entera</string>
     <string name="accessibility_airplane_mode">Modo avión.</string>
     <string name="accessibility_ambient_display_charging">Cargando</string>
-    <string name="accessibility_aspect_button">Modo pantalla completa</string>
+    <string name="accessibility_aspect_button">Modo de pantalla completa</string>
     <string name="accessibility_assistant">Bola flotante</string>
     <string name="accessibility_back">Atrás</string>
     <string name="accessibility_battery_details">Abrir detalles de la batería</string>
@@ -323,9 +323,9 @@
     <string name="as_unimportant">No importante</string>
     <string name="ask_me_later_bubbles">Pregúntame luego</string>
     <string name="aspect_cancel">Cancelar</string>
-    <string name="aspect_message">Esta aplicación se lanzará de nuevo en modo de pantalla completa. Si encuentra algún problema, puede desactivar el modo de pantalla completa para esta aplicación en Configuración &gt; Visualización de pantalla completa &gt; Modo de pantalla completa.</string>
+    <string name="aspect_message">Esta aplicación se lanzará de nuevo en modo de pantalla completa. Si encuentras algún problema, puedes desactivar el modo de pantalla completa para esta aplicación en Ajustes &gt; Pantalla completa &gt; Modo de pantalla completa.</string>
     <string name="aspect_ok">Aceptar</string>
-    <string name="aspect_title">Modo pantalla completa</string>
+    <string name="aspect_title">Modo de pantalla completa</string>
     <string name="audio_effect_custom">Configurar</string>
     <string name="audio_effect_info">Optimizar audio</string>
     <string name="audio_effect_settings">Selecciona el tipo de auriculares</string>
@@ -811,17 +811,17 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="force_rtl_layout_all_locales_summary">Forzar dirección del diseño de la pantalla a RTL para todo</string>
     <string name="forced_resizable_secondary_display">La aplicación podría no funcionar en una pantalla secundaria.</string>
     <string name="forget_password_string">Olvidé la contraseña</string>
-    <string name="fs_gesture_back_home_summary">Deslizar rápidamente desde abajo</string>
+    <string name="fs_gesture_back_home_summary">Desliza rápidamente desde abajo</string>
     <string name="fs_gesture_back_ready_title">Volver</string>
-    <string name="fs_gesture_final_over">He terminado</string>
+    <string name="fs_gesture_final_over">"He terminado"</string>
     <string name="fs_gesture_final_restart">Una vez más</string>
-    <string name="fs_gesture_final_summary">Puede volver a usar los botones en la Configuración > Pantalla completa</string>
-    <string name="fs_gesture_final_title">¡Todo listo!</string>
-    <string name="fs_gesture_finish">Genial!</string>
-    <string name="fs_gesture_left_back_ready_summary">Deslizar hacia la derecha desde el borde</string>
-    <string name="fs_gesture_right_back_ready_summary">Deslizar hacia la izquierda desde el borde</string>
+    <string name="fs_gesture_final_summary">Puedes volver a usar los botones en Ajustes &gt; Pantalla completa</string>
+    <string name="fs_gesture_final_title">"¡Todo listo!"</string>
+    <string name="fs_gesture_finish">¡Genial!</string>
+    <string name="fs_gesture_left_back_ready_summary">Desliza hacia la derecha desde el borde</string>
+    <string name="fs_gesture_right_back_ready_summary">Desliza hacia la izquierda desde el borde</string>
     <string name="fs_gesture_skip">Atrás</string>
-    <string name="fs_gesture_switch_recents_summary">Deslizar desde abajo y pausa</string>
+    <string name="fs_gesture_switch_recents_summary">Desliza desde abajo y para</string>
     <string name="fsg_demo_back">Atrás</string>
     <string name="fsg_demo_go_on">Aprender</string>
     <string name="go_to_web">Ir a la web</string>
@@ -886,13 +886,13 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
 Una vez que el teléfono se haya enfriado, funcionará normalmente."</string>
     <string name="high_temp_notif_message">Algunas funciones están limitadas mientras el teléfono se enfria</string>
     <string name="high_temp_title">El teléfono se está calentando</string>
-    <string name="home">Ajustes de Pantalla de inicio</string>
+    <string name="home">Pantalla de Inicio de Ajustes</string>
     <string name="hour_minute_time_format">"HH: mm"</string>
-    <string name="how_to_back_home">Ir a la pantalla de inicio</string>
+    <string name="how_to_back_home">Ir a la pantalla de Inicio</string>
     <string name="how_to_switch_recents">Abrir Recientes</string>
     <string name="how_to_use_app_quick">Cómo cambiar entre aplicaciones</string>
-    <string name="how_to_use_app_quick_hide_line_summary">Deslice hacia arriba desde la parte inferior de la pantalla, luego deslice hacia la izquierda o hacia la derecha</string>
-    <string name="how_to_use_app_quick_summary">Deslice el dedo hacia la izquierda o hacia la derecha desde el indicador de pantalla completa o la parte inferior de la pantalla</string>
+    <string name="how_to_use_app_quick_hide_line_summary">Desliza hacia arriba desde la parte inferior de la pantalla, luego desliza hacia la izquierda o hacia la derecha</string>
+    <string name="how_to_use_app_quick_summary">Desliza hacia la izquierda o hacia la derecha desde el indicador de pantalla completa o la parte inferior de la pantalla</string>
     <string name="how_to_use_drawer">Cómo abrir el menú deslizable</string>
     <string name="how_to_use_drawer_summary">Desliza hacia la derecha en la parte superior de la pantalla</string>
     <string name="how_to_use_fsg">Puede realizar estas acciones usando gestos:</string>
@@ -1155,7 +1155,7 @@ MMMM d"</string>
     <string name="lockscreen_carrier_default">Sin servicio</string>
     <string name="lockscreen_charging_msg">Cargando</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Has intentado desbloquear erróneamente tu dispositivo %d veces. Después de %d intentos fallidos más, el teléfono se restablecerá a los ajustes predeterminados y se perderán todos los datos de usuario.</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Has introducido erróneamente la contraseña %d veces. Después de %d intentos fallidos más, te pediremos las credenciales de Mi Cuenta para iniciar sesión.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Has introducido erróneamente la contraseña %d veces. Después de %d intentos fallidos más, te pediremos las credenciales de Cuenta Mi para iniciar sesión.
 
  Inténtalo de nuevo en %d segundos."</string>
     <string name="lockscreen_failed_attempts_now_wiping">Has intentado desbloquear erróneamente tu dispositivo %d veces. El teléfono se restablecerá a los ajustes predeterminados.</string>
