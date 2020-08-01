@@ -2712,7 +2712,81 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="status_bar_network_flow_today">Hoy: %1$s</string>
     <string name="still_retain_btn">Mantener</string>
     <string name="stop_milink_connect">Se detuvo el lanzamiento</string>
+    <string name="storage_activity_title">Espacio de almacenamiento</string>
+    <string name="storage_app_detail_activity_title">Espacio ocupado</string>
+    <string name="storage_app_detail_cache">Caché</string>
+    <string name="storage_app_detail_clear_all_data">Borrar todos los datos</string>
+    <string name="storage_app_detail_clear_all_dialog_message">Toda los datos de la aplicación, incluyendo archivos, ajustes, cuentas y caché serán eliminados permanentemente.</string>
+    <string name="storage_app_detail_clear_all_dialog_title">¿Borrar todos los datos?</string>
+    <string name="storage_app_detail_clear_cache">Borrar caché</string>
+    <string name="storage_app_detail_clear_cache_title">¿Borrar el caché de la aplicación ahora?</string>
+    <string name="storage_app_detail_dialog_cancel">Cancelar</string>
+    <string name="storage_app_detail_dialog_ok">OK</string>
+    <string name="storage_app_detail_manage_space">%s - Administrar espacio de almacenamiento</string>
+    <string name="storage_app_detail_manager_enabled">Activado</string>
+    <string name="storage_app_detail_qq_cleaner">QQ Cleaner</string>
+    <string name="storage_app_detail_sdcard">Datos de la aplicación</string>
+    <string name="storage_app_detail_system">Tamaño de la aplicación</string>
+    <string name="storage_app_detail_third_clean_size">Liberar %s</string>
+    <string name="storage_app_detail_total">Espacio total ocupado</string>
+    <string name="storage_app_detail_uninstall_app">Desinstalar aplicación</string>
+    <string name="storage_app_detail_uninstall_dialog_message">Todos los datos de la aplicación también serán eliminados si desinstalas la aplicación.</string>
+    <string name="storage_app_detail_uninstall_dialog_title">¿Desinstalar ahora?</string>
+    <string name="storage_app_detail_uninstall_done">Desinstalación existosa</string>
+    <string name="storage_app_detail_wechat_cleaner">WeChat cleaner</string>
+    <string name="storage_app_detail_wechat_session">"Clear WeChat's chat history"</string>
+    <string name="storage_app_list_activity_title">Detalles de la aplicación</string>
+    <string name="storage_app_list_desc">Espacio ocupado: %s</string>
+    <string name="storage_app_manager_clear_dlg_title">Borrar datos</string>
+    <string name="storage_app_manager_clear_failed_dlg_message">"No se puede borrar los datos de la aplicación"</string>
+    <string name="storage_app_manager_disable_dlg_text">Desactivar esta aplicación puede resultar en que algunas funciones no trabajen correctamente.</string>
+    <string name="storage_app_manager_disable_dlg_title">¿Desactivar aplicación pre-instalada?</string>
+    <string name="storage_app_manager_disable_text">Desactivar</string>
+    <string name="storage_app_manager_factory_reset_dlg_msg">Todas las actualizaciones de esta aplicación del sistema Android serán desinstaladas.</string>
+    <string name="storage_app_manager_factory_reset_dlg_title">¿Desinstalar actualizaciones?</string>
+    <string name="storage_app_manager_uninstall_application">¿Desinstalar</string>
+    <string name="storage_app_manager_uninstall_protected_dlg_msg">La desinstalación de plugins del sistema puede resultar en que algunas funciones no trabajen correctamente. ¿Desinstalar de todas formas?</string>
     <string name="storage_app_manager_uninstall_protected_dlg_title">Atención</string>
+    <string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">"La aplicación dual de esta aplicación será desinstalada también."</string>
+    <string name="storage_app_manager_uninstall_xspace_app_dlg_msg">Todos los datos de la aplicación también serán eliminados si desinstalas la aplicación .</string>
+    <string name="storage_app_manager_uninstall_xspace_app_dlg_title">¿Desinstalar aplicación dual?</string>
+    <string name="storage_app_space_details_entry">Ver detalles de la aplicación</string>
+    <string name="storage_app_uninstall_app_dialog_msg">Todos los datos de la aplicación también serán eliminados si desinstalas la aplicación.</string>
+    <string name="storage_app_uninstall_app_dialog_title">Desinstalando la aplicación</string>
+    <string name="storage_available_total_size">%1$s de %2$s disponible</string>
+    <string name="storage_available_total_size1">Ocupado: %1$s | Total: %2$s</string>
+    <string name="storage_deepclean_entry">Limpieza profunda</string>
+    <string name="storage_dialog_unmountable">"Esta ^1 está corrupta.
+
+    Para usarla ^1, tienes que configurarla primero."</string>
+    <string name="storage_dialog_unmounted">"Esta ^1 ha sido removida correctamente, pero aún disponible.
+
+    Para usarla ^1, tienes que montarla primero."</string>
+    <string name="storage_dialog_unsupported">"Este dispositivo no soporta esta ^1.
+
+    Para usarla ^1 con este dispositivo, tienes que configurarla primero."</string>
+    <string name="storage_format_failure">"No se pudo formatear %1$s"</string>
+    <string name="storage_format_success">Formateo %1$s completo</string>
+    <string name="storage_item_apk_name">APKs</string>
+    <string name="storage_item_appdata_name">Aplicaciones y datos</string>
+    <string name="storage_item_audio_name">Audio</string>
+    <string name="storage_item_clean_name">Espacio libre</string>
+    <string name="storage_item_doc_name">Documentos</string>
+    <string name="storage_item_other_name">Otros</string>
+    <string name="storage_item_picture_name">Imágenes</string>
+    <string name="storage_item_system_name">Sistema</string>
+    <string name="storage_item_video_name">Video</string>
+    <string name="storage_menu_mount">Montado</string>
+    <string name="storage_mount_failure">"No se pudo montar %1$s"</string>
+    <string name="storage_mount_success">Montada %1$s completo</string>
+    <string name="storage_space_release_hint">¿Necesitas más espacio de almacenamiento?</string>
+    <string name="storage_unmount_failure">"No se puedo desmontar %1$s"</string>
+    <string name="storage_unmount_success">Desmontada %1$s completa</string>
+    <string name="storage_wizard_format_confirm_v2_action">Formatear ^1</string>
+    <string name="storage_wizard_format_confirm_v2_body">"Esta ^1 Necesita ser formateada para almacenar aplicaciones, archivos, y multimedia.
+
+    El formateo eliminará el contenido existente en ^2. Para evitar pérdida de contenido, respáldala en otra ^3 o dispositivo."</string>
+    <string name="storage_wizard_format_confirm_v2_title">¿Formatear esta ^1 ahora?</string>
     <string name="suggest_app_tolock">Sugerencias</string>
     <string name="suggest_app_tolock_masked">Oculto</string>
     <string name="suggest_app_tolock_unmasked">Notificaciones visibles</string>
