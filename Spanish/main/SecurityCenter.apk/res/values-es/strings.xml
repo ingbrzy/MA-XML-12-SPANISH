@@ -24,12 +24,11 @@
     <string name="ac_summaryOn">Activado, se requiere una contraseña para abrir las aplicaciones</string>
     <string name="ac_unmask_all_apps">Mostrar para todas las aplicaciones</string>
     <string name="access_control_app_is_launching">La aplicación se está iniciando</string>
-    <string name="access_control_failed_need_to_unlock_nofingerprint">Ingrese la contraseña antes de desbloquear con una nueva huella digital</string>
+    <string name="access_control_failed_need_to_unlock_nofingerprint">Ingresa tu contraseña antes de desbloquear con una nueva huella dactilar</string>
     <string name="access_control_fingerprint_not_identified_msg">No se pudo leer la huella.</string>
-    <string name="access_control_need_password">"%sañadido correctamente
-"</string>
-    <string name="access_control_need_to_unlock_nofingerprint">Introduce la contraseña de Bloqueo de aplicaciones</string>
-    <string name="accessibility_gameboosterservice_description">Actívelo para silenciar las llamadas entrantes de WeChat cuando juegas</string>
+    <string name="access_control_need_password">"%s añadido correctamente"</string>
+    <string name="access_control_need_to_unlock_nofingerprint">Introduce la contraseña de bloqueo de aplicaciones</string>
+    <string name="accessibility_gameboosterservice_description">Actívalo para silenciar las llamadas entrantes de WeChat cuando juegas</string>
     <string name="action_button_text_100">Optimizar</string>
     <string name="action_button_text_60">Solucionar</string>
     <string name="action_button_text_60_80">Solucionar</string>
@@ -129,6 +128,7 @@
     <string name="apn_exception_summary">Comprobar la configuración del APN de la operadora</string>
     <string name="apn_exception_title">Comprobar configuraciones de APN</string>
     <string name="app_bg_restrict_dialog_message">Restringir la conexión de red de fondo puede evitar que la aplicación funcione normalmente. Por ejemplo, es posible que ya no pueda recibir mensajes ni actualizar el contenido.</string>
+    <string name="app_behavior_no_recorder">"No se encontraron resultados"</string>
     <string name="app_check_no_issue">Parece que no hay problemas de batería. ¡Genial!</string>
     <string name="app_detail">Detalles</string>
     <string name="app_error_tip_for_launcher">Los componentes hardware de tu dispositivo o versión de Android pueden tener problemas de compatibilidad y hacer que algunas app no funcionen correctamente, se congelen o paren forzosamente. Si encuentras estos errores, comparte tus comentarios con los desarrolladores de la app.</string>
@@ -630,8 +630,8 @@
     <string name="cta_close_dialog_ok">Restringir</string>
     <string name="cta_close_dialog_title">Restricción de acceso</string>
     <string name="cta_dialog_msg">Seguridad requiere una conexión a internet para obtener actualizaciones, así como acceder a la ubicación para funcionar normalmente.</string>
-    <string name="cta_dialog_negative">Salida</string>
-    <string name="cta_dialog_positive">De acuerdo</string>
+    <string name="cta_dialog_negative">Salir</string>
+    <string name="cta_dialog_positive">Aceptar</string>
     <string name="cta_dialog_title">Conexión a internet</string>
     <string name="cta_main_purpose">¡Bienvenido a seguridad! Puede usar esta aplicación para limpiar la basura de su dispositivo, encontrar y neutralizar virus, optimizar el rendimiento de los juegos, ahorrar batería, administrar aplicaciones y más.</string>
     <string name="cta_settings">Permitir conexión a Internet</string>
@@ -815,9 +815,9 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="ew_app_name_test">Advertencia de terremoto (Beta)</string>
     <string name="ew_app_name_test_run">Advertencia de terremoto (prueba)</string>
     <string name="ew_arrive_text_tips">Llegó la onda sísmica: %s</string>
-    <string name="ew_button_confirm">De acuerdo</string>
-    <string name="ew_button_exit">No estoy de acuerdo</string>
-    <string name="ew_china_version_first_start_network_msg">&lt;Data&gt; \"Esta función le proporciona la funcionalidad de advertencia de terremoto. Le notificará sobre los próximos terremotos y reproducirá un sonido de advertencia. Podrá encontrar el refugio más cercano, llamar a su contacto de emergencia y presentar su tarjeta médica si es necesario. &amp; Lt ; br &amp; gt; Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes. &amp; lt; br &amp; gt; Para poder trabajar normalmente, esta función requiere los siguientes permisos para recopilar su información personal: &amp; lt; br &amp; gt ; &amp; # 8226; Información de ubicación: &amp; lt; br &amp; gt; Para acceder a su ubicación y proporcionar advertencias de terremoto precisas. &amp; Lt; br &amp; gt; Si no acepta otorgar tales permisos o compartir y cargar su información personal, no podrá para usar esta función. Puede optar por desactivar esta función o no activarla en tales casos.&lt;br&gt;You must read and agree to our &lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\"&gt;Política de Privacidad&lt;/a&gt; antes de usar esta función \". &lt;/Data&gt;</string>
+    <string name="ew_button_confirm">Aceptar</string>
+    <string name="ew_button_exit">"No aceptar"</string>
+    <string name="ew_china_version_first_start_network_msg">&lt;Data&gt; \"Esta función le proporciona la funcionalidad de advertencia de terremoto. Le notificará sobre los próximos terremotos y reproducirá un sonido de advertencia. Podrá encontrar el refugio más cercano, llamar a su contacto de emergencia y presentar su tarjeta médica si es necesario. &amp; Lt ; br &amp; gt; Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes. &amp; lt; br &amp; gt; Para poder trabajar normalmente, esta función requiere los siguientes permisos para recopilar tu información personal: &amp; lt; br &amp; gt ; &amp; # 8226; Información de ubicación: &amp; lt; br &amp; gt; Para acceder a su ubicación y proporcionar advertencias de terremoto precisas. &amp; Lt; br &amp; gt; Si no acepta otorgar tales permisos o compartir y cargar su información personal, no podrá para usar esta función. Puede optar por desactivar esta función o no activarla en tales casos.&lt;br&gt;You must read and agree to our &lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\"&gt;Política de Privacidad&lt;/a&gt; antes de usar esta función \". &lt;/Data&gt;</string>
     <string name="ew_close">Desactivar alerta</string>
     <string name="ew_emergency_allergy">Alergias</string>
     <string name="ew_emergency_basic_info">Información básica</string>
@@ -843,7 +843,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="ew_emergency_recent_medicine">Medicación activa reciente</string>
     <string name="ew_emergency_title">Tarjeta médica</string>
     <string name="ew_first_start_network_title">Términos y Condiciones</string>
-    <string name="ew_guide_law_agree">De acuerdo</string>
+    <string name="ew_guide_law_agree">Aceptar</string>
     <string name="ew_guide_law_done">Entendido</string>
     <string name="ew_guide_law_exit">No estoy de acuerdo</string>
     <string name="ew_guide_law_text">Esta característica le proporciona la funcionalidad de advertencia de terremoto. Debe comprender que la información de advertencia de terremoto es proporcionada por una agencia de alerta temprana de terceros. Xiaomi no supervisa agencias de terceros y no tiene ningún control sobre ellas. Xiaomi no promete ni garantiza la precisión, validez y oportunidad de la información de advertencia de terremoto, ni garantiza que el servicio de advertencia de terremoto satisfaga todas sus necesidades. Debe comprender que esta función se proporciona solo para su referencia. Usted es el único responsable de los riesgos y las consecuencias de cualquier acción que realice en función de la información proporcionada por esta función.</string>
@@ -905,7 +905,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="exo_controls_rewind_description">Rebobinar</string>
     <string name="exo_controls_shuffle_description">Barajar</string>
     <string name="exo_controls_stop_description">Detener</string>
-    <string name="exo_download_completed">Descarga completa</string>
+    <string name="exo_download_completed">Descarga completada</string>
     <string name="exo_download_description">Descargar</string>
     <string name="exo_download_downloading">Descargando</string>
     <string name="exo_download_failed">Descarga fracasó</string>
@@ -929,7 +929,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="face_unlock_check_failed">No puedo reconocerte</string>
     <string name="face_unlock_face_auth_failed_title">No puedo reconocerte. Cambiando a otros métodos de desbloqueo ...</string>
     <string name="face_unlock_face_start_title">Verificando…</string>
-    <string name="face_unlock_finger_or_password_switch">Use su huella digital o ingrese la contraseña para desbloquear.</string>
+    <string name="face_unlock_finger_or_password_switch">Use su huella dactilar o ingrese la contraseña para desbloquear.</string>
     <string name="face_unlock_guide_confirm">Usar desbloqueo facial</string>
     <string name="face_unlock_guide_dialog_summary">Puede usar los datos faciales para desbloquear tu dispositivo. ¿Desea activar Desbloqueo facial?</string>
     <string name="face_unlock_not_found">No puedo reconocerte</string>
@@ -966,7 +966,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="firewall_partial">Permitir a algunas aplicaciones conectarse de la siguiente forma</string>
     <string name="firewall_restrict_all">Restringir a todas las aplicaciones conectarse de la siguiente forma</string>
     <string name="firewall_restrict_android_dialog_content">Para asegurarte de que el dispositivo funciona normalmente, algunas aplicaciónes del sistema Android seguirán conectándose a Internet. Éstas usarán datos móviles y podrían suponer pequeños gastos adicionales.</string>
-    <string name="firewall_restrict_android_dialog_title">Advertencia</string>
+    <string name="firewall_restrict_android_dialog_title">Atención</string>
     <string name="firewall_restrict_data">Restringir uso de datos móviles</string>
     <string name="firewall_restrict_notify_title">%s no puede usar la red</string>
     <string name="firewall_restrict_wlan">Restringir con conexión Wi-Fi</string>
@@ -1045,7 +1045,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="foreground_traffic">Primer plano %s</string>
     <string name="forget_password_button_text">&lt;u&gt;¿Contraseña olvidada?&lt;/u&gt;</string>
     <string name="forget_password_button_text_normal">Contraseña olvidada</string>
-    <string name="forget_pattern">&lt;u&gt;Contraseña olvidada&lt;/u&gt;</string>
+    <string name="forget_pattern"><u>Contraseña olvidada</u></string>
     <string name="forground_network_optimization_summary">Dar más ancho de banda a los juegos que se ejecutan en primer plano</string>
     <string name="forground_network_optimization_title">Prioridad del ancho de banda</string>
     <string name="free_send_net_booster">Optimización de velocidad gratuita</string>
@@ -1930,7 +1930,7 @@ Esta actividad acorta la vida de la batería."</string>
     <string name="permgroupdesc_recognition">Acceda a datos de salud y actividad</string>
     <string name="permgroupdesc_sensors">Acceder a los datos del sensor corporal</string>
     <string name="permgroupdesc_sms">Leer o enviar SMS</string>
-    <string name="permgroupdesc_storage">Acceda a fotos o archivos en el dispositivo</string>
+    <string name="permgroupdesc_storage">Acceder a fotos o archivos en el dispositivo</string>
     <string name="permission_action_accept">Aceptar</string>
     <string name="permission_action_always">Permitir siempre</string>
     <string name="permission_action_foreground">Mientras usa la aplicación</string>
@@ -2647,7 +2647,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="st_title_antispam_mode">Reglas</string>
     <string name="st_title_back_sound_busy">Ocupado</string>
     <string name="st_title_back_sound_choose">Respuesta automática</string>
-    <string name="st_title_back_sound_closed">Apagado</string>
+    <string name="st_title_back_sound_closed">Desactivado</string>
     <string name="st_title_back_sound_none">El número no existe</string>
     <string name="st_title_back_sound_stop">Fuera de servicio</string>
     <string name="st_title_backsound_group">Respuesta automática</string>
@@ -2687,6 +2687,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="status_bar_network_flow_today">Hoy: %1$s</string>
     <string name="still_retain_btn">Mantener</string>
     <string name="stop_milink_connect">Se detuvo el lanzamiento</string>
+    <string name="storage_app_manager_uninstall_protected_dlg_title">Atención</string>
     <string name="suggest_app_tolock">Sugerencias</string>
     <string name="suggest_app_tolock_masked">Oculto</string>
     <string name="suggest_app_tolock_unmasked">Notificaciones visibles</string>
@@ -2772,22 +2773,26 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="sys_title_gamebooster_unit_mb">MB</string>
     <string name="system_app">Aplicaciones del sistema</string>
     <string name="system_application">Aplicaciones del sistema</string>
-    <string name="system_permission_declare_agree">De acuerdo</string>
-    <string name="system_permission_declare_analytics_declare">Gracias por inscribirse en nuestro Programa de experiencia del usuario. Su dispositivo debe estar conectado a Internet para permitir que esta función funcione normalmente. También debe otorgar los siguientes permisos para permitirnos recopilar los datos que nos ayudarán a mejorar nuestros productos y servicios. Estos datos se recopilan solo con fines estadísticos. No podremos utilizar estos datos para identificarlo personalmente.</string>
+    <string name="system_permission_declare_agree">Aceptar</string>
+    <string name="system_permission_declare_analytics_declare">"Te invitamos a inscribirte en nuestro Programa de Experiencia de Usuario. Esta aplicación necesita conectarse a Internet y usar los siguientes permisos o funciones para recopilar estadísticas con el fin de mejorar los servicios que te brindamos. Aquí recopilamos datos solo con fines estadísticos, y no podemos identificarte personalmente en función de los datos que recopilamos."</string>
     <string name="system_permission_declare_disagree">Cancelar</string>
-    <string name="system_permission_declare_double_link">&lt;Datos&gt; Lea y acepte nuestro &amp; lt; a href = \" %1$s \" &amp; gt; Acuerdo de Usuario &amp; lt; / a &amp; gt; y &amp; lt; a href = \" %2$s \" &amp; gt; Política de Privacidad &amp; lt; / a &amp; gt; antes de usar esta función. &lt;/Data&gt;</string>
-    <string name="system_permission_declare_main_purpose" formatted="false">¡Bienvenido a %1s! Esta aplicación te permite usar la siguiente función: %2s.</string>
+    <string name="system_permission_declare_double_link"><Data>Para comprender completamente tus derechos como usuario, así como las formas en las que usamos tus datos, lee y acepta nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;.</Data></string>
+    <string name="system_permission_declare_main_purpose" formatted="false">¡Bienvenido a %1s! Esta aplicación te permite usar la siguientes funciones: %2s </string>
+    <string name="system_permission_declare_meanwhile_double_link"><Data>Al mismo tiempo, para comprender completamente tus derechos como usuario así como las formas en que usamos tus datos, lee y acepta nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;.</Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Al mismo tiempo, para comprender completamente tus derechos como usuario así como las formas en que usamos tus datos, lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt;.</Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement"><Data>Al mismo tiempo, para comprender completamente tus derechos como usuario así como las formas en que usamos tus datos, lee y acepta nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt;.</Data></string>
     <string name="system_permission_declare_no_say_no">Si elige no otorgar los permisos requeridos o no nos permite recopilar y usar sus datos, esta aplicación no podrá funcionar normalmente.</string>
     <string name="system_permission_declare_no_say_no_analytics">Si no desea otorgar estos permisos, puede cancelar su inscripción en Configuración&gt; Configuración adicional&gt; Privacidad&gt; Programa de experiencia del usuario.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">Si elige no otorgar los permisos requeridos o no nos permite recopilar y usar sus datos, esta aplicación no podrá funcionar parcialmente.</string>
-    <string name="system_permission_declare_privacy_declare">Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes. Tenga en cuenta que Security necesita conectarse a Internet y requiere los siguientes permisos para recopilar su información personal:</string>
-    <string name="system_permission_declare_privacy_no_permission">Tenga en cuenta que Security necesita conectarse a Internet y recopilar la información personal requerida para poder brindarle servicios. Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.</string>
-    <string name="system_permission_declare_privacy_policy">&lt;Datos&gt; Lea y acepte nuestra &amp; lt; a href = \" %1$s \" &amp; gt; Política de Privacidad &amp; lt; / a &amp; gt; antes de usar esta función. &lt;/Data&gt;</string>
+    <string name="system_permission_declare_privacy_declare">Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes. Ten en cuenta que Security necesita conectarse a Internet y requiere los siguientes permisos para recopilar tu información personal:</string>
+    <string name="system_permission_declare_privacy_no_permission">Ten en cuenta que Seguridad necesita conectarse a Internet y recopilar la información personal requerida para poder brindarle servicios. Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.</string>
+    <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Para comprender completamente tus derechos como usuario, así como las formas en las que usamos tus datos, lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="system_permission_declare_revoke_system">Puedes salir de esta aplicación.</string>
-    <string name="system_permission_declare_revoke_uninstallable">Puede cerrar sesión, desinstalar esta aplicación o revocar su autorización en Seguridad&gt; Administrar aplicaciones&gt; Permisos&gt; Permisos.</string>
+    <string name="system_permission_declare_revoke_uninstallable">Puedes cerrar sesión, desinstalar esta aplicación o revocar tu autorización en Seguridad &gt; Administrar aplicaciones &gt; Permisos &gt; Permisos.</string>
+    <string name="system_permission_declare_title">Atención</string>
     <string name="system_permission_declare_use_network">Conectarse a la red</string>
     <string name="system_permission_declare_use_network_no_permission">Conectarse a la red</string>
-    <string name="system_permission_declare_user_agreement">&lt;Datos&gt; Lea y acepte nuestro &amp; lt; a href = \" %1$s \" &amp; gt; Acuerdo de Usuario &amp; lt; / a &amp; gt; antes de usar esta función. &lt;/Data&gt;</string>
+    <string name="system_permission_declare_user_agreement">&lt;Data&gt;Para comprender completamente tus derechos como usuario, así como las formas en las que usamos tus datos, lee y acepta nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="system_permission_perm_answer_call">Hacer llamadas</string>
     <string name="system_permission_perm_read_mms">Leer MMS</string>
     <string name="system_permission_perm_read_numbers">Leer números telefónicos</string>
@@ -3186,4 +3191,22 @@ Los datos restantes incluyen datos excedentes del mes anterior."</string>
     <string name="xunyou_pay_webview">Servicios Xunyou</string>
     <string name="xunyou_server_expired">Tiempo de sesión agotado.</string>
     <string name="yuan">CNY</string>
+    <string name="required_permissions">Permisos obligatorios</string>
+    <string name="required_permissions_desc">Estos permisos son necesarios para que las funciones y servicios básicos de esta aplicación estén disponibles.</string>
+    <string name="optional_permissions_desc">"Estos permisos son obligatorios cuando utilizas funciones adicionales".</string>
+    <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Encender y apagar el Bluetooth</string>
+    <string name="HIPS_Perm_CallLog_Desc">Escribir y eliminar el historial de llamadas</string>
+    <string name="HIPS_Perm_Call_Desc">Llamar a números de teléfono directamente</string>
+    <string name="HIPS_Perm_Contact_Desc">Modificar y eliminar contactos</string>
+    <string name="HIPS_Perm_PhoneID_Desc">Acceder al número de teléfono, IMEI e IMSI</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">Acceder al número de teléfono y al estado del dispositivo</string>
+    <string name="HIPS_Perm_Read_Call_Log_Desc">Leer el historial de llamadas</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">Leer tus contactos</string>
+    <string name="HIPS_Perm_Read_SMS_Desc">Leer tus mensajes SMS</string>
+    <string name="HIPS_Perm_SendSMS_Desc">Enviar mensajes SMS directamente</string>
+    <string name="HIPS_Perm_WIFI_Connectivity_Desc">Encender y apagar el Wi-Fi</string>
+    <string name="HIPS_Perm_add_voicemail_Desc">Añadir mensajes de voz al sistema</string>
+    <string name="HIPS_Perm_get_accounts_Desc">Acceder a todas las cuentas guardadas en el dispositivo</string>
+    <string name="HIPS_Perm_process_nfc_Desc">Usar NFC</string>
+    <string name="HIPS_Perm_use_sip_Desc">Utilizar el protocolo de inicio de sesión para transmitir video</string>
 </resources>

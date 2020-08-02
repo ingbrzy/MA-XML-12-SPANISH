@@ -103,7 +103,7 @@
     <string name="find_device_service_title">Encontrar dispositivo</string>
     <string name="finddevice_miservice_notification_content">"Bloquear el dispositivo de forma remota en caso de pérdida"</string>
     <string name="finddevice_miservice_notification_title">Activar Encontrar dispositivo</string>
-    <string name="forget_password">&lt;u&gt;Contraseña olvidada&lt;/u&gt;</string>
+    <string name="forget_password"><u>Contraseña olvidada</u></string>
     <string name="hybrid_check_network">Ajustes de red</string>
     <string name="hybrid_data_error">Ha ocurrido un error</string>
     <string name="hybrid_network_access_denied">Acceso a la red denegado</string>
@@ -117,7 +117,7 @@
     <string name="ks_certificate_version">Número de certificado</string>
     <string name="ks_download_certificate">Descargar certificado</string>
     <string name="ks_download_success">Descargado con éxito</string>
-    <string name="ks_fingerprint_payment">Pagos con huella digital</string>
+    <string name="ks_fingerprint_payment">Pagos con huella dactilar</string>
     <string name="ks_fingerprint_status">Estado del pago</string>
     <string name="ks_name_alipay">IFAA</string>
     <string name="ks_name_fido">FIDO</string>
@@ -379,7 +379,7 @@ Usa una cuenta diferente."</string>
     <string name="micloud_privacy_warning_content">No se pueden activar los servicios de Xiaomi Cloud. Espera un momento y vuelve a intentarlo.</string>
     <string name="micloud_privacy_warning_title">Atención</string>
     <string name="micloud_proceed">Continuar</string>
-    <string name="micloud_request_permission_confirm">De acuerdo</string>
+    <string name="micloud_request_permission_confirm">Aceptar</string>
     <string name="micloud_request_permission_content">Se necesitan permisos para sincronizar datos a Xiaomi Cloud. Permite a Xiaomi Cloud acceder al Calendario, a los Contactos, a Cuenta Mi, al estado de la tarjeta SIM, al historial de llamadas y a los mensajes.</string>
     <string name="micloud_request_permission_title">Se necesitan permisos para Xiaomi Cloud</string>
     <string name="micloud_request_sync_too_frequent">Demasiadas solicitudes. Espera un minuto o dos y vuelve a intentarlo.</string>
@@ -529,7 +529,7 @@ Esta característica cifra y envía el ID de su dispositivo a los servidores Mi.
     <string name="sub_sync_item_sms_summary">Sólo sincronizar mensajes que contengan fotos, audio u otros archivos multimedia cuando esté conectado a una red Wi-Fi</string>
     <string name="sub_sync_item_sms_title_wifi_only">Solo sincronizar MMS con Wi-Fi</string>
     <string name="sync_detail_summary_master_sync_off">Sincronización desactivada</string>
-    <string name="sync_detail_summary_off">Apagado</string>
+    <string name="sync_detail_summary_off">Desactivado</string>
     <string name="sync_detail_text">Detalles de sincronización</string>
     <string name="sync_dspt">Sincronizar</string>
     <string name="sync_dspt_entrance_provision">"Sincronice sus fotos, contactos, historial de llamadas y mensajes en todos sus dispositivos. Acceda a las cosas que sincronice desde cualquier navegador en %s. "</string>

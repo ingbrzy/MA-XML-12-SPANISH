@@ -141,7 +141,7 @@
     <string name="dialog_legal_workday_and_off_day">&lt;Data&gt;Parece que estás usando alarmas de entre semana y festivos. Esta función necesita conectarse a internet para trabajar con normalidad. Antes de aceptar esta función debes aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
     <string name="dialog_legal_workday_and_off_day_desc">El Reloj no tiene permitido conectarse a internet para actualizar la información acerca de festivos. Las alarmas de entre semana sonarán de lunes a viernes. Las alarmas de festivos sonarán los sábados y domingos.</string>
     <string name="dialog_legal_workday_desc">El Reloj no tiene permitido conectarse a internet para actualizar la información acerca de festivos. Las alarmas de entre semana sonarán de lunes a viernes.</string>
-    <string name="dialog_message_agree">De acuerdo</string>
+    <string name="dialog_message_agree">Aceptar</string>
     <string name="dialog_message_for_contact_permission">Para tener disponibles las alarmas de cumpleaños, el Reloj necesita acceder a sus contactos. ¿Aceptar?</string>
     <string name="dialog_message_negative">No estoy de acuerdo</string>
     <string name="dialog_message_not_remind">No volver a mostrar</string>
@@ -413,7 +413,7 @@
     <string name="timer_continue_timer">Reanudar temporizador</string>
     <string name="timer_created">Temporizador añadido correctamente</string>
     <string name="timer_end_time">El temporizador se detendrá a las %s</string>
-    <string name="timer_end_time_format">HH:mm MMM dd</string>
+    <string name="timer_end_time_format">HH:mm dd MMMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">Aceptar</string>
     <string name="timer_is_paused">Temporizador está pausado</string>
@@ -471,7 +471,7 @@
     <string name="worldcolock_time_date">dd/MM/yyyy</string>
     <string name="worldcolock_timezone_current">Actual: %1$s</string>
     <string name="worldcolock_timezone_current_date">dd/MM/yyyy</string>
-    <string name="worldcolock_timezone_date">dd MMM</string>
+    <string name="worldcolock_timezone_date">d MMM</string>
     <string name="worldcolock_timezone_gap">Hora</string>
     <string name="worldcolock_timezone_local">Igual a la hora local</string>
 </resources>

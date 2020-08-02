@@ -42,7 +42,7 @@
     <string name="HIPS_Perm_Location_Desc">obtener ubicación precisa (basada en GPS y redes de datos)</string>
     <string name="HIPS_Perm_PhoneID">Obtener información del dispositivo</string>
     <string name="HIPS_Perm_PhoneID_Desc">Acceder al número de teléfono, IMEI e IMSI</string>
-    <string name="HIPS_Perm_PhoneID_Desc_Q">Acceder al número de teléfono y estado del dispositivo</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">Acceder al número de teléfono y al estado del dispositivo</string>
     <string name="HIPS_Perm_ROOT">Conseguir acceso raíz</string>
     <string name="HIPS_Perm_ROOT_Desc">conseguir acceso raíz</string>
     <string name="HIPS_Perm_Read_Call_Log">Leer el historial de llamadas</string>
@@ -155,10 +155,10 @@
     <string name="screen_overlay_button">Abrir ajustes</string>
     <string name="screen_overlay_message">Para cambiar este permiso, debe desactivar la superposición de pantalla en Configuración> de aplicaciones.</string>
     <string name="screen_overlay_title">Superposición de pantalla detectada</string>
-    <string name="virtual_reject_notice_content">Una respuesta en blanco fue enviada a la aplicación para proteger su información personal</string>
-    <string name="virtual_reject_notice_title_calendar">Acceder al calendario por %1$s</string>
-    <string name="virtual_reject_notice_title_calllog">Acceder al historial de llamadas por %1$s</string>
-    <string name="virtual_reject_notice_title_contacts">Acceder a los contactos por %1$s</string>
-    <string name="virtual_reject_notice_title_phonestate">Acceder a la información del dispositivo por %1$s</string>
-    <string name="virtual_reject_notice_title_sms">Acceder a los mensajes por %1$s</string>
+    <string name="virtual_reject_notice_content">Se envió una respuesta en blanco a la app para proteger tu información personal</string>
+    <string name="virtual_reject_notice_title_calendar">Acceso al calendario por %1$s</string>
+    <string name="virtual_reject_notice_title_calllog">Acceso al historial de llamadas por %1$s</string>
+    <string name="virtual_reject_notice_title_contacts">Acceso a los contactos por %1$s</string>
+    <string name="virtual_reject_notice_title_phonestate">Acceso a la info del dispositivo por %1$s</string>
+    <string name="virtual_reject_notice_title_sms">Acceso a los mensajes por %1$s</string>
 </resources>

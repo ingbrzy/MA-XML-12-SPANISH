@@ -110,7 +110,7 @@
     <string name="add_to_quicklink">Página de inicio</string>
     <string name="added_to_bookmarks">Añadir a marcadores</string>
     <string name="adjust_text_zoom_toast">Cambiar el tamaño de texto puede hacer que algunos sitios no se muestren correctamente</string>
-    <string name="agree">De acuerdo</string>
+    <string name="agree">Aceptar</string>
     <string name="agree_permissions_request">Permitir</string>
     <string name="alert_tips">Este sitio podría ser un riesgo para tu seguridad</string>
     <string name="allow">Permitir</string>
@@ -1175,7 +1175,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="noti_no_permission_record">No hay elementos.</string>
     <string name="noti_web_allow">Permitido</string>
     <string name="noti_web_push">Notificaciones de páginas web</string>
-    <string name="notif_install_successful">Descarga completa</string>
+    <string name="notif_install_successful">Descarga completada</string>
     <string name="notification_category_browser">Navegador</string>
     <string name="notification_category_downloads">Descargas</string>
     <string name="notification_category_group_general">General</string>
@@ -1491,7 +1491,15 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="secure_download_in_xiaomi_market">Descargar en App Store</string>
     <string name="secureaccess">Cambiar a Modo seguro</string>
     <string name="secureaccess_cancel">Ignorar</string>
-    <string name="security_url_confirm_message">Desactivar esta función puede causar riesgos de seguridad.</string>
+    <string name="security_permission_desc_get_accounts">Para iniciar sesión y administrar las cuentas del sistema</string>
+    <string name="security_permission_desc_read_phone">Para acceder al IMEI para identificar tu dispositivo</string>
+    <string name="security_permission_desc_storage">Para acceder, guardar, cargar y descargar imágenes y otros archivos</string>
+    <string name="security_permission_main_purpose">Navegación web, búsqueda, leer libros y noticias, ver videos, etc.</string>
+    <string name="security_permission_message_location">"Esta aplicación necesita acceso a tu ubicación para proporcionar servicios basados en la ubicación. Si no aceptas conceder tales permisos, no podrás usar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible para ti. Siempre puedes restringir los permisos o revocar tu autorización en Ajustes."</string>
+    <string name="security_permission_negative_btn_location">Cancelar</string>
+    <string name="security_permission_positive_btn_location">Aceptar</string>
+    <string name="security_permission_title_location">Permitir acceso a tu ubicación</string>
+    <string name="security_url_confirm_message">Desactivar esta función puede provocar riesgos de seguridad.</string>
     <string name="security_warning">Aviso de seguridad</string>
     <string name="security_warnings_confirm_message">Desactivar esta función puede causar riesgos de seguridad.</string>
     <string name="select_dot">Seleccionar texto</string>
@@ -1716,7 +1724,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="ytb_added_subscription">Suscrito con éxito</string>
     <string name="ytb_cancel">Cancelar</string>
     <string name="ytb_deleted_subscription">Suscripción cancelada con éxito</string>
-    <string name="ytb_empty_search_result">No se pudo encontrar resultados</string>
+    <string name="ytb_empty_search_result">No se encontraron resultados</string>
     <string name="ytb_empty_subscribe">No hay suscripciones aún.</string>
     <string name="ytb_login">Iniciar sesión</string>
     <string name="ytb_login_can_subscribe">Inicia sesión para suscribirte a canales.</string>
@@ -1730,4 +1738,15 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="ytb_subscribe_channel">Suscripciones</string>
     <string name="ytb_subscribed">Suscrito</string>
     <string name="ytb_want_to_subscribe">¿Suscribirse a este canal?</string>
+    <string name="show_security_tip_dialog_title">Política de Privacidad</string>
+    <string name="check_security_tip_privacy_policy">Política de Privacidad</string>
+    <string name="check_security_tip_user_agreement">Acuerdo de Usuario</string>
+    <string name="show_check_security_url_check_tip_dialog_description">"Recopilaremos y utilizaremos tus datos personales si eliges utilizar nuestros servicios.
+Estos son los datos que recopilaremos:
+1. URL seguras: recopilaremos las URL de los sitios web que visites mientras usas nuestros servicios.
+2. Datos de ubicación: accederemos a tu información de ubicación.
+Así es como usamos los datos que recopilamos:
+1. Seguridad: Usamos tus datos para proteger tu dispositivo contra fraudes y virus, así como por razones de almacenamiento y copia de seguridad.
+2. Contenido: Tus datos nos ayudan a proporcionar contenido de noticias relevantes por ubicación.
+Navegador necesita conectarse a internet para funcionar correctamente. Debes aceptar nuestra %2$s y %1$s para poder usar Navegador.​"</string>
 </resources>

@@ -118,7 +118,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="st_title_back_sound_choose">Mensaje de ausencia</string>
     <string name="st_title_back_sound_busy">Ocupado</string>
     <string name="st_title_back_sound_none">El número no existe</string>
-    <string name="st_title_back_sound_closed">Apagado</string>
+    <string name="st_title_back_sound_closed">Desactivado</string>
     <string name="st_title_back_sound_stop">Fuera de servicio</string>
     <string name="st_title_call_wait_setting">Llamada en espera</string>
     <string name="st_title_call_wait">Notificación de llamada en espera</string>
@@ -241,7 +241,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="mark_agent">Bloquear agencias reportadas</string>
     <string name="mark_sell">Bloquear telemercadeo reportado</string>
     <string name="mark_harass">Bloquear llamadas molestas reportadas</string>
-    <string name="mark_number_info">Tenga en cuenta que a veces estas llamadas pueden ser útiles (por ejemplo, cuando está buscando un apartamento). Bloquee solo los números de los cuales no desea nunca recibir llamadas.</string>
+    <string name="mark_number_info">Ten en cuenta que a veces estas llamadas pueden ser útiles (por ejemplo, cuando está buscando un apartamento). Bloquee solo los números de los cuales no desea nunca recibir llamadas.</string>
     <string name="dlg_title_not_open_stranger_identify">Id de llamada</string>
     <string name="dlg_message_not_open_stranger_identify">Para activar esta característica, vaya a Ajustes y Teléfono.</string>
     <string name="button_to_setting">Ajustes</string>
@@ -1804,7 +1804,7 @@ su dispositivo"</string>
     <string name="suggest_app_tolock">Sugerencias</string>
     <string name="suggest_app_tolock_masked">Oculto</string>
     <string name="suggest_app_tolock_unmasked">Notificaciones visibles</string>
-    <string name="forget_password_button_text">&lt;u&gt;Contraseña olvidada&lt;/u&gt;</string>
+    <string name="forget_password_button_text"><u>Contraseña olvidada</u></string>
     <string name="forget_password_button_text_normal">Olvidé la contraseña</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">¡Demasiados intentos fallidos!</string>
     <string name="lockscreen_glogin_password_hint">Contraseña</string>
@@ -1814,7 +1814,7 @@ su dispositivo"</string>
     <string name="passwordIncorrect">Usuario o contraseña incorrectos</string>
     <string name="access_control_app_is_launching">La app se está iniciando</string>
     <string name="access_control_need_to_unlock_nofingerprint">Introduzca Contraseña para desbloquear apps</string>
-    <string name="access_control_failed_need_to_unlock_nofingerprint">Ingrese la contraseña antes de desbloquear con una nueva huella digital</string>
+    <string name="access_control_failed_need_to_unlock_nofingerprint">Ingrese la contraseña antes de desbloquear con una nueva huella dactilar</string>
     <string name="access_control_fingerprint_not_identified_msg">No se pudo leer la huella.</string>
     <string name="access_control_need_password">"%s añadido exitosamente
 "</string>
@@ -1862,9 +1862,9 @@ su dispositivo"</string>
     <string name="fingerprint_identify_msg">Activar desbloqueo con huella</string>
     <string name="fingerprint_not_identified_msg">No se puede leer la huella dactilar. Introduzca su contraseña</string>
     <string name="fod_button_password">Ingresar contraseña</string>
-    <string name="fod_button_finger">Usar huella digital</string>
+    <string name="fod_button_finger">Usar huella dactilar</string>
     <string name="fod_finger_notice_title">Coloque su dedo sobre la pantalla</string>
-    <string name="fod_finger_windows_tips">Verifique su huella digital</string>
+    <string name="fod_finger_windows_tips">Verifica tu huella dactilar</string>
     <string name="fod_authentication_shift_button">Cancelar</string>
     <string name="fod_tips_split_screen_more_than_half">Ingresar contraseña</string>
     <string name="lockscreen_access_pattern_start">Patrón iniciado</string>

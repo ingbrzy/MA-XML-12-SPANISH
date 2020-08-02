@@ -37,8 +37,8 @@ Ver la Política de Privacidad del teclado seleccionado."</string>
     <string name="shut_down">Apagar</string>
     <string name="sim_redetection">Comprobar de nuevo</string>
     <string name="navigation_picker_gesture_guide">Guía de gestos</string>
-    <string name="congratulation_title">Configuración completa</string>
-    <string name="congratulation_swipe">Desliza hacia arriba para entrar al sistema</string>
+    <string name="congratulation_title">Configuración completada</string>
+    <string name="congratulation_swipe">Desliza hacia arriba para acceder al sistema</string>
     <string name="congratulation_label">¡A disfrutar!​</string>
     <string name="pref_title_voice_slot">Tarjeta SIM de voz preferida</string>
     <string name="pref_title_data_slot">Tarjeta SIM de datos preferida</string>
@@ -77,8 +77,14 @@ Debes aceptar nuestro Acuerdo de Usuario y nuestra Política de Privacidad antes
     <string name="content_description_complete">Completado</string>
     <string name="language_picker_other_languages_title">Más idiomas</string>
     <string name="language_settings">Selecciona un idioma</string>
+    <string name="navigation_picker_gesture_guide">Guía de gestos</string>
     <string name="navigation_picker_radio_text_full_screen">Gestos a pantalla completa</string>
     <string name="navigation_picker_radio_text_virtual_key">Botones</string>
+    <string name="skip_gesture_guide_dialog_message">Asegúrate de saber cómo usar los gestos a pantalla completa antes de seleccionar esta opción.</string>
+    <string name="skip_gesture_guide_dialog_negative_btn">Cancelar</string>
+    <string name="skip_gesture_guide_dialog_positive_btn">Aceptar</string>
+    <string name="skip_gesture_guide_dialog_title">Full screen gestures</string>
+    <string name="skip_underline">Skip this step</string>
     <string name="congratulation_swipe">Deslice hacia arriba para acceder al sistema</string>
     <string name="enable_accessibility_dialog_message">Has activado TalkBack presionando la pantalla con dos dedos durante más de 10 segundos. TalkBack proporciona comentarios de voz para personas con problemas visuales. Si lo has activado por accidente, pulsa el botón Cancelar y pulsa dos veces en la pantalla.</string>
     <string name="enable_accessibility_dialog_positive_btn">Aceptar</string>
@@ -86,10 +92,11 @@ Debes aceptar nuestro Acuerdo de Usuario y nuestra Política de Privacidad antes
     <string name="cm_terms_title">Acuerdo del Operador de Red Móvil</string>
     <string name="cm_terms_content">Para mejorar los servicios provistos, el operador de red móvil de su selección puede subir sus datos personales e información de este dispositivo en los servidores usando redes Wi-Fi o conexión de datos móviles. Esta información será utilizada sólo con fines estadísticos para mejorar la calidad de los servicios y proveer contenido más personalizado. Esta información no se usará para identificarle y no se revelará a terceras partes.</string>
     <string name="enable_accessibility_canceled">Accesibilidad cancelada.</string>
-    <string name="font_hint_large">Tamaño de texto predeterminado</string>
-    <string name="font_hint_normal">Aumentar tamaño de texto</string>
+    <string name="font_hint_large">Tamaño del texto predeterminado</string>
+    <string name="font_hint_normal">Aumentar tamaño del texto</string>
     <string name="accessibility_enabled">Accesibilidad activada.</string>
     <string name="continue_to_enable_accessibility">Mantenga presionado dos dedos para activar la accesibilidad.</string>
     <string name="voice_assist_title">Activar por voz</string>
     <string name="voice_assist_desp">Dile \"Mi AI\" a tu teléfono. Mi Al reconocerá tu voz y será capaz de controlar tu dispositivo.</string>
+
 </resources>

@@ -265,7 +265,7 @@ Para cambiar de servicio, desliza dos dedos hacia arriba y mantén pulsada la pa
     <string name="add_account_label">Añadir cuenta</string>
     <string name="add_auto_startup_application">Añadir aplicaciones de inicio automático</string>
     <string name="add_back_fingerprint_instruction_msg">Pon tu dedo en el sensor</string>
-    <string name="add_broadsize_fingerprint_instruction_msg">El sensor de huellas digitales se encuentra en el borde derecho de su dispositivo</string>
+    <string name="add_broadsize_fingerprint_instruction_msg">El sensor de huellas dactilares se encuentra en el borde derecho de su dispositivo</string>
     <string name="add_device_admin">Activar esta aplicación de administrador de dispositivos</string>
     <string name="add_device_admin_msg">¿Activar administrador de dispositivos?</string>
     <string name="add_facerecoginition_text">Añadir datos faciales</string>
@@ -527,7 +527,7 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="applications_settings_summary">Administrar aplicaciones y configurar accesos directos de inicio rápido</string>
     <string name="applications_settings_title">Aplicaciones</string>
     <string name="apply">Aplicar</string>
-    <string name="apply_fingerprint_to">Use huellas digitales para</string>
+    <string name="apply_fingerprint_to">Use huellas dactilares para</string>
     <string name="apply_fingerprint_to_category_title">Aplicar huella a…</string>
     <string name="apply_now_button_text">Actualizar</string>
     <string name="apply_password_to_category_title">Se requiere desbloqueo</string>
@@ -1259,7 +1259,7 @@ Bluetooth"</string>
     <string name="bootloader_status_privacy_dialog_no">Cancelar</string>
     <string name="bootloader_status_privacy_dialog_title">Permisos requeridos</string>
     <string name="bootloader_status_privacy_dialog_url_text">Política de Privacidad</string>
-    <string name="bootloader_status_privacy_dialog_yes">De acuerdo</string>
+    <string name="bootloader_status_privacy_dialog_yes">Aceptar</string>
     <string name="bootloader_status_summary">Comprobar si el dispositivo está bloqueado</string>
     <string name="bootloader_status_unlocked">Desbloqueado</string>
     <string name="bootloader_status_unlocked_info">Este dispositivo está desbloqueado</string>
@@ -1473,7 +1473,7 @@ Puedes desactivar esta función en [Settings]"</string>
     <string name="choose_spell_checker">Elige corrector ortográfico</string>
     <string name="choose_timezone">Elige una zona horaria</string>
     <string name="choose_unlock_face_msg">Establecer bloqueo de pantalla antes registrar tus rasgos faciales.</string>
-    <string name="choose_unlock_fingerprint_msg">Establecer bloqueo de pantalla antes de añadir tu huella dactilar.</string>
+    <string name="choose_unlock_fingerprint_msg">Establece un bloqueo de pantalla antes de añadir tu huella dactilar.</string>
     <string name="choose_voice_input_title">Seleccionar entrada de voz</string>
     <string name="cleaner">Limpiador</string>
     <string name="clear_activities">Borrar valores por defecto</string>
@@ -2377,7 +2377,7 @@ Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. �
     <string name="encryption_interstitial_message_password_for_face">"Además de utilizar tu cara para desbloquear el dispositivo, puedes protegerlo aún más si lo configuras para solicitar la contraseña antes de iniciarse. El dispositivo no recibe llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que se inicia.
 
 Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Quieres que el dispositivo pida la contraseña para iniciarse?"</string>
-    <string name="encryption_interstitial_message_password_for_fingerprint">"Además de utilizar tu huella digital para desbloquear el dispositivo, puedes protegerlo aún más configurándolo para que solicite una contraseña antes de que se inicie. Hasta entonces, no podrás recibir llamadas, mensajes ni notificaciones, incluidas las alarmas.
+    <string name="encryption_interstitial_message_password_for_fingerprint">"Además de utilizar tu huella dactilar para desbloquear el dispositivo, puedes protegerlo aún más configurándolo para que solicite una contraseña antes de que se inicie. Hasta entonces, no podrás recibir llamadas, mensajes ni notificaciones, incluidas las alarmas.
 
 Esto permite proteger los datos en dispositivos perdidos o robados. ¿Quieres que el dispositivo pida la contraseña para iniciarse?"</string>
     <string name="encryption_interstitial_message_pattern">"Para proteger aún más tu dispositivo, haz que solicite el patrón antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicia. 
@@ -2386,7 +2386,7 @@ Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. �
     <string name="encryption_interstitial_message_pattern_for_face">"Además de utilizar tu cara para desbloquear el dispositivo, puedes protegerlo aún más si lo configuras para solicitar el patrón antes de iniciarse. El dispositivo no recibe llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que se inicia.
 
 Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Quieres que el dispositivo pida el patrón para iniciarse?"</string>
-    <string name="encryption_interstitial_message_pattern_for_fingerprint">"Además de utilizar la huella digital para desbloquear el dispositivo, puedes protegerlo aún más si haces que solicite el patrón antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicia.
+    <string name="encryption_interstitial_message_pattern_for_fingerprint">"Además de utilizar la huella dactilar para desbloquear el dispositivo, puedes protegerlo aún más si haces que solicite el patrón antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicia.
 
 Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Quieres que se te pida el patrón al iniciar el dispositivo?"</string>
     <string name="encryption_interstitial_message_pin">"Para proteger aún más tu dispositivo, haz que solicite tu PIN antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicia. 
@@ -2395,7 +2395,7 @@ Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. �
     <string name="encryption_interstitial_message_pin_for_face">"Además de utilizar tu cara para desbloquear el dispositivo, puedes protegerlo aún más si lo configuras para solicitar el PIN antes de iniciarse. El dispositivo no recibe llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que se inicia.
 
 Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Quieres que el dispositivo pida el PIN para iniciarse?"</string>
-    <string name="encryption_interstitial_message_pin_for_fingerprint">"Además de utilizar la huella digital para desbloquear el dispositivo, puedes protegerlo aún más si haces que solicite tu PIN antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicia.
+    <string name="encryption_interstitial_message_pin_for_fingerprint">"Además de utilizar la huella dactilar para desbloquear el dispositivo, puedes protegerlo aún más si haces que solicite tu PIN antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicia.
 
 Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Pedir PIN al iniciar el dispositivo?"</string>
     <string name="encryption_interstitial_no">No</string>
@@ -2406,7 +2406,7 @@ Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. �
     <string name="enhanced_4g_lte_mode_title">VoLTE</string>
     <string name="enhanced_4g_lte_mode_title_4g_calling">Llamadas 4G</string>
     <string name="enhanced_4g_lte_mode_title_advanced_calling">Llamadas avanzadas</string>
-    <string name="enrol_fingerprint_data">Agregar huella digital</string>
+    <string name="enrol_fingerprint_data">Agregar huella dactilar</string>
     <string name="enter_password">Para iniciar tu dispositivo Android, introduce tu contraseña</string>
     <string name="enter_pattern">Para iniciar tu dispositivo Android, dibuja tu patrón</string>
     <string name="enter_pin">Para iniciar tu dispositivo Android, introduce el PIN</string>
@@ -2613,12 +2613,12 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="find_my_device">Encontrar dispositivo</string>
     <string name="find_my_device_disable">Desactivado</string>
     <string name="find_my_device_enable">Activado</string>
-    <string name="fingerprint_add_max">Puedes añadir hasta %d huellas digitales</string>
-    <string name="fingerprint_add_title">Añadir huella digital</string>
+    <string name="fingerprint_add_max">Puedes añadir hasta %d huellas dactilares</string>
+    <string name="fingerprint_add_title">Añadir huella dactilar</string>
     <string name="fingerprint_and_password_entrance_title">Bloqueo de pantalla y huella dactilar</string>
     <string name="fingerprint_apply_to_privacy_password">Contraseña de protección de privacidad</string>
     <string name="fingerprint_apply_to_privacy_password_scenarios">La contraseña de protección de privacidad protege sus mensajes, fotos, archivos, notas y aplicaciones.</string>
-    <string name="fingerprint_delete_message">¿Quieres eliminar esta huella digital?</string>
+    <string name="fingerprint_delete_message">¿Quieres eliminar esta huella dactilar?</string>
     <string name="fingerprint_delete_title">Eliminar \"%1$s\"</string>
     <string name="fingerprint_enable_keyguard_toggle_title">bloqueo de pantalla</string>
     <string name="fingerprint_enroll_button_add">Añadir otra</string>
@@ -2626,19 +2626,19 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="fingerprint_first_open_screen_password_face_tittle">Cara (primero establece contraseña de Bloqueo de pantalla)</string>
     <string name="fingerprint_first_open_screen_password_tittle">Huella (establece primero contraseña de bloqueo de pantalla)</string>
     <string name="fingerprint_for_keyguard_disabled">Se desactivó la huella dactilar por razones de seguridad.</string>
-    <string name="fingerprint_gesture_screen_title">Deslizar huella digital</string>
+    <string name="fingerprint_gesture_screen_title">Deslizar huella dactilar</string>
     <string name="fingerprint_identify_input_password_msg">Introducir contraseña</string>
     <string name="fingerprint_identify_msg">Leyendo huella…</string>
     <string name="fingerprint_identify_try_again_msg">No se pudo leer la huella, inténtalo de nuevo</string>
-    <string name="fingerprint_intro_error_max">Has añadido el número máximo de huellas digitales</string>
-    <string name="fingerprint_intro_error_unknown">No se pueden añadir más huellas digitales</string>
+    <string name="fingerprint_intro_error_max">Has añadido el número máximo de huellas dactilares</string>
+    <string name="fingerprint_intro_error_unknown">No se pueden añadir más huellas dactilares</string>
     <string name="fingerprint_last_delete_confirm">Sí, quitar</string>
-    <string name="fingerprint_last_delete_message">No podrás utilizar tus huellas digitales para desbloquear el teléfono, autorizar compras o iniciar sesión en las aplicaciones</string>
-    <string name="fingerprint_last_delete_message_profile_challenge">No puedes utilizar tus huellas digitales para desbloquear el perfil de trabajo, autorizar compras o iniciar sesión en aplicaciones de trabajo</string>
+    <string name="fingerprint_last_delete_message">No podrás utilizar tus huellas dactilares para desbloquear el teléfono, autorizar compras o iniciar sesión en las aplicaciones</string>
+    <string name="fingerprint_last_delete_message_profile_challenge">No puedes utilizar tus huellas dactilares para desbloquear el perfil de trabajo, autorizar compras o iniciar sesión en aplicaciones de trabajo</string>
     <string name="fingerprint_last_delete_title">¿Quitar todas las huellas?</string>
     <string name="fingerprint_list_title">Huella</string>
     <string name="fingerprint_lock_first">Desbloquear Primer espacio</string>
-    <string name="fingerprint_lock_screen_setup_skip_dialog_text">Protege tu teléfono con una opción de bloqueo de pantalla para que nadie pueda usarlo si lo pierdes o te lo roban. También necesitas tener una opción de bloqueo de pantalla para configurar la huella digital. Toca Cancelar y establece un PIN, un patrón o una contraseña.</string>
+    <string name="fingerprint_lock_screen_setup_skip_dialog_text">Protege tu teléfono con una opción de bloqueo de pantalla para que nadie pueda usarlo si lo pierdes o te lo roban. También necesitas tener una opción de bloqueo de pantalla para configurar la huella dactilar. Toca Cancelar y establece un PIN, un patrón o una contraseña.</string>
     <string name="fingerprint_lock_second">Desbloquear Segundo espacio</string>
     <string name="fingerprint_manage">Administrar huellas</string>
     <string name="fingerprint_manage_category_title">Administrar huellas</string>
@@ -2646,19 +2646,19 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="fingerprint_not_identified_msg">No se pudo leer la huella dactilar. Introduce tu contraseña</string>
     <string name="fingerprint_not_recognized">No reconocido</string>
     <string name="fingerprint_others_title">Otros</string>
-    <string name="fingerprint_payment">Pagos con huella digital</string>
+    <string name="fingerprint_payment">Pagos con huella dactilar</string>
     <string name="fingerprint_removal_failed">No se pudo eliminar la huella, inténtalo de nuevo más tarde</string>
     <string name="fingerprint_swipe_for_notifications_suggestion_title">Ver las notificaciones más rápido</string>
-    <string name="fingerprint_swipe_for_notifications_summary">Para ver tus notificaciones, desliza el dedo hacia abajo en el sensor de huellas digitales situado en la parte trasera del teléfono.</string>
+    <string name="fingerprint_swipe_for_notifications_summary">Para ver tus notificaciones, desliza el dedo hacia abajo en el sensor de huellas dactilares situado en la parte trasera del teléfono.</string>
     <string name="fingerprint_swipe_for_notifications_title">Deslizar por el sensor de huellas para ver notificaciones</string>
     <string name="fingerprint_unlock_press_type">Presione</string>
-    <string name="fingerprint_unlock_set_unlock_password">Huella digital + contraseña</string>
-    <string name="fingerprint_unlock_set_unlock_pattern">Huella digital + patrón</string>
-    <string name="fingerprint_unlock_set_unlock_pin">Huella digital + PIN</string>
-    <string name="fingerprint_unlock_skip_fingerprint">Continuar sin huella digital</string>
-    <string name="fingerprint_unlock_title">Puedes desbloquear el teléfono con tu huella digital. Por motivos de seguridad, para utilizar esta opción necesitas un método de bloqueo de pantalla alternativo.</string>
+    <string name="fingerprint_unlock_set_unlock_password">Huella dactilar + contraseña</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Huella dactilar + patrón</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Huella dactilar + PIN</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Continuar sin huella dactilar</string>
+    <string name="fingerprint_unlock_title">Puedes desbloquear el teléfono con tu huella dactilar. Por motivos de seguridad, para utilizar esta opción necesitas un método de bloqueo de pantalla alternativo.</string>
     <string name="fingerprint_unlock_touch_type">Toca</string>
-    <string name="fingerprint_unlock_type">Método de reconocimiento de huellas digitales</string>
+    <string name="fingerprint_unlock_type">Método de reconocimiento de huellas dactilares</string>
     <string name="fingerprint_usage_category_title">Usar huella para</string>
     <string name="finish_application">Forzar cierre</string>
     <string name="finish_button">Finalizar</string>
@@ -2859,7 +2859,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
     <string name="gps_description">Se admiten múltiples sistemas de navegación por satélite (GPS, BeiDou, GLONASS, Galileo)</string>
     <string name="gps_description_global">Se admiten múltiples sistemas de navegación por satélite ( %s)</string>
     <string name="gsm_to_wifi_connect_type_title">De GSM a Wi-Fi</string>
-    <string name="gxzw_add_fingerprint_area">Escáner de huella digital</string>
+    <string name="gxzw_add_fingerprint_area">Escáner de huella dactilar</string>
     <string name="gxzw_add_fingerprint_continue">Continuar</string>
     <string name="gxzw_add_fingerprint_edge_message">Mueve tu dedo para grabar los límites de tu huella dactilar</string>
     <string name="gxzw_add_fingerprint_edge_title">Ajusta tu agarre</string>
@@ -2974,7 +2974,7 @@ Xiaomi Cloud
 Sincronice sus contactos, fotos, videos, la lista de sus aplicaciones, la configuración del sistema y el diseño de la pantalla de inicio con la nube."</string>
     <string name="how_backup_title">¿Cómo puedo hacer una copia de seguridad de los artículos?</string>
     <string name="how_encrypt_content">"Solo puede cifrar las copias de seguridad locales. Estos son algunos métodos de cifrado que puede usar:
-a) Vaya a Ajustes&gt; Ajustes adicionales en la página con sus copias de seguridad locales, toque el botón para activar el cifrado e inicie sesión en su Cuenta Mi. Las copias de seguridad se cifrarán automáticamente después de eso. Recuerde que deberá iniciar sesión en su Cuenta Mi para restaurar elementos de las copias de seguridad cifradas.
+a) Ve a Ajustes &gt; Ajustes adicionales en la página con sus copias de seguridad locales, toque el botón para activar el cifrado e inicie sesión en su Cuenta Mi. Las copias de seguridad se cifrarán automáticamente después de eso. Recuerde que deberá iniciar sesión en su Cuenta Mi para restaurar elementos de las copias de seguridad cifradas.
 b) Si está utilizando Mi PC Suite para hacer una copia de seguridad de los elementos, puede usar las opciones de cifrado allí.
 
 Nota: ¡Recuerde la contraseña que estableció para las copias de seguridad cifradas! No podrá descifrar sus copias de seguridad si lo olvida."</string>
@@ -3196,7 +3196,7 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="keywords_face_settings">cara</string>
     <string name="keywords_face_unlock">cara, desbloquear, autorización, iniciar sesión</string>
     <string name="keywords_factory_data_reset">borrar, eliminar, restaurar, resetear, recuperar, restablecer estado de fábrica</string>
-    <string name="keywords_fingerprint_settings">huella digital, añadir huella digital</string>
+    <string name="keywords_fingerprint_settings">huella dactilar, añadir huella dactilar</string>
     <string name="keywords_flashlight">Linterna, luz</string>
     <string name="keywords_gesture">gestos</string>
     <string name="keywords_global_actions_panel">acciones globales</string>
@@ -3485,7 +3485,7 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="lock_settings_with_fingerprint">Pantalla de bloqueo y contraseña</string>
     <string name="lock_setup">Se ha completado la configuración.</string>
     <string name="lock_sounds_enable_title">Sonidos de bloqueo de pantalla</string>
-    <string name="lockdown_settings_summary">Mostrar la opción del botón de encendido que desactiva Smart Lock, el desbloqueo con huella digital y las notificaciones en la pantalla de bloqueo</string>
+    <string name="lockdown_settings_summary">Mostrar la opción del botón de encendido que desactiva Smart Lock, el desbloqueo con huella dactilar y las notificaciones en la pantalla de bloqueo</string>
     <string name="lockdown_settings_title">Mostrar opción de bloqueo de seguridad</string>
     <string name="locked_work_profile_notification_title">Perfil de trabajo bloqueado</string>
     <string name="lockpassword_cancel_label">Cancelar</string>
@@ -3720,7 +3720,7 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="max_cpu6_info">"Hexa-core Max "</string>
     <string name="max_cpu8_info">"Octa-core Max "</string>
     <string name="max_fingerprint_number_reached">No se pueden añadir más de 5 huellas. Para añadir una nueva, elimina una huella existente primero.</string>
-    <string name="max_fingerprint_reached_toast">Puede agregar hasta 5 huellas digitales</string>
+    <string name="max_fingerprint_reached_toast">Puede agregar hasta 5 huellas dactilares</string>
     <string name="maximum_memory_use">Uso máximo de memoria</string>
     <string name="media_button">Botón multimedia</string>
     <string name="media_category">Multimedia</string>
@@ -4088,7 +4088,7 @@ Selecciona tu sistema operativo:"</string>
     <string name="music_dirac_mode_reduction_noise">Cancelación de Ruido Mi Tipo C</string>
     <string name="music_dolby_mode_movie">Vídeo</string>
     <string name="music_dolby_mode_music">Música</string>
-    <string name="music_dolby_mode_off">Apagado</string>
+    <string name="music_dolby_mode_off">Desactivado</string>
     <string name="music_equalizer">Ecualizador</string>
     <string name="music_equalizer_summary">Ajustar niveles individuales para distintos tipos de música</string>
     <string name="music_hd_title">Audio HD</string>
@@ -4912,7 +4912,7 @@ OTG se desactiva automáticamente después de 10 minutos de inactividad."</strin
     <string name="privacy_factory_reset_dlg_button_text">Reiniciar</string>
     <string name="privacy_factory_reset_dlg_message">Si olvidas tu contraseña, tendrás que restablecer a datos de fábrica para establecer una nueva.</string>
     <string name="privacy_factory_reset_dlg_title">Hacer copia de seguridad de tus datos</string>
-    <string name="privacy_failed_need_to_unlock_nofingerprint">Ingrese la contraseña antes de usar una nueva huella digital</string>
+    <string name="privacy_failed_need_to_unlock_nofingerprint">Ingrese la contraseña antes de usar una nueva huella dactilar</string>
     <string name="privacy_file">Archivos</string>
     <string name="privacy_gallery">Fotos</string>
     <string name="privacy_header_text_less_than_half">Demasiado corto. Arrastra un poco más.</string>
@@ -5693,11 +5693,11 @@ Para usar esta opción:
     <string name="secondspace_category">Segundo espacio</string>
     <string name="secondspace_delete_space_title">Eliminar el Segundo espacio</string>
     <string name="secspace_fod_finger_tips">No se pudo verificar. Vuelve a intentarlo.</string>
-    <string name="secspace_fod_finger_title">Verifica tu huella digital</string>
+    <string name="secspace_fod_finger_title">Verifica tu huella dactilar</string>
     <string name="secspace_fod_use_password">Introduce la contraseña</string>
     <string name="secure_keyguard_business_title">Establecer bloqueo de pantalla</string>
     <string name="secure_lock_encryption_warning">Has activado un servicio de accesibilidad, por lo que el dispositivo no utilizará el bloqueo de pantalla para mejorar el cifrado de datos.</string>
-    <string name="security_dashboard_summary">Bloqueo de pantalla y huella digital</string>
+    <string name="security_dashboard_summary">Bloqueo de pantalla y huella dactilar</string>
     <string name="security_dashboard_summary_face">Bloqueo de pantalla, desbloqueo facial</string>
     <string name="security_dashboard_summary_no_fingerprint">Bloqueo de pantalla</string>
     <string name="security_enable_widgets_disabled_summary">Inhabilitado por el administrador</string>
@@ -5780,37 +5780,37 @@ Es posible que una persona que se parezca mucho a ti, como tu hijo o un gemelo, 
     <string name="security_settings_fingerprint_enroll_dialog_delete">Eliminar</string>
     <string name="security_settings_fingerprint_enroll_dialog_name_label">Nombre</string>
     <string name="security_settings_fingerprint_enroll_dialog_ok">Aceptar</string>
-    <string name="security_settings_fingerprint_enroll_disclaimer">Además de desbloquear el teléfono, también puedes utilizar tu huella digital para autorizar acceso a aplicaciones y compras. &lt;annotation id="url"&gt;Más información&lt;/annotation&gt;</string>
+    <string name="security_settings_fingerprint_enroll_disclaimer">Además de desbloquear el teléfono, también puedes utilizar tu huella dactilar para autorizar acceso a aplicaciones y compras. &lt;annotation id="url"&gt;Más información&lt;/annotation&gt;</string>
     <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">" La opción de bloqueo de pantalla está inhabilitada. Para obtener más información, ponte en contacto con el administrador de la organización. "&lt;annotation id="admin_details"&gt;Más detalles&lt;/annotation&gt;"
 
-Puedes seguir utilizando tu huella digital para autorizar compras y acceder a las aplicaciones. "&lt;annotation id="url"&gt;Más información&lt;/annotation&gt;</string>
+Puedes seguir utilizando tu huella dactilar para autorizar compras y acceder a las aplicaciones. "&lt;annotation id="url"&gt;Más información&lt;/annotation&gt;</string>
     <string name="security_settings_fingerprint_enroll_done">Listo</string>
     <string name="security_settings_fingerprint_enroll_enrolling_skip">Hacerlo más adelante</string>
     <string name="security_settings_fingerprint_enroll_error_dialog_title">Registro no completado</string>
-    <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">El registro de la huella digital no se ha realizado correctamente. Vuelve a intentarlo o utiliza otro dedo.</string>
-    <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message">Se ha alcanzado el tiempo de registro de la huella digital. Vuelve a intentarlo.</string>
-    <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Ilustración con la ubicación del sensor de huellas digitales y dispositivo</string>
+    <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">El registro de la huella dactilar no se ha realizado correctamente. Vuelve a intentarlo o utiliza otro dedo.</string>
+    <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message">Se ha alcanzado el tiempo de registro de la huella dactilar. Vuelve a intentarlo.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Ilustración con la ubicación del sensor de huellas dactilares y dispositivo</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message">Está en la parte trasera del teléfono. Utiliza el dedo índice.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_title">Toca el sensor</string>
-    <string name="security_settings_fingerprint_enroll_finish_message">Cuando veas este icono, utiliza tu huella digital para identificarte o aprobar compras</string>
-    <string name="security_settings_fingerprint_enroll_finish_title">Huella digital añadida</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">Cuando veas este icono, utiliza tu huella dactilar para identificarte o aprobar compras</string>
+    <string name="security_settings_fingerprint_enroll_finish_title">Huella dactilar añadida</string>
     <string name="security_settings_fingerprint_enroll_introduction_cancel">Cancelar</string>
     <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Saltar</string>
     <string name="security_settings_fingerprint_enroll_introduction_continue">Continuar</string>
     <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Siguiente</string>
-    <string name="security_settings_fingerprint_enroll_introduction_message">"Solo tienes que tocar el sensor de huellas digitales para desbloquear el teléfono, autorizar compras o iniciar sesión en aplicaciones. Cualquier huella digital que añadas podrá realizar estas acciones, por lo que debes tener cuidado con las huellas que incluyas.
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Solo tienes que tocar el sensor de huellas dactilares para desbloquear el teléfono, autorizar compras o iniciar sesión en aplicaciones. Cualquier huella dactilar que añadas podrá realizar estas acciones, por lo que debes tener cuidado con las huellas que incluyas.
 
-Nota: Es posible que tu huella digital sea menos segura que un buen patrón o PIN."</string>
-    <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Utiliza tu huella digital para desbloquear el teléfono o aprobar compras.
+Nota: Es posible que tu huella dactilar sea menos segura que un buen patrón o PIN."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Utiliza tu huella dactilar para desbloquear el teléfono o aprobar compras.
 
-Nota: Es posible que tu huella digital sea menos segura que un buen patrón o PIN."</string>
-    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Utiliza tu huella digital para desbloquear el teléfono o aprobar compras.
+Nota: Es posible que tu huella dactilar sea menos segura que un buen patrón o PIN."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Utiliza tu huella dactilar para desbloquear el teléfono o aprobar compras.
 
-Nota: No puedes utilizar tu huella digital para desbloquear este dispositivo. Si quieres consultar más información, ponte en contacto con el administrador de tu organización."</string>
-    <string name="security_settings_fingerprint_enroll_introduction_title">Desbloqueo con huella digital</string>
-    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Usar tu huella digital</string>
+Nota: No puedes utilizar tu huella dactilar para desbloquear este dispositivo. Si quieres consultar más información, ponte en contacto con el administrador de tu organización."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Desbloqueo con huella dactilar</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Usar tu huella dactilar</string>
     <string name="security_settings_fingerprint_enroll_lift_touch_again">Levanta el dedo y vuelve a tocar el sensor</string>
-    <string name="security_settings_fingerprint_enroll_repeat_message">Junta y separa el dedo varias veces para añadir las distintas partes de tu huella digital</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Junta y separa el dedo varias veces para añadir las distintas partes de tu huella dactilar</string>
     <string name="security_settings_fingerprint_enroll_repeat_title">Levanta el dedo y toca de nuevo</string>
     <string name="security_settings_fingerprint_enroll_setup_screen_lock">Configurar bloqueo de pantalla</string>
     <string name="security_settings_fingerprint_enroll_start_message">Pon el dedo en el sensor y levántalo cuando notes una vibración</string>
@@ -5818,7 +5818,7 @@ Nota: No puedes utilizar tu huella digital para desbloquear este dispositivo. Si
     <string name="security_settings_fingerprint_enroll_touch_dialog_message">Toca el sensor situado detrás del teléfono con el dedo índice.</string>
     <string name="security_settings_fingerprint_enroll_touch_dialog_title">¡Vaya! Ese no es el sensor</string>
     <string name="security_settings_fingerprint_preference_summary_none" />
-    <string name="security_settings_fingerprint_preference_title">Huella digital</string>
+    <string name="security_settings_fingerprint_preference_title">Huella dactilar</string>
     <string name="security_settings_summary">Establecer Mi ubicación, bloqueo de pantalla, bloqueo de tarjeta SIM y bloqueo de almacenamiento de credenciales</string>
     <string name="security_settings_title">Seguridad</string>
     <string name="security_status">Estado de seguridad</string>
@@ -5898,10 +5898,10 @@ Nota: No puedes utilizar tu huella digital para desbloquear este dispositivo. Si
     <string name="setup_choose_unlock_pattern">Patrón</string>
     <string name="setup_choose_unlock_pattern_title">Dibuja un patrón de desbloqueo</string>
     <string name="setup_choose_unlock_type_title">Establecer contraseña</string>
-    <string name="setup_fingerprint_enroll_enrolling_skip_message">Has decidido utilizar tu huella digital para desbloquear el teléfono. Si te saltas este paso ahora, tendrás que configurarlo más tarde (este proceso tarda aproximadamente un minuto).</string>
-    <string name="setup_fingerprint_enroll_enrolling_skip_title">¿Saltar la configuración de huella digital?</string>
-    <string name="setup_fingerprint_enroll_skip_after_adding_lock_text">Solo tardarás un par de minutos en configurar la huella digital. Si te saltas este paso, puedes añadir tu huella digital en otro momento desde los ajustes.</string>
-    <string name="setup_fingerprint_enroll_skip_title">¿Saltar la configuración de huella digital?</string>
+    <string name="setup_fingerprint_enroll_enrolling_skip_message">Has decidido utilizar tu huella dactilar para desbloquear el teléfono. Si te saltas este paso ahora, tendrás que configurarlo más tarde (este proceso tarda aproximadamente un minuto).</string>
+    <string name="setup_fingerprint_enroll_enrolling_skip_title">¿Saltar la configuración de huella dactilar?</string>
+    <string name="setup_fingerprint_enroll_skip_after_adding_lock_text">Solo tardarás un par de minutos en configurar la huella dactilar. Si te saltas este paso, puedes añadir tu huella dactilar en otro momento desde los ajustes.</string>
+    <string name="setup_fingerprint_enroll_skip_title">¿Saltar la configuración de huella dactilar?</string>
     <string name="setup_lock_settings_options_button_label">Opciones de bloqueo de pantalla</string>
     <string name="setup_lock_settings_options_dialog_title">Opciones de bloqueo de pantalla</string>
     <string name="setup_lock_settings_picker_message">Activa las funciones de protección del dispositivo para evitar que otros utilicen el teléfono sin tu permiso. Elige el bloqueo de pantalla que quieras utilizar.</string>
@@ -6136,8 +6136,8 @@ Si no acepta otorgar tales permisos, no podrá usar algunas funciones de esta ap
 r
 Esta función necesita permisos para acceder a tu ubicación, usar redes móviles y leer tus contactos. ¿Aceptar?"</string>
     <string name="sos_privacy_dialog_message_new_version">"Emergency SOS le permite compartir su ubicación en tiempo real y enviar mensajes de texto a sus contactos de emergencia.
-Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.
-Tenga en cuenta que esta aplicación necesita conectarse a Internet y requiere los siguientes permisos para recopilar su información personal:
+Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.
+Ten en cuenta que esta aplicación necesita conectarse a Internet y requiere los siguientes permisos para recopilar tu información personal:
 • Acceder al almacenamiento
 Para guardar contactos de emergencia
 • Acceder a contactos
@@ -6488,10 +6488,10 @@ Prueba a utilizar una ^3 más rápida o utiliza esta ^4 como almacenamiento port
     <string name="sud_next_button_label">Siguiente</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">Estas aplicaciones funcionarán mejor en Modo de pantalla completa</string>
     <string name="suggested_fingerprint_lock_settings_summary" />
-    <string name="suggested_fingerprint_lock_settings_title">Añadir huella digital para desbloquear</string>
+    <string name="suggested_fingerprint_lock_settings_title">Añadir huella dactilar para desbloquear</string>
     <string name="suggested_lock_settings_summary">Añade bloqueo de pantalla para proteger el teléfono</string>
     <string name="suggested_lock_settings_title">Protege tu teléfono</string>
-    <string name="suggestion_additional_fingerprints">Añadir otra huella digital</string>
+    <string name="suggestion_additional_fingerprints">Añadir otra huella dactilar</string>
     <string name="suggestion_additional_fingerprints_summary">Desbloquear con un dedo diferente</string>
     <string name="suggestion_button_text">Aceptar</string>
     <string name="suggestion_for_phone_recycled">Añadir un número de teléfono diferente</string>
@@ -6778,35 +6778,35 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="unlock_disable_frp_warning_content_password">Las funciones de protección del dispositivo no funcionarán sin tu contraseña.</string>
     <string name="unlock_disable_frp_warning_content_password_fingerprint">"Las funciones de protección del dispositivo no funcionarán sin la contraseña.
 
-Las huellas digitales guardadas también se eliminarán de este dispositivo y no podrás utilizarlas para desbloquear el teléfono, autorizar compras ni iniciar sesión en las aplicaciones."</string>
+Las huellas dactilares guardadas también se eliminarán de este dispositivo y no podrás utilizarlas para desbloquear el teléfono, autorizar compras ni iniciar sesión en las aplicaciones."</string>
     <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">"Las funciones de protección del perfil no funcionarán sin la contraseña.
 
-Las huellas digitales guardadas también se eliminarán de este perfil y no podrás utilizarlas para desbloquearlo, autorizar compras ni iniciar sesión en las aplicaciones."</string>
+Las huellas dactilares guardadas también se eliminarán de este perfil y no podrás utilizarlas para desbloquearlo, autorizar compras ni iniciar sesión en las aplicaciones."</string>
     <string name="unlock_disable_frp_warning_content_password_profile">Las funciones de protección del perfil no funcionan sin la contraseña.</string>
     <string name="unlock_disable_frp_warning_content_pattern">Las funciones de protección del dispositivo no funcionarán sin tu patrón.</string>
     <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Las funciones de protección del dispositivo no funcionarán sin el patrón.
 
-Las huellas digitales guardadas también se eliminarán de este dispositivo y no podrás utilizarlas para desbloquear el teléfono, autorizar compras ni iniciar sesión en las aplicaciones."</string>
+Las huellas dactilares guardadas también se eliminarán de este dispositivo y no podrás utilizarlas para desbloquear el teléfono, autorizar compras ni iniciar sesión en las aplicaciones."</string>
     <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">"Las funciones de protección del perfil no funcionarán sin el patrón.
 
-Las huellas digitales guardadas también se eliminarán de este perfil y no podrás utilizarlas para desbloquearlo, autorizar compras ni iniciar sesión en las aplicaciones."</string>
+Las huellas dactilares guardadas también se eliminarán de este perfil y no podrás utilizarlas para desbloquearlo, autorizar compras ni iniciar sesión en las aplicaciones."</string>
     <string name="unlock_disable_frp_warning_content_pattern_profile">Las funciones de protección del perfil no funcionan sin el patrón.</string>
     <string name="unlock_disable_frp_warning_content_pin">Las funciones de protección del dispositivo no funcionarán sin tu PIN.</string>
     <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Las funciones de protección del dispositivo no funcionarán sin el PIN.
 
-Las huellas digitales guardadas también se eliminarán de este dispositivo y no podrás utilizarlas para desbloquear el teléfono, autorizar compras ni iniciar sesión en las aplicaciones."</string>
+Las huellas dactilares guardadas también se eliminarán de este dispositivo y no podrás utilizarlas para desbloquear el teléfono, autorizar compras ni iniciar sesión en las aplicaciones."</string>
     <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">"Las funciones de protección del perfil no funcionarán sin el PIN.
 
-Las huellas digitales guardadas también se eliminarán de este perfil y no podrás utilizarlas para desbloquearlo, autorizar compras ni iniciar sesión en las aplicaciones."</string>
+Las huellas dactilares guardadas también se eliminarán de este perfil y no podrás utilizarlas para desbloquearlo, autorizar compras ni iniciar sesión en las aplicaciones."</string>
     <string name="unlock_disable_frp_warning_content_pin_profile">Las funciones de protección del perfil no funcionan sin el PIN.</string>
     <string name="unlock_disable_frp_warning_content_profile">Las características del perfil de protección no funcionarán sin tu contraseña.</string>
     <string name="unlock_disable_frp_warning_content_unknown">Las funciones de protección del dispositivo no funcionarán sin tu bloqueo de pantalla.</string>
     <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Las funciones de protección del dispositivo no funcionarán sin el bloqueo de pantalla.
 
-Las huellas digitales guardadas también se eliminarán de este dispositivo y no podrás utilizarlas para desbloquear el teléfono, autorizar compras ni iniciar sesión en las aplicaciones."</string>
+Las huellas dactilares guardadas también se eliminarán de este dispositivo y no podrás utilizarlas para desbloquear el teléfono, autorizar compras ni iniciar sesión en las aplicaciones."</string>
     <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">"Las funciones de protección del perfil no funcionarán sin el bloqueo de pantalla.
 
-Las huellas digitales guardadas también se eliminarán del perfil y no podrás utilizarlas para desbloquearlo, autorizar compras ni iniciar sesión en las aplicaciones."</string>
+Las huellas dactilares guardadas también se eliminarán del perfil y no podrás utilizarlas para desbloquearlo, autorizar compras ni iniciar sesión en las aplicaciones."</string>
     <string name="unlock_disable_frp_warning_content_unknown_profile">Las funciones de protección del perfil no funcionan sin el bloqueo de pantalla.</string>
     <string name="unlock_disable_frp_warning_ok">Sí, quitar</string>
     <string name="unlock_disable_frp_warning_title">¿Quitar protección del dispositivo?</string>
@@ -6849,7 +6849,7 @@ Las huellas digitales guardadas también se eliminarán del perfil y no podrás 
     <string name="unlock_set_unlock_pin_summary" formatted="false">Introduce %d a %d números para desbloquear el dispositivo</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">Establecer bloqueo de pantalla</string>
-    <string name="unlock_setup_wizard_fingerprint_details">Una vez que hayas configurado un bloqueo de pantalla, podrás configurar también la huella digital en Ajustes &gt; Seguridad.</string>
+    <string name="unlock_setup_wizard_fingerprint_details">Una vez que hayas configurado un bloqueo de pantalla, podrás configurar también la huella dactilar en Ajustes &gt; Seguridad.</string>
     <string name="unlock_type_category_title">Método de reconocimiento</string>
     <string name="unlogin_account_summary">Todos los servicios Mi. Una Cuenta Mi.</string>
     <string name="unlogin_account_title">Iniciar sesión en Cuenta Mi</string>

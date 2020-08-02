@@ -395,7 +395,7 @@
 	<string name="clear">Limpiar</string>
 	<string name="clock_alarm">Alarma</string>
   	<string name="clock_parent">Reloj</string>
-	<string name="closed">Apagado</string>
+	<string name="closed">Desactivado</string>
 	<string name="commute">Sugerencias de mapas</string>
 	<string name="commute_open">Mostrar la tarjeta para la sugerencia de mapas</string>
 	<string name="commute_setting_brief">Obtener sugerencias de la ruta y el tráfico antes de salir.</string>
@@ -403,20 +403,24 @@
 	<string name="corpus_description_apps">Aplicaciones instaladas</string>
 	<string name="corpus_hint_apps">Buscar aplicaciones</string>
 	<string name="corpus_label_apps">Aplicaciones</string>
-	<string name="cta_desc">"Es ideal para accesos directos, información y tus funciones favoritas"</string>
+	<string name="cta_desc">Todas las funciones importantes en un solo lugar</string>
 	<string name="cta_dialog_negative">Salir</string>
 	<string name="cta_dialog_positive">Aceptar</string>
-	<string name="cta_dialog_text1">Para usar App Vault, debe leer y estar de acuerdo con</string>
+	<string name="cta_dialog_text1">Para usar Bóveda de aplicaciones, debe leer y estar de acuerdo con</string>
 	<string name="cta_dialog_text2">\"Acuerdo del Usuario\"</string>
 	<string name="cta_dialog_text3">y</string>
 	<string name="cta_dialog_text4">\"Política de Privacidad\".</string>
 	<string name="cta_dialog_text5">El servicio también requiere conexión a Internet y acceso a los servicios de ubicación. ¿De acuerdo?</string>
-	<string name="cta_dialog_text_all">Para utilizar App Vault, debe leer y estar de acuerdo con %1$s\"acuerdo de usuario\" %2$s Y %3$s \"Política de Privacidad\" %4$s. El servicio también requiere conexión a Internet y acceso a los servicios de localización. El receptor de contenido utilizado por algunos servicios también requiere conexión a Internet. ¿Acuerdo?</string>
+	<string name="cta_dialog_text_all">Para utilizar la Bóveda de aplicaciones, debes leer y estar de acuerdo con %1$s\"Acuerdo de Usuario\" %2$s y %3$s \"Política de Privacidad\" %4$s. El servicio también requiere conexión a Internet y acceso a los servicios de ubicación. El receptor de contenido utilizado por algunos servicios también requiere conexión a Internet. ¿De acuerdo?</string>
+	<string name="cta_dialog_text_new_user">Lee y acepta nuestro %1$sAcuerdo de Usuario%2$s y %3$sPolítica de Privacidad%4$s.</string>
+  	<string name="cta_dialog_text_old_user">Antes de usar Bóveda de aplicaciones, debes aceptar la %1$s\"Política de privacidad de Bóveda de aplicaciones\"%2$s. Toca \"Comenzar\" para aceptar.</string>
 	<string name="cta_dialog_title">Términos y Condiciones</string>
 	<string name="cta_negative">Cerrar</string>
+	<string name="cta_not_now">Ahora no</string>
+  	<string name="cta_old_not_use">Ahora no</string>
 	<string name="cta_positive">Detalles</string>
 	<string name="cta_text5">El servicio también requiere conexión a Internet y acceso a los servicios de ubicación. ¿De acuerdo?</string>
-	<string name="cta_title">Mantenga las cosas importantes en la App vault</string>
+	<string name="cta_title">Bienvenido a la Bóveda de aplicaciones</string>
 	<string name="currency_china">CNY</string>
 	<string name="daily_greeting">Saludos diarios</string>
 	<string name="data_error">Ha ocurrido un error, espere un minuto o dos y pruebe de nuevo</string>
@@ -758,9 +762,9 @@
 	<string name="flybird_default_channel">Método de pago predeterminado</string>
 	<string name="flybird_default_channel_main">Método de pago predeterminado</string>
 	<string name="flybird_down">Abajo</string>
-	<string name="flybird_fp_open">Verifique la huella digital para abrir el pago de la huella digital</string>
+	<string name="flybird_fp_open">Verifique la huella dactilar para abrir el pago de la huella dactilar</string>
 	<string name="flybird_fp_retry_tips">El número de reintentos de huellas dactilares alcanza el límite superior y saldrá</string>
-	<string name="flybird_fp_tips">Por favor verifica la huella digital</string>
+	<string name="flybird_fp_tips">Por favor verifica la huella dactilar</string>
 	<string name="flybird_fp_unavailable">El pago de la huella dactilar no está disponible temporalmente. Inténtalo de nuevo más tarde</string>
 	<string name="flybird_fp_val_failed">Fallo de huella dactilar</string>
 	<string name="flybird_fp_val_ok">Huella dactilar validada...</string>
@@ -965,7 +969,7 @@
 	<string name="mi_sport">Contador de pasos</string>
 	<string name="mi_sport_go_install">Descargar</string>
 	<string name="mi_wallet">Mi Wallet</string>
-	<string name="mini_add_fp">Agregue huellas dactilares al sistema del teléfono móvil y luego abra la contraseña de la huella digital Alipay</string>
+	<string name="mini_add_fp">Agregue huellas dactilares al sistema del teléfono móvil y luego abra la contraseña de la huella dactilar Alipay</string>
 	<string name="mini_agree">Consentimiento</string>
 	<string name="mini_already_download">Descargado</string>
 	<string name="mini_app_error">La popularidad está muy ocupada, inténtalo de nuevo más tarde。</string>
@@ -993,8 +997,8 @@
 	<string name="mini_expiry_date_content">El período de validez es una cadena de números impresos debajo del número de tarjeta frontal de la tarjeta de crédito, con el bit de formato estándar seguido por el mes y el año anterior.</string>
 	<string name="mini_expiry_date_title">Fecha de caducidad</string>
 	<string name="mini_format_error">Error de formato</string>
-	<string name="mini_fp_no_open_pay">La información de su huella digital ha cambiado, vuelva a abrir su contraseña de huella digital</string>
-	<string name="mini_fp_validate_failuer">Error al verificar la huella digital, la contraseña será transferida</string>
+	<string name="mini_fp_no_open_pay">La información de su huella dactilar ha cambiado, vuelva a abrir su contraseña de huella dactilar</string>
+	<string name="mini_fp_validate_failuer">Error al verificar la huella dactilar, la contraseña será transferida</string>
 	<string name="mini_fp_validate_failuer_for">La verificación de la huella dactilar falló. Confirme si es el dedo correcto y vuelva a intentarlo</string>
 	<string name="mini_id_no">Número de documento</string>
 	<string name="mini_iknow">Yo se</string>
@@ -1035,7 +1039,7 @@
 	<string name="mini_weakpassword_error_same">Por favor no use el mismo número</string>
 	<string name="mini_weakpassword_error_serial">Por favor no use números continuos</string>
 	<string name="miot_auth_btn">Sincronizar</string>
-	<string name="miot_auth_content">Usa App vault para controlar los dispositivos inteligentes de tu hogar</string>
+	<string name="miot_auth_content">Usa Bóveda de aplicaciones para controlar los dispositivos inteligentes de tu hogar</string>
 	<string name="miot_auth_title">Sincroniza tus dispositivos</string>
 	<string name="miot_device_add_device">Agregar dispositivo</string>
 	<string name="miot_device_all_device">Todo el equipo</string>
@@ -1114,7 +1118,7 @@
 	<string name="music_card_error_str">Se produjo un error, abra la aplicación de Música para reproducir</string>
 	<string name="music_open">Mostrar música y tarjeta de radio</string>
 	<string name="music_setting_brief">Conecte los auriculares para continuar escuchando música o la radio desde donde lo dejó.</string>
-	<string name="navigation_network_location_enable">De acuerdo</string>
+	<string name="navigation_network_location_enable">Aceptar</string>
 	<string name="navigation_network_location_enable_later">Cancelar</string>
 	<string name="navigation_network_location_enabled">Los servicios de ubicación están activados. Puede cambiar esto en la Configuración.</string>
 	<string name="navigation_network_location_not_enabled_summary">Conectarse a la red y activar los servicios de ubicación. ¿Está de acuerdo?</string>
@@ -1178,8 +1182,8 @@
 	<string name="payment_clear_records_failed">"No se pudo borrar el historial de pagos"</string>
 	<string name="payment_clear_records_success">Historial de pagos borrados</string>
 	<string name="payment_date_time_picker_dialog_title">Establecer fecha y hora</string>
-	<string name="payment_dialog_notice_message">"WeChat no soporta exportar información de pago, puede agregarla a App Vault manualmente. La información de pago de otras aplicaciones se puede exportar manualmente."</string>
-	<string name="payment_dialog_notice_message_inside">"WeChat no soporta exportar información de pago, puede agregarla a App Vault manualmente."</string>
+	<string name="payment_dialog_notice_message">"WeChat no soporta exportar información de pago, puede agregarla a Bóveda de aplicaciones manualmente. La información de pago de otras aplicaciones se puede exportar manualmente."</string>
+	<string name="payment_dialog_notice_message_inside">"WeChat no soporta exportar información de pago, puede agregarla a Bóveda de aplicaciones manualmente."</string>
 	<string name="payment_dialog_notice_ok">Entiendo</string>
 	<string name="payment_dialog_notice_title">Información de pago</string>
 	<string name="payment_guide_hint">Recopilar información de pago de mensajería y otras aplicaciones.</string>
@@ -1211,7 +1215,7 @@
 	<string name="payment_pref_source_wechat_title">WeChat</string>
 	<string name="payment_privacy_dialog_cancel">Salir</string>
 	<string name="payment_privacy_dialog_message">"\"Mis pagos\" que permite recoger las facturas de las principales apps de pago en un solo lugar. Toda tu información de pago serán cifrados y almacenados de forma segura en su dispositivo. No será sincronizado con Xiaomi Cloud o cargar en cualquier otro servidor. Usted puede desactivar la opción \"Mis pagos\" en la Configuración o simplemente quite esta tarjeta de Aplicación de la bóveda, para dejar de usar este servicio. De acuerdo?"</string>
-	<string name="payment_privacy_dialog_ok">De acuerdo</string>
+	<string name="payment_privacy_dialog_ok">Aceptar</string>
 	<string name="payment_privacy_dialog_title">\"Mis pagos\" Política de Privacidad</string>
 	<string name="payment_record_add">Agregar pago</string>
 	<string name="payment_record_delete">Eliminar de los pagos</string>
@@ -1324,7 +1328,7 @@
 	<string name="setting_dialog_title">Se perderán todos los cambios. ¿Salir?</string>
 	<string name="setting_didi_always_sdk">Utilice siempre el cliente DiDi</string>
 	<string name="setting_didi_default_way">Ruta de taxi predeterminada</string>
-	<string name="setting_disable">Apagado</string>
+	<string name="setting_disable">Desactivado</string>
 	<string name="setting_fav_authorize">Permitir el acceso a todos los favoritos en su dispositivo</string>
 	<string name="setting_fav_notification">Notificar cada vez que se agregue algo a los favoritos</string>
 	<string name="setting_fav_remove_content">La tarjeta se eliminará después de restringir el acceso a favoritos. ¿Restringir de todos modos?</string>
@@ -1377,13 +1381,13 @@
 	<string name="shopping_label">Compras</string>
 	<string name="shopping_notification_title">Añadido a compras</string>
 	<string name="shopping_setting_authorize">Permitir exportar información sobre compras</string>
-	<string name="shopping_setting_authorize_sub">App Vault tendrá acceso a sus favoritos y artículos de carrito de compras.</string>
+	<string name="shopping_setting_authorize_sub">Bóveda de aplicaciones tendrá acceso a sus favoritos y artículos de carrito de compras.</string>
 	<string name="shopping_setting_base">Configuración</string>
-	<string name="shopping_setting_brief">Recoge la información sobre tus compras en la App Vault.</string>
+	<string name="shopping_setting_brief">Recoge la información sobre tus compras en la Bóveda de aplicaciones.</string>
 	<string name="shopping_setting_brief_detail">Recopile la información sobre sus compras de múltiples aplicaciones de comercio electrónico en la aplicación Vault.</string>
 	<string name="shopping_setting_jingdong">JD</string>
 	<string name="shopping_setting_notification">Notificar sobre nuevos artículos</string>
-	<string name="shopping_setting_remove">Después de revocar la autorización, App Vault dejará de recopilar la información sobre sus compras y se eliminará la tarjeta de compra. ¿revocar de todos modos?</string>
+	<string name="shopping_setting_remove">Después de revocar la autorización, Bóveda de aplicaciones dejará de recopilar la información sobre sus compras y se eliminará la tarjeta de compra. ¿revocar de todos modos?</string>
 	<string name="shopping_setting_taobao">Taobao</string>
 	<string name="shopping_setting_tmall">Tmall</string>
 	<string name="shopping_source">De</string>
@@ -1448,7 +1452,7 @@
 	<string name="stock_web_lable">Acciones</string>
 	<string name="study_parent">Estudio</string>
 	<string name="system_favorite_dialog_link">Seguridad y privacidad</string>
-	<string name="system_favorite_dialog_message">Los favoritos de múltiples aplicaciones y servicios se añadirán a App Vault. Permitir? Mi colección sincronizará los nuevos favoritos en cada aplicación para una fácil referencia. ¿Aceptas autorizar la apertura?</string>
+	<string name="system_favorite_dialog_message">Los favoritos de distintas aplicaciones y servicios se añadirán a Bóveda de aplicaciones. ¿Permitir?</string>
 	<string name="system_favorite_dialog_negative">Salir</string>
 	<string name="system_favorite_dialog_positive">Permitir</string>
 	<string name="system_favorite_dialog_title_confirm">Autorización requerida</string>
@@ -1505,7 +1509,7 @@
 	<string name="upgrade_log_default">"1. Mejorar el rendimiento.
 	2. Corregidos errores."</string>
 	<string name="upgrade_log_subtitle">(Descargado a través de Wi-Fi)</string>
-	<string name="upgrade_log_title">Actualización de App Vault</string>
+	<string name="upgrade_log_title">Actualización de Bóveda de aplicaciones</string>
 	<string name="upgrade_now">Instalar ahora</string>
 	<string name="upgrade_now_bottom">Instalar ahora</string>
 	<string name="uploads_disabled">"No se pudo cargar archivos"</string>
@@ -1536,10 +1540,10 @@
 	<string name="xspace_resolver_activity_title">Seleccionar app</string>
 	<string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
 	<string name="year_month_day_format">dd/MM/yyyy</string>
-	<string name="yellow_page_website">Página official</string>
+	<string name="yellow_page_website">Página oficial</string>
 	<string name="yesterday">Ayer</string>
 	<string name="battery_history">Batería</string>
-	<string name="display_weather_default">Pulsa para obtener información del clima</string>
+	<string name="display_weather_default">Toca para obtener información del clima</string>
 	<string name="timeline_headline">Próximos</string>
 	<string name="sport_headline">Actividad de hoy</string>
 

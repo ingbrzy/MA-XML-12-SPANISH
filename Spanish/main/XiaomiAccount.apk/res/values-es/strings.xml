@@ -119,7 +119,7 @@
     <string name="cloud_description_normal">Ocupado</string>
     <string name="cloud_service">Xiaomi Cloud</string>
     <string name="collect_diagnosis_log">Generar registro de diagnóstico</string>
-    <string name="com_facebook_device_auth_instructions">Visite &lt;b&gt;facebook.com/device&lt;/b&gt; e ingrese el código que se muestra arriba.</string>
+    <string name="com_facebook_device_auth_instructions">Visita &lt;b&gt;facebook.com/device&lt;/b&gt; e introduce el código que se muestra arriba.</string>
     <string name="com_facebook_image_download_unknown_error">Error inesperado al descargar la imagen.</string>
     <string name="com_facebook_internet_permission_error_message">WebView requiere permiso de INTERNET</string>
     <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
@@ -246,8 +246,8 @@ Enviar este código al supervisor."</string>
     <string name="health_state_not_activated">No activado</string>
     <string name="health_state_not_installed">No instalado</string>
     <string name="health_state_not_support">No es compatible con esta versión</string>
-    <string name="i_agree">OK</string>
-    <string name="i_agree_continue">De acuerdo</string>
+    <string name="i_agree">Aceptar</string>
+    <string name="i_agree_continue">Aceptar</string>
     <string name="identity">Identificación</string>
     <string name="inconsistent_pwd">"Las contraseñas no coinciden"</string>
     <string name="input_email_address_notice">Vamos a utilizar este correo electrónico para verificar tu cuenta</string>
@@ -384,9 +384,9 @@ Para activar su cuenta, siga el
     <string name="passport_error_verify_activator_phone_title">No se pudo verificar el número de teléfono</string>
     <string name="passport_extra_gdpr_license">Al crear Cuenta Mi, usted está de acuerdo con que Xiaomi recoja, procese y utilice su información personal, incluyendo la información de verificación (códigos de verificación), información del Segundo Espacio (información sobre cómo utiliza el Segundo Espacio, identificaciones utilizadas en el Primer y Segundo Espacio), y otra información especificada en nuestra Política de Privacidad. Vaya a nuestra Política de Privacidad para aprender más sobre cómo procesamos y utilizamos su información personal.</string>
     <string name="passport_failed_to_send_activate_email">No se pudo enviar correo de activación</string>
-    <string name="passport_find_password_on_web_msg">Visite account.mi.com para restablecer su contraseña.</string>
+    <string name="passport_find_password_on_web_msg">Visita account.mi.com para restablecer tu contraseña.</string>
     <string name="passport_first_login_prompt">Cuenta Mi se creará automáticamente cuando inicies sesión por primera vez.</string>
-    <string name="passport_forget_password">&lt;u&gt;Contraseña olvidada&lt;/u&gt;</string>
+    <string name="passport_forget_password"><u>Contraseña olvidada</u></string>
     <string name="passport_forget_password_no_underline">Contraseña olvidada</string>
     <string name="passport_get_back_pwd">Recuperar contraseña de su cuenta</string>
     <string name="passport_get_innetdate_agree">Comprobar</string>
@@ -397,16 +397,16 @@ Para activar su cuenta, siga el
     <string name="passport_getting_activator_phone">Obteniendo info de SIM…</string>
     <string name="passport_getting_verify_code">Obteniendo</string>
     <string name="passport_google_login">¿Iniciar sesión con la cuenta de Google utilizada anteriormente?</string>
-    <string name="passport_google_login_agree">Cuenta Google</string>
+    <string name="passport_google_login_agree">Cuenta de Google</string>
     <string name="passport_google_login_disagree">Cuenta Mi</string>
     <string name="passport_google_login_failed">"No se pudo iniciar sesión con Google. Inicie sesión en su Cuenta Mi directamente."</string>
-    <string name="passport_i_know">De acuerdo</string>
+    <string name="passport_i_know">Aceptar</string>
     <string name="passport_identification_expired">El código de verificación ha expirado, vuelve a empezar</string>
     <string name="passport_imei_permission_denied_message">Estamos solicitando permiso para obtener el IMEI de su dispositivo. Cuenta Mi utiliza el IMEI para identificar el dispositivo en el que inicias sesión, para mantener segura la Cuenta Mi.</string>
     <string name="passport_imei_permission_denied_title">Solicitud de permiso IMEI</string>
     <string name="passport_input_captcha_hint">Introduzca código</string>
     <string name="passport_input_password_for_login">Este número está asociado a una cuenta existente, introduce tu contraseña</string>
-    <string name="passport_input_password_hint">Introduzca contraseña</string>
+    <string name="passport_input_password_hint">Introduce tu contraseña</string>
     <string name="passport_input_phone_hint">Introducir número de teléfono</string>
     <string name="passport_input_phone_password">Ingrese la contraseña para %s</string>
     <string name="passport_input_vcode_hint">Introduzca el código de verificación</string>
@@ -526,7 +526,7 @@ Para activar su cuenta, siga el
     <string name="passport_use_generated_pwd_message">Esté seguro que recuerda su contraseña. La puede utilizar para iniciar sesión en otros servicios Mi.</string>
     <string name="passport_use_generated_pwd_title">¡Recuerda tu contraseña!</string>
     <string name="passport_user_agreement">Contrato de usuario</string>
-    <string name="passport_user_agreement_link">&lt;Data&gt;"He leído y estoy de acuerdo con el &amp;lt;a href=%1$s&amp;gt;Acuerdo de Usuario&amp;lt;/a&amp;gt; y &amp;lt;a href=%2$s&amp;gt;la Política de Privacidad&amp;lt;/a&amp;gt; de Xiaomi."&lt;/Data&gt;</string>
+    <string name="passport_user_agreement_link"><Data>"He leído y estoy de acuerdo con el &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; de Xiaomi."</Data></string>
     <string name="passport_user_agreement_p1">Acepto el</string>
     <string name="passport_user_agreement_p2">Contrato de usuario</string>
     <string name="passport_user_agreement_p3"> y </string>
@@ -632,8 +632,8 @@ Para activar su cuenta, siga el
     <string name="two_factor_auth_summary">"Cuando intente iniciar sesión en un nuevo dispositivo o en una nueva ubicación, se le notificará sobre esto en otros dispositivos conectados. Deberá confirmar si dichos intentos de inicio de sesión están autorizados por usted."</string>
     <string name="unbind_sns_description">Después de desvincular esta cuenta, no podrás usar la información de tu cuenta de %s para iniciar sesión en Cuenta Mi.</string>
     <string name="unlock_help_notice">"Ayuda:
-1. Si olviaste tu contraseña, visita id.mi.com para restablecerla.
-2. Si no puedes resetear tu contraseña o alguien ha bloqueado tu dispositivo, ve a i.mi.com para desbloquearlo.
+1. Si olvidaste tu contraseña, visita id.mi.com para restablecerla.
+2. Si no puedes restablecer tu contraseña o alguien ha bloqueado tu dispositivo, ve a i.mi.com para desbloquearlo.
 3. Tu número de desbloqueo es: %s"</string>
     <string name="update_contacts">Actualizar contactos</string>
     <string name="update_email_address_dialog_message">Es necesario verificar tu identidad antes de poder actualizar el correo electrónico.</string>

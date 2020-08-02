@@ -235,8 +235,9 @@
     <string name="in_the_end">No hay más elementos que mostrar</string>
     <string name="incall_show_apply">Perfil de video para llamadas salientes.</string>
     <string name="incall_show_apply_fail">No se pudo establecer</string>
-    <string name="incall_show_apply_success">Aplicado con éxito. Para desactivar esta función, vaya a Configuración&gt; Sonido y vibración&gt; Perfil de video.</string>
-    <string name="incall_show_apply_success_without_ringtone">Aplicado con éxito. Este video no tiene sonido. Se utilizará el tono original. Para desactivar esta función, vaya a Configuración&gt; Sonido y vibración&gt; Perfil de video.</string>
+    <string name="incall_show_apply_success">Aplicado con éxito</string>
+    <string name="incall_show_apply_success_without_ringtone">Aplicado con éxito. Este video no tiene sonido. Se utilizará el tono original.
+Para desactivar esta función, ve a Ajustes &gt; Sonido y vibración &gt; Perfil de video.</string>
     <string name="incall_show_find_more">Encuentra más</string>
     <string name="incall_show_not_set">No hay videos de perfil</string>
     <string name="incall_show_remove">Eliminar video de perfil</string>
@@ -245,7 +246,7 @@
     <string name="incall_show_title">Videos de perfil</string>
     <string name="incompatible_dialog_cancel">No aplicar</string>
     <string name="incompatible_dialog_message">Este tema no es compatible con la versión de MIUI instalada en tu dispositivo. Algunas partes de MIUI podrían no funcionar correctamente si aplicas este tema.</string>
-    <string name="incompatible_dialog_ok">De acuerdo</string>
+    <string name="incompatible_dialog_ok">Aceptar</string>
     <string name="incompatible_dialog_title">Problemas de compatibilidad</string>
     <string name="is_setting_wallpaper_message">Estableciendo fondo de pantalla…</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmas</string>
@@ -698,7 +699,7 @@
     <string name="theme_setting">Ajustes</string>
     <string name="theme_staggered_item_text">Recibir Créditos Mi</string>
     <string name="theme_to_comment">¡No está mal!</string>
-    <string name="theme_user_agreement_allow">De acuerdo</string>
+    <string name="theme_user_agreement_allow">Aceptar</string>
     <string name="theme_user_agreement_content1">"Mediante el uso de este producto, usted acepta nuestro "</string>
     <string name="theme_user_agreement_content2">Contrato de usuario</string>
     <string name="theme_user_agreement_content3">" y "</string>
@@ -795,4 +796,10 @@
     <string name="xiaoai_speech_not_installed_message">Descargar e instalar el asistente de voz Mi AI para continuar.</string>
     <string name="xiaoai_speech_not_installed_title">El asistente de voz Mi AI no está instalado.</string>
     <string name="you_might_also_like">También podría gustarte</string>
+    <string name="system_cta_agree_desc">Permite que esta aplicación se conecte a internet y concede los permisos obligatorios mencionados anteriormente.</string>
+    <string name="system_cta_all_purpose">¡Bienvenido a Temas! Puedes usar esta aplicación para administrar tus temas, fondos de pantalla, tonos de llamada y fuentes.</string>
+    <string name="system_cta_main_purpose">Administrar y usar temas, fondos de pantalla, tonos de llamada, fuentes y videos de fondo de pantalla</string>
+    <string name="system_cta_runtime_perm_desc_get_accounts">Para acceder al IMEI y proporcionar servicios de descarga</string>
+    <string name="system_cta_runtime_perm_desc_read_phone_state">Acceder a la ID del dispositivo para poder identificarlo</string>
+    <string name="system_cta_runtime_perm_desc_storage">Para almacenar temas guardados y otros elementos</string>
 </resources>

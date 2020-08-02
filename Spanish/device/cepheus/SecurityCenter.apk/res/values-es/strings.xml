@@ -5,7 +5,7 @@
     <string name="HIPS_Perm_Call_Desc">Llamar a números de teléfono directamente</string>
     <string name="HIPS_Perm_Contact_Desc">Modificar y eliminar contactos</string>
     <string name="HIPS_Perm_PhoneID_Desc">Acceder al número de teléfono, IMEI e IMSI</string>
-    <string name="HIPS_Perm_PhoneID_Desc_Q">Acceder al número de teléfono y estado del dispositivo</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">acceder al número de teléfono y estado del dispositivo</string>
     <string name="HIPS_Perm_Read_Call_Log_Desc">Leer el historial de llamadas</string>
     <string name="HIPS_Perm_Read_Contact_Desc">Leer tus contactos</string>
     <string name="HIPS_Perm_Read_SMS_Desc">Leer tus mensajes SMS</string>
@@ -234,7 +234,7 @@
     <string name="app_behavior_monitor_tips_if_trust">Puedes desactivar las notificaciones sobre acciones delicadas si confias en esta aplicación</string>
     <string name="app_behavior_monitor_tips_key">Notificaciones sobre acciones delicadas</string>
     <string name="app_behavior_monitor_tips_summary">Puedes recibir notificaciones cuando las aplicaciones graben audio, accedan a tu ubicación o realicen otras acciones delicadas en segundo plano.</string>
-    <string name="app_behavior_no_recorder">No se pudo encontrar resultados</string>
+    <string name="app_behavior_no_recorder">No se encontraron resultados</string>
     <string name="app_behavior_notification_audio_now_one">%1s está grabando audio</string>
     <string name="app_behavior_notification_audio_now_two" formatted="false">%1s y %2s están grabando audio</string>
     <string name="app_behavior_notification_camera_one">%1s está tomando fotos</string>
@@ -1137,7 +1137,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="foreground_traffic">Primer plano %s</string>
     <string name="forget_password_button_text">&lt;u&gt;¿Contraseña olvidada?&lt;/u&gt;</string>
     <string name="forget_password_button_text_normal">Contraseña olvidada</string>
-    <string name="forget_pattern">&lt;u&gt;Contraseña olvidada&lt;/u&gt;</string>
+    <string name="forget_pattern"><u>Contraseña olvidada</u></string>
     <string name="forground_network_optimization_summary">Dar más ancho de banda a los juegos ejecutándose en segundo plano</string>
     <string name="forground_network_optimization_title">Prioridad de ancho de banda</string>
     <string name="free_send_net_booster">Optimización gratuita de velocidad de red</string>
@@ -2708,7 +2708,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="st_title_antispam_mode">Reglas</string>
     <string name="st_title_back_sound_busy">Ocupado</string>
     <string name="st_title_back_sound_choose">Respuesta automática</string>
-    <string name="st_title_back_sound_closed">Apagado</string>
+    <string name="st_title_back_sound_closed">Desactivado</string>
     <string name="st_title_back_sound_none">El número no existe</string>
     <string name="st_title_back_sound_stop">Fuera de servicio</string>
     <string name="st_title_backsound_group">Respuesta automática</string>
