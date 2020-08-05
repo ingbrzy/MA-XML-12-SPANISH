@@ -45,9 +45,9 @@ Tamaño de actualización Delta: %2$s"</string>
     <string name="restore_launcher_layout_hit">Recuperar ajustes del iniciador</string>
     <string name="settings_summary">Ajustes de mensajes y teléfono</string>
     <string name="camera_summary">Ajustes de cámara (sin incluir fotos)</string>
-    <string name="account_summary">Respaldar la cuenta de Google, Mi Cuenta y otros datos de usuario</string>
-    <string name="cloud_app_name">Respaldo de Mi Cloud</string>
-    <string name="cloud_home_title">Mi Cloud</string>
+    <string name="account_summary">Respaldar la cuenta de Google, Cuenta Mi y otros datos de usuario</string>
+    <string name="cloud_app_name">Respaldo de Xiaomi Cloud</string>
+    <string name="cloud_home_title">Xiaomi Cloud</string>
     <string name="prompt_reading">Leyendo…</string>
     <string name="prompt_sending">Subiendo…</string>
     <string name="prompt_writing">Guardando…</string>
@@ -55,17 +55,17 @@ Tamaño de actualización Delta: %2$s"</string>
     <string name="backup_update">Actualizar</string>
     <string name="backup_delete">Eliminar:</string>
     <string name="findlost_contact">Recuperar contactos</string>
-    <string name="findlost_contact_online">Recuperar contactos desde Mi Cloud</string>
-    <string name="cloud_backup_login">Inicie sesión con su Mi Cuenta</string>
+    <string name="findlost_contact_online">Recuperar contactos desde Xiaomi Cloud</string>
+    <string name="cloud_backup_login">Inicie sesión con su Cuenta Mi</string>
     <string name="cloud_backup_hint">Inicie sesión para acceder a sus copias de seguridad</string>
-    <string name="cloud_backup_window_title">Copia de seguridad de Mi Cloud</string>
-    <string name="cloud_restore_window_title">Recuperación de Mi Cloud</string>
+    <string name="cloud_backup_window_title">Copia de seguridad de Xiaomi Cloud</string>
+    <string name="cloud_restore_window_title">Recuperación de Xiaomi Cloud</string>
     <string name="cloud_restore_title">Restaurar los datos respaldados</string>
     <string name="local_backup_window_title">Copia de seguridad local</string>
     <string name="local_restore_window_title">Restauración local</string>
     <string name="account_login">Iniciar sesión</string>
     <string name="miliao_account_login">Iniciar sesión con Mi Talk</string>
-    <string name="miliao_account_guide">Use su Mi Cuenta para iniciar sesión en Mi Cloud, la tienda de MIUI Temas y otros servicios de Mi desde cualquier lugar.</string>
+    <string name="miliao_account_guide">Use su Cuenta Mi para iniciar sesión en Xiaomi Cloud, la tienda de MIUI Temas y otros servicios de Mi desde cualquier lugar.</string>
     <string name="auto_backup">Programar copia de seguridad de rutina</string>
     <string name="contact_title">Contactos</string>
     <string name="call_title">Historial de llamadas</string>
@@ -95,11 +95,11 @@ Tamaño de actualización Delta: %2$s"</string>
     <string name="sdcard_no_enough_space_message">No hay espacio de almacenamiento suficiente en su tarjeta SD.</string>
     <string name="data_no_enough_space_message">No hay suficiente espacio de almacenamiento en su dispositivo.</string>
     <string name="task_running_hint">El proceso se está ejecutando en segundo plano</string>
-    <string name="task_running_dialog">Copia de seguridad y restauración en progreso. Toque Aceptar para verlo.</string>
+    <string name="task_running_dialog">Copia de seguridad y restauración en progreso. Toca Aceptar para verlo.</string>
     <string name="task_running_backup_hint">Esta tarea se está ejecutanto en segundo plano</string>
     <string name="task_running_restore_hint">Esta tarea se está ejecutandoen segundo plano</string>
-    <string name="task_running_backup_dialog">Procesando copia de seguridad. Toque Aceptar para verlo.</string>
-    <string name="task_running_restore_dialog">Restauración en progreso. Toque Aceptar para ver.</string>
+    <string name="task_running_backup_dialog">Procesando copia de seguridad. Toca Aceptar para verlo.</string>
+    <string name="task_running_restore_dialog">Restauración en progreso. Toca Aceptar para ver.</string>
     <string name="task_service_not_launched">La tarea aún no ha empezado</string>
     <string name="task_local_backup_cancel_dialog">La copia de seguridad no ha terminado. ¿Detener de todos modos?</string>
     <string name="task_cloud_backup_cancel_dialog">La copia de seguridad no ha terminado. ¿Detener de todos modos?</string>
@@ -112,10 +112,10 @@ Tamaño de actualización Delta: %2$s"</string>
     <string name="sc_network_unavailable">Compruebe su conexión e inténtelo de nuevo.</string>
     <string name="sc_bad_request">Solicitud inválida</string>
     <string name="sc_unaccess_password_file">No se puede encontrar la contraseña de la red Wi-Fi</string>
-    <string name="sc_service_unavailable">El servicio Mi Cloud no está disponible</string>
+    <string name="sc_service_unavailable">El servicio Xiaomi Cloud no está disponible</string>
     <string name="sc_unauthorized">Vuelva a iniciar sesión</string>
     <string name="sc_request_timeout">Tiempo de espera agotado</string>
-    <string name="sc_precondition_failed">Primero debe agregar una cuenta de correo a su Mi Cuenta.</string>
+    <string name="sc_precondition_failed">Primero debe agregar una cuenta de correo a su Cuenta Mi.</string>
     <string name="sc_internal_server_error">Error interno del servidor</string>
     <string name="sc_others">Ha ocurrido un error</string>
     <string name="succeed">Completado</string>
@@ -170,12 +170,12 @@ Tamaño de actualización Delta: %2$s"</string>
     <string name="deselect_all">Deseleccionar todo</string>
     <string name="reverse_all">Desmarcar todo</string>
     <string name="refresh">Actualizar</string>
-    <string name="cloud_item_info_summary">" (Local: %1$s | Mi Cloud: %2$s)"</string>
+    <string name="cloud_item_info_summary">" (Local: %1$s | Xiaomi Cloud: %2$s)"</string>
     <string name="cloud_restore_guide">Para restaurar sus datos de usuario para %s, pulse Restaurar</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Descargue la app de Mi Talk e inicie sesión.
 \u0009http://www.miliao.com
 
-2.\u0009Vaya a los Ajustes de Mi Talk y seleccione ”Crear copia de seguridad de contactos en Mi Cuenta”"</string>
+2.\u0009Vaya a los Ajustes de Mi Talk y seleccione ”Crear copia de seguridad de contactos en Cuenta Mi”"</string>
     <string name="import_from_xiaomi_account_hint2">Si ya tiene una copia de seguridad, pulse Siguiente.</string>
     <string name="import_from_xiaomi_account_hint_title">Use Mi Talk para crear copias de seguridad de sus contactos entre dispositivos.</string>
     <string name="guarded_mode_dialog_title">Está en Modo invitado</string>
@@ -190,8 +190,8 @@ Tamaño de actualización Delta: %2$s"</string>
     <string name="enable_encrypt_indicator">Tocar para encriptar</string>
     <string name="enable_encrypt">Activar el cifrado</string>
     <string name="already_enable_encrypt">El cifrado ya está activado</string>
-    <string name="enable_encrypt_summery1">Inicie sesión en su Mi Cuenta para acceder a las copia de seguridad cifradas.</string>
-    <string name="enable_encrypt_summery2">Sus copias de seguridad serán cifradas automáticamente. Para acceder a ellas debe iniciar sesión en su Mi Cuenta.</string>
+    <string name="enable_encrypt_summery1">Inicie sesión en su Cuenta Mi para acceder a las copia de seguridad cifradas.</string>
+    <string name="enable_encrypt_summery2">Sus copias de seguridad serán cifradas automáticamente. Para acceder a ellas debe iniciar sesión en su Cuenta Mi.</string>
     <string name="enable_encrypt_xiaomi_account">Esta copia de seguridad ha sido creada por %1$s. Para restaurar, borre la cuenta actual e inicie sesión como %2$s.</string>
     <string name="button_got_it">Aceptar</string>
     <string name="no_encrypt_password">Sin contraseña</string>
@@ -203,7 +203,7 @@ Tamaño de actualización Delta: %2$s"</string>
     <string name="backup_empty_info_onpad">" Respalde sus datos, ajustes y apps"</string>
     <string name="system_backup_info">Ajustes de sistema y visualización de pantalla Inicio</string>
     <string name="software_backup_info">Datos de apps</string>
-    <string name="account_contact_backup_info">Cuenta Google, Mi Cuenta, y datos de Contactos</string>
+    <string name="account_contact_backup_info">Cuenta de Google, Cuenta Mi, y datos de Contactos</string>
     <string name="files_backup_info">Todos los archivos de la tarjeta SD (incluyendo fotos, canciones, videos, datos de las apps, etc.)</string>
     <string name="select_backup_item">Seleccione elementos</string>
     <string name="restore_data">Seleccione los elementos a restaurar</string>
@@ -232,10 +232,10 @@ Tamaño de actualización Delta: %2$s"</string>
     <string name="feature_title_contacts">Contactos</string>
     <string name="feature_title_sms">Mensajes</string>
     <string name="feature_title_mms">MMS</string>
-    <string name="feature_title_account">Mi Cuenta</string>
+    <string name="feature_title_account">Cuenta Mi</string>
     <string name="feature_title_antispam">Lista de bloqueos</string>
-    <string name="summary_err_backup_encrypting">Iniciar sesión con su Mi Cuenta.</string>
-    <string name="summary_err_restore_encrypting">No se pudo restaurar. Asegúrese de que esta copia de seguridad se realizó utilizando su Mi Cuenta.</string>
+    <string name="summary_err_backup_encrypting">Iniciar sesión con su Cuenta Mi.</string>
+    <string name="summary_err_restore_encrypting">No se pudo restaurar. Asegúrese de que esta copia de seguridad se realizó utilizando su Cuenta Mi.</string>
     <string name="summary_err_backup_no_network">No fue posible conectarse a la red</string>
     <string name="summary_err_restore_no_network">No fue posible conectarse a la red</string>
     <string name="err_authentication_failed">No se pudo autenticar</string>
@@ -269,7 +269,7 @@ Tamaño de actualización Delta: %2$s"</string>
     <string name="notif_trans_auto_reconnecting_title">Conexión interrumpida. Reconectando automáticamente…</string>
     <string name="notif_trans_auto_reconnecting_content">Puede cancelar la tarea actual si es necesario.</string>
     <string name="remote_receive">Recibir</string>
-    <string name="click_to_view">Toque para visualizar</string>
+    <string name="click_to_view">Toca para visualizar</string>
     <string name="trans_one_key_migrate">Mi Mudanza</string>
     <string name="trans_main_tutor">Transferir contactos, historial de llamadas, mensajes, diseño de la pantalla de inicio, apps, ajustes, etc. para un dispositivo nuevo</string>
     <string name="trans_sender">Soy un remitente</string>
@@ -350,7 +350,7 @@ Mantenga los dispositivos cerca uno del otro."</string>
     <string name="trans_show_qr_code_label">Conectar el dispositivo antiguo</string>
     <string name="trans_show_qr_code_tips">Escanear código QR ​​usando un dispositivo antiguo</string>
     <string name="trans_operate_new_phone_tips">"Vaya a Ajustes > Ajustes adicionales > Mi Mudanza
-Toque [Soy el destinatario] para crear un código QR"</string>
+Toca [Soy el destinatario] para crear un código QR"</string>
     <string name="trans_operate_func_one">Método A</string>
     <string name="trans_operate_func_two">Método B</string>
     <string name="trans_operate_old_phone_tips1">"1. Instale Mi Mudanza en su dispositivo antiguo
@@ -398,7 +398,7 @@ para descargar e instalar Mi Mudanza."</string>
     <string name="size_giga_byte">GB</string>
     <string name="trans_connect_failed_title">No se pudo conectar</string>
     <string name="trans_connect_failed_message">No se pudo conectar, vuelva a internarlo o reinicie el dispositivo. En el otro dispositivo, vaya a Ajustes > Ajustes adicionales > Mi Mudanza, y toque [Soy el remitente], o vuelva a abrir Mi Mudanza después del reinicio.</string>
-    <string name="trans_retry">Inténtelo de nuevo</string>
+    <string name="trans_retry">Intentar de nuevo</string>
     <string name="trans_start_failed_title">No se pudo iniciar la transferencia</string>
     <string name="trans_start_failed_message">No se pudo iniciar la transferencia, por favor vuelva a internarlo o reinicie el dispositivo.</string>
     <string name="trans_connect_failed_device_incompatible">Dispositivo incompatible. Cancele la transferencia y vuelva a intentarlo.</string>
@@ -412,14 +412,14 @@ para descargar e instalar Mi Mudanza."</string>
     <string name="trans_intro_desc_1">En un teléfono Mi, conéctese a Wi-Fi y toque \"Soy quien recibe\". Seleccione su dispositivo iOS, inicie sesión en iCloud e importe datos.</string>
     <string name="trans_intro_question_2">%d. ¿Cómo uso Mi Mudanza para transferir datos desde un dispositivo Android?</string>
     <string name="trans_intro_title_new">En un teléfono nuevo:</string>
-    <string name="trans_intro_desc_new">Toque \"Soy destinatario\". Se generará un código QR.</string>
+    <string name="trans_intro_desc_new">Toca \"Soy destinatario\". Se generará un código QR.</string>
     <string name="trans_intro_title_old">En un teléfono antiguo:</string>
-    <string name="trans_intro_desc_old">Toque en \"Soy el remitente\". Escanee el código QR en el teléfono nuevo, espere a que Mi Mudanza averigüe qué archivos enviar y toque \"Enviar\".</string>
-    <string name="trans_intro_desc_old_market">Toque \"Iniciar\". Escanee el código QR en el teléfono nuevo, espere a que Mi Mudanza decida que archivos enviar y toque \"Enviar\".</string>
+    <string name="trans_intro_desc_old">Toca en \"Soy el remitente\". Escanee el código QR en el teléfono nuevo, espere a que Mi Mudanza averigüe qué archivos enviar y toque \"Enviar\".</string>
+    <string name="trans_intro_desc_old_market">Toca \"Iniciar\". Escanee el código QR en el teléfono nuevo, espere a que Mi Mudanza decida que archivos enviar y toque \"Enviar\".</string>
     <string name="trans_intro_question_3">%d. ¿Qué debería hacer si Mi Mudanza deja de funcionar durante el proceso?</string>
     <string name="trans_intro_desc_3">Cancele la transferencia, salga de Mi Mudanza y vuelva a empezar. Los archivos duplicados se sobrescribirán en la nueva transferencia.</string>
     <string name="trans_intro_question_4">%d. ¿Por qué no puedo usar el Wi-Fi durante la transferencia?</string>
-    <string name="trans_intro_desc_4">Mi Mudanza usa Wi-Fi para transferir archivos, por eso no puede conectarse a internet usando Wi-Fi en los dispositivos durante la transferencia. Sin embargo, sí puede utilizar datos móviles. Algunos nuevos dispositivos (p. ej. Mi 6) sí podrían conectarse a internet con Wi-Fi durante las transferencias.</string>
+    <string name="trans_intro_desc_4">Mi Mudanza usa Wi-Fi para transferir archivos, por eso no puede conectarse a internet usando Wi-Fi en los dispositivos durante la transferencia. Sin embargo, sí puede utilizar datos móviles. Algunos nuevos dispositivos (por ejemplo, Mi 6) sí podrían conectarse a internet con Wi-Fi durante las transferencias.</string>
     <string name="trans_intro_desc_4_market">Mi Mudanza usa la red Wi-Fi para transferir archivos. Es por esto que no se puede conectar a internet usando Wi-Fi mientras se realiza una transferencia. Puede usar los datos móviles.</string>
     <string name="trans_intro_question_5">%d. ¿Por qué Mi Mudanza indica que no hay suficiente espacio de almacenamiento en mi teléfono anterior?</string>
     <string name="trans_intro_desc_5">El espacio de almacenamiento en dispositivos antiguos se utiliza para crear paquetes de transferencia. Asegúrese de que tiene al menos 500 MB - 1 GB de espacio disponible antes de iniciar la transferencia.</string>
@@ -431,9 +431,9 @@ para descargar e instalar Mi Mudanza."</string>
     <string name="trans_intro_desc_8">Los datos de WeChat y el historial de conversaciones podrían no transferirse completamente con Mi Mudanza. Vaya a los ajustes de WeChat y cierre la sesión para tener más oportunidades de éxito.</string>
     <string name="trans_intro_question_9">%d. ¿Qué elementos no pueden transferirse?</string>
     <string name="trans_intro_title_account">Cuentas y contraseñas:</string>
-    <string name="trans_intro_desc_account">Por razones de seguridad debe iniciar sesión de nuevo en sus cuentas (p. ej. Mi Cuenta, Exchange, Google, etc) en un nuevo dispositivo.</string>
+    <string name="trans_intro_desc_account">Por razones de seguridad debe iniciar sesión de nuevo en sus cuentas (por ejemplo, Cuenta Mi, Exchange, Google, etc) en un nuevo dispositivo.</string>
     <string name="trans_intro_title_private">Álbum oculto:</string>
-    <string name="trans_intro_desc_private">Mi Mudanza no puede acceder a las fotos del álbum oculto porque están cifradas. Puede restaurar estas fotos desde Mi Cloud en un nuevo dispositivo.</string>
+    <string name="trans_intro_desc_private">Mi Mudanza no puede acceder a las fotos del álbum oculto porque están cifradas. Puede restaurar estas fotos desde Xiaomi Cloud en un nuevo dispositivo.</string>
     <string name="trans_intro_title_multiuser">Datos del Segundo espacio:</string>
     <string name="trans_intro_desc_multiuser">Mi Mudanza no puede acceder a los elementos del Segundo espacio. Muévalos al Primer espacio y ahí abra Mi Mudanza.</string>
     <string name="trans_intro_title_multiapp">Datos de aplicaciones duales:</string>
@@ -453,7 +453,7 @@ para descargar e instalar Mi Mudanza."</string>
     <string name="trans_cancel_selection_title">Permanecer en Mi Mudanza</string>
     <string name="trans_cancel_selection_message">Si sale de Mi Mudanza, las transferencias en curso serán interrumpidas. Espere hasta que las transferencias terminen.</string>
     <string name="trans_select_notification_title">Mi Mudanza está trabajando…</string>
-    <string name="trans_select_notification_message">Toque para ver</string>
+    <string name="trans_select_notification_message">Toca para ver</string>
     <string name="trans_button_stay">Permanecer</string>
     <string name="trans_button_exit">Salir</string>
     <string name="trans_wlan_tips_title">No desactive el Wi-Fi</string>

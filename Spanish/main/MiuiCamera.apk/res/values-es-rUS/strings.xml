@@ -3,7 +3,7 @@
     <string name="camera_setting">Cámara</string>
     <string name="path_settings">Aplicaciones del sistema/Cámara/Ajustes</string>
     <string name="search_settings">Ajustes de la cámara;Calidad;Calidad de imagen;Ubicación de imagen;Detección de rostro;Sonido de cámara</string>
-    <string name="hibernate_hint">Toque la pantalla para activar la cámara</string>
+    <string name="hibernate_hint">Toca la pantalla para activar la cámara</string>
     <string name="camera_error_title">Error de cámara</string>
     <string name="cannot_connect_camera_once">No se pudo acceder a la cámara</string>
     <string name="cannot_connect_camera_twice">No se puede acceder a la cámara aún. Inténtelo reiniciando el dispositivo.</string>
@@ -185,7 +185,7 @@
     <string name="spaceIsLow_content_primary_storage_priority">El almacenamiento USB se está quedando sin espacio</string>
     <string name="spaceIsLow_content_external_storage_priority">La tarjeta SD se está quedando sin espacio</string>
     <string name="video_reach_size_limit">Límite de tamaño alcanzado.</string>
-    <string name="pref_camera_hfr_entry_off">Apagado</string>
+    <string name="pref_camera_hfr_entry_off">Desactivado</string>
     <string name="pref_camera_hfr_entry_2x">60</string>
     <string name="pref_camera_hfr_entry_3x">90</string>
     <string name="pref_camera_hfr_entry_4x">120</string>
@@ -194,10 +194,10 @@
     <string name="pref_video_speed_entry_slow">Lento</string>
     <string name="pano_how_to_use_prompt_to_move">Mueva el dispositivo suavemente</string>
     <string name="pano_how_to_use_prompt_go_on_moving">Continúe…</string>
-    <string name="pano_how_to_use_prompt_start">Toque la flecha para cambiar la dirección y empezar a tomar la foto lentamente.</string>
+    <string name="pano_how_to_use_prompt_start">Toca la flecha para cambiar la dirección y empezar a tomar la foto lentamente.</string>
     <string name="pref_camera_panoramamode_title">Panorámica</string>
-    <string name="tap_to_focus">Toque para enfocar</string>
-    <string name="tap_to_exposure">Toque para ajustar la exposicion manualmente</string>
+    <string name="tap_to_focus">Toca para enfocar</string>
+    <string name="tap_to_exposure">Toca para ajustar la exposicion manualmente</string>
     <string name="accessibility_shutter_button">Botón del obturador</string>
     <string name="accessibility_intent_done_apply">Listo</string>
     <string name="accessibility_review_thumbnail">Foto más reciente</string>
@@ -262,7 +262,7 @@
     <string name="pref_camera_volumekey_function_title">Función de los botones de volumen</string>
     <string name="error_fail_to_start_audio_capture">No se pudo iniciar la captura de audio</string>
     <string name="toast_start_audio_capture">Haga un sonido para tomar una foto</string>
-    <string name="record_back_pressed_hint">Toque de nuevo para detener la grabación</string>
+    <string name="record_back_pressed_hint">Toca de nuevo para detener la grabación</string>
     <string name="toast_burst_snap_finished_summary">Fotos en ráfaga listas, %1$s fotos tomadas</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">No se puede usar el módo ráfaga mientras la captura de audio está activada</string>
     <string name="time_lapse_error">No se puede usar este tamaño de video para intervalo de grabación</string>
@@ -392,7 +392,7 @@
     <string name="confirm_recording_fail_calling_alert">No se puede grabar durante una llamada.</string>
     <string name="confirm_recording_fail_recorder_busy_alert">Otra app ya puede estar utilizando el micrófono del dispositivo para grabar.</string>
     <string name="camera_snap_mode_title">Modo de toma rápida</string>
-    <string name="camera_snap_mode_title_detail">Toque para ver detalles</string>
+    <string name="camera_snap_mode_title_detail">Toca para ver detalles</string>
     <string name="pref_camera_snap_enable_title">Modo de toma rápida</string>
     <string name="pref_camera_snap_entry_take_picture">Modo de disparo rápido (foto)</string>
     <string name="pref_camera_snap_entry_take_movie">Modo de disparo rápido (video)</string>
@@ -515,7 +515,7 @@ y creará una toma con la mínima cantidad de ruido."</string>
     <string name="confirm_install_scanner_title">Instalar Escáner</string>
     <string name="confirm_install_scanner_message">Escáner le permite escanear códigos QR, códigos de barras y más. No tiene que conectarse a internet para instalarlo.</string>
     <string name="pref_camera_focus_shoot_title">Enfoque y toma</string>
-    <string name="pref_camera_focus_shoot_summary">Toque para enfocar y vuelva a tocar para tomar una foto.</string>
+    <string name="pref_camera_focus_shoot_summary">Toca para enfocar y vuelva a tocar para tomar una foto.</string>
     <string name="pref_retain_camera_mode_title">Guardar modo anterior</string>
     <string name="pref_retain_camera_mode_summary">Cambiar cámara al modo usado la vez anterior que abrió la app.</string>
     <string name="pref_fingerprint_capture_title">Obturador con huella dactilar</string>
@@ -528,8 +528,8 @@ si gira su teléfono"</string>
     <string name="pref_camera_front_ai_scene_entry_off">Cámara IA desactivada</string>
     <string name="text_ai_scene_selector_text_on">SILUETA</string>
     <string name="text_ai_scene_selector_text_off">CONTRALUZ</string>
-    <string name="ai_scene_mode_use_hint_text">"La cámara con IA detecta escenas automáticamente
-y optimiza sus fotos basada en esta información"</string>
+    <string name="ai_scene_mode_use_hint_text">"Detecta escenarios usando IA
+y ajusta las preferencias automáticamente"</string>
     <string name="pref_camera_asd_popup_title">Notificar cuando se necesite flash</string>
     <string name="pref_video_captrue_ability_title">Captura de imágenes mientras graba video</string>
     <string name="face_analyze_info">Edad: %2$s (%1$s)</string>

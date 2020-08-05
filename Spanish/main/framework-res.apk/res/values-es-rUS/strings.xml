@@ -23,7 +23,7 @@
     <string name="dialog_alert_title">Atención</string>
     <string name="VideoView_error_text_invalid_progressive_playback">No es posible transmitir este video al dispositivo.</string>
     <string name="selectTextMode">Seleccionar texto</string>
-    <string name="fingerprint_icon_content_description">Ícono de huella digital</string>
+    <string name="fingerprint_icon_content_description">Ícono de huella dactilar</string>
     <string name="paste_as_plain_text">Pegar como texto sin formato</string>
     <string name="autofill">Autocompletar</string>
     <string name="BaMmi">Restricción de llamadas</string>
@@ -45,7 +45,7 @@
     <string name="EmergencyCallWarningSummary">Las llamadas de emergencia requieren una red móvil.</string>
     <string name="EmergencyCallWarningTitle">Las llamadas con Wi-Fi están activadas</string>
     <string name="Midnight">Medianoche</string>
-    <string name="NetworkPreferenceSwitchSummary">Para mejorar la recepción, cambia el tipo de red. Selecciona Configuración > Internet y red > Redes móviles > Tipo de red preferido.</string>
+    <string name="NetworkPreferenceSwitchSummary">Para mejorar la recepción, cambia el tipo de red. Selecciona Ajustes > Internet y red > Redes móviles > Tipo de red preferido.</string>
     <string name="NetworkPreferenceSwitchTitle">No se puede establecer conexión con la red</string>
     <string name="Noon">Mediodía</string>
     <string name="PinMmi">Cambio de PIN</string>
@@ -70,7 +70,7 @@
  Función de accesibilidad actual:
  %1$s
 
- Puedes cambiar la función en Configuración > Accesibilidad."</string>
+ Puedes cambiar la función en Ajustes > Accesibilidad."</string>
     <string name="accessibility_shortcut_warning_dialog_title">¿Usar acceso directo de accesibilidad?</string>
     <string name="action_bar_home_description">Desplazarse hasta la página principal</string>
     <string name="action_bar_home_description_format">%1$s, %2$s</string>
@@ -185,13 +185,13 @@ El ahorro de batería se desactiva de forma automática cuando el dispositivo se
     <string name="bugreport_option_interactive_title">Informe interactivo</string>
     <string name="bugreport_title">Iniciar informe de errores</string>
     <string name="byteShort">B</string>
-    <string name="capability_desc_canCaptureFingerprintGestures">Captura los gestos que se hacen en el sensor de huellas digitales de los dispositivos.</string>
+    <string name="capability_desc_canCaptureFingerprintGestures">Captura los gestos que se hacen en el sensor de huellas dactilares de los dispositivos.</string>
     <string name="capability_desc_canControlMagnification">Controla el posicionamiento y el nivel de zoom de la pantalla.</string>
     <string name="capability_desc_canPerformGestures">Permite presionar, deslizar, pellizcar y usar otros gestos.</string>
     <string name="capability_desc_canRequestFilterKeyEvents">Incluye datos personales, como números de tarjeta de crédito y contraseñas.</string>
     <string name="capability_desc_canRequestTouchExploration">Los elementos que presiones se dirán en voz alta y podrás explorar la pantalla mediante gestos.</string>
     <string name="capability_desc_canRetrieveWindowContent">Inspecciona el contenido de la ventana con la que estés interactuando.</string>
-    <string name="capability_title_canCaptureFingerprintGestures">Gestos del sensor de huellas digitales</string>
+    <string name="capability_title_canCaptureFingerprintGestures">Gestos del sensor de huellas dactilares</string>
     <string name="capability_title_canControlMagnification">Controlar la ampliación de pantalla</string>
     <string name="capability_title_canPerformGestures">Usar gestos</string>
     <string name="capability_title_canRequestFilterKeyEvents">Observar el texto que escribes</string>
@@ -374,20 +374,20 @@ Si tienes preguntas, comunícate con el administrador de tu organización."</str
     <string name="find_next">Buscar siguiente</string>
     <string name="find_on_page">Buscar en la página</string>
     <string name="find_previous">Buscar anterior</string>
-    <string name="fingerprint_acquired_imager_dirty">El sensor de huellas digitales está sucio. Limpia el sensor y vuelve a intentarlo.</string>
-    <string name="fingerprint_acquired_insufficient">No se pudo procesar la huella digital. Vuelve a intentarlo.</string>
-    <string name="fingerprint_acquired_partial">La huella digital se detectó parcialmente. Vuelve a intentarlo.</string>
+    <string name="fingerprint_acquired_imager_dirty">El sensor de huellas dactilares está sucio. Limpia el sensor y vuelve a intentarlo.</string>
+    <string name="fingerprint_acquired_insufficient">No se pudo procesar la huella dactilar. Vuelve a intentarlo.</string>
+    <string name="fingerprint_acquired_partial">La huella dactilar se detectó parcialmente. Vuelve a intentarlo.</string>
     <string name="fingerprint_acquired_too_fast">Moviste el dedo muy rápido. Vuelve a intentarlo.</string>
     <string name="fingerprint_acquired_too_slow">Moviste el dedo muy lento. Vuelve a intentarlo.</string>
-    <string name="fingerprint_error_canceled">Se canceló la operación de huella digital.</string>
-    <string name="fingerprint_error_hw_not_available">El hardware para detectar huellas digitales no está disponible.</string>
+    <string name="fingerprint_error_canceled">Se canceló la operación de huella dactilar.</string>
+    <string name="fingerprint_error_hw_not_available">El hardware para detectar huellas dactilares no está disponible.</string>
     <string name="fingerprint_error_lockout">Demasiados intentos. Vuelve a intentarlo más tarde.</string>
-    <string name="fingerprint_error_lockout_permanent">Realizaste demasiados intentos. Se inhabilitó el sensor de huellas digitales.</string>
-    <string name="fingerprint_error_no_space">No se puede almacenar la huella digital. Elimina una de las existentes.</string>
-    <string name="fingerprint_error_timeout">Finalizó el tiempo de espera para la huella digital. Vuelve a intentarlo.</string>
+    <string name="fingerprint_error_lockout_permanent">Realizaste demasiados intentos. Se inhabilitó el sensor de huellas dactilares.</string>
+    <string name="fingerprint_error_no_space">No se puede almacenar la huella dactilar. Elimina una de las existentes.</string>
+    <string name="fingerprint_error_timeout">Finalizó el tiempo de espera para la huella dactilar. Vuelve a intentarlo.</string>
     <string name="fingerprint_error_unable_to_process">Vuelve a intentarlo.</string>
     <string name="fingerprint_name_template">Dedo %d</string>
-    <string name="fingerprints">Huellas digitales:</string>
+    <string name="fingerprints">Huellas dactilares:</string>
     <string name="floating_toolbar_close_overflow_description">Cerrar la barra de herramientas flotante adicional</string>
     <string name="floating_toolbar_open_overflow_description">Más opciones</string>
     <string name="force_close">Aceptar</string>
@@ -407,7 +407,7 @@ Si tienes preguntas, comunícate con el administrador de tu organización."</str
     <string name="global_action_settings">Configuración</string>
     <string name="global_action_silent_mode_off_status">El sonido está Activado</string>
     <string name="global_action_silent_mode_on_status">El sonido está Desactivado</string>
-    <string name="global_action_toggle_silent_mode">Modo silencioso</string>
+    <string name="global_action_toggle_silent_mode">Modo Silencio</string>
     <string name="global_action_voice_assist">Asistente voz</string>
     <string name="global_actions">Opciones de dispositivo</string>
     <string name="global_actions_airplane_mode_off_status">El modo avión está Desactivado</string>
@@ -905,7 +905,7 @@ Vuelve a intentarlo en %2$d segundos."</string>
     <string name="permdesc_install_shortcut">Permite que una aplicación agregue accesos directos a la pantalla principal sin que el usuario intervenga.</string>
     <string name="permdesc_invokeCarrierSetup">Permite al propietario ejecutar la aplicación de configuración proporcionada por el proveedor. Las aplicaciones normales no deberían necesitar este permiso.</string>
     <string name="permdesc_killBackgroundProcesses">Este permiso autoriza a la aplicación a interrumpir procesos en segundo plano de otras aplicaciones y puede hacer, por lo tanto, que esas aplicaciones dejen de ejecutarse.</string>
-    <string name="permdesc_manageFingerprint">Permite que la aplicación emplee métodos para agregar y eliminar plantillas de huellas digitales para su uso.</string>
+    <string name="permdesc_manageFingerprint">Permite que la aplicación emplee métodos para agregar y eliminar plantillas de huellas dactilares para su uso.</string>
     <string name="permdesc_manageNetworkPolicy">Permite que la aplicación administre las políticas de red y defina reglas específicas de la aplicación.</string>
     <string name="permdesc_manageOwnCalls">Permite que la app transmita las llamadas a través del sistema para mejorar la experiencia de llamadas.</string>
     <string name="permdesc_manageProfileAndDeviceOwners">Permite que las aplicaciones configuren los perfiles de propietarios y el propietario del dispositivo.</string>
@@ -956,7 +956,7 @@ Vuelve a intentarlo en %2$d segundos."</string>
     <string name="permdesc_transmitIr">Permite que la aplicación utilice el transmisor infrarrojo del teléfono.</string>
     <string name="permdesc_uninstall_shortcut">Permite que la aplicación elimine accesos directos de la pantalla principal sin que el usuario intervenga.</string>
     <string name="permdesc_useDataInBackground">Esta app puede ejecutarse en segundo plano, lo que podría aumentar el uso de datos.</string>
-    <string name="permdesc_useFingerprint">Permite que la aplicación utilice el hardware de huellas digitales para realizar la autenticación.</string>
+    <string name="permdesc_useFingerprint">Permite que la aplicación utilice el hardware de huellas dactilares para realizar la autenticación.</string>
     <string name="permdesc_use_sip">Permite que la aplicación realice y reciba llamadas SIP.</string>
     <string name="permdesc_vibrate">Permite que la aplicación controle la vibración.</string>
     <string name="permdesc_wakeLock">Permite que la aplicación evite que el dispositivo entre en estado de inactividad.</string>
@@ -1032,7 +1032,7 @@ para la cuenta %s"</string>
     <string name="permlab_install_shortcut">instalar accesos directos</string>
     <string name="permlab_invokeCarrierSetup">ejecutar la aplicación de configuración proporcionada por el proveedor</string>
     <string name="permlab_killBackgroundProcesses">cerrar otras aplicaciones</string>
-    <string name="permlab_manageFingerprint">Administrar el hardware de huellas digitales</string>
+    <string name="permlab_manageFingerprint">Administrar el hardware de huellas dactilares</string>
     <string name="permlab_manageNetworkPolicy">gestionar la política de la red</string>
     <string name="permlab_manageOwnCalls">Transmite llamadas a través del sistema</string>
     <string name="permlab_manageProfileAndDeviceOwners">administrar perfiles de propietarios y propietario del dispositivo</string>
@@ -1083,7 +1083,7 @@ para la cuenta %s"</string>
     <string name="permlab_transmitIr">Transmitir por infrarrojos</string>
     <string name="permlab_uninstall_shortcut">desinstalar accesos directos</string>
     <string name="permlab_useDataInBackground">usar datos en segundo plano</string>
-    <string name="permlab_useFingerprint">Utilizar hardware de huellas digitales</string>
+    <string name="permlab_useFingerprint">Utilizar hardware de huellas dactilares</string>
     <string name="permlab_use_sip">realizar/recibir llamadas SIP</string>
     <string name="permlab_vibrate">controlar la vibración</string>
     <string name="permlab_wakeLock">evitar que el dispositivo entre en estado de inactividad</string>
@@ -1285,7 +1285,7 @@ Escuchar a un alto volumen durante largos períodos puede dañar tu audición."<
     <string name="shutdown_confirm">Tu dispositivo se apagará.</string>
     <string name="shutdown_confirm_question">¿Deseas apagarlo?</string>
     <string name="shutdown_progress">Apagando…</string>
-    <string name="silent_mode">Modo silencioso</string>
+    <string name="silent_mode">Modo Silencio</string>
     <string name="silent_mode_ring">Timbre activado</string>
     <string name="silent_mode_silent">Timbre desactivado</string>
     <string name="silent_mode_vibrate">Modo vibración</string>
@@ -1312,7 +1312,7 @@ Escuchar a un alto volumen durante largos períodos puede dañar tu audición."<
     <string name="sms_short_code_confirm_never_allow">No permitir nunca</string>
     <string name="sms_short_code_details">&lt;b&gt;Es posible que se apliquen cargos&lt;/b&gt; en la cuenta del dispositivo móvil.</string>
     <string name="sms_short_code_remember_choice">Recordar mi elección</string>
-    <string name="sms_short_code_remember_undo_instruction">Puedes cambiar esta opción más tarde en Configuración > Aplicaciones.</string>
+    <string name="sms_short_code_remember_undo_instruction">Puedes cambiar esta opción más tarde en Ajustes > Aplicaciones.</string>
     <string name="smv_application">La aplicación %1$s (proceso %2$s) ha infringido su política StrictMode de aplicación automática.</string>
     <string name="smv_process">El proceso %1$s ha violado su política StrictMode autoimpuesta.</string>
     <string name="ssl_ca_cert_noti_by_administrator">Por parte de tu administrador del perfil de trabajo</string>

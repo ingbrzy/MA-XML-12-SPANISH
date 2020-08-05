@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about_weather_setting">Acerca de Tiempo</string>
-    <string name="about_weather_setting_feedback">Comentario</string>
+    <string name="about_weather_setting_feedback">Comentarios</string>
     <string name="abrupt_weather_settings_summary_type">Recibir alertas acerca de previsiones de lluvias, cambios en la calidad del aire y otros cambios significativos</string>
     <string name="abrupt_weather_settings_summary_type_a">Interruptor de advertencia de clima inusual</string>
     <string name="abrupt_weather_settings_summary_type_b">Interruptor de advertencia de clima inusual</string>
@@ -13,7 +13,7 @@
     <string name="act_set_city_find_side">Ubicando</string>
     <string name="act_set_city_find_side_error">No puede localizarse el dispositivo</string>
     <string name="act_weather_find_city_added">Ciudad añadida</string>
-    <string name="act_weather_find_city_click_retry">Inténtelo de nuevo</string>
+    <string name="act_weather_find_city_click_retry">Intentar de nuevo</string>
     <string name="act_weather_find_city_net_no_good">No es posible conectarse a la red.</string>
     <string name="act_weather_find_city_no_result">Sin resultados</string>
     <string name="act_weather_find_city_searching">Buscando…</string>
@@ -70,8 +70,8 @@
     <string name="button_abandon">Descartar cambios</string>
     <string name="button_add_city">Añadir ubicación</string>
     <string name="button_allow">Aceptar</string>
-    <string name="button_confirm">De acuerdo</string>
-    <string name="button_exit">No estoy de acuerdo</string>
+    <string name="button_confirm">Aceptar</string>
+    <string name="button_exit">"Rechazar"</string>
     <string name="button_not_allow">Cancelar</string>
     <string name="button_settings_cancel">Cancelar</string>
     <string name="button_settings_confirm">Revocar</string>
@@ -80,7 +80,7 @@
     <string name="button_sure_abandon">¿Descartar cambios?</string>
     <string name="card_vote_item_vs">contra</string>
     <string name="change_alert">Compruebe su conexión de red e inténtelo de nuevo</string>
-    <string name="china_version_first_start_network_msg">Al usar este producto, usted está de acuerdo con %1$s y %2$s de Xiaomi. Esta aplicación necesita conectarse a Internet y acceder a su ubicación para trabajar normalmente.</string>
+    <string name="china_version_first_start_network_msg">"Necesitas aceptar el %1$s y %2$s para poder usar Tiempo. Tiempo necesita acceso a tu ubicación y conectarse a Internet para funcionar correctamente. ¿Aceptar?"</string>
     <string name="city_exceeded_warning">Puedes añadir hasta 10 ciudades</string>
     <string name="clear_net_mock_success">Net mock clear success</string>
     <string name="common_loading_text">Un momento…</string>
@@ -105,11 +105,11 @@
     <string name="daily_forecast_no_data">"No se pudo obtener la información del tiempo
 Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="data_provided_by">Datos proporcionados por</string>
-    <string name="edit_city">Administrar ciudad</string>
+    <string name="edit_city">Administrar ciudades</string>
     <string name="empty_view_net_loading">Actualizado…</string>
     <string name="empty_view_net_unavailable">"No se pudo conectar a la red"</string>
     <string name="empty_view_refresh">Intentar de nuevo</string>
-    <string name="eu_region_version_first_start_network_msg">Al usar este producto, acepta que Xiaomi recoja, procese y use su información personal, incluyendo las coordenadas de las ciudades que ha buscado, y otros tipos de información especificada en nuestra Política de Privacidad. Consulte nuestra Política de Privacidad para aprender como recogemos y procesamos la información. Pulsando sobre \"De acuerdo\", acepta el %1$s y %2$s de Xiaomi.</string>
+    <string name="eu_region_version_first_start_network_msg">"Al usar este producto, aceptas que este producto se conecte a la red, recopile, procese y use tu información personal, incluyendo las coordenadas de las ciudades que has buscado, y otros tipos de información especificada en nuestra Política de Privacidad. Consulta nuestra Política de Privacidad para aprender como recopilamos y procesamos la información. Al pulsar \"Aceptar\", aceptas el %1$s y %2$s de Xiaomi."</string>
     <string name="feedback">Reportar información meteorológica incorrecta</string>
     <string name="feedback_cloudy">Nuboso</string>
     <string name="feedback_foggy">Brumoso</string>
@@ -122,13 +122,13 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="feedback_overcast">Cubierto</string>
     <string name="feedback_report_privacy_msg">Informe contendrá su información de ubicación</string>
     <string name="feedback_result_fail_no_choice">Elige las condiciones del tiempo actuales</string>
-    <string name="feedback_result_fail_no_reason">¡Gracias por tu comentario!</string>
+    <string name="feedback_result_fail_no_reason">¡Gracias por tus comentarios!</string>
     <string name="feedback_result_fail_same_type">Parece que tu informe es diferente del tiempo actual. Vuelve a intentarlo.</string>
     <string name="feedback_result_success">Enviado con éxito, gracias por tus comentarios.</string>
     <string name="feedback_sand">Arena</string>
     <string name="feedback_sandy">Arenoso</string>
     <string name="feedback_sunny">Despejado</string>
-    <string name="first_start_network_title">Conexión a Internet y acceso a la ubicación</string>
+    <string name="first_start_network_title">Conexión a Internet y acceso a ubicación</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">Ahora</string>
     <string name="hourly_forecast_date">d/M</string>
@@ -147,6 +147,7 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="indices_title_pressure">Presión</string>
     <string name="information_settings_title">Información del tiempo</string>
     <string name="install">Instalar</string>
+   <string name="international_details_humidity_title">HUMEDAD</string>
     <string name="international_details_pressure_title">PRESIÓN</string>
     <string name="international_details_real_feel_title">REAL FEEL®</string>
     <string name="international_details_title">Detalles</string>
@@ -191,11 +192,11 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="permission_device_info">Información del dispositivo</string>
     <string name="permission_device_introduce">Para reconocer la ID del dispositivo según el modelo del dispositivo y el IMEI, y para proporcionar servicios localizados según las preferencias de idioma</string>
     <string name="permission_exit">Salir</string>
-    <string name="permission_privacy">Política de privacidad (obligatorio)</string>
+    <string name="permission_privacy">Política de Privacidad (obligatorio)</string>
     <string name="permission_select_all">Seleccionar todo</string>
     <string name="permission_storage">Almacenamiento</string>
     <string name="permission_storage_introduce">Para acceder y guardar archivos en el dispositivo</string>
-    <string name="permission_user_protocol">Acuerdo de usuario (obligatorio)</string>
+    <string name="permission_user_protocol">Acuerdo de Usuario (obligatorio)</string>
     <string name="policy_settings">Términos y condiciones</string>
     <string name="precipitation_degree_five">Torrencial</string>
     <string name="precipitation_degree_four">Fuerte</string>
@@ -214,6 +215,8 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="pull_fresh_updating">Actualizando…</string>
     <string name="radar_cloud_image_title">Mapa radar</string>
     <string name="radar_cloud_update_time">Antes %1$s</string>
+     <string name="rain_sound_setting_summary_text">Acompaña los cambios climáticos con efectos de sonido</string>
+    <string name="rain_sound_setting_title_text">Efectos de sonido</string>
     <string name="rainfall_settings_summary">Alertas por lluvias</string>
     <string name="rainfall_settings_title">Aguacero</string>
     <string name="real_time_sunrise">Amanecer %1$s</string>
@@ -225,13 +228,19 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="receive_net_mock_success">Net mock receive success</string>
     <string name="refresh_fail">No se pudo conectar a la red</string>
     <string name="reminder_from_xiaomi_weather_app">Alertas Mi Tiempo</string>
-    <string name="retry">Inténtelo de nuevo</string>
+    <string name="retry">Intentar de nuevo</string>
     <string name="search_weather">El tiempo</string>
     <string name="search_weather_keywords">Temperatura;Previsión meteorológica;El tiempo;Calidad del aire;Grado de contaminación;Humedad</string>
     <string name="set">Ajustes</string>
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>
     <string name="settings">Ajustes</string>
+    <string name="settings_atmospheric_pressure_atm">Atmósfera estándar (atm)</string>
+    <string name="settings_atmospheric_pressure_hpa">Hectopascal (hPa)</string>
+    <string name="settings_atmospheric_pressure_inhg">Pulgada de mercurio (inHg)</string>
+    <string name="settings_atmospheric_pressure_mbar">Milibar (mbar)</string>
+    <string name="settings_atmospheric_pressure_mmhg">Milímetro de mercurio (mmHg)</string>
+    <string name="settings_atmospheric_pressure_title">Unidades de presion atmosférica</string>
     <string name="share">Compartir</string>
     <string name="share_button">Compartir</string>
     <string name="share_menu_title">Compartir</string>
@@ -270,7 +279,7 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="update_setting_title_text">Actualización de información del tiempo</string>
     <string name="updated_a_moment_ago">Actualizado hace un momento</string>
     <string name="updating">Actualizando…</string>
-    <string name="user_agreement">Acuerdo de usuario</string>
+    <string name="user_agreement">Acuerdo de Usuario</string>
     <string name="view_forecast_item_yesterday">Ayer</string>
     <string name="view_indexes_item_today">Hoy</string>
     <string name="view_indexes_item_tommorrow">Mañana</string>

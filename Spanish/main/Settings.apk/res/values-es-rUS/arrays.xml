@@ -121,7 +121,7 @@
         <item>Agregar buzón de voz</item>
         <item>Usar SIP</item>
         <item>Procesar llamada saliente</item>
-        <item>Huella digital</item>
+        <item>Huella dactilar</item>
         <item>Sensores corporales</item>
         <item>Leer emisiones móviles</item>
         <item>Ubicación ficticia</item>
@@ -188,7 +188,7 @@
         <item>agregar buzón de voz</item>
         <item>usar SIP</item>
         <item>procesar llamada saliente</item>
-        <item>huella digital</item>
+        <item>huella dactilar</item>
         <item>sensores corporales</item>
         <item>leer emisiones móviles</item>
         <item>ubicación ficticia</item>
@@ -696,7 +696,7 @@
         <item>Pantalla de bloqueo</item>
         <item>Contraseña de privacidad</item>
         <item>Modo Niños</item>
-        <item>Administrador de Archivos</item>
+        <item>Gestor de archivos</item>
         <item>Bloqueo de apps</item>
         <item>Segundo espacio</item>
     </string-array>
@@ -880,7 +880,7 @@
         <item>Crear directorio: mkdir /media/mtp</item>
         <item>Confirme los permisos de grupo de usuario en el actual grupo de usuario de fuse</item>
         <item>Iniciar sesión de nuevo</item>
-        <item>Acceso al dispositivo montado: mtpfs /media/mtp por medio del Administrador de Archivos; lo mismo para el directorio local.</item>
+        <item>Acceso al dispositivo montado: mtpfs /media/mtp por medio del Gestor de archivos; lo mismo para el directorio local.</item>
         <item>"Desinstalar dispositivo: fusermount -u /media/mtp
 Nota: ¡Sólo para Ubuntu 8.04!"</item>
     </string-array>
@@ -1182,7 +1182,7 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
         <item>Dispositivo conectado</item>
     </string-array>
     <string-array name="whetstone_level_entries">
-        <item>Apagado</item>
+        <item>Desactivado</item>
         <item>Bajo</item>
         <item>Medio</item>
         <item>Alto</item>

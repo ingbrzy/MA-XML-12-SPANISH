@@ -5,7 +5,7 @@
     <string name="HIPS_Perm_Call_Desc">Llamar a números de teléfono directamente</string>
     <string name="HIPS_Perm_Contact_Desc">Modificar y eliminar contactos</string>
     <string name="HIPS_Perm_PhoneID_Desc">Acceder al número de teléfono, IMEI e IMSI</string>
-    <string name="HIPS_Perm_PhoneID_Desc_Q">Acceder al número de teléfono y estado del dispositivo</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">acceder al número de teléfono y estado del dispositivo</string>
     <string name="HIPS_Perm_Read_Call_Log_Desc">Leer el historial de llamadas</string>
     <string name="HIPS_Perm_Read_Contact_Desc">Leer tus contactos</string>
     <string name="HIPS_Perm_Read_SMS_Desc">Leer tus mensajes SMS</string>
@@ -234,7 +234,7 @@
     <string name="app_behavior_monitor_tips_if_trust">Puedes desactivar las notificaciones sobre acciones delicadas si confias en esta aplicación</string>
     <string name="app_behavior_monitor_tips_key">Notificaciones sobre acciones delicadas</string>
     <string name="app_behavior_monitor_tips_summary">Puedes recibir notificaciones cuando las aplicaciones graben audio, accedan a tu ubicación o realicen otras acciones delicadas en segundo plano.</string>
-    <string name="app_behavior_no_recorder">No se pudo encontrar resultados</string>
+    <string name="app_behavior_no_recorder">No se encontraron resultados</string>
     <string name="app_behavior_notification_audio_now_one">%1s está grabando audio</string>
     <string name="app_behavior_notification_audio_now_two" formatted="false">%1s y %2s están grabando audio</string>
     <string name="app_behavior_notification_camera_one">%1s está tomando fotos</string>
@@ -365,8 +365,8 @@
     <string name="app_manager_find_apps">Encontrar aplicaciones</string>
     <string name="app_manager_force_stop_dlg_text">Si fuerza el cierre de una aplicación, esta puede volverse inestable.</string>
     <string name="app_manager_force_stop_dlg_title">¿Forzar detención?</string>
-    <string name="app_manager_full_screen_summary">Permitir que las aplicaciones seleccionadas funcionen en el Modo pantalla completa</string>
-    <string name="app_manager_full_screen_title">Modo pantalla completa</string>
+    <string name="app_manager_full_screen_summary">Permitir que las aplicaciones seleccionadas funcionen en el Modo de pantalla completa</string>
+    <string name="app_manager_full_screen_title">Modo de pantalla completa</string>
     <string name="app_manager_globel_other_perm_title">Otros permisos</string>
     <string name="app_manager_globel_perm_summary">Administrar permisos relacionados con la ubicación, almacenamiento, mensajes y contactos.</string>
     <string name="app_manager_globel_perm_title">Permisos de la aplicación</string>
@@ -580,7 +580,7 @@ No perderás ningún dato de la aplicación."</string>
     <string name="auto_task_operation_memory_clean_lockscreen">Limpiar memoria</string>
     <string name="auto_task_operation_mobile_data">Datos móviles</string>
     <string name="auto_task_operation_modify_string">Editar %s</string>
-    <string name="auto_task_operation_mute">Modo silencio</string>
+    <string name="auto_task_operation_mute">Modo Silencio</string>
     <string name="auto_task_operation_no_op">Ninguno</string>
     <string name="auto_task_operation_open">Activada</string>
     <string name="auto_task_operation_open_string">Activar %s</string>
@@ -826,7 +826,7 @@ No perderás ningún dato de la aplicación."</string>
     <string name="daily_card_setting_fragment_month_package">Paquete de datos mensual</string>
     <string name="daily_card_setting_fragment_package_summary">Si tu plan de datos diario contiene un paquete de datos mensual, será usado antes del paquete diario.</string>
     <string name="daily_limit_and_lock_screen">Aviso de consumo de datos</string>
-    <string name="daily_limit_network_available_body">Toque para ver las estadísticas del uso de datos.</string>
+    <string name="daily_limit_network_available_body">Toca para ver las estadísticas del uso de datos.</string>
     <string name="daily_limit_over_message">Ha superado el límite diario de datos.</string>
     <string name="daily_pkg_traffic">Límite de datos máximo</string>
     <string name="data_booster_desc">Desactivar otras ranuras SIM para mantener la conexión estable</string>
@@ -835,12 +835,12 @@ No perderás ningún dato de la aplicación."</string>
     <string name="data_usage_correction_timeout_title">Tiempo de sincronización de datos agotado</string>
     <string name="data_usage_disabled_dialog">Has alcanzado el límite de datos de tu plan. Si sobrepasas el límite, tu operadora podría cobrar por cargos adicionales.</string>
     <string name="data_usage_disabled_dialog_enable">Activar los datos móviles</string>
-    <string name="data_usage_leisure_warning_body">Toque para ver detalles del uso de datos.</string>
+    <string name="data_usage_leisure_warning_body">Toca para ver detalles del uso de datos.</string>
     <string name="data_usage_leisure_warning_title">Límite de uso datos fuera de hora punta</string>
-    <string name="data_usage_limit_body">Toque para activar los datos móviles.</string>
+    <string name="data_usage_limit_body">Toca para activar los datos móviles.</string>
     <string name="data_usage_mobile_dialog_title">Ya usaste 5GB de datos móviles. MIUI apagó los datos móviles.</string>
     <string name="data_usage_mobile_limit_title">Límite de datos móviles alcanzados</string>
-    <string name="data_usage_no_total_package_body">Toque para establecer el límite de datos</string>
+    <string name="data_usage_no_total_package_body">Toca para establecer el límite de datos</string>
     <string name="data_usage_no_total_package_body_dual">No se ha establecido límite de datos para %s</string>
     <string name="data_usage_no_total_package_title">Establecer límite de uso de datos</string>
     <string name="data_usage_protected_dialog_message">"MIUI apagó los datos móviles para evitar que genere          gastos adicionales.
@@ -848,7 +848,7 @@ No perderás ningún dato de la aplicación."</string>
 Su operadora puede cobrarle cargos adicionales si vuelve a activar los datos móviles."</string>
     <string name="data_usage_protected_notify_message">MIUI apagó los datos móviles para evitar que genere tarifas adicionales de la operadora.</string>
     <string name="data_usage_protected_notify_title">Ya usaste 5GB de datos móviles</string>
-    <string name="data_usage_warning_body">Toque para ver detalles del uso de datos.</string>
+    <string name="data_usage_warning_body">Toca para ver detalles del uso de datos.</string>
     <string name="data_usage_warning_body_notify">Pulsa para ver detalles</string>
     <string name="data_usage_warning_title_notify">Superó su límite de datos</string>
     <string name="databooster_tips_message">Active esta opción para restringir todas las tarjetas SIM, excepto la tarjeta de datos. Desactive esta función si se producen errores en los juegos que elija.</string>
@@ -1069,7 +1069,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="firewall_mobile">Datos móviles</string>
     <string name="firewall_mobile_dialog_message">La aplicación instalada no podrá conectarse a internet con datos móviles cuando esto esté desactivado.</string>
     <string name="firewall_network_allow">Se permitió a %1$s usar la conexión %2$s</string>
-    <string name="firewall_network_restrict_notify_message">Toque para cambiar los ajustes.</string>
+    <string name="firewall_network_restrict_notify_message">Toca para cambiar los ajustes.</string>
     <string name="firewall_network_restrict_notify_mobile">Datos móviles</string>
     <string name="firewall_partial">Permitir a algunas aplicaciones conectarse de la siguiente forma</string>
     <string name="firewall_restrict_all">Restringir a todas las aplicaciones conectarse de la siguiente forma</string>
@@ -1137,7 +1137,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="foreground_traffic">Primer plano %s</string>
     <string name="forget_password_button_text">&lt;u&gt;¿Contraseña olvidada?&lt;/u&gt;</string>
     <string name="forget_password_button_text_normal">Contraseña olvidada</string>
-    <string name="forget_pattern">&lt;u&gt;Contraseña olvidada&lt;/u&gt;</string>
+    <string name="forget_pattern"><u>Contraseña olvidada</u></string>
     <string name="forground_network_optimization_summary">Dar más ancho de banda a los juegos ejecutándose en segundo plano</string>
     <string name="forground_network_optimization_title">Prioridad de ancho de banda</string>
     <string name="free_send_net_booster">Optimización gratuita de velocidad de red</string>
@@ -1162,7 +1162,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="function_shield_summary">Restringir funciones del sistema seleccionadas al jugar a juegos</string>
     <string name="function_shield_three_finger">Restringir gestos de captura de pantalla</string>
     <string name="function_shield_title">Experiencia mejorada</string>
-    <string name="function_shield_voice_trigger">No activar Mi IA con la voz</string>
+    <string name="function_shield_voice_trigger">No activar Mi AI con la voz</string>
     <string name="fw_blocked">Lista negra</string>
     <string name="fw_blocked_count">"Bloqueados "</string>
     <string name="fw_blocked_join">" y "</string>
@@ -1361,7 +1361,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="gs_autobooster_detail">Aumentar velocidad para juegos seleccionados automáticamente</string>
     <string name="gs_autobooster_dialog_message">Si no estás usando el aumento de velocidad de Xunyou abre los juegos en la página designada.</string>
     <string name="gs_call_handsfree">Contestar llamadas con el manos libres</string>
-    <string name="gs_call_handsfree_mute">Modo silencioso</string>
+    <string name="gs_call_handsfree_mute">Modo Silencio</string>
     <string name="gs_dialog_confirm_close_msg">El acceso directo será eliminado de su Pantalla de inicio. Ve a Seguridad &gt; Ajustes para restablecerlo.</string>
     <string name="gs_dialog_confirm_close_title">Desactivar</string>
     <string name="gs_forbid_autosync">Restringir sincronización en segundo plano</string>
@@ -1476,7 +1476,7 @@ Los vídeos se guardarán en Game Turbo y Momentos clave."</string>
     <string name="left_precent">60%</string>
     <string name="legal_workday">Días laborables</string>
     <string name="legal_workday_invalidate">Lun-Vie (información de festivos caducada)</string>
-    <string name="legal_workday_invalidate_message">Toque para actualizar la información de los festivos.</string>
+    <string name="legal_workday_invalidate_message">Toca para actualizar la información de los festivos.</string>
     <string name="legal_workday_message">(Omitir festivos)</string>
     <string name="leisure_usage_dialog_message">"Has alcanzado el límite de datos fuera de hora punta.
 
@@ -1489,7 +1489,7 @@ La compañía telefónica puede cobrar cargos adicionales si usas la conexión d
     <string name="lock_all_title">Bloquear todas las aplicaciones</string>
     <string name="lock_mode_title">Ajustes de bloqueo</string>
     <string name="lock_screen_traffic_guide_notification_summary">%s usados en la pantalla de bloqueo</string>
-    <string name="lock_screen_traffic_guide_notification_title">Toque para administrar el uso de datos.</string>
+    <string name="lock_screen_traffic_guide_notification_title">Toca para administrar el uso de datos.</string>
     <string name="lock_screen_traffic_notify_body">Bloqueado por %2$s a las %1$s, datos usados %3$s</string>
     <string name="lock_screen_traffic_purchase_textview">Comprar datos móviles</string>
     <string name="lock_screen_traffic_warn_title">Notificaciones en pantalla de bloqueo</string>
@@ -1513,7 +1513,7 @@ La compañía telefónica puede cobrar cargos adicionales si usas la conexión d
     <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
     <string name="lockpattern_tutorial_continue_label">Siguiente</string>
     <string name="lockpattern_tutorial_continue_label_confirm">Pulsa \"OK\"</string>
-    <string name="lockpattern_tutorial_continue_label_next">Toque \"Siguiente\"</string>
+    <string name="lockpattern_tutorial_continue_label_next">Toca \"Siguiente\"</string>
     <string name="lockscreen_access_pattern_cell_added">Celda añadida</string>
     <string name="lockscreen_access_pattern_cleared">Patrón borrado</string>
     <string name="lockscreen_access_pattern_detected">Patrón completado</string>
@@ -1685,7 +1685,7 @@ responda"</string>
     <string name="miui_optimization_close_final_tip">¿Desactivar la optimización de MIUI?</string>
     <string name="miui_optimization_close_title">Esta característica está destinada a desarrolladores y puede no ser conveniente para usuarios generales. Desactivar la optimización de MIUI puede provocar los siguientes cambios:</string>
     <string name="mixed_need_to_confirm">Ingresa nuevamente para confirmar</string>
-    <string name="mixed_password_confirmed_header_confirm">Establecido con éxito. Toque para confirmar.</string>
+    <string name="mixed_password_confirmed_header_confirm">Establecido con éxito. Toca para confirmar.</string>
     <string name="mixed_password_confirmed_header_continue">Establecido con éxito. Pulsa \"Siguiente\".</string>
     <string name="mixed_pattern_entered_header">Contraseña establecida con éxito</string>
     <string name="mixed_recording_intro_header">Introduce %1$s-%2$s caracteres</string>
@@ -1806,7 +1806,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="notify_channel_name_security">Seguridad del sistema</string>
     <string name="notify_channel_optimize">Notificaciones de seguridad</string>
     <string name="notify_daily_data_usage_body">Para limitar el uso de datos automáticamente, configura tu plan de datos mensual.</string>
-    <string name="notify_daily_limit_body">Toque para establecer el límite de datos.</string>
+    <string name="notify_daily_limit_body">Toca para establecer el límite de datos.</string>
     <string name="notify_daily_limit_title">%s usados hoy</string>
     <string name="notify_daily_limit_title_for_slotnum">%1$s ha usado %2$s hoy</string>
     <string name="notify_diving_mode_exception_close">Modo inmersivo desactivado con éxito</string>
@@ -1819,7 +1819,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="notify_weekly_traffic_title">%s usados esta semana</string>
     <string name="notify_weekly_traffic_title_for_slotnum">%1$s ha usado %2$s esta semana</string>
     <string name="numeric_need_to_confirm">Ingresa nuevamente para confirmar</string>
-    <string name="numeric_password_confirmed_header_confirm">Establecido con éxito. Toque para confirmar.</string>
+    <string name="numeric_password_confirmed_header_confirm">Establecido con éxito. Toca para confirmar.</string>
     <string name="numeric_password_confirmed_header_continue">Establecido con éxito. Pulsa \"Siguiente\".</string>
     <string name="numeric_pattern_entered_header">PIN establecido con éxito</string>
     <string name="numeric_recording_intro_header">Introduzca la contraseña</string>
@@ -1902,9 +1902,9 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="other_exception_summary">No está conectado a internet</string>
     <string name="other_exception_title">Comprobando si hay otros problemas</string>
     <string name="other_milink_connect">No se puede emitir. Otra función está siendo emitida.</string>
-    <string name="package_change_notification_summary">Toque para saber más.</string>
+    <string name="package_change_notification_summary">Toca para saber más.</string>
     <string name="package_change_notification_title">Ajustar automáticamente el límite de datos</string>
-    <string name="package_setted_error_notification_summary">Toque para ver detalles del uso de datos.</string>
+    <string name="package_setted_error_notification_summary">Toca para ver detalles del uso de datos.</string>
     <string name="package_setted_error_notification_titile">No se pudo establecer el plan de datos</string>
     <string name="packages_subtitle">Paquetes incluidos</string>
     <string name="passwordIncorrect">Usuario o contraseña incorrectos</string>
@@ -2135,7 +2135,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="power_save_mode_close_warn_text">El Ahorro de batería restringe la actividad en segundo plano y la sincronización. Si eliges activiarlo cuando tu dispositivo está cargado, algunas funciones pueden no funcionar correctamente. ¿Mantener encendido el Ahorrador de batería cuando tu dispositivo está cargado?</string>
     <string name="power_save_mode_close_warn_title">Ahorro de batería</string>
     <string name="power_save_mode_close_xiaoai_wakeup_summary">Funciona cuando el Ahorro de batería está activado</string>
-    <string name="power_save_mode_close_xiaoai_wakeup_title">No activar Mi IA con la voz</string>
+    <string name="power_save_mode_close_xiaoai_wakeup_title">No activar Mi AI con la voz</string>
     <string name="power_save_mode_enable">Ahorro de batería</string>
     <string name="power_save_mode_end_time">Finalizar</string>
     <string name="power_save_mode_ontime_enabled">Programar hora para cambiar modo</string>
@@ -2459,12 +2459,12 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="risk_count_suffix" />
     <string name="roaming_allow_network_dialog_title">¿Permitir itinerancia de datos móviles?</string>
     <string name="roaming_limit_dialog_message">Límite de datos diario en itinerancia alcanzado.</string>
-    <string name="roaming_limit_network_notification_body">Toque para ver redes de datos disponibles</string>
+    <string name="roaming_limit_network_notification_body">Toca para ver redes de datos disponibles</string>
     <string name="roaming_limit_notification_title">Límite de datos diario en itinerancia alcanzado</string>
-    <string name="roaming_limit_warning_notification_body">Toque para ver el uso de datos.</string>
-    <string name="roaming_not_start_body">Toque para ver la configuración de itinerancia de datos.</string>
+    <string name="roaming_limit_warning_notification_body">Toca para ver el uso de datos.</string>
+    <string name="roaming_not_start_body">Toca para ver la configuración de itinerancia de datos.</string>
     <string name="roaming_not_start_title">Itinerancia de datos</string>
-    <string name="roaming_start_body">Toque para ver las excepciones de itinerancia de datos.</string>
+    <string name="roaming_start_body">Toca para ver las excepciones de itinerancia de datos.</string>
     <string name="roaming_start_title">Itinerancia de datos</string>
     <string name="root">Acceso raíz</string>
     <string name="root_apply_step_1">¿Permitir a %s acceso raíz?</string>
@@ -2536,7 +2536,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="settings_category_overheat">Calentamiento</string>
     <string name="settings_choice_no_notification">Desactivado</string>
     <string name="settings_power_save_ontime_title">Programar</string>
-    <string name="shield_keyboard_detail">Toque doble en los botones para volver a activarlos</string>
+    <string name="shield_keyboard_detail">Toca doble en los botones para volver a activarlos</string>
     <string name="shield_keyboard_summary">Restringir botones y gestos a pantalla completa durante los juegos</string>
     <string name="shield_keyboard_title">Restringir botones y gestos</string>
     <string name="shortcut_title_scan">Analizar</string>
@@ -2557,7 +2557,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="signed_rule_three">3. Cada inicio de mes se eliminan los días que te has registrado previamente. Los días restantes no se vuelven a contar.</string>
     <string name="signed_rule_two">2. Solo puedes obtener 1 aceleración Xunyou por mes.</string>
     <string name="sim_location_error_dialog_message">La SIM que estás usando es de %1$s. Esta ubicación es diferente a la que estableciste manualmente (%2$s). ¿Quieres cambiar la ubicación de la SIM a %3$s?</string>
-    <string name="sim_location_error_notify_message">Toque para cambiar la ubicación de la SIM.</string>
+    <string name="sim_location_error_notify_message">Toca para cambiar la ubicación de la SIM.</string>
     <string name="sim_location_error_notify_title">Error de tarjeta SIM</string>
     <string name="sim_not_ready_toast">Tarjeta SIM no está lista</string>
     <string name="sim_state_exception_summary">El estado de la tarjeta SIM indica que algo podría estar funcionando mal en la tarjeta.</string>
@@ -2708,7 +2708,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="st_title_antispam_mode">Reglas</string>
     <string name="st_title_back_sound_busy">Ocupado</string>
     <string name="st_title_back_sound_choose">Respuesta automática</string>
-    <string name="st_title_back_sound_closed">Apagado</string>
+    <string name="st_title_back_sound_closed">Desactivado</string>
     <string name="st_title_back_sound_none">El número no existe</string>
     <string name="st_title_back_sound_stop">Fuera de servicio</string>
     <string name="st_title_backsound_group">Respuesta automática</string>
@@ -3033,7 +3033,7 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="title_device_not_root">Acceso raíz no concedido</string>
     <string name="title_do_not_disturb">¿No puedes oir el tono de llamada?</string>
     <string name="title_eye_shield">¿El color de la pantalla no parece el correcto?</string>
-    <string name="title_find_device">Localizar dispositivo</string>
+    <string name="title_find_device">Encontrar dispositivo</string>
     <string name="title_first_aid_kit">Solucionar problemas</string>
     <string name="title_flow_notification">Notificación de datos móviles</string>
     <string name="title_flow_purchase">Comprar datos móviles</string>
@@ -3125,7 +3125,7 @@ Rolled over extra data"</string>
     <string name="traffic_correction_start_correction">Conectando con los servidores de su operadora…</string>
     <string name="traffic_correction_start_correction_failed">No se pudo enviar la petición. Verifica los ajustes de tu operador.</string>
     <string name="traffic_correction_success">Uso de datos actualizado</string>
-    <string name="traffic_correction_success_notify_message">Toque para ver los detalles.</string>
+    <string name="traffic_correction_success_notify_message">Toca para ver los detalles.</string>
     <string name="traffic_limit_error_alert_body">Los datos restantes para este mes (%1$s) son mayores que los del plan mensual (%2$s). ¿Cambiar el plan mensual?</string>
     <string name="traffic_limit_error_alert_package">"
 
@@ -3134,7 +3134,7 @@ Los datos restantes incluyen datos excedentes del mes anterior."</string>
     <string name="traffic_none">Ninguno</string>
     <string name="traffic_over_purchase_link">"Has alcanzado el límite de uso de datos de tu plan.&lt;br/&gt;Si lo superas, tu operador podría cobrar gastos adicionales.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Toca para recargar.&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="traffic_provider_no_sim">Tarjeta SIM no instalada</string>
-    <string name="traffic_purchase_body">Toque para recargar su saldo.</string>
+    <string name="traffic_purchase_body">Toca para recargar su saldo.</string>
     <string name="traffic_setting_fragment_area">Ubicación</string>
     <string name="traffic_setting_fragment_brand">Marca</string>
     <string name="traffic_setting_fragment_button1_text">Cancelar</string>

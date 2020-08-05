@@ -58,7 +58,7 @@
     <string name="accessibility_action_divider_top_full">Pantalla superior entera</string>
     <string name="accessibility_airplane_mode">Modo avión.</string>
     <string name="accessibility_ambient_display_charging">Cargando</string>
-    <string name="accessibility_aspect_button">Modo pantalla completa</string>
+    <string name="accessibility_aspect_button">Modo de pantalla completa</string>
     <string name="accessibility_assistant">Bola flotante</string>
     <string name="accessibility_back">Atrás</string>
     <string name="accessibility_battery_details">Abrir detalles de la batería</string>
@@ -72,7 +72,7 @@
     <string name="accessibility_bluetooth_disconnected">Bluetooth desconectado.</string>
     <string name="accessibility_bluetooth_name">Conectado a %s.</string>
     <string name="accessibility_bluetooth_tether">Anclaje Bluetooth.</string>
-    <string name="accessibility_brightness">Brillo de pantalla</string>
+    <string name="accessibility_brightness">Brillo de la pantalla</string>
     <string name="accessibility_brightness_slider">Indicador de luminosidad</string>
     <string name="accessibility_camera_button">Cámara</string>
     <string name="accessibility_carrier_network_change_mode">Cambiando red del operador.</string>
@@ -125,7 +125,7 @@
     <string name="accessibility_ethernet_disconnected">Ethernet desconectado.</string>
     <string name="accessibility_face_dialog_face_icon">Icono de la cara</string>
     <string name="accessibility_fingerprint_dialog_app_icon">"Icono de aplicación"</string>
-    <string name="accessibility_fingerprint_dialog_fingerprint_icon">"Icono de huella digital"</string>
+    <string name="accessibility_fingerprint_dialog_fingerprint_icon">"Icono de huella dactilar"</string>
     <string name="accessibility_fingerprint_dialog_help_area">"Área de mensajes de ayuda"</string>
     <string name="accessibility_gps_acquiring">Adquiriendo GPS.</string>
     <string name="accessibility_gps_enabled">GPS activado.</string>
@@ -323,9 +323,9 @@
     <string name="as_unimportant">No importante</string>
     <string name="ask_me_later_bubbles">Pregúntame luego</string>
     <string name="aspect_cancel">Cancelar</string>
-    <string name="aspect_message">Esta aplicación se lanzará de nuevo en modo de pantalla completa. Si encuentra algún problema, puede desactivar el modo de pantalla completa para esta aplicación en Configuración &gt; Visualización de pantalla completa &gt; Modo de pantalla completa.</string>
+    <string name="aspect_message">Esta aplicación se lanzará de nuevo en modo de pantalla completa. Si encuentras algún problema, puedes desactivar el modo de pantalla completa para esta aplicación en Ajustes &gt; Pantalla completa &gt; Modo de pantalla completa.</string>
     <string name="aspect_ok">Aceptar</string>
-    <string name="aspect_title">Modo pantalla completa</string>
+    <string name="aspect_title">Modo de pantalla completa</string>
     <string name="audio_effect_custom">Configurar</string>
     <string name="audio_effect_info">Optimizar audio</string>
     <string name="audio_effect_settings">Selecciona el tipo de auriculares</string>
@@ -551,18 +551,16 @@
     <string name="connected_via_network_scorer_default">Conectado automáticamente vía proveedor de clasificaciones de redes</string>
     <string name="connected_via_passpoint">Conectado vía %1$s</string>
     <string name="content_description_menu_button">Menú</string>
-    <string name="control_quick_settings_tiles_stock">linterna,silencio,captura de pantalla,modo avión,bloqueo de pantalla,gps,rotación,modo papel,noche,modo silencioso,ahorro de batería,ahorro extremo de batería,modo de potencia,vibración,punto de acceso,sincronización,botón de pantalla,potencia inalámbrica,nfc,edición,modo de manejo</string>
-    <string name="control_quick_settings_tiles_super_save">gps,nfc,captura de pantalla,vibrar</string>
     <string name="convert_to_fbe_warning">"Convertir partición de datos en encriptación basada en archivo.
- Alerta: Esto eliminará todos tus datos.
+ ¡¡Alerta!! Esto eliminará todos tus datos.
  Esta función está siendo desarrollada y puede no funcionar correctamente.
  Presiona 'Deslizar y convertir…' para continuar."</string>
     <string name="convert_to_file_encryption">Convertir en archivo de encriptación</string>
     <string name="convert_to_file_encryption_done">Archivos encriptados</string>
     <string name="convert_to_file_encryption_enabled">Convertir…</string>
     <string name="copy">Copiar</string>
-	<string name="counter_description_talkback">Temporizador</string>
-	<string name="counter_title">Temporizador</string>
+    <string name="counter_description_talkback">Temporizador</string>
+    <string name="counter_title">Temporizador</string>
     <string name="custom_lock_wallpaper_enter">Introducir</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (rojo-verde)</string>
     <string name="daltonizer_mode_disabled">Deshabilitada</string>
@@ -677,7 +675,7 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="enable_bluetooth_message">Para conectar un teclado a tu tablet, activa el Bluetooth primero.</string>
     <string name="enable_bluetooth_title">¿Activar Bluetooth?</string>
     <string name="enable_demo_mode">Habilitar modo demo</string>
-    <string name="enable_extreme_power_save_mode">"Ahorrador de batería extremo"</string>
+    <string name="enable_extreme_power_save_mode">"Ahorro de batería extremo"</string>
     <string name="enable_freeform_support">Habilitar ventanas de forma libre</string>
     <string name="enable_freeform_support_summary">Habilitar compatibilidad con ventanas de forma libre experimental.</string>
     <string name="enable_gpu_debug_layers">"Habilitar capas de depuración GPU"</string>
@@ -700,7 +698,7 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="ext_media_badremoval_notification_title">La tarjeta SD se ha retirado de forma imprevista</string>
     <string name="ext_media_checking_notification_message">Comprobando errores.</string>
     <string name="ext_media_checking_notification_title">Preparando tarjeta SD</string>
-    <string name="ext_media_mountable_notification_message">Toca para abrir Administrador de Archivos</string>
+    <string name="ext_media_mountable_notification_message">Toca para abrir Gestor de archivos</string>
     <string name="ext_media_mountable_notification_title">Dispositivo USB de almacenamiento conectado</string>
     <string name="ext_media_nofs_notification_message">La tarjeta SD tiene un sistema de archivos no compatible.</string>
     <string name="ext_media_nofs_notification_title">Tarjeta SD vacía</string>
@@ -748,15 +746,15 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="face_unlock_by_notification_screen_on_msg">Puedes desbloquear el dispositivo usando datos faciales cuando la pantalla se enciende con notificaciones. Esto puede agotar rápidamente la batería.</string>
     <string name="face_unlock_by_notification_screen_on_title">Permitir desbloqueo facial cuando se enciende la pantalla</string>
     <string name="face_unlock_category_title">Bloquear opciones de pantalla</string>
-    <string name="face_unlock_check_failed">No se pudo reconocerte</string>
+    <string name="face_unlock_check_failed">No se te pudo reconocer</string>
     <string name="face_unlock_close_screen">Acércate a la pantalla</string>
     <string name="face_unlock_down">Sube un poco la cabeza</string>
-    <string name="face_unlock_fail">No te he podido reconocer</string>
-    <string name="face_unlock_fail_retry">No te he podido reconocer. Pulsa el icono para volver intentarlo.</string>
-    <string name="face_unlock_fail_retry_global">"Toque arriba para usar el desbloqueo facial"</string>
+    <string name="face_unlock_fail">No se pudo reconocer tu cara</string>
+    <string name="face_unlock_fail_retry">No se te pudo reconocer. Pulsa el icono para volver a intentarlo.</string>
+    <string name="face_unlock_fail_retry_global">Toca arriba para usar el desbloqueo facial</string>
     <string name="face_unlock_identify_error">Se ha producido un error de reconocimiento</string>
-    <string name="face_unlock_not_found">No se pudo reconocerte</string>
-    <string name="face_unlock_not_roi">"Mantén tu cara dentro del marco"</string>
+    <string name="face_unlock_not_found">No se te pudo reconocer</string>
+    <string name="face_unlock_not_roi">Mantén tu cara dentro del marco</string>
     <string name="face_unlock_offset_bottom">Baja un poco el teléfono</string>
     <string name="face_unlock_offset_left">Muévete a la derecha</string>
     <string name="face_unlock_offset_right">Muévete a la izquierda</string>
@@ -772,9 +770,8 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="face_unlock_rise">Baja un poco la cabeza</string>
     <string name="face_unlock_rotated_left">Gira tu cabeza a la derecha</string>
     <string name="face_unlock_rotated_right">Gira tu cabeza a la izquierda</string>
-    <string name="face_unlock_sc_status">"Presione la pantalla hacia abajo para abrir la cámara"</string>
     <string name="face_unlock_stay_away_screen">Situáte entre 24 y 40 cm de la pantalla</string>
-    <string name="face_unlock_success_show_message_dialog_msg">"Permita que las notificaciones de la pantalla de bloqueo puedan verlas en su pantalla de bloqueo."</string>
+    <string name="face_unlock_success_show_message_dialog_msg">"Permite que las notificaciones de la pantalla de bloqueo puedan verse en su pantalla de bloqueo."</string>
     <string name="face_unlock_success_show_message_dialog_negative_btn">"No, gracias"</string>
     <string name="face_unlock_success_show_message_dialog_positive_btn">"Permitir"</string>
     <string name="face_unlock_success_show_message_dialog_title">"Bloquear notificaciones de pantalla"</string>
@@ -787,7 +784,7 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="fingerprint_add_text">El sistema de huella ha sido actualizado. Añade tu huella de nuevo.</string>
     <string name="fingerprint_add_title">Añadir huella</string>
     <string name="fingerprint_again_identified_msg">Ya puedes usar tu huella dactilar. Úsala para desbloquear el dispositivo, o introduce la contraseña.</string>
-    <string name="fingerprint_dialog_touch_sensor">"Toque el sensor de huellas dactilares"</string>
+    <string name="fingerprint_dialog_touch_sensor">"Toca el sensor de huellas dactilares"</string>
     <string name="fingerprint_enter_second_psw_msg">Introduce contraseña del Segundo espacio después de reiniciar el dispositivo, para poder usar el reconocimiento de huella</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">No puedes entrar en el Segundo espacio mientras estás en Modo simplificado</string>
     <string name="fingerprint_enter_second_psw_title">Introduce contraseña para el Segundo espacio</string>
@@ -811,17 +808,17 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="force_rtl_layout_all_locales_summary">Forzar dirección del diseño de la pantalla a RTL para todo</string>
     <string name="forced_resizable_secondary_display">La aplicación podría no funcionar en una pantalla secundaria.</string>
     <string name="forget_password_string">Olvidé la contraseña</string>
-    <string name="fs_gesture_back_home_summary">Deslizar rápidamente desde abajo</string>
+    <string name="fs_gesture_back_home_summary">Desliza rápidamente desde abajo</string>
     <string name="fs_gesture_back_ready_title">Volver</string>
-    <string name="fs_gesture_final_over">He terminado</string>
+    <string name="fs_gesture_final_over">"He terminado"</string>
     <string name="fs_gesture_final_restart">Una vez más</string>
-    <string name="fs_gesture_final_summary">Puede volver a usar los botones en la Configuración > Pantalla completa</string>
-    <string name="fs_gesture_final_title">¡Todo listo!</string>
-    <string name="fs_gesture_finish">Genial!</string>
-    <string name="fs_gesture_left_back_ready_summary">Deslizar hacia la derecha desde el borde</string>
-    <string name="fs_gesture_right_back_ready_summary">Deslizar hacia la izquierda desde el borde</string>
+    <string name="fs_gesture_final_summary">Puedes volver a usar los botones en Ajustes &gt; Pantalla completa</string>
+    <string name="fs_gesture_final_title">"¡Todo listo!"</string>
+    <string name="fs_gesture_finish">¡Genial!</string>
+    <string name="fs_gesture_left_back_ready_summary">Desliza hacia la derecha desde el borde</string>
+    <string name="fs_gesture_right_back_ready_summary">Desliza hacia la izquierda desde el borde</string>
     <string name="fs_gesture_skip">Atrás</string>
-    <string name="fs_gesture_switch_recents_summary">Deslizar desde abajo y pausa</string>
+    <string name="fs_gesture_switch_recents_summary">Desliza desde abajo y para</string>
     <string name="fsg_demo_back">Atrás</string>
     <string name="fsg_demo_go_on">Aprender</string>
     <string name="go_to_web">Ir a la web</string>
@@ -886,13 +883,13 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
 Una vez que el teléfono se haya enfriado, funcionará normalmente."</string>
     <string name="high_temp_notif_message">Algunas funciones están limitadas mientras el teléfono se enfria</string>
     <string name="high_temp_title">El teléfono se está calentando</string>
-    <string name="home">Ajustes de Pantalla de inicio</string>
+    <string name="home">Pantalla de Inicio de Ajustes</string>
     <string name="hour_minute_time_format">"HH: mm"</string>
-    <string name="how_to_back_home">Ir a la pantalla de inicio</string>
+    <string name="how_to_back_home">Ir a la pantalla de Inicio</string>
     <string name="how_to_switch_recents">Abrir Recientes</string>
     <string name="how_to_use_app_quick">Cómo cambiar entre aplicaciones</string>
-    <string name="how_to_use_app_quick_hide_line_summary">Deslice hacia arriba desde la parte inferior de la pantalla, luego deslice hacia la izquierda o hacia la derecha</string>
-    <string name="how_to_use_app_quick_summary">Deslice el dedo hacia la izquierda o hacia la derecha desde el indicador de pantalla completa o la parte inferior de la pantalla</string>
+    <string name="how_to_use_app_quick_hide_line_summary">Desliza hacia arriba desde la parte inferior de la pantalla, luego desliza hacia la izquierda o hacia la derecha</string>
+    <string name="how_to_use_app_quick_summary">Desliza hacia la izquierda o hacia la derecha desde el indicador de pantalla completa o la parte inferior de la pantalla</string>
     <string name="how_to_use_drawer">Cómo abrir el menú deslizable</string>
     <string name="how_to_use_drawer_summary">Desliza hacia la derecha en la parte superior de la pantalla</string>
     <string name="how_to_use_fsg">Puede realizar estas acciones usando gestos:</string>
@@ -1026,7 +1023,7 @@ Utilice sólo el cargador proporcionado."</string>
     <string name="keyguard_left_music">Música</string>
     <string name="keyguard_left_notes">Notas</string>
     <string name="keyguard_left_remotecentral">Mi Remote</string>
-    <string name="keyguard_left_smarthome">Mi Home</string>
+    <string name="keyguard_left_smarthome">Xiaomi Home</string>
     <string name="keyguard_left_torch">Linterna</string>
     <string name="keyguard_left_view_lock_wallpaper">"Carrusel de papel tapiz"</string>
     <string name="keyguard_low_battery">Conecta tu cargador.</string>
@@ -1127,12 +1124,12 @@ Vuelve a intentarlo en %2$d segundos."</string>
     <string name="local_backup_password_toast_success">Nueva contraseña de copia de seguridad establecida</string>
     <string name="local_backup_password_toast_validation_failure">No se pudo establecer contraseña de copia de seguridad</string>
     <string name="lock_screen_carrier_airplane_mode_on">Modo avión</string>
-    <string name="lock_screen_date">"EEEE d 'de' MMMM"</string>
-    <string name="lock_screen_date_12">"EEEE d 'de' MMMM"</string>
+    <string name="lock_screen_date">"EEEE, d 'de' MMMM"</string>
+    <string name="lock_screen_date_12">"EEEE, d 'de' MMMM"</string>
     <string name="lock_screen_date_two_lines">"EEEE
-MMMM d"</string>
+d MMMM"</string>
     <string name="lock_screen_date_two_lines_12">"EEEE
-MMMM d"</string>
+d MMMM"</string>
     <string name="lock_screen_magazine_default_content">Cada día imágenes nuevas</string>
     <string name="lock_screen_magazine_default_title">Carrusel de fondos</string>
     <string name="lock_screen_magazine_global_button_text">Más</string>
@@ -1155,7 +1152,7 @@ MMMM d"</string>
     <string name="lockscreen_carrier_default">Sin servicio</string>
     <string name="lockscreen_charging_msg">Cargando</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Has intentado desbloquear erróneamente tu dispositivo %d veces. Después de %d intentos fallidos más, el teléfono se restablecerá a los ajustes predeterminados y se perderán todos los datos de usuario.</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Has introducido erróneamente la contraseña %d veces. Después de %d intentos fallidos más, te pediremos las credenciales de Mi Cuenta para iniciar sesión.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Has introducido erróneamente la contraseña %d veces. Después de %d intentos fallidos más, te pediremos las credenciales de Cuenta Mi para iniciar sesión.
 
  Inténtalo de nuevo en %d segundos."</string>
     <string name="lockscreen_failed_attempts_now_wiping">Has intentado desbloquear erróneamente tu dispositivo %d veces. El teléfono se restablecerá a los ajustes predeterminados.</string>
@@ -1166,8 +1163,7 @@ MMMM d"</string>
     <string name="lockscreen_storage_locked">Desbloquear para todas las funciones y datos</string>
     <string name="lockscreen_unlock_left">El atajo izquierdo también desbloquea</string>
     <string name="lockscreen_unlock_right">El atajo derecho también desbloquea</string>
-    <string name="long_screenshot_guide_text">"Tap to make
-a scrolling screenshot"</string>
+    <string name="long_screenshot_guide_text">"Toca para hacer una captura de pantalla desplazable"</string>
     <string name="long_screenshot_not_support_msg">La aplicación no es compatible con las capturas de pantalla desplazables</string>
     <string name="long_screenshot_out_of_memory_error">La imagen es demasiado grande</string>
     <string name="long_screenshot_processing">Procesando…</string>
@@ -1198,7 +1194,7 @@ a scrolling screenshot"</string>
     <string name="menu_ime">Cambiador del teclado</string>
     <string name="miui_guide_dialog_button_negative_text">Ajustes</string>
     <string name="miui_guide_dialog_button_positive_text">Entendido</string>
-    <string name="miui_guide_dialog_message">Sonidos multimedia (música, videos, etc.) serán reproducidos en modo silencio. Puedes cambiar esto en Ajustes.</string>
+    <string name="miui_guide_dialog_message">Los sonidos multimedia (música, videos, etc.) se seguirán reproduciendo en modo Silencio. Puedes cambiar esto en Ajustes.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloqueado por un dispositivo Bluetooth</string>
     <string name="miui_ringer_count_down">Cuenta atrás</string>
     <string name="miui_ringer_standard">Silenciar</string>
@@ -1208,7 +1204,7 @@ a scrolling screenshot"</string>
     <string name="miui_screen_rotation_freeze_message">Rotación automática desactivada.</string>
     <string name="miui_toast_zen_dnd_to_off">Sonidos y vibraciones restaurados</string>
     <string name="miui_toast_zen_standard_to_off">Tonos restaurados</string>
-    <string name="miui_toast_zen_standard_to_off_when_shield_media">Tonos y sonidos de notificaciones y multimedia serán reproducidos.</string>
+    <string name="miui_toast_zen_standard_to_off_when_shield_media">El modo Silencio está desactivado. Los tonos de llamada, así como las notificaciones y sonidos multimedia serán reproducidos.</string>
     <string name="miui_toast_zen_to_dnd">Sonidos silenciados y vibraciones desactivadas</string>
     <string name="miui_toast_zen_to_standard">Tonos de llamadas y notificaciones silenciados</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Tonos y sonidos de notificaciones y multimedia serán silenciados.</string>
@@ -1308,7 +1304,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="mtrl_chip_close_icon_content_description">Eliminar %1$s</string>
     <string name="mtrl_picker_cancel">Cancelar</string>
     <string name="mtrl_picker_confirm">Guardar</string>
-    <string name="mtrl_picker_date_format">MMM dd, aaaa</string>
+    <string name="mtrl_picker_date_format">dd MMM aaaa</string>
     <string name="mtrl_picker_header_prompt">Selecciona una fecha</string>
     <string name="mtrl_picker_range_header_prompt">Elija un rango de fechas</string>
     <string name="mx_mcc">334</string>
@@ -1399,10 +1395,10 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="okay">"DE ACUERDO"</string>
     <string name="oldman_airplane_mode_text">Modo avión</string>
     <string name="oldman_incall_text">Volver a la llamada</string>
-    <string name="open_camera_hint_text">Desliza hacia la izquierda para abrir la cámara</string>
+    <string name="open_camera_hint_text">Arrastra el icono para abrir la cámara</string>
     <string name="open_extreme_power_save_mode_title">"Activar ahorro de batería extrema"</string>
     <string name="open_lock_screen_magazine_hint_text">"Desliza a la derecha para ver más opciones"</string>
-    <string name="open_remote_center_hint_text">Desliza hacia la derecha para abrir Mi Remote</string>
+    <string name="open_remote_center_hint_text">Desliza hacia la derecha para ver los accesos directos</string>
     <string name="osu_completing_sign_up">Completando el registro…</string>
     <string name="osu_connect_failed">No se pudo conectar</string>
     <string name="osu_opening_provider">Abriendo %1$s</string>
@@ -1511,7 +1507,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="prompt_detecting">Detectando</string>
     <string name="prompt_safe">Seguro</string>
     <string name="prompt_unknown">Desconocido</string>
-    <string name="qs_control_big_tile_state_closed">Apagado</string>
+    <string name="qs_control_big_tile_state_closed">Desactivado</string>
     <string name="qs_control_big_tile_state_closing">Apagando…</string>
     <string name="qs_control_big_tile_state_connected">Conectado</string>
     <string name="qs_control_big_tile_state_connecting">Conectando…</string>
@@ -1737,13 +1733,13 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="screenshot_dlg_cancel">Cancelar</string>
     <string name="screenshot_dlg_delete_button">Eliminar</string>
     <string name="screenshot_edit">Editar</string>
-    <string name="screenshot_failed_in_landscape_mode">"No se pueden hacer capturas de pantalla de desplazamiento en modo horizontal"</string>
-    <string name="screenshot_failed_title">No se pudo realizar la captura.</string>
-    <string name="screenshot_failed_to_capture_text">Realizar capturas de pantalla no está permitido por la aplicación o tu organización</string>
+    <string name="screenshot_failed_in_landscape_mode">"No se pueden hacer capturas de pantalla desplazables en modo horizontal"</string>
+    <string name="screenshot_failed_title">"No se pudo hacer la captura de pantalla."</string>
+    <string name="screenshot_failed_to_capture_text">"Tomar capturas de pantalla no está permitido por la aplicación o tu organización"</string>
     <string name="screenshot_failed_to_capture_title">"Esta aplicación no permite tomar capturas de pantalla"</string>
-    <string name="screenshot_failed_to_save_text">No se pudo guardar la captura por falta de espacio de almacenamiento.</string>
-    <string name="screenshot_failed_to_save_title">No hay suficiente espacio de almacenamiento para nuevas capturas de pantalla</string>
-    <string name="screenshot_failed_to_save_unknown_text">Se produjo un error mientras se guardaba la captura.</string>
+    <string name="screenshot_failed_to_save_text">"No se pudo guardar la captura por falta de espacio de almacenamiento."</string>
+    <string name="screenshot_failed_to_save_title">"No hay suficiente espacio de almacenamiento para nuevas capturas de pantalla"</string>
+    <string name="screenshot_failed_to_save_unknown_text">Se produjo un error mientras se guardaba la captura de pantalla.</string>
     <string name="screenshot_feedback_txt">Comentarios</string>
     <string name="screenshot_insert_failed">No se puede cargar la captura de pantalla. Toma una nueva o mira la imagen en la Galería.</string>
     <string name="screenshot_long_screenshot">Desplazar</string>
@@ -1793,8 +1789,10 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="show_touches">Mostrar toques</string>
     <string name="show_touches_summary">Mostrar feedback visual para toques</string>
     <string name="simulate_color_space">Simular espacio de color</string>
+    <string name="slider_second_tip_text">Empuja la pantalla hacia abajo para abrir la cámara</string>
+    <string name="slider_text">Empuja la pantalla hacia abajo para abrir la cámara</string>
     <string name="small_window_guide_title">Ventanas flotantes</string>
-    <string name="small_window_notification_text">Toque para obtener más información sobre esta función de MIUI %d</string>
+    <string name="small_window_notification_text">Toca para obtener más info sobre esta función de MIUI %d</string>
     <string name="small_window_notification_title">Ventanas flotantes</string>
     <string name="snooze_option_15_min">15 minutos</string>
     <string name="snooze_option_1_hour">1 hora</string>
@@ -1802,7 +1800,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="snooze_option_30_min">30 minutos</string>
     <string name="snooze_undo">DESHACER</string>
     <string name="snoozed_for_time">Pospuesto por %1$s</string>
-    <string name="sos_status_bar_summary">"Toque para salir"</string>
+    <string name="sos_status_bar_summary">"Toca para salir"</string>
     <string name="sos_status_bar_title">"llamada de socorro"</string>
     <string name="speed_bump_explanation">Notificaciones menos urgentes en la parte inferior</string>
     <string name="speed_label_fast">"Rápido"</string>
@@ -1902,7 +1900,7 @@ Desliza hacia abajo para bloquear"</string>
     <string name="structure_face_data_input_success">¡Hecho!</string>
     <string name="structure_face_data_input_timeout_msg">No se pudo grabar. Inténtalo de nuevo.</string>
     <string name="structure_face_data_input_timeout_title">Volver a intentarlo</string>
-    <string name="structure_face_data_input_up">Mire hacia arriba</string>
+    <string name="structure_face_data_input_up">Mira hacia arriba</string>
     <string name="structure_face_data_introduction_back">Atrás</string>
     <string name="structure_face_data_introduction_msg">Los datos faciales 3D te permiten desbloquear tu dispositivo y verificar tu identidad. Debes establecer una contraseña antes de usar esta función.</string>
     <string name="structure_face_data_introduction_next">Continuar</string>

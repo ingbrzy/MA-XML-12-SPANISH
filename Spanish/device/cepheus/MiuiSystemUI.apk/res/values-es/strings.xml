@@ -40,7 +40,7 @@
     <string name="accessibility_action_divider_top_full">Pantalla superior entera</string>
     <string name="accessibility_airplane_mode">Modo avión.</string>
     <string name="accessibility_ambient_display_charging">Cargando</string>
-    <string name="accessibility_aspect_button">Modo pantalla completa</string>
+    <string name="accessibility_aspect_button">Modo de pantalla completa</string>
     <string name="accessibility_assistant">Bola flotante</string>
     <string name="accessibility_back">Atrás</string>
     <string name="accessibility_battery_details">Abrir detalles de la batería</string>
@@ -289,9 +289,9 @@
     <string name="as_unimportant">No importante</string>
     <string name="ask_me_later_bubbles">Pregúntame luego</string>
     <string name="aspect_cancel">Cancelar</string>
-    <string name="aspect_message">Esta aplicación volverá a ser lanzada en el modo pantalla completa. Si has eencontrado cualquier problema puedes desactivar el modo pantalla completa para esta aplicación en Ajustes &gt; Visualización todo pantalla &gt; Modo todo pantalla.</string>
-    <string name="aspect_ok">ACEPTAR</string>
-    <string name="aspect_title">Modo pantalla completa</string>
+    <string name="aspect_message">Esta aplicación volverá a ser lanzada en el modo de pantalla completa. Si encuentras algún problema puedes desactivar el modo de pantalla completa para esta aplicación en Ajustes &gt; Pantalla completa &gt; Modo de pantalla completa.</string>
+    <string name="aspect_ok">Aceptar</string>
+    <string name="aspect_title">Modo de pantalla completa</string>
     <string name="audio_effect_custom">Configurar</string>
     <string name="audio_effect_info">Optimizar audio</string>
     <string name="audio_effect_settings">Selecciona el tipo de auriculares</string>
@@ -592,7 +592,7 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="dlg_confirm_kill_storage_users_text">Si activas el almacenamiento USB, algunas aplicaciones que estás usando se detendrán y quedarán como no disponibles hasta que desactives el almacenamiento USB.</string>
     <string name="dlg_confirm_kill_storage_users_title">Activar almacenamiento USB</string>
     <string name="dlg_error_title">Operación de USB fallida</string>
-    <string name="dlg_ok">ACEPTAR</string>
+    <string name="dlg_ok">Aceptar</string>
     <string name="dlg_summary_close_app">Restringir actividad en segundo plano y notificaciones</string>
     <string name="dlg_summary_close_theme">Restringir temas animados</string>
     <string name="dlg_summary_close_wifi">Desactivar Wi-Fi, Bluetooth y el punto de acceso</string>
@@ -757,7 +757,7 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="fs_gesture_back_ready_title">Volver</string>
     <string name="fs_gesture_final_over">He terminado</string>
     <string name="fs_gesture_final_restart">Una vez más</string>
-    <string name="fs_gesture_final_summary">Puede volver a usar los botones en la Configuración &gt; Pantalla completa</string>
+    <string name="fs_gesture_final_summary">Puede volver a usar los botones en la Ajustes &gt; Pantalla completa</string>
     <string name="fs_gesture_final_title">¡Todo listo!</string>
     <string name="fs_gesture_finish">¡Genial!</string>
     <string name="fs_gesture_left_back_ready_summary">Deslizar hacia la derecha desde el borde</string>
@@ -783,7 +783,7 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="guest_wipe_session_message">¿Deseas continuar con tu sesión?</string>
     <string name="guest_wipe_session_title">¡Signos exclamación invitado!</string>
     <string name="guest_wipe_session_wipe">Empezar de nuevo</string>
-    <string name="gxzw_area">Escáner de huella digital</string>
+    <string name="gxzw_area">Escáner de huella dactilar</string>
     <string name="gxzw_press_harder">Pulsa con un poco más de fuerza</string>
     <string name="gxzw_quick_close">Cerrar</string>
     <string name="gxzw_quick_open_add_event">Añadir evento</string>
@@ -806,7 +806,7 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="gxzw_quick_open_wechat_pay_sub">WeChat</string>
     <string name="gxzw_quick_open_wechat_scan">Escáner</string>
     <string name="gxzw_quick_open_wechat_scan_sub">WeChat</string>
-    <string name="gxzw_quick_open_xiaoai_sub">Mi IA</string>
+    <string name="gxzw_quick_open_xiaoai_sub">Mi AI</string>
     <string name="gxzw_quick_open_xiaoai_title1">Di el nombre de la aplicación que quieres abrir</string>
     <string name="gxzw_quick_open_xiaoai_title2">Di el nombre de la función que quieres usar</string>
     <string name="gxzw_quick_tip_press">Sigue presionando…</string>
@@ -1117,7 +1117,7 @@ d MMMM"</string>
     <string name="menu_ime">Cambiador del teclado</string>
     <string name="miui_guide_dialog_button_negative_text">Ajustes</string>
     <string name="miui_guide_dialog_button_positive_text">Entendido</string>
-    <string name="miui_guide_dialog_message">Sonidos multimedia (música, videos, etc.) serán reproducidos en modo silencio. Puedes cambiar esto en Ajustes.</string>
+    <string name="miui_guide_dialog_message">Los sonidos multimedia (música, videos, etc.) serán reproducidos en modo Silencio. Puedes cambiar esto en Ajustes.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloqueado por un dispositivo Bluetooth</string>
     <string name="miui_ringer_count_down">Cuenta atrás</string>
     <string name="miui_ringer_standard">Silenciar</string>
@@ -1129,8 +1129,8 @@ d MMMM"</string>
     <string name="miui_toast_zen_standard_to_off">Modo silencio desactivado. Tonos de llamada restaurados.</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Modo silencio desactivado. Tonos y sonidos de notificaciones y multimedia serán reproducidos.</string>
     <string name="miui_toast_zen_to_dnd">Cambiado a Modo no molestar. Los sonidos y vibración han sido desactivados.</string>
-    <string name="miui_toast_zen_to_standard">Cambiado al Modo silencio. Llamadas y notificaciones silenciadas.</string>
-    <string name="miui_toast_zen_to_standard_when_shield_media">Cambiado al Modo silencio. Llamadas, notificaciones y sonidos multimedia silenciados.</string>
+    <string name="miui_toast_zen_to_standard">Cambiado al modo Silencio. Llamadas y notificaciones silenciadas.</string>
+    <string name="miui_toast_zen_to_standard_when_shield_media">Cambiado al modo Silencio. Llamadas, notificaciones y sonidos multimedia silenciados.</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tire hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -1308,7 +1308,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="notification_template_text">" tienes una notificación. Toca para ver."</string>
     <string name="oem_unlock_enable">Desbloqueo de OEM</string>
     <string name="oem_unlock_enable_summary">Permitir el desbloqueo de bootloader</string>
-    <string name="okay">ACEPTAR</string>
+    <string name="okay">Aceptar</string>
     <string name="oldman_airplane_mode_text">Modo avión</string>
     <string name="oldman_incall_text">Volver a la llamada</string>
     <string name="open_camera_hint_text">Arrastra el icono para abrir la Cámara</string>
@@ -1335,11 +1335,11 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="phone_locked_foget_password">¿Olvidaste la contraseña?</string>
     <string name="phone_locked_foget_password_mehod_back">Atrás</string>
     <string name="phone_locked_foget_password_method">¿Olvidaste la contraseña?</string>
-    <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Tienes que &amp;lt;font color=#a5220e&amp;gt;borrar todos los datos &amp;lt;/font&amp;gt;de tu dispositivo, incluyendo fotos y contactos, y después establecer una nueva contraseña de Pantalla de bloqueo.&lt;/Data&gt;</string>
+    <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Tienes que &lt;font color=#a5220e&gt;borrar todos los datos &lt;/font&gt;de tu dispositivo, incluyendo fotos y contactos, y después establecer una nueva contraseña de Pantalla de bloqueo.&lt;/Data&gt;</string>
     <string name="phone_locked_foget_password_method_next">Siguiente</string>
     <string name="phone_locked_foget_password_ok">Entendido</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Apaga tu dispositivo, presiona y mantén el &amp;lt;font color=#a5220e&amp;gt;botón de encendido&amp;lt;/font&amp;gt; y el &amp;lt;font color=#a5220e&amp;gt;botón de subir volumen&amp;lt;/font&amp;gt; simultáneamente hasta que veas el logo de Mi.&lt;/Data&gt;</string>
-    <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Selecciona &amp;lt;font color=#a5220e&amp;gt;\"Limpiar y Restablecer\"&amp;lt;/font&amp;gt; y espera hasta que el dispositivo se reinicie.&lt;/Data&gt;</string>
+    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Apaga tu dispositivo, presiona y mantén el &lt;font color=#a5220e&gt;botón de encendido&lt;/font&gt; y el &lt;font color=#a5220e&gt;botón de subir volumen&lt;/font&gt; simultáneamente hasta que veas el logo de Mi.&lt;/Data&gt;</string>
+    <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Selecciona &lt;font color=#a5220e&gt;\"Limpiar y Restablecer\"&lt;/font&gt; y espera hasta que el dispositivo se reinicie.&lt;/Data&gt;</string>
     <string name="phone_locked_forget_password_suggesstions_title">¿Cómo borrar los datos?</string>
     <string name="phone_locked_string">El teléfono ha sido bloqueado</string>
     <string name="picture_color_mode">Modo color de imagen</string>
@@ -1424,7 +1424,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="prompt_detecting">Detectando</string>
     <string name="prompt_safe">Seguro</string>
     <string name="prompt_unknown">Desconocido</string>
-    <string name="qs_control_big_tile_state_closed">Apagado</string>
+    <string name="qs_control_big_tile_state_closed">Desactivado</string>
     <string name="qs_control_big_tile_state_closing">Apagando…</string>
     <string name="qs_control_big_tile_state_connected">Conectado</string>
     <string name="qs_control_big_tile_state_connecting">Conectando…</string>
@@ -1625,7 +1625,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="runningservices_settings_summary">Ver y controlar los servicios en ejecución</string>
     <string name="runningservices_settings_title">Servicios en ejecución</string>
     <string name="save">Guardar</string>
-    <string name="save_mode_btn_ok">ACEPTAR</string>
+    <string name="save_mode_btn_ok">Aceptar</string>
     <string name="saved_network">Guardado por %1$s</string>
     <string name="screen_button_notification_text">Para activarlos, presiona los botones de Inicio y Encendido simultáneamente.</string>
     <string name="screen_button_notification_title">Los botones de navegación están desactivados</string>
@@ -1702,7 +1702,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="show_touches_summary">Mostrar feedback visual para toques</string>
     <string name="simulate_color_space">Simular espacio de color</string>
     <string name="small_window_guide_title">Ventanas flotantes</string>
-    <string name="small_window_notification_text">Toque para obtener más información sobre esta función de MIUI %d</string>
+    <string name="small_window_notification_text">Toca para obtener más información sobre esta función de MIUI %d</string>
     <string name="small_window_notification_title">Ventanas flotantes</string>
     <string name="snooze_option_15_min">15 minutos</string>
     <string name="snooze_option_1_hour">1 hora</string>
@@ -1715,7 +1715,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="speed_bump_explanation">Notificaciones menos urgentes en la parte inferior</string>
     <string name="speed_label_fast">Rápido</string>
     <string name="speed_label_medium">Medio</string>
-    <string name="speed_label_okay">ACEPTAR</string>
+    <string name="speed_label_okay">Aceptar</string>
     <string name="speed_label_slow">Lento</string>
     <string name="speed_label_very_fast">Muy Rápido</string>
     <string name="speed_label_very_slow">Muy lento</string>
@@ -2129,7 +2129,7 @@ Parece que los credenciales de almacenamiento no están habilitados."</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnoff">Los datos móviles (WCDMA / LTE) se apagarán. A menos que use Wi-Fi, ya no podrá usar aplicaciones que requieran una conexión de datos. Enviar o recibir mensajes multimedia estará restringido.</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnon">Los datos móviles se activarán. La conexión a redes móviles puede generar cargos adicionales según su plan de pago.</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Cancelar</string>
-    <string name="quick_settings_cellular_detail_dialog_positive_button_ok">ACEPTAR</string>
+    <string name="quick_settings_cellular_detail_dialog_positive_button_ok">Aceptar</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Apagar</string>
     <string name="storage_is_connecting">%1$s está conectado</string>
 </resources>

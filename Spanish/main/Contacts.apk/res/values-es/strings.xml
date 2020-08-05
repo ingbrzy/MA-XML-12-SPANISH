@@ -62,8 +62,8 @@
     <string name="add_organization">Añadir organización</string>
     <string name="add_to_my_contacts">Añadir a Mis Contactos</string>
     <string name="add_wait">Añadir espera</string>
-    <string name="add_xiaomi_account_dialog_btn">Usar Mi Cuenta</string>
-    <string name="add_xiaomi_account_dialog_msg">¡Realiza copias de seguridad de tus contactos en Mi Cuenta para acceder a ellos desde cualquier lugar!</string>
+    <string name="add_xiaomi_account_dialog_btn">Usar Cuenta Mi</string>
+    <string name="add_xiaomi_account_dialog_msg">¡Realiza copias de seguridad de tus contactos en Cuenta Mi para acceder a ellos desde cualquier lugar!</string>
     <string name="add_xiaomi_account_dialog_title">Selecciona una cuenta</string>
     <string name="afternoon">Tarde</string>
     <string name="aggregation_suggestion_edit_dialog_message">¿Cambiar a editar el contacto con el mismo nombre? La información que introduzcas se copiará.</string>
@@ -188,7 +188,7 @@
     <string name="callrecordview_menu_show_sim">%s llamadas</string>
     <string name="callrecordview_menu_show_stranger">Llamadas de números desconocidos</string>
     <string name="callrecordview_menu_show_title">Registro de llamadas</string>
-    <string name="cancel_confirmation_dialog_message">¿Descartar los cambios?</string>
+    <string name="cancel_confirmation_dialog_message">¿Descartar cambios?</string>
     <string name="cancel_confirmation_dialog_title">Cancelar</string>
     <string name="cancel_export_confirmation_message">¿Cancelar la exportación de %s?</string>
     <string name="cancel_import_confirmation_message">¿Cancelar la importación de %s?</string>
@@ -221,11 +221,11 @@
     <string name="cloud_antispam_mark">Marcar</string>
     <string name="cloud_antispam_marked">Marcado</string>
     <string name="cloud_antispam_title">Identificación de llamada</string>
-    <string name="cloud_recommend_msg">Toca para sincronizar los contactos con Mi Cloud.</string>
-    <string name="cloud_state_disabled">Sincronizar contactos con Mi Cloud</string>
+    <string name="cloud_recommend_msg">Toca para sincronizar los contactos con Xiaomi Cloud.</string>
+    <string name="cloud_state_disabled">Sincronizar contactos con Xiaomi Cloud</string>
     <string name="cloud_state_loading">Un momento…</string>
-    <string name="cloud_state_sync_finished">Sincronizado con Mi Cloud</string>
-    <string name="cloud_state_syncing">Sincronizado con Mi Cloud</string>
+    <string name="cloud_state_sync_finished">Sincronizado con Xiaomi Cloud</string>
+    <string name="cloud_state_syncing">Sincronizado con Xiaomi Cloud</string>
     <string name="cloud_upgrade_recommend">"No se pueden sincronizar los contactos debido a la falta de espacio de almacenamiento en la nube. Actualice su plan de almacenamiento en la nube."</string>
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
@@ -266,7 +266,7 @@
     <string name="contact_detail_miprofile_accept_fail_toast">Las tarjetas de contacto no se pudieron intercambiar</string>
     <string name="contact_detail_miprofile_accept_success_toast">Tarjetas de contacto intercambiadas</string>
     <string name="contact_detail_miprofile_binded_label">Verificado</string>
-    <string name="contact_detail_miprofile_exchange_closed">"No hay asociado ningún número de teléfono con Mi Cuenta
+    <string name="contact_detail_miprofile_exchange_closed">"No hay asociado ningún número de teléfono con Cuenta Mi
 Las tarjetas de contacto están desactivadas"</string>
     <string name="contact_detail_miprofile_privacy_settings">Requerir permiso para ver</string>
     <string name="contact_detail_miprofile_request">Intercambiar tarjetas de contacto</string>
@@ -613,8 +613,8 @@ Motivo: \"%s\""</string>
     <string name="import_to_xiaomi_account_confirm">Importar</string>
     <string name="import_to_xiaomi_account_progress_finish">Contactos importados</string>
     <string name="import_to_xiaomi_account_progress_message">Importando…</string>
-    <string name="import_to_xiaomi_account_progress_title">Importar contactos a Mi Cuenta</string>
-    <string name="import_to_xiaomi_account_title">Importar a Mi Cuenta</string>
+    <string name="import_to_xiaomi_account_progress_title">Importar contactos a Cuenta Mi</string>
+    <string name="import_to_xiaomi_account_title">Importar a Cuenta Mi</string>
     <string name="import_vcard_description">Importar contactos desde el almacenamiento de tu dispositivo</string>
     <string name="import_vcard_dialog_message">¿Importar vCard?</string>
     <string name="importing_sim_contacts_miui">Importando contactos de la tarjeta SIM…</string>
@@ -726,7 +726,7 @@ Motivo: \"%s\""</string>
     <string name="miprofile_alertdialog_edit">Introducir nombre</string>
     <string name="miprofile_alertdialog_message">Mostrar este nombre a contactos cuando pidas intercambiar tarjetas.</string>
     <string name="miprofile_alertdialog_title">Introducir nombre</string>
-    <string name="miprofile_bind_account_alertdialog_message">Debes añadir el número de teléfono de este dispositivo a Mi Cuenta para usar esta función.</string>
+    <string name="miprofile_bind_account_alertdialog_message">Debes añadir el número de teléfono de este dispositivo a Cuenta Mi para usar esta función.</string>
     <string name="miprofile_bind_account_alertdialog_positive">Añadir número</string>
     <string name="miprofile_bind_account_alertdialog_title">Añadir número de teléfono</string>
     <string name="miprofile_contact_add">Añadir</string>
@@ -736,7 +736,7 @@ Motivo: \"%s\""</string>
     <string name="miprofile_contact_verifying">Comprobando</string>
     <string name="miprofile_edit_title">Editar perfil</string>
     <string name="miprofile_error_accept_self">No puedes intercambiar tu propia tarjeta de contacto</string>
-    <string name="miprofile_error_no_miaccount">Inicia sesión en Mi Cuenta</string>
+    <string name="miprofile_error_no_miaccount">Inicia sesión en Cuenta Mi</string>
     <string name="miprofile_error_not_opened">Desactivar tarjetas de contacto</string>
     <string name="miprofile_error_not_set">Tu tarjeta de contacto no ha sido sincronizada con el servidor</string>
     <string name="miprofile_error_unknown">Error desconocido</string>
@@ -824,7 +824,7 @@ Motivo: \"%s\""</string>
     <string name="night">Noche</string>
     <string name="noAccounts">Para crear grupos necesitas una cuenta.</string>
     <string name="noContactHelpTextAccountsInfo" />
-    <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar datos de contactos de Mi Cuenta</string>
+    <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar datos de contactos de Cuenta Mi</string>
     <string name="noContacts">No hay contactos</string>
     <string name="noContactsWithPhoneNumbers">No hay contactos con números de teléfono</string>
     <string name="noFavoritesHelpText">"\"No tienes favoritos.
@@ -947,9 +947,9 @@ Para añadir un contacto a tu lista de favoritos:
     <string name="pref_key_sim_manage">Tarjetas SIM</string>
     <string name="pref_key_sim_manage1">Configurar tarjeta SIM 1</string>
     <string name="pref_key_sim_manage2">Configurar tarjeta SIM 2</string>
-    <string name="pref_summary_import_from_account">Transferir contactos de cuentas de Google y Exchange a Mi Cuenta</string>
+    <string name="pref_summary_import_from_account">Transferir contactos de cuentas de Google y Exchange a Cuenta Mi</string>
     <string name="pref_title_account_import">Importar contactos</string>
-    <string name="pref_title_import_from_account">Importar a Mi Cuenta</string>
+    <string name="pref_title_import_from_account">Importar a Cuenta Mi</string>
     <string name="preference_auto_ip_summary_disable">Desactivado</string>
     <string name="preference_auto_ip_summary_on">Prefijo IP de la operadora: %s</string>
     <string name="preference_auto_ip_title">Prefijo IP automático</string>
@@ -976,7 +976,7 @@ Para añadir un contacto a tu lista de favoritos:
     <string name="preference_others">Otros</string>
     <string name="preference_phone">Dispositivo</string>
     <string name="preference_phone_more_title">Ajustes de llamada</string>
-    <string name="preference_privacy_policy_title">Política de privacidad</string>
+    <string name="preference_privacy_policy_title">Política de Privacidad</string>
     <string name="preference_remove_duplicate">Combinar contactos duplicados</string>
     <string name="preference_show_firewall_calllog">Mostrar llamadas bloqueadas en el historial de llamadas</string>
     <string name="preference_show_yellowpage_tab_description">Páginas amarillas podría no funcionar correctamente si está función está desactivada.</string>
@@ -1222,11 +1222,11 @@ Para añadir un contacto a tu lista de favoritos:
     <string name="t9_search_empty_send_sms">Enviar mensaje</string>
     <string name="t9_search_empty_video_call">Videollamada</string>
     <string name="t9_search_guide_pinyin_title1">Introduce números para buscar contactos</string>
-    <string name="t9_search_guide_pinyin_title2">Introduce \"9\" and \"4\" para buscar \"&lt;font fgcolor=""&gt;X&lt;/font&gt;avier &lt;font fgcolor=""&gt;H&lt;/font&gt;enry\"</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">Introduce %d y %d para buscar por &lt;font fgcolor=""&gt;D&lt;/font&gt;ebbie &lt;font fgcolor=""&gt;S&lt;/font&gt;mith</string>
     <string name="t9_search_guide_zhuyin_title1">Introduce números para buscar contactos</string>
-    <string name="t9_search_guide_zhuyin_title2">Introduce \"5\" y \"6\" para buscar \"&lt;font fgcolor=""&gt;J&lt;/font&gt;eff &lt;font fgcolor=""&gt;M&lt;/font&gt;ax\"</string>
-    <string name="take_new_photo">Hacer una foto nueva</string>
-    <string name="take_photo">Hacer una foto</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">Introduce %d y %d para buscar por &lt;font fgcolor=""&gt;J&lt;/font&gt;eff &lt;font fgcolor=""&gt;M&lt;/font&gt;ax</string>
+    <string name="take_new_photo">Tomar una nueva foto</string>
+    <string name="take_photo">Tomar una foto</string>
     <string name="time_picker_dialog_title">Establecer hora</string>
     <string name="titleJoinContactDataWith">Combinar contactos</string>
     <string name="title_other_devices">Otros dispositivos disponibles</string>
@@ -1266,7 +1266,8 @@ Para añadir un contacto a tu lista de favoritos:
     <string name="upgrade_out_of_memory">"Los contactos se están actualizando. 
 
 El proceso de actualización necesita aproximadamente %s MB de almacenamiento interno.
-elecciona una de las siguientes opciones:"</string>
+
+Selecciona una de las siguientes opciones:"</string>
     <string name="upgrade_out_of_memory_retry">Reintentar actualización</string>
     <string name="upgrade_out_of_memory_uninstall">Desinstalar algunas aplicaciones</string>
     <string name="use_photo_as_primary">Usar esta foto</string>

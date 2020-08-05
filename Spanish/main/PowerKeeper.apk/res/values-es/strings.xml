@@ -28,7 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="about_extreme_mode">Modo extremo</string>
-    <string name="about_hide_mode">Acerca de Economizador de batería</string>
+    <string name="about_hide_mode">Acerca de Ahorro de batería</string>
     <string name="active_classify">Ordenar por estado de la actividad</string>
     <string name="adaptive_battery_summary">Limitar la batería para aplicaciones que no utilizas habitualmente</string>
     <string name="adaptive_battery_title">Utilizar batería adaptativa</string>
@@ -46,19 +46,19 @@
     <string name="cloud_international_addr">Actualizar datos de servidor internacional</string>
     <string name="cloud_staging_addr">Actualizar datos de servidor intermediario</string>
     <string name="config_classify">Ordenar por conf. de la aplicación</string>
-    <string name="config_description">MIUI puede identificar aplicaciones especificas con procesos en segundo plano (p. ej. aplicaciones de mensajería y navegación, reproductores multimedia), y aplicar el ahorro de batería de una manera que no influya de forma importante en la actividad que se ejecute en segundo plano.</string>
+    <string name="config_description">MIUI puede identificar aplicaciones especificas con procesos en segundo plano (por ejemplo, aplicaciones de mensajería y navegación, reproductores multimedia), y aplicar el ahorro de batería de una manera que no influya de forma importante en la actividad que se ejecute en segundo plano.</string>
     <string name="config_mode_title">Configuraciones de segundo plano</string>
     <string name="config_no_restrict_description">El economizador de batería no restringe la actividad de las aplicaciones</string>
     <string name="config_no_restrict_title">Sin restricciones</string>
-    <string name="config_restrict_function_description">Algunas características (p. ej. las notificaciones del servidor) pueden verse afectadas, pero las aplicaciones no se cerrarán</string>
+    <string name="config_restrict_function_description">Algunas características (por ejemplo, las notificaciones del servidor) pueden verse afectadas, pero las aplicaciones no se cerrarán</string>
     <string name="config_restrict_function_title">Restringir aplicaciones en segundo plano</string>
     <string name="config_restrict_running_description">Las aplicaciones se cerrarán para ahorrar batería</string>
     <string name="config_restrict_running_title">Restringir actividad en segundo plano</string>
     <string name="config_restrict_running_warning">Se cerrarán aplicaciones en segundo plano. Esto podría causar problemas.</string>
-    <string name="config_scenario_policies_title">Escenas</string>
+    <string name="config_scenario_policies_title">Escenarios</string>
     <string name="config_suggest_description">"Identificar las aplicaciones y actividades para mantener los procesos importantes activos.
 El economizador de batería tratará de forma selectiva las aplicaciones importantes."</string>
-    <string name="config_suggest_suffix_title">Economizador de batería (recomendado)</string>
+    <string name="config_suggest_suffix_title">Ahorro de batería (recomendado)</string>
     <string name="confirm">Aceptar</string>
     <string name="copy">Copiar</string>
     <string name="current_cloud_addr_is">La dirección del servidor de control en la nube es:</string>
@@ -95,7 +95,7 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar elementos"</string>
-    <string name="nonui_mode_config_description">No encender la pantalla para las notificaciones, apagar la luz del LED, el sensor de huellas digitales y los controles táctiles para ahorrar batería cuando MIUI detecte que no está usando su dispositivo.</string>
+    <string name="nonui_mode_config_description">No encender la pantalla para las notificaciones, apagar la luz del LED, el sensor de huellas dactilares y los controles táctiles para ahorrar batería cuando MIUI detecte que no está usando su dispositivo.</string>
     <string name="nonui_mode_config_title">Modo no interactivo</string>
     <string name="not_set">No establecido</string>
     <string name="notification_exit_extreme_mode_text">La batería tiene más del %s de carga</string>
@@ -130,8 +130,8 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
     <string name="pref_config_title">Optimización del Rendimiento</string>
     <string name="preference_copied">\"%1$s\" copiado al portapapeles.</string>
     <string name="privacy">Política de Privacidad</string>
-    <string name="scenario_policies_summary">Aplicar diferentes estrategias de ahorro de energía para las diferentes escenas.</string>
-    <string name="scenario_policies_title">Escenas inteligentes</string>
+    <string name="scenario_policies_summary">Aplicar diferentes estrategias de ahorro de energía para distintos escenarios.</string>
+    <string name="scenario_policies_title">Escenarios inteligentes</string>
     <string name="scenario_policies_warmcontrol">Control de temperatura</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_menu_title">Buscar</string>

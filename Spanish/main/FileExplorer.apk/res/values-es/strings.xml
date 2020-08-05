@@ -52,9 +52,9 @@
     <string name="anonymous">Anónimo</string>
     <string name="anonymous_type">Portable (no seguro)</string>
     <string name="apk_installing">Instalando...</string>
-    <string name="app_all_purpose">¡Bienvenido al Gestor de Archivos! Puede usar esta aplicación para administrar los archivos almacenados en su dispositivo.</string>
+    <string name="app_all_purpose">¡Bienvenido al Gestor de archivos! Puede usar esta aplicación para administrar los archivos almacenados en su dispositivo.</string>
     <string name="app_function">Administra archivos en tu dispositivo</string>
-    <string name="app_name">Administrador de archivos</string>
+    <string name="app_name">Archivos</string>
     <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Cámara</string>
     <string name="app_name_downloadedrom">Paquetes</string>
@@ -145,9 +145,9 @@
     <string name="clean_marquee_text">Escanear para buscar más archivos basura</string>
     <string name="clear_record">Borrar historial</string>
     <string name="click_login_str">Registrarse</string>
-    <string name="click_to_refresh">Toque aquí para recargar</string>
-    <string name="click_to_switch_volume">Toque para cambiar entre el almacenamiento interno y la tarjeta SD</string>
-    <string name="click_to_switch_volume_pad">Toque para cambiar entre el almacenamiento interno y la tarjeta SD</string>
+    <string name="click_to_refresh">Toca aquí para recargar</string>
+    <string name="click_to_switch_volume">Toca para cambiar entre el almacenamiento interno y la tarjeta SD</string>
+    <string name="click_to_switch_volume_pad">Toca para cambiar entre el almacenamiento interno y la tarjeta SD</string>
     <string name="clock_in">Registrándose…</string>
     <string name="clockin_failed">"No se pudo registrar, vuelva a intentarlo"</string>
     <string name="clockin_success">Se registró correctamente</string>
@@ -202,11 +202,11 @@
     <string name="daily_clockin">Registrarse</string>
     <string name="dark_mode">Modo oscuro</string>
     <string name="dark_mode_notice_message">¡Hay disponible un tema oscuro!</string>
-    <string name="data_consumption_cancel">Salir</string>
+    <string name="data_consumption_cancel">"Rechazar"</string>
     <string name="data_consumption_checkbox_hint">No mostrar de nuevo</string>
     <string name="data_consumption_confirm">Aceptar</string>
     <string name="data_consumption_message">Esta aplicación necesita conectarse a Internet por Wi-Fi para funcionar con normalidad.</string>
-    <string name="data_consumption_message1">El administrador de archivos necesita conectarse a internet para hacer disponibles los videos populares y las pegatinas.</string>
+    <string name="data_consumption_message1">El Gestor de archivos necesita conectarse a internet para hacer disponibles los videos populares y las pegatinas.</string>
     <string name="data_consumption_title">Conexión a Internet</string>
     <string name="decompress_cancel">Cancelar</string>
     <string name="decompress_confirm">Extraer</string>
@@ -287,7 +287,7 @@
     <string name="encrypt_error">Error al cifrar archivos, intente de nuevo</string>
     <string name="encrypt_prefix">ENCRIPTADO</string>
     <string name="encrypt_success">Encriptados correctamente</string>
-    <string name="encrypt_success_first_five">Cifrado y ocultado. Deslice hacia abajo en la pantalla de inicio del administrador de archivos para ver los archivos.</string>
+    <string name="encrypt_success_first_five">Cifrado y ocultado. Deslice hacia abajo en la pantalla de inicio del Gestor de archivos para ver los archivos.</string>
     <string name="encrypting">Encriptando…</string>
     <string name="error">ERROR</string>
     <string name="error_contains_sharer_path">No se pueden cifrar archivos en la carpeta /MIUI/Gallery/cloud/sharer, mueva el archivo a otro directorio e inténtelo de nuevo</string>
@@ -385,7 +385,7 @@ Mantén pulsada una carpeta y pulsa \"Más\" para añadir."</string>
     <string name="hint_switch_to_grid_mode">Cambió a la vista de cuadrícula</string>
     <string name="hint_switch_to_list_mode">Cambió a la vista de lista</string>
     <string name="home_action_up">Atrás</string>
-    <string name="home_title">Gestor de Archivos</string>
+    <string name="home_title">Archivos</string>
     <string name="homepage_tab_category">Categorías</string>
     <string name="homepage_tab_file_view_phone">Almacenamiento</string>
     <string name="homepage_tab_recent">Reciente</string>
@@ -504,7 +504,7 @@ Mantén pulsada una carpeta y pulsa \"Más\" para añadir."</string>
     <string name="more">Más</string>
     <string name="more_hot_text">Más TOP</string>
     <string name="move_failed">No se puede cortar</string>
-    <string name="move_icon_to_desktop_hint">Cree un acceso directo en la pantalla de inicio para administrador de archivos para administrar archivos de manera más eficiente.</string>
+    <string name="move_icon_to_desktop_hint">Cree un acceso directo en la pantalla de inicio para Gestor de archivos para administrar archivos de manera más eficiente.</string>
     <string name="move_icon_to_desktop_success">Acceso directo añadido a la pantalla de inicio.</string>
     <string name="move_to">Mover a…</string>
     <string name="msg_auto_seven_day">Los elementos de la memoria caché son limpiados cada 24 horas. ¿Extender este intervalo a 7 días?</string>
@@ -519,7 +519,7 @@ Mantén pulsada una carpeta y pulsa \"Más\" para añadir."</string>
     <string name="my_follows">Mi feed</string>
     <string name="name_empty">Debes ingresar un nombre.</string>
     <string name="need_login">Entra primero</string>
-    <string name="need_read_storage_permission">\"Administrador de archivos requiere permiso para acceder al almacenamiento del dispositivo para que funcione normalmente\".</string>
+    <string name="need_read_storage_permission">\"Gestor de archivos requiere permiso para acceder al almacenamiento del dispositivo para que funcione normalmente\".</string>
     <string name="net_error_text">Error de conexión</string>
     <string name="network_dialog_checkbox_tip">No mostrar de nuevo</string>
     <string name="network_not_available">No se pudo conectar a la red</string>
@@ -530,10 +530,10 @@ Mantén pulsada una carpeta y pulsa \"Más\" para añadir."</string>
     <string name="new_feature">Nueva función</string>
     <string name="new_folder_name">Carpeta sin nombre</string>
     <string name="no">No</string>
-    <string name="no_apk">Toque para obtener aplicaciones</string>
+    <string name="no_apk">Toca para obtener aplicaciones</string>
     <string name="no_app_tags">Vacío</string>
     <string name="no_comment">No hay comentarios</string>
-    <string name="no_content">Abra el administrador de archivos de nuevo para ver los vídeos populares</string>
+    <string name="no_content">Abra el Gestor de archivos de nuevo para ver los vídeos populares</string>
     <string name="no_daren_tip">Nada por aquí aún</string>
     <string name="no_downloaded_sticker_tip">No se encontraron pegatinas descargadas. Descubre las pegatinas compartidas por fans de Mi.</string>
     <string name="no_enough_storage_indication">El espacio de almacenamiento del dispositivo está lleno.</string>
@@ -565,7 +565,7 @@ Mantén pulsada una carpeta y pulsa \"Más\" para añadir."</string>
     <string name="notify_private_folder_title">Crear carpetas ocultas</string>
     <string name="oauth_failed_tip">No se pudo completar la autorización</string>
     <string name="oauth_success_tip">Autorizado con éxito</string>
-    <string name="ok">ACEPTAR</string>
+    <string name="ok">Aceptar</string>
     <string name="one_account_bind_needed">Añada al menos una cuenta</string>
     <string name="online_not_support">No se puede ver este archivo online por el momento.</string>
     <string name="open">Abrir</string>
@@ -623,7 +623,7 @@ Mantén pulsada una carpeta y pulsa \"Más\" para añadir."</string>
     <string name="other_user_liked_topic_tip">No hay temas</string>
     <string name="other_user_no_follow_tip">"Aún no has seguido a nadie."</string>
     <string name="other_user_no_liked_video_tip">Ningún vídeo te gusta.</string>
-    <string name="overwrite_msg">\"%s\" ya existe. Toque para sustituirlo por el nuevo archivo.</string>
+    <string name="overwrite_msg">\"%s\" ya existe. Toca para sustituirlo por el nuevo archivo.</string>
     <string name="pad">Almacenamiento interno</string>
     <string name="partial_cancel_successful">No se pudieron quitar algunos archivos. El resto fueron movidos a %s.</string>
     <string name="partial_delete_failure">No se pudieron eliminar algunos archivos, intenta de nuevo</string>
@@ -634,10 +634,10 @@ Mantén pulsada una carpeta y pulsa \"Más\" para añadir."</string>
     <string name="path_hot_video">Ver populares videos cortos gratis</string>
     <string name="path_kuai_chuan">Transferencia de archivos peer-to-peer</string>
     <string name="path_recent_file">Administrar archivos en el dispositivo</string>
-    <string name="permission_denial">"No se pudo acceder a los archivos. Permitir que el administrador de archivos acceda a los archivos en ajustes."</string>
+    <string name="permission_denial">"No se pudo acceder a los archivos. Permitir que el Gestor de archivos acceda a los archivos en ajustes."</string>
     <string name="permission_phone">Teléfono</string>
     <string name="permission_phone_desc">Acceder al IMEI para identificar, almacenar y gestionar archivos ocultos</string>
-    <string name="permission_required">"No se pudo acceder a los archivos. Permitir que el administrador de archivos acceda a los archivos en ajustes."</string>
+    <string name="permission_required">"No se pudo acceder a los archivos. Permitir que el Gestor de archivos acceda a los archivos en ajustes."</string>
     <string name="permission_storage">Almacenamiento</string>
     <string name="permission_storage_desc">Acceder y crear archivos, acceder al almacenamiento y guardar archivos</string>
     <string name="petabyteShort">PB</string>
@@ -667,7 +667,7 @@ Mantén pulsada una carpeta y pulsa \"Más\" para añadir."</string>
     <string name="phone_storage_image_title">Imágenes: </string>
     <string name="phone_storage_info_str">%1$s de %2$s disponible</string>
     <string name="phone_storage_other_title">Otros: </string>
-    <string name="phone_storage_size_tip">"La contabilidad de almacenamiento de administrador de archivos puede diferir de otras aplicaciones"</string>
+    <string name="phone_storage_size_tip">"La contabilidad de almacenamiento de Gestor de archivos puede diferir de otras aplicaciones"</string>
     <string name="phone_storage_total">Total</string>
     <string name="phone_storage_video_title">Vídeos: </string>
     <string name="phone_storage_zip_title">Archivos: </string>
@@ -692,7 +692,7 @@ Mantén pulsada una carpeta y pulsa \"Más\" para añadir."</string>
     <string name="pretty_girl">Hembra</string>
     <string name="privacy_accept">Aceptar y continuar</string>
     <string name="privacy_message">Antes de usar el Gestor de archivos debes aceptar nuestro &lt;font color=\"#4086f5\"&gt;&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%1$s&amp;lang=%2$s\" style=\"color:#4086f5;\"&gt;Acuerdo de Usuario&lt;/a&gt;&lt;/font&gt; y &lt;font color=\"#4086f5\"&gt;&lt;a href=\"https://privacy.mi.com/all/%2$s\" style=\"color:#4086f5;\"&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt;.</string>
-    <string name="privacy_policy">Política de privacidad</string>
+    <string name="privacy_policy">Política de Privacidad</string>
     <string name="privacy_title">Bienvenido al Gestor de archivos</string>
     <string name="private_files">Ocultos</string>
     <string name="private_folder">Carpeta oculta</string>
@@ -734,7 +734,7 @@ Mantén pulsada una carpeta y pulsa \"Más\" para añadir."</string>
     <string name="report_politics">Política de abuso</string>
     <string name="report_porn">Pornografía</string>
     <string name="report_violence">Violencia</string>
-    <string name="request_document_permission">Para administrar archivos en su tarjeta SD, otorgue al Administrador de archivos los permisos necesarios.</string>
+    <string name="request_document_permission">Para administrar archivos en su tarjeta SD, otorgue al Gestor de archivos los permisos necesarios.</string>
     <string name="request_document_permission_title">Se necesitan permisos</string>
     <string name="request_timeout">Tiempo de espera de red agotado</string>
     <string name="reset_password">Cambiar contraseña</string>
@@ -769,7 +769,7 @@ Mantén pulsada una carpeta y pulsa \"Más\" para añadir."</string>
     <string name="sd_full">La tarjeta SD está llena.</string>
     <string name="sd_invalid">"No se puede usar la SD"</string>
     <string name="sdcard">Tarjeta SD</string>
-    <string name="search_app">Fuente</string>
+    <string name="search_app">Aplicaciones y carpetas</string>
     <string name="search_app_more">Más</string>
     <string name="search_description">Buscar en todos los archivos del dispositivo</string>
     <string name="search_download">Descargas;Descargas recientes</string>
@@ -790,7 +790,7 @@ Mantén pulsada una carpeta y pulsa \"Más\" para añadir."</string>
     <string name="search_kuai_chuan">Mi Drop;Transferencia</string>
     <string name="search_menu_title">Buscar</string>
     <string name="search_popup_tip">Puede buscar personas y temas</string>
-    <string name="search_recent_file">Explorador de archivos;Explorador;Archivo;Archivos;Administrar archivos;Administrador de archivos</string>
+    <string name="search_recent_file">Explorador de archivos;Explorador;Archivo;Archivos;Administrar archivos;Gestor de archivos</string>
     <string name="search_result">Resultados</string>
     <string name="search_result_more">Más</string>
     <string name="search_statistic_appname">source</string>
@@ -1005,7 +1005,7 @@ Mantén pulsada una carpeta y pulsa \"Más\" para añadir."</string>
     <string name="user_not_login">Inicia sesión primero</string>
     <string name="user_not_video_btn_text">Subir primer video</string>
     <string name="user_notice_privacy_policy">Política de Privacidad</string>
-    <string name="user_notice_term_of_service">Acuerdo de usuario</string>
+    <string name="user_notice_term_of_service">Acuerdo de Usuario</string>
     <string name="user_recommend_follow">Perfiles recomendados</string>
     <string name="user_setting_follow_new_msg">Notificaciones de las personas que sigues</string>
     <string name="user_setting_follow_new_msg_tip">"Recibirá una notificación sobre los nuevos vídeos"</string>

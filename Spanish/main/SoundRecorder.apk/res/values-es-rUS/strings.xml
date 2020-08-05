@@ -35,7 +35,7 @@
     <string name="call_record">Llamadas grabadas</string>
     <string name="no_file">Vacío</string>
     <string name="alert_message_delete_record_title">¿Eliminar grabación?</string>
-    <string name="alert_message_delete_record">Eliminar la grabación de su dispositivo también la eliminará de Mi Cloud. ¿Eliminar ahora?</string>
+    <string name="alert_message_delete_record">Eliminar la grabación de su dispositivo también la eliminará de Xiaomi Cloud. ¿Eliminar ahora?</string>
     <string name="share">Compartir</string>
     <string name="rename">Renombrar</string>
     <string name="delete">Borrar</string>
@@ -73,8 +73,8 @@
     <string name="pause">Pausa</string>
     <string name="back">Volver</string>
     <string name="menu">Menú</string>
-    <string name="toast_uninstall_fileexplorer">El Administrador de Archivos no está instalado</string>
-    <string name="record_download">Descargar desde Mi Cloud</string>
+    <string name="toast_uninstall_fileexplorer">El Gestor de archivos no está instalado</string>
+    <string name="record_download">Descargar desde Xiaomi Cloud</string>
     <string name="record_download_msg">Las grabaciones solo pueden reproducirse después de que se hayan descargado.</string>
     <string name="record_download_msg_reload">Esta grabación no existe.</string>
     <string name="record_download_complete">Descargado</string>
@@ -82,7 +82,7 @@
     <string name="start">Continuar</string>
     <string name="record_downloading_notification">Descargando…</string>
     <string name="record_downloading_notification_count">%d descargando</string>
-    <string name="record_downloading_notification_complete">Descarga completa</string>
+    <string name="record_downloading_notification_complete">Descarga completada</string>
     <string name="wifi_recommended_title">Alerta de consumo de datos</string>
     <string name="wifi_recommended_body" formatted="false">Usar su conexión de datos para descargar este archivo (%s) aumentará el uso de datos. Si supera los datos establecidos por el plan de datos, el operador podrá cobrarle cargos adicionales. Para esperar una conexión Wi-Fi para descargar este archivo, pulsa %s.</string>
     <string name="button_queue_for_wifi">Esperar</string>
@@ -96,10 +96,10 @@
     <string name="record_back_pressed_hint">Para detener la grabación, pulse atrás de nuevo</string>
     <string name="record_mark_point">Marcar %s</string>
     <string name="record_quliaty_preference_title">Calidad de grabación</string>
-    <string name="cloud_record_tip">Sincronizar grabaciones con Mi Cloud.</string>
+    <string name="cloud_record_tip">Sincronizar grabaciones con Xiaomi Cloud.</string>
     <string name="cloud_record_open">Sincronizar grabaciones</string>
-    <string name="cloud_service_state_open_reminder">Active la sincronización con Mi Cloud para sincronizar las grabaciones.</string>
-    <string name="cloud_status_full_dialog_title">Almacenamiento Mi Cloud lleno</string>
+    <string name="cloud_service_state_open_reminder">Active la sincronización con Xiaomi Cloud para sincronizar las grabaciones.</string>
+    <string name="cloud_status_full_dialog_title">Almacenamiento Xiaomi Cloud lleno</string>
     <string name="cloud_status_full_dialog_msg">Su almacenamiento en la nube está lleno, no puede sincronizar las grabaciones. Actualice su cuenta para obtener más espacio de almacenamiento.</string>
     <string name="cloud_status_full_dialog_cancel">Ahora no</string>
     <string name="cloud_status_full_dialog_ok">Actualizar</string>
@@ -146,11 +146,11 @@
     <string name="network_tip_dialog_title">Se requiere conexión a internet</string>
     <string name="network_tip_dialog_content">La grabadora necesita conectarse a internet y leer sus contactos para funcionar normalmente. ¿Acepta?</string>
     <string name="network_tip_dialog_ok">Acepto</string>
-    <string name="network_tip_dialog_cancel">Cancelar</string>
+    <string name="network_tip_dialog_cancel">"Rechazar"</string>
     <string name="head_set_tip_dialog_title">Usar micrófono interno</string>
     <string name="head_set_tip_dialog_msg">Desconectar sus audífonos para poder grabar sonido con predeterminaciones específicas (por ej. Música, Voz).</string>
     <string name="head_set_tip_dialog_ok">Entendido</string>
     <string name="rename_fail_tip">No se pudo renombrar. El elemento con este nombre ya existe.</string>
-    <string name="dialog_privacy_revoke_tips">Después de revocar la autorización, la aplicación dejará de recopilar datos y todos los datos relacionados se eliminarán de los servidores. Esto podría hacer que la aplicación sea prácticamente inutilizable. ¿Desea revocar la autorización? Para garantizar la seguridad de su cuenta, inicie sesión en i.mi.com antes de revocar la autorización de los servicios Mi Cloud.</string>
+    <string name="dialog_privacy_revoke_tips">Después de revocar la autorización, la aplicación dejará de recopilar datos y todos los datos relacionados se eliminarán de los servidores. Esto podría hacer que la aplicación sea prácticamente inutilizable. ¿Desea revocar la autorización? Para garantizar la seguridad de su cuenta, inicie sesión en i.mi.com antes de revocar la autorización de los servicios Xiaomi Cloud.</string>
     <string name="privacy_policy_title">Política de Privacidad</string>
 </resources>
