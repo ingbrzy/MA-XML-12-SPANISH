@@ -13,7 +13,7 @@
     <string name="act_set_city_find_side">Ubicando</string>
     <string name="act_set_city_find_side_error">No puede localizarse el dispositivo</string>
     <string name="act_weather_find_city_added">Ciudad añadida</string>
-    <string name="act_weather_find_city_click_retry">Inténtelo de nuevo</string>
+    <string name="act_weather_find_city_click_retry">Intentar de nuevo</string>
     <string name="act_weather_find_city_net_no_good">No es posible conectarse a la red.</string>
     <string name="act_weather_find_city_no_result">Sin resultados</string>
     <string name="act_weather_find_city_searching">Buscando…</string>
@@ -71,7 +71,7 @@
     <string name="button_add_city">Añadir ubicación</string>
     <string name="button_allow">Aceptar</string>
     <string name="button_confirm">Aceptar</string>
-    <string name="button_exit">No estoy de acuerdo</string>
+    <string name="button_exit">"Rechazar"</string>
     <string name="button_not_allow">Cancelar</string>
     <string name="button_settings_cancel">Cancelar</string>
     <string name="button_settings_confirm">Revocar</string>
@@ -80,7 +80,7 @@
     <string name="button_sure_abandon">¿Descartar cambios?</string>
     <string name="card_vote_item_vs">contra</string>
     <string name="change_alert">Compruebe su conexión de red e inténtelo de nuevo</string>
-    <string name="china_version_first_start_network_msg">Al usar este producto, usted está de acuerdo con %1$s y %2$s de Xiaomi. Esta aplicación necesita conectarse a Internet y acceder a su ubicación para trabajar normalmente.</string>
+    <string name="china_version_first_start_network_msg">"Necesitas aceptar el %1$s y %2$s para poder usar Tiempo. Tiempo necesita acceso a tu ubicación y conectarse a Internet para funcionar correctamente. ¿Aceptar?"</string>
     <string name="city_exceeded_warning">Puedes añadir hasta 10 ciudades</string>
     <string name="clear_net_mock_success">Net mock clear success</string>
     <string name="common_loading_text">Un momento…</string>
@@ -109,7 +109,7 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="empty_view_net_loading">Actualizado…</string>
     <string name="empty_view_net_unavailable">"No se pudo conectar a la red"</string>
     <string name="empty_view_refresh">Intentar de nuevo</string>
-    <string name="eu_region_version_first_start_network_msg">Al usar este producto, acepta que Xiaomi recoja, procese y use su información personal, incluyendo las coordenadas de las ciudades que ha buscado, y otros tipos de información especificada en nuestra Política de Privacidad. Consulte nuestra Política de Privacidad para aprender como recogemos y procesamos la información. Pulsando sobre \"De acuerdo\", acepta el %1$s y %2$s de Xiaomi.</string>
+    <string name="eu_region_version_first_start_network_msg">"Al usar este producto, aceptas que este producto se conecte a la red, recopile, procese y use tu información personal, incluyendo las coordenadas de las ciudades que has buscado, y otros tipos de información especificada en nuestra Política de Privacidad. Consulta nuestra Política de Privacidad para aprender como recopilamos y procesamos la información. Al pulsar \"Aceptar\", aceptas el %1$s y %2$s de Xiaomi."</string>
     <string name="feedback">Reportar información meteorológica incorrecta</string>
     <string name="feedback_cloudy">Nuboso</string>
     <string name="feedback_foggy">Brumoso</string>
@@ -128,7 +128,7 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="feedback_sand">Arena</string>
     <string name="feedback_sandy">Arenoso</string>
     <string name="feedback_sunny">Despejado</string>
-    <string name="first_start_network_title">Conexión a Internet y acceso a la ubicación</string>
+    <string name="first_start_network_title">Conexión a Internet y acceso a ubicación</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">Ahora</string>
     <string name="hourly_forecast_date">d/M</string>
@@ -228,7 +228,7 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="receive_net_mock_success">Net mock receive success</string>
     <string name="refresh_fail">No se pudo conectar a la red</string>
     <string name="reminder_from_xiaomi_weather_app">Alertas Mi Tiempo</string>
-    <string name="retry">Inténtelo de nuevo</string>
+    <string name="retry">Intentar de nuevo</string>
     <string name="search_weather">El tiempo</string>
     <string name="search_weather_keywords">Temperatura;Previsión meteorológica;El tiempo;Calidad del aire;Grado de contaminación;Humedad</string>
     <string name="set">Ajustes</string>

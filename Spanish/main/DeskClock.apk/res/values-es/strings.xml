@@ -43,7 +43,7 @@
     <string name="alarm_ascending_mode_title">Volumen ascendente</string>
     <string name="alarm_clock_more_setting">Ajustes adicionales</string>
     <string name="alarm_disabled">Desactivada</string>
-    <string name="alarm_in_silent_mode_title">Alarma en modo silencio</string>
+    <string name="alarm_in_silent_mode_title">Alarma en modo Silencio</string>
     <string name="alarm_klaxon_service_desc">Servicio de reproducción de alarmas establecido en el Reloj.</string>
     <string name="alarm_label_hint">Etiqueta de alarma</string>
     <string name="alarm_list_title">Alarma</string>
@@ -87,7 +87,7 @@
     <string name="bedtime_setting_complete">¡Qué duermas bien!</string>
     <string name="bedtime_setting_complete_desc">Sigue tu nuevo horario para acostarte y así funcionar de la mejor forma posible</string>
     <string name="bedtime_setting_no_disturbance">¿Cambiar al Modo no molestar mientras duermes?</string>
-    <string name="bedtime_setting_no_disturbance_desc">Los tonos de llamada, sonidos de notificaciones y la vibración será silenciados hasta que te despiertes</string>
+    <string name="bedtime_setting_no_disturbance_desc">Los tonos de llamada, sonidos de notificaciones y vibración estarán silenciados hasta que te despiertes</string>
     <string name="bedtime_setting_repeat_type">¿Cuándo se aplicará tu horario para acostarte?</string>
     <string name="bedtime_setting_repeat_type_desc">Selecciona los días en los que recibirás recordatorios</string>
     <string name="bedtime_settings">Ajustes de la hora de acostarte</string>
@@ -104,7 +104,7 @@
     <string name="channel_name_sleep">Sueño</string>
     <string name="channel_name_timer">Temporizador</string>
     <string name="check_theme_app_install">Comprueba que la aplicación de Temas está instalada en tu dispositivo.</string>
-    <string name="check_voice_assist_app_version">Actualizar Mi IA a la última versión.</string>
+    <string name="check_voice_assist_app_version">Actualizar Mi AI a la última versión.</string>
     <string name="city_time_contrast_desc">Pulsa para comparar la hora en diferentes ciudades</string>
     <string name="clock_bg_button_setting_summary_common">Seleccione el color de fondo para la aplicación Reloj</string>
     <string name="clock_bg_button_setting_summary_follow_sys">El negro se usará como color de fondo cada vez que cambie al modo Oscuro</string>
@@ -143,7 +143,7 @@
     <string name="dialog_legal_workday_desc">El Reloj no tiene permitido conectarse a internet para actualizar la información acerca de festivos. Las alarmas de entre semana sonarán de lunes a viernes.</string>
     <string name="dialog_message_agree">Aceptar</string>
     <string name="dialog_message_for_contact_permission">Para tener disponibles las alarmas de cumpleaños, el Reloj necesita acceder a sus contactos. ¿Aceptar?</string>
-    <string name="dialog_message_negative">No estoy de acuerdo</string>
+    <string name="dialog_message_negative">Rechazar</string>
     <string name="dialog_message_not_remind">No volver a mostrar</string>
     <string name="dialog_net_permission_in_repeat_type">&lt;Data&gt;Esta función necesita conectarse a internet para trabajar con normalidad. Antes de aceptar esta función debes aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
     <string name="dialog_privacy_content">Con el fin de obtener información relevante acerca de vacaciones públicas, ajustar alarmas y proporcionar servicios personalizados, el Reloj necesita conectarse a internet. Antes de usar el reloj debes leer y aceptar nuestro %1$s y %2$s. ¿Aceptar?</string>
@@ -151,7 +151,7 @@
     <string name="dialog_privacy_content_news">Con el fin de proporcionar servicios personalizados e incluir noticias a tus alarmas, el Reloj necesita conectarse a internet. Antes de usar el reloj debes leer y aceptar nuestro %1$s y %2$s. ¿Aceptar?</string>
     <string name="dialog_privacy_content_timer">Con el fin de descargar archivos de audio para los temporizadores de ruidos ambientales y proporcionar servicios personalizados, el Reloj necesita conectarse a internet. Antes de usar el reloj debes leer y aceptar nuestro %1$s y %2$s. ¿Aceptar?</string>
     <string name="dialog_privacy_content_timer_data">Con el fin de descargar archivos de audio para los temporizadores de ruidos ambientales (20MB) y proporcionar servicios personalizados, el Reloj necesita conectarse a internet. Antes de usar el reloj debes leer y aceptar nuestro %1$s y %2$s. Ahora estás usando datos móviles ¿Aceptar?</string>
-    <string name="disagree">No aceptar</string>
+    <string name="disagree">Rechazar</string>
     <string name="done">Listo</string>
     <string name="dynamic_alarm_speech">Alarma inteligente</string>
     <string name="edit_alarm">Editar alarma</string>
@@ -197,15 +197,15 @@
     <string name="legal_workday_invalidate">Datos expirados (La alarma sonará de Lun a Vie)</string>
     <string name="legal_workday_invalidate_message">(Datos expirados. Actualizar en Ajustes)</string>
     <string name="legal_workday_message">" (Alarma desactivada en festivos)"</string>
-    <string name="life_post_setting">Informe de la mañana</string>
-    <string name="life_post_setting_FBE_remind">Debido a restricciones del sistema, la información meteorológica en informes matutinos podría no ser mostrada correctamente después de reiniciar el dispositivo.</string>
-    <string name="life_post_setting_close_title">Desactivar informes de la mañana</string>
+    <string name="life_post_setting">Informe matutino</string>
+    <string name="life_post_setting_FBE_remind">Debido a restricciones del sistema, la información meteorológica en los informes matutinos podría no ser mostrada correctamente después de reiniciar el dispositivo.</string>
+    <string name="life_post_setting_close_title">Desactivar informes matutinos</string>
     <string name="life_post_setting_open_background_subtitle">Mostrar imágenes de fondo para alarmas relacionadas</string>
     <string name="life_post_setting_open_background_title">Mostrar imagen de fondo</string>
-    <string name="life_post_setting_open_desc">Desactivar repetición de alarmas entre 04:00 y 10:00 AM para escuchar el reporte meteorológico</string>
-    <string name="life_post_setting_open_subtitle">Recibir información sobre el tiempo al desactivar las alarmas entre las 4:00 y las 9:30</string>
-    <string name="life_post_setting_open_summary">Incluir información meteorológica en la primera alarma desactivada entre 4:00 y 10:00</string>
-    <string name="life_post_setting_open_title">Recibir informes de la mañana</string>
+    <string name="life_post_setting_open_desc">Desactivar repetición de alarmas de 4:00 a 10:00 para escuchar el informe meteorológico</string>
+    <string name="life_post_setting_open_subtitle">Recibir información sobre el tiempo al desactivar alarmas entre las 4:00 y las 9:30</string>
+    <string name="life_post_setting_open_summary">Incluir información meteorológica en la primera alarma desactivada entre las 4:00 y las 10:00</string>
+    <string name="life_post_setting_open_title">Recibir informes matutinos</string>
     <string name="life_post_setting_wake_up_list_title">Historial del despertador</string>
     <string name="life_post_wake_up_acumu_day_title">Días contados</string>
     <string name="life_post_wake_up_item_acumu_day">%1$s días</string>
@@ -220,7 +220,7 @@
     <string name="life_post_weather_description_secondary">%1$s, %2$s, %3$s</string>
     <string name="life_post_weather_description_third">%1$s, %2$s</string>
     <string name="life_post_weather_invalid">No se pudo obtener la información del tiempo, pulsa nuevamente para reintentarlo</string>
-    <string name="life_post_weather_no_network">Conéctate a la red para actualizar información del tiempo</string>
+    <string name="life_post_weather_no_network">Conéctate a la red para actualizar la info del tiempo</string>
     <string name="life_post_weather_temperature_centigrade">°</string>
     <string name="listen_news_privacy">&lt;Data&gt;Para proveer servicios personalizados e incluir noticias matutinas en tus alarmas, el Reloj necesita conectarse a internet. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
     <string name="loading_ringtone">Cargando tono…</string>
@@ -285,7 +285,7 @@
     <string name="more_alert_setting">Ajustes de alarma adicionales</string>
     <string name="more_setting">Más ajustes</string>
     <string name="more_settings">Ajustes</string>
-    <string name="net_permission_cancel">No aceptar</string>
+    <string name="net_permission_cancel">"Rechazar"</string>
     <string name="net_permission_ok">Aceptar</string>
     <string name="network_privacy">&lt;Data&gt;Para obtener información importante sobre días festivos locales, ajustar alarmas y proveer servicios personalizados, el Reloj necesita conectarse a internet. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
     <string name="network_privacy_global">&lt;Data&gt;Para proveer servicios personalizados, el Reloj necesita conectarse a internet. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
@@ -353,7 +353,7 @@
     <string name="sleep_duration_desc">Dormiste %1$s %2$s</string>
     <string name="sleep_duration_no_data">Todavía no hay suficientes datos</string>
     <string name="sleep_duration_recommendation">La mayoría de las personas necesitan dormir de 7 a 9 horas cada noche</string>
-    <string name="sleep_no_disturbance">Modo no molestar</string>
+    <string name="sleep_no_disturbance">Modo No molestar</string>
     <string name="sleep_no_disturbance_desc">Cambia al Modo no molestar hasta que te despiertes</string>
     <string name="sleep_no_record_text">Comienza a hacer un seguimiento de tu sueño para ver las estadísticas</string>
     <string name="sleep_notification_desc">Sigue tu horario para acostarte</string>

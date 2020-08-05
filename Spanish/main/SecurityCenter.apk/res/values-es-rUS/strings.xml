@@ -313,7 +313,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="cta_dialog_title">Conexión a Internet</string>
     <string name="cta_dialog_msg">Seguridad requiere una conexión a internet para obtener actualizaciones, así como acceder a la ubicación para funcionar correctamente.</string>
     <string name="cta_settings">Permitir conexión a la red</string>
-    <string name="gdpr_msg">&lt;Data&gt;Para poder usar las funciones básicas de Seguridad, debe aceptar que Xiaomi recopilará, procesará y usará su información personal, incluida información sobre la manera en que utiliza las funciones básicas (p. ej. estadísticas del uso de datos móviles, información sobre malware, así como información básica de su dispositivo) y otro tipo de información especificada en nuestra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidad&lt;/a>.&lt;/Data&gt;</string>
+    <string name="gdpr_msg">&lt;Data&gt;Para poder usar las funciones básicas de Seguridad, debe aceptar que Xiaomi recopilará, procesará y usará su información personal, incluida información sobre la manera en que utiliza las funciones básicas (por ejemplo, estadísticas del uso de datos móviles, información sobre malware, así como información básica de su dispositivo) y otro tipo de información especificada en nuestra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidad&lt;/a>.&lt;/Data&gt;</string>
     <string name="app_name_na">Uso de datos</string>
     <string name="list_empty_text">Vacío</string>
     <string name="dialog_title_attention">Advertencia</string>
@@ -1052,8 +1052,8 @@ su dispositivo"</string>
     <string name="power_optimize_disable_app_autostart">Prevenir que las apps se abran automáticamente</string>
     <string name="power_optimize_disable_start_other_app">Prevenir que las apps abran otras apps</string>
     <string name="power_optimize_brightness">Brillo de la pantalla</string>
-    <string name="power_optimize_open_hide_mode">Activar el Economizador de batería</string>
-    <string name="power_optimize_auto_catagory_title">Problemas de la batería</string>
+    <string name="power_optimize_open_hide_mode">Activar el Ahorro de batería</string>
+    <string name="power_optimize_auto_catagory_title">Problemas de batería</string>
     <string name="power_optimize_catagory_fixed_title">Optimizado</string>
     <string name="power_optimize_btn_text_fixed">Optimizado</string>
     <string name="power_optimize_loading">Cargando</string>
@@ -1074,10 +1074,10 @@ su dispositivo"</string>
     <string name="battery_history_activity_title">Historial</string>
     <string name="btn_text_goto_power_rank">Ver clasificaciones de la batería</string>
     <string name="btn_text_goto_setup">Ir a los Ajustes</string>
-    <string name="power_save_title_text">Economizador de batería</string>
-    <string name="power_save_summary_text">Activar el Ahorrador de batería para reducir la actividad en segundo plano de las apps, detener sincronizaciones y minimizar las animaciones del sistema.</string>
+    <string name="power_save_title_text">Ahorro de batería</string>
+    <string name="power_save_summary_text">Activar el Ahorro de batería para reducir la actividad en segundo plano de las apps, detener sincronizaciones y minimizar las animaciones del sistema.</string>
     <string name="hide_mode_summary_text">Administrar el uso de batería de las apps en segundo plano</string>
-    <string name="hide_mode_app_background_setting_text">Economizador de batería de apps</string>
+    <string name="hide_mode_app_background_setting_text">Ahorro de batería de apps</string>
     <string name="battery_estimate_usage_time_title">Tiempo de uso</string>
     <string name="battery_estimate_charge_time_title">Tiempo de carga</string>
     <string name="battery_temperature_title">Temperatura</string>
@@ -1093,15 +1093,16 @@ su dispositivo"</string>
     <string name="notification_battery_consume_abnormal_title">La batería está siendo usada muy rápido</string>
     <string name="notification_battery_consume_abnormal_summary">%2$s de la batería usada en los últimos %1$d minutos</string>
     <string name="app_check_no_issue">Parece que no hay problemas de batería. ¡Genial!</string>
-    <string name="power_save_mode_enable">Ahorrador de batería</string>
+    <string name="power_save_mode">Ahorro de batería</string>
+    <string name="power_save_mode_enable">Ahorro de batería</string>
     <string name="power_save_mode_summary">Monitorear procesos en segundo plano y desactivar sincronización.</string>
-    <string name="power_optimize_save_mode_not_opened">El Ahorrador de batería está desactivado</string>
-    <string name="notification_exit_power_save_mode">Se desactivo el Ahorrador de batería</string>
+    <string name="power_optimize_save_mode_not_opened">El Ahorro de batería está desactivado</string>
+    <string name="notification_exit_power_save_mode">Se desactivo el Ahorro de batería</string>
     <string name="notification_exit_power_save_mode_subtitle">Batería cargada al %s.</string>
     <string name="power_save_mode_auto_exit_title">Desactivar cuando esté cargado</string>
     <string name="power_save_mode_auto_exit_summary">Desactivar cuando la batería esté al 60% o llena</string>
-    <string name="power_save_mode_close_warn_title">Ahorrador de batería</string>
-    <string name="power_save_mode_close_warn_text">El Ahorrador de batería restringe la actividad en segundo plano y la sincronización. Si elige activarlo cuando su dispositivo está cargado, algunas funciones pueden no funcionar correctamente. ¿Mantener encendido el Ahorrador de batería cuando su dispositivo está cargado?</string>
+    <string name="power_save_mode_close_warn_title">Ahorro de batería</string>
+    <string name="power_save_mode_close_warn_text">El Ahorro de batería restringe la actividad en segundo plano y la sincronización. Si elige activarlo cuando su dispositivo está cargado, algunas funciones pueden no funcionar correctamente. ¿Mantener encendido el Ahorro de batería cuando su dispositivo está cargado?</string>
     <string name="battery_health_title_text">Salud de la batería</string>
     <string name="battery_health_status_text">Estado de la batería</string>
     <string name="battery_health_voltage_text">Voltaje de la batería</string>
@@ -1141,7 +1142,7 @@ su dispositivo"</string>
     <string name="auto_task_operation_memory_clean_lockscreen">Limpiar memoria</string>
     <string name="auto_task_operation_mobile_data">Datos móviles</string>
     <string name="auto_task_operation_wifi">Wi-Fi</string>
-    <string name="auto_task_operation_mute">Modo silencioso</string>
+    <string name="auto_task_operation_mute">Modo Silencio</string>
     <string name="auto_task_operation_vibration">Vibración</string>
     <string name="auto_task_operation_bluetooth">Bluetooth</string>
     <string name="auto_task_operation_auto_brightness">Brillo automático</string>
@@ -1282,7 +1283,7 @@ su dispositivo"</string>
     <string name="sp_background_risk_type_sign">Una app no oficial está siendo ejecutada</string>
     <string name="sp_background_risk_type_root">El sistema ha sido rooteado</string>
     <string name="resource_securitycenter_settings">Seguridad</string>
-    <string name="keywords_securitycenter_settings">Uso de batería;Administrar autoinicio;Instalar vía USB;Permisos de app;Comprar datos móviles;Lista de bloqueo;Uso de datos;Calibrar plan de datos;Probar red; Ahorrar batería;Calentamiento;Encender;Apagar;Batería;Consumo;Problemas de batería;Energía;Ahorrador de batería;Ahorrador de energía;Ahorro de energía;Ahorro de batería; Autoinicio;Permisos;Auto inicio;Autoinicio de MIUI; Autoinicio de app; autoiniciar apps;Inicio en cadena;inicio encadenado;Inicio desencadenado;Instalar USB;instalar del computador;instalar ADB; Ubicación;Accesar contactos; datos;datos móviles;comprar datos;cargar datos;plan de datos; Bloquear;Lista negra;Lista de bloqueo inteligente;Fraude;Ventas;Agentes;Lista de bloqueo de llamadas;Lista de bloqueo de mensajes;Lista de bloqueo de mensajería;Lista de bloqueo de SMS;lista negra;lista negra;lista de bloqueo;lista de bloqueo;fraude;bloquear contacto;bloquear contactos; Tráfico; Calibrar; Conexión;Internet;Prueba; Uso de batería; Juego;aumentar velocidad;Glory of the king;Modo rendimiento;No Molestar</string>
+    <string name="keywords_securitycenter_settings">Uso de batería;Administrar autoinicio;Instalar vía USB;Permisos de app;Comprar datos móviles;Lista de bloqueo;Uso de datos;Calibrar plan de datos;Probar red; Ahorrar batería;Calentamiento;Encender;Apagar;Batería;Consumo;Problemas de batería;Energía;Ahorro de batería;Ahorrador de energía;Ahorro de energía;Ahorro de batería; Autoinicio;Permisos;Auto inicio;Autoinicio de MIUI; Autoinicio de app; autoiniciar apps;Inicio en cadena;inicio encadenado;Inicio desencadenado;Instalar USB;instalar del computador;instalar ADB; Ubicación;Accesar contactos; datos;datos móviles;comprar datos;cargar datos;plan de datos; Bloquear;Lista negra;Lista de bloqueo inteligente;Fraude;Ventas;Agentes;Lista de bloqueo de llamadas;Lista de bloqueo de mensajes;Lista de bloqueo de mensajería;Lista de bloqueo de SMS;lista negra;lista negra;lista de bloqueo;lista de bloqueo;fraude;bloquear contacto;bloquear contactos; Tráfico; Calibrar; Conexión;Internet;Prueba; Uso de batería; Juego;aumentar velocidad;Glory of the king;Modo rendimiento;No Molestar</string>
     <string name="path_securitycenter_settings">Apps del sistema/Seguridad</string>
     <string name="resource_securitycenter">Seguridad</string>
     <string name="keywords_securitycenter">Seguridad;Revisar;Escanear</string>
@@ -1294,7 +1295,7 @@ su dispositivo"</string>
     <string name="keywords_antivirus">Virus;Riesgo;Antivirus;Análisis;Verificar seguridad de pago;seguridad de pago;pago seguro;pagos seguros;protección de pago;proteger pagos;pagos protegidos;zona segura;zona de pago</string>
     <string name="path_antivirus">Apps del sistema/Seguridad/Escaneo de virus</string>
     <string name="resource_powercenter">Uso de batería</string>
-    <string name="keywords_powercenter">Ahorrar batería;Calentamiento;Encender;Apagar;Batería;Consumo;Batería;Problemas de batería;Energía;Consumo;Calentamiento;Ahorrador de batería;Ahorrador de energía;Ahorrando energía;Ahorrando batería</string>
+    <string name="keywords_powercenter">Ahorrar batería;Calentamiento;Encender;Apagar;Batería;Consumo;Batería;Problemas de batería;Energía;Consumo;Calentamiento;Ahorro de batería;Ahorrador de energía;Ahorrando energía;Ahorrando batería</string>
     <string name="path_powercenter">Apps del sistema/Seguridad/Uso de batería</string>
     <string name="resource_auto_restart">Gestionar autoinicio</string>
     <string name="keywords_auto_restart">Autoinicio; Permisos;Auto inicio;Autoinicio; Gestionar autoinicio; Autoinicio MIUI; Autoinicio de app; autoiniciar apps;Inicio en cadena;inicio encadenado;desencadenar inicio</string>
@@ -1979,7 +1980,7 @@ su dispositivo"</string>
     <string name="app_manager_permission_startself_title">Auto-inicio</string>
     <string name="app_manager_permission_manager_title">Permisos</string>
     <string name="app_manager_permission_notify_title">Notificaciones</string>
-    <string name="app_manager_permission_power_saving_title">Ahorrador de batería</string>
+    <string name="app_manager_permission_power_saving_title">Ahorro de batería</string>
     <string name="app_manager_default_open_title">Borrar predeterminados</string>
     <string name="app_manager_default_close_summary">No hay predeterminados configurados.</string>
     <string name="app_manager_default_open_summary">Ha elegido esta app como predeterminada para algunas acciones.</string>
@@ -2006,7 +2007,7 @@ su dispositivo"</string>
     <string name="app_manager_manage_space">Administrar espacio</string>
     <string name="app_manager_permission_summary_reject">Restringir todo</string>
     <string name="app_manager_powerkeeper_no_restrict">Sin restricciones</string>
-    <string name="app_manager_powerkeeper_miui_auto">Economizador de batería MIUI</string>
+    <string name="app_manager_powerkeeper_miui_auto">Ahorro de batería de MIUI</string>
     <string name="app_manager_powerkeeper_restrict_bg">Restringir apps en segundo plano</string>
     <string name="app_manager_powerkeeper_no_bg">Restringir actividad en segundo plano</string>
     <string name="app_manager_app_storage">"Almacenamiento: "</string>
@@ -2107,7 +2108,7 @@ su dispositivo"</string>
     <string name="gs_gamebox">Atajos en el juego</string>
     <string name="gs_gamebox_detail">Mostrar panel con atajos en el juego</string>
     <string name="gs_forbid_autosync">Restringir sincronización en segundo plano</string>
-    <string name="gs_app_back_self_start">Ahorrador de batería</string>
+    <string name="gs_app_back_self_start">Ahorro de batería</string>
     <string name="gs_only_self_start_for_list">Restringir procesos en segundo plano para ahorrar batería para juegos</string>
     <string name="gs_game_shortcut">Mejore su experiencia de juego</string>
     <string name="gs_game_net_priority">Prioridad de conexión</string>
@@ -2333,7 +2334,7 @@ su dispositivo"</string>
     <string name="power_mode_vibration">Vibrar</string>
     <string name="power_mode_vibration_yes">Siempre</string>
     <string name="power_mode_vibration_no">Nunca</string>
-    <string name="power_mode_vibration_silence">En modo silencio</string>
+    <string name="power_mode_vibration_silence">En modo Silencio</string>
     <string name="power_mode_bluetooth">Bluetooth</string>
     <string name="power_mode_synchronization">Sincronizar</string>
     <string name="power_mode_gps">GPS</string>

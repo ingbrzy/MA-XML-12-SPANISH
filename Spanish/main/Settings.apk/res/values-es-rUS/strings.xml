@@ -207,8 +207,8 @@ El administrador puede controlar y administrar la configuración, el acceso, las
     <string name="alarm_ringtone_title">Alarma: sonido predeterminado</string>
     <string name="alarm_sound_dialog_title">Escoja el sonido de alarma</string>
     <string name="alarm_sound_title">Sonido de alarma</string>
-    <string name="alarm_stop">Desactivar Modo Silencio cuando la alarma se apaga</string>
-    <string name="alarm_stop_info">Se desactivará el Modo Silencio cuando la alarma se apague</string>
+    <string name="alarm_stop">Desactivar modo Silencio cuando la alarma se apaga</string>
+    <string name="alarm_stop_info">Se desactivará el modo Silencio cuando la alarma se apague</string>
     <string name="alarm_volume_option_title">Volumen de alarma</string>
     <string name="alarm_volume_title">Alarma</string>
     <string name="all_volume_title">Volumen</string>
@@ -3254,7 +3254,7 @@ La app podrá activar y desactivar el modo No molestar, y cambiar la configuraci
     <string name="power_mgr">Energía</string>
     <string name="power_mode">Ajustes de energía</string>
     <string name="power_mode_balanced_title">Consumo equilibrado</string>
-    <string name="power_optimize">Economizador de batería</string>
+    <string name="power_optimize">Ahorro de batería</string>
     <string name="power_overcounted">Sobrecalculada</string>
     <string name="power_phone">Llamadas de voz</string>
     <string name="power_remaining_charging_duration_only">%1$s - para carga completa</string>
@@ -3577,7 +3577,7 @@ Interfaz de UT: %5$s"</string>
     <string name="remove_managed_profile_label">Eliminar perfil de trabajo</string>
     <string name="repeat">Repetir</string>
     <string name="repeat_call">Notificar llamadas repetidas</string>
-    <string name="repeat_call_info">Permitir sonido para llamadas repetidas durante 15 minutos en Modo Silencio</string>
+    <string name="repeat_call_info">Permitir sonido para llamadas repetidas durante 15 minutos en modo Silencio</string>
     <string name="repeat_title">Repetir</string>
     <string name="reset_aaid">Reiniciar identificador de publicidad</string>
     <string name="reset_app_preferences">Restablecer preferencias</string>
@@ -3869,7 +3869,7 @@ Para usar la fijación de pantalla:
     <string name="search_bluetooth_enable">Bluetooth;Activar Bluetooth;Bluetooth activado</string>
     <string name="search_bluetooth_settings_title">Bluetooth;Visible</string>
     <string name="search_bluetooth_tether_checkbox_text">Conexión Bluetooth;conectando</string>
-    <string name="search_brightness">Brillo;Brillo de pantalla;Brillo de pantalla</string>
+    <string name="search_brightness">Brillo;Brillo de la pantalla;Brillo de la pantalla</string>
     <string name="search_button_light_timeout">Mantener las luces de los botones encendidas;Luces de botones</string>
     <string name="search_calendar_sound_title">Sonido de calendario;Tono de calendario;Calendario</string>
     <string name="search_captioning_locale">Idioma</string>
@@ -3947,7 +3947,7 @@ Para usar la fijación de pantalla:
     <string name="search_power_hide_mode_title">Administrar el uso de batería de las apps;Uso de batería de las apps;Uso de la batería;Estadísticas de la batería</string>
     <string name="search_power_mode">Ajustes de energía;Energía</string>
     <string name="search_power_optimize">Ahorro de batería;Ahorrar batería</string>
-    <string name="search_power_usage_summary_title">Batería y desempeño;Batería y desempeño;Batería;desempeño;Ahorrador de batería;Guardar batería</string>
+    <string name="search_power_usage_summary_title">Batería y desempeño;Batería y desempeño;Batería;desempeño;Ahorro de batería;Guardar batería</string>
     <string name="search_pref_edge_handgrip">Controles de borde</string>
     <string name="search_pref_volume_wake_title">Activar con botones de volumen;botones de volumen</string>
     <string name="search_preferred_network_type_title">Tipos de redes preferidas;Redes preferidas;Tipo de red</string>
@@ -4100,7 +4100,6 @@ Nota: No puedes usar tu huella dactilar para desbloquear este dispositivo. Para 
     <string name="security_settings_fingerprint_enroll_introduction_title">Desbloquea con tu huella dactilar</string>
     <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Usa tus huellas dactilares</string>
     <string name="security_settings_fingerprint_enroll_lift_touch_again">Levanta el dedo y vuelve a tocar el sensor</string>
-    <string name="security_settings_fingerprint_enroll_repeat_message">Mueve el dedo ligeramente para agregar todas las partes de tu huella dactilar.</string>
     <string name="security_settings_fingerprint_enroll_repeat_title">Continuar</string>
     <string name="security_settings_fingerprint_enroll_setup_screen_lock">Configurar bloqueo de pantalla</string>
     <string name="security_settings_fingerprint_enroll_start_message">Coloca el dedo en el sensor y levántalo cuando sientas una vibración.</string>
@@ -4235,11 +4234,11 @@ Nota: No puedes usar tu huella dactilar para desbloquear este dispositivo. Para 
     <string name="shuting_down_find_device">Apagando la búsqueda de dispositivo…</string>
     <string name="silent_duration">Duración</string>
     <string name="silent_mode">Modo Silencio</string>
-    <string name="silent_mode_title">Modo silencio</string>
+    <string name="silent_mode_title">Modo Silencio</string>
     <string name="silent_off">Desactivar</string>
     <string name="silent_settings">Silencio/No molestar</string>
     <string name="silent_standard">Silenciar</string>
-    <string name="silent_time">Duración del Modo Silencio</string>
+    <string name="silent_time">Duración del modo Silencio</string>
     <string name="silent_total">No molestar</string>
     <string name="sim_bad_pin">El PIN debe contener de 4 a 8 números de longitud</string>
     <string name="sim_call_back_title">Devolver la llamada desde la tarjeta SIM predeterminada</string>
@@ -4367,7 +4366,7 @@ Esto ocurre porque hay una credencial de confianza instalada en el dispositivo."
     <string name="stable_build">Estable</string>
     <string name="standard">Silenciar</string>
     <string name="standard_info">Se silenciarán llamadas y notificaciones</string>
-    <string name="start_silent_mode">Activar Modo Silencio</string>
+    <string name="start_silent_mode">Activar modo Silencio</string>
     <string name="starting_android">Iniciando Android…</string>
     <string name="status_awaiting_tap">Presiona una etiqueta para editarla…</string>
     <string name="status_awake_time">Hora de actividad</string>
@@ -5151,7 +5150,7 @@ Toca el \"más\" para agregar palabras."</string>
     <string name="version_text">versión %1$s</string>
     <string name="vibrate_category_title">Vibrar</string>
     <string name="vibrate_in_normal_title">Vibrar con timbre</string>
-    <string name="vibrate_in_silent_title">Vibrar en modo silencioso</string>
+    <string name="vibrate_in_silent_title">Vibrar en modo Silencioso</string>
     <string name="vibrate_input_devices">Usar vibración</string>
     <string name="vibrate_input_devices_summary">Redireccionar la vibración al controlador de juegos cuando se haya establecido una conexión</string>
     <string name="vibrate_on_touch_title">Vibrar al presionar</string>
@@ -5198,7 +5197,7 @@ Toca el \"más\" para agregar palabras."</string>
     <string name="virus_scanner_update_lib">Actualizar definiciones</string>
     <string name="vision_settings_description">Puedes personalizar este dispositivo para que se adapte a tus necesidades. Estas funciones de accesibilidad pueden cambiarse más tarde en Configuración.</string>
     <string name="vision_settings_title">Configuración de visión</string>
-    <string name="voice_assist">Mi IA</string>
+    <string name="voice_assist">Mi AI</string>
     <string name="voice_category">Discurso</string>
     <string name="voice_helper_title">Asistente de voz</string>
     <string name="voice_input_output_settings">Entrada y salida de voz</string>
@@ -5876,7 +5875,7 @@ Toca el \"más\" para agregar palabras."</string>
     <string name="zen_mode_no_visual_interruptions">Cuando la pantalla está encendida o apagada</string>
     <string name="zen_mode_option_alarms">Solo alarmas</string>
     <string name="zen_mode_option_important_interruptions">Solo prioridad</string>
-    <string name="zen_mode_option_miui_silent">Modo silencio</string>
+    <string name="zen_mode_option_miui_silent">Modo Silencio</string>
     <string name="zen_mode_option_miui_vibrate">No molestar</string>
     <string name="zen_mode_option_no_interruptions">Silencio total</string>
     <string name="zen_mode_phone_calls">Llamadas</string>

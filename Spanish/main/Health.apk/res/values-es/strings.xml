@@ -40,18 +40,17 @@
     <string name="activity_title_sleep_detection">Analizar ciclo de sueño</string>
     <string name="activity_title_sleep_detection_question">FAQ</string>
     <string name="activity_title_statistic">Estadísticas</string>
-    <string name="add">Agregar</string>
-    <string name="add_body_weight_button">Agregar datos de peso</string>
-    <string name="add_body_weight_record_button">Agregar datos de peso</string>
-    <string name="add_data_source">Agregar fuentes de datos</string>
-    <string name="add_data_source_description">"Agregue datos de salud generados por otros dispositivos a Xiaomi Health para aumentar la precisión de las estadísticas y obtener consejos de salud más relevantes.
-Xiaomi Health admite dispositivos que haya agregado previamente en la aplicación Xiaomi Home. Si no puede encontrar el dispositivo que desea agregar, verifique si ya lo ha agregado en Xiaomi Home primero."</string>
-    <string name="add_data_source_login_and_open_sync">Inicie sesión en su Cuenta Mi y active la sincronización con la nube para poder agregar fuentes de datos.</string>
-    <string name="add_data_source_open_sync">Active la sincronización con la nube para poder agregar fuentes de datos.</string>
-    <string name="add_data_source_support_step">"Este dispositivo no genera datos de conteo de pasos. Puede intentar cambiar a otras fuentes de datos."</string>
+    <string name="add">Añadir</string>
+    <string name="add_body_weight_button">Añadir datos de peso</string>
+    <string name="add_body_weight_record_button">Añadir datos de peso</string>
+    <string name="add_data_source">Añadir fuentes de datos</string>
+    <string name="add_data_source_description">Añade datos de salud generados por otros dispositivos a Xiaomi Health para aumentar la precisión de las estadísticas y obtener consejos de salud más relevantes.</string>
+    <string name="add_data_source_login_and_open_sync">Inicia sesión en tu Cuenta Mi y activa la sincronización con la nube para poder añadir fuentes de datos.</string>
+    <string name="add_data_source_open_sync">Active la sincronización con la nube para poder añadir fuentes de datos.</string>
+    <string name="add_data_source_support_step">"Este dispositivo no genera datos de conteo de pasos. Puedes intentar cambiar a otras fuentes de datos."</string>
     <string name="add_model_card">"Toca el botón en la esquina superior izquierda
-para agregar tarjetas"</string>
-    <string name="add_record">Agregar</string>
+para añadir tarjetas"</string>
+    <string name="add_record">Añadir</string>
     <string name="added_data_source">Fuentes agregadas</string>
     <string name="all_records">Todos los registros</string>
     <string name="allow_notice_periods">Periodo de tiempo activo</string>
@@ -240,8 +239,8 @@ Xiaomi Health solo te notificará sobre elementos importantes."</string>
     <string name="exercise_reminder_title">Recordatorio de actividad</string>
     <string name="exercise_reminder_unaccomplished">Todavía no has alcanzado tu objetivo. ¡Sigue adelante!</string>
     <string name="exercise_result_reminder_content">%1$d min(s) de ejercicio (%2$d Cal). Toca para ver detalles.</string>
-    <string name="exercise_result_reminder_title">"Conteo de pasos de hoy: %1$d. ¡Alcanzaste el objetivo!"</string>
-    <string name="exercise_result_reminder_title_unaccomplished">"Conteo de pasos de hoy: %1$d. ¡Todavía puedes llegar al objetivo!"</string>
+    <string name="exercise_result_reminder_title">"Pasos hoy: %1$d. ¡Alcanzaste el objetivo!"</string>
+    <string name="exercise_result_reminder_title_unaccomplished">"Pasos hoy: %1$d. ¡Todavía puedes lograrlo!"</string>
     <string name="exercise_setting_label_reach_standard_remind">Alerta de actividad</string>
     <string name="exercise_setting_page_title">Ajustes de actividad</string>
     <string name="expand_button_title">Avanzado</string>
@@ -340,15 +339,15 @@ Xiaomi Health solo te notificará sobre elementos importantes."</string>
     <string name="medication_and_treatment">Medicamentos y tratamientos en curso</string>
     <string name="medication_and_treatment_hint">Enumera los medicamentos que tomas o podrías necesitar en caso de emergencia, así como prótesis, aparatos dentales y cirugías.</string>
     <string name="chronic">Condiciones crónicas</string>
-    <string name="chronic_hint">Describe tus condiciones crónicas (p. ej. presión arterial alta, asma, etc.)</string>
+    <string name="chronic_hint">Describe tus condiciones crónicas (por ejemplo, presión arterial alta, asma, etc.)</string>
     <string name="allergic_drugs">Alergias a medicamentos</string>
     <string name="allergic_drugs_hint">Introduce el medicamento y la reacción al mismo</string>
     <string name="remarks">Observaciones</string>
     <string name="medium_intensity">Moderada</string>
     <string name="member">Usuario</string>
     <string name="member_name_select">Selecciona tu nombre de usuario</string>
-    <string name="member_name_select_purpose">Sincronice sus datos de salud generados por %1$s</string>
-    <string name="member_name_select_purpose2">Seleccione su nombre de usuario para sincronizar datos de salud</string>
+    <string name="member_name_select_purpose">Sincroniza sus datos de salud generados por %1$s</string>
+    <string name="member_name_select_purpose2">Selecciona tu nombre de usuario para sincronizar datos de salud</string>
     <string name="menses_auto_start_description">Activar los recordatorios permitirá a Xiaomi Health iniciarse automáticamente.</string>
     <string name="menstrual_assistant">Menstruación</string>
     <string name="menstruation">Menstruation</string>
@@ -569,7 +568,7 @@ datos de sueño"</string>
     <string name="state_auto_run_disenable">Desactivar</string>
     <string name="state_auto_run_enable">Activar</string>
     <string name="state_disagree">Restringido</string>
-    <string name="state_disagree2">No aceptar</string>
+    <string name="state_disagree2">Rechazar</string>
     <string name="subtitle_be_ready">Estate preparada</string>
     <string name="subtitle_exercise_and_sleep">Permanece físicamente activo y duerme lo sufiente</string>
     <string name="subtitle_keep_warm">Mantente caliente y sigue tu dieta</string>
@@ -590,7 +589,7 @@ datos de sueño"</string>
     <string name="sync_status">Estado de sincronización</string>
     <string name="sync_status_failure_retry">"No se pudo sincronizar. Espera un minuto o dos e inténtalo de nuevo."</string>
     <string name="sync_status_in_progress">Sincronizando…</string>
-    <string name="sync_status_network_failure">"No se pudo sincronizar. Conéctese a la red e intente nuevamente."</string>
+    <string name="sync_status_network_failure">"No se pudo sincronizar. Conéctate a la red y vuelve a intentarlo."</string>
     <string name="sync_status_never_done">No sincronizado</string>
     <string name="sync_status_oauth_error">Error en la sincronización de la fuente de datos, vuelva a autorizar</string>
     <string name="tb_audio_progress_bar">Barra de reproducción de audio</string>
@@ -628,7 +627,7 @@ datos de sueño"</string>
     <string name="tb_exercise_goal_info">Objetivo de actividad diaria: %1$s. %2$s</string>
     <string name="tb_exercise_home_banner">Check-in diario</string>
     <string name="tb_exercise_label_close">Cerrar solicitud</string>
-    <string name="tb_exercise_list_add">Agregar estadísticas de ejercicio</string>
+    <string name="tb_exercise_list_add">Añadir estadísticas de ejercicio</string>
     <string name="tb_exercise_list_consume">Calorías quemadas: %1$d. Hora de finalización: %2$s. Toca para ver los detalles.</string>
     <string name="tb_exercise_list_sport">%1$s. Distancia en kilómetros: %2$s. Hora de finalización: %3$s. Fuente de datos: %4$s. Toca para ver los detalles.</string>
     <string name="tb_exercise_list_sport_one">%1$s. Duración: %2$s. Hora de finalización: %3$s. Fuente de datos: %4$s. Toca para ver los detalles.</string>

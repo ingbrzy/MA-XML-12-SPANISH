@@ -72,7 +72,7 @@
     <string name="accessibility_bluetooth_disconnected">Bluetooth desconectado.</string>
     <string name="accessibility_bluetooth_name">Conectado a %s.</string>
     <string name="accessibility_bluetooth_tether">Anclaje Bluetooth.</string>
-    <string name="accessibility_brightness">Brillo de pantalla</string>
+    <string name="accessibility_brightness">Brillo de la pantalla</string>
     <string name="accessibility_brightness_slider">Indicador de luminosidad</string>
     <string name="accessibility_camera_button">Cámara</string>
     <string name="accessibility_carrier_network_change_mode">Cambiando red del operador.</string>
@@ -551,10 +551,8 @@
     <string name="connected_via_network_scorer_default">Conectado automáticamente vía proveedor de clasificaciones de redes</string>
     <string name="connected_via_passpoint">Conectado vía %1$s</string>
     <string name="content_description_menu_button">Menú</string>
-    <string name="control_quick_settings_tiles_stock">linterna,silencio,captura de pantalla,modo avión,bloqueo de pantalla,gps,rotación,modo papel,noche,modo silencioso,ahorro de batería,ahorro extremo de batería,modo de potencia,vibración,punto de acceso,sincronización,botón de pantalla,potencia inalámbrica,nfc,edición,modo de manejo</string>
-    <string name="control_quick_settings_tiles_super_save">gps,nfc,captura de pantalla,vibrar</string>
     <string name="convert_to_fbe_warning">"Convertir partición de datos en encriptación basada en archivo.
- Alerta: Esto eliminará todos tus datos.
+ ¡¡Alerta!! Esto eliminará todos tus datos.
  Esta función está siendo desarrollada y puede no funcionar correctamente.
  Presiona 'Deslizar y convertir…' para continuar."</string>
     <string name="convert_to_file_encryption">Convertir en archivo de encriptación</string>
@@ -677,7 +675,7 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="enable_bluetooth_message">Para conectar un teclado a tu tablet, activa el Bluetooth primero.</string>
     <string name="enable_bluetooth_title">¿Activar Bluetooth?</string>
     <string name="enable_demo_mode">Habilitar modo demo</string>
-    <string name="enable_extreme_power_save_mode">"Ahorrador de batería extremo"</string>
+    <string name="enable_extreme_power_save_mode">"Ahorro de batería extremo"</string>
     <string name="enable_freeform_support">Habilitar ventanas de forma libre</string>
     <string name="enable_freeform_support_summary">Habilitar compatibilidad con ventanas de forma libre experimental.</string>
     <string name="enable_gpu_debug_layers">"Habilitar capas de depuración GPU"</string>
@@ -772,7 +770,6 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="face_unlock_rise">Baja un poco la cabeza</string>
     <string name="face_unlock_rotated_left">Gira tu cabeza a la derecha</string>
     <string name="face_unlock_rotated_right">Gira tu cabeza a la izquierda</string>
-    <string name="face_unlock_sc_status">"Presiona la pantalla hacia abajo para abrir la cámara"</string>
     <string name="face_unlock_stay_away_screen">Situáte entre 24 y 40 cm de la pantalla</string>
     <string name="face_unlock_success_show_message_dialog_msg">"Permite que las notificaciones de la pantalla de bloqueo puedan verse en su pantalla de bloqueo."</string>
     <string name="face_unlock_success_show_message_dialog_negative_btn">"No, gracias"</string>
@@ -1197,7 +1194,7 @@ d MMMM"</string>
     <string name="menu_ime">Cambiador del teclado</string>
     <string name="miui_guide_dialog_button_negative_text">Ajustes</string>
     <string name="miui_guide_dialog_button_positive_text">Entendido</string>
-    <string name="miui_guide_dialog_message">Sonidos multimedia (música, videos, etc.) serán reproducidos en modo silencio. Puedes cambiar esto en Ajustes.</string>
+    <string name="miui_guide_dialog_message">Los sonidos multimedia (música, videos, etc.) se seguirán reproduciendo en modo Silencio. Puedes cambiar esto en Ajustes.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloqueado por un dispositivo Bluetooth</string>
     <string name="miui_ringer_count_down">Cuenta atrás</string>
     <string name="miui_ringer_standard">Silenciar</string>
@@ -1207,7 +1204,7 @@ d MMMM"</string>
     <string name="miui_screen_rotation_freeze_message">Rotación automática desactivada.</string>
     <string name="miui_toast_zen_dnd_to_off">Sonidos y vibraciones restaurados</string>
     <string name="miui_toast_zen_standard_to_off">Tonos restaurados</string>
-    <string name="miui_toast_zen_standard_to_off_when_shield_media">Tonos y sonidos de notificaciones y multimedia serán reproducidos.</string>
+    <string name="miui_toast_zen_standard_to_off_when_shield_media">El modo Silencio está desactivado. Los tonos de llamada, así como las notificaciones y sonidos multimedia serán reproducidos.</string>
     <string name="miui_toast_zen_to_dnd">Sonidos silenciados y vibraciones desactivadas</string>
     <string name="miui_toast_zen_to_standard">Tonos de llamadas y notificaciones silenciados</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Tonos y sonidos de notificaciones y multimedia serán silenciados.</string>
@@ -1792,8 +1789,10 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="show_touches">Mostrar toques</string>
     <string name="show_touches_summary">Mostrar feedback visual para toques</string>
     <string name="simulate_color_space">Simular espacio de color</string>
+    <string name="slider_second_tip_text">Empuja la pantalla hacia abajo para abrir la cámara</string>
+    <string name="slider_text">Empuja la pantalla hacia abajo para abrir la cámara</string>
     <string name="small_window_guide_title">Ventanas flotantes</string>
-    <string name="small_window_notification_text">Toca para obtener más información sobre esta función de MIUI %d</string>
+    <string name="small_window_notification_text">Toca para obtener más info sobre esta función de MIUI %d</string>
     <string name="small_window_notification_title">Ventanas flotantes</string>
     <string name="snooze_option_15_min">15 minutos</string>
     <string name="snooze_option_1_hour">1 hora</string>
