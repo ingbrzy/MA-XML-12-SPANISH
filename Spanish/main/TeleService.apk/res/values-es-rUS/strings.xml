@@ -615,12 +615,12 @@ Calidad de reproducción"</string>
     <string name="labelCFB">Al estar ocupado</string>
     <string name="messageCFB">Número cuando la línea esté ocupada</string>
     <string name="sum_cfb_enabled">Desviando a {0}</string>
-    <string name="sum_cfb_disabled">Apagado</string>
+    <string name="sum_cfb_disabled">Desactivado</string>
     <string name="disable_cfb_forbidden">Su operador no soporta desactivar el desvío de llamadas cuando su teléfono está ocupado.</string>
     <string name="labelCFNRy">Cuando no haya respuesta</string>
     <string name="messageCFNRy">Número cuando no se conteste la llamada</string>
     <string name="sum_cfnry_enabled">Desviando a {0}</string>
-    <string name="sum_cfnry_disabled">Apagado</string>
+    <string name="sum_cfnry_disabled">Desactivado</string>
     <string name="disable_cfnry_forbidden">Su operador no soporta desactivar el desvío de llamadas cuando su teléfono no contesta.</string>
     <string name="labelCFNRc">Cuando no se pueda localizar</string>
     <string name="messageCFNRc">El número cuando no se pueda localizar</string>
@@ -976,7 +976,7 @@ Usted tiene %d intentos restantes."</string>
     <string name="onscreenShowDialpadText">Teclado numérico</string>
     <string name="onscreenMuteText">Silenciar</string>
     <string name="onscreenAddCallText">Agregar llamada</string>
-    <string name="onscreenMergeCallsText">Unir llamadas</string>
+    <string name="onscreenMergeCallsText">Combinar llamadas</string>
     <string name="onscreenSwapCallsText">Cambiar</string>
     <string name="onscreenManageCallsText">Gestionar llamadas</string>
     <string name="onscreenManageConferenceText">Gestionar conferencia</string>
@@ -1057,7 +1057,7 @@ Inténtelo de nuevo o póngase en contacto con el servicio de atención al clien
     <string name="accessibility_settings_activity_title">Accesibilidad</string>
     <string name="status_hint_label_incoming_wifi_call">Llamada Wi-Fi de</string>
     <string name="status_hint_label_wifi_call">Llamada Wi-Fi</string>
-    <string name="emergency_action_launch_hint">Toque de nuevo para abrir</string>
+    <string name="emergency_action_launch_hint">Toca de nuevo para abrir</string>
     <string name="message_decode_error">Se produjo un error al decodificar el mensaje.</string>
     <string name="callFailed_cdma_activation">Una tarjeta SIM activó su servicio y actualizó las capacidades de itinerancia de su teléfono.</string>
     <string name="callFailed_cdma_call_limit">Hay demasiadas llamadas activas. Finalice o combine llamadas existentes antes de realizar una nueva.</string>
@@ -1186,7 +1186,7 @@ Se usarán las redes preferidas en su lugar."</string>
     <string name="call_recording_notification_toggle_title">Notificación de grabación de llamadas</string>
     <string name="call_recording_notification_summary">Mostrar notificación después de que una llamada haya sido grabada</string>
     <string name="call_recording_notification_message_low_storage">La tarjeta SD está llena.</string>
-    <string name="call_recording_notification_message">Toque para escuchar.</string>
+    <string name="call_recording_notification_message">Toca para escuchar.</string>
     <string name="call_recording_notification_message_sd_unmounted">La tarjeta SD fue extraída.</string>
     <string name="call_record_add_numbers">Agregar números</string>
     <string name="call_record_auto_always">Todos los números</string>
@@ -1350,7 +1350,7 @@ Se usarán las redes preferidas en su lugar."</string>
     <string name="msim_setting_sim_info_editor_title">Editar información SIM</string>
     <string name="msim_setting_operator_network_title">Red móvil</string>
     <string name="msim_sim_lock">Bloqueado</string>
-    <string name="msim_sim_radio_off">Apagado</string>
+    <string name="msim_sim_radio_off">Desactivado</string>
     <string name="msim_enable_sim">Activar</string>
     <string name="msim_set_icc_card_error">Error de tarjeta ICC</string>
     <string name="msim_info_editor_name">Editar nombre de la tarjeta SIM</string>

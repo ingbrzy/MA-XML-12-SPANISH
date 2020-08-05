@@ -122,7 +122,7 @@
     <string name="sc_allow_network_dialog_message">¿Permitir que esta app se conecte a Internet para recibir actualizaciones?</string>
     <string name="sc_allow_network_dialog_button">Permitir</string>
     <string name="auto_clean_switch_on">Activado</string>
-    <string name="auto_clean_switch_off">Apagado</string>
+    <string name="auto_clean_switch_off">Desactivado</string>
     <string name="msg_cleanup_db_update_checking">Buscando actualizaciones…</string>
     <string name="msg_update_error_code_success">Hecho</string>
     <string name="msg_update_error_code_no_newer_db">El limpiador está actualizado</string>
@@ -158,7 +158,7 @@
     <string name="title_delete_cache">Limpiar caché de apps</string>
     <string name="summary_delete_cache">¿Limpiar caché de las apps seleccionadas?</string>
     <string name="positive_confirm">Aceptar</string>
-    <string name="pref_about_privacy_title">Política de privacidad</string>
+    <string name="pref_about_privacy_title">Política de Privacidad</string>
     <string name="title_auto_cleaner">Recordar limpiar</string>
     <string name="summary_auto_cleaner">¿Recibir notificaciones cada vez que el tamaño de la papelera alcance los 100 MB?</string>
     <string name="confirm_auto_cleaner">Aceptar</string>
@@ -186,7 +186,7 @@
     <string name="activity_title_cache_data">Datos de apps</string>
     <string name="deepclean_cache_header_left">Archivos de datos: %d</string>
     <string name="notification_title_of_garbage_cleanup">%s de archivos basura</string>
-    <string name="notification_summary_of_garbage_cleanup">Toque para liberar espacio.</string>
+    <string name="notification_summary_of_garbage_cleanup">Toca para liberar espacio.</string>
     <string name="notification_summary_after_auto_cleanup">%s limpiado.</string>
     <string name="toast_uninstall_success">Desinstalación completa</string>
     <string name="toast_app_no_residual_on_sdcard">La app no tiene ningún archivo guardado en su tarjeta SD</string>
@@ -221,7 +221,7 @@
     <string name="dialog_content_select_all_confirm">¿Mantener una copia de esta foto?</string>
     <string name="button_text_not_prompt_again">No mostrar de nuevo</string>
     <string name="button_text_let_me_select">Aceptar</string>
-    <string name="dialog_content_checkbox_delete_cloud_image">Eliminar fotos de Mi Cloud también</string>
+    <string name="dialog_content_checkbox_delete_cloud_image">Eliminar fotos de Xiaomi Cloud también</string>
     <string name="button_text_select_all">Seleccionar</string>
     <string name="button_text_unselect_all">Deseleccionar</string>
     <string name="button_text_keep_one">Conservar una</string>
@@ -334,7 +334,7 @@
     <string name="title_of_garbage_data_set">Actualizaciones de la base de datos del Limpiador</string>
     <string name="tips_of_garbage_data_set">Actualizar la base de datos del Limpiador para encontrar más basura en su dispositivo</string>
     <string name="title_of_cloud_service">Servicios de la nube</string>
-    <string name="tips_of_cloud_service">Inicie sesión con su Mi Cuenta para usar más servicios de Mi</string>
+    <string name="tips_of_cloud_service">Inicie sesión con su Cuenta Mi para usar más servicios de Mi</string>
     <string name="login_immediately">Iniciar sesión</string>
     <string name="button_text_install_now">Instalar</string>
     <string name="total_clean_text">Limpiar</string>

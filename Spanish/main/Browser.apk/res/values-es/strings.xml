@@ -46,7 +46,7 @@
     <string name="account_prifix">Cuenta:</string>
     <string name="action">Iniciar sesión</string>
     <string name="action_menu_account_not_login">No has iniciado sesión</string>
-    <string name="action_menu_account_not_login_hint">Iniciar sesión para sincronizar con Mi Cloud</string>
+    <string name="action_menu_account_not_login_hint">Iniciar sesión para sincronizar con Xiaomi Cloud</string>
     <string name="action_menu_bookshelf">Biblioteca</string>
     <string name="action_menu_current_version">Versión actual</string>
     <string name="action_menu_download">Descargar</string>
@@ -110,7 +110,7 @@
     <string name="add_to_quicklink">Página de inicio</string>
     <string name="added_to_bookmarks">Añadir a marcadores</string>
     <string name="adjust_text_zoom_toast">Cambiar el tamaño de texto puede hacer que algunos sitios no se muestren correctamente</string>
-    <string name="agree">De acuerdo</string>
+    <string name="agree">Aceptar</string>
     <string name="agree_permissions_request">Permitir</string>
     <string name="alert_tips">Este sitio podría ser un riesgo para tu seguridad</string>
     <string name="allow">Permitir</string>
@@ -324,7 +324,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="detail_guide_tips">Desliza hacia arriba para más artículos relacionados</string>
     <string name="dialog_cannot_resume">La descarga fue interrumpida</string>
     <string name="dialog_channel_cancel">Cancelar</string>
-    <string name="dialog_channel_confirm">ACEPTAR</string>
+    <string name="dialog_channel_confirm">Aceptar</string>
     <string name="dialog_channel_remove_content">Eliminar todos los canales tambien aliminará Nuevos contenidos.</string>
     <string name="dialog_clipboard_tabs_action">Pulsa para abrir</string>
     <string name="dialog_clipboard_tabs_tip">Encuentrar enlaces ya copiados</string>
@@ -478,10 +478,10 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="enter_developer_mode">Acceder al modo de desarrollador</string>
     <string name="enter_incongnito_mode">Iniciar modo incógnito</string>
     <string name="enter_news_by_pull_down">Suelta para abrir Nuevos contenidos</string>
-    <string name="error_forbidden">La sincronización se ha desactivado debido a problemas con Mi Cuenta.</string>
+    <string name="error_forbidden">La sincronización se ha desactivado debido a problemas con Cuenta Mi.</string>
     <string name="error_not_acceptable">La sincronización está desactivada.</string>
     <string name="error_title">No se pudo sincronizar</string>
-    <string name="error_unauthorized">La sincronización de Mi Cuenta ha sido desactivada debido a que hubo demasiados intentos de acceso.</string>
+    <string name="error_unauthorized">La sincronización de Cuenta Mi ha sido desactivada debido a que hubo demasiados intentos de acceso.</string>
     <string name="exit">Salir</string>
     <string name="exit_browser_warning">¿Salir ahora del navegador?</string>
     <string name="exit_fullscreen">Salir de pantalla completa</string>
@@ -550,7 +550,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="geolocation_permissions_prompt_toast_disallowed">Este sitio no podrá acceder a su ubicación.</string>
     <string name="geolocation_settings_page_dialog_cancel_button">Cancelar</string>
     <string name="geolocation_settings_page_dialog_message">¿Borrar acceso a la ubicación para este sitio web?</string>
-    <string name="geolocation_settings_page_dialog_ok_button">ACEPTAR</string>
+    <string name="geolocation_settings_page_dialog_ok_button">Aceptar</string>
     <string name="geolocation_settings_page_summary_allowed">Este sitio podrá acceder a tu ubicación</string>
     <string name="geolocation_settings_page_summary_not_allowed">Este sitio no podrá acceder a tu ubicación</string>
     <string name="geolocation_settings_page_title">Borrar acceso a la ubicación</string>
@@ -660,7 +660,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="mi_browser">Mi Navegador</string>
     <string name="mint_games">Juegos populares</string>
     <string name="miui_autologin_bar_error">No es posible iniciar sesión</string>
-    <string name="miui_autologin_bar_title">Iniciar sesión con Mi Cuenta</string>
+    <string name="miui_autologin_bar_title">Iniciar sesión con Cuenta Mi</string>
     <string name="miui_bookmark_action_bar_add_group_title">Añadir grupo</string>
     <string name="miui_bookmark_action_bar_new_group_title">Nuevo grupo</string>
     <string name="miui_content_copy">Copiar</string>
@@ -761,8 +761,8 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="miuishare_account_login_cancel">Cancelar</string>
     <string name="miuishare_account_login_confirmation">Inicia sesión primero</string>
     <string name="miuishare_account_login_ok">Registrarse</string>
-    <string name="miuishare_account_need_activate">La cuenta de Weibo debe estar vinculada con Mi Cuenta. ¿Deseas iniciar sesión con Mi Cuenta?</string>
-    <string name="miuishare_account_need_login">La cuenta de Weibo debe estar vinculada con Mi Cuenta. ¿Deseas iniciar sesión para compartir ahora?</string>
+    <string name="miuishare_account_need_activate">La cuenta de Weibo debe estar vinculada con Cuenta Mi. ¿Deseas iniciar sesión con Cuenta Mi?</string>
+    <string name="miuishare_account_need_login">La cuenta de Weibo debe estar vinculada con Cuenta Mi. ¿Deseas iniciar sesión para compartir ahora?</string>
     <string name="miuishare_app_name">MiuiShare</string>
     <string name="miuishare_no_network">No fue posible conectarse a la red</string>
     <string name="miuishare_publish">Enviar</string>
@@ -1175,19 +1175,19 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="noti_no_permission_record">No hay elementos.</string>
     <string name="noti_web_allow">Permitido</string>
     <string name="noti_web_push">Notificaciones de páginas web</string>
-    <string name="notif_install_successful">Descarga completa</string>
+    <string name="notif_install_successful">Descarga completada</string>
     <string name="notification_category_browser">Navegador</string>
     <string name="notification_category_downloads">Descargas</string>
     <string name="notification_category_group_general">General</string>
     <string name="notification_category_media">Multimedia</string>
     <string name="notification_download_completed">Descargado con éxito</string>
     <string name="notification_download_failed">No se pudo descargar.</string>
-    <string name="ok">ACEPTAR</string>
+    <string name="ok">Aceptar</string>
     <string name="older">Más antiguo</string>
     <string name="onews_category_cricket">Críquet</string>
     <string name="onews_category_reddit">Reddit</string>
     <string name="open_app_confirm_message">¿Permitir abrir esta página%s?</string>
-    <string name="open_file_explorer_failed">No se puede abrir el Gestor de Archivos</string>
+    <string name="open_file_explorer_failed">No se puede abrir el Gestor de archivos</string>
     <string name="open_voice_permission">Permitir que el micro se conecte a internet</string>
     <string name="open_whatsapp_status">Comprobar estados de WhatsApp</string>
     <string name="opening_file_error">No se pudo abrir el archivo seleccionado.</string>
@@ -1331,7 +1331,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="pref_privacy_enable_geolocation_summary">Permitir al navegador pedir acceso a tu ubicación</string>
     <string name="pref_privacy_formdata_title">Datos del formulario</string>
     <string name="pref_privacy_location_title">Acceso a ubicación</string>
-    <string name="pref_privacy_policy">Política de privacidad</string>
+    <string name="pref_privacy_policy">Política de Privacidad</string>
     <string name="pref_privacy_security_title">Privacidad y seguridad</string>
     <string name="pref_save_bandwidth_mode_title">Reducir el consumo de datos</string>
     <string name="pref_security_accept_cookies">Aceptar cookies</string>
@@ -1360,7 +1360,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="pref_volume_key_action">Desplazar con bot. volumen</string>
     <string name="privacy_accept">Aceptar y continuar</string>
     <string name="privacy_agreement">Acuerdo de Usuario</string>
-    <string name="privacy_authorize_network_error">Conecta a la red e inténtalo de nuevo.</string>
+    <string name="privacy_authorize_network_error">Conéctate a la red e inténtalo de nuevo.</string>
     <string name="privacy_authorize_revoke">Revocar</string>
     <string name="privacy_authorize_revoke_dialog_msg">Después de revocar la autorización, el Navegador Mi dejará de recopilar datos y todos los datos relacionados se eliminarán de los servidores. Esto podría hacer que el Navegador Mi sea virtualmente inutilizable. ¿Revocar la autorización de todas formas?</string>
     <string name="privacy_authorize_revoke_dialog_title">Revocando autorización</string>
@@ -1491,7 +1491,15 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="secure_download_in_xiaomi_market">Descargar en App Store</string>
     <string name="secureaccess">Cambiar a Modo seguro</string>
     <string name="secureaccess_cancel">Ignorar</string>
-    <string name="security_url_confirm_message">Desactivar esta función puede causar riesgos de seguridad.</string>
+    <string name="security_permission_desc_get_accounts">Para iniciar sesión y administrar las cuentas del sistema</string>
+    <string name="security_permission_desc_read_phone">Para acceder al IMEI con el fin de identificar tu dispositivo</string>
+    <string name="security_permission_desc_storage">Para acceder, guardar, cargar y descargar imágenes y otros archivos</string>
+    <string name="security_permission_main_purpose">Navegación web, búsqueda, leer libros y noticias, ver videos, etc.</string>
+    <string name="security_permission_message_location">"Esta aplicación necesita acceso a tu ubicación para proporcionar servicios basados en la ubicación. Si no aceptas conceder tales permisos, no podrás usar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible para ti. Siempre puedes restringir los permisos o revocar tu autorización en Ajustes."</string>
+    <string name="security_permission_negative_btn_location">Cancelar</string>
+    <string name="security_permission_positive_btn_location">Aceptar</string>
+    <string name="security_permission_title_location">Permitir acceso a tu ubicación</string>
+    <string name="security_url_confirm_message">Desactivar esta función puede provocar riesgos de seguridad.</string>
     <string name="security_warning">Aviso de seguridad</string>
     <string name="security_warnings_confirm_message">Desactivar esta función puede causar riesgos de seguridad.</string>
     <string name="select_dot">Seleccionar texto</string>
@@ -1571,11 +1579,11 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="transfer_prompt_0">Reproducir vídeo</string>
     <string name="transfer_restart">Reanudar</string>
     <string name="translation_other">Otros idiomas</string>
-    <string name="translation_query_error">La traducción no está disponible para el idioma seleccionado.</string>
-    <string name="translation_query_error_network">No se pudo traducir. Comprueba tus ajustes de red y vuelve a intentarlo.</string>
+    <string name="translation_query_error">"No se pudo traducir"</string>
+    <string name="translation_query_error_network">"No se pudo obtener información. Conéctate a la red y vuelve a intentarlo."</string>
     <string name="translation_result_empty">No se pudo traducir. Vuelve a intentarlo.</string>
     <string name="translation_to">Traducir a</string>
-    <string name="trending_apps_more">Más</string>
+    <string name="trending_apps_more">Ver más</string>
     <string name="unSwitchText">NO</string>
     <string name="undo">Deshacer</string>
     <string name="unknown_title">Desconocido</string>
@@ -1666,7 +1674,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="video_project_msg">El vídeo se transmite a %s</string>
     <string name="video_project_title">Transmisión de vídeo</string>
     <string name="video_push_multi_title">Actualización disponible</string>
-    <string name="video_push_single_message">Toque para actualizar a %1$d.</string>
+    <string name="video_push_single_message">Toca para actualizar a %1$d.</string>
     <string name="video_replay_btn">Volver a reproducir</string>
     <string name="video_retry_btn">Inténtalo de nuevo</string>
     <string name="video_service_notification_title">Reproducción de vídeo emergente</string>
@@ -1716,7 +1724,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="ytb_added_subscription">Suscrito con éxito</string>
     <string name="ytb_cancel">Cancelar</string>
     <string name="ytb_deleted_subscription">Suscripción cancelada con éxito</string>
-    <string name="ytb_empty_search_result">No se pudo encontrar resultados</string>
+    <string name="ytb_empty_search_result">No se encontraron resultados</string>
     <string name="ytb_empty_subscribe">No hay suscripciones aún.</string>
     <string name="ytb_login">Iniciar sesión</string>
     <string name="ytb_login_can_subscribe">Inicia sesión para suscribirte a canales.</string>
@@ -1725,9 +1733,20 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="ytb_login_to_look_subscribe">Inicia sesión para ver tus suscripciones a YouTube.</string>
     <string name="ytb_logout">Cerrar sesión</string>
     <string name="ytb_logout_fail">No se pudo cerrar sesión</string>
-    <string name="ytb_my">Mi Cuenta</string>
+    <string name="ytb_my">Cuenta Mi</string>
     <string name="ytb_subscribe">Suscribirse</string>
     <string name="ytb_subscribe_channel">Suscripciones</string>
     <string name="ytb_subscribed">Suscrito</string>
     <string name="ytb_want_to_subscribe">¿Suscribirse a este canal?</string>
+    <string name="show_security_tip_dialog_title">Política de Privacidad</string>
+    <string name="check_security_tip_privacy_policy">Política de Privacidad</string>
+    <string name="check_security_tip_user_agreement">Acuerdo de Usuario</string>
+    <string name="show_check_security_url_check_tip_dialog_description">"Recopilaremos y utilizaremos tus datos personales si eliges utilizar nuestros servicios.
+Estos son los datos que recopilaremos:
+1. URL seguras: recopilaremos las URL de los sitios web que visites mientras usas nuestros servicios.
+2. Datos de ubicación: accederemos a tu información de ubicación.
+Así es como usamos los datos que recopilamos:
+1. Seguridad: Usamos tus datos para proteger tu dispositivo contra fraudes y virus, así como por razones de almacenamiento y copia de seguridad.
+2. Contenido: Tus datos nos ayudan a proporcionar contenido de noticias relevantes por ubicación.
+Navegador necesita conectarse a internet para funcionar correctamente. Debes aceptar nuestra %2$s y %1$s para poder usar Navegador.​"</string>
 </resources>

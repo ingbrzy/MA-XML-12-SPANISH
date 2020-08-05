@@ -36,7 +36,7 @@
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="actionbar_close_description">Cerrar</string>
     <string name="actionbar_home_description">Atrás</string>
-    <string name="add_account_desc">¿Sincronizar tus notas con Mi Cuenta?</string>
+    <string name="add_account_desc">¿Sincronizar tus notas con Cuenta Mi?</string>
     <string name="alarm_bar_title">Recordatorio</string>
     <string name="alert_action_edit_anyway">Continuar editando</string>
     <string name="alert_message_delete">¿Eliminar %1$s?</string>
@@ -64,17 +64,17 @@
     <string name="cancel_alarm_description">Cancelar alarma</string>
     <string name="check_in_todo_app">Ver tareas</string>
     <string name="clearable_edittext_clear_description">Borrar</string>
-    <string name="cloud_service_state_open_reminder">Active la sincronización con Mi Cloud para sincronizar notas.</string>
-    <string name="cloud_trash_bin_title">Eliminar notas de Mi Cloud</string>
-    <string name="confirm_cancel">No aceptar</string>
+    <string name="cloud_service_state_open_reminder">Active la sincronización con Xiaomi Cloud para sincronizar notas.</string>
+    <string name="cloud_trash_bin_title">Eliminar notas de Xiaomi Cloud</string>
+    <string name="confirm_cancel">"Rechazar"</string>
     <string name="confirm_ok">Aceptar</string>
     <string name="copy">Copiar</string>
     <string name="cta_agree_desc">Permite a esta aplicación conectarse a internet y otorga los permisos requeridos para poder usar todas sus funciones.</string>
-    <string name="cta_confirm_cancel">No permitir</string>
+    <string name="cta_confirm_cancel">"No permitir"</string>
     <string name="cta_confirm_ok">Permitir</string>
     <string name="cta_dialog_message">Las notas necesitan permisos para conectarse a Internet, grabar audio y acceder a sus contactos para que funcionen normalmente. ¿Permitir?</string>
     <string name="cta_dialog_title">Permissions required</string>
-    <string name="cta_reminder">Esta aplicación necesita conectarse a internet para copiar notas a Mi Cloud, además de leer tus contactos para etiquetar las notas que tomas durante las llamadas.</string>
+    <string name="cta_reminder">Esta aplicación necesita conectarse a internet para copiar notas a Xiaomi Cloud, además de leer tus contactos para etiquetar las notas que tomas durante las llamadas.</string>
     <string name="cta_v2_app_purpose">Creando, visualizando y gestionando notas</string>
     <string name="cta_v2_app_purpose_v12">¡Bienvenido a Notas! Puedes usar esta aplicación para crear tareas y notas que contengan texto, imágenes y audio.</string>
     <string name="data_empty_note">No hay notas todavía</string>
@@ -86,10 +86,10 @@
     <string name="date_time_picker_has_not_set_alarm">Alarma no establecida</string>
     <string name="date_time_picker_has_set_alarm">Alarma establecida con éxito</string>
     <string name="db_downgrade_clear_button">Limpiar datos de aplicación</string>
-    <string name="db_downgrade_clear_date_reminder">Cambiar a una versión diferente de MIUI requiere limpiar los datos de la aplicación Notas. Antes de hacerlo, asegúrate de que tienes copia de seguridad de tus notas en Mi Cloud.</string>
+    <string name="db_downgrade_clear_date_reminder">Cambiar a una versión diferente de MIUI requiere limpiar los datos de la aplicación Notas. Antes de hacerlo, asegúrate de que tienes copia de seguridad de tus notas en Xiaomi Cloud.</string>
     <string name="default_folder_name">Carpeta sin nombre</string>
     <string name="delete_folder_dialog_tile">Eliminar carpeta</string>
-    <string name="dialog_privacy_revoke_tips">Después de revocar la autorización, la aplicación dejará de recopilar datos y todos los datos relacionados se eliminarán de los servidores. Esto podría hacer que la aplicación sea prácticamente inutilizable. ¿Desea revocar la autorización? Para garantizar la seguridad de su cuenta, inicie sesión en i.mi.com antes de revocar la autorización de los servicios Mi Cloud.</string>
+    <string name="dialog_privacy_revoke_tips">Después de revocar la autorización, la aplicación dejará de recopilar datos y todos los datos relacionados se eliminarán de los servidores. Esto podría hacer que la aplicación sea prácticamente inutilizable. ¿Desea revocar la autorización? Para garantizar la seguridad de su cuenta, inicie sesión en i.mi.com antes de revocar la autorización de los servicios Xiaomi Cloud.</string>
     <string name="dialog_share_as_pic">Compartir nota como imagen</string>
     <string name="dialog_share_as_text">Compartir nota como texto</string>
     <string name="dlg_btn_set_password">Establecer contraseña</string>
@@ -115,7 +115,7 @@
     <string name="empty_folder_import_notes">Importar notas</string>
     <string name="empty_folder_no_notes">No hay notas</string>
     <string name="enable_sync">Sincronizar</string>
-    <string name="enable_sync_desc">¿Sincronizar tus notas con Mi Cuenta (%1$s)?</string>
+    <string name="enable_sync_desc">¿Sincronizar tus notas con Cuenta Mi (%1$s)?</string>
     <string name="eras_ad">DC</string>
     <string name="eras_bc">AC</string>
     <string name="error_contact_not_exist">El contacto no existe</string>
@@ -200,7 +200,7 @@
     <string name="new_audio_create_talkback_des">Pulsa para crear una nota de texto. Mantén pulsado para crear una nota de voz. Libera el botón la detener la grabación y crear la nota o desliza hacia arriba para cancelar.</string>
     <string name="not_now">Ahora no</string>
     <string name="not_set">Sin definir</string>
-    <string name="note_description_content">La aplicación de Notas es una gran herramienta para registrar tus ideas. Contiene memoria integrada y sincroniza tus elementos con Mi Cloud para que puedas acceder a ellos en cualquier momento y lugar. Asegúrate de no necesitar estas funciones antes de eliminar la aplicación.</string>
+    <string name="note_description_content">La aplicación de Notas es una gran herramienta para registrar tus ideas. Contiene memoria integrada y sincroniza tus elementos con Xiaomi Cloud para que puedas acceder a ellos en cualquier momento y lugar. Asegúrate de no necesitar estas funciones antes de eliminar la aplicación.</string>
     <string name="note_description_title">Acerca de Notas</string>
     <string name="note_gesture_guide_step1">Mantenga presionado el signo más para crear una nota de voz.</string>
     <string name="note_gesture_guide_step2">Mantenga presionada una nota y luego arrástrela sobre otra nota para crear una carpeta</string>
@@ -230,9 +230,9 @@
     <string name="permlab_accessNote">Acceder a tus notas</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">No pedir confirmación para eliminar una nota a través de un gesto</string>
     <string name="pref_desc_todo_float_mode">Deslizar desde el borde de la pantalla para abrir la caja de herramientas de tareas</string>
-    <string name="pref_remind_type_summary">Reproducir sonido de recordatorios en Modo silencio</string>
-    <string name="pref_remind_type_title">Ignorar Modo silencio</string>
-    <string name="pref_title_cloud_trash_bin">Notas eliminadas de Mi Cloud</string>
+    <string name="pref_remind_type_summary">Reproducir sonido de recordatorios en modo Silencio</string>
+    <string name="pref_remind_type_title">Ignorar modo Silencio</string>
+    <string name="pref_title_cloud_trash_bin">Notas eliminadas de Xiaomi Cloud</string>
     <string name="pref_title_common">Ajustes adicionales</string>
     <string name="pref_title_font_size">Tamaño de fuente</string>
     <string name="pref_title_note_style">Estilo</string>
@@ -307,7 +307,7 @@
     <string name="sns_title_send">Enviar mensaje</string>
     <string name="sns_toast_empty">No se puede enviar un mensaje vacío</string>
     <string name="sns_toast_over_limit">Enviar como imagen</string>
-    <string name="sync_tips">Pulsa para sincronizar notas con Mi Cloud.</string>
+    <string name="sync_tips">Pulsa para sincronizar notas con Xiaomi Cloud.</string>
     <string name="theme_blue_description">Azul</string>
     <string name="theme_green_description">Verde</string>
     <string name="theme_red_description">Rojo</string>
@@ -430,7 +430,7 @@ Permitir a Notas grabar audio."</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADA</string>
     <string name="welcome_note_for_cm">"¡Y otras grandes características!
- - Sincronizar con Mi Cloud
+ - Sincronizar con Xiaomi Cloud
  - Establecer recordatorios"</string>
     <string name="widget_content_loading">Un momento…</string>
     <string name="widget_havenot_content">Toca para crear una nota. Mantén presionado el widget para cambiar el tamaño.</string>

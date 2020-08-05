@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="access_sd_fail">No se pudo acceder a la tarjeta SD.</string>
-    <string name="accessibility_ai_scene_off">AI camera is off</string>
-    <string name="accessibility_ai_scene_on">La cámara Al está activada</string>
+    <string name="accessibility_ai_scene_off">La cámara AI está desactivada</string>
+    <string name="accessibility_ai_scene_on">La cámara AI está activada</string>
     <string name="accessibility_back_preview_status">Previsualización de la cámara trasera</string>
     <string name="accessibility_beauty_panel_closed">Menú del Modo belleza oculto</string>
     <string name="accessibility_beauty_panel_open">Menú belleza abierto</string>
@@ -14,8 +14,8 @@
     <string name="accessibility_bokeh_on">El desenfoque de fondo en la cámara frontal está activado</string>
     <string name="accessibility_camera_lighting_close_panel">Menú de efectos de iluminación espacios cerrados.</string>
     <string name="accessibility_camera_lighting_open_panel">Menú de efectos de iluminación aire libre</string>
-    <string name="accessibility_camera_liveshot_off">Apagado disparo dinámico</string>
-    <string name="accessibility_camera_liveshot_on">Activado disparo dinámico</string>
+    <string name="accessibility_camera_liveshot_off">Disparo dinámico desactivado</string>
+    <string name="accessibility_camera_liveshot_on">Disparo dinámico activado</string>
     <string name="accessibility_camera_picker">Conmutador de cámara delantera y trasera</string>
     <string name="accessibility_camera_picker_finish">Cámaras cambiadas con éxito</string>
     <string name="accessibility_camera_record_start">Se inició la grabación de video</string>
@@ -69,12 +69,13 @@
     <string name="accessibility_video_pause_button">Se pausó la grabación de video</string>
     <string name="accessibility_video_resume_button">Se reanudó la grabación de video</string>
     <string name="accessibility_zoom_button">Zoom</string>
-    <string name="ai_scene_mode_use_hint_text">"La cámara Al detecta escenas automáticamente
- y optimiza tus fotos basándose en esta información"</string>
+    <string name="ai_scene_mode_use_hint_text">"Detecta escenarios usando IA
+y ajusta las preferencias automáticamente"</string>
     <string name="ai_scene_top_moon_off">Modo de poca luz</string>
     <string name="ai_scene_top_tip">Modo luna</string>
+    <string name="ai_watermark_title">Marca de agua IA</string>
     <string name="audio_focus_exit_button_text">Desactivar enfoque por voz</string>
-    <string name="autozoom_click_hint">Toque un objeto para mantenerlo enfocado mientras se mueve. Manténgase al menos a 3 metros de distancia para obtener el mejor efecto.</string>
+    <string name="autozoom_click_hint">Toca un objeto para mantenerlo enfocado mientras se mueve. Manténgase al menos a 3 metros de distancia para obtener el mejor efecto.</string>
     <string name="autozoom_disabled_hint">Se detuvo el seguimiento del objeto en movimiento</string>
     <string name="autozoom_hint">Rastrear objeto en movimiento</string>
     <string name="autozoom_landscape_hint">Dispara en modo horizontal para obtener el mejor efecto</string>
@@ -119,7 +120,7 @@
     <string name="cannot_connect_camera_twice">Todavía no se puede acceder a la cámara. Prueba a reiniciar el dispositivo.</string>
     <string name="cannot_connect_camera_volte_call">La videollamada está en progreso, inténtelo de nuevo más tarde.</string>
     <string name="cannot_move_warning_message">Al hacer fotos, no muevas el dispositivo</string>
-    <string name="capture_back_pressed_hint">Toque de nuevo para salir</string>
+    <string name="capture_back_pressed_hint">Toca de nuevo para salir</string>
     <string name="close_back_flash_toast">Su dispositivo está sobrecalentado. No se puede usar flash ahora.</string>
     <string name="close_front_flash_toast">Su dispositivo está sobrecalentado. No se puede usar el flash ahora.</string>
     <string name="color_effect_entry_berry">Bayas</string>
@@ -167,6 +168,11 @@
     <string name="confirm_reset_manually_parameter_message">¿Reinciar todos los parámetros a los valores por defecto?</string>
     <string name="confirm_restore_message">¿Restaurar ajustes predeterminados de la cámara?</string>
     <string name="confirm_restore_title">Restaurar ajustes predeterminados</string>
+    <string name="cta_msg">¡Bienvenido a Cámara! Puedes usar esta aplicación para tomar fotos y grabar vídeos. Esta aplicación necesita conectarse a internet y requiere los siguientes permisos opcionales:</string>
+    <string name="cta_perm_dec">Para añadir información de ubicación a fotos y vídeos</string>
+    <string name="cta_perm_loc">Location</string>
+    <string name="cta_perm_type">"Permisos opcionales (Usados para funciones adicionales mientras las estés usando)"</string>
+    <string name="cta_user_tips">&lt;Data&gt;Para comprender plenamente tus derechos como usuario, así como las formas en las que usamos tus datos, lee y acepta nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="custom_watermark_contains_senstive_words">Las marcas de agua no pueden contener términos restringidos ( %1$s )</string>
     <string name="custom_watermark_tips">Este texto aparecerá como la segunda línea de su marca de agua. Puede contener hasta 18 letras o 14 caracteres chinos.</string>
     <string name="custom_watermark_too_many_words">El texto que ingresaste es demasiado largo</string>
@@ -287,7 +293,7 @@ en modo Retrato"</string>
     <string name="live_music_hot_title">Canciones populares</string>
     <string name="live_music_local_title">Local</string>
     <string name="live_music_network_exception">Error de red</string>
-    <string name="live_music_network_exception_tips">Se produjo un error de red. Toque para volver a intentarlo.</string>
+    <string name="live_music_network_exception_tips">Se produjo un error de red. Toca para volver a intentarlo.</string>
     <string name="live_reverse_confirm">Borrar</string>
     <string name="live_reverse_message">¿Eliminar el elemento capturado anteriormente?</string>
     <string name="live_share_moments">Momentos</string>
@@ -372,7 +378,7 @@ parezcan más grandes en las fotos"</string>
     <string name="mimoji_save_success">Guardado exitosamente</string>
     <string name="mimoji_selected">Seleccionar</string>
     <string name="mimoji_start_create">Creando Mimoji ...</string>
-    <string name="mimoji_tips">Toque para tomar una foto. Mantenga presionado para grabar un video.</string>
+    <string name="mimoji_tips">Toca para tomar una foto. Mantenga presionado para grabar un video.</string>
     <string name="module_name_beauty">Belleza</string>
     <string name="module_name_capture">Foto</string>
     <string name="module_name_fun">Vídeo corto</string>
@@ -440,7 +446,7 @@ y resalta las personas en primer plano."</string>
     <string name="portrait_mode_use_hint_for_bokeh">Prueba el modo vertical. Mantenga el sujeto nítido mientras difumina el fondo.</string>
     <string name="pref_960_watermark_title">Marca de agua 960FPS</string>
     <string name="pref_advance_settings">Ajustes adicionales</string>
-    <string name="pref_ai_detect">Detección IA</string>
+    <string name="pref_ai_detect">Detección con IA</string>
     <string name="pref_audio_focus_entry_front">Frontal</string>
     <string name="pref_audio_focus_entry_general">Normal</string>
     <string name="pref_audio_focus_entry_rear">Trasero</string>
@@ -448,7 +454,8 @@ y resalta las personas en primer plano."</string>
     <string name="pref_burst_shoot_title">Ráfaga</string>
     <string name="pref_camcorder_settings">Vídeo</string>
     <string name="pref_camcorder_settings_category">Ajustes de cámara</string>
-    <string name="pref_camera_ai_scene_title">Cámara Al</string>
+    <string name="pref_camera_ai_scene_title">Cámara con IA</string>
+    <string name="pref_camera_ai_shutter_title">Obturador con IA</string>
     <string name="pref_camera_antibanding_entry_0">Desactivado</string>
     <string name="pref_camera_antibanding_entry_1">50 Hz</string>
     <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -512,7 +519,7 @@ y resalta las personas en primer plano."</string>
     <string name="pref_camera_flashmode_entry_on">Activado</string>
     <string name="pref_camera_flashmode_entry_torch">Linterna</string>
     <string name="pref_camera_flashmode_title">Modo de flash</string>
-    <string name="pref_camera_focus_shoot_summary">Toque para enfocar, luego toque nuevamente para tomar una foto.</string>
+    <string name="pref_camera_focus_shoot_summary">Toca para enfocar, luego toque nuevamente para tomar una foto.</string>
     <string name="pref_camera_focus_shoot_title">Enfocar y disparar</string>
     <string name="pref_camera_focusmode_entry_auto">AUTO</string>
     <string name="pref_camera_focusmode_entry_infinity">Infinito</string>
@@ -520,8 +527,8 @@ y resalta las personas en primer plano."</string>
     <string name="pref_camera_focusmode_entry_manual">Manual</string>
     <string name="pref_camera_focusmode_entry_normal">Estándar</string>
     <string name="pref_camera_focusmode_title">Modo de enfoque</string>
-    <string name="pref_camera_front_ai_scene_entry_off">La cámara Al está desactivada</string>
-    <string name="pref_camera_front_ai_scene_entry_on">Cámara Al</string>
+    <string name="pref_camera_front_ai_scene_entry_off">La cámara con IA está desactivada</string>
+    <string name="pref_camera_front_ai_scene_entry_on">Cámara con IA</string>
     <string name="pref_camera_front_bokeh_entry_off">Desactivado</string>
     <string name="pref_camera_front_bokeh_entry_on">Activado</string>
     <string name="pref_camera_gradienter_title">Enderezar</string>
@@ -629,7 +636,7 @@ y resalta las personas en primer plano."</string>
     <string name="pref_camera_snap_label_take_movie">Vídeo</string>
     <string name="pref_camera_snap_label_take_picture">Foto</string>
     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">No se puede utilizar el Modo de disparo rápido mientras \"Activar con los botones de volumen\" esté activo.</string>
-    <string name="pref_camera_snap_value_off">Apagado</string>
+    <string name="pref_camera_snap_value_off">Desactivado</string>
     <string name="pref_camera_snap_value_take_movie">Película</string>
     <string name="pref_camera_snap_value_take_picture">Imagen</string>
     <string name="pref_camera_sound_title">Sonidos de cámara</string>
@@ -682,9 +689,10 @@ y resalta las personas en primer plano."</string>
     <string name="pref_camera_zsl_entry_off">Desactivado</string>
     <string name="pref_camera_zsl_entry_on">Activado</string>
     <string name="pref_capture_settings">Cámara</string>
+    <string name="pref_customization_title">Personalizar</string>
     <string name="pref_dualcamera_watermark_title">Marca de agua de cámara dual</string>
     <string name="pref_face_beauty_title">Modo belleza</string>
-    <string name="pref_fingerprint_capture_title">Obturador con huella digital</string>
+    <string name="pref_fingerprint_capture_title">Obturador con huella dactilar</string>
     <string name="pref_front_mirror_entry_auto">Cuando se detecte una cara</string>
     <string name="pref_front_mirror_entry_off">Desactivado</string>
     <string name="pref_front_mirror_entry_on">Activado</string>
@@ -705,7 +713,7 @@ y resalta las personas en primer plano."</string>
     <string name="pref_photo_assistance_tips_off">Desactivado</string>
     <string name="pref_photo_assistance_tips_on">Activado</string>
     <string name="pref_priority_storage_title">Guardar en la tarjeta SD</string>
-    <string name="pref_privacy_title">Política de privacidad</string>
+    <string name="pref_privacy_title">Política de Privacidad</string>
     <string name="pref_qc_focus_position_title">F</string>
     <string name="pref_retain_camera_mode_summary">Cambiar cámara al modo usado antes al abrir la aplicación.</string>
     <string name="pref_retain_camera_mode_title">Guardar modo anterior</string>
@@ -753,8 +761,8 @@ y resalta las personas en primer plano."</string>
     <string name="pref_video_time_lapse_frame_interval_entry_90">90X (intervalo de 3 segundos)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_900">900X (intervalo de 30 segundos)</string>
     <string name="pref_video_time_lapse_frame_interval_title">Intervalo de time lapse</string>
-    <string name="pref_watermark_off">Apagado</string>
-    <string name="pref_watermark_on">Encendido</string>
+    <string name="pref_watermark_off">Desactivado</string>
+    <string name="pref_watermark_on">Activado</string>
     <string name="pref_watermark_title">Filigrana</string>
     <string name="preparing_sd">Comprobando tarjeta SD…</string>
     <string name="recommend_macro_mode">Prueba el Modo macro</string>
@@ -762,7 +770,7 @@ y resalta las personas en primer plano."</string>
     <string name="recommend_soft_light_tip">Activar flash</string>
     <string name="recommend_super_night">Prueba el Modo nocturno</string>
     <string name="record_back_pressed_hint">Toca de nuevo para detener la grabación</string>
-    <string name="reset_manually_parameter_confirmed">ACEPTAR</string>
+    <string name="reset_manually_parameter_confirmed">Aceptar</string>
     <string name="reset_manually_parameter_hint">Reiniciar</string>
     <string name="screen_on_proximity_sensor_hint">Para desactivar esta función, presiona los botones Atrás y Subir volumen simultáneamente.</string>
     <string name="screen_on_proximity_sensor_summary">No cubras la zona del auricular</string>
@@ -822,8 +830,9 @@ y resalta las personas en primer plano."</string>
     <string name="ultra_wide_recommend_tip_hint">Prueba el modo ultra gran angular</string>
     <string name="ultra_wide_recommend_tip_hint_sat">Pruebe el modo ultra gran angular 0.6X</string>
     <string name="user_agree">Aceptar</string>
+    <string name="user_disagree">"Rechazar"</string>
     <string name="user_agreement2">Términos de Servicio</string>
-    <string name="user_agreement4">Política de privacidad</string>
+    <string name="user_agreement4">Política de Privacidad</string>
     <string name="user_define_watermark_cancel">Cancelar</string>
     <string name="user_define_watermark_save">Guardar</string>
      <!-- MNPS mismatch found! Translated: 2 Original: 0

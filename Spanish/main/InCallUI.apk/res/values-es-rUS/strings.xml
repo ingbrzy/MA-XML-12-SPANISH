@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="inCallLabel">InCallUI</string>
+    <string name="inCallLabel">Teléfono</string>
     <string name="unknown">Desconocido</string>
     <string name="private_num">Número privado</string>
     <string name="payphone">Teléfono público</string>
@@ -28,7 +28,7 @@
     <string name="callFailed_dsac_restricted_emergency">Las llamadas de emergencia están siendo restringidas por el control de acceso.</string>
     <string name="callFailed_dsac_restricted_normal">Las llamadas normales están siendo restringidas por el control de acceso.</string>
     <string name="callFailed_unobtainable_number">Número inválido</string>
-    <string name="incall_error_supp_service_unknown">Este servicio no es compatible.</string>
+    <string name="incall_error_supp_service_unknown">"Este servicio no es compatible."</string>
     <string name="incall_error_supp_service_switch">No se pueden cambiar las llamadas.</string>
     <string name="incall_error_supp_service_separate">No se puede separar la llamada.</string>
     <string name="incall_error_supp_service_transfer">No se puede transferir la llamada.</string>
@@ -137,7 +137,7 @@
     <string name="call_recording_error_unknown">Ha ocurrido un error desconocido.</string>
     <string name="call_recording_notification_title">Llamada grabada</string>
     <string name="call_recording_notification_title_error">No se pudo grabar la llamada</string>
-    <string name="call_recording_notification_message">Toque para escuchar.</string>
+    <string name="call_recording_notification_message">Toca para escuchar.</string>
     <string name="call_recording_notification_message_low_storage">La tarjeta SD está llena.</string>
     <string name="call_recording_notification_message_sd_unmounted">La tarjeta SD fue extraída.</string>
     <string name="call_recording_deny_permission_msg">Negó el permiso para grabar, no es posible grabar.</string>

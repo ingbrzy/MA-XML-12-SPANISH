@@ -98,9 +98,9 @@
     <string name="click_to_view">Pulsar para ver</string>
     <string name="close">Cerrar</string>
     <string name="cloud_recommend_view_tip">Activa la sincronización con la nube para restaurar mensajes importantes en cualquier momento</string>
-    <string name="cloud_state_disabled">Active la sincronización con Mi Cloud para sincronizar mensajes</string>
-    <string name="cloud_state_sync_finished">Sincronizado con Mi Cloud</string>
-    <string name="cloud_state_syncing">Sincronizando con Mi Cloud…</string>
+    <string name="cloud_state_disabled">Active la sincronización con Xiaomi Cloud para sincronizar mensajes</string>
+    <string name="cloud_state_sync_finished">Sincronizado con Xiaomi Cloud</string>
+    <string name="cloud_state_syncing">Sincronizando con Xiaomi Cloud…</string>
     <string name="cm_privacy_dialog_allow">Aceptar</string>
     <string name="cm_privacy_dialog_cancel">Cancelar</string>
     <string name="cm_privacy_dialog_spannable_tips">Política de Privacidad</string>
@@ -195,9 +195,9 @@
     <string name="dialog_message_networking">Mensaje necesita usar las páginas amarillas para poder proporcionar reconocimiento de identificación del remitente. Las páginas de mensajería y amarillas necesitan conectarse a Internet y acceder a su ubicación para trabajar normalmente. ¿Permitir?</string>
     <string name="dialog_message_rcs">La mensajería de China Mobile te permite enviar mensajes a otros usuarios de China Mobile en China continental sin incurrir en cargos. Debes aceptar \"%1$s\" antes de usar la mensajería de China Mobile.</string>
     <string name="dialog_message_sms_report">Los mensajes spam y la información del remitente se cargarán en MIUI cuando los notifique. Solo se usarán para mejorar los filtros de spam de MIUI.</string>
-    <string name="dialog_sim_locked_confirm">ACEPTAR</string>
+    <string name="dialog_sim_locked_confirm">Aceptar</string>
     <string name="dialog_sim_locked_message">La tarjeta SIM no funciona completamente con este teléfono debido a que no cumple con los términos y condiciones de tu suscripción. Si tienes alguna duda o necesitas más información al respecto, contacta con el servicio de atención al cliente de Xiaomi o a la tienda que te vendió el producto.</string>
-    <string name="dialog_smart_message_privacy_tips">Los servicios de Mensajería Inteligente son en parte proporcionados por Dianhuabang. Antes de usar Mensajería Inteligente, debes aceptar nuestra \"%1$s\". Mensajería Inteligente necesita conectarse a internet y acceder a tu ubicación para funcionar correctamente. ¿Aceptar?</string>
+    <string name="dialog_smart_message_privacy_tips">Los servicios de Mensajes inteligentes son en parte proporcionados por Dianhuabang. Antes de usar Mensajes inteligentes, debes aceptar nuestra \"%1$s\". Mensajes inteligentes necesita conectarse a internet y acceder a tu ubicación para funcionar correctamente. ¿Aceptar?</string>
     <string name="dialog_smart_message_privacy_tips_title">Política de Privacidad de Dianhuabang</string>
     <string name="dialog_title_fake_cell_detect_error">Corrección</string>
     <string name="dialog_title_mx_rcs">Mi Message</string>
@@ -266,10 +266,10 @@
     <string name="forward_prefix">"Fwd: "</string>
     <string name="found_old_messages">¿Subir los mensajes de %1$s a %2$s?</string>
     <string name="found_old_messages_title">¿Subir los mensajes de sus otras tarjetas SIM?</string>
-    <string name="found_wild_messages_guide_cloud_desc">Para sincronizar mensajes de Mi Cloud, inicia sesión en Mi Cuenta y activa la sincronización SMS.</string>
-    <string name="found_wild_messages_guide_settings_desc">Sincronizar mensajes de Mi Cloud en Ajustes de Mensajería.</string>
+    <string name="found_wild_messages_guide_cloud_desc">Para sincronizar mensajes de Xiaomi Cloud, inicia sesión en Cuenta Mi y activa la sincronización SMS.</string>
+    <string name="found_wild_messages_guide_settings_desc">Sincronizar mensajes de Xiaomi Cloud en Ajustes de Mensajería.</string>
     <string name="found_wild_messages_guide_sync_not_started">La sincronización no se ha iniciado</string>
-    <string name="found_wild_messages_title">Sincronizar mensajes de Mi Cloud</string>
+    <string name="found_wild_messages_title">Sincronizar mensajes de Xiaomi Cloud</string>
     <string name="from_label">"De: "</string>
     <string name="from_pkg_name">Desde la aplicación:</string>
     <string name="ft_cfs_dialog_content">No se pudo enviar los archivos usando RCS. ¿Envíar un link en un mensaje de texto en su lugar?</string>
@@ -425,7 +425,7 @@ Este mensaje podría ser no deseado."</string>
     <string name="mx_current_status">Ajustes</string>
     <string name="mx_dspt">Enviar mensajes SMS y MMS a otros dispositivos MIUI sin cargos adicionales cuando estés conectado a una red Wi-Fi.</string>
     <string name="mx_dspt_listview">Enviar mensajes a otros dispositivos MIUI sin cargos adicionales</string>
-    <string name="mx_dspt_provision">Mi Mensaje te permite enviar mensajes a otros usuarios de MIUI a través de Internet sin incurrir en gastos. Un SMS saliente puede requerirse para activar Mi Mensaje. Tu operador puede cobrarte por este servicio. Además, este servicio necesita acceder a los datos móviles para funcionar normalmente.</string>
+    <string name="mx_dspt_provision">Mi Mensaje te permite enviar mensajes a otros usuarios de MIUI a través de Internet sin coste alguno. Un SMS saliente puede requerirse para activar Mi Mensaje. Tu operador puede cobrarte por este servicio. Además, este servicio necesita acceder a los datos móviles para funcionar normalmente.</string>
     <string name="mx_dspt_provision_ex2">Política de Privacidad</string>
     <string name="mx_enable">Mi Mensaje</string>
     <string name="mx_enable_ex">Mi Mensaje y Voz</string>
@@ -434,8 +434,9 @@ Este mensaje podría ser no deseado."</string>
     <string name="mx_filter_message_from_stranger_dialog_desc">Todavía puedes recibir SMS de números desconocidos. Puedes activar o desactivar esta función en cualquier momento en Mensajes > Ajustes.</string>
     <string name="mx_filter_message_from_stranger_dialog_title">Bloquear Mi Mensaje de números desconocidos</string>
     <string name="mx_filter_message_from_stranger_summary">Todavía puedes recibir SMS de un número desconocido</string>
-    <string name="mx_main_purpose">"Mi Mensaje te permite enviar mensajes a otros usuarios de Mi Mensaje sin incurrir en cargos. 
-Se requiere un mensaje SMS para activar Mi Mensaje. Tu operador te cobrará por este mensaje."</string>
+    <string name="mx_main_purpose">"Mi Mensaje te permite enviar mensajes a otros usuarios de Mi Mensaje a través de Internet sin coste alguno. 
+Se requiere enviar un mensaje SMS para activar Mi Mensaje. Tu operador te cobrará por este mensaje."</string>
+    <string name="mx_main_purpose_short">Mi Message permite a usuarios de MIUI enviar y recibir SMS y MMS de forma gratuita.</string>
     <string name="mx_message">Mi Mensaje</string>
     <string name="mx_msg">Mi Mensaje</string>
     <string name="mx_msg_pageview_setting_title">Ajustes de Mi Mensaje</string>
@@ -571,7 +572,7 @@ Se requiere un mensaje SMS para activar Mi Mensaje. Tu operador te cobrará por 
     <string name="pref_title_ringtone_repeat">Tonos de notificación</string>
     <string name="pref_title_ringtone_repeat_summary">Tono de notificación activo al recibirse un mensaje mientras la pantalla está apagada</string>
     <string name="pref_title_send_delivery_reports">Enviar informe de entrega de mensajes</string>
-    <string name="pref_title_smart_msg_privacy_policy">Política de Privacidad de Mensajería Inteligente</string>
+    <string name="pref_title_smart_msg_privacy_policy">Política de Privacidad de Mensajes inteligentes</string>
     <string name="pref_title_sms_delete">Límite de mensaje de texto</string>
     <string name="pref_title_sms_validity_period">Expiración SMS</string>
     <string name="pref_title_storage_status">Estado de almacenamiento de mensajes</string>
@@ -678,13 +679,19 @@ Se requiere un mensaje SMS para activar Mi Mensaje. Tu operador te cobrará por 
     <string name="recipient_label">"Destinatario: "</string>
     <string name="recipients_over_size">Demasiados destinatarios.</string>
     <string name="recommend_bar_cancel">Ignorar</string>
-    <string name="recommend_bar_message_mx">Mi Message te permite enviar mensajes a otros usuarios de MIUI sin incurrir en gastos.</string>
-    <string name="recommend_bar_message_mx_rcs">Mi Message te permite enviar mensajes a otros usuarios de MIUI y usuarios de China Mobile en China continental sin incurrir en gastos.</string>
-    <string name="recommend_bar_message_rcs">La mensajería de China Mobile te permite enviar mensajes a otros usuarios de China Mobile en China continental sin incurrir en gastos.</string>
+    <string name="recommend_bar_message_mx">Mi Message te permite enviar mensajes a otros usuarios de MIUI sin coste alguno.</string>
+    <string name="recommend_bar_message_mx_rcs">Mi Message te permite enviar mensajes a otros usuarios de MIUI y usuarios de China Mobile en China continental sin coste alguno.</string>
+    <string name="recommend_bar_message_rcs">La mensajería de China Mobile te permite enviar mensajes a otros usuarios de China Mobile en China continental sin coste alguno.</string>
     <string name="recommend_bar_message_smart_message">Copiar contraseñas, rastrear paquetes, usar menús inteligentes y más</string>
     <string name="recommend_bar_ok">Activar</string>
     <string name="recommend_bar_title_mx_rcs">Mi Message</string>
-    <string name="recommend_bar_title_smart_message">Mensajería Inteligente</string>
+    <string name="recommend_bar_title_smart_message">Mensajes Inteligente</string>
+    <string name="recommend_both_dialog_title">¡Bienvenido a Mensajes!</string>
+    <string name="recommend_dialog_message">Puedes activar Mi Message y Mensajes inteligentes para acceder a funciones adicionales.</string>
+    <string name="recommend_mx_dialog_title">¡Bienvenido a Mi Message!</string>
+    <string name="recommend_mx_setting_summary">Mi Message te permite enviar mensajes a otros usuarios de Mi Message a través de Internet sin coste alguno.</string>
+    <string name="recommend_smart_sms_dialog_title">¡Bienvenido a Mensajes inteligentes!</string>
+    <string name="recommend_smart_sms_setting_summary">Mensajes inteligentes proporciona reconocimiento de ID del remitente y menús inteligentes.</string>
     <string name="recording_failed">No se puede grabar</string>
     <string name="refill_now">Recargar ahora</string>
     <string name="refreshing">Actualizando…</string>
@@ -871,6 +878,7 @@ Se requiere un mensaje SMS para activar Mi Mensaje. Tu operador te cobrará por 
     <string name="system_permission_declare_no_say_no">"Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.
 Si no aceptas conceder dichos permisos ni compartir y subir tu información personal, no podrás usar esta aplicación."</string>
     <string name="system_permission_declare_privacy_declare">%1s necesita recolectar tus datos y los siguientes permisos para funcionar correctamente:</string>
+    <string name="system_permission_declare_privacy_declare_new">Esta aplicación necesita conectarse a Internet y requiere los siguientes permisos para funcionar correctamente:</string>
     <string name="system_permission_declare_revoke_path">Puedes revocar tu autorización y desactivar los servicios en los ajustes de Mensajería.</string>
     <string name="system_permission_declare_single_link">Lee y acepta nuestra %1s antes de usar esta función.</string>
     <string name="system_permission_declare_triple_link" formatted="false">Lee y acepta nuestro %1s, %2s y %3s antes de usar estas funciones.</string>
@@ -892,7 +900,7 @@ Si no aceptas conceder dichos permisos ni compartir y subir tu información pers
     <string name="title_show_blocked_messages">Mostrar SMS bloqueados</string>
     <string name="title_show_list_avatar">Mostrar fotos de perfil</string>
     <string name="title_show_photo_word">Asignar fotos a contactos</string>
-    <string name="title_show_sms_template">Mensajería Inteligente</string>
+    <string name="title_show_sms_template">Mensajes inteligentes</string>
     <string name="title_show_sms_template_in">Comprobar OTP en sus SMS</string>
     <string name="title_timed_message_dialog">Establecer mensaje temporizado</string>
     <string name="title_use_gsm_alphabet">Usar alfabeto GSM</string>
@@ -934,7 +942,7 @@ Intentos realizados: %s."</string>
     <string name="url_result_safe">Esta URL es segura</string>
     <string name="url_scan_again">Comprobar de nuevo</string>
     <string name="url_scanning">Comprobando URL…</string>
-    <string name="user_agreement">Acuerdo de usuario</string>
+    <string name="user_agreement">Acuerdo de Usuario</string>
     <string name="verification_code_list_title">Códigos de verificación</string>
     <string name="view">Ver</string>
     <string name="view_bookmark">Ver mensaje original</string>

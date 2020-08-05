@@ -269,7 +269,7 @@
     <string name="delete_confirm">Eliminar</string>
     <string name="delete_confirm_msg">¿Eliminar todos los archivos seleccionados permanentemente?</string>
     <string name="desc_image">imagen</string>
-    <string name="dialog_content_checkbox_delete_cloud_image">Eliminar fotos de Mi Cloud</string>
+    <string name="dialog_content_checkbox_delete_cloud_image">Eliminar fotos de Xiaomi Cloud</string>
     <string name="dialog_content_select_all_confirm">¿Mantener una copia de esta foto?</string>
     <string name="dialog_msg_add_white_list_error">No se pudo añadir este archivo a las excepciones</string>
     <string name="dialog_msg_backup_and_uninstall_apps">¿Crear copia de seguridad y desinstalar las aplicaciones seleccionadas?</string>
@@ -279,7 +279,7 @@
     <string name="dialog_msg_stop_scan">¿Detener escaneo ahora?</string>
     <string name="dialog_msg_uninstall_apps">¿Desinstalar estas aplicaciones?</string>
     <string name="dialog_msg_uninstall_apps_xspace">¿Desinstalar estas aplicaciones, incluyendo sus Aplicaciones Duales?</string>
-    <string name="dialog_ok_add_white_list_error">De acuerdo</string>
+    <string name="dialog_ok_add_white_list_error">Aceptar</string>
     <string name="dialog_title_add_white_list_error">Atención</string>
     <string name="dialog_title_backup_and_uninstall_apps">Copia de seguridad y desinstalar</string>
     <string name="dialog_title_check_all">Seleccionar todo</string>
@@ -348,7 +348,7 @@
     <string name="global_wa_main_item_title_cache">Caché de aplicaciones</string>
     <string name="global_wa_main_item_title_chat">Adjuntos</string>
     <string name="global_wa_main_stop_cancel">Cancelar</string>
-    <string name="global_wa_main_stop_confirm">ACEPTAR</string>
+    <string name="global_wa_main_stop_confirm">Aceptar</string>
     <string name="global_wa_main_stop_msg">¿Detener el escaneo de elementos de WhatsApp?</string>
     <string name="global_wa_main_stop_scan">Detener</string>
     <string name="global_wa_main_to_clean">Limpiar</string>
@@ -384,7 +384,7 @@
     <string name="grabage_rank_title">Limpiado hoy</string>
     <string name="guide_dc_dialog_message">Hay menos de 2GB de espacio de almacenamiento libre. Esto podría ralentizar tu dispositivo. Realiza una limpieza profunda para liberar espacio de almacenamiento.</string>
     <string name="guide_dc_dialog_negative">Cancelar</string>
-    <string name="guide_dc_dialog_positive">ACEPTAR</string>
+    <string name="guide_dc_dialog_positive">Aceptar</string>
     <string name="guide_dc_dialog_title">Almacenamiento casi lleno</string>
     <string name="guide_secure_dialog_message">La puntuación de optimización de tu dispositivo está por debajo de 80 puntos. ¿Optimizar ahora?</string>
     <string name="guide_secure_dialog_negative">Cancelar</string>
@@ -394,7 +394,7 @@
     <string name="guide_virus_dialog_negative">Cancelar</string>
     <string name="guide_virus_dialog_positive">Escanear</string>
     <string name="guide_virus_dialog_title">Escanear antivirus</string>
-    <string name="header_optimizer">Al usar esta función, aceptas %s.</string>
+    <string name="header_optimizer">Al usar esta función, aceptas nuestra %s.</string>
     <string name="hint_clean_select_items">Eliminando duplicados…</string>
     <string name="hints_ad_header_left">Archivos obsoletos</string>
     <string name="hints_apk_header_left">Paquetes</string>
@@ -502,7 +502,7 @@
     <string name="msg_update_error_code_success">Hecho</string>
     <string name="msg_update_error_code_unknown_error">Los servidores están ocupados. Espera un momento y vuelve a intentarlo.</string>
     <string name="name_debuglog_dir">Registro de depuración BSP</string>
-    <string name="name_optimizer">Política de privacidad</string>
+    <string name="name_optimizer">Política de Privacidad</string>
     <string name="nb_clear_set">Limpiar caché, ver batería e información de lista de bloqueo en el panel de notificaciones</string>
     <string name="network_not_available">No se puede conectar a la red</string>
     <string name="news_change">Cambiar</string>
@@ -535,7 +535,7 @@
     <string name="output_videos">Exportar vídeos</string>
     <string name="petabyteShort">PB</string>
     <string name="positive_confirm">Aceptar</string>
-    <string name="pref_about_privacy_title">Política de privacidad</string>
+    <string name="pref_about_privacy_title">Política de Privacidad</string>
     <string name="pref_category_title_auto_clean_config_settings">Limpiezas automáticas</string>
     <string name="pref_category_title_auto_clean_settings">Recordar limpiar</string>
     <string name="pref_category_title_auto_update_cleanup_db">Ajustes adicionales</string>
@@ -652,7 +652,7 @@
     <string name="summary_delete_cache">¿Limpiar caché de las aplicaciones seleccionadas?</string>
     <string name="summary_delete_large_file">¿Eliminar permanentemente los archivos seleccionados?</string>
     <string name="summary_delete_video">¿Eliminar permanentemente los vídeos seleccionados?</string>
-    <string name="summary_optimizer">Esta función sube los nombres de las carpetas para actualizar la base de datos online de Cheetah Mobile y requiere la ID de tu dispositivo.</string>
+    <string name="summary_optimizer">"Limpiador necesita subir los nombres de archivos y carpetas de datos a los servidores de Clean Master para poder actualizar las definiciones en la nube. ¿Aceptar?"</string>
     <string name="terabyteShort">TB</string>
     <string name="text_optimizer">Cargar nombres de carpeta</string>
     <string name="there_is_no">Todo va bien, vuelve otro día</string>
@@ -665,7 +665,7 @@
     <string name="tips_low_storage_dialog_title">El espacio de almacenamiento se está agotando</string>
     <string name="tips_of_app_manage">Eliminar las aplicaciones que se usan poco para ahorrar almacenamiento</string>
     <string name="tips_of_auto_launch_manage">Prevenir el auto-inicio de aplicaciones usadas pocas veces</string>
-    <string name="tips_of_cloud_service">Inicia sesión en Mi Cuenta para usar más servicios de Mi</string>
+    <string name="tips_of_cloud_service">Inicia sesión en Cuenta Mi para usar más servicios de Mi</string>
     <string name="tips_of_connect">Conectarse a Internet para usar el conjunto completo de opciones de seguridad</string>
     <string name="tips_of_garbage_cloud_scan">Encontrar residuos ocultos con el escaneo en la nube</string>
     <string name="tips_of_garbage_data_set">Limpiar la base de datos del Limpiador para encontrar más residuos en tu dispositivo</string>

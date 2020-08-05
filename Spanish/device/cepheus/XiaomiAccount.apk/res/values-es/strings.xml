@@ -70,7 +70,7 @@
     <string name="account_user_email">Correo electrónico de recuperación</string>
     <string name="account_user_gender">Género</string>
     <string name="account_user_id">ID de Cuenta Mi</string>
-    <string name="account_user_id_show">Mi Cuenta: %s</string>
+    <string name="account_user_id_show">Cuenta Mi: %s</string>
     <string name="account_user_name">Nombre</string>
     <string name="account_user_name_dialog_title">Introduce nombre de usuario</string>
     <string name="account_user_other_info">Más fuentes</string>
@@ -190,7 +190,7 @@ Envía este código al supervisor."</string>
     <string name="find_device_clear_data">Borrar datos</string>
     <string name="find_device_close">Desactivado</string>
     <string name="find_device_error_password_not_confirmed">No se pudo desactivar la búsqueda del dispositivo. Introduce de nuevo la contraseña de Cuenta Mi.</string>
-    <string name="find_device_error_password_recently_changed">Has cambiado tu contraseña hace menos de 3 días. No puedes desactivar Localizar dispositivo, por razones de seguridad.</string>
+    <string name="find_device_error_password_recently_changed">Has cambiado tu contraseña hace menos de 3 días. No puedes desactivar Encontrar dispositivo, por razones de seguridad.</string>
     <string name="find_device_interrupted">Se interrumpió la acción, espera un minuto o dos y vuelve a intentarlo</string>
     <string name="find_device_io_error">No es posible conectarse a la red</string>
     <string name="find_device_location">Localizar</string>
@@ -224,7 +224,7 @@ Envía este código al supervisor."</string>
     <string name="health_state_not_activated">No activado</string>
     <string name="health_state_not_installed">No instalado</string>
     <string name="health_state_not_support">No es compatible con esta versión</string>
-    <string name="i_agree">ACEPTAR</string>
+    <string name="i_agree">Aceptar</string>
     <string name="i_agree_continue">Aceptar</string>
     <string name="identity">Identificación</string>
     <string name="inconsistent_pwd">Las contraseñas no coinciden</string>
@@ -286,7 +286,7 @@ Envía este código al supervisor."</string>
     <string name="oauth_getting_scopes">Verificando la cuenta…</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; obtendrá los siguientes permisos:&lt;br&gt; &lt;br&gt; %3$s</string>
     <string name="oauth_title">Iniciar sesión con Cuenta Mi</string>
-    <string name="ok">ACEPTAR</string>
+    <string name="ok">Aceptar</string>
     <string name="optional_permissions">Permisos opcionales</string>
     <string name="passport_Resend">Reenviar</string>
     <string name="passport_access_denied">Acceso denegado</string>
@@ -358,7 +358,7 @@ Para activar su cuenta, siga el
     <string name="passport_failed_to_send_activate_email">No se pudo enviar correo de activación</string>
     <string name="passport_find_password_on_web_msg">Visite account.mi.com para restablecer su contraseña.</string>
     <string name="passport_first_login_prompt">Se creará automáticamente una Cuenta Mi cuando inicies sesión por primera vez.</string>
-    <string name="passport_forget_password">&lt;u&gt;Contraseña olvidada&lt;/u&gt;</string>
+    <string name="passport_forget_password"><u>Contraseña olvidada</u></string>
     <string name="passport_forget_password_no_underline">Contraseña olvidada</string>
     <string name="passport_get_back_pwd">Recuperar contraseña de su cuenta</string>
     <string name="passport_get_innetdate_agree">Comprobar</string>
@@ -369,10 +369,10 @@ Para activar su cuenta, siga el
     <string name="passport_getting_activator_phone">Obteniendo info de SIM…</string>
     <string name="passport_getting_verify_code">Obteniendo</string>
     <string name="passport_google_login">¿Iniciar sesión con la cuenta de Google utilizada anteriormente?</string>
-    <string name="passport_google_login_agree">Cuenta Google</string>
+    <string name="passport_google_login_agree">Cuenta de Google</string>
     <string name="passport_google_login_disagree">Cuenta Mi</string>
     <string name="passport_google_login_failed">"No se pudo iniciar sesión con Google. Inicie sesión en su Cuenta Mi directamente."</string>
-    <string name="passport_i_know">De acuerdo</string>
+    <string name="passport_i_know">Aceptar</string>
     <string name="passport_identification_expired">El código de verificación ha expirado, vuelve a empezar</string>
     <string name="passport_imei_permission_denied_message">Estamos solicitando permiso para obtener el IMEI de su dispositivo. Cuenta Mi utiliza el IMEI para identificar el dispositivo en el que inicias sesión, para mantener segura la Cuenta Mi.</string>
     <string name="passport_imei_permission_denied_title">Solicitud de permiso IMEI</string>
@@ -407,7 +407,7 @@ Para activar su cuenta, siga el
     <string name="passport_phone_num_hint_text">Número de teléfono</string>
     <string name="passport_phone_ticket_login">Inicia sesión con SMS</string>
     <string name="passport_prev">Volver</string>
-    <string name="passport_privacy_policy">Política de privacidad</string>
+    <string name="passport_privacy_policy">Política de Privacidad</string>
     <string name="passport_privacy_policy_required">Política de Privacidad (obligatorio)</string>
     <string name="passport_pwd_generate_failure">No se pudo generar una contraseña</string>
     <string name="passport_pwd_generating">Generando…</string>
@@ -527,7 +527,7 @@ Para activar su cuenta, siga el
     <string name="push_notify_dialog_message">Se ha usado un dispositivo desconocido para iniciar sesión en Cuenta Mi. Introduce este código de verificación en el dispositivo. Si no fuiste tú, cambia la contraseña de Cuenta Mi de inmediato. No reveles tu código de verificación a otras personas.</string>
     <string name="push_notify_dialog_title">Verificación de cuenta</string>
     <string name="pwd_width_phone_number_or_mail_num">"La contraseña no puede contener su número de teléfono, correo electrónico o ID de Cuenta Mi"</string>
-    <string name="recycle_phone_notification_msg">Parece que su número de teléfono ha sido reciclado. Toque para actualizar.</string>
+    <string name="recycle_phone_notification_msg">Parece que su número de teléfono ha sido reciclado. Toca para actualizar.</string>
     <string name="recycle_phone_notification_title">Riesgo de seguridad de Cuenta Mi</string>
     <string name="removing_account">Cerrando sesión…</string>
     <string name="replace_binded_phone">Sustituir teléfono</string>
@@ -564,7 +564,7 @@ Para activar su cuenta, siga el
     <string name="set_success">Cambiado correctamente</string>
     <string name="sign_in">Iniciando sesión</string>
     <string name="sim_card">Tarjeta SIM</string>
-    <string name="sim_changed_notification_msg">Toque para actualizar su teléfono de recuperación y mantener su cuenta más segura.</string>
+    <string name="sim_changed_notification_msg">Toca para actualizar su teléfono de recuperación y mantener su cuenta más segura.</string>
     <string name="sim_changed_notification_title">¿Cambió el número de teléfono?</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="sms_send_success">Enviado</string>

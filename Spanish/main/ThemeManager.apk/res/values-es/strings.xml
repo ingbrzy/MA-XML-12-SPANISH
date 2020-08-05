@@ -235,8 +235,9 @@
     <string name="in_the_end">No hay más elementos que mostrar</string>
     <string name="incall_show_apply">Perfil de video para llamadas salientes.</string>
     <string name="incall_show_apply_fail">No se pudo establecer</string>
-    <string name="incall_show_apply_success">Aplicado con éxito. Para desactivar esta función, vaya a Configuración&gt; Sonido y vibración&gt; Perfil de video.</string>
-    <string name="incall_show_apply_success_without_ringtone">Aplicado con éxito. Este video no tiene sonido. Se utilizará el tono original. Para desactivar esta función, vaya a Configuración&gt; Sonido y vibración&gt; Perfil de video.</string>
+    <string name="incall_show_apply_success">Aplicado con éxito</string>
+    <string name="incall_show_apply_success_without_ringtone">Aplicado con éxito. Este video no tiene sonido. Se utilizará el tono original.
+Para desactivar esta función, ve a Ajustes &gt; Sonido y vibración &gt; Perfil de video.</string>
     <string name="incall_show_find_more">Encuentra más</string>
     <string name="incall_show_not_set">No hay videos de perfil</string>
     <string name="incall_show_remove">Eliminar video de perfil</string>
@@ -245,7 +246,7 @@
     <string name="incall_show_title">Videos de perfil</string>
     <string name="incompatible_dialog_cancel">No aplicar</string>
     <string name="incompatible_dialog_message">Este tema no es compatible con la versión de MIUI instalada en tu dispositivo. Algunas partes de MIUI podrían no funcionar correctamente si aplicas este tema.</string>
-    <string name="incompatible_dialog_ok">De acuerdo</string>
+    <string name="incompatible_dialog_ok">Aceptar</string>
     <string name="incompatible_dialog_title">Problemas de compatibilidad</string>
     <string name="is_setting_wallpaper_message">Estableciendo fondo de pantalla…</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmas</string>
@@ -271,13 +272,13 @@
     <string name="lockscreen_wallpaper">Pantalla de bloqueo</string>
     <string name="lockstyle_personal_settings">Personalización</string>
     <string name="mi_wallpaper">Fondo MIUI</string>
-    <string name="miuishare_account_activate_confirmation">Activar Mi Cuenta</string>
+    <string name="miuishare_account_activate_confirmation">Activar Cuenta Mi</string>
     <string name="miuishare_account_activate_ok">Activar</string>
     <string name="miuishare_account_login_cancel">Cancelar</string>
-    <string name="miuishare_account_login_confirmation">Iniciar sesión en Mi Cuenta</string>
+    <string name="miuishare_account_login_confirmation">Iniciar sesión en Cuenta Mi</string>
     <string name="miuishare_account_login_ok">Iniciar sesión</string>
-    <string name="miuishare_account_need_activate">Compartir con Weibo requiere que la cuenta de Weibo esté asociada con tu Mi Cuenta. Activa tu Mi Cuenta para continuar.</string>
-    <string name="miuishare_account_need_login">Compartir con Weibo requiere que la cuenta de Weibo esté asociada con tu Mi Cuenta. Inicia sesión en tu Mi Cuenta para continuar.</string>
+    <string name="miuishare_account_need_activate">Compartir con Weibo requiere que la cuenta de Weibo esté asociada con tu Cuenta Mi. Activa tu Cuenta Mi para continuar.</string>
+    <string name="miuishare_account_need_login">Compartir con Weibo requiere que la cuenta de Weibo esté asociada con tu Cuenta Mi. Inicia sesión en tu Cuenta Mi para continuar.</string>
     <string name="miuishare_app_name">MIUI Share</string>
     <string name="miuishare_mini_program_title">¡Mira el fondo de pantalla que he encontrado!</string>
     <string name="miuishare_no_network">No se pudo conectar a la red.</string>
@@ -375,7 +376,7 @@
     <string name="resource_account_abnormal_state">Error de cuenta. Espera uno o dos minutos e inténtalo de nuevo.</string>
     <string name="resource_account_fail_to_add">No se puede agregar la cuenta</string>
     <string name="resource_account_login">Iniciar sesión</string>
-    <string name="resource_account_login_before_action">Inicia sesión ahora en Mi Cuenta</string>
+    <string name="resource_account_login_before_action">Inicia sesión ahora en Cuenta Mi</string>
     <string name="resource_account_login_title">Iniciar sesión</string>
     <string name="resource_account_switch">Cambiar</string>
     <string name="resource_alarm_default">Alarma</string>
@@ -398,7 +399,7 @@
     <string name="resource_comment_bad_comments">Negativo</string>
     <string name="resource_comment_current_version">Versión actual</string>
     <string name="resource_comment_detainment_fail">Descartar</string>
-    <string name="resource_comment_detainment_msg">Todavía no has enviado tu comentario. ¿Descartar los cambios?</string>
+    <string name="resource_comment_detainment_msg">Todavía no has enviado tu comentario. ¿Descartar cambios?</string>
     <string name="resource_comment_detainment_success">Permanecer</string>
     <string name="resource_comment_edit_comment">Añadir comentarios</string>
     <string name="resource_comment_edit_comment_waiting">Comprobando historial…</string>
@@ -698,11 +699,11 @@
     <string name="theme_setting">Ajustes</string>
     <string name="theme_staggered_item_text">Recibir Créditos Mi</string>
     <string name="theme_to_comment">¡No está mal!</string>
-    <string name="theme_user_agreement_allow">De acuerdo</string>
+    <string name="theme_user_agreement_allow">Aceptar</string>
     <string name="theme_user_agreement_content1">"Mediante el uso de este producto, usted acepta nuestro "</string>
     <string name="theme_user_agreement_content2">Contrato de usuario</string>
     <string name="theme_user_agreement_content3">" y "</string>
-    <string name="theme_user_agreement_content4">Política de privacidad</string>
+    <string name="theme_user_agreement_content4">Política de Privacidad</string>
     <string name="theme_user_agreement_content5">". Esta aplicación necesita conectarse a internet para funcionar normalmente. "</string>
     <string name="theme_user_agreement_exit">No acepto</string>
     <string name="theme_user_agreement_remind_again">Mostrar Condiciones de Uso</string>
@@ -728,7 +729,7 @@
     <string name="title_system_audio_notification_resource">Notificaciones del sistema</string>
     <string name="title_system_audio_resource">Tonos de llamada del sistema</string>
     <string name="title_system_wallpaper_resource">Fondos de pantalla del sistema</string>
-    <string name="to_activate_the_account">Activa Mi Cuenta ahora</string>
+    <string name="to_activate_the_account">Activa Cuenta Mi ahora</string>
     <string name="transparent_wallpaper">Fondo transparente</string>
     <string name="transparent_wallpaper_apply_success">Establecido con éxito. Puedes desactivar esta función en Temas &gt; Perfil &gt; Características beta.</string>
     <string name="transparent_wallpaper_enable_success">Activado correctamente</string>
@@ -767,7 +768,7 @@
     <string name="video_data_tips_message">Usar datos móviles podría generar datos adicionales. ¿Continuar de todas formas?</string>
     <string name="video_data_tips_title">Aviso de consumo de datos</string>
     <string name="video_silence_apply_success">Video sin sonido configurado con éxito</string>
-    <string name="video_wallpaper_import">Toque para agregar elementos</string>
+    <string name="video_wallpaper_import">Toca para agregar elementos</string>
     <string name="wallpaper_apply">Aplicar</string>
     <string name="wallpaper_crop">Recortar</string>
     <string name="wallpaper_decoded_error">No es posible cargar el fondo de pantalla</string>
@@ -795,4 +796,10 @@
     <string name="xiaoai_speech_not_installed_message">Descargar e instalar el asistente de voz Mi AI para continuar.</string>
     <string name="xiaoai_speech_not_installed_title">El asistente de voz Mi AI no está instalado.</string>
     <string name="you_might_also_like">También podría gustarte</string>
+    <string name="system_cta_agree_desc">Permite que esta aplicación se conecte a internet y concede los permisos obligatorios mencionados anteriormente.</string>
+    <string name="system_cta_all_purpose">¡Bienvenido a Temas! Puedes usar esta aplicación para administrar tus temas, fondos de pantalla, tonos de llamada y fuentes.</string>
+    <string name="system_cta_main_purpose">Administrar y usar temas, fondos de pantalla, tonos de llamada, fuentes y videos de fondo de pantalla</string>
+    <string name="system_cta_runtime_perm_desc_get_accounts">Para acceder al IMEI y proporcionar servicios de descarga</string>
+    <string name="system_cta_runtime_perm_desc_read_phone_state">Acceder a la ID del dispositivo para poder identificarlo</string>
+    <string name="system_cta_runtime_perm_desc_storage">Para almacenar temas guardados y otros elementos</string>
 </resources>
