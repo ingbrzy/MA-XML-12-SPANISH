@@ -5503,6 +5503,7 @@ Interfaz UT: %5$s"</string>
 
 No se perderán los datos de las aplicaciones."</string>
     <string name="reset_app_preferences_title">¿Restablecer preferencias de las aplicaciones?</string>
+    <string name="reset_confirm_directory">"Nota: Antes de restaurar elementos, verifica que la carpeta \"MIUI-Backup-AllBackup\" exista en tu dispositivo móvil. Si no existe, créala."</string>
     <string name="reset_dashboard_summary">"Red, aplicaciones o dispositivo se pueden reiniciar"</string>
     <string name="reset_dashboard_title">Restablecer ajustes</string>
     <string name="reset_default_apn_failed">Error al restablecer apn predeterminado</string>
@@ -5517,16 +5518,17 @@ No se perderán los datos de las aplicaciones."</string>
     <string name="reset_network_complete_toast">Se han restablecido los ajustes de red</string>
     <string name="reset_network_confirm_title">¿Restablecer?</string>
     <string name="reset_network_data">Datos móviles</string>
-    <string name="reset_network_desc">""Se recuperarán todos los ajustes de red, como:
+    <string name="reset_network_desc">"Se restablecerán todos los ajustes de red, como:
 
 "&lt;li&gt;Wi‑Fi&lt;/li&gt;"
 "&lt;li&gt;Datos móviles&lt;/li&gt;"
 "&lt;li&gt;Bluetooth&lt;/li&gt;"</string>
     <string name="reset_network_final_button_text">Restablecer ajustes</string>
     <string name="reset_network_final_desc">¿Quieres restablecer todos los ajustes de red? Esta acción no se puede deshacer.</string>
-    <string name="reset_network_final_desc_esim">¿Quieres recuperar todos los ajustes de red y borrar todas las SIM descargadas? No podrás deshacer esta acción.</string>
+    <string name="reset_network_final_desc_esim">¿Quieres restablecer todos los ajustes de red y borrar todas las SIM descargadas? No podrás deshacer esta acción.</string>
     <string name="reset_network_title">Restablecer ajustes de red</string>
     <string name="reset_network_wifi">Wi‑Fi</string>
+    <string name="reset_remove_data_hint">Todos los elementos mencionados arriba serán borrados permanentemente. Respalda todos los itemes importantes en tu computadora o en Xiaomi Cloud antes de continuar.</string>
     <string name="reset_second_space_passwd">Restablecer la contraseña del Segundo espacio</string>
     <string name="reset_second_space_passwd_cancel">Cancelar</string>
     <string name="reset_second_space_passwd_confirm">Continuar</string>

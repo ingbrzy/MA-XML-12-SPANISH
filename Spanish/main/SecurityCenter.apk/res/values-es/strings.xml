@@ -1744,6 +1744,10 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="notification_exit_power_save_mode_subtitle">Batería cargada al %s.</string>
     <string name="notification_garbage_cleanup_summary">Borra la basura (%s) para acelerar tu dispositivo</string>
     <string name="notification_garbage_cleanup_title">Limpiar archivos basura</string>
+    <string name="notification_low_battery_action_btn">Activar</string>
+    <string name="notification_low_battery_need_charge">Carga tu dispositivo</string>
+    <string name="notification_low_battery_open_save_mode">Activar el Ahorrador de batería</string>
+    <string name="notification_low_battery_title">Menos de %s batería restante</string>
     <string name="notification_mask_summary">Ocultar contenido de notificación en la Pantalla de bloqueo y en el Panel de notificaciones</string>
     <string name="notification_mask_title">Ocultar contenido</string>
     <string name="notification_masked_item">Ocultar notificaciones</string>
@@ -1869,6 +1873,8 @@ Esta actividad acorta la vida de la batería."</string>
     <string name="optimize_result_title_uninstall_apps">Aplicaciones</string>
     <string name="optimize_result_toast_system_default_settings">Se restauró la configuración predeterminada</string>
     <string name="optimize_result_toast_system_no_item_selected">No hay elementos seleccionados</string>
+    <string name="optional_permissions">Permisos opcionales</string>
+    <string name="optional_permissions_desc">"Estos permisos son necesarios cuando estés usando funciones adicionales."</string>
     <string name="optmizingbar_optimize_done">Optimizado</string>
     <string name="optmizingbar_ready">Optimizando…</string>
     <string name="optmizingbar_stop_optmize">Detener</string>
@@ -2038,6 +2044,11 @@ Esta actividad acorta la vida de la batería."</string>
     <string name="power_center_dialog_msg_top">Cuando el ahorro de batería está activado, MIUI realizará las siguientes optimizaciones:</string>
     <string name="power_center_hints_scan_danger_result">Puedes solucionar los problemas de batería ahora</string>
     <string name="power_center_list_item_auto_brightness">Ajustar el brillo de la pantalla automáticamente</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">h</string>
     <string name="power_center_list_item_close_bluetooth">Desactivar Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Ajustes avanzados</string>
@@ -2191,7 +2202,7 @@ Esta actividad acorta la vida de la batería."</string>
     <string name="power_optimize_btn_text_fixed">Optimizado</string>
     <string name="power_optimize_catagory_fixed_title">Optimizado</string>
     <string name="power_optimize_close_app">Cerrar aplicaciones con uso de batería excesivo</string>
-    <string name="power_optimize_disable_5g">Restringir conectividad 5G</string>
+    <string name="power_optimize_disable_5g">Limitar conectividad 5G</string>
     <string name="power_optimize_disable_app_autostart">Evitar que las aplicaciones se abran automáticamente</string>
     <string name="power_optimize_disable_gps">Desactivar GPS</string>
     <string name="power_optimize_disable_gps_high_accuracy">Desactivar el modo de ubicación de alta precisión</string>
@@ -2231,19 +2242,20 @@ Esta actividad acorta la vida de la batería."</string>
     <string name="power_save_on_time_start_time_summary">Iniciar</string>
     <string name="power_save_on_time_start_time_summary_na">De</string>
     <string name="power_save_on_time_title">Programar cambio de perfil</string>
-    <string name="power_save_ps_clean">Borrar caché cuando el dispositivo esté bloqueado</string>
-    <string name="power_save_ps_close_setting_3">Desactivar servicios y funciones con alto consumo de energía (%1$s, %2$s, %3$s)</string>
-    <string name="power_save_ps_close_setting_4">Desactivar servicios y funciones con alto consumo de energía (%1$s, %2$s, %3$s, %4$s)</string>
-    <string name="power_save_ps_close_setting_5">Desactivar servicios y funciones con alto consumo de energía (%1$s, %2$s, %3$s, %4$s, %5$s)</string>
-    <string name="power_save_ps_close_setting_5gnet">Conectividad de red 5G</string>
-    <string name="power_save_ps_close_setting_6">Desactivar servicios y funciones con alto consumo de energía (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)</string>
-    <string name="power_save_ps_close_setting_7">Desactivar servicios y funciones con alto consumo de energía (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
+    <string name="power_save_ps_clean">Borrar caché siempre que el dispositivo esté bloqueado</string>
+    <string name="power_save_ps_close_setting">Desactiva los servicios en segundo plano (sincronización, GPS) para ahorrar batería</string>
+    <string name="power_save_ps_close_setting_3">Desactiva los servicios en segundo plano con alto consumo de energía (%1$s, %2$s, %3$s)</string>
+    <string name="power_save_ps_close_setting_4">Desactiva los servicios en segundo plano con alto consumo de energía (%1$s, %2$s, %3$s, %4$s)</string>
+    <string name="power_save_ps_close_setting_5">Desactiva los servicios en segundo plano con alto consumo de energía (%1$s, %2$s, %3$s, %4$s, %5$s)</string>
+    <string name="power_save_ps_close_setting_5gnet">Conexión red 5G</string>
+    <string name="power_save_ps_close_setting_6">Desactiva los servicios en segundo plano con alto consumo de energía (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)</string>
+    <string name="power_save_ps_close_setting_7">Desactiva los servicios en segundo plano con alto consumo de energía (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
     <string name="power_save_ps_close_setting_dclickwakeup">\"Tocar dos veces para activar o desactivar la pantalla\"</string>
-    <string name="power_save_ps_close_setting_fingeraod">\"Mostrar icono de huella cuando la pantalla está apagada\"</string>
+    <string name="power_save_ps_close_setting_fingeraod">\"Mostrar icono de huella digital cuando la pantalla esté apagada\"</string>
     <string name="power_save_ps_close_setting_gps">GPS</string>
-    <string name="power_save_ps_close_setting_haptic">respuesta táctil</string>
+    <string name="power_save_ps_close_setting_haptic">\"Respuesta táctil"\</string>
     <string name="power_save_ps_close_setting_pickupwakeup">\"Levantar para reactivar\"</string>
-    <string name="power_save_ps_close_setting_sync">sincronización</string>
+    <string name="power_save_ps_close_setting_sync">Sincronización</string>
     <string name="power_save_ps_description_title">Ahorro de batería activa las siguientes restricciones:</string>
     <string name="power_save_ps_freeze">Congelar aplicaciones en segundo plano</string>
     <string name="power_save_ps_limit">Restringir actividad de las aplicaciones del sistema</string>
@@ -2456,6 +2468,8 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="report_success">Mensaje denunciado</string>
     <string name="report_warning">¿Enviar %1$s SMS a Mi? Estos mensajes y números de teléfono desde los que fueron enviados serán transferidos a los servidores Mi para su revisión. Cualquier información personal asociada con estos mensajes se mantendrá siempre anónima.</string>
     <string name="report_warning_title">Atención</string>
+    <string name="required_permissions">Permisos obligatorios</string>
+    <string name="required_permissions_desc">Estos permisos son necesarios para que las funciones y servicios básicos de esta aplicación estén disponibles.</string>
     <string name="reset_data_dialog_message">Este dispositivo no está asociado con su cuenta Mi. No se puede restaurar o restablecer la contraseña. Haga una copia de seguridad de todos los elementos importantes y realice un restablecimiento de fábrica. Todos los datos se eliminarán permanentemente y su tarjeta SD se formateará durante el restablecimiento de fábrica.</string>
     <string name="reset_data_dialog_ok">Restablecimiento de fábrica</string>
     <string name="reset_data_title">No se puede restaurar la contraseña</string>
@@ -2765,7 +2779,81 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="status_bar_network_flow_today">Hoy: %1$s</string>
     <string name="still_retain_btn">Mantener</string>
     <string name="stop_milink_connect">Se detuvo el lanzamiento</string>
+    <string name="storage_activity_title">Espacio de almacenamiento</string>
+    <string name="storage_app_detail_activity_title">Espacio ocupado</string>
+    <string name="storage_app_detail_cache">Caché</string>
+    <string name="storage_app_detail_clear_all_data">Borrar todos los datos</string>
+    <string name="storage_app_detail_clear_all_dialog_message">Toda los datos de la aplicación, incluyendo archivos, ajustes, cuentas y caché serán eliminados permanentemente.</string>
+    <string name="storage_app_detail_clear_all_dialog_title">¿Borrar todos los datos?</string>
+    <string name="storage_app_detail_clear_cache">Borrar caché</string>
+    <string name="storage_app_detail_clear_cache_title">¿Borrar el caché de la aplicación ahora?</string>
+    <string name="storage_app_detail_dialog_cancel">Cancelar</string>
+    <string name="storage_app_detail_dialog_ok">OK</string>
+    <string name="storage_app_detail_manage_space">%s - Administrar espacio de almacenamiento</string>
+    <string name="storage_app_detail_manager_enabled">Activado</string>
+    <string name="storage_app_detail_qq_cleaner">QQ Cleaner</string>
+    <string name="storage_app_detail_sdcard">Datos de la aplicación</string>
+    <string name="storage_app_detail_system">Tamaño de la aplicación</string>
+    <string name="storage_app_detail_third_clean_size">Liberar %s</string>
+    <string name="storage_app_detail_total">Espacio total ocupado</string>
+    <string name="storage_app_detail_uninstall_app">Desinstalar aplicación</string>
+    <string name="storage_app_detail_uninstall_dialog_message">Todos los datos de la aplicación también serán eliminados si desinstalas la aplicación.</string>
+    <string name="storage_app_detail_uninstall_dialog_title">¿Desinstalar ahora?</string>
+    <string name="storage_app_detail_uninstall_done">Desinstalación existosa</string>
+    <string name="storage_app_detail_wechat_cleaner">WeChat cleaner</string>
+    <string name="storage_app_detail_wechat_session">"Clear WeChat's chat history"</string>
+    <string name="storage_app_list_activity_title">Detalles de la aplicación</string>
+    <string name="storage_app_list_desc">Espacio ocupado: %s</string>
+    <string name="storage_app_manager_clear_dlg_title">Borrar datos</string>
+    <string name="storage_app_manager_clear_failed_dlg_message">"No se puede borrar los datos de la aplicación"</string>
+    <string name="storage_app_manager_disable_dlg_text">Desactivar esta aplicación puede resultar en que algunas funciones no trabajen correctamente.</string>
+    <string name="storage_app_manager_disable_dlg_title">¿Desactivar aplicación pre-instalada?</string>
+    <string name="storage_app_manager_disable_text">Desactivar</string>
+    <string name="storage_app_manager_factory_reset_dlg_msg">Todas las actualizaciones de esta aplicación del sistema Android serán desinstaladas.</string>
+    <string name="storage_app_manager_factory_reset_dlg_title">¿Desinstalar actualizaciones?</string>
+    <string name="storage_app_manager_uninstall_application">¿Desinstalar</string>
+    <string name="storage_app_manager_uninstall_protected_dlg_msg">La desinstalación de plugins del sistema puede resultar en que algunas funciones no trabajen correctamente. ¿Desinstalar de todas formas?</string>
     <string name="storage_app_manager_uninstall_protected_dlg_title">Atención</string>
+    <string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">"La aplicación dual de esta aplicación será desinstalada también."</string>
+    <string name="storage_app_manager_uninstall_xspace_app_dlg_msg">Todos los datos de la aplicación también serán eliminados si desinstalas la aplicación .</string>
+    <string name="storage_app_manager_uninstall_xspace_app_dlg_title">¿Desinstalar aplicación dual?</string>
+    <string name="storage_app_space_details_entry">Ver detalles de la aplicación</string>
+    <string name="storage_app_uninstall_app_dialog_msg">Todos los datos de la aplicación también serán eliminados si desinstalas la aplicación.</string>
+    <string name="storage_app_uninstall_app_dialog_title">Desinstalando la aplicación</string>
+    <string name="storage_available_total_size">%1$s de %2$s disponible</string>
+    <string name="storage_available_total_size1">Ocupado: %1$s | Total: %2$s</string>
+    <string name="storage_deepclean_entry">Limpieza profunda</string>
+    <string name="storage_dialog_unmountable">"Esta ^1 está corrupta.
+
+    Para usarla ^1, tienes que configurarla primero."</string>
+    <string name="storage_dialog_unmounted">"Esta ^1 ha sido removida correctamente, pero aún disponible.
+
+    Para usarla ^1, tienes que montarla primero."</string>
+    <string name="storage_dialog_unsupported">"Este dispositivo no soporta esta ^1.
+
+    Para usarla ^1 con este dispositivo, tienes que configurarla primero."</string>
+    <string name="storage_format_failure">"No se pudo formatear %1$s"</string>
+    <string name="storage_format_success">Formateo %1$s completo</string>
+    <string name="storage_item_apk_name">APKs</string>
+    <string name="storage_item_appdata_name">Aplicaciones y datos</string>
+    <string name="storage_item_audio_name">Audio</string>
+    <string name="storage_item_clean_name">Espacio libre</string>
+    <string name="storage_item_doc_name">Documentos</string>
+    <string name="storage_item_other_name">Otros</string>
+    <string name="storage_item_picture_name">Imágenes</string>
+    <string name="storage_item_system_name">Sistema</string>
+    <string name="storage_item_video_name">Video</string>
+    <string name="storage_menu_mount">Montado</string>
+    <string name="storage_mount_failure">"No se pudo montar %1$s"</string>
+    <string name="storage_mount_success">Montada %1$s completo</string>
+    <string name="storage_space_release_hint">¿Necesitas más espacio de almacenamiento?</string>
+    <string name="storage_unmount_failure">"No se puedo desmontar %1$s"</string>
+    <string name="storage_unmount_success">Desmontada %1$s completa</string>
+    <string name="storage_wizard_format_confirm_v2_action">Formatear ^1</string>
+    <string name="storage_wizard_format_confirm_v2_body">"Esta ^1 Necesita ser formateada para almacenar aplicaciones, archivos, y multimedia.
+
+    El formateo eliminará el contenido existente en ^2. Para evitar pérdida de contenido, respáldala en otra ^3 o dispositivo."</string>
+    <string name="storage_wizard_format_confirm_v2_title">¿Formatear esta ^1 ahora?</string>
     <string name="suggest_app_tolock">Sugerencias</string>
     <string name="suggest_app_tolock_masked">Oculto</string>
     <string name="suggest_app_tolock_unmasked">Notificaciones visibles</string>
@@ -2866,7 +2954,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="system_permission_declare_privacy_no_permission">Ten en cuenta que Seguridad necesita conectarse a Internet y recopilar la información personal requerida para poder brindarle servicios. Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.</string>
     <string name="system_permission_declare_privacy_policy"><Data>Para comprender plenamente tus derechos como usuario, así como las formas en las que usamos tus datos, lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt;.<Data></string>
     <string name="system_permission_declare_revoke_system">Puedes salir de esta aplicación.</string>
-    <string name="system_permission_declare_revoke_uninstallable">Puedes cerrar sesión, desinstalar esta aplicación o revocar tu autorización en Seguridad &gt; Administrar aplicaciones &gt; Permisos &gt; Permisos.</string>
+    <string name="system_permission_declare_revoke_uninstallable">Puede cerrar sesión, desinstalar esta aplicación o revocar su autorización en Seguridad&gt; Administrar aplicaciones&gt; Permisos&gt; Permisos.</string>
     <string name="system_permission_declare_title">Atención</string>
     <string name="system_permission_declare_use_network">Conectarse a la red</string>
     <string name="system_permission_declare_use_network_no_permission">Conectarse a la red</string>

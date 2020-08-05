@@ -58,6 +58,7 @@
     <string name="additional_gsm_call_settings_with_label">Ajustes adicionales (%s)</string>
     <string name="administrative_disable">Administrativo desactivado</string>
     <string name="administrative_enable">Administrativo activado</string>
+    <string name="advanced_mobile_settings">Ajustes avanzados</string>
     <string name="advanced_options_title">Avanzado</string>
     <string name="advanced_settings">Ajustes opcionales</string>
     <string name="advanced_settings_hide">▽ Toca para ocultar todo</string>
@@ -639,9 +640,9 @@ Frecuencia de muestreo"</string>
     <string name="debug_networking_category">Redes</string>
     <string name="debug_view_attributes">Inspección de atributos de vista</string>
     <string name="default_notification_description">Sonido predeterminado (%1$s)</string>
-    <string name="default_preference_summary_domain_address">&lt;No configurado></string>
-    <string name="default_preference_summary_password">&lt;No configurada></string>
-    <string name="default_preference_summary_username">&lt;No configurado></string>
+    <string name="default_preference_summary_domain_address">&lt;No configurado&gt;</string>
+    <string name="default_preference_summary_password">&lt;No configurada&gt;</string>
+    <string name="default_preference_summary_username">&lt;No configurado&gt;</string>
     <string name="delete">Eliminar</string>
     <string name="delete_fdn_contact">Eliminar número de marcación fija</string>
     <string name="deleting_fdn_contact">Eliminando número de marcación fija…</string>
@@ -951,6 +952,8 @@ Póngase en contacto con su operador si el problema persiste."</string>
     <string name="lable_network_not_supported">La red no es compatible</string>
     <string name="lafs_disable">Horarios de vuelo del aeropuerto local desactivados</string>
     <string name="lafs_enable">Horarios de vuelo del aeropuerto local activados</string>
+    <string name="last_sim_callback_summary">Cuando realice llamadas del Historial de llamadas, usar una tarjeta SIM que fue usada durante la llamada anterior con este contacto</string>
+    <string name="last_sim_callback_title">Recordar preferencias de SIM</string>
     <string name="launch_defaults_none">No se han establecido valores predeterminados</string>
     <string name="launch_defaults_some">Se han establecido algunos valores predeterminados</string>
     <string name="list_language_dtitle">Idiomas</string>
@@ -1012,6 +1015,11 @@ Póngase en contacto con su operador si el problema persiste."</string>
     <string name="miui_notification_network_selection_title_by_sim">SIM %s: Sin servicio</string>
     <string name="mmiCancelled">Código MMI cancelado</string>
     <string name="mmiStarted">Código MMI iniciado</string>
+    <string name="mobile_advanced_dns_server_title">Dirección de servidor DNS</string>
+    <string name="mobile_advanced_ip_address_title">Dirección IP</string>
+    <string name="mobile_advanced_nr_network_title">Tipo de red 5G</string>
+    <string name="mobile_connection_management">Administrar la conexión de red móvil</string>
+    <string name="mobile_data">Datos móviles</string>
     <string name="mobile_data_activate_button">AÑADIR DATOS</string>
     <string name="mobile_data_activate_cancel_button">CANCELAR</string>
     <string name="mobile_data_activate_diag_message">Podrías necesitar añadir datos de %s</string>
@@ -1085,7 +1093,15 @@ Póngase en contacto con su operador si el problema persiste."</string>
     <string name="msim_set_sub_not_supported_phone_in_call">No se puede establecer durante una llamada</string>
     <string name="msim_set_sub_not_supported_slot_id_error">Error de tarjeta SIM</string>
     <string name="msim_setting_categery_title">Ajustes de la tarjeta SIM</string>
+    <string name="msim_setting_default_data">Tarjeta de Datos</string>
+    <string name="msim_setting_default_data_description">Tarjeta de Datos %d</string>
+    <string name="msim_setting_default_voice">Predeterminada para llamadas</string>
+    <string name="msim_setting_default_voice_description">SIM %d para llamadas</string>
+    <string name="msim_setting_install_virtual_sim_install">Instalar</string>
+    <string name="msim_setting_install_virtual_sim_message">Instala Mi Carrier Services para comprar tarjetas SIM y administrar el plan de tu operador.</string>
+    <string name="msim_setting_install_virtual_sim_tip">Mi Carrier Services</string>
     <string name="msim_setting_no_sim_indicator">No hay tarjeta SIM</string>
+    <string name="msim_setting_no_sim_number">No establecido</string>
     <string name="msim_setting_operator_network_title">Red móvil</string>
     <string name="msim_setting_screen_title">Tarjetas SIM y redes móviles</string>
     <string name="msim_setting_sim_info_editor_title">Editar información de la SIM</string>
@@ -1098,6 +1114,7 @@ Póngase en contacto con su operador si el problema persiste."</string>
     <string name="name">Nombre</string>
     <string name="national_disable">Noticias nacionales desactivadas</string>
     <string name="national_enable">Noticias nacionales activadas</string>
+    <string name="netcheck_title">Diagnóstico de red móvil</string>
     <string name="network_4G">4G (recomendado)</string>
     <string name="network_connected">Conectada</string>
     <string name="network_connecting">Conectando...</string>
