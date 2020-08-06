@@ -39,7 +39,7 @@
     <string name="alert_dialog_download_prepare">Iniciando descarga…</string>
     <string name="alert_dialog_download_progress">"Descargando aplicación: "</string>
     <string name="and"> y </string>
-    <string name="app_name">Mi Vídeo</string>
+    <string name="app_name">Vídeos</string>
     <string name="before_yestoday">Hace 2 días</string>
     <string name="bind_sign_in_title">Añadir cuenta</string>
     <string name="cancel">Cancelar</string>
@@ -90,6 +90,9 @@
     <string name="choose_to_signup">No, crearé una</string>
     <string name="click_to_reload_more">Toca para cargar más</string>
     <string name="click_to_retry">Volver a intentar</string>
+    <string name="cloud_online_switch">Recomendaciones personalizadas</string>
+    <string name="cloud_online_switch_close_time">Puedes activar las recomendaciones de contenido persnalizado en %s</string>
+    <string name="cloud_online_switch_open_time">Mostrar recomendaciones de contenido personalizado</string>
     <string name="com_facebook_device_auth_instructions">Ve a &lt;b>facebook.com/device&lt;/b> e ingresa el código que se muestra arriba.</string>
     <string name="com_facebook_image_download_unknown_error">Se produjo un error inesperado al descargar una imagen.</string>
     <string name="com_facebook_internet_permission_error_message">El inicio de sesión de WebView requiere permisos de INTERNET</string>
@@ -116,7 +119,7 @@
     <string name="com_mixpanel_android_close">Cerrar</string>
     <string name="com_mixpanel_android_done">Hecho</string>
     <string name="com_mixpanel_android_notification_image">Imagen no mostrada</string>
-    <string name="com_permission_desc">Mi Vídeo no puede acceder a los vídeos en tu dispositivo. Permite el acceso en Ajustes.</string>
+    <string name="com_permission_desc">Mi Video no puede acceder a los vídeos en tu dispositivo. Permite el acceso en Ajustes.</string>
     <string name="com_permission_title">Se requieren permisos</string>
     <string name="common_cancel">Cancelar</string>
     <string name="common_google_play_services_enable_button">Habilitar</string>
@@ -178,7 +181,7 @@
     <string name="exo_track_surround_5_point_1">Sonido envolvente 5.1</string>
     <string name="exo_track_surround_7_point_1">Sonido envolvente 7.1</string>
     <string name="exo_track_unknown">Desconocido</string>
-    <string name="explore_on_mi_video">Encuentra más en Mi Vídeo</string>
+    <string name="explore_on_mi_video">Encuentra más en Mi Video</string>
     <string name="failed_to_fetch_data">No se pudo cargar la información.</string>
     <string name="feedback_activity_title">Comentarios</string>
     <string name="feedback_contact_empty">Introduce tu información de contacto</string>
@@ -200,7 +203,7 @@
     <string name="gallery_folder_alias_TAOBAO">Taobao</string>
     <string name="gallery_folder_alias_camera">Cámara</string>
     <string name="gallery_folder_alias_download">Descargas</string>
-    <string name="gallery_folder_alias_mivideo">Mi Vídeo</string>
+    <string name="gallery_folder_alias_mivideo">Mi Video</string>
     <string name="gallery_folder_alias_mobileqq">Cámara de QQ</string>
     <string name="gallery_folder_alias_mobileqq_file">Archivos de QQ</string>
     <string name="gallery_folder_alias_pdd">Pinduoduo</string>
@@ -215,7 +218,7 @@
     <string name="gallery_folder_alias_youku_video">Youku</string>
     <string name="gallery_tab_all">Todo</string>
     <string name="gallery_tab_videos">Vídeo</string>
-     <string name="galleryplus_online_cta">Mi Vídeo necesita conectarse a internet para funcionar correctamente. ¿Aceptar?</string>
+     <string name="galleryplus_online_cta">Mi Video necesita conectarse a internet para funcionar correctamente. ¿Aceptar?</string>
     <string name="galleryplus_online_cta_agree">Aceptar</string>
     <string name="galleryplus_online_cta_disagree">"Rechazar"</string>
     <string name="galleryplus_online_cta_title">Términos y condiciones</string>
@@ -344,7 +347,7 @@
     <string name="lv_videoView_error_title">No se puede reproducir el vídeo</string>
     <string name="lv_video_null">No hay vídeos</string>
     <string name="lv_volume">Volumen</string>
-    <string name="mi_video">Mi Vídeo</string>
+    <string name="mi_video">Mi Video</string>
     <string name="moment_guide_desc">Usar gestos para ampliar y alejar</string>
     <string name="moment_tab_all">Todo</string>
     <string name="moment_tab_facebook">Facebook</string>
@@ -381,7 +384,7 @@
     <string name="mr_system_route_name">Sistema</string>
     <string name="mr_user_route_category_name">Dispositivos</string>
     <string name="my_favorite_channels">Mis canales</string>
-    <string name="need_update_app">Actualizar Mi Vídeo para usar sus funciones</string>
+    <string name="need_update_app">Actualiza Mi Video para usar sus funciones</string>
     <string name="network_connect_info">No se pudo conectar a la red. Comprueba tus ajustes de red y vuelve a intentarlo.</string>
     <string name="network_failed">No se pudo conectar a la red</string>
     <string name="next">Siguiente</string>
@@ -390,6 +393,8 @@
     <string name="no_recommend_data">ningún vídeo recomendado ahora mismo</string>
     <string name="not_show">No volver a mostrar</string>
     <string name="notify_apk_installed">Descargado con éxito</string>
+    <string name="notification_bar_player_subtitle">Mostrar el reproductor minimizado en la barra de notificaciones</string>
+    <string name="notification_bar_player_title">Minimizar reproductor</string>
     <string name="ok">OK</string>
     <string name="ovp_alert_dialog_download_install_task">Descargando complemento HD…</string>
     <string name="ovp_buffering_video_netplay_label_v5">Cargando…</string>
@@ -423,7 +428,7 @@
     <string name="ovp_episode_suffix">"Episodio %d "</string>
     <string name="ovp_favor">Favoritos</string>
     <string name="ovp_favor_null">No hay elementos.</string>
-    <string name="ovp_feedback_title">Comentarios de Mi Vídeo</string>
+    <string name="ovp_feedback_title">Comentarios de Mi Video</string>
     <string name="ovp_home_folder_is_null_jump_upfolder_tip">No se pudo encontrar el archivo. Se pasó a la carpeta anterior.</string>
     <string name="ovp_home_item_camera">Galería</string>
     <string name="ovp_home_item_download">Descargas</string>
@@ -449,9 +454,9 @@
     <string name="ovp_player_plugin_dlg_neg_btn">Cerrar</string>
     <string name="ovp_player_plugin_dlg_no_content">Ningún complemento del reproductor de vídeo instalado.</string>
     <string name="ovp_player_plugin_dlg_title">Complemento del reproductor de vídeo</string>
-    <string name="ovp_player_update_dialog_info">Actualiza el complemento de Mi Vídeo a la última versión para poder reproducir este vídeo. ¿Actualizar ahora?</string>
+    <string name="ovp_player_update_dialog_info">Actualiza el complemento de Mi Video a la última versión para poder reproducir este vídeo. ¿Actualizar ahora?</string>
     <string name="ovp_player_update_info">"No se pude reproducir este vídeo.
-Primero actualiza Mi Vídeo a la última versión."</string>
+Primero actualiza Mi Video a la última versión."</string>
     <string name="ovp_playlist">Lista de reproducción</string>
     <string name="ovp_plugin_install_failure">No se pudo instalar el complemento</string>
     <string name="ovp_resolution_auto">Automático</string>
@@ -466,6 +471,7 @@ Primero actualiza Mi Vídeo a la última versión."</string>
     <string name="ovp_setting_privacy_policy_title">Política de Privacidad</string>
     <string name="ovp_setting_privacy_switch_tips">Algunas funciones no estarán disponibles si revocas la autorización</string>
     <string name="ovp_setting_privacy_switch_title">Autorización &amp; revocación</string>
+    <string name="ovp_setting_user_agreement_title">Acuerdo de Usuario</string>
     <string name="ovp_setting_version_info_title">Versión</string>
     <string name="ovp_start_error_msg">No se puede reproducir este vídeo</string>
     <string name="ovp_video_bad_network_condition">No se pudo conectar a la red.</string>
@@ -499,17 +505,17 @@ Primero actualiza Mi Vídeo a la última versión."</string>
     <string name="passport_user_agreement_prefix">Acepto  </string>
     <string name="passport_v_code_error">Código de verificación incorrecto</string>
     <string name="passport_wechat_not_install">WeChat no está instalado</string>
-    <string name="permission_content">Concede a Mi Vídeo los permisos necesarios para funcionar correctamente.</string>
-    <string name="permission_content2">"Ve a Ajustes &gt; Aplicaciones &gt; Mi Vídeo &gt; Permisos, y concede a Mi Vídeo los siguientes permisos:
+    <string name="permission_content">Concede a Mi Video los permisos necesarios para funcionar correctamente.</string>
+    <string name="permission_content2">"Ve a Ajustes &gt; Aplicaciones &gt; Mi Video &gt; Permisos, y concede a Mi Video los siguientes permisos:
 
 1. Acceso al almacenamiento
 2. Acceso a la información del dispositivo"</string>
     <string name="permission_continue">Continuar</string>
-    <string name="permission_info">"Mi Vídeo necesita acceder al número IMEI para realizar lo siguiente:
+    <string name="permission_info">"Mi Video necesita acceder al número IMEI para realizar lo siguiente:
  
 Optimizar los servicios para tu dispositivo;
 Mejorar la seguridad de tu cuenta."</string>
-    <string name="permission_info1">Mi Vídeo necesita acceder al número IMEI para realizar lo siguiente:</string>
+    <string name="permission_info1">Mi Video necesita acceder al número IMEI para realizar lo siguiente:</string>
     <string name="permission_info2">Optimizar los servicios para tu dispositivo;</string>
     <string name="permission_info3">Mejorar la seguridad de tu cuenta</string>
     <string name="permission_open_settings">Ajustes</string>
@@ -739,7 +745,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="update">Actualizar</string>
     <string name="user_id_hint">Correo electrónico/Teléfono</string>
     <string name="v_agree">Aceptar</string>
-    <string name="v_app_name">Mi Vídeo</string>
+    <string name="v_app_name">Mi Video</string>
     <string name="v_cancel">Cancelar</string>
     <string name="v_canceled">Cancelado</string>
     <string name="v_code_title">Introducir código de verificación en 2 pasos</string>
