@@ -807,7 +807,7 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="force_rtl_layout_all_locales">Forzar dirección de diseño RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Forzar dirección del diseño de la pantalla a RTL para todo</string>
     <string name="forced_resizable_secondary_display">La aplicación podría no funcionar en una pantalla secundaria.</string>
-    <string name="forget_password_string">Olvidé la contraseña</string>
+    <string name="forget_password_string">Contraseña olvidada</string>
     <string name="fs_gesture_back_home_summary">Desliza rápidamente desde abajo</string>
     <string name="fs_gesture_back_ready_title">Volver</string>
     <string name="fs_gesture_final_over">"He terminado"</string>
@@ -1064,7 +1064,7 @@ Utilice sólo el cargador proporcionado."</string>
     <string name="kg_failed_attempts_now_erasing_profile">Has intentado desbloquear sin éxito tu teléfono %d veces. El perfil de trabajo será eliminado junto con toda tu información.</string>
     <string name="kg_failed_attempts_now_erasing_user">Has intentado desbloquear sin éxito tu teléfono %d veces. Este usuario será eliminado junto con toda su información.</string>
     <string name="kg_failed_attempts_now_wiping">Has intentado desbloquear sin éxito tu teléfono %d veces. Este teléfono será restaurado, lo que significará la pérdida de todos los datos.</string>
-    <string name="kg_forgot_pattern_button_text">¿Olvidaste el patrón?</string>
+    <string name="kg_forgot_pattern_button_text">Patrón olvidado</string>
     <string name="kg_invalid_confirm_pin_hint">Los códigos PIN no coinciden</string>
     <string name="kg_invalid_puk">Vuelve a introducir el PUK correcto. Realizar muchos intentos deshabilitará permanentemente tu tarjeta SIM.</string>
     <string name="kg_invalid_sim_pin_hint">Introduce un PIN que contenga de 4 a 8 dígitos.</string>
@@ -1320,7 +1320,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="no_multi_window_app">No hay aplicaciones compatibles con Pantalla Dividida</string>
     <string name="no_notification_tips">Sin notificaciones</string>
     <string name="no_tiles_add">Sin elementos a añadir</string>
-    <string name="no_weather_description">Obtener información meteorológica ></string>
+    <string name="no_weather_description">Obtener información meteorológica</string>
     <string name="not_set">Sin definir</string>
     <string name="not_support_multi_window">Esta aplicación no es compatible con el modo Pantalla Dividida</string>
     <string name="notch_sos_status_bar_title">SOS</string>
@@ -1411,10 +1411,10 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="phone_hint">Desliza desde el ícono para abrir Teléfono</string>
     <string name="phone_label">Abrir Teléfono</string>
-    <string name="phone_locked_foget_password">¿Olvidaste la contraseña?</string>
+    <string name="phone_locked_foget_password">¿Has olvidado la contraseña?</string>
     <string name="phone_locked_foget_password_mehod_back">Atrás</string>
-    <string name="phone_locked_foget_password_method">¿Olvidaste la contraseña?</string>
-    <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Tienes que &lt;font color=#a5220e>borrar todos los datos &lt;/font> de tu dispositivo, incluyendo fotos y contactos, y después establecer una nueva contraseña de Pantalla de bloqueo.;&lt;/Data&gt;</string>
+    <string name="phone_locked_foget_password_method">¿Has olvidado la contraseña?</string>
+    <string name="phone_locked_foget_password_method_content"><Data>Tienes que &lt;font color=#a5220e>borrar todos los datos &lt;/font> de tu dispositivo, incluyendo fotos y contactos, y después establecer una nueva contraseña de Pantalla de bloqueo.</Data></string>
     <string name="phone_locked_foget_password_method_next">Siguiente</string>
     <string name="phone_locked_foget_password_ok">Entendido</string>
     <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Apaga tu dispositivo, presiona y mantén el &lt;font color=#a5220e>botón de encendido&lt;/font> y el &lt;font color=#a5220e>botón de subir volumen &lt;/font>simultáneamente hasta que veas el logo de Mi.;&lt;/Data&gt;</string>
@@ -1691,6 +1691,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="recents_title_security_scan">Escaneo de seguridad</string>
     <string name="recorder_description_talkback">Grabadora</string>
     <string name="recorder_title">Grabadora</string>
+    <string name="refresh_weather">Toca para obtener info del clima</string>
     <string name="reject_call">Rechazando llamada</string>
     <string name="remaining_length_format">%1$s restante</string>
     <string name="remove_from_settings">Eliminar de Ajustes</string>
