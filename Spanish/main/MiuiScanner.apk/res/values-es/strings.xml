@@ -84,6 +84,11 @@
     <string name="copy_text">Copiar texto</string>
     <string name="copy_text_success">Texto copiado</string>
     <string name="copy_tracknum">Copiar código de seguimiento</string>
+    <string name="create">Generar código QR</string>
+    <string name="createFail">"No se pudo generar el código QR. Tu mensaje es demasiado largo."</string>
+    <string name="createQRCode_hint">Introducir texto</string>
+    <string name="createQRCode_save">Guardar</string>
+    <string name="create_again">Actualizar</string>
     <string name="crop_cancel_description">Cancelar</string>
     <string name="crop_done_description">Hecho</string>
     <string name="crop_title_study">Recorta la foto</string>
@@ -140,14 +145,12 @@
     <string name="food_module_thumbs_up">Me gusta</string>
     <string name="food_module_tip">Coloca la comida dentro del recuadro</string>
     <string name="food_module_title_food">Calorías</string>
+    <string name="function">Funciones</string>
     <string name="got_it">Entendido</string>
     <string name="gps">Navegar</string>
+    <string name="if_open_result">Mostrar el resultado del escaneo cuando vuelvas a la aplicación</string>
     <string name="import_contact">Importar contacto</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 1
-	%s: 2 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: El Escáner necesita usar tu cámara y procesar las imágenes que tomas al usar la aplicación. No uses el Escáner para tomar fotos de objetos que contengan información personal. Al pulsar \"Acertar\" estás aceptando nuestra &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt; y permitiendo al Escáner conectarse a internet. -->
-    <string name="impunity_declaration_content">El escáner necesita permiso para acceder a la cámara y hacer fotos. El escáner también necesita conectarse a internet para funcionar con normalidad. Se considerará que has leído y aceptado nuestra %1$sPolítica de Privacidad%2$s al pulsar \"Aceptar\".</string>
+    <string name="impunity_declaration_content">"Escáner necesita usar tu cámara y procesar las imágenes que tomas mientras usas la aplicación. No uses Escáner para tomar fotos de objetos que contengan información personal. Al pulsar \"Aceptar\" estás aceptando nuestra &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt; y permitiendo a Escáner conectarse a internet."</string>
     <string name="impunity_declaration_negative_text">Salir</string>
     <string name="impunity_declaration_title">Política de Privacidad</string>
     <string name="jd_shopping_title">Buscar en JD</string>
@@ -177,6 +180,7 @@
     <string name="module_title_shopping">Compras</string>
     <string name="module_title_study">Estudiar</string>
     <string name="module_title_translation">Traducir</string>
+    <string name="my_document">Mis documentos</string>
     <string name="name">Nombre:</string>
     <string name="new_schedule">Crear evento</string>
     <string name="nickname">Alias:</string>
@@ -214,6 +218,12 @@
     <string name="recognize">Escanear</string>
     <string name="recognize_fail">No se pudo leer el código</string>
     <string name="request_server_failed">No se pudo conectar con el servidor</string>
+    <string name="history">Historial</string>
+    <string name="history_empty">No hay elementos todavía</string>
+    <string name="scanHistory_isOpen">¿Comenzar a rastrear el historial de elementos escaneados ahora?</string>
+    <string name="scanHistory">Historial de Escáner</string>
+    <string name="scanHistory_close">Desactivado</string>
+    <string name="scanHistory_open">Activado</string>
     <string name="scan_result">Resultado</string>
     <string name="scan_support_type">WeChat, Alipay, códigos QR, códigos de barras</string>
     <string name="sdk_not_ready">Preparando SDK. Inténtalo de nuevo más tarde.</string>

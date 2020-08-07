@@ -648,7 +648,7 @@
     <string name="cta_close_dialog_content">Si restringe el acceso de Seguridad a Internet y la información de su ubicación, no podrá recibir advertencias de terremoto, actualizar definiciones de virus e información de listas de bloqueo. Su dispositivo se volverá menos seguro. Restringir de todos modos?</string>
     <string name="cta_close_dialog_ok">Restringir</string>
     <string name="cta_close_dialog_title">Restricción de acceso</string>
-    <string name="cta_dialog_msg">Seguridad requiere una conexión a internet para obtener actualizaciones, así como acceder a la ubicación para funcionar normalmente.</string>
+    <string name="cta_dialog_msg">Seguridad requiere una conexión a internet para obtener actualizaciones, así como acceder a la ubicación para funcionar con normalidad.</string>
     <string name="cta_dialog_negative">Salir</string>
     <string name="cta_dialog_positive">Aceptar</string>
     <string name="cta_dialog_title">Conexión a internet</string>
@@ -1016,7 +1016,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="first_aid_card_kadun_button1">Espacio libre</string>
     <string name="first_aid_card_kadun_button2">Restringir</string>
     <string name="first_aid_card_kadun_button3">Apagar</string>
-    <string name="first_aid_card_kadun_summary1">Libera espacio de almacenamiento para que su dispositivo pueda funcionar normalmente.</string>
+    <string name="first_aid_card_kadun_summary1">Libera espacio de almacenamiento para que su dispositivo pueda funcionar con normalidad.</string>
     <string name="first_aid_card_kadun_summary2">Algunas aplicaciones tienen permisos de administrador. Esto puede ralentizar su dispositivo.</string>
     <string name="first_aid_card_kadun_summary3">Demasiadas funciones de accesibilidad activadas al mismo tiempo. Esto puede ralentizar su dispositivo.</string>
     <string name="first_aid_card_kadun_title">El dispositivo va lento</string>
@@ -1078,7 +1078,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="free_traffic_settings">Ajustes del uso de datos fuera de hora punta</string>
     <string name="function_close">Desactivado</string>
     <string name="function_gwsd_detail">Acerca de esta función: 1. Las llamadas entrantes a su SIM de datos no interrumpirán la conexión de datos móviles. La conexión se interrumpirá solo cuando conteste una llamada. 2. Cuando esta función está activada, la persona que llama no escuchará los tonos de llamada en espera. Las llamadas entrantes finalizarán a menos que responda dentro de los 6 segundos. 3. Esta función solo funciona para tarjetas SIM de datos. Las llamadas a su SIM principal interrumpirán la conexión de datos móviles. 4. Esta característica solo es compatible con China Mobile y China Unicom.</string>
-    <string name="function_gwsd_title">No permita que las llamadas entrantes interrumpan la conexión SIM de datos</string>
+    <string name="function_gwsd_title">No Permite que las llamadas entrantes interrumpan la conexión SIM de datos</string>
     <string name="function_shield_auto_bright">Desactiva el brillo automático</string>
     <string name="function_shield_eye_shield">Desactiva el modo de lectura</string>
     <string name="function_shield_pull_notification_bar">No abra el tono de notificación</string>
@@ -1269,8 +1269,8 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
      <!-- MNPS mismatch found! Translated: 1 Original: 0
 	%s: 1 Original: 0
 	%d: 0 Original: 0 -->
-     <!-- Original string: La aplicación requiere el Marco de Servicios de Google para funcionar normalmente, ¿descargar e instalarlo? -->
-    <string name="google_base_app_install_choice">\"%s\" requiere el Marco de Servicios de Google para funcionar normalmente, ¿descargar e instalarlas?</string>
+     <!-- Original string: La aplicación requiere el Marco de Servicios de Google para funcionar con normalidad, ¿descargar e instalarlo? -->
+    <string name="google_base_app_install_choice">\"%s\" requiere el Marco de Servicios de Google para funcionar con normalidad, ¿descargar e instalarlas?</string>
     <string name="gs_advanced_setting_summary">Configuraciones para juegos individuales</string>
     <string name="gs_advanced_setting_title">Ajustes adicionales</string>
     <string name="gs_anto_clean_memory_whitelist">Excepciones</string>
@@ -2567,7 +2567,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="settings_power_save_ontime_title">Programar</string>
     <string name="settings_share_info">Estas son las opciones disponibles para compartir elementos de forma segura desde Galería y Gestor de archivos:</string>
     <string name="settings_show_detail">Ver detalles</string>
-    <string name="settings_tip">Ve a Gallery &gt; Ajustes para ver más opciones</string>
+    <string name="settings_tip">Ve a Galería &gt; Ajustes para ver más opciones</string>
     <string name="shield_keyboard_detail">Toca doble en los botones para volver a activarlos</string>
     <string name="shield_keyboard_summary">Restringir botones y gestos de pantalla completa durante los juegos</string>
     <string name="shield_keyboard_title">Desactivar botones</string>
@@ -2938,11 +2938,11 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="system_permission_declare_analytics_declare">"Te invitamos a inscribirte en nuestro Programa de Experiencia de Usuario. Esta aplicación necesita conectarse a Internet y usar los siguientes permisos o funciones para recopilar estadísticas con el fin de mejorar los servicios que te brindamos. Aquí recopilamos datos solo con fines estadísticos, y no podemos identificarte personalmente en función de los datos que recopilamos."</string>
     <string name="system_permission_declare_disagree">Cancelar</string>
     <string name="system_permission_declare_double_link"><Data>Para entender completamente tus derechos como usuario, así como las formas en las que usamos tus datos, lee y acepta nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;.</Data></string>
-    <string name="system_permission_declare_main_purpose" formatted="false">¡Bienvenido a %1s! Esta aplicación te permite usar la siguientes funciones: %2s </string>
+    <string name="system_permission_declare_main_purpose" formatted="false">¡Bienvenido a %1s! Esta aplicación te permite usar las siguientes funciones: %2s.</string>
     <string name="system_permission_declare_meanwhile_double_link"><Data>A su vez, para entender completamente tus derechos como usuario así como las formas en que usamos tus datos, lee y acepta nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;.</Data></string>
     <string name="system_permission_declare_meanwhile_privacy_policy"><Data>A su vez, para entender completamente tus derechos como usuario así como las formas en que usamos tus datos, lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt;.</Data></string>
     <string name="system_permission_declare_meanwhile_user_agreement"><Data>A su vez, para entender completamente tus derechos como usuario así como las formas en que usamos tus datos, lee y acepta nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt;.</Data></string>
-    <string name="system_permission_declare_no_say_no">Si elige no otorgar los permisos requeridos o no nos permite recopilar y usar sus datos, esta aplicación no podrá funcionar normalmente.</string>
+    <string name="system_permission_declare_no_say_no">Si elige no otorgar los permisos requeridos o no nos permite recopilar y usar sus datos, esta aplicación no podrá funcionar con normalidad.</string>
     <string name="system_permission_declare_no_say_no_analytics">Si no desea otorgar estos permisos, puede cancelar su inscripción en Configuración&gt; Configuración adicional&gt; Privacidad&gt; Programa de experiencia del usuario.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">Si elige no otorgar los permisos requeridos o no nos permite recopilar y usar sus datos, esta aplicación no podrá funcionar parcialmente.</string>
     <string name="system_permission_declare_privacy_declare">Esta aplicación necesita conectarse a Internet y requiere los siguientes permisos para poder funcionar correctamente:</string>
