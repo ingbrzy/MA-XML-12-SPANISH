@@ -1408,10 +1408,10 @@ Los vídeos se guardarán en Game Turbo y Momentos clave."</string>
     <string name="keywords_networkassistant_1">Datos;Tráfico</string>
     <string name="keywords_networkassistant_2">Datos;Calibrar</string>
     <string name="keywords_networkassistant_4">Conexión;Internet;Prueba</string>
-    <string name="keywords_powercenter">Ahorrar batería;Calentamiento;Activar;Desactivar;Batería;Consumo;Batería;Problemas de batería;Energía;Consumo;Calentamiento;Ahorro de batería;Economizador de energía;Ahorro de energía;Ahorro de batería</string>
+    <string name="keywords_powercenter">Ahorrar batería;Calentamiento;Activar;Desactivar;Batería;Consumo;Batería;Problemas de batería;Energía;Consumo;Calentamiento;Ahorro de batería;Ahorro de energía;Ahorro de energía;Ahorro de batería</string>
     <string name="keywords_powercenter_powerrank">Uso de la batería</string>
     <string name="keywords_securitycenter">Seguridad;Comprobar;Escanear</string>
-    <string name="keywords_securitycenter_settings">Uso de la batería;Gestionar inicio automático;Instalar vía USB;Permisos de la aplicación;Comprar datos móviles;Lista de bloqueo;Uso de datos;Calibrar plan de datos;Comprobar la red;Ahorrar batería;Calentamiento;Activar;Desactivar;Batería;Consumo;Problemas de batería;Energía;Ahorro de batería;Economizador de energía;Economizar batería;Inicio automático;Permisos;Inicio automático de MIUI;Inicio automático de la aplicación; Iniciar automáticamente las aplicaciones;Inicio en cadena;inicio encadenado;inicio desencadenado; Instalar USB;instalar desde el ordenador;Instalar ADB; Ubicación;Acceder a contactos; datos;datos móviles;comprar datos;recargar datos;plan de datos; Bloquear;Lista negra;Lista de bloqueo inteligente;Fraude;Ventas;Agentes;Lista de bloqueo de llamadas;Lista de bloqueo de mensajes;Lista de bloqueo de mensajería;Lista de bloqueo de SMS;lista negra;lista de bloqueo;fraude;bloquear contactos; Tráfico; Calibrar; Conexión;Internet;Prueba; Uso de la batería; Juego;acelerador;Glory of the king;Modo rendimiento;No molestar</string>
+    <string name="keywords_securitycenter_settings">Uso de la batería;Gestionar inicio automático;Instalar vía USB;Permisos de la aplicación;Comprar datos móviles;Lista de bloqueo;Uso de datos;Calibrar plan de datos;Comprobar la red;Ahorrar batería;Calentamiento;Activar;Desactivar;Batería;Consumo;Problemas de batería;Energía;Ahorro de batería;Ahorro de energía;Economizar batería;Inicio automático;Permisos;Inicio automático de MIUI;Inicio automático de la aplicación; Iniciar automáticamente las aplicaciones;Inicio en cadena;inicio encadenado;inicio desencadenado; Instalar USB;instalar desde el ordenador;Instalar ADB; Ubicación;Acceder a contactos; datos;datos móviles;comprar datos;recargar datos;plan de datos; Bloquear;Lista negra;Lista de bloqueo inteligente;Fraude;Ventas;Agentes;Lista de bloqueo de llamadas;Lista de bloqueo de mensajes;Lista de bloqueo de mensajería;Lista de bloqueo de SMS;lista negra;lista de bloqueo;fraude;bloquear contactos; Tráfico; Calibrar; Conexión;Internet;Prueba; Uso de la batería; Juego;acelerador;Glory of the king;Modo rendimiento;No molestar</string>
     <string name="keywords_usb_install">Instalar vía USB;instalar desde el ordenador;Instalar vía ADB</string>
     <string name="kilobyteShort">KB</string>
     <string name="kilobyte_per_second">Kb/s</string>
@@ -1746,8 +1746,8 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="notification_garbage_cleanup_title">Borrar archivos basura</string>
     <string name="notification_low_battery_action_btn">Activar</string>
     <string name="notification_low_battery_need_charge">Carga tu dispositivo</string>
-    <string name="notification_low_battery_open_save_mode">Activar el Ahorrador de batería</string>
-    <string name="notification_low_battery_title">Menos de %s batería restante</string>
+    <string name="notification_low_battery_open_save_mode">Activa el Ahorro de batería</string>
+    <string name="notification_low_battery_title">Menos del %s de batería restante</string>
     <string name="notification_mask_summary">Ocultar contenido de notificación en la Pantalla de bloqueo y en el Panel de notificaciones</string>
     <string name="notification_mask_title">Ocultar contenido</string>
     <string name="notification_masked_item">Ocultar notificaciones</string>
@@ -2903,11 +2903,11 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="superpower_dialog_massage">Ultra ahorro de batería restringe la mayoría de las funciones que consumen energía y disminuye el rendimiento de su dispositivo para dejar la funcionalidad básica (por ejemplo, llamadas, SMS y conexión a la red) disponible el mayor tiempo posible. ¿Activar el ahorro de batería Ultra?</string>
     <string name="superpower_dialog_title">Ultra ahorro de batería</string>
     <string name="superpower_notification_hint_enter">Activar</string>
-    <string name="superpower_notification_new_title">Queda menos del %d %% de batería restante</string>
-    <string name="superpower_notification_summary">Active el ahorro de batería Ultra</string>
+    <string name="superpower_notification_new_title">Queda menos del %d%% de batería</string>
+    <string name="superpower_notification_summary">Activa el ahorro de batería Ultra</string>
     <string name="superpower_notification_time_12">EEEE, dd MMMM</string>
     <string name="superpower_notification_time_24">EEEE, dd MMMM</string>
-    <string name="superpower_notification_title">Queda menos del 10% de la batería</string>
+    <string name="superpower_notification_title">Queda menos del 10% de batería</string>
     <string name="superpower_progress_content">Activando el ahorro de batería Ultra ...</string>
     <string name="superpower_progress_left_time">%1$d h %2$d m</string>
     <string name="superpower_progress_switch_home">Cambiar al tema oscuro</string>
@@ -2937,23 +2937,23 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="system_permission_declare_agree">Aceptar</string>
     <string name="system_permission_declare_analytics_declare">"Te invitamos a inscribirte en nuestro Programa de Experiencia de Usuario. Esta aplicación necesita conectarse a Internet y usar los siguientes permisos o funciones para recopilar estadísticas con el fin de mejorar los servicios que te brindamos. Aquí recopilamos datos solo con fines estadísticos, y no podemos identificarte personalmente en función de los datos que recopilamos."</string>
     <string name="system_permission_declare_disagree">Cancelar</string>
-    <string name="system_permission_declare_double_link"><Data>Para comprender plenamente tus derechos como usuario, así como las formas en las que usamos tus datos, lee y acepta nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;.</Data></string>
+    <string name="system_permission_declare_double_link"><Data>Para entender completamente tus derechos como usuario, así como las formas en las que usamos tus datos, lee y acepta nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;.</Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">¡Bienvenido a %1s! Esta aplicación te permite usar la siguientes funciones: %2s </string>
-    <string name="system_permission_declare_meanwhile_double_link"><Data>Al mismo tiempo, para comprender plenamente tus derechos como usuario así como las formas en que usamos tus datos, lee y acepta nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;.</Data></string>
-    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Al mismo tiempo, para comprender plenamente tus derechos como usuario así como las formas en que usamos tus datos, lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt;.</Data></string>
-    <string name="system_permission_declare_meanwhile_user_agreement"><Data>Al mismo tiempo, para comprender plenamente tus derechos como usuario así como las formas en que usamos tus datos, lee y acepta nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt;.</Data></string>
+    <string name="system_permission_declare_meanwhile_double_link"><Data>A su vez, para entender completamente tus derechos como usuario así como las formas en que usamos tus datos, lee y acepta nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;.</Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>A su vez, para entender completamente tus derechos como usuario así como las formas en que usamos tus datos, lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt;.</Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement"><Data>A su vez, para entender completamente tus derechos como usuario así como las formas en que usamos tus datos, lee y acepta nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt;.</Data></string>
     <string name="system_permission_declare_no_say_no">Si elige no otorgar los permisos requeridos o no nos permite recopilar y usar sus datos, esta aplicación no podrá funcionar normalmente.</string>
     <string name="system_permission_declare_no_say_no_analytics">Si no desea otorgar estos permisos, puede cancelar su inscripción en Configuración&gt; Configuración adicional&gt; Privacidad&gt; Programa de experiencia del usuario.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">Si elige no otorgar los permisos requeridos o no nos permite recopilar y usar sus datos, esta aplicación no podrá funcionar parcialmente.</string>
     <string name="system_permission_declare_privacy_declare">Esta aplicación necesita conectarse a Internet y requiere los siguientes permisos para poder funcionar correctamente:</string>
     <string name="system_permission_declare_privacy_no_permission">Ten en cuenta que Seguridad necesita conectarse a Internet y recopilar la información personal requerida para poder brindarle servicios. Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.</string>
-    <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Para comprender plenamente tus derechos como usuario, así como las formas en las que usamos tus datos, lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Para entender completamente tus derechos como usuario, así como las formas en las que usamos tus datos, lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="system_permission_declare_revoke_system">Puedes salir de esta aplicación.</string>
     <string name="system_permission_declare_revoke_uninstallable">Puede cerrar sesión, desinstalar esta aplicación o revocar su autorización en Seguridad&gt; Administrar aplicaciones&gt; Permisos&gt; Permisos.</string>
     <string name="system_permission_declare_title">Atención</string>
     <string name="system_permission_declare_use_network">Conectarse a la red</string>
     <string name="system_permission_declare_use_network_no_permission">Conectarse a la red</string>
-    <string name="system_permission_declare_user_agreement">&lt;Data&gt;Para comprender plenamente tus derechos como usuario, así como las formas en las que usamos tus datos, lee y acepta nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_user_agreement">&lt;Data&gt;Para entender completamente tus derechos como usuario, así como las formas en las que usamos tus datos, lee y acepta nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="system_permission_perm_answer_call">Hacer llamadas</string>
     <string name="system_permission_perm_read_mms">Leer MMS</string>
     <string name="system_permission_perm_read_numbers">Leer números telefónicos</string>

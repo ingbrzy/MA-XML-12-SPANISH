@@ -96,11 +96,14 @@
     <string name="find_device_dspt_provision">Si pierdes tu dispositivo, puedes entrar en %s para localizarlo, bloquearlo o restablecerlo. Puedes activar o desactivar esta función en cualquier momento desde Ajustes.</string>
     <string name="find_device_error_network">Comprueba tu conexión de datos e inténtalo de nuevo.</string>
     <string name="find_device_error_server">Error del servidor</string>
-    <string name="find_device_gdpr_prompt">Al activar Encontrar dispositivo, aceptas nuestra &lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;&lt;u&gt;Política de Privacidad&lt;/u&gt;&lt;/a&gt;. Si necesitas revocar la autorización, desactiva esta función.</string>
+    <string name="find_device_gdpr_prompt">Al activar Encontrar dispositivo, aceptas nuestra <a href="app://com.miui.cloudservice.gdpr.license"><u>Política de Privacidad</u></a>. Si necesitas revocar la autorización, desactiva esta función.</string>
     <string name="find_device_gdpr_prompt_policy_doc_name">Política de Privacidad</string>
     <string name="find_device_operation_failure_rpc">No se pudo realizar la acción debido a un error de RPC.</string>
     <string name="find_device_send_sms_alert">Si cambias las tarjetas SIM, se enviará automáticamente un SMS para reactivar esta característica.</string>
     <string name="find_device_service_title">Encontrar dispositivo</string>
+    <string name="find_device_status_summary">Localiza y bloquea tu dispositivo, a la vez que borras tus datos de forma remota</string>
+    <string name="find_device_status_title_pad">Encontrar dispositivo</string>
+    <string name="find_device_status_title_phone">Encontrar dispositivo</string>
     <string name="finddevice_miservice_notification_content">"Bloquear el dispositivo de forma remota en caso de pérdida"</string>
     <string name="finddevice_miservice_notification_title">Activar Encontrar dispositivo</string>
     <string name="forget_password"><u>Contraseña olvidada</u></string>
@@ -255,7 +258,7 @@ Localiza y bloquea tu dispositivo en caso de pérdida."</string>
     <string name="micloud_find_device_open_fail">No se pudo activar Encontrar dispositivo</string>
     <string name="micloud_find_device_opened">Localización de dispositivo activada</string>
     <string name="micloud_find_device_opened_content">Encuentra tu dispositivo en %s</string>
-    <string name="micloud_find_device_sms_alert">Es posible que se requiera un mensaje SMS saliente para activar este servicio. Tu operador puede cobrarte por este mensaje. Cuando cambies tu tarjeta SIM, un mensaje automático podría ser enviado para reactivar esta función.</string>
+    <string name="micloud_find_device_sms_alert">Es posible que se requiera enviar un mensaje SMS para activar este servicio. Tu operador puede cobrarte por este mensaje. Cuando cambies tu tarjeta SIM, un mensaje podría ser enviado automáticamente para reactivar esta función.</string>
     <string name="micloud_find_device_verify_button">Reactivar Encontrar dispositivo</string>
     <string name="micloud_find_device_verify_close">Desactivar Encontrar dispositivo</string>
     <string name="micloud_find_device_verify_fail">No se pudo reactivar Encontrar dispositivo</string>
