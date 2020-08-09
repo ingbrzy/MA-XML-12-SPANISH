@@ -447,10 +447,10 @@ responda"</string>
     <string name="pref_adjust_data_usage_summary">Después de cambiar su plantilla de calibración, MIUI la usará para obtener estadísticas del uso de datos de su operadora</string>
     <string name="pref_adjust_data_usage_value">Cambiado</string>
     <string name="pref_confirm_operator_setting">Asegúrese de que la info introducida es correcta</string>
-    <string name="pref_correction_setting">Ajustes del modelo de calibraje</string>
-    <string name="pref_correction_setting_switch">Usar modelo de calibraje personalizado</string>
-    <string name="pref_correction_sms_number">Enviar SMS de calibraje a</string>
-    <string name="pref_correction_sms_content">Modelo de calibraje</string>
+    <string name="pref_correction_setting">Ajustes del modelo de calibración</string>
+    <string name="pref_correction_setting_switch">Usar modelo de calibración personalizado</string>
+    <string name="pref_correction_sms_number">Enviar SMS de calibración a</string>
+    <string name="pref_correction_sms_content">Modelo de calibración</string>
     <string name="adjust_traffic_carrier_summary_today">Actualizado hoy a las %s</string>
     <string name="adjust_traffic_carrier_summary_yesterday">Actualizado ayer a las %s</string>
     <string name="adjust_traffic_carrier_summary_two_day_before">Actualizado hace 2 días</string>
@@ -458,7 +458,7 @@ responda"</string>
     <string name="adjust_traffic_carrier_summary_more_oneweek_before">Actualizado hace más de 1 semana</string>
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualizado hace más de 1 mes</string>
     <string name="pref_avaible_traffic">Plan de datos</string>
-    <string name="pref_daily_traffic">Límite de datos pico</string>
+    <string name="pref_daily_traffic">Límite de datos máximo</string>
     <string name="pref_special_package_setting">Plan de datos personalizados</string>
     <string name="pref_data_usage_not_set">Plan de datos desconocido</string>
     <string name="pref_operator_not_set">Operadora no establecida</string>
@@ -472,7 +472,7 @@ responda"</string>
     <string name="begin_date">Fecha de reinicio de uso</string>
     <string name="tips_dialog_title">¿No conoce su límite?</string>
     <string name="tips_message">Para ver los detalles de su plan de datos, marque %2$s (%1$s).</string>
-    <string name="daily_pkg_traffic">Límite de datos pico</string>
+    <string name="daily_pkg_traffic">Límite de datos máximo</string>
     <string name="input_aviable_traffic">Establecer el límite de uso de datos</string>
     <string name="pkg_traffic">Establecer el límite de uso de datos</string>
     <string name="free_traffic_settings">Ajustes del uso de datos fuera de hora punta</string>
