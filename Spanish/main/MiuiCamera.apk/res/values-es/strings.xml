@@ -109,8 +109,8 @@ y ajusta las preferencias automáticamente"</string>
     <string name="camera_error_title">Error de cámara</string>
     <string name="camera_facedetection_sub_option_hint">Característica experimental</string>
     <string name="camera_label">Cámara</string>
-    <string name="camera_liveshot_off_tip">Apagado disparos dinámicos</string>
-    <string name="camera_liveshot_on_tip">Disparos dinámicos</string>
+    <string name="camera_liveshot_off_tip">Disparo dinámico desactivado</string>
+    <string name="camera_liveshot_on_tip">Disparo dinámico</string>
     <string name="camera_mode_options">Modos</string>
     <string name="camera_setting">Cámara</string>
     <string name="camera_settings_label">Cámara</string>
@@ -155,7 +155,7 @@ y ajusta las preferencias automáticamente"</string>
     <string name="config_name_sound">Disparador por voz</string>
     <string name="config_name_straighten">Enderezar</string>
     <string name="config_name_super_resolution">Súper resolución</string>
-    <string name="config_name_tilt">Tilt-shift</string>
+    <string name="config_name_tilt">Efecto diorama</string>
     <string name="config_name_timer">Temporizador</string>
     <string name="confirm_install_scanner_message">Escáner te permite escanear códigos QR, códigos de barras y más. No tienes que conectarte a internet para instalarlo.</string>
     <string name="confirm_install_scanner_title">Instalar escáner</string>
@@ -170,11 +170,18 @@ y ajusta las preferencias automáticamente"</string>
     <string name="confirm_restore_title">Restaurar ajustes predeterminados</string>
     <string name="cta_msg">¡Bienvenido a Cámara! Puedes usar esta aplicación para tomar fotos y grabar vídeos. Esta aplicación necesita conectarse a internet y requiere los siguientes permisos opcionales:</string>
     <string name="cta_perm_dec">Para añadir información de ubicación a fotos y vídeos</string>
-    <string name="cta_perm_loc">Location</string>
+    <string name="cta_perm_loc">Ubicación</string>
     <string name="cta_perm_type">"Permisos opcionales (Usados para funciones adicionales mientras las estés usando)"</string>
-    <string name="cta_user_tips">&lt;Data&gt;Para comprender plenamente tus derechos como usuario, así como las formas en las que usamos tus datos, lee y acepta nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="cta_user_tips">&lt;Data&gt;Para entender completamente tus derechos como usuario, así como las formas en las que usamos tus datos, lee y acepta nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="custom_sound_art">Retro</string>
+    <string name="custom_sound_default">Predeterminado</string>
+    <string name="custom_sound_modern">Moderno</string>
+    <string name="custom_sound_old">Película</string>
+    <string name="custom_tint_button_apply">Aplicar</string>
+    <string name="custom_tint_color_select">Personalizar colores</string>
     <string name="custom_watermark_contains_senstive_words">Las marcas de agua no pueden contener términos restringidos ( %1$s )</string>
     <string name="custom_watermark_tips">Este texto aparecerá como la segunda línea de su marca de agua. Puede contener hasta 18 letras o 14 caracteres chinos.</string>
+    <string name="custom_watermark_tips_gen2">Hasta %1$d caracteres chinos o %2$d letras.</string>
     <string name="custom_watermark_too_many_words">El texto que ingresaste es demasiado largo</string>
     <string name="custom_watermark_words">Marca de agua personalizada</string>
     <string name="custom_watermark_words_input_hint">Introducir texto</string>
@@ -307,9 +314,13 @@ en modo Retrato"</string>
     <string name="live_sticker_network_error_hint">Error de red</string>
     <string name="live_sticker_tab_name">Pegatina TikTok Magic</string>
     <string name="live_sticker_updating">Actualizando ...</string>
+    <string name="location_access_allow">Permitir</string>
     <string name="location_permission_des">Recordar ubicaciones para fotos y vídeos</string>
     <string name="location_permission_not_ask_again">Permite a la Cámara acceder a tu ubicación en los Ajustes.</string>
     <string name="location_permission_not_ask_again_go_to_settings">Permitir</string>
+    <string name="lpl_dialog_item_name_burst">Mantener pulsado para disparo de ráfaga</string>
+    <string name="lpl_dialog_item_name_record">Mantener pulsado para grabar vídeo</string>
+    <string name="lpl_dialog_title">Selecciona la función del obturador</string>
     <string name="lying_direct_hint">Orientación actual</string>
     <string name="macro_mode">Macro</string>
     <string name="macro_mode_tip">La distancia entre la lente y el objeto no debe superar los 10 cm.</string>
@@ -381,9 +392,12 @@ parezcan más grandes en las fotos"</string>
     <string name="mimoji_tips">Toca para tomar una foto. Mantenga presionado para grabar un video.</string>
     <string name="module_name_beauty">Belleza</string>
     <string name="module_name_capture">Foto</string>
+    <string name="module_name_clone">Clonar</string>
+    <string name="module_name_edit">Editar</string>
     <string name="module_name_fun">Vídeo corto</string>
     <string name="module_name_fun_ar">Mimoji</string>
     <string name="module_name_manual">Manual</string>
+    <string name="module_name_more">Más</string>
     <string name="module_name_new_slow_motion">Cámara lenta</string>
     <string name="module_name_panorama">Panorámica</string>
     <string name="module_name_portrait">Retrato</string>
@@ -500,6 +514,7 @@ y resalta las personas en primer plano."</string>
     <string name="pref_camera_coloreffect_entry_vsco_a4">Analógico</string>
     <string name="pref_camera_coloreffect_entry_vsco_f2">Mate</string>
     <string name="pref_camera_coloreffect_title">Filtros</string>
+    <string name="pref_camera_common_settings">Ajustes generales</string>
     <string name="pref_camera_contrast_title">Contraste</string>
     <string name="pref_camera_delay_capture_entry_10s">10 seg de retraso</string>
     <string name="pref_camera_delay_capture_entry_3s">3 seg de retraso</string>
@@ -689,6 +704,9 @@ y resalta las personas en primer plano."</string>
     <string name="pref_camera_zsl_entry_off">Desactivado</string>
     <string name="pref_camera_zsl_entry_on">Activado</string>
     <string name="pref_capture_settings">Cámara</string>
+    <string name="pref_custom_feature_layout_title">Distribución de funciones</string>
+    <string name="pref_custom_shutter_sound_title">Sonido</string>
+    <string name="pref_custom_tint_title">Colores</string>
     <string name="pref_customization_title">Personalizar</string>
     <string name="pref_dualcamera_watermark_title">Marca de agua de cámara dual</string>
     <string name="pref_face_beauty_title">Modo belleza</string>
@@ -699,12 +717,13 @@ y resalta las personas en primer plano."</string>
     <string name="pref_front_mirror_label_auto">Auto</string>
     <string name="pref_front_mirror_title">Espejo cámara frontal</string>
     <string name="pref_google_lens">Google lens</string>
-    <string name="pref_google_lens_summary">Apunte su cámara a la información de contacto, las URL y los códigos QR para ver las opciones disponibles</string>
+    <string name="pref_google_lens_summary">Apunta tu cámara a la información de contacto, las URL y los códigos QR para ver las opciones disponibles</string>
     <string name="pref_google_lens_title">Sugerencias de Google Lens</string>
     <string name="pref_groupshot_with_primitive_title">Guardar también las fotos originales</string>
     <string name="pref_lens_dirty_detect_summary">Recibir una notificación cuando las lentes estén sucias</string>
     <string name="pref_lens_dirty_detect_title">Notificar acerca de lentes sucias</string>
     <string name="pref_manual_exposure_title">S</string>
+    <string name="pref_module_settings">Modos</string>
     <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
     <string name="pref_new_slow_motion_video_quality_240_720only">Solo puedes grabar videos de 720p con 240 fps</string>
     <string name="pref_new_slow_motion_video_quality_960_720only">Solo puedes grabar videos de 720p con 960 fps</string>
@@ -715,6 +734,7 @@ y resalta las personas en primer plano."</string>
     <string name="pref_priority_storage_title">Guardar en la tarjeta SD</string>
     <string name="pref_privacy_title">Política de Privacidad</string>
     <string name="pref_qc_focus_position_title">F</string>
+    <string name="pref_retain_camera_common_mode_summary">Abrir Cámara en el modo usado anteriormente en lugar de cambiar a \"Foto\"</string>
     <string name="pref_retain_camera_mode_summary">Cambiar cámara al modo usado antes al abrir la aplicación.</string>
     <string name="pref_retain_camera_mode_title">Guardar modo anterior</string>
     <string name="pref_scan_qrcode_summary">Solo la cámara trasera puede escanear códigos QR en el modo \"Foto\".</string>
@@ -866,4 +886,13 @@ grabar y editar vídeos sobre la marcha"</string>
     <string name="wideselfie_rotate_to_front">Incline el teléfono hacia adelante</string>
     <string name="wideselfie_rotate_to_left_slowly">Gire el teléfono hacia la izquierda.</string>
     <string name="wideselfie_rotate_to_right_slowly">Gire el teléfono hacia la derecha.</string>
+    <string name="pref_more_mode_style_title">Modos de cámara</string>
+    <string name="more_mode_style">"Selecciona cómo te gustaría distribuir todos los modos de cámara"</string>
+    <string name="more_mode_style_popup">Panel \"Más\"</string>
+    <string name="more_mode_style_tab">Pestaña \"Más\"</string>
+    <string name="module_name_edit_title">Funciones</string>
+    <string name="module_name_edit_sub_title">Mantén pulsado un elemento para reordenarlo</string>
+    <string name="module_name_edit_unfavorite_title">Más funciones</string>
+    <string name="module_name_edit_favorite_title">Pantalla principal</string>
+  <string name="module_name_edit_full_toast">La pantalla principal está completa</string>
 </resources>

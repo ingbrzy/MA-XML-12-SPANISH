@@ -111,7 +111,7 @@ Esta opción no funciona con todas las aplicaciones."</string>
     <string name="accessibility_no_service_selected">No se ha seleccionado ningún servicio</string>
     <string name="accessibility_no_services_installed">No se ha instalado ningún servicio.</string>
     <string name="accessibility_no_wifi">Desconectado de Wi-Fi.</string>
-    <string name="accessibility_notification_vibration_title">"Vibración de timbre y notificación."</string>
+    <string name="accessibility_notification_vibration_title">Vibración de notificación</string>
     <string name="accessibility_personal_account_title">Cuenta personal (%s)</string>
     <string name="accessibility_power_button_ends_call_prerefence_title">El botón de encendido cuelga</string>
     <string name="accessibility_preference_magnification_summary">Ampliar en la pantalla</string>
@@ -203,33 +203,29 @@ Para cambiar de servicio, desliza dos dedos hacia arriba y mantén pulsada la pa
     <string name="accessibility_tutorial_dialog_title_gesture">Usar gesto para abrir</string>
     <string name="accessibility_tutorial_dialog_title_gesture_settings">Usa el nuevo gesto de accesibilidad</string>
     <string name="accessibility_usage_title">Uso de accesibilidad</string>
-    <string name="accessibility_vibration_intensity_high">"Alto"</string>
-    <string name="accessibility_vibration_intensity_low">"Bajo"</string>
-    <string name="accessibility_vibration_intensity_medium">"Medio"</string>
-    <string name="accessibility_vibration_intensity_off">"Apagado"</string>
-    <string name="accessibility_vibration_settings_title">"Vibración"</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 3
-	%s: 2 Original: 3
-	%d: 0 Original: 0 -->
-     <!-- Original string: Tono (%1$s), notificación (%2$s) y respuesta táctil (%3$s) -->
-    <string name="accessibility_vibration_summary">"Anillo %1$s , toque %2$s"</string>
-    <string name="accessibility_vibration_summary_high">"Timbre y notificación en alto"</string>
-    <string name="accessibility_vibration_summary_low">"Timbre y notificación establecidos en bajo"</string>
-    <string name="accessibility_vibration_summary_medium">"Timbre y notificación en medio"</string>
-    <string name="accessibility_vibration_summary_off">"Timbre y notificación desactivados"</string>
+    <string name="accessibility_vibration_intensity_high">Alta</string>
+    <string name="accessibility_vibration_intensity_low">Baja</string>
+    <string name="accessibility_vibration_intensity_medium">Media</string>
+    <string name="accessibility_vibration_intensity_off">Apagada</string>
+    <string name="accessibility_vibration_settings_title">Vibración e intensidad háptica</string>
+    <string name="accessibility_vibration_summary">Timbre %1$s, notificaciones %2$s, toque %3$s</string>
+    <string name="accessibility_vibration_summary_high">Timbre y notificaciones al máximo</string>
+    <string name="accessibility_vibration_summary_low">Timbre y notificaciones al mínimo</string>
+    <string name="accessibility_vibration_summary_medium">Timbre y notificaciones a la mitad</string>
+    <string name="accessibility_vibration_summary_off">Timbre y notificaciones desactivados</string>
     <string name="accessibility_vpn_settings_info">Configuración del VPN</string>
-    <string name="accessibility_wifi_off">Wi-Fi apagado.</string>
+    <string name="accessibility_wifi_off">Wi-Fi desactivado.</string>
     <string name="accessibility_wifi_one_bar">Una barra de señal Wi-Fi.</string>
     <string name="accessibility_wifi_security_type_none">Abrir red</string>
     <string name="accessibility_wifi_security_type_secured">Red segura</string>
-    <string name="accessibility_wifi_signal_full">Señal de red Wi-Fi al máximo.</string>
+    <string name="accessibility_wifi_signal_full">Señal Wi-Fi al máximo.</string>
     <string name="accessibility_wifi_three_bars">Tres barras de señal Wi-Fi.</string>
     <string name="accessibility_wifi_two_bars">Dos barras de señal Wi-Fi.</string>
-    <string name="accessibility_work_account_title">Cuenta de trabajo (%s)</string>
+    <string name="accessibility_work_account_title">Cuenta de trabajo - %s</string>
     <string name="account_add">Añadir</string>
     <string name="account_autostar_label">Inicio automático</string>
-    <string name="account_dashboard_default_summary">"No se han agregado cuentas"</string>
-    <string name="account_dashboard_title">Usuarios y cuentas</string>
+    <string name="account_dashboard_default_summary">No se han añadido cuentas</string>
+    <string name="account_dashboard_title">Cuentas</string>
     <string name="account_for_section_header">Cuentas de %1$s</string>
     <string name="account_list">Otras cuentas</string>
     <string name="account_other">Otro</string>
@@ -1185,7 +1181,7 @@ Esto es lo que podría estar mal:
     <string name="bluetooth_phonebook_request">Solicitud de acceso a agenda teléfonica</string>
     <string name="bluetooth_pin_values_hint">Normalmente: 0000 o 1234</string>
     <string name="bluetooth_pin_values_hint_16_digits">Debe tener 16 dígitos</string>
-    <string name="bluetooth_pref_summary">"Permita que su teléfono se comunique con dispositivos Bluetooth cercanos"</string>
+    <string name="bluetooth_pref_summary">"Permite que tu teléfono se comunique con dispositivos Bluetooth cercanos"</string>
     <string name="bluetooth_preference_connected_devices">Dispositivos conectados</string>
     <string name="bluetooth_preference_device_settings">Ajustes del dispositivo</string>
     <string name="bluetooth_preference_found_devices">Dispositivos disponibles</string>
@@ -1550,7 +1546,7 @@ Esta función puede ser desactivada en [Ajustes]"</string>
     <string name="change_security_lock">Probar otras formas de desbloqueo</string>
     <string name="change_storage">Cambiar almacenamiento</string>
     <string name="change_theme_reboot">"Cambiar el tema requiere un reinicio."</string>
-    <string name="change_wifi_state_app_detail_summary">"Permita que esta aplicación active o desactive la WLAN, escanee y conéctese a las redes WLAN, agregue o elimine redes o inicie un punto de acceso solo local."</string>
+    <string name="change_wifi_state_app_detail_summary">"Permite que esta aplicación active o desactive la WLAN, escanee y conéctese a las redes WLAN, agregue o elimine redes o inicie un punto de acceso solo local."</string>
     <string name="change_wifi_state_app_detail_switch">"Permitir que la aplicación controle WLAN"</string>
     <string name="change_wifi_state_title">"Control de WLAN"</string>
     <string name="channel_group_notifications_off_desc">"A su solicitud, Android está bloqueando la aparición de este grupo de notificaciones en este dispositivo."</string>
@@ -1691,10 +1687,10 @@ Esta función puede ser desactivada en [Ajustes]"</string>
     <string name="condition_cellular_summary">Internet solo está disponible a través de redes Wi-Fi</string>
     <string name="condition_cellular_title">Datos móviles desactivados</string>
     <string name="condition_device_muted_action_turn_on_sound">"Encender el sonido"</string>
-    <string name="condition_device_muted_summary">"Las llamadas y notificaciones serán silenciadas."</string>
-    <string name="condition_device_muted_title">"El teléfono está silenciado"</string>
-    <string name="condition_device_vibrate_summary">"Las llamadas y notificaciones vibrarán al teléfono."</string>
-    <string name="condition_device_vibrate_title">"El teléfono está configurado para vibrar"</string>
+    <string name="condition_device_muted_summary">Para llamadas y notificaciones</string>
+    <string name="condition_device_muted_title">Timbre silenciado</string>
+    <string name="condition_device_vibrate_summary">Para llamadas y notificaciones</string>
+    <string name="condition_device_vibrate_title">Solo vibración</string>
     <string name="condition_expand_hide">Ocultar</string>
     <string name="condition_expand_show">Mostrar</string>
     <string name="condition_grayscale_summary">Mostrar solo en gris</string>
@@ -1709,11 +1705,7 @@ Esta función puede ser desactivada en [Ajustes]"</string>
     <string name="condition_work_title">Perfil de trabajo desactivado</string>
     <string name="condition_zen_summary_phone_muted">Teléfono silenciado</string>
     <string name="condition_zen_summary_with_exceptions">Con excepciones</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Modo No molestar activado -->
-    <string name="condition_zen_title">No molestar activado (%1$s)</string>
+    <string name="condition_zen_title">No molestar está activado</string>
     <string name="config_backup_settings_label" />
     <string name="config_charging_function_name">"cargando"</string>
     <string name="config_grayscale_settings_intent" />
@@ -2732,7 +2724,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="face_unlock_set_unlock_pin">Autenticación facial + PIN</string>
     <string name="face_unlock_skip_face">Continuar sin autenticación facial</string>
     <string name="face_unlock_stay_away_screen">Manténgase a una distancia de 25 a 40 cm de la pantalla</string>
-    <string name="face_unlock_success_show_message_dialog_msg">Permita que las notificaciones de la pantalla de bloqueo puedan verlas en su pantalla de bloqueo.</string>
+    <string name="face_unlock_success_show_message_dialog_msg">Permite que las notificaciones de la pantalla de bloqueo puedan verlas en su pantalla de bloqueo.</string>
     <string name="face_unlock_success_show_message_dialog_negative_btn">No, gracias</string>
     <string name="face_unlock_success_show_message_dialog_positive_btn">Permitir</string>
     <string name="face_unlock_success_show_message_dialog_title">Notificaciones de la pantalla de bloqueo</string>
@@ -2919,14 +2911,14 @@ No parecía que en aquel lugar hubiese caballos ni animales de ningún tipo, pue
     <string name="foreground_traffic">Primer plano %s</string>
     <string name="forget">Olvidar</string>
     <string name="forget_passpoint_dialog_message">Es posible que dejes de tener acceso al tiempo o datos restantes. Antes de eliminarlo, consulta con tu proveedor.</string>
-    <string name="forget_password_button_text">&lt;u&gt;Olvidé la contraseña&lt;/u&gt;</string>
+    <string name="forget_password_button_text"><u>Contraseña olvidada</u></string>
     <string name="forget_password_dialog_button_text">Volver</string>
     <string name="forget_password_dialog_content_four">2. Selecciona [Wipe data], y espera hasta que tu dispositivo se reinicie.</string>
     <string name="forget_password_dialog_content_one">&lt;Data&gt;"Si olvidas tu contraseña, no podrás restaurarla. Sin embargo, puedes restablecer tu contraseña después de &lt;font color=#ec2700&gt;borrar todos los datos de tu dispositivo&lt;/font&gt; (incluyendo fotos, contactos, etc.). Haz una copia de seguridad de todos los datos importantes antes."&lt;/Data&gt;</string>
     <string name="forget_password_dialog_content_three">1. Apaga tu dispositivo. Presiona el botón [Power] y el botón [Volume+] a la vez, y mantenlos hasta que veas el siguiente * icono.</string>
     <string name="forget_password_dialog_content_two">Sigue estos pasos para borrar los datos:</string>
     <string name="forget_password_dialog_title">Borrar datos</string>
-    <string name="forget_pattern">&lt;u&gt;¿Olvidaste el patrón?&lt;/u&gt;</string>
+    <string name="forget_pattern"><u>¿Has olvidado el patrón?</u></string>
     <string name="forget_privacy_password_setting">Añadir Cuenta Mi</string>
     <string name="forget_privacy_password_summary">Utiliza Cuenta Mi para restablecer tu contraseña</string>
     <string name="forget_wifi_message">Tu dispositivo dejará de conectarse a esta red automáticamente.</string>
@@ -3026,9 +3018,9 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
     <string name="gesture_not_supported_positive_button">Cambiar app de inicio predeterminada</string>
     <string name="gesture_preference_summary">Gestos rápidos para controlar el teléfono</string>
     <string name="gesture_preference_title">Gestos</string>
-    <string name="gesture_prevent_ringing_screen_title">"Evitar el timbre"</string>
-    <string name="gesture_prevent_ringing_sound_title">"Atajo para evitar que suene"</string>
-    <string name="gesture_prevent_ringing_title">"Presiona Encendido y subir volumen juntos juntos"</string>
+    <string name="gesture_prevent_ringing_screen_title">Evitar que suene</string>
+    <string name="gesture_prevent_ringing_sound_title">Atajo para evitar que suene</string>
+    <string name="gesture_prevent_ringing_title">Pulsa Encendido y Subir volumen a la vez para</string>
     <string name="gesture_setting_off">Desactivado</string>
     <string name="gesture_setting_on">Activado</string>
     <string name="gesture_wakeup_summary">Puede tocar dos veces para apagar la pantalla cuando está aplicado tema predeterminado o clásico.</string>
@@ -3036,7 +3028,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
     <string name="giga_hertz">GHz</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_actions_panel_short_title">Acciones globales</string>
-    <string name="global_actions_panel_summary">Para mostrar el panel de acciones globales, presione</string>
+    <string name="global_actions_panel_summary">Para mostrar el panel de acciones globales, mantén pulsado el botón Encendido</string>
     <string name="global_actions_panel_title">Mostrar acciones globales</string>
     <string name="global_change_warning">Esta configuración afecta a todos los usuarios de este teléfono.</string>
     <string name="global_locale_change_title">Cambiar idioma</string>
@@ -4869,7 +4861,7 @@ También concede a la aplicación la capacidad de activar o desactivar el modo N
     <string name="other_sound_settings_title">Ajustes adicionales</string>
     <string name="overlay_display_devices_title">Simular pantallas adicionales</string>
     <string name="overlay_option_device_default">Opción predeterminada del dispositivo</string>
-    <string name="overlay_settings">Mostrar sobre otras apps</string>
+    <string name="overlay_settings">Mostrar sobre otras aplicacioness</string>
     <string name="overlay_toast_failed_to_apply">No se ha podido crear la superposición</string>
     <string name="owner_info_settings_edit_text_hint">Por ejemplo, Android de Juan</string>
     <string name="owner_info_settings_summary">Ninguno</string>
@@ -5077,8 +5069,8 @@ También concede a la aplicación la capacidad de activar o desactivar el modo N
     <string name="power_remaining_duration_only_short">%1$s restante</string>
     <string name="power_remaining_duration_only_shutdown_imminent">"El teléfono puede apagarse pronto"</string>
     <string name="power_remaining_duration_shutdown_imminent">"El teléfono puede apagarse pronto (%2$s)"</string>
-    <string name="power_remaining_less_than_duration">"Menos de %1$s restante (%2$s)"</string>
-    <string name="power_remaining_less_than_duration_only">"Quedan menos de %1$s"</string>
+    <string name="power_remaining_less_than_duration">"Menos del %1$s restante (%2$s)"</string>
+    <string name="power_remaining_less_than_duration_only">"Queda menos del %1$s"</string>
     <string name="power_remaining_more_than_subtext">"Más de %1$s restantes (%2$s)"</string>
     <string name="power_remaining_only_more_than_subtext">"Más de %1$s restantes"</string>
     <string name="power_screen">Pantalla</string>

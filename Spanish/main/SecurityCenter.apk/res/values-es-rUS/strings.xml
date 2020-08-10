@@ -447,10 +447,10 @@ responda"</string>
     <string name="pref_adjust_data_usage_summary">Después de cambiar su plantilla de calibración, MIUI la usará para obtener estadísticas del uso de datos de su operadora</string>
     <string name="pref_adjust_data_usage_value">Cambiado</string>
     <string name="pref_confirm_operator_setting">Asegúrese de que la info introducida es correcta</string>
-    <string name="pref_correction_setting">Ajustes del modelo de calibraje</string>
-    <string name="pref_correction_setting_switch">Usar modelo de calibraje personalizado</string>
-    <string name="pref_correction_sms_number">Enviar SMS de calibraje a</string>
-    <string name="pref_correction_sms_content">Modelo de calibraje</string>
+    <string name="pref_correction_setting">Ajustes del modelo de calibración</string>
+    <string name="pref_correction_setting_switch">Usar modelo de calibración personalizado</string>
+    <string name="pref_correction_sms_number">Enviar SMS de calibración a</string>
+    <string name="pref_correction_sms_content">Modelo de calibración</string>
     <string name="adjust_traffic_carrier_summary_today">Actualizado hoy a las %s</string>
     <string name="adjust_traffic_carrier_summary_yesterday">Actualizado ayer a las %s</string>
     <string name="adjust_traffic_carrier_summary_two_day_before">Actualizado hace 2 días</string>
@@ -458,7 +458,7 @@ responda"</string>
     <string name="adjust_traffic_carrier_summary_more_oneweek_before">Actualizado hace más de 1 semana</string>
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualizado hace más de 1 mes</string>
     <string name="pref_avaible_traffic">Plan de datos</string>
-    <string name="pref_daily_traffic">Límite de datos pico</string>
+    <string name="pref_daily_traffic">Límite de datos máximo</string>
     <string name="pref_special_package_setting">Plan de datos personalizados</string>
     <string name="pref_data_usage_not_set">Plan de datos desconocido</string>
     <string name="pref_operator_not_set">Operadora no establecida</string>
@@ -472,7 +472,7 @@ responda"</string>
     <string name="begin_date">Fecha de reinicio de uso</string>
     <string name="tips_dialog_title">¿No conoce su límite?</string>
     <string name="tips_message">Para ver los detalles de su plan de datos, marque %2$s (%1$s).</string>
-    <string name="daily_pkg_traffic">Límite de datos pico</string>
+    <string name="daily_pkg_traffic">Límite de datos máximo</string>
     <string name="input_aviable_traffic">Establecer el límite de uso de datos</string>
     <string name="pkg_traffic">Establecer el límite de uso de datos</string>
     <string name="free_traffic_settings">Ajustes del uso de datos fuera de hora punta</string>
@@ -1361,7 +1361,7 @@ su dispositivo"</string>
     <string name="menu_summary_garbage_cleanup_2">Tamaño de la basura</string>
     <string name="menu_summary_garbage_cleanup_3">Limpiar basura ahora</string>
     <string name="menu_text_power_manager">Uso de batería</string>
-    <string name="menu_summary_power_manager">El ahorrador de batería le da más tiempo entre cargas</string>
+    <string name="menu_summary_power_manager">El Ahorro de batería le da más tiempo entre cargas</string>
     <string name="menu_summary_power_manager_1">La batería está cargada</string>
     <string name="menu_summary_power_manager_2">%s restante</string>
     <string name="menu_summary_power_manager_3">Conecte el cargador</string>
@@ -1806,7 +1806,7 @@ su dispositivo"</string>
     <string name="suggest_app_tolock_masked">Oculto</string>
     <string name="suggest_app_tolock_unmasked">Notificaciones visibles</string>
     <string name="forget_password_button_text"><u>Contraseña olvidada</u></string>
-    <string name="forget_password_button_text_normal">Olvidé la contraseña</string>
+    <string name="forget_password_button_text_normal">Contraseña olvidada</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">¡Demasiados intentos fallidos!</string>
     <string name="lockscreen_glogin_password_hint">Contraseña</string>
     <string name="lockscreen_glogin_submit_button">Iniciar sesión</string>
@@ -1845,7 +1845,7 @@ su dispositivo"</string>
     <string name="numeric_password_confirmed_header_confirm">Establecido con éxito. Toca para confirmar.</string>
     <string name="mixed_password_confirmed_header_continue">Establecido con éxito. Toca \"Siguiente\".</string>
     <string name="mixed_password_confirmed_header_confirm">Establecido con éxito. Toca para confirmar.</string>
-    <string name="forget_pattern">&lt;u&gt;Olvidé la contraseña&lt;/u&gt;</string>
+    <string name="forget_pattern">&lt;u&gt;Contraseña olvidada&lt;/u&gt;</string>
     <string name="unlock_pattern">&lt;u&gt;Patrón&lt;/u&gt;</string>
     <string name="modify_password_mode">&lt;u&gt;Cambiar tipo de contraseña&lt;/u&gt;</string>
     <string name="fingerprint_to_lock">Desbloquear con huella dactilar</string>
@@ -1879,7 +1879,7 @@ su dispositivo"</string>
     <string name="applock_not_add_account">&lt;u&gt;Ahora no&lt;/u&gt;</string>
     <string name="applock_add_account">Agregar</string>
     <string name="applock_not_login_account">No ha iniciado sesión</string>
-    <string name="applock_bind_account_title">Olvidé la contraseña</string>
+    <string name="applock_bind_account_title">Contraseña olvidada</string>
     <string name="applock_close_dialog_title">¿Desactivar Bloqueo de app?</string>
     <string name="applock_close_dialog_summary">Las aplicaciones ya no estarán protegidas y su contraseña se eliminará después de desactivar el bloqueo de aplicación.</string>
     <string name="applock_header_text_less_than_half">Demasiado corto. Arrastre un poco más.</string>
@@ -2052,7 +2052,7 @@ su dispositivo"</string>
     <string name="app_manager_disable_text">Deshabilitar</string>
     <string name="app_manager_enable_text">Habilitar</string>
     <string name="app_manager_disable_dlg_title">¿Desactivar app del sistema?</string>
-    <string name="app_manager_disable_dlg_text">Si desactiva esta app, otras apps pueden no funcionar normalmente.</string>
+    <string name="app_manager_disable_dlg_text">Si desactiva esta app, otras apps pueden no funcionar con normalidad.</string>
     <string name="app_manager_disabled">Deshabilitada</string>
     <string name="app_manager_enabled">Habilitada</string>
     <string name="app_manager_globel_perm_title">Permisos de la app</string>
@@ -2148,7 +2148,7 @@ su dispositivo"</string>
     <string name="sys_title_gamebooster_unit_mb">MB</string>
     <string name="gmscore_support_service">Servicios de Google</string>
     <string name="gmscore_support_remind">Active esta función si tiene problemas con Gmail, Google Maps y otras aplicaciones de Google. Reducirá ligeramente la duración de la batería.</string>
-    <string name="google_base_app_install_choice">\"%s\" requiere el Marco de Servicios de Google para funcionar normalmente, ¿descargar e instalar?</string>
+    <string name="google_base_app_install_choice">\"%s\" requiere el Marco de Servicios de Google para funcionar con normalidad, ¿descargar e instalar?</string>
     <string name="application_item_disable">Restringido</string>
     <string name="application_item_already_permission">Permitido</string>
     <string name="man_add_application">Agregar manualmente apps con inicio automático</string>
