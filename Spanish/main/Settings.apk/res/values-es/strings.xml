@@ -42,7 +42,7 @@
     <string name="abc_slices_permission_request">"%1$s quiere mostrar %2$s rebanadas"</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="about_ad_service_instructions">Acerca de los servicios de publicidad y privacidad</string>
-    <string name="about_phone_device_name_warning">El nombre de su dispositivo es visible para las aplicaciones de tu teléfono. Otras personas pueden verlo cuando se conectan a dispositivos Bluetooth o configura un punto de acceso Wi-Fi.</string>
+    <string name="about_phone_device_name_warning">El nombre de tu dispositivo es visible para las aplicaciones de tu teléfono. Otras personas pueden verlo cuando se conectan a dispositivos Bluetooth o configura un punto de acceso Wi-Fi.</string>
     <string name="about_phone_enter_xiaomi_net">Más información</string>
     <string name="about_settings">Sobre el teléfono</string>
     <string name="about_settings_summary">Ver información legal, estado, versión del software</string>
@@ -103,7 +103,7 @@ Esta opción no funciona con todas las aplicaciones."</string>
     <string name="accessibility_long_press_timeout_preference_title">Retraso al mantener pulsado</string>
     <string name="accessibility_manual_zen_less_time">"Menos tiempo."</string>
     <string name="accessibility_manual_zen_more_time">"Más tiempo."</string>
-    <string name="accessibility_menu_description">"El menú de accesibilidad proporciona accesos directos convenientes que le permiten controlar su dispositivo. Active esta función y toque el botón Accesibilidad en la parte inferior de la pantalla para abrir el menú."</string>
+    <string name="accessibility_menu_description">"El menú de accesibilidad proporciona accesos directos convenientes que te permiten controlar tu dispositivo. Activa esta función y toca el botón Accesibilidad en la parte inferior de la pantalla para abrir el menú."</string>
     <string name="accessibility_menu_item_settings">Ajustes</string>
     <string name="accessibility_menu_service_name">"Menú de accesibilidad"</string>
     <string name="accessibility_menu_summary">"Controle su dispositivo usando atajos convenientes"</string>
@@ -308,7 +308,7 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="admin_profile_owner_user_message">El administrador puede supervisar y gestionar las aplicaciones y los datos asociados a este usuario, como los ajustes, los permisos, el acceso corporativo, la actividad de red y la información de ubicación del dispositivo.</string>
     <string name="admin_support_more_info">Más información</string>
     <string name="advanced_apps">Opciones avanzadas</string>
-    <string name="advanced_battery_graph_subtext">"La estimación de batería restante se basa en el uso de su dispositivo"</string>
+    <string name="advanced_battery_graph_subtext">"La estimación de batería restante se basa en el uso de tu dispositivo"</string>
     <string name="advanced_battery_title">Uso de la batería avanzado</string>
     <string name="advanced_section_header">Opciones avanzadas</string>
     <string name="advanced_security_title">Ajustes avanzados</string>
@@ -581,7 +581,7 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="assistant_security_warning_title">¿Quieres que %s sea tu asistente?</string>
     <string name="assisted_gps">Utilizar GPS asistido</string>
     <string name="assisted_gps_disabled">Utilizar el servidor para asistir al GPS (desactivar para mejorar el rendimiento del GPS)</string>
-    <string name="assisted_gps_enabled">Utilizar el servidor para asistir al GPS (desactivar para reducir el uso de la red)</string>
+    <string name="assisted_gps_enabled">Utilizar el servidor para asistir al GPS (desactivar para reducir el uso de red)</string>
     <string name="asst_capabilities_actions_replies_summary">Muestra automáticamente las acciones y las respuestas sugeridas</string>
     <string name="asst_capabilities_actions_replies_title">Acciones y respuestas sugeridas</string>
     <string name="asst_capability_prioritizer_summary">Establece automáticamente las notificaciones prioritarias como Discretas</string>
@@ -743,7 +743,7 @@ Las copias de seguridad se almacenan en Xiaomi Cloud y se puede acceder de forma
     <string name="backup_set_new_pw_confirm_hint">"Atención"</string>
     <string name="backup_set_new_pw_confirm_summary">"Sus artículos son respaldados automáticamente ahora. Crear una contraseña de recuperación detendrá los recuperacións automáticos. ¿De todas maneras, continúe?"</string>
     <string name="backup_set_new_pw_title">"Introduzca una nueva contraseña de recuperación"</string>
-    <string name="backup_set_null_pw">"Ingrese la contraseña primero"</string>
+    <string name="backup_set_null_pw">"Introduce la contraseña primero"</string>
     <string name="backup_set_pw_confirm_title">"Confirmar nueva contraseña de recuperación"</string>
     <string name="backup_summary_state_off">Desactivado</string>
     <string name="backup_summary_state_on">Activado</string>
@@ -2959,7 +2959,7 @@ No parecía que en aquel lugar hubiese caballos ni animales de ningún tipo, pue
     <string name="freeform_guide_slide_up_to_close_summary">Desliza hacia arriba desde la barra de acción de una ventana flotante</string>
     <string name="freeform_guide_slide_up_to_close_title">Cerrar ventanas flotantes</string>
     <string name="freeform_vedio_description">"·Mantén presionado y luego despliega una notificación para abrirla en una ventana flotante.
-·Toque \"Ventanas flotantes\" en Recientes para seleccionar aplicaciones."</string>
+·Toca \"Ventanas flotantes\" en Recientes para seleccionar aplicaciones."</string>
     <string name="frequently_fragment_delete">Eliminar</string>
     <string name="frequently_fragment_tempty">Los elementos usados frecuentemente se mostrarán aquí</string>
     <string name="fsg_mistake_touch_summary">En algunos casos, como juegos y vídeos a pantalla completa, se deben realizar los gestos dos veces para que tenga efecto</string>
@@ -3807,9 +3807,9 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="lockpassword_pin_set_toast">PIN establecido</string>
     <string name="lockpassword_pin_too_long">El PIN debe de contener menos de %d dígitos</string>
     <string name="lockpassword_pin_too_short">El PIN deber tener %d dígitos</string>
-    <string name="lockpassword_strong_auth_required_device_password">"Para mayor seguridad, ingrese la contraseña de su dispositivo"</string>
-    <string name="lockpassword_strong_auth_required_device_pattern">"Para mayor seguridad, use el patrón de su dispositivo"</string>
-    <string name="lockpassword_strong_auth_required_device_pin">"Para mayor seguridad, ingrese el PIN de su dispositivo"</string>
+    <string name="lockpassword_strong_auth_required_device_password">"Para mayor seguridad, introduce la contraseña de tu dispositivo"</string>
+    <string name="lockpassword_strong_auth_required_device_pattern">"Para mayor seguridad, use el patrón de tu dispositivo"</string>
+    <string name="lockpassword_strong_auth_required_device_pin">"Para mayor seguridad, ingrese el PIN de tu dispositivo"</string>
     <string name="lockpassword_strong_auth_required_reason_restart_device_password">Introduce la contraseña del dispositivo para continuar (paso necesario después de reiniciar).</string>
     <string name="lockpassword_strong_auth_required_reason_restart_device_pattern">Utiliza el patrón del dispositivo para continuar (paso necesario después de reiniciar).</string>
     <string name="lockpassword_strong_auth_required_reason_restart_device_pin">Introduce el PIN del dispositivo para continuar (paso necesario después de reiniciar).</string>
@@ -4800,15 +4800,15 @@ También concede a la aplicación la capacidad de activar o desactivar el modo N
     <string name="off_text">desactivado</string>
     <string name="ok_rules">Terminar</string>
     <string name="okay">Aceptar</string>
-    <string name="oldman_app_label">Modo lite</string>
+    <string name="oldman_app_label">Modo Lite</string>
     <string name="oldman_installed_current_btn">Reestablecer Pantalla de inicio original</string>
-    <string name="oldman_installed_current_des">Has establecido el Modo lite como tu Pantalla de inicio por defecto. Pulsa el botón inferior para volver a la Pantalla de inicio original.</string>
+    <string name="oldman_installed_current_des">Has establecido el modo Lite como tu Pantalla de inicio por defecto. Pulsa el botón inferior para volver a la Pantalla de inicio original.</string>
     <string name="oldman_installed_not_current_btn">Establecer como Pantalla de inicio por defecto</string>
-    <string name="oldman_installed_not_current_des">El Modo lite está instalado en tu dispositivo. Puedes usarlo como tu Pantalla de inicio por defecto.</string>
-    <string name="oldman_mode_entry_name">Modo lite</string>
-    <string name="oldman_mode_settings">Modo ligero</string>
+    <string name="oldman_installed_not_current_des">El modo Lite está instalado en tu dispositivo. Puedes usarlo como tu Pantalla de inicio por defecto.</string>
+    <string name="oldman_mode_entry_name">Modo Lite</string>
+    <string name="oldman_mode_settings">Modo Lite</string>
     <string name="oldman_uninstalled_btn">Instalar</string>
-    <string name="oldman_uninstalled_des">El Modo lite se deshace del desorden visual y mantiene tu Pantalla de inicio simple y minimalista.</string>
+    <string name="oldman_uninstalled_des">El modo Lite se deshace del desorden visual y mantiene tu Pantalla de inicio simple y minimalista.</string>
     <string name="omh_data_pick_dialog_msg">Es posible que su R-UIM no pueda acceder al servicio de los datos. Actualice su R-UIM a un R-UIM OMH. ¿Todavía desea establecer este R-UIM como la tarjeta de datos predeterminada?</string>
     <string name="omh_warning_dialog_msg">Es posible que su R-UIM no pueda acceder al servicio de los datos. Actualice su R-UIM a un R-UIM OMH.</string>
     <string name="on">Activado</string>
@@ -5235,7 +5235,7 @@ También concede a la aplicación la capacidad de activar o desactivar el modo N
     <string name="privacy_factory_reset_dlg_button_text">Reiniciar</string>
     <string name="privacy_factory_reset_dlg_message">Si olvidas tu contraseña, tendrás que restablecer a datos de fábrica para establecer una nueva.</string>
     <string name="privacy_factory_reset_dlg_title">Hacer copia de seguridad de tus datos</string>
-    <string name="privacy_failed_need_to_unlock_nofingerprint">Ingrese la contraseña antes de usar una nueva huella dactilar</string>
+    <string name="privacy_failed_need_to_unlock_nofingerprint">Introduce la contraseña antes de usar una nueva huella dactilar</string>
     <string name="privacy_file">Archivos</string>
     <string name="privacy_gallery">Fotos</string>
     <string name="privacy_header_text_less_than_half">Demasiado corto. Arrastra un poco más.</string>
@@ -6408,7 +6408,7 @@ Es posible que el PIN no sea correcto."</string>
     <string name="sim_slot">Ranura para tarjetas SIM</string>
     <string name="sim_slot_empty">SIM vacía</string>
     <string name="sim_status_title">Estado SIM</string>
-    <string name="sim_status_title_sim_slot">"Estado de la SIM (ranura sim %1$d )"</string>
+    <string name="sim_status_title_sim_slot">"Estado de la SIM (ranura SIM %1$d )"</string>
     <string name="simulate_color_space">Simular espacio de color</string>
     <string name="single_key_use">Botón simple</string>
     <string name="single_key_use_summary">Usar el botón Inicio para funciones realizadas por los otros 2 botones</string>
@@ -6420,44 +6420,44 @@ Es posible que el PIN no sea correcto."</string>
     <string name="size_peta_byte">PB</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_anyway_button_label">Sí, saltar</string>
-    <string name="skip_label">Saltar</string>
-    <string name="skip_lock_screen_confirm_msg">Las notificaciones, los controles del reproductor de música y los accesos directos no se mostrarán en la pantalla de bloqueo.</string>
-    <string name="skip_lock_screen_dialog_button_label">Saltar</string>
+    <string name="skip_label">Omitir</string>
+    <string name="skip_lock_screen_confirm_msg">"Las notificaciones, los controles del reproductor de música y los accesos directos no se mostrarán en la pantalla de bloqueo."</string>
+    <string name="skip_lock_screen_dialog_button_label">Omitir</string>
     <string name="skip_step">Omitir</string>
-    <string name="slider_app_open">"Abre la app"</string>
-    <string name="slider_app_open_name">"Abrir %1$s"</string>
-    <string name="slider_app_open_none">"Ninguna"</string>
-    <string name="slider_button_title">"Cambio"</string>
-    <string name="slider_choose_app">"Seleccionar aplicación"</string>
+    <string name="slider_app_open">Abre la app</string>
+    <string name="slider_app_open_name">Abrir %1$s</string>
+    <string name="slider_app_open_none">Ninguno</string>
+    <string name="slider_button_title">Cambiar</string>
+    <string name="slider_choose_app">Seleccionar aplicación</string>
     <string name="slider_game_page_code">00008</string>
-    <string name="slider_game_tool_summary">Empuja la pantalla hacia abajo para ver los accesos directos disponibles mientras juegas a un juego</string>
+    <string name="slider_game_tool_summary">Empuja la pantalla hacia abajo para ver los atajos disponibles mientras juegas a un juego</string>
     <string name="slider_game_tool_tilte">Accesos directos de juegos</string>
     <string name="slider_global_summary_app">Empuja la pantalla hacia abajo para abrir una aplicación</string>
-    <string name="slider_global_summary_drawer">Empuja la pantalla hacia abajo para ver los accesos directos disponibles</string>
+    <string name="slider_global_summary_drawer">Empuja la pantalla hacia abajo para ver los atajos disponibles</string>
     <string name="slider_global_summary_selfie">Empuja la pantalla hacia abajo para tomar una selfie</string>
-    <string name="slider_global_title">"Atajo deslizante"</string>
+    <string name="slider_global_title">Atajo del control deslizante</string>
     <string name="slider_high_grade_summary">Empuja la pantalla hacia abajo para realizar una acción personalizada en circunstancias específicas</string>
     <string name="slider_high_grade_title">Ajustes adicionales del control deslizante</string>
-    <string name="slider_selfie">"Toma una selfie"</string>
-    <string name="slider_title">"Ajustes del control deslizante"</string>
-    <string name="slider_title_jianghu">"Guerrero"</string>
-    <string name="slider_title_jixie">"Mecánica"</string>
-    <string name="slider_title_keji">"Alta tecnología"</string>
-    <string name="slider_title_lingdong">"Intelecto"</string>
-    <string name="slider_title_zippo">"Encendedor"</string>
-    <string name="slider_tool_drawer">"Herramientas abiertas"</string>
-    <string name="slider_tool_none">"Ninguna"</string>
-    <string name="slider_tool_none_summary">"No hay un atajo de control deslizante asignado"</string>
+    <string name="slider_selfie">Tomar una selfie</string>
+    <string name="slider_title">Ajustes del control deslizante</string>
+    <string name="slider_title_jianghu">Guerrero</string>
+    <string name="slider_title_jixie">Mecánico</string>
+    <string name="slider_title_keji">Alta tecnología</string>
+    <string name="slider_title_lingdong">Intelecto</string>
+    <string name="slider_title_zippo">Encendedor</string>
+    <string name="slider_tool_drawer">Abrir herramientas</string>
+    <string name="slider_tool_none">Ninguno</string>
+    <string name="slider_tool_none_summary">No hay ningún atajo del control deslizante asignado</string>
     <string name="slider_video_tool_summary">Empuja la pantalla hacia abajo para ver los accesos directos disponibles mientras ves un video</string>
-    <string name="slider_video_tool_title">"Accesos directos de video"</string>
-    <string name="slider_vocie_click_too_often">"¡Demasiado rapido! Espera un minuto o dos y vuelve a intentarlo."</string>
-    <string name="slider_vocie_online_close">"Deslizar hacia arriba"</string>
-    <string name="slider_vocie_online_default">"Ninguna"</string>
-    <string name="slider_vocie_online_open">"Bajar deslizándose"</string>
-    <string name="slider_vocie_online_title">"Sonidos en linea"</string>
-    <string name="slider_voice_online_theme">"Sonidos en linea"</string>
-    <string name="slider_voice_summary">"Reproduce sonidos cuando deslizas la pantalla hacia arriba y hacia abajo"</string>
-    <string name="slider_voice_title">"Los sonidos"</string>
+    <string name="slider_video_tool_title">Accesos directos de video</string>
+    <string name="slider_vocie_click_too_often">¡Demasiado rapido! Espera un minuto o dos y vuelve a intentarlo.</string>
+    <string name="slider_vocie_online_close">Deslizar hacia arriba</string>
+    <string name="slider_vocie_online_default">Ninguno</string>
+    <string name="slider_vocie_online_open">Deslizar hacia abajo</string>
+    <string name="slider_vocie_online_title">Sonidos en línea</string>
+    <string name="slider_voice_online_theme">Sonidos en línea</string>
+    <string name="slider_voice_summary">Reproduce sonidos cuando deslizas la pantalla hacia arriba y hacia abajo</string>
+    <string name="slider_voice_title">Sonidos</string>
     <string name="slot_number">(N.º %1$d)</string>
     <string name="slot_status_title">Información del IMEI</string>
     <string name="smallwindow_smartcover_title">Cubierta frontal de ventana pequeña</string>
@@ -6506,7 +6506,7 @@ Si no acepta otorgar tales permisos, no podrá usar algunas funciones de esta ap
     <string name="sos_privacy_dialog_button_ok">Aceptar</string>
     <string name="sos_privacy_dialog_message">"Lee y acepta nuestro %s antes de usar esta función.
 	Esta función necesita permisos para acceder a su ubicación, usar redes móviles y leer sus contactos. ¿Está de acuerdo?"</string>
-    <string name="sos_privacy_dialog_message_new_version">"Emergency SOS le permite compartir su ubicación en tiempo real y enviar mensajes de texto a sus contactos de emergencia.
+    <string name="sos_privacy_dialog_message_new_version">"Emergency SOS te permite compartir tu ubicación en tiempo real y enviar mensajes de texto a tus contactos de emergencia.
 Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.
 Ten en cuenta que esta aplicación necesita conectarse a Internet y requiere los siguientes permisos para recopilar tu información personal:
 • Acceder al almacenamiento
@@ -6656,7 +6656,7 @@ Esto es posible por una credencial de confianza instalada en tu dispositivo."</s
     <string name="status_msid_number">MSID</string>
     <string name="status_network_type">Tipo de red móvil</string>
     <string name="status_number">Mi número de teléfono</string>
-    <string name="status_number_sim_slot">"Número de teléfono (ranura sim %1$d )"</string>
+    <string name="status_number_sim_slot">"Número de teléfono (ranura SIM %1$d )"</string>
     <string name="status_number_sim_status">"Número de teléfono en la tarjeta SIM"</string>
     <string name="status_operator">Red</string>
     <string name="status_prl_version">Versión de PRL</string>
@@ -7107,7 +7107,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="time_zone_gmt">GMT</string>
     <string name="timed_titlei">Temporizador %d</string>
     <string name="timezone_settings">Zona horaria</string>
-    <string name="tip_remove_data">El restablecimiento de fábrica borrará estos elementos de su dispositivo</string>
+    <string name="tip_remove_data">El restablecimiento de fábrica borrará estos elementos de tu dispositivo</string>
     <string name="title_color_calibration">Corrección de color preestablecido</string>
     <string name="title_convert_fbe">Convirtiendo a encriptación basada en archivos</string>
     <string name="title_font">Fuente</string>
@@ -7674,7 +7674,7 @@ Toca en más para añadir palabras."</string>
     <string name="vibrate_title">Vibración</string>
     <string name="vibrate_when_ringing_title">Vibrar también en llamadas</string>
     <string name="video_calling_settings_title">Videollamadas a través del operador</string>
-    <string name="video_tool_box_title">Caja de herramientas de video</string>
+    <string name="video_tool_box_title">Caja de herramientas de vídeo</string>
     <string name="vilte_data_usage_title">Llamada de video 4G</string>
     <string name="vip_list">Permitir llamadas entrantes</string>
     <string name="virtual_keyboard_category">Teclado virtual</string>
