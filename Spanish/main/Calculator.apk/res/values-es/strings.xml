@@ -116,7 +116,7 @@
     <string name="fund" />
     <string name="fund_loan">Préstamo de fondos</string>
     <string name="further_education">Estudios superiores</string>
-    <string name="global_network_confirm_content">El Conversor de divisas necesita conectarse a internet para funcionar normalmente.</string>
+    <string name="global_network_confirm_content">El Conversor de divisas necesita conectarse a internet para funcionar con normalidad.</string>
     <string name="global_search_key_area_convertion">Área;Conversor de área;Conversión de área</string>
     <string name="global_search_key_calculation">Calcular;Calculadora;Unidad de conversión;Conversor;Conversor de unidades</string>
     <string name="global_search_key_date_convertion">Conversor de tiempo;Unidades de tiempo;Conversión de tiempo;Tiempo</string>
@@ -145,6 +145,10 @@
     <string name="install">Instalar</string>
     <string name="install_scanner_to_continued_use">Escáner está desinstalado. ¿Instalar de nuevo?</string>
     <string name="interest_rate_hint">Introducir tasa de interés</string>
+    <string name="investment_invalid_duration">La duración de la inversión debe ser mayor de cero</string>
+    <string name="investment_type_once">Una vez</string>
+    <string name="investment_type_recurring">Periódico</string>
+    <string name="item_page_title_investment">Calculadora de inversiones</string>
     <string name="item_title_aa_payment">Dividir la cuenta</string>
     <string name="item_title_age">Edad</string>
     <string name="item_title_area_conversion">Área</string>
@@ -156,7 +160,9 @@
     <string name="item_title_dress_size">Talla de ropa</string>
     <string name="item_title_emi">Préstamo personal</string>
     <string name="item_title_gst">GST</string>
+    <string name="item_title_investment">Inversión</string>
     <string name="item_title_length_conversion">Longitud</string>
+    <string name="item_title_loan">Préstamo</string>
     <string name="item_title_mortgage">Hipoteca</string>
     <string name="item_title_percentage">Porcentaje</string>
     <string name="item_title_radix">Sistema numeral</string>
@@ -188,8 +194,10 @@
     <string name="label_statistics">Estadísticas</string>
     <string name="label_to_date">A</string>
     <string name="label_total_interest">Interés total</string>
+    <string name="label_total_investment">Inversión total</string>
     <string name="label_total_payment">Pago total</string>
     <string name="label_total_principal">Capital</string>
+    <string name="label_total_value">Valor total</string>
     <string name="label_years">Años</string>
     <string name="leftParen">(</string>
     <string name="leftParenDesc">paréntesis izquierdo</string>
@@ -211,6 +219,9 @@
     <string name="loan_edittext_hint_fund_combined">Préstamo de fondos (×10K)</string>
     <string name="loan_edittext_title_commercial_combined">Comercial (×10K)</string>
     <string name="loan_edittext_title_fund_combined">Préstamo de fondos (×10K)</string>
+    <string name="loan_enter_amount">Introducir cantidad</string>
+    <string name="loan_enter_amount_interest">Introducir cantidad y tasa de interés</string>
+    <string name="loan_enter_interest">Introducir tasa de interés</string>
     <string name="loan_first_pay_date">Primer pago</string>
     <string name="loan_interest_rate">Interés</string>
     <string name="loan_pay_years">Periodo de préstamo</string>
@@ -331,7 +342,8 @@ El LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden pro
     <string name="sqrtDesc">raíz cuadrada</string>
     <string name="start_calculate" />
     <string name="statistic_label_balance">Saldo</string>
-    <string name="statistic_label_interest">Interés</string>
+    <string name="statistic_label_interest">Interés (porcentaje)</string>
+    <string name="label_investment_duration">Duración</string>
     <string name="statistic_label_month">Mes</string>
     <string name="statistic_label_monthly">Mensual</string>
     <string name="statistic_label_yearly">Anual</string>
@@ -403,6 +415,9 @@ El LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden pro
     <string name="tax_unemployment">Desempleo</string>
     <string name="tax_update_time_format">Datos suministrados por HeXun (%s)</string>
     <string name="times" />
+    <string name="tv_recurrence_monthly">Mensual</string>
+    <string name="tv_recurrence_quaterly">Trimestral</string>
+    <string name="tv_recurrence_yearly">Anual</string>
     <string name="unKnow_error">Error desconocido</string>
     <string name="unit_cm">Centímetros</string>
     <string name="unit_data_default_currency_0">EUR</string>

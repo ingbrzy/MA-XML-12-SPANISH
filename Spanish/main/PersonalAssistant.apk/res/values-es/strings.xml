@@ -253,16 +253,17 @@
 	<string name="amount_ten_million_format">%sdiez mil</string>
 	<string name="app_label">Bóveda de aplicaciones</string>
 	<string name="app_setting">Ajustes</string>
-	<string name="app_setting_add_header_bg">Añadir imagen de fondo la cabecera</string>
+	<string name="app_setting_add_header_bg">Imagen de fondo</string>
 	<string name="app_setting_datetime">Mostrar fecha</string>
 	<string name="app_setting_dialog_cancel">Cancelar</string>
 	<string name="app_setting_has_not_setted">No establecido</string>
 	<string name="app_setting_has_setted">Establecido</string>
 	<string name="app_setting_more_setting">Más ajustes</string>
-	<string name="app_setting_on_off_setting">Alterar configuración</string>
+	<string name="app_setting_on_off_setting">Ajustes generales</string>
 	<string name="app_setting_privacy_policy">Política de Privacidad</string>
 	<string name="app_setting_search">Barra de búsqueda</string>
 	<string name="app_setting_xiaoai">Botón Xiao IA</string>
+	<string name="app_version_name">"Versión de Bóveda de aplicaciones: "</string>
 	<string name="apps">Sugerencias de aplicaciones</string>
 	<string name="apps_label">Aplicaciones</string>
 	<string name="arrive">Aterrizajes</string>
@@ -418,9 +419,12 @@
 	<string name="cta_negative">Cerrar</string>
 	<string name="cta_not_now">Ahora no</string>
   	<string name="cta_old_not_use">Ahora no</string>
+	<string name="cta_old_start">Comenzar</string>
 	<string name="cta_positive">Detalles</string>
+	<string name="cta_start">Comenzar</string>
 	<string name="cta_text5">El servicio también requiere conexión a Internet y acceso a los servicios de ubicación. ¿Aceptar?</string>
-	<string name="cta_title">Bienvenido a Bóveda de aplicaciones</string>
+	<string name="cta_title">"Bienvenido a la
+Bóveda de aplicaciones"</string>
 	<string name="currency_china">CNY</string>
 	<string name="daily_greeting">Saludos diarios</string>
 	<string name="data_error">Ha ocurrido un error, espere un minuto o dos y pruebe de nuevo</string>
@@ -1041,6 +1045,8 @@
 	<string name="miot_auth_btn">Sincronizar</string>
 	<string name="miot_auth_content">Usa Bóveda de aplicaciones para controlar los dispositivos inteligentes de tu hogar</string>
 	<string name="miot_auth_title">Sincroniza tus dispositivos</string>
+	<string name="miot_delete_dialog_content">"Podrás restaurar la tarjeta Xiaomi Home en los ajustes de Bóveda de aplicaciones."</string>
+  	<string name="miot_delete_dialog_title">Eliminar tarjeta Xiaomi Home</string>
 	<string name="miot_device_add_device">Agregar dispositivo</string>
 	<string name="miot_device_all_device">Todo el equipo</string>
 	<string name="miot_device_cancel">Cancelar</string>
@@ -1522,7 +1528,7 @@
 	<string name="which_transport">¿Cómo sueles llegar a tu destino?</string>
 	<string name="widget_fav">favorito</string>
 	<string name="widget_fav_open">Mostrar tarjeta favoritos</string>
-	<string name="widget_fav_setting_brief">Guarda los favoritos de múltiples aplicaciones aquí</string>
+	<string name="widget_fav_setting_brief">Guarda aquí los favoritos de múltiples aplicaciones</string>
 	<string name="widget_fav_setting_brief_detail">Ve todos tus favoritos en un solo sitio.</string>
 	<string name="widget_loading">Espere un momento…</string>
 	<string name="widget_more">Ver más</string>

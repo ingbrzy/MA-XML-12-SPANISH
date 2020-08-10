@@ -40,7 +40,7 @@ Si tienes cualquier pregunta puedes escribirnos a: misearch-feedback@xiaomi.com"
 "</string>
     <string name="app_loaction">Buscar en la pantalla de inicio</string>
     <string name="app_name">Búsqueda</string>
-    <string name="appindex_description">funciones de las aplicaciones instaladas</string>
+    <string name="appindex_description">Funciones de las aplicaciones instaladas</string>
     <string name="appindex_search_label">Funciones de las aplicaciones</string>
     <string name="application_desc">Aplicación</string>
     <string name="application_search_label">Apps</string>
@@ -156,16 +156,16 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
     <string name="corpus_label_global">Todo</string>
     <string name="corpus_label_web">Resultados web</string>
     <string name="corpus_selection_heading">Búsqueda</string>
-    <string name="cta_declaration">"Esta función necesita conectarse a Internet, acceder a la ubicación de su dispositivo y ver su historial de llamadas y contactos para que funcione normalmente."</string>
+    <string name="cta_declaration">"Esta función necesita conectarse a Internet, acceder a la ubicación de tu dispositivo y ver tu historial de llamadas y contactos para funcionar con normalidad."</string>
     <string name="cta_declaration_ignore">No mostrar de nuevo</string>
     <string name="cta_declaration_negative_text">No permitir</string>
-    <string name="cta_declaration_positive_text">Aceptar y continuar</string>
+    <string name="cta_declaration_positive_text">Aceptar</string>
     <string name="cta_declaration_title">Términos del Servicio</string>
     <string name="debug_mode_toast">Opciones de desarrollador activadas. Puedes desactivar esta función en los Ajustes.</string>
     <string name="default_download_path_dialog_title">¿Restaurar la ubicación de descarga predeterminada?</string>
     <string name="default_download_path_prefix">Ubicación predeterminada:</string>
     <string name="default_hf_hint">Buscar vídeos, noticias, artículos…</string>
-    <string name="default_hint">Buscar aplicaciones, música, videos, libros…</string>
+    <string name="default_hint">Buscar localmente o en la web…</string>
     <string name="default_search_domain">.google.com</string>
     <string name="delete_description">Eliminar</string>
     <string name="delete_history">Eliminar este elemento</string>
@@ -298,7 +298,7 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
     <string name="permission_prompt_title">¿Quieres más?</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="pull_to_exit">Desliza abajo para salir</string>
-    <string name="pull_to_input">Tire hacia abajo para mostrar la barra de búsqueda</string>
+    <string name="pull_to_input">Tira hacia abajo para mostrar la barra de búsqueda</string>
     <string name="reader_history_default_subtitle">Visto recientemente</string>
     <string name="reader_history_title">Libros</string>
     <string name="reader_history_view_more">Ver más</string>
@@ -324,7 +324,7 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
     <string name="recent_function">Funciones</string>
     <string name="recently_shortcut_label">Accesos directos recientes</string>
     <string name="release_to_exit">Suelta para salir</string>
-    <string name="release_to_input">Suelte para mostrar la barra de búsqueda</string>
+    <string name="release_to_input">Suelta para mostrar la barra de búsqueda</string>
     <string name="remove_from_history">¿Quiere borrar esta entrada del historial de búsqueda?</string>
     <string name="remove_from_history_failed">No se puede borrar el elemento del historial.</string>
     <string name="right_protection_title">Declaración especial</string>
@@ -356,7 +356,7 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
     <string name="search_path_quicksearchbox">Ajustes/Aplicaciones instaladas/Buscar</string>
     <string name="search_result_skip_text">Saltar</string>
     <string name="search_settings">Ajustes de búsqueda</string>
-    <string name="search_sources">Elementos rastreables</string>
+    <string name="search_sources">Elementos que se pueden buscar</string>
     <string name="search_sources_summary">Escoger qué buscar en el teléfono</string>
     <string name="search_suggestion">Consejos</string>
     <string name="search_videos">Buscar Vídeos</string>
@@ -422,8 +422,8 @@ Asegúrese de comprender los riesgos antes de visitarlo."</string>
     <string name="switch_online">En línea</string>
     <string name="switch_prompt_ignore">Ignorar</string>
     <string name="switch_prompt_set">Ver opciones</string>
-    <string name="switch_prompt_title">"¿No se puede encontrar %s?"</string>
-    <string name="switch_prompt_title_default">"No puede encontrar lo que usted necesita?"</string>
+    <string name="switch_prompt_title">"¿No encuentras %s?"</string>
+    <string name="switch_prompt_title_default">"¿No encuentras lo que necesitas?"</string>
     <string name="switch_setting">Ajustes</string>
     <string name="system_search_category_title">Teléfono</string>
     <string name="toast_network_fail">Se produjo un error de red. Espera un minuto o dos y vuelve a intentarlo.</string>

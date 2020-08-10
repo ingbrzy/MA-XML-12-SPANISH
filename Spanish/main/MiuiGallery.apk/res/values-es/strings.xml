@@ -69,6 +69,7 @@
     <string name="ai_album_setting_key_word">Buscar fotos</string>
     <string name="ai_album_setting_sub_title">Permitir al algoritmo de IA identificar personas, lugares y objetos en tus fotos para que puedas encontrarlas más rápido.</string>
     <string name="ai_album_setting_title">Identificar objetos en fotos</string>
+    <string name="album_ai_description">Personas, lugares, objetos</string>
     <string name="album_ai_international_description">Personas</string>
     <string name="album_ai_international_title">Personas</string>
     <string name="album_ai_page_title">Álbumes inteligentes</string>
@@ -119,6 +120,14 @@
     <string name="album_share_title_new_album">Compartir nuevo álbum</string>
     <string name="album_show_local_only">Mostrar solo álbumes locales</string>
     <string name="album_show_local_only_summary">Activar para ver y eliminar fotos solamente en tu dispositivo</string>
+    <string name="album_sort_type">Orden de clasificación</string>
+    <string name="album_sort_type_create_time_asc">De antiguas a nuevas</string>
+    <string name="album_sort_type_create_time_desc">De nuevas a antiguas</string>
+    <string name="album_sort_type_custom">Personalizado</string>
+    <string name="album_sort_type_name_asc">De la A a la Z</string>
+    <string name="album_sort_type_name_desc">De la Z a la A</string>
+    <string name="album_tab_page_switch_view_style_to_grid">Ver en cuadrícula</string>
+    <string name="album_tab_page_switch_view_style_to_linear">Ver en lista</string>
     <string name="album_type_baby">Álbum del bebé</string>
     <string name="album_type_share">Álbumes compartidos</string>
     <string name="album_type_system">Álbumes del sistema</string>
@@ -764,11 +773,12 @@ disponibles"</string>
     <string name="grant_permission_go_and_set">Ajustar</string>
     <string name="grant_permission_text">"La Galería necesita acceso a 
 %s
- para funcionar normalmente, pulsa \"Ajustes\" para ir a Permisos."</string>
+ para funcionar con normalidad, toca \"Ajustes\" para ir a Permisos."</string>
     <string name="grant_permission_title">Permitir acceso</string>
     <string name="grant_permission_unlock_and_set">Desbloquear y establecer</string>
     <string name="has_invalid_recipient">Destinatarios no válidos: %1$s</string>
     <string name="have_known">Entendido</string>
+    <string name="help">"¿No puedes encontrar dispositivos?"</string>
     <string name="hidden_album_display_name">Álbum oculto</string>
     <string name="home_menu_cleaner">Liberar espacio</string>
     <string name="home_menu_collage">Collage</string>
@@ -1015,6 +1025,7 @@ para personalizar la Galería"</string>
     <string name="operation_hide">Ocultar</string>
     <string name="operation_hide_time">Ocultar fechas</string>
     <string name="operation_in_process">Procesando…</string>
+    <string name="operation_move">Mover</string>
     <string name="operation_move_to_other_albums">Mover a otros álbumes</string>
     <string name="operation_not_show_in_photos_tab">No mostrar en Fotos</string>
     <string name="operation_produce">"Creatividad"</string>
@@ -1039,7 +1050,8 @@ para personalizar la Galería"</string>
     <string name="operation_successful">Hecho</string>
     <string name="operation_too_often">¡Vaya! Existen demasiadas solicitudes desde tu IP. Espera uno o dos minutos e inténtalo de nuevo.</string>
     <string name="operation_unforce_top">Desanclar</string>
-    <string name="operation_unhide">Visible</string>
+    <string name="operation_unhide">Mostrar</string>
+    <string name="operation_video_compress">Comprimir vídeo</string>
     <string name="orientation_lock_tip">Rotación automática desactivada</string>
     <string name="orientation_unlock_tip">Rotación automática activada</string>
     <string name="origin_gif_name">archivo original</string>
@@ -1471,6 +1483,7 @@ para personalizar la Galería"</string>
     <string name="slim_running">Optimizando…</string>
     <string name="slim_space">Liberado</string>
     <string name="slim_stop">Detener optimización</string>
+    <string name="sort">Ordenar</string>
     <string name="special_type_eye_repair">Ojos cerrados eliminados usando IA</string>
     <string name="special_type_hdr">HDR</string>
     <string name="special_type_night_beauty">Retrato IA con poca luz</string>
@@ -1728,8 +1741,8 @@ para personalizar la Galería"</string>
     <string name="view_by_gallery_tip">Galería MIUI</string>
     <string name="view_face_album">Ver álbum</string>
     <string name="view_more_face_desc">Ver más gente</string>
-    <string name="vlog_mi_clip">Editor de video</string>
-    <string name="vlog_mi_clip_cn">Editor de video</string>
+    <string name="vlog_mi_clip">Editor de vídeo</string>
+    <string name="vlog_mi_clip_cn">Editor de vídeo</string>
     <string name="voice_assistant">Entrada de voz</string>
     <string name="welcome_to_micloud">Bienvenido/a a Xiaomi Cloud</string>
     <string name="where_is_barcode">¿Dónde está el código QR?</string>
