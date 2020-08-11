@@ -1984,7 +1984,7 @@ su dispositivo"</string>
     <string name="app_manager_default_open_title">Borrar predeterminados</string>
     <string name="app_manager_default_close_summary">No hay predeterminados configurados.</string>
     <string name="app_manager_default_open_summary">Ha elegido esta app como predeterminada para algunas acciones.</string>
-    <string name="app_manager_app_version_name">Versión:</string>
+    <string name="app_manager_app_version_name">"Versión: "</string>
     <string name="app_manager_unstall_application">Desinstalar</string>
     <string name="app_manager_force_stop_dlg_title">¿Forzar cierre?</string>
     <string name="app_manager_force_stop_dlg_text">Si fuerza el cierre de una app, esta puede comportarse mal.</string>
@@ -2039,15 +2039,15 @@ su dispositivo"</string>
     <string name="app_manager_defaults_setting">Aplicaciones por defecto</string>
     <string name="app_manager_clear_cache">Limpiar caché</string>
     <string name="app_manager_reset_app_preferences">Restablecer preferencias de app</string>
-    <string name="app_manager_reset_app_preferences_title">¿Restablecer las preferencias de app?</string>
+    <string name="app_manager_reset_app_preferences_title">¿Restablecer preferencias de la app?</string>
     <string name="app_manager_reset_app_preferences_desc">"Esto restablecerá todas las preferencias para:
 
- "&lt;li&gt;Apps desactivadas&lt;/li&gt;"
- "&lt;li&gt;Notificaciones de app desactivada&lt;/li&gt;"
- "&lt;li&gt;Apps predeterminadas&lt;/li&gt;"
- "&lt;li&gt;Restricciones de datos en segundo plano de apps&lt;/li&gt;"
+ "<li>Aplicaciones deshabilitadas</li>"
+ "<li>Notificaciones de aplicaciones deshabilitadas</li>"
+ "<li>Aplicaciones predeterminadas </li>"
+ "<li>Restricciones de datos de fondo para las aplicaciones</li>"
 
- No perderá ningún dato de app."</string>
+ No perderá los datos de ninguna aplicación."</string>
     <string name="app_manager_reset_app_preferences_button">Restablecer apps</string>
     <string name="app_manager_disable_text">Deshabilitar</string>
     <string name="app_manager_enable_text">Habilitar</string>
