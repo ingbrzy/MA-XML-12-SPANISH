@@ -4,6 +4,58 @@
         <item quantity="other">%d juegos añadidos</item>
         <item quantity="one">%d juego añadido</item>
     </plurals>
+    <plurals name="app_behavior_desc_allow">
+        <item quantity="other">Se permitió %3$d veces entre las %1$s y %2$s</item>
+        <item quantity="one">Se permitió %3$d vez entre las %1$s y %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_allow_minute">
+        <item quantity="other">Se permitió %2$d veces a las %1$s</item>
+        <item quantity="one">Se permitió %2$d vez a las %1$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_deny">
+        <item quantity="other">Se restringió %3$d veces entre las %1$s y %2$s</item>
+        <item quantity="one">Se restringió %3$d vez entre las %1$s y %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_deny_minute">
+        <item quantity="other">Denegada %2$d veces a las %1$s</item>
+        <item quantity="one">Denegada %2$d veces a las %1$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_virtual">
+        <item quantity="other">Devolvió %3$d mensajes en blanco entre las %1$s y %2$s</item>
+        <item quantity="one">Devolvió %3$d mensajes en blanco entre las %1$s y %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_virtual_minute">
+        <item quantity="other">Devolvió %2$d mensajes en blanco a las %1$s</item>
+        <item quantity="one">Devolvió %2$d mensajes en blanco a las %1$s</item>
+    </plurals>
+    <plurals name="app_behavior_notification_audio_more">
+        <item quantity="other">%2$d aplicaciones incluyendo %1$1s están grabando audio</item>
+        <item quantity="one">%2$d aplicación incluyendo %1$1s está grabando audio</item>
+    </plurals>
+    <plurals name="app_behavior_notification_camera_more">
+        <item quantity="other">%2$d aplicaciones incluyendo %1$1s están tomando fotos</item>
+        <item quantity="one">%2$d aplicación incluyendo %1$1s está tomando fotos</item>
+    </plurals>
+    <plurals name="app_behavior_notification_location_more">
+        <item quantity="other">%2$d aplicaciones incluyendo %1$1s están accediendo a tu ubicación</item>
+        <item quantity="one">%2$d aplicación incluyendo %1$1s está accediendo a tu ubicación</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_off">
+        <item quantity="other">"No se te notificará sobre acciones delicadas realizadas por %1$d aplicaciones"</item>
+        <item quantity="one">"No se te notificará sobre acciones delicadas realizadas por %1$d aplicación"</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_on">
+        <item quantity="other">"Se te notificará sobre acciones delicadas realizadas por %1$d aplicaciones"</item>
+        <item quantity="one">"Se te notificará sobre acciones delicadas realizadas por %1$d aplicaciones"</item>
+    </plurals>
+    <plurals name="app_behavior_wakepath_multiple">
+        <item quantity="other">%1$1s inició %2$d aplicaciones</item>
+        <item quantity="one">%1$1s inició %2$d aplicación</item>
+    </plurals>
+    <plurals name="app_behavior_wakepath_multiple_single">
+        <item quantity="other">Esta aplicación inició %1$d otras aplicaciones</item>
+        <item quantity="one">Esta aplicación inició %1$d aplicación</item>
+    </plurals>
     <plurals name="app_manager_permission_summary_accept">
         <item quantity="other">%d permisos permitidos</item>
         <item quantity="one">%d permiso permitido</item>
