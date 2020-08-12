@@ -309,6 +309,7 @@
     <string name="airplane_mode">Modo avión</string>
     <string name="alarm_template">a las %1$s</string>
     <string name="alarm_template_far">a las %1$s</string>
+    <string name="album_name_all_photos_shortcut">Todo</string>
     <string name="allow_mock_location">Permitir localizaciones ficticias</string>
     <string name="allow_mock_location_summary">Permitir localizaciones ficticias</string>
     <string name="always_use_accessory">Usar de manera predeterminada para este accesorio USB</string>
@@ -331,7 +332,7 @@
     <string name="audio_effect_settings">Selecciona el tipo de auriculares</string>
     <string name="auto_brightness_off">Brillo automático desactivado</string>
     <string name="auto_brightness_on">Brillo automático activado</string>
-    <string name="auto_connect_disable">Conexión automática está desactivado</string>
+    <string name="auto_connect_disable">Conexión automática desactivada</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Botones de navegación deshabilitados, toca dos veces cualquier botón para activarlos.</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Botones de navegación habilitados</string>
     <string name="available_via_carrier">"Disponible a través de %1$s"</string>
@@ -912,7 +913,7 @@ Una vez que el teléfono se haya enfriado, funcionará normalmente."</string>
     <string name="input_password_after_boot_msg">Para desbloquear el dispositivo, introduce la contraseña</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">No se pueden cambiar los espacios durante una llamada</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"No se puede cambiar entre espacios cuando los controles parentales están activados"</string>
-    <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"No se puede cambiar entre espacios cuando el ahorro de batería Ultra está activado"</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"No se puede cambiar entre espacios cuando el Ultra ahorro de batería está activado"</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Es necesario entrar al Primer espacio después de haber reiniciado el dispositivo</string>
     <string name="input_password_handle_sdcard_fs">No se puede entrar al Segundo espacio desde la Pantalla de bloqueo. Entra desde el Primer espacio.</string>
     <string name="input_password_hint_text">Introducir contraseña</string>
@@ -1244,14 +1245,14 @@ Para más información, contacta con tu administrador."</string>
     <string name="monitoring_description_managed_profile_named_vpn">Su perfil de trabajo está conectado a %1$s, que puede controlar su actividad de red, incluidos correos electrónicos, aplicaciones y sitios web.</string>
     <string name="monitoring_description_management">"Su dispositivo es administrado por su organizazción.
 
-Su administrador puede controlar y administrar la configuración, el acceso corporativo, las aplicaciones, los datos asociados con su dispositivo y la información de ubicación de su dispositivo.
+Su administrador puede controlar y administrar la configuración, el acceso corporativo, las aplicaciones, los datos asociados con su dispositivo y la información de ubicación de tu dispositivo.
 
 Para obtener más información, comuníquese con su administrador."</string>
     <string name="monitoring_description_management_ca_certificate">Su organización instaló una autoridad de certificación en este dispositivo. Su tráfico de red seguro puede ser monitoreado o modificado.</string>
     <string name="monitoring_description_management_network_logging">Su administrador activó el registro de red, que monitorea el tráfico en su dispositivo.</string>
     <string name="monitoring_description_named_management">"Su dispositivo es administrado por %1$s.
 
-Su administrador puede controlar y administrar la configuración, el acceso corporativo, las aplicaciones, los datos asociados con su dispositivo y la información de ubicación de su dispositivo.
+Su administrador puede controlar y administrar la configuración, el acceso corporativo, las aplicaciones, los datos asociados con su dispositivo y la información de ubicación de tu dispositivo.
 
 Para obtener más información, comuníquese con su administrador."</string>
     <string name="monitoring_description_named_vpn">Está conectado a %1$s, que puede controlar su actividad de red, incluidos correos electrónicos, aplicaciones y sitios web.</string>
@@ -1398,8 +1399,8 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="oldman_incall_text">Volver a la llamada</string>
     <string name="open_camera_hint_text">Arrastra el icono para abrir la cámara</string>
     <string name="open_extreme_power_save_mode_title">"Activar ahorro de batería extrema"</string>
-    <string name="open_lock_screen_magazine_hint_text">"Desliza a la derecha para ver más opciones"</string>
-    <string name="open_remote_center_hint_text">Desliza hacia la derecha para ver los accesos directos</string>
+    <string name="open_lock_screen_magazine_hint_text">Desliza a la derecha para ver más opciones</string>
+    <string name="open_remote_center_hint_text">Desliza a la derecha para ver los controles</string>
     <string name="osu_completing_sign_up">Completando el registro…</string>
     <string name="osu_connect_failed">No se pudo conectar</string>
     <string name="osu_opening_provider">Abriendo %1$s</string>
