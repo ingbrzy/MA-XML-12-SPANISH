@@ -701,7 +701,7 @@
         <item>Rojo</item>
     </string-array>
     <string-array name="common_password_business_names">
-        <item>Pantalla de Bloqueo</item>
+        <item>Pantalla de bloqueo</item>
         <item>Contraseña de privacidad</item>
         <item>Modo niños</item>
         <item>Gestor de archivos</item>
@@ -1274,6 +1274,10 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_privacy_entries">
+        <item>Usar MAC aleatoria</item>
+        <item>Usar MAC del dispositivo</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
         <item>Ninguno</item>
