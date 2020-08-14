@@ -19,6 +19,17 @@
         <item>1 hora</item>
         <item>2 horas</item>
     </string-array>
+    <string-array name="contact_relation_array">
+        <item>Sin indicar</item>
+        <item>Padre/Madre</item>
+        <item>Hermana</item>
+        <item>Hermano</item>
+        <item>Cónyuge</item>
+        <item>Pareja</item>
+        <item>Amigo/a</item>
+        <item>Colega</item>
+        <item>Compañero/a</item>
+    </string-array>
     <string-array name="energy_unit">
         <item>" kcal"</item>
         <item>" kJ"</item>
@@ -64,5 +75,10 @@
         <item>Jue</item>
         <item>Vie</item>
         <item>Sáb</item>
+    </string-array>
+    <string-array name="yes_no_array">
+        <item>Sin indicar</item>
+        <item>Sí</item>
+        <item>No</item>
     </string-array>
 </resources>
