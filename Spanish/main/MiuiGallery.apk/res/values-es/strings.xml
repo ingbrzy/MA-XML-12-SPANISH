@@ -98,6 +98,7 @@
     <string name="album_name_recent_discovery">Recientes</string>
     <string name="album_name_tags">Etiquetas</string>
     <string name="album_notes">Notas</string>
+    <string name="album_other_page_title">Otros álbumes</string>
     <string name="album_others_share_baby_info_format">Álbum del bebé de %s</string>
     <string name="album_others_share_info_format">De %s</string>
     <string name="album_owner_share">Compartido</string>
@@ -105,6 +106,10 @@
     <string name="album_page_label">Álbumes</string>
     <string name="album_pano_name">Panorámicas</string>
     <string name="album_quota_fulfiled">Demasiados álbumes. Elimina alguno e inténtalo de nuevo.</string>
+    <string name="album_rubbish_cant_change_status">"No se puede sincronizar álbumes que se movieron al basurero"</string>
+    <string name="album_rubbish_clear_all_item_description">Limpiar basurero</string>
+    <string name="album_rubbish_page_title">Basurero</string>
+    <string name="album_rubbish_tip_title">Álbumes posiblemente repetidos</string>
     <string name="album_scanner">Escáner</string>
     <string name="album_screen_recorder">Grabadora de pantalla</string>
     <string name="album_screenshot_name">Capturas de pantalla</string>
@@ -1021,6 +1026,7 @@ para personalizar la Galería"</string>
     <string name="operation_cast_connected_format">Emitir - %s</string>
     <string name="operation_cast_connecting_format">Conectando a %s</string>
     <string name="operation_delete">Eliminar</string>
+    <string name="operation_delete_all_albums_from_rubbish_page_tip">"No podrás recuperar los álbumes después de borrarlos. ¿Borrarlos de todas formas?"</string>
     <string name="operation_detail">Detalles</string>
     <string name="operation_disable_auto_upload">Desactivar la sincronización con Xiaomi Cloud</string>
     <string name="operation_download">Descargar original (%s)</string>
@@ -1042,6 +1048,8 @@ para personalizar la Galería"</string>
     <string name="operation_remove_face">Eliminar</string>
     <string name="operation_remove_from_face_album">Eliminar del álbum</string>
     <string name="operation_remove_from_other_albums">Mover desde otros álbumes</string>
+    <string name="operation_remove_from_rubbish_albums">Restaurar</string>
+    <string name="operation_remove_rubbish">Restaurar</string>
     <string name="operation_remove_secret">Mostrar</string>
     <string name="operation_rename">Renombrar</string>
     <string name="operation_save">Guardar</string>
@@ -1138,6 +1146,7 @@ para personalizar la Galería"</string>
     <string name="photo_editor_remover">Eliminar</string>
     <string name="photo_editor_rotate">Rotar</string>
     <string name="photo_editor_saving">Guardando…</string>
+    <string name="photo_editor_sky">Cielo</string>
     <string name="photo_editor_sticker">Emoticono</string>
     <string name="photo_editor_talkback_cancel">Cancelar</string>
     <string name="photo_editor_talkback_confirm">Confirmar</string>
@@ -1337,6 +1346,8 @@ para personalizar la Galería"</string>
     <string name="risk_control_deleted_date">dd/MM</string>
     <string name="risk_control_deleted_message">Alguien eliminó los elementos de tu Galería desde la nube usando un %3$s el %1$s a las %2$s. ¿Eras tu?</string>
     <string name="risk_control_deleted_title">Aviso de seguridad</string>
+    <string name="rubbish_album_move_to_other_album_success">Puedes ver estos elementos ahora en \"Otros álbumes\".</string>
+    <string name="rubbish_nomedia_manager_button_text">Administrar álbumes con archivos \".nomedia\"</string>
     <string name="runtime_permission_ungranted">Galería cerrada, no se necesitan permisos</string>
     <string name="same_name_album_exist_and_toast">"Ya existe un álbum con el mismo nombre. Se ha creado '%s' en su lugar."</string>
     <string name="scan_barcode_guide">Para obtener el código QR de este álbum, pulsa en el icono de Compartir.</string>
@@ -1474,6 +1485,11 @@ para personalizar la Galería"</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Movido con éxito, ir a Otros álbumes para ver</string>
     <string name="show_in_other_albums_enable_toast_long_press_menu">Movido con éxito, ir a Álbumes para ver</string>
     <string name="similar_keep_clear">"Mantener las mejores fotos"</string>
+    <string name="sky_dynamic">Dinámico</string>
+    <string name="sky_night">Atardecer</string>
+    <string name="sky_nocturne">Noche</string>
+    <string name="sky_static">Estático</string>
+    <string name="sky_sunny">Soleado</string>
     <string name="slideshow_interval_dialog_title">Definir intervalo</string>
     <string name="slideshow_interval_invalid">El intervalo debe estar entre 3 y 3600 segundos</string>
     <string name="slideshow_interval_title">Mostrar cada diapositiva durante</string>
