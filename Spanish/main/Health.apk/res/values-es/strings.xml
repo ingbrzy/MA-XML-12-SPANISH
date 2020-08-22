@@ -193,6 +193,10 @@ Si decide eliminar sus datos de salud después de elegir conservarlos, puede hac
     <string name="delete">Eliminar</string>
     <string name="delete_aid_file">Eliminar</string>
     <string name="delete_contact">Eliminar</string>
+    <string name="delete_data_source">Eliminar fuente de datos</string>
+    <string name="delete_dialog_close_sync_msg">Para eliminar %1$s, primero desactiva la sincronización en el dispositivo correspondiente.</string>
+    <string name="delete_dialog_confirm_msg_cloud">¿Eliminar %1$s junto con los datos relacionados almacenados en este dispositivo y en la nube?</string>
+    <string name="delete_dialog_confirm_msg_local">¿Eliminar %1$s junto con los datos relacionados?</string>
     <string name="delete_all_data">Eliminar todos los datos</string>
     <string name="delete_all_data_sources">Eliminar todas las fuentes de datos</string>
     <string name="delete_all_data_sources_description">¿Eliminar todas las fuentes de datos agregadas?</string>
@@ -336,13 +340,13 @@ Xiaomi Health solo te notificará sobre elementos importantes."</string>
     <string name="health_app_name">Salud</string>
     <string name="health_app_name_dev">Mejora de la salud</string>
     <string name="health_cloud_service">Servicios en la nube</string>
-    <string name="health_data_cloud_sync_subtitle">Sincronice sus datos de salud con la nube y acceda a ellos desde cualquier dispositivo</string>
+    <string name="health_data_cloud_sync_subtitle">Sincroniza tus datos de salud con la nube y accede a ellos desde cualquier dispositivo</string>
     <string name="health_data_cloud_sync_title">Sincronizar con la nube</string>
     <string name="health_score">Puntuación de salud</string>
     <string name="health_score_tips">La puntuación de salud se calcula basándose en el IMC (índice de masa corporal), así como tu sueño y tu actividad de pasos. Cuanto más cerca estés de tus objetivos, más alta será la puntuación.</string>
     <string name="heart_rate">Ritmo cardiaco</string>
     <string name="history_statistics">Estadísticas</string>
-    <string name="home_tip_open_data_sync">Activa la sincronización con la nube</string>
+    <string name="home_tip_open_data_sync">Activar sincronización con la nube</string>
     <string name="home_tip_sync_done">Sincronizado exitosamente</string>
     <string name="home_tip_sync_immediately">"Algunos elementos no se sincronizaron. Toca para sincronizar ahora."</string>
     <string name="home_tip_syncing">Sincronizando datos de salud…</string>
