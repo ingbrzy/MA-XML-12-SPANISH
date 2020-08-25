@@ -49,7 +49,7 @@
     <string name="about_summary">Actualizado a Android %1$s</string>
     <string name="ac_enable_summary">Establecer una contraseña para las aplicaciones individuales</string>
     <string name="ac_enable_title">Bloqueo de aplicaciones</string>
-    <string name="ac_privacy_mode_sum">Se requiere una contraseña para desactivar el Modo invitado</string>
+    <string name="ac_privacy_mode_sum">Se requiere una contraseña para desactivar el modo invitado</string>
     <string name="ac_privacy_mode_title">Contraseña</string>
     <string name="ac_set_apps_title">Seleccionar aplicaciones para bloquear</string>
     <string name="accelerometer_summary_off">Cambiar orientación automáticamente al girar el teléfono</string>
@@ -259,7 +259,7 @@ Para cambiar de servicio, desliza dos dedos hacia arriba y mantén pulsada la pa
     <string name="adaptive_sleep_summary_on">Activado: la pantalla no se apagará si estás mirándola</string>
     <string name="adaptive_sleep_title">Atención a la pantalla</string>
     <string name="adb_keys_warning_message">¿Revocar acceso a depuración USB desde todos los ordenadores autorizados?</string>
-    <string name="adb_warning_message">Depuración USB está diseñada sólo para fines de desarrollo. Úsala para copiar datos entre tu ordenador y tu dispositivo, instalar apps en tu dispositivo sin notificación y ver datos de registro.</string>
+    <string name="adb_warning_message">Depuración USB está diseñada solo para fines de desarrollo. Úsala para copiar datos entre tu ordenador y tu dispositivo, instalar apps en tu dispositivo sin notificación y ver datos de registro.</string>
     <string name="adb_warning_title">¿Permitir la depuración USB?</string>
     <string name="add">Añadir</string>
     <string name="add_a_language">Añadir un idioma</string>
@@ -319,18 +319,18 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="agps_roaming_dia">El uso de A-GPS en itinerancia puede aumentar el uso de datos móviles. Si excedes el límite de datos de tu plan, tu compañía podría aplicar cargos adicionales.</string>
     <string name="agps_roaming_dia_title">Usar A-GPS en itinerancia</string>
     <string name="agps_roaming_summary">Usar los datos móviles para ayudar al GPS en itinerancia</string>
-    <string name="ai_button_title">Mi AI</string>
-    <string name="ai_button_title_global">"botón de IA"</string>
+    <string name="ai_button_title">Botón Mi AI</string>
+    <string name="ai_button_title_global">Botón IA</string>
     <string name="ai_key">Botón IA</string>
-    <string name="ai_key_double_click">Presione dos veces</string>
-    <string name="ai_key_long_press">Presione y mantenga</string>
-    <string name="ai_key_single_click">Presione</string>
-    <string name="ai_settings_click_title">Prensa</string>
-    <string name="ai_settings_double_click_category">"Presione dos veces el botón de IA"</string>
-    <string name="ai_settings_double_click_title">"Pulse dos veces"</string>
-    <string name="ai_settings_long_click_category">"Mantenga presionado el botón de IA"</string>
-    <string name="ai_settings_long_click_title">"presione y mantenga"</string>
-    <string name="ai_settings_single_press_des">"Presione el botón de IA para hablar con el Asistente de Google, luego suelte para obtener la respuesta."</string>
+    <string name="ai_key_double_click">Pulsar dos veces</string>
+    <string name="ai_key_long_press">Mantener pulsado</string>
+    <string name="ai_key_single_click">Pulsar</string>
+    <string name="ai_settings_click_title">Pulsar</string>
+    <string name="ai_settings_double_click_category">Pulsar dos veces el botón IA</string>
+    <string name="ai_settings_double_click_title">Pulsar dos veces</string>
+    <string name="ai_settings_long_click_category">Mantener pulsado el botón IA</string>
+    <string name="ai_settings_long_click_title">Mantener pulsado</string>
+    <string name="ai_settings_single_press_des">Pulsa el botón IA para hablar con el Asistente de Google, después suelta para obtener la respuesta.</string>
     <string name="airplane_mode">Modo avión</string>
     <string name="alarm_ringtone_title">Sonido de alarma predeterminado</string>
     <string name="alarm_sound_dialog_title">Selecciona tono de alarma</string>
@@ -403,7 +403,7 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="aod_close_color_inversion">"Esta característica no se puede combinar con la inversión de color. Desactive la inversión de color primero."</string>
     <string name="aod_got_it">Entendido</string>
     <string name="aod_mode_summary">Mostrar siempre tiempo, fecha y mensajes cuando la pantalla esté desactivada</string>
-    <string name="aod_mode_time_summary">Programar hora en que el dispositivo debe cambiar al Modo siempre activo</string>
+    <string name="aod_mode_time_summary">Programar hora en que el dispositivo debe cambiar al modo siempre activo</string>
     <string name="aod_mode_time_title">Programar</string>
     <string name="aod_mode_title">Modo siempre activo</string>
     <string name="aod_mode_turn_off">Desactivado</string>
@@ -701,7 +701,7 @@ La sensibilidad alta puede entrar en conflicto con los gestos de la aplicación 
     <string name="background_data_dialog_title">¿Inhabilitar conexiones automáticas?</string>
     <string name="background_data_summary">Las aplicaciones pueden sincronizar datos, enviarlos y recibirlos.</string>
     <string name="background_process_stop_description">Es un proceso de una aplicación anterior que aún está en ejecución por si se necesita de nuevo. Por lo general, no hay motivos para detenerlo.</string>
-    <string name="background_restrict_app_dialog_message">Restringir el acceso a redes en segundo plano para esta aplicación podría hacer que la aplicación no funcionara con normalidad, reciba mensajes, descargue contenido, etc. ¿Restringir de todas formas?</string>
+    <string name="background_restrict_app_dialog_message">Restringir el acceso a redes en segundo plano para esta aplicación podría hacer que la aplicación no funcione con normalidad, reciba mensajes, descargue contenido, etc. ¿Restringir de todas formas?</string>
     <string name="background_traffic">Segundo plano %s</string>
     <string name="backtouch_enable_title">Ajustar volumen atrás</string>
     <string name="backup_at_once">Copia de seguridad</string>
@@ -1204,7 +1204,7 @@ Esto es lo que podría estar mal:
     <string name="bluetooth_profile_hid">Salida del dispositivo</string>
     <string name="bluetooth_profile_map">Usado para acceder a mensajes</string>
     <string name="bluetooth_profile_opp">Transferencia de archivos</string>
-    <string name="bluetooth_profile_pan">Acceso a internet</string>
+    <string name="bluetooth_profile_pan">Acceso a Internet</string>
     <string name="bluetooth_profile_pan_nap">Compartir conexión a Internet</string>
     <string name="bluetooth_profile_pbap">Compartir contactos</string>
     <string name="bluetooth_profile_pbap_summary">Usar para compartir contactos</string>
@@ -1230,7 +1230,7 @@ Esto es lo que podría estar mal:
  Bits por muestra"</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode">Modo canal de audio Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Seleccionar código de audio Bluetooth:
- Modo canal"</string>
+ modo canal"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Código de audio Bluetooth LDAC: Calidad de reproducción</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Selecciona código de audio Bluetooth LDAC: 
  Calidad de reproducción"</string>
@@ -1270,7 +1270,7 @@ Calidad de reproducción"</string>
     <string name="bluetooth_tethering_off_subtext">No se comparte la conexión a Internet de este móvil por Bluetooth</string>
     <string name="bluetooth_tethering_off_subtext_config">Compartiendo la conexión a Internet de este %1$d por Bluetooth</string>
     <string name="bluetooth_tethering_overflow_error">No se puede anclar a más de %1$d dispositivos.</string>
-    <string name="bluetooth_tethering_subtext">"Comparte la conexión a internet del teléfono a través de Bluetooth"</string>
+    <string name="bluetooth_tethering_subtext">"Comparte la conexión a Internet del teléfono a través de Bluetooth"</string>
     <string name="bluetooth_turning_off">Desactivando Bluetooth…</string>
     <string name="bluetooth_turning_on">Activando Bluetooth…</string>
     <string name="bluetooth_unknown" />
@@ -1323,7 +1323,7 @@ Calidad de reproducción"</string>
     <string name="bootloader_device_bind_server_token_expired_1">"No se pudo verificar. Intente agregar su cuenta y dispositivo de nuevo."</string>
     <string name="bootloader_device_bind_server_token_expired_2">"No se pudo verificar. Vuelve a iniciar sesión en tu cuenta y comienza de nuevo."</string>
     <string name="bootloader_device_bind_sim_invalid">Tarjeta SIM inválida. Reemplázala y vuelve a intentarlo.</string>
-    <string name="bootloader_locked_answer_1">Bloqueamos los dispositivos para asegurarnos de que son seguros y de que tu información personal no es compartida con terceros. Si necesitas entrar al Modo Fastboot para flashear el dispositivo, puedes desbloquearlo.</string>
+    <string name="bootloader_locked_answer_1">Bloqueamos los dispositivos para asegurarnos de que son seguros y de que tu información personal no es compartida con terceros. Si necesitas entrar al modo Fastboot para flashear el dispositivo, puedes desbloquearlo.</string>
     <string name="bootloader_locked_answer_1_warning">Recuerda: No podrás usar \"Encontrar dispositivo\" después de que el teléfono se desbloquee.</string>
     <string name="bootloader_locked_answer_2">"1. Asegúrate de haber insertado la tarjeta SIM en tu dispositivo.
 2. Pulsa \"Agregar cuenta\" para asociar tu Cuenta Mi con este dispositivo.
@@ -2152,7 +2152,7 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
     <string name="dev_logpersist_clear_warning_message">Cuando ya no estamos monitorizando con el logger continuo, debemos eliminar los datos del logger que quedan en el dispositivo.</string>
     <string name="dev_logpersist_clear_warning_title">¿Limpiar almacenamiento del logger persistente?</string>
     <string name="dev_settings_disabled_warning">"Por favor habilite las opciones de desarrollador primero."</string>
-    <string name="dev_settings_warning_message">Estos ajustes están diseñados sólo para desarrolladores. Al activar estas características, tu dispositivo y aplicaciones podrían no funcionar correctamente o causar errores.</string>
+    <string name="dev_settings_warning_message">Estos ajustes están diseñados solo para desarrolladores. Al activar estas características, tu dispositivo y aplicaciones podrían no funcionar correctamente o causar errores.</string>
     <string name="dev_settings_warning_title">¿Permitir ajustes de desarrollo?</string>
     <string name="developer_build">Beta</string>
     <string name="developer_density_summary">%d dp</string>
@@ -2841,16 +2841,16 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="firewall_partial">Permitir a algunas aplicaciones conectarse de la siguiente forma</string>
     <string name="firewall_permission">Permisos de conexión</string>
     <string name="firewall_restrict_all">Restringir a todas las aplicaciones conectarse de la siguiente forma</string>
-    <string name="firewall_restrict_android_dialog_content">Para asegurarte de que el dispositivo funciona normalmente, algunas aplicaciónes del sistema Android seguirán conectándose a Internet. Éstas usarán datos móviles y podrían suponer pequeños gastos adicionales.</string>
+    <string name="firewall_restrict_android_dialog_content">Para asegurarte de que el dispositivo funciona con normalidad, algunas aplicaciónes del sistema Android seguirán conectándose a Internet. Éstas usarán datos móviles y podrían suponer pequeños gastos adicionales.</string>
     <string name="firewall_restrict_android_dialog_title">Atención</string>
     <string name="firewall_restrict_data">Restringir uso de datos móviles</string>
     <string name="firewall_restrict_notify_title">%s no puede usar la red</string>
     <string name="firewall_restrict_wlan">Restringir uso de conexión Wi-Fi</string>
-    <string name="firewall_set_bg_firewall_default_dialog_summary">Si restringes las conexión en segundo plano, las nuevas aplicaciones no podrán conectarse a internet en segundo plano después de instalarlas. Después de esto podrían no recibir mensajes o no descargar contenido. ¿Restringir de todas formas?</string>
+    <string name="firewall_set_bg_firewall_default_dialog_summary">Si restringes las conexión en segundo plano, las nuevas aplicaciones no podrán conectarse a Internet en segundo plano después de instalarlas. Después de esto podrían no recibir mensajes o no descargar contenido. ¿Restringir de todas formas?</string>
     <string name="firewall_set_bg_firewall_default_dialog_title">Restringir la conexión en segundo plano para las nuevas aplicaciones</string>
     <string name="firewall_temp_rule_reason">%2$s restringió la conexión a Internet para %1$s</string>
     <string name="firewall_wifi">Wi-Fi</string>
-    <string name="firewall_wifi_dialog_message">La aplicación instalada no podrá conectarse a internet con Wi-Fi cuando este interruptor esté desactivado.</string>
+    <string name="firewall_wifi_dialog_message">La aplicación instalada no podrá conectarse a Internet con Wi-Fi cuando este interruptor esté desactivado.</string>
     <string name="firmware_version">Versión de Android</string>
     <string name="flash_drive_backup_disable">Conecte la unidad USB primero</string>
     <string name="flash_drive_backup_enable">Use una unidad USB para hacer una copia de seguridad o restaurar elementos</string>
@@ -2950,18 +2950,18 @@ No parecía que en aquel lugar hubiese caballos ni animales de ningún tipo, pue
     <string name="free_wifi_user_agreement_title">Aviso de privacidad</string>
     <string name="free_wifi_wiwide_provider">WiWide</string>
     <string name="free_xiaomi_wifi_connect_summary">Pulsa para conectarse a %1$s.</string>
-    <string name="freeform_guide_drop_down_to_fullscreen_summary">Mantén presionado y luego despliega la barra de acción de una ventana flotante</string>
+    <string name="freeform_guide_drop_down_to_fullscreen_summary">Mantén pulsado y luego despliega la barra de acción de una ventana flotante</string>
     <string name="freeform_guide_drop_down_to_fullscreen_title">Ver ventanas flotantes en modo de pantalla completa</string>
     <string name="freeform_guide_move_summary">Mantén presionada la barra de acción de una ventana flotante para arrastrar</string>
     <string name="freeform_guide_move_title">Mover ventanas flotantes</string>
     <string name="freeform_guide_move_to_small_freeform_window_summary">Arrastra la ventana flotante a la esquina de la pantalla</string>
     <string name="freeform_guide_move_to_small_freeform_window_title">Minimizar ventanas flotantes</string>
-    <string name="freeform_guide_notification_drop_down_summary">Mantén presionado y luego despliega la barra de acción de una notificación</string>
+    <string name="freeform_guide_notification_drop_down_summary">Mantén pulsado y luego despliega la barra de acción de una notificación</string>
     <string name="freeform_guide_notification_drop_down_title">Abrir ventanas flotantes</string>
     <string name="freeform_guide_settings">Ventana flotante</string>
     <string name="freeform_guide_slide_up_to_close_summary">Desliza hacia arriba desde la barra de acción de una ventana flotante</string>
     <string name="freeform_guide_slide_up_to_close_title">Cerrar ventanas flotantes</string>
-    <string name="freeform_vedio_description">"·Mantén presionado y luego despliega una notificación para abrirla en una ventana flotante.
+    <string name="freeform_vedio_description">"·Mantén pulsado y luego despliega una notificación para abrirla en una ventana flotante.
 ·Toca \"Ventanas flotantes\" en Recientes para seleccionar aplicaciones."</string>
     <string name="frequently_fragment_delete">Eliminar</string>
     <string name="frequently_fragment_tempty">Los elementos usados frecuentemente se mostrarán aquí</string>
@@ -2994,7 +2994,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
     <string name="gadget_toggle_wifi">Actualizando ajustes Wi-Fi</string>
     <string name="gadget_wifi">Wi-Fi</string>
     <string name="gallery_privacy_password_role_instruction">Tus fotos privadas se almacenarán aquí.</string>
-    <string name="game_booster">"Juego; Juegos; Turbo; Juegos; Modo de juego"</string>
+    <string name="game_booster">"Juego; Juegos; Turbo; Juegos; modo de juego"</string>
     <string name="game_booster_title">Game Turbo</string>
     <string name="game_controller_settings_category">Mandos de videojuegos</string>
     <string name="game_driver_all_apps_preference_title">Activar en todas las aplicaciones</string>
@@ -3088,11 +3088,11 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
     <string name="gxzw_quick_open_slow_summary">Mantén pulsado el icono de huella dactilar para abrir el menú de accesos directos. Desliza para usar un acceso directo.</string>
     <string name="gxzw_quick_open_slow_title">Mantén pulsado</string>
     <string name="gxzw_quick_open_title">Accesos directos</string>
-    <string name="handy_mode">Modo una mano</string>
-    <string name="handy_mode_enable">Modo una mano</string>
+    <string name="handy_mode">Modo a una mano</string>
+    <string name="handy_mode_enable">Modo a una mano</string>
     <string name="handy_mode_size">Tamaño de pantalla</string>
     <string name="handy_mode_tips">Desliza a la izquierda o a la derecha desde el botón Inicio para poner la pantalla más cerca de un lado.</string>
-    <string name="handy_mode_tips_full_screen">"Cuando estás utilizando gestos de pantalla completa, puedes activar el modo con una mano usando el Asistente táctil. También puede cambiar a usar botones en lugar de gestos de pantalla completa."</string>
+    <string name="handy_mode_tips_full_screen">"Cuando estás utilizando gestos a pantalla completa, puedes activar el modo con una mano usando la Bola flotante. También puedes cambiar a usar botones en lugar de gestos a pantalla completa."</string>
     <string name="haptic_feedback_enable_title">Vibrar al tocar</string>
     <string name="haptic_feedback_level">Vibración</string>
     <string name="haptic_feedback_progress">Nivel de retroalimentación háptica</string>
@@ -3524,7 +3524,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="launching_cit">Iniciando CIT</string>
     <string name="launching_pho">Iniciando la información del teléfono…</string>
     <string name="launching_rep">Notificando…</string>
-    <string name="layout_exhuge_font_take_effect_tips">"El tamaño del texto XXL solo funciona en Teléfono, Mensajería y Contactos"</string>
+    <string name="layout_exhuge_font_take_effect_tips">"El tamaño del texto XXL solo funciona en Teléfono, Mensajes y Contactos"</string>
     <string name="layout_exhuge_font_tips">"Más opciones están disponibles en %1$s"</string>
     <string name="layout_exhuge_font_tips_reg">"Accesibilidad&gt; Tamaño de la pantalla"</string>
     <string name="layout_size_exhuge">XXL</string>
@@ -3566,7 +3566,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="link_turbo_usage_state_month_total">Este mes</string>
     <string name="link_turbo_usage_state_today">Hoy</string>
     <string name="link_turbo_usage_state_today_total">Hoy</string>
-    <string name="list_bg_header_text">Si restringes las conexión en segundo plano, las nuevas aplicaciones no podrán conectarse a internet en segundo plano después de instalarlas. Después de esto podrían no recibir mensajes o no descargar contenido.</string>
+    <string name="list_bg_header_text">Si restringes las conexión en segundo plano, las nuevas aplicaciones no podrán conectarse a Internet en segundo plano después de instalarlas. Después de esto podrían no recibir mensajes o no descargar contenido.</string>
     <string name="list_empty_text">Vacío</string>
     <string name="live_caption_summary">Subtítulos automáticos de multimedia</string>
     <string name="live_caption_title">Subtítulos instantáneos</string>
@@ -3804,7 +3804,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="lockpassword_password_too_short">Debe tener al menos %d caracteres</string>
     <string name="lockpassword_pattern_set_toast">Patrón establecido</string>
     <string name="lockpassword_pin_blacklisted_by_admin">"Los PIN comunes están bloqueados por su administrador de TI. Pruebe un PIN diferente."</string>
-    <string name="lockpassword_pin_contains_non_digits">El PIN sólo puede contener números</string>
+    <string name="lockpassword_pin_contains_non_digits">El PIN solo puede contener números</string>
     <string name="lockpassword_pin_no_sequential_digits">No se permite utilizar una secuencia ascendente, descendente ni repetida de dígitos</string>
     <string name="lockpassword_pin_recently_used">El administrador del dispositivo no permite el desbloqueo PIN</string>
     <string name="lockpassword_pin_set_toast">PIN establecido</string>
@@ -3831,7 +3831,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="lockpattern_pattern_confirmed_header">Tu nuevo patrón de desbloqueo:</string>
     <string name="lockpattern_pattern_entered_header">Patrón guardado</string>
     <string name="lockpattern_pattern_same_with_others">Debe ser diferente a la contraseña de otro espacio</string>
-    <string name="lockpattern_pattern_same_with_owner">Debe ser diferente a la contraseña del primer espacio</string>
+    <string name="lockpattern_pattern_same_with_owner">Debe ser diferente a la contraseña del Primer espacio</string>
     <string name="lockpattern_pattern_same_with_security_space">Debe ser diferente a la contraseña del Segundo espacio</string>
     <string name="lockpattern_recording_incorrect_too_short">Une al menos %d puntos. Inténtalo de nuevo.</string>
     <string name="lockpattern_recording_inprogress">Retira el dedo al finalizar</string>
@@ -3876,14 +3876,14 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="login_account_dialog_title">Iniciar sesión en Cuenta Mi</string>
     <string name="login_account_summary">"Administre cuentas, servicios en la nube, pagos y más"</string>
     <string name="login_action">Iniciar sesión</string>
-    <string name="long_press_back_key">Pulsa y mantén el botón Atrás</string>
-    <string name="long_press_buttom_key">Pulsa y mantén Inicio en la pantalla de bloqueo</string>
-    <string name="long_press_home_key">Pulsa y mantén el botón de Inicio</string>
-    <string name="long_press_menu_key">Pulsa y mantén el botón Menú</string>
-    <string name="long_press_menu_key_when_lock">Pulsa y mantén Menú en la pantalla de bloqueo</string>
-    <string name="long_press_power_key">Mantenga presionado el botón de encendido</string>
-    <string name="long_press_power_key_half_of_second">Mantenga presionado el botón de Encendido durante 0.5s para activar el Asistente de Google</string>
-    <string name="long_press_power_key_tips">&lt;Data&gt;Mantenga presionado el botón de encendido &lt;font color=#999999&gt;Más rápido y más conveniente&lt;/font&gt;&lt;/Data&gt;</string>
+    <string name="long_press_back_key">Mantener pulsado el botón Atrás</string>
+    <string name="long_press_buttom_key">Mantener pulsado Inicio en la pantalla de bloqueo</string>
+    <string name="long_press_home_key">Mantener pulsado el botón de Inicio</string>
+    <string name="long_press_menu_key">Mantener pulsado el botón Menú</string>
+    <string name="long_press_menu_key_when_lock">Mantener pulsado Menú en la pantalla de bloqueo</string>
+    <string name="long_press_power_key">Mantener pulsado el botón de encendido</string>
+    <string name="long_press_power_key_half_of_second">Mantener pulsado el botón de Encendido durante 0.5s para activar el Asistente de Google</string>
+    <string name="long_press_power_key_tips"><Data>Mantener pulsado el botón de encendido <font color=#999999>Más rápido y conveniente</font></Data></string>
     <string name="long_press_volume_down">Pulsación larga del botón Bajar volumen</string>
     <string name="lost_internet_access_cancel">Mantener conexión Wi-Fi</string>
     <string name="lost_internet_access_persist">No volver a mostrar</string>
@@ -4109,11 +4109,11 @@ Continúe para acceder a ajustes adicionales."</string>
     <string name="miui_lab_gallery_search_desc">Búsqueda de imagen mejorada</string>
     <string name="miui_lab_gallery_search_title">Encontrar fotos en Galería</string>
     <string name="miui_lab_gesture_desc">"Usa gestos en lugar de botones para la navegación."</string>
-    <string name="miui_lab_gesture_title">"Gestos de pantalla completa"</string>
+    <string name="miui_lab_gesture_title">"Gestos a pantalla completa"</string>
     <string name="miui_lab_home_feed_desc">Ideas brillantes. Historias convincentes.</string>
     <string name="miui_lab_home_feed_title">Centro multimedia</string>
     <string name="miui_lab_install_drive_mode_error">"No se pudo instalar, inténtalo de nuevo."</string>
-    <string name="miui_lab_install_drive_mode_summary">"El modo coche es una aplicación de sistema. La instalación no requiere conexión a internet."</string>
+    <string name="miui_lab_install_drive_mode_summary">"El modo coche es una aplicación de sistema. La instalación no requiere conexión a Internet."</string>
     <string name="miui_lab_install_drive_mode_title">"Instalar el modo de coche"</string>
     <string name="miui_lab_settings">MIUI lab</string>
     <string name="miui_lab_slogan">Aprende. Explora. Descubre.</string>
@@ -4161,7 +4161,7 @@ Continúe para acceder a ajustes adicionales."</string>
     <string name="miui_sos_play_voice">Reproducir mensaje de SOS</string>
     <string name="miui_sos_remind_add">Añadir</string>
     <string name="miui_sos_remind_infocontent">"Te agregué como mi contacto de emergencia. Recibirás un mensaje con la información de mi ubicación en caso de que esté en peligro. [Mi Emergency SOS]"</string>
-    <string name="miui_sos_remind_open">SOS de emergencia necesita al menos 1 contacto de emergencia para trabajar normalmente.</string>
+    <string name="miui_sos_remind_open">SOS de emergencia necesita al menos 1 contacto de emergencia para funcionar correctamente.</string>
     <string name="miui_sos_remind_sendinfo">"No olvide decirles a estas personas que son sus contactos de emergencia ahora. Por lo tanto, podrán ayudarlo más rápido en caso de emergencia."</string>
     <string name="miui_sos_remind_sendnow">Enviar ahora</string>
     <string name="miui_sos_remind_title">Atención</string>
@@ -4214,7 +4214,7 @@ No se cancelará el servicio de %2$s."</string>
 
 Reinicia el dispositivo y vuelve a intentarlo."</string>
     <string name="mobile_network_erase_sim_error_dialog_title">No se puede borrar la SIM</string>
-    <string name="mobile_network_esim_swap_confirm_body">"Sólo una tarjeta SIM descargada puede estar activa a la vez.
+    <string name="mobile_network_esim_swap_confirm_body">"Solo una tarjeta SIM descargada puede estar activa a la vez.
 
 Cambiar a %1$s no cancelará tu servicio de %2$s."</string>
     <string name="mobile_network_esim_swap_confirm_ok">Cambiar a %1$s</string>
@@ -4419,7 +4419,7 @@ Selecciona tu sistema operativo:"</string>
     <string name="navigation_guide_appswitch_anim_summary">Desliza el dedo por la pantalla desde el borde para volver a la aplicación anterior</string>
     <string name="navigation_guide_appswitch_anim_title">Volver a la aplicación anterior</string>
     <string name="navigation_guide_appswitch_click">"Activar \"Volver a la aplicación anterior\" primero"</string>
-    <string name="navigation_guide_appswitch_summary">Desliza a izquierda o derecha desde el borde de la pantalla y mantén presionado por un momento</string>
+    <string name="navigation_guide_appswitch_summary">Desliza a izquierda o derecha desde el borde de la pantalla y mantén pulsado por un momento</string>
     <string name="navigation_guide_appswitch_title">Cambiar a la aplicación previa</string>
     <string name="navigation_guide_back_anim_summary">Mostrar animación mientras desliza el dedo desde el borde de la pantalla</string>
     <string name="navigation_guide_back_anim_title">Animar el gesto \"Volver atrás\"</string>
@@ -4432,7 +4432,7 @@ Selecciona tu sistema operativo:"</string>
     <string name="navigation_guide_dialog_title">Aprender gestos</string>
     <string name="navigation_guide_gesture_line_dialog_summary">Se usará un nuevo gesto para cambiar entre aplicaciones después de ocultar el indicador de pantalla completa. Aprende este gesto ahora?</string>
     <string name="navigation_guide_gesture_line_dialog_title">Aprende un nuevo gesto</string>
-    <string name="navigation_guide_hide_gesture_line_summary">"No mostrar el indicador de pantalla completa al usar gestos de pantalla completa"</string>
+    <string name="navigation_guide_hide_gesture_line_summary">"No mostrar el indicador de pantalla completa al usar gestos a pantalla completa"</string>
     <string name="navigation_guide_hide_gesture_line_title">Ocultar indicador de pantalla completa</string>
     <string name="navigation_guide_home_summary">Desliza hacia arriba desde la parte inferior de la pantalla</string>
     <string name="navigation_guide_home_title">Ir a la pantalla de inicio</string>
@@ -4446,7 +4446,7 @@ Selecciona tu sistema operativo:"</string>
     <string name="need_reboot_now">Reinicia para instalar la actualización.</string>
     <string name="netcheck_title">Diagnóstico de red</string>
     <string name="network_4G">4G (recomendado)</string>
-    <string name="network_alarm">"No silenciar las llamadas por internet"</string>
+    <string name="network_alarm">"No silenciar las llamadas por Internet"</string>
     <string name="network_alarm_summary">"Nota: Algunas aplicaciones no son compatibles con esta función. %1$s"</string>
     <string name="network_alarm_summary_reg">Ver aplicaciones compatibles</string>
     <string name="network_alarm_support_apps">Aplicaciones compatibles</string>
@@ -4506,8 +4506,6 @@ Selecciona tu sistema operativo:"</string>
     <string name="new_password_to_new_fingerprint_dialog_tittle">Añadir huella dactilar</string>
     <string name="next_button_label">Siguiente</string>
     <string name="next_label">Siguiente</string>
-    <string name="nfc_card_emulation">Emulación de tarjeta</string>
-    <string name="nfc_card_emulation_category_title">modo de emulación de tarjeta</string>
     <string name="nfc_category_title">NFC</string>
     <string name="nfc_disabled_summary">No disponible porque la función NFC está desactivada</string>
     <string name="nfc_disclaimer_content">La tecnología NFC permite intercambiar datos entre este dispositivo y otros dispositivos u objetivos cercanos, como terminales de pago, lectores de acceso y etiquetas o anuncios interactivos.</string>
@@ -4595,9 +4593,9 @@ Selecciona tu sistema operativo:"</string>
     <string name="night_light">Modo nocturno</string>
     <string name="night_light_brightness">Brillo del modo nocturno</string>
     <string name="night_light_color">Temperatura de color del modo nocturno</string>
-    <string name="night_light_color_tip">Los cambios tendrán efecto cuando el Modo lectura esté activo</string>
+    <string name="night_light_color_tip">Los cambios tendrán efecto cuando el modo lectura esté activo</string>
     <string name="night_light_summary">Para activar el modo nocturno, minimice el brillo de la pantalla en condiciones de poca luz.</string>
-    <string name="night_light_tip">Los cambios tendrán efecto cuando el Modo noche esté activo</string>
+    <string name="night_light_tip">Los cambios tendrán efecto cuando el modo noche esté activo</string>
     <string name="no">No</string>
     <string name="no_application">Nada</string>
     <string name="no_applications">No hay aplicaciones.</string>
@@ -4612,7 +4610,7 @@ Selecciona tu sistema operativo:"</string>
     <string name="no_default_home">No seleccionada</string>
     <string name="no_device_admins">No hay aplicaciones de administrador de dispositivos disponibles</string>
     <string name="no_internet_access_remember">No volver a preguntar por esta red</string>
-    <string name="no_internet_access_text">La red Wi-Fi %1$s no tiene acceso a internet. ¿Permanecer conectado?</string>
+    <string name="no_internet_access_text">La red Wi-Fi %1$s no tiene acceso a Internet. ¿Permanecer conectado?</string>
     <string name="no_media_button_receiver">No</string>
     <string name="no_memory_use_summary">No se ha usado memoria durante las últimas 3 horas</string>
     <string name="no_nearby_wifi">No hay redes disponibles</string>
@@ -4632,7 +4630,7 @@ Selecciona tu sistema operativo:"</string>
     <string name="none">Nada</string>
     <string name="normal">Normal</string>
     <string name="normal_bottom_height_of_keyboard">Normal</string>
-    <string name="normal_info">Todo funciona normalmente</string>
+    <string name="normal_info">Todos los sonidos funcionarán con normalidad</string>
     <string name="normal_smartcover_title">Fondo opaco</string>
     <string name="not_allowed">La tarjeta SIM no permite establecer conexión con esta red.</string>
     <string name="not_battery_optimizing">No se está utilizando la optimización de la batería</string>
@@ -4866,7 +4864,7 @@ También concede a la aplicación la capacidad de activar o desactivar el modo N
     <string name="overlay_option_device_default">Opción predeterminada del dispositivo</string>
     <string name="overlay_settings">Mostrar sobre otras aplicacioness</string>
     <string name="overlay_toast_failed_to_apply">No se ha podido crear la superposición</string>
-    <string name="owner_info_settings_edit_text_hint">Por ejemplo, Android de Juan</string>
+    <string name="owner_info_settings_edit_text_hint">Por ejemplo, Android de Juan.</string>
     <string name="owner_info_settings_summary">Ninguno</string>
     <string name="owner_info_settings_title">Firma de Pantalla de bloqueo</string>
     <string name="owner_space">Primer espacio</string>
@@ -4929,9 +4927,9 @@ También concede a la aplicación la capacidad de activar o desactivar el modo N
     <string name="page_layout_small_title">XS</string>
     <string name="page_tab_title_summary">Todo</string>
     <string name="page_tab_title_support">Ayuda</string>
-    <string name="paper_mode_auto_twilight_summary">Encender el Modo lectura automáticamente después del atardecer</string>
+    <string name="paper_mode_auto_twilight_summary">Encender el modo lectura automáticamente después del atardecer</string>
     <string name="paper_mode_auto_twilight_title">Lectura nocturna</string>
-    <string name="paper_mode_customize_time_summary">Encender Modo lectura para un horario personalizado</string>
+    <string name="paper_mode_customize_time_summary">Encender modo lectura para un horario personalizado</string>
     <string name="paper_mode_customize_time_title">Personalizar horario</string>
     <string name="paper_mode_end_time_title">Desactivar</string>
     <string name="paper_mode_get_location_dlg_msg">Se requiere acceso a tu ubicación para calcular las horas del amanecer y atardecer</string>
@@ -5047,11 +5045,11 @@ También concede a la aplicación la capacidad de activar o desactivar el modo N
     <string name="power_high_usage_title">"Alto uso"</string>
     <string name="power_idle">Teléfono inactivo</string>
     <string name="power_key_how_power_force_off">"Cómo forzar el reinicio de tu dispositivo"</string>
-    <string name="power_key_how_power_force_off_detail">"Mantenga presionado el botón de Encendido hasta que su dispositivo se reinicie"</string>
+    <string name="power_key_how_power_force_off_detail">"Mantenga pulsado el botón de Encendido hasta que su dispositivo se reinicie"</string>
     <string name="power_key_how_power_off">"Cómo abrir la página de cierre"</string>
-    <string name="power_key_how_power_off_detail">"Mantenga presionado el botón de encendido durante 3s"</string>
+    <string name="power_key_how_power_off_detail">"Mantenga pulsado el botón de encendido durante 3s"</string>
     <string name="power_key_how_start">"Cómo despertar a Google Assistant"</string>
-    <string name="power_key_how_start_detail">"Mantenga presionado el botón de Encendido durante 0,5 s. Suelte para hablar."</string>
+    <string name="power_key_how_start_detail">"Mantenga pulsado el botón de Encendido durante 0,5 s. Suelte para hablar."</string>
     <string name="power_key_start_enjoy">"Obtenga más información sobre el Asistente de Google"</string>
     <string name="power_key_start_guide">"Activación de Google Assistant con el botón de Encendido en dispositivos de pantalla completa"</string>
     <string name="power_label">"Poder"</string>
@@ -5233,7 +5231,7 @@ También concede a la aplicación la capacidad de activar o desactivar el modo N
     <string name="privacy_close_dlg_title">Atención</string>
     <string name="privacy_dashboard_summary">Permisos, actividad de la cuenta y datos personales</string>
     <string name="privacy_dashboard_title">Privacidad</string>
-    <string name="privacy_delete_space_dlg_message">Para cambiar la contraseña de tu Segundo Espacio, elimina tu Segundo espacio actual y crea uno nuevo.</string>
+    <string name="privacy_delete_space_dlg_message">Para cambiar la contraseña de tu Segundo espacio, elimina tu Segundo espacio actual y crea uno nuevo.</string>
     <string name="privacy_dlg_button_cancel">Cancelar</string>
     <string name="privacy_factory_reset_dlg_button_text">Reiniciar</string>
     <string name="privacy_factory_reset_dlg_message">Si olvidas tu contraseña, tendrás que restablecer a datos de fábrica para establecer una nueva.</string>
@@ -5362,7 +5360,7 @@ También concede a la aplicación la capacidad de activar o desactivar el modo N
     <string name="quick_settings_under_keyguard_title">Acceso a ajustes rápidos</string>
     <string name="quiet">No molestar</string>
     <string name="quiet_group">No molestar</string>
-    <string name="quiet_important_interruptions_mode">Sólo permitir excepciones</string>
+    <string name="quiet_important_interruptions_mode">Solo permitir excepciones</string>
     <string name="quiet_no_interruptions_mode">Silenciar todas las alertas</string>
     <string name="quiet_off_mode">Permitir siempre todas las alertas</string>
     <string name="radioInfo_cid">CID</string>
@@ -5389,7 +5387,7 @@ También concede a la aplicación la capacidad de activar o desactivar el modo N
     <string name="radioInfo_service_off">Señal móvil desactivada</string>
     <string name="radioInfo_service_out">Fuera de servicio</string>
     <string name="radioInfo_unknown">Desconocido</string>
-    <string name="radio_controls_summary">Administrar Wi-Fi, Bluetooth, Modo avión, Redes móviles y VPN</string>
+    <string name="radio_controls_summary">Administrar Wi-Fi, Bluetooth, modo avión, Redes móviles y VPN</string>
     <string name="radio_controls_title">Más</string>
     <string name="radio_info_asdiv_switch_label">Estado ASDiv:</string>
     <string name="radio_info_band_mode_label">Seleccionar banda de señal móvil</string>
@@ -5441,7 +5439,7 @@ Interfaz UT: %5$s"</string>
     <string name="radio_info_voice_network_type_label">Tipo de red de voz:</string>
     <string name="radio_off_during_emergency_call">No se puede desactivar la tarjeta SIM durante una llamada de emergencia.</string>
     <string name="raise_bottom_height_of_keyboard">Mejorado</string>
-    <string name="raise_bottom_height_of_keyboard_sub_title">Aparecerá una barra con accesos directos personalizables debajo del teclado si cambias al Modo mejorado</string>
+    <string name="raise_bottom_height_of_keyboard_sub_title">Aparecerá una barra con accesos directos personalizables debajo del teclado si cambias al modo mejorado</string>
     <string name="raise_bottom_height_of_keyboard_title">Ajusta el teclado al modo de pantalla completa</string>
     <string name="ram_total_size">Tamaño total de RAM</string>
     <string name="rank_title">Clasificaciones</string>
@@ -5482,7 +5480,7 @@ Interfaz UT: %5$s"</string>
     <string name="remove_managed_profile_label">Quitar perfil de trabajo</string>
     <string name="repeat">Repetir</string>
     <string name="repeat_call">Notificar llamadas repetidas</string>
-    <string name="repeat_call_info">Permitir sonido para llamadas repetidas durante 15 minutos en Silenciar</string>
+    <string name="repeat_call_info">Permitir sonido para llamadas repetidas durante 15 minutos en modo Silencio</string>
     <string name="repeat_title">Repetir</string>
     <string name="reset_aaid">Reiniciar Identificador de publicidad</string>
     <string name="reset_app_preferences">Restablecer ajustes de aplicaciones</string>
@@ -5645,7 +5643,7 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="screen_button_tips">Desliza hacia abajo para ocultar botones de pantalla</string>
     <string name="screen_cancel">"Cancelar"</string>
     <string name="screen_color_and_optimize">Colores y contraste</string>
-    <string name="screen_color_and_optimize_disabled">No se pudo ajustar la temperatura del color en el Modo lectura</string>
+    <string name="screen_color_and_optimize_disabled">No se pudo ajustar la temperatura del color en el modo lectura</string>
     <string name="screen_color_temperature">Colores</string>
     <string name="screen_color_temperature_and_saturation">Colores y saturación</string>
     <string name="screen_compatibility_label">Compatibilidad de la pantalla</string>
@@ -5692,27 +5690,27 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="screen_optimize_disabled">"No se puede ajustar el contraste cuando el modo de lectura está activado"</string>
     <string name="screen_paper_mode_adjust_level">Ajustar</string>
     <string name="screen_paper_mode_apps_loading">Un momento…</string>
-    <string name="screen_paper_mode_apps_title">Usar Modo lectura</string>
-    <string name="screen_paper_mode_global_summary">Utiliza el Modo de lectura para todas las aplicaciones</string>
+    <string name="screen_paper_mode_apps_title">Usar modo lectura</string>
+    <string name="screen_paper_mode_global_summary">Utiliza el modo de lectura para todas las aplicaciones</string>
     <string name="screen_paper_mode_global_title">Todas las aplicaciones</string>
-    <string name="screen_paper_mode_hdr_toast">El modo Lectura será desactivado mientras reproduces vídeos HDR. Se volverá a activar automáticamente después de que la reproducción haya terminado.</string>
+    <string name="screen_paper_mode_hdr_toast">El modo lectura será desactivado mientras reproduces vídeos HDR. Se volverá a activar automáticamente después de que la reproducción haya terminado.</string>
     <string name="screen_paper_mode_hdr_toast_new">"El modo de lectura se desactivará automáticamente durante la reproducción de video HDR y la verificación de huellas dactilares. Su dispositivo volverá al modo de lectura una vez que se completen estas acciones."</string>
-    <string name="screen_paper_mode_local_summary">Utilizar el Modo de lectura para las aplicaciones que selecciones</string>
+    <string name="screen_paper_mode_local_summary">Utilizar el modo de lectura para las aplicaciones que selecciones</string>
     <string name="screen_paper_mode_local_title">Aplicaciones seleccionadas</string>
-    <string name="screen_paper_mode_off_apps_title">No usar Modo lectura</string>
+    <string name="screen_paper_mode_off_apps_title">No usar modo lectura</string>
     <string name="screen_paper_mode_range_title">Ajustes</string>
-    <string name="screen_paper_mode_set_apps_title">Aplicaciones en Modo de lectura</string>
+    <string name="screen_paper_mode_set_apps_title">Aplicaciones en modo de lectura</string>
     <string name="screen_paper_mode_summary">El modo lectura hace que los colores de la pantalla sean más cálidos permitiendo a tus ojos relajarse.</string>
-    <string name="screen_paper_mode_time_summary">Programar el encendido/apagado del Modo lectura</string>
+    <string name="screen_paper_mode_time_summary">Programar el encendido/apagado del modo lectura</string>
     <string name="screen_paper_mode_time_title">Programar</string>
     <string name="screen_paper_mode_title">Modo lectura</string>
     <string name="screen_paper_mode_turn_off">Desactivado</string>
     <string name="screen_paper_mode_turn_on">Activado</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_again">No mostrar de nuevo</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Permitir</string>
-    <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Para actualizar la lista de aplicaciones que usan el Modo de lectura, debes estar conectado a internet.</string>
+    <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Para actualizar la lista de aplicaciones que usan el modo de lectura, debes estar conectado a Internet.</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Conexión a Internet</string>
-    <string name="screen_paper_mode_update_white_pkg_list_summary">Actualizar la lista de aplicaciones que usan el Modo lectura automáticamente</string>
+    <string name="screen_paper_mode_update_white_pkg_list_summary">Actualizar la lista de aplicaciones que usan el modo lectura automáticamente</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">Actualizar automáticamente</string>
     <string name="screen_pinning_description">"Si esta opción está activada, puedes utilizar el bloqueo de pantalla para mantener visible la pantalla actual hasta que dejes de fijarla.
 
@@ -5960,7 +5958,7 @@ Para ello, sigue estos pasos:
     <string name="search_ring_volume_option_title">Volumen;Volumen;Tono de llamada y notificaciones;Tono de llamada;Tonos de llamada;Alarma;Música</string>
     <string name="search_ringtone_title">Tono de llamada;tono de llamada;tonos de llamada</string>
     <string name="search_screen_effect">Colores y saturación;Colores y contraste;color;saturación de colores;contraste</string>
-    <string name="search_screen_key_long_press_timeout">Establecer tiempo de presionado largo;Presionar;Presionar y mantener</string>
+    <string name="search_screen_key_long_press_timeout">Establecer tiempo de pulsado largo;Presionar;Presionar y mantener</string>
     <string name="search_screen_on_proximity_sensor_title">Evitar llamadas en el bolsillo;Bolsillo;Marcación en el bolsillo;Llamadas en el bolsillo</string>
     <string name="search_screen_paper_mode_title">Modo lectura;modo lectura;lectura;luz azul;luz amarilla;modo noche</string>
     <string name="search_screen_saver_settings">Salvapantallas</string>
@@ -5995,7 +5993,7 @@ Para ello, sigue estos pasos:
     <string name="search_status_bar_settings_toggle_collapse_after_clicked">Cerrar al tocar;cerrar;ocultar</string>
     <string name="search_status_bar_settings_toggle_position">Cambiar posiciones;Interruptores;Cambiar;Cambiar interruptores</string>
     <string name="search_storage_settings">Limpiador;Limpiar caché;Caché</string>
-    <string name="search_sync_settings">Sincronizar;Automático;Sólo Wi-Fi</string>
+    <string name="search_sync_settings">Sincronizar;Automático;Solo Wi-Fi</string>
     <string name="search_system_app_settings">Aplicaciones del sistema</string>
     <string name="search_theme_settings_title">Temas;Tema;Personalización;Personalizar</string>
     <string name="search_touch_assistant">Bola flotante;Asistente táctil</string>
@@ -6029,7 +6027,7 @@ Para ello, sigue estos pasos:
     <string name="search_wifi_settings_title">Wifi;Wi-Fi;Ajustes avanzados;WLAN;Redes inalámbricas;Inalámbrico</string>
     <string name="search_wifi_tether_checkbox">Punto de acceso portátil;punto de acceso;portátil</string>
     <string name="search_wifi_tether_configure_ap_text">Establecer punto de acceso portátil;Establecer punto de acceso;Añadir punto de acceso;configurar punto de acceso</string>
-    <string name="search_wifi_tether_settings_title">Conexiones y punto de acceso portátil;Conectar;compartir internet;Punto de acceso WLAN;Punto de acceso Wifi;Punto de acceso Wi-Fi</string>
+    <string name="search_wifi_tether_settings_title">Conexiones y punto de acceso portátil;Conectar;compartir Internet;Punto de acceso WLAN;Punto de acceso Wifi;Punto de acceso Wi-Fi</string>
     <string name="search_wifi_wapi_cert_install">Instalar certificado WAPI;Certificados WAPI;WAPI</string>
     <string name="search_wifi_wapi_cert_uninstall">Desinstalar certificado WAPI;Certificados WAPI;WAPI</string>
     <string name="search_wps_connect_title">Botón WPS;Conectar WPS;WPS</string>
@@ -6322,16 +6320,16 @@ Nota: No puedes usar tu huella dactilar para desbloquear este dispositivo. Para 
     <string name="show_user_info_on_lockscreen_label">Mostrar info del usuario en la pantalla de bloqueo</string>
     <string name="show_wifi_name_title">"Mostrar WLAN"</string>
     <string name="shut_down_find_device_failure_confirm">Aceptar</string>
-    <string name="shut_down_find_device_network_failure_content">No se pudo desactivar Encontrar dispositivo. Asegúrate de que tu dispositivo tiene una conexión a internet.</string>
+    <string name="shut_down_find_device_network_failure_content">No se pudo desactivar Encontrar dispositivo. Asegúrate de que tu dispositivo tiene una conexión a Internet.</string>
     <string name="shut_down_find_device_network_failure_title">No es posible conectarse a la red</string>
     <string name="shuting_down_find_device">Desactivando Encontrar dispositivo…</string>
     <string name="silent_duration">Duración</string>
     <string name="silent_mode">Modo Silencio</string>
     <string name="silent_mode_title">Modo Silencio</string>
-    <string name="silent_off">Desactivar</string>
-    <string name="silent_settings">Silenciar/No molestar</string>
-    <string name="silent_standard">Silenciar</string>
-    <string name="silent_time">Duración del modo Silencioso</string>
+    <string name="silent_off">Desactivado</string>
+    <string name="silent_settings">Silencio/No molestar</string>
+    <string name="silent_standard">Silencio</string>
+    <string name="silent_time">Duración del modo Silencio</string>
     <string name="silent_total">No molestar</string>
     <string name="sim_bad_pin">El PIN debe contener de 4 a 8 números de longitud</string>
     <string name="sim_call_back_title">Volver a llamar desde SIM predeterminada</string>
@@ -6601,7 +6599,7 @@ Esto es posible por una credencial de confianza instalada en tu dispositivo."</s
     <string name="status_bar_settings_expand_top_notification">Expandir la notificación superior</string>
     <string name="status_bar_settings_expandable_under_keyguard">Mostrar en la pantalla de bloqueo</string>
     <string name="status_bar_settings_function_description">Sobre esta característica</string>
-    <string name="status_bar_settings_long_click_sort">Pulsa y mantén para acceder a un acceso rápido</string>
+    <string name="status_bar_settings_long_click_sort">Mantener pulsado para acceder a un acceso rápido</string>
     <string name="status_bar_settings_manage_notification">Notificaciones</string>
     <string name="status_bar_settings_no_carrier">Ninguno</string>
     <string name="status_bar_settings_notification_bar">Panel de notificaciones</string>
@@ -6679,7 +6677,7 @@ Esto es posible por una credencial de confianza instalada en tu dispositivo."</s
     <string name="status_wifi_mac_address">Dirección MAC de Wi-Fi</string>
     <string name="status_wimax_mac_address">Dirección MAC 4G</string>
     <string name="status_write_success">Operación realizada correctamente</string>
-    <string name="statusbar_permission_desc">Los siguientes permisos son sólo válidos para notificaciones importantes.</string>
+    <string name="statusbar_permission_desc">Los siguientes permisos son solo válidos para notificaciones importantes.</string>
     <string name="storage_detail_apps">Aplicaciones</string>
     <string name="storage_detail_audio">Audio</string>
     <string name="storage_detail_cached">Datos almacenados en caché</string>
@@ -6857,12 +6855,12 @@ Puedes seguir, pero puede que las aplicaciones movidas a esta ubicación no func
 
 Considera usar una ^1 para mejorar el rendimiento."</string>
     <string name="storage_wizard_slow_v2_body">"Aún puedes usar este ^1, pero puede ser lento. Las aplicaciones almacenadas en este ^2 pueden no funcionar correctamente y las transferencias de contenido pueden llevar mucho tiempo. Intente usar un ^ 3 más rápido, o use este ^ 4 para el almacenamiento portátil."</string>
-    <string name="storage_wizard_slow_v2_continue">"Continuar"</string>
-    <string name="storage_wizard_slow_v2_start_over">"Comenzar de nuevo"</string>
+    <string name="storage_wizard_slow_v2_continue">Continuar</string>
+    <string name="storage_wizard_slow_v2_start_over">Empezar de nuevo</string>
     <string name="storage_wizard_slow_v2_title">"Lento ^1"</string>
     <string name="storageuse_settings_summary">Ver almacenamiento usado por aplicaciones</string>
     <string name="storageuse_settings_title">Uso de almacenamiento</string>
-    <string name="strict_mode">Habilitado Modo estricto</string>
+    <string name="strict_mode">Habilitado modo estricto</string>
     <string name="strict_mode_summary">Mostrar pantalla si las apps tardan en la operación principal</string>
     <string name="strong_suppression_summary">Su dispositivo responderá menos al tacto accidental, algunos controles de gestos podrían no funcionar cerca de los bordes</string>
     <string name="strong_suppression_title">Área grande</string>
@@ -6918,7 +6916,7 @@ Considera usar una ^1 para mejorar el rendimiento."</string>
     <string name="sud_back_button_label">Atrás</string>
     <string name="sud_more_button_label">Más</string>
     <string name="sud_next_button_label">Siguiente</string>
-    <string name="suggest_unrestrict_max_aspect_ratio_title">Estas aplicaciones funcionarán mejor en Modo de pantalla completa</string>
+    <string name="suggest_unrestrict_max_aspect_ratio_title">Estas aplicaciones funcionarán mejor en modo de pantalla completa</string>
     <string name="suggested_fingerprint_lock_settings_summary">Desbloquear con tu huella dactilar</string>
     <string name="suggested_fingerprint_lock_settings_title">Utilizar huella dactilar</string>
     <string name="suggested_lock_settings_summary">Protege tu dispositivo</string>
@@ -7011,7 +7009,7 @@ Considera usar una ^1 para mejorar el rendimiento."</string>
 un servicio de Google que te permite sincronizar datos para que puedas acceder a tus contactos, a tus citas, etc., desde cualquier ubicación.""</string>
     <string name="sync_settings">Sincronizar</string>
     <string name="sync_wifi_label">Wi-Fi</string>
-    <string name="sync_wifi_only">Sólo Wi-Fi</string>
+    <string name="sync_wifi_only">Solo Wi-Fi</string>
     <string name="system">Sistema</string>
     <string name="system_alert_window_access_title">Mostrar sobre otras aplicaciones</string>
     <string name="system_alert_window_apps_title">Aplicaciones</string>
@@ -7101,7 +7099,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="theme_settings_title">Temas</string>
     <string name="thememanager_not_found">No se pudo abrir Temas. Asegúrate de que la aplicación está instalada.</string>
     <string name="three_gesture_down">Deslizar hacia abajo 3 dedos</string>
-    <string name="three_gesture_long_press">Mantenga presionado con %d dedos</string>
+    <string name="three_gesture_long_press">Mantener pulsado con %d dedos</string>
     <string name="time_format_category_title">Formato de hora</string>
     <string name="time_picker_title">Hora</string>
     <string name="time_spent_in_app_pref_title">"Tiempo empleado en la aplicación"</string>
@@ -7133,7 +7131,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="toggle_auto_speaker_preference_title">"Cambiar al altavoz automáticamente"</string>
     <string name="toggle_collapse_after_clicked_title">Cerrarse al tocar</string>
     <string name="total">No molestar</string>
-    <string name="total_info">Silenciar sonido y apagar vibración excepto para las alarmas</string>
+    <string name="total_info">Silenciar sonido y desactivar vibración excepto para las alarmas</string>
     <string name="total_info_no_vibrator">Silenciar sonidos excepto alarmas</string>
     <string name="total_info_sub">y desactivar la vibración</string>
     <string name="total_memory">Memoria total</string>
@@ -7212,7 +7210,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="tts_status_checking">Comprobando…</string>
     <string name="tts_status_not_supported">%1$s no compatible</string>
     <string name="tts_status_ok">%1$s es compatible</string>
-    <string name="tts_status_requires_network">%1$s requiere conexión a internet</string>
+    <string name="tts_status_requires_network">%1$s requiere conexión a Internet</string>
     <string name="tts_status_title">Estado del idioma por defecto</string>
     <string name="turn_off_common_password_confirm_msg">También se desactivará el bloqueo de pantalla.</string>
     <string name="turn_off_keyguard_password_alert_title">Desactivar</string>
@@ -7245,7 +7243,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="uninstall_device_admin">Desinstalar aplicación</string>
     <string name="uninstall_dlg_msg">Al desinstalar se eliminarán todos los datos de la aplicación.</string>
     <string name="uninstall_dlg_title">¿Desinstalar ahora?</string>
-    <string name="uninstall_protected_dlg_msg">Desinstalar aplicaciones del sistema puede causar que algunos componentes de MIUI no funcionen normalmente. ¿Desinstalar de todos modos?</string>
+    <string name="uninstall_protected_dlg_msg">Desinstalar aplicaciones del sistema puede causar que algunos componentes de MIUI no funcionen correctamente. ¿Desinstalar de todos modos?</string>
     <string name="uninstall_protected_dlg_title">Desinstalar aplicaciones del sistema</string>
     <string name="uninstall_text">Desinstalar</string>
     <string name="uninstall_with_xspace_app_dlg_msg">Las aplicaciones duales correspondientes se eliminarán junto a los datos de la app.</string>
@@ -7522,7 +7520,7 @@ Las huellas dactilares guardadas también se eliminarán del perfil y no podrás
     <string name="usb_tethering_button_text">Compartir por USB</string>
     <string name="usb_tethering_errored_subtext">Error al compartir por USB</string>
     <string name="usb_tethering_storage_active_subtext">No se puede hacer el anclaje a red si el almacenamiento USB está en uso</string>
-    <string name="usb_tethering_subtext">"Comparte la conexión a internet del teléfono a través de USB"</string>
+    <string name="usb_tethering_subtext">"Comparte la conexión a Internet del teléfono a través de USB"</string>
     <string name="usb_tethering_turnon_subtext">Conectar para activar</string>
     <string name="usb_tethering_unavailable_subtext">USB no conectado</string>
     <string name="usb_title">USB</string>
@@ -7716,7 +7714,7 @@ Toca en más para añadir palabras."</string>
     <string name="virus_scanner_select_OK">Aceptar</string>
     <string name="virus_scanner_select_lib">Seleccionar definiciones de virus</string>
     <string name="virus_scanner_select_multi">La selección de más de un conjunto de definiciones hará que se ralentice la instalación y el análisis</string>
-    <string name="virus_scanner_select_single">Usar sólo definiciones de fuentes fiables.</string>
+    <string name="virus_scanner_select_single">Usar solo definiciones de fuentes fiables.</string>
     <string name="virus_scanner_select_trust_lib">Seleccionar definiciones de virus</string>
     <string name="virus_scanner_title">Escáner de virus</string>
     <string name="virus_scanner_update_lib">Actualizar definiciones</string>
@@ -7995,7 +7993,7 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_ask_enable">%s quiere activar la conexión Wi-Fi</string>
     <string name="wifi_assist">Asistente Wi-Fi</string>
     <string name="wifi_assistant">Asistente Wi-Fi</string>
-    <string name="wifi_assistant_auto_confirm_data_message">Esta red Wi-Fi no tiene acceso a internet. Tu dispositivo usará datos móviles. Puedes desactivar el asistente Wi-Fi en Ajustes.</string>
+    <string name="wifi_assistant_auto_confirm_data_message">Esta red Wi-Fi no tiene acceso a Internet. Tu dispositivo usará datos móviles. Puedes desactivar el asistente Wi-Fi en Ajustes.</string>
     <string name="wifi_assistant_confirm_always">No mostrar de nuevo</string>
     <string name="wifi_assistant_confirm_connection_title">Confirmar</string>
     <string name="wifi_assistant_data_prompt">Mostrar alertas de uso de datos</string>
@@ -8004,9 +8002,9 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
 1. Cuando la conexión Wi-Fi es débil, el asistente intentará conectar tu dispositivo con otras redes Wi-Fi disponibles.
 2. Si todas las redes Wi-Fi disponibles son débiles y los datos móviles están activados, el asistente cambiará a datos móviles."</string>
     <string name="wifi_assistant_disconnect">Desconectar</string>
-    <string name="wifi_assistant_explicitly_confirm_data_message">Esta red no tiene acceso a internet. ¿Usar datos móviles?</string>
-    <string name="wifi_assistant_explicitly_confirm_disconnect">Esta red Wi-Fi no tiene acceso a internet. ¿Desconectar?</string>
-    <string name="wifi_assistant_explicitly_confirm_wifi_message">Esta red no tiene acceso a internet. Hay otras redes Wi-Fi disponibles. ¿Cambiar redes?</string>
+    <string name="wifi_assistant_explicitly_confirm_data_message">Esta red no tiene acceso a Internet. ¿Usar datos móviles?</string>
+    <string name="wifi_assistant_explicitly_confirm_disconnect">Esta red Wi-Fi no tiene acceso a Internet. ¿Desconectar?</string>
+    <string name="wifi_assistant_explicitly_confirm_wifi_message">Esta red no tiene acceso a Internet. Hay otras redes Wi-Fi disponibles. ¿Cambiar redes?</string>
     <string name="wifi_assistant_keep_connection">Permanecer conectado</string>
     <string name="wifi_assistant_off">Desactivado</string>
     <string name="wifi_assistant_ok">Aceptar</string>
@@ -8203,7 +8201,7 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_hotspot_configure_ap_text_summary">Punto de acceso AndroidAP WPA2 PSK</string>
     <string name="wifi_hotspot_connect">CONECTAR</string>
     <string name="wifi_hotspot_footer_info_local_only">"Las aplicaciones pueden crear un punto de acceso para compartir contenido con dispositivos cercanos."</string>
-    <string name="wifi_hotspot_footer_info_regular">"Use un punto de acceso para crear una red WLAN para sus otros dispositivos. Hotspot proporciona internet utilizando su conexión de datos móviles. Se pueden aplicar cargos adicionales por datos móviles."</string>
+    <string name="wifi_hotspot_footer_info_regular">"Use un punto de acceso para crear una red WLAN para sus otros dispositivos. Hotspot proporciona Internet utilizando su conexión de datos móviles. Se pueden aplicar cargos adicionales por datos móviles."</string>
     <string name="wifi_hotspot_message">%1$s requiere que inicies sesión para conectarte.</string>
     <string name="wifi_hotspot_name_summary_connected">"Otros dispositivos pueden conectarse a %1$s"</string>
     <string name="wifi_hotspot_name_summary_connecting">"Encendiendo %1$s ..."</string>
@@ -8263,7 +8261,7 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_no_cert_for_wapi">No se puede encontrar la certificación para el PA de conexión actual</string>
     <string name="wifi_no_domain_warning">Se debe especificar un dominio.</string>
     <string name="wifi_no_internet">No se puede conectar a Internet</string>
-    <string name="wifi_no_internet_no_reconnect">No se puede conectar a internet</string>
+    <string name="wifi_no_internet_no_reconnect">No se puede conectar a Internet</string>
     <string name="wifi_not_in_range">Fuera de alcance</string>
     <string name="wifi_not_in_range_message">La red está fuera de rango</string>
     <string name="wifi_notify_cmcc_connected_summary">Mostrar una notificación cuando se conecte a la red CMCC</string>
@@ -8272,7 +8270,7 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_notify_open_networks_summary">Recibir una notificación si hay una red pública de alta calidad disponible</string>
     <string name="wifi_off_airplane_on_cancel">Cancelar</string>
     <string name="wifi_off_airplane_on_confirm">Aceptar</string>
-    <string name="wifi_off_airplane_on_content">Puedes activar el Wi-Fi manualmente en el Modo avión.</string>
+    <string name="wifi_off_airplane_on_content">Puedes activar el Wi-Fi manualmente en el modo avión.</string>
     <string name="wifi_off_airplane_on_not_remind">No mostrar de nuevo</string>
     <string name="wifi_off_airplane_on_title">Atención</string>
     <string name="wifi_on_time">Tiempo de activación de la red Wi-Fi</string>
@@ -8296,7 +8294,7 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_p2p_wps_setup">Configuración WPS</string>
     <string name="wifi_password">Contraseña</string>
     <string name="wifi_poor_network_detection">Solo conexiones estables</string>
-    <string name="wifi_poor_network_detection_summary">No usar una red Wi-Fi a menos que tengas una buena conexión a internet</string>
+    <string name="wifi_poor_network_detection_summary">No usar una red Wi-Fi a menos que tengas una buena conexión a Internet</string>
     <string name="wifi_priority_changed" formatted="false">Valor antiguo %s | Nuevo valor %s</string>
     <string name="wifi_priority_label">Prioridad</string>
     <string name="wifi_priority_settings_label">Ajustes de prioridad</string>
@@ -8456,7 +8454,7 @@ Toca" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi."</string>
     <string name="wifi_state_label">Estado Wi-Fi:</string>
     <string name="wifi_status">Estado</string>
     <string name="wifi_status_mac_randomized">"MAC es aleatorio"</string>
-    <string name="wifi_status_no_internet">"Sin internet"</string>
+    <string name="wifi_status_no_internet">"Sin Internet"</string>
     <string name="wifi_status_sign_in_required">"Inicio de sesión requerido"</string>
     <string name="wifi_status_test">"Estado de WLAN"</string>
     <string name="wifi_stopping">Desactivando Wi-Fi…</string>

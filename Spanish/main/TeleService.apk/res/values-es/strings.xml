@@ -392,8 +392,8 @@ Frecuencia de muestreo"</string>
     <string name="call_recording_notification_toggle_title">Notificación de grabación de llamadas</string>
     <string name="call_recording_setting">Grabación de llamadas</string>
     <string name="call_settings">Ajustes de llamada</string>
-    <string name="call_settings_admin_user_only">Los ajustes de llamada sólo pueden ser modificados por el administrador.</string>
-    <string name="call_settings_primary_user_only">Los ajustes de llamadas sólo pueden ser modificados por el usuario principal.</string>
+    <string name="call_settings_admin_user_only">Los ajustes de llamada solo pueden ser modificados por el administrador.</string>
+    <string name="call_settings_primary_user_only">Los ajustes de llamadas solo pueden ser modificados por el usuario principal.</string>
     <string name="call_settings_title_font_family">sans-serif-light</string>
     <string name="call_settings_with_label">Ajustes (%s)</string>
     <string name="call_waiting_summary">Notificarme las demás llamadas entrantes durante una llamada</string>
@@ -738,7 +738,7 @@ Frecuencia de muestreo"</string>
     <string name="empty_networks_list">No se ha encontrado ninguna red.</string>
     <string name="enable">Activar</string>
     <string name="enable_adb">Depuración por USB</string>
-    <string name="enable_adb_summary">Activar el modo de depuración cuando el dispositivo esté conectado por USB</string>
+    <string name="enable_adb_summary">Activar el modo depuración cuando el dispositivo esté conectado por USB</string>
     <string name="enable_antispam_strange_summary">Silenciar el primer tono para las llamadas de números desconocidos</string>
     <string name="enable_antispam_strange_title">Silenciar primer tono</string>
     <string name="enable_disable_administrative">Servicios administrativos</string>
@@ -896,7 +896,7 @@ Póngase en contacto con su operador si el problema persiste."</string>
     <string name="international_disable">Noticias internacionales desactivadas</string>
     <string name="international_enable">Noticias internacionales activadas</string>
     <string name="international_roaming_setting">Itinerancia de datos</string>
-    <string name="internet_phone">Llamada a través de internet</string>
+    <string name="internet_phone">Llamada a través de Internet</string>
     <string name="invalidPin">Introduce un PIN que contenga de 4 a 8 dígitos.</string>
     <string name="invalidPin2">Introduce un PIN2 que contenga de 4 a 8 dígitos.</string>
     <string name="invalidPuk2">Introduce un PUK2 que contenga 8 dígitos.</string>
@@ -1110,7 +1110,7 @@ Póngase en contacto con su operador si el problema persiste."</string>
     <string name="msim_sim_lock">Bloqueado</string>
     <string name="msim_sim_radio_off">Desactivar</string>
     <string name="msim_switch_data_conn_toast">Tarjetas SIM intercambiadas. El tipo de red ha cambiado. Ver información adicional en tarjetas SIM y redes móviles en el menú Ajustes.</string>
-    <string name="msim_switch_data_conn_toast_for_h2xct">La ranura 2 de la SIM sólo soporta redes GSM. El tipo de red preferida ha sido cambiado a sólo redes 2G.</string>
+    <string name="msim_switch_data_conn_toast_for_h2xct">La ranura 2 de la SIM solo soporta redes GSM. El tipo de red preferida ha sido cambiado a solo redes 2G.</string>
     <string name="multi_category_disable">Categoría múltiple desactivada</string>
     <string name="multi_category_enable">Categoría múltiple activada</string>
     <string name="name">Nombre</string>
@@ -1145,7 +1145,7 @@ Póngase en contacto con su operador si el problema persiste."</string>
 Se usarán las redes preferidas en su lugar."</string>
     <string name="network_settings_title">Redes móviles</string>
     <string name="network_settings_turn_off">Desactivada</string>
-    <string name="network_settings_warn_message">Tu dispositivo sólo se conectará a las redes que selecciones manualmente.</string>
+    <string name="network_settings_warn_message">Tu dispositivo solo se conectará a las redes que selecciones manualmente.</string>
     <string name="network_type_3g_preferred_cmcc">3G/2G</string>
     <string name="network_type_4g_preferred_cmcc">4G/3G/2G</string>
     <string name="network_unlock">Desbloquear</string>
@@ -1377,12 +1377,12 @@ Su teléfono se bloqueará automáticamente después de otro intento fallido"</s
     <string name="preference_telocation_title">Ubicación</string>
     <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Modo de red preferido: CDMA/EvDo/GSM/WCDMA</string>
     <string name="preferred_network_mode_cdma_evdo_summary">Modo de red preferido: CDMA / EvDo</string>
-    <string name="preferred_network_mode_cdma_only_summary">Modo de red preferido: sólo CDMA</string>
+    <string name="preferred_network_mode_cdma_only_summary">Modo de red preferido: solo CDMA</string>
     <string name="preferred_network_mode_cdma_summary">Modo de red preferido: CDMA</string>
     <string name="preferred_network_mode_dialogtitle">Tipo de red preferida</string>
-    <string name="preferred_network_mode_evdo_only_summary">Modo de red preferido: sólo EvDo</string>
+    <string name="preferred_network_mode_evdo_only_summary">Modo de red preferido: solo EvDo</string>
     <string name="preferred_network_mode_global_summary">Modo de red preferido: Global</string>
-    <string name="preferred_network_mode_gsm_only_summary">Modo de red preferido: sólo GSM</string>
+    <string name="preferred_network_mode_gsm_only_summary">Modo de red preferido: solo GSM</string>
     <string name="preferred_network_mode_gsm_wcdma_summary">Modo de red preferido: GSM / WCDMA</string>
     <string name="preferred_network_mode_lte_cdma_evdo_summary">Modo de red preferido: CDMA+LTE/EVDO</string>
     <string name="preferred_network_mode_lte_cdma_summary">Modo de red preferido: LTE / CDMA</string>
@@ -1402,7 +1402,7 @@ Su teléfono se bloqueará automáticamente después de otro intento fallido"</s
     <string name="preferred_network_mode_tdscdma_summary">Modo de red preferido: TDSCDMA</string>
     <string name="preferred_network_mode_tdscdma_wcdma_summary">Modo de red preferido: TD-SCDMA o WCDMA</string>
     <string name="preferred_network_mode_title">Tipo de red preferida</string>
-    <string name="preferred_network_mode_wcdma_only_summary">Modo de red preferido: sólo WCDMA</string>
+    <string name="preferred_network_mode_wcdma_only_summary">Modo de red preferido: solo WCDMA</string>
     <string name="preferred_network_mode_wcdma_perf_summary">Modo de red preferido: priorizar WCDMA</string>
     <string name="preferred_network_restrict_network_changed_incall">No se puede cambiar el tipo de red durante la llamada</string>
     <string name="preferred_network_type_3g_only_warning">Su tarjeta SIM debe soportar 3G para conectarse a la red.</string>
@@ -1416,9 +1416,9 @@ Su teléfono se bloqueará automáticamente después de otro intento fallido"</s
     <string name="preferred_network_type_pref_entries_5g_preferred">Preferir 5G</string>
     <string name="preferred_network_type_pref_entries_auto">Automático</string>
     <string name="preferred_network_type_pref_entries_global">Global</string>
-    <string name="preferred_network_type_pref_entries_only_2g">Sólo 2G (ahorra batería)</string>
+    <string name="preferred_network_type_pref_entries_only_2g">Solo 2G</string>
     <string name="preferred_network_type_pref_entries_only_2g_lm_cr">Solo GSM</string>
-    <string name="preferred_network_type_pref_entries_only_3g">Sólo 3G</string>
+    <string name="preferred_network_type_pref_entries_only_3g">Solo 3G</string>
     <string name="preferred_network_type_pref_entries_only_3g_lm_cr">Solo WCDMA</string>
     <string name="preferred_network_type_title">Tipo de red preferida</string>
     <string name="preferred_phone_account">Cuenta de llamada preferida</string>
@@ -1565,7 +1565,7 @@ Su tarjeta SIM se bloqueará tras otro intento fallido."</string>
     <string name="show_screen_updates_summary">Actualizar superficies de ventana al actualizarse</string>
     <string name="show_touches">Mostrar toques</string>
     <string name="show_touches_summary">Mostrar la ubicación de los toques en la pantalla</string>
-    <string name="simContacts_airplaneMode">Desactiva el Modo avión para importar contactos desde la tarjeta SIM.</string>
+    <string name="simContacts_airplaneMode">Desactiva el modo avión para importar contactos desde la tarjeta SIM.</string>
     <string name="simContacts_empty">No hay contactos en su tarjeta SIM.</string>
     <string name="simContacts_emptyLoading">Leyendo desde la tarjeta SIM…</string>
     <string name="simContacts_title">Selecciona contactos para importar</string>
@@ -1577,7 +1577,7 @@ Su tarjeta SIM se bloqueará tras otro intento fallido."</string>
     <string name="sim_contact_name">Nombre</string>
     <string name="sim_contact_number">Número</string>
     <string name="sim_description_default">Tarjeta SIM, ranura: %s</string>
-    <string name="sim_description_emergency_calls">Sólo llamadas de emergencia</string>
+    <string name="sim_description_emergency_calls">Solo llamadas de emergencia</string>
     <string name="sim_label_emergency_calls">Llamadas de emergencia</string>
     <string name="sim_me_lock_disabled">Bloqueo SIM desactivado.</string>
     <string name="sim_ndp_dismiss_text">Descartar</string>
@@ -1594,7 +1594,7 @@ Su tarjeta SIM se bloqueará tras otro intento fallido."</string>
     <string name="sip_account_list">Cuentas SIP</string>
     <string name="sip_accounts">Cuentas SIP</string>
     <string name="sip_accounts_title">Cuentas</string>
-    <string name="sip_add_account_tip_text">Para llamar a través de internet, añada una cuenta SIP</string>
+    <string name="sip_add_account_tip_text">Para llamar a través de Internet, añada una cuenta SIP</string>
     <string name="sip_always_send_keepalive">Enviar siempre</string>
     <string name="sip_call_options_entry_1">Para todas las llamadas cuando haya redes de datos disponibles</string>
     <string name="sip_call_options_entry_2">Solo para llamadas SIP</string>

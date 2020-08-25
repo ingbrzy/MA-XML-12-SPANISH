@@ -139,7 +139,7 @@
     <string name="tethering_settings_not_available">La configuración de la conexión no está disponible para este usuario.</string>
     <string name="apn_settings_not_available">La configuración del nombre de punto de acceso no está disponible para este usuario.</string>
     <string name="enable_adb">Depuración por USB</string>
-    <string name="enable_adb_summary">Modo de depuración cuando se conecta el USB</string>
+    <string name="enable_adb_summary">Modo depuración cuando se conecte el USB</string>
     <string name="clear_adb_keys">Revocar autorizaciones de depur. USB</string>
     <string name="bugreport_in_power">Acceso directo para informes de errores</string>
     <string name="bugreport_in_power_summary">Mostrar un botón en el menú de encendido para realizar un informe de errores</string>
@@ -296,7 +296,7 @@ Calidad de reproducción"</string>
     <string name="convert_to_fbe_warning">"Convierte la partición de datos en una encriptación basada en archivos.
  Advertencia: Esta acción borrará todos los datos.
  Esta función se encuentra en fase Alfa y es posible que no funcione correctamente.
- Para continuar, presiona la opción para borrar y convertir."</string>
+ Para continuar, pulsa la opción para borrar y convertir."</string>
     <string name="button_convert_fbe">Borrar y convertir…</string>
     <string name="picture_color_mode">Modo de color de la imagen</string>
     <string name="picture_color_mode_desc">Usa sRGB</string>
@@ -628,7 +628,7 @@ Calidad de reproducción"</string>
     <string name="sum_cfnrc_disabled">Desactivado</string>
     <string name="disable_cfnrc_forbidden">Su operador no permite desactivar el desvío de llamadas cuando no se puede conectar con su teléfono.</string>
     <string name="updating_title">Ajustes de llamadas</string>
-    <string name="call_settings_admin_user_only">Los ajustes de llamadas sólo pueden ser modificados por el administrador.</string>
+    <string name="call_settings_admin_user_only">Los ajustes de llamadas solo pueden ser modificados por el administrador.</string>
     <string name="call_settings_with_label">Ajustes (%s)</string>
     <string name="error_updating_title">Error de configuración de llamada</string>
     <string name="reading_settings">Leyendo configuración…</string>
@@ -684,13 +684,13 @@ Contacte con su operador si el problema persiste."</string>
     <string name="preferred_network_mode_dialogtitle">Tipo de red preferido</string>
     <string name="forbidden_network">(Restringido)</string>
     <string name="preferred_network_mode_wcdma_perf_summary">Modo de red preferido: priorizar WCDMA</string>
-    <string name="preferred_network_mode_gsm_only_summary">Modo de red preferido: sólo GSM</string>
-    <string name="preferred_network_mode_wcdma_only_summary">Modo de red preferido: sólo WCDMA</string>
+    <string name="preferred_network_mode_gsm_only_summary">Modo de red preferido: solo GSM</string>
+    <string name="preferred_network_mode_wcdma_only_summary">Modo de red preferido: solo WCDMA</string>
     <string name="preferred_network_mode_gsm_wcdma_summary">Modo de red preferido: GSM/WCDMA</string>
     <string name="preferred_network_mode_cdma_summary">Modo de red preferido: CDMA</string>
     <string name="preferred_network_mode_cdma_evdo_summary">Modo de red preferido: CDMA/EvDo</string>
-    <string name="preferred_network_mode_cdma_only_summary">Modo de red preferido: sólo CDMA</string>
-    <string name="preferred_network_mode_evdo_only_summary">Modo de red preferido: sólo EvDo</string>
+    <string name="preferred_network_mode_cdma_only_summary">Modo de red preferido: solo CDMA</string>
+    <string name="preferred_network_mode_evdo_only_summary">Modo de red preferido: solo EvDo</string>
     <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Modo de red preferido: CDMA/EvDo/GSM/WCDMA</string>
     <string name="preferred_network_mode_lte_summary">Modo de red preferido: LTE</string>
     <string name="preferred_network_mode_lte_gsm_wcdma_summary">Modo de red preferido: GSM/WCDMA/LTE</string>
@@ -1052,7 +1052,7 @@ Inténtelo de nuevo o póngase en contacto con el servicio de atención al clien
     <string name="enable_video_calling_dialog_settings">Configuración de red</string>
     <string name="enable_video_calling_dialog_close">Cerrar</string>
     <string name="sim_label_emergency_calls">Llamadas de emergencia</string>
-    <string name="sim_description_emergency_calls">Sólo llamadas de emergencia</string>
+    <string name="sim_description_emergency_calls">Solo llamadas de emergencia</string>
     <string name="sim_description_default">Tarjeta SIM, ranura: %s</string>
     <string name="accessibility_settings_activity_title">Accesibilidad</string>
     <string name="status_hint_label_incoming_wifi_call">Llamada Wi-Fi de</string>
@@ -1230,9 +1230,9 @@ Se usarán las redes preferidas en su lugar."</string>
     <string name="auto_answer_delay_entries_delay_10s">10 segundos</string>
     <string name="auto_answer_scenario_title">Ajustes de contestado automático</string>
     <string name="auto_answer_scenario_enteries_always">Siempre</string>
-    <string name="auto_answer_scenario_enteries_headset_only">Sólo auriculares</string>
-    <string name="auto_answer_scenario_enteries_bluetooth_only">Sólo Bluetooth</string>
-    <string name="auto_answer_scenario_enteries_headset_bluetooth">Auriculares o sólo Bluetooth</string>
+    <string name="auto_answer_scenario_enteries_headset_only">Solo auriculares</string>
+    <string name="auto_answer_scenario_enteries_bluetooth_only">Solo Bluetooth</string>
+    <string name="auto_answer_scenario_enteries_headset_bluetooth">Auriculares o solo Bluetooth</string>
     <string name="auto_answer_summary_not_enabled">Desactivado</string>
     <string name="answer_state_setting_title">Configuración de llamada entrante</string>
     <string name="answer_state_setting_summary">Otras opciones de llamada entrante</string>
@@ -1366,7 +1366,7 @@ Se usarán las redes preferidas en su lugar."</string>
     <string name="msim_not_set_summary">No configurado</string>
     <string name="msim_select_default_time_left">(%d s)</string>
     <string name="msim_switch_data_conn_toast">Tarjetas SIM intercambiadas. El tipo de red ha cambiado. Vea la info adicional en tarjetas SIM y redes móviles en el menú Configuración.</string>
-    <string name="msim_switch_data_conn_toast_for_h2xct">La ranura 2 de la SIM sólo admite redes GSM. El tipo de red preferida para esta ranura ha sido cambiado a solo redes 2G.</string>
+    <string name="msim_switch_data_conn_toast_for_h2xct">La ranura 2 de la SIM solo admite redes GSM. El tipo de red preferida para esta ranura ha sido cambiado a solo redes 2G.</string>
     <string name="msim_disable_sim_card_title">Dejar de usar la tarjeta SIM</string>
     <string name="msim_disable_sim_card_summary_non_default_card">Es posible que no pueda realizar llamadas o utilizar su conexión de datos móviles. ¿Dejar de usar %s la tarjeta SIM?</string>
     <string name="msim_disable_sim_card_summary_default_card">Esta tarjeta está actualmente establecida como SIM predeterminada. Si deja de usarla, no podrá realizar llamadas ni utilizar su conexión de datos móviles. Puede detener esta tarjeta SIM después de establecer otra SIM como tarjeta predeterminada.</string>
@@ -1403,8 +1403,8 @@ Se usarán las redes preferidas en su lugar."</string>
     <string name="telocation_number_type_tel">Teléfono fijo</string>
     <string name="telocation_countrycode_alert_message">Introduzca el número de teléfono sin el código de país</string>
     <string name="telocation_confim_delete_title">¿Eliminar este mensaje?</string>
-    <string name="telocation_error_message_number">%s sólo admite números</string>
-    <string name="telocation_jituan_error_message_number">%s sólo admite números y carácteres comodín</string>
+    <string name="telocation_error_message_number">%s solo admite números</string>
+    <string name="telocation_jituan_error_message_number">%s solo admite números y carácteres comodín</string>
     <string name="telocation_country_code_enabled_title">Agregar prefijos de país al marcar</string>
     <string name="telocation_country_code_enabled_message">Agregar prefijos de país es conveniente para realizar llamadas en roaming.</string>
     <string name="voip_setting">Configuración VoIP</string>
@@ -1418,7 +1418,7 @@ Se usarán las redes preferidas en su lugar."</string>
     <string name="respond_via_sms_edittext_dialog_title">Respuesta rápida</string>
     <string name="respond_via_sms_menu_reset_default_activity">Restablecer valores predeterminados</string>
     <string name="respond_via_sms_confirmation_format">Mensaje enviado a %s.</string>
-    <string name="sip_add_account_tip_text">Para usar llamadas por internet, agregue una cuenta SIP</string>
+    <string name="sip_add_account_tip_text">Para usar llamadas por Internet, agregue una cuenta SIP</string>
     <string name="callwait_open_hint">La función de llamada en espera la facilita su operador. Si recibe un aviso de error, contacte con su operador para asegurarse de que admita esta función.</string>
     <string name="open_miui">Abrir</string>
     <string name="preferred_network_restrict_network_changed_incall">No se puede cambiar el tipo de red durante la llamada</string>
@@ -1582,7 +1582,7 @@ Las funciones relacionadas con el PIN2 se bloquearán después de otro intento f
     <string name="prompt_when_turnon_volte_without_lte">No hay redes VoLTE disponibles. Activar VoLTE podría evitar que pueda realizar llamadas regulares.</string>
     <string name="prompt_when_turnon_volte_on_3g_prefered">Seleccione LTE como su tipo de red principal antes de activar VoLTE.</string>
     <string name="prompt_to_turnoff_volte_when_failed">Los servicios VoLTE no están disponibles. Desactive VoLTE para realizar una llamada.</string>
-    <string name="volte_tips_when_turn_on">Los servicios VoLTE de China Telecom sólo están disponibles en áreas con cobertura VoLTE. Los servicios VoLTE son proporcionados por su operador.</string>
+    <string name="volte_tips_when_turn_on">Los servicios VoLTE de China Telecom solo están disponibles en áreas con cobertura VoLTE. Los servicios VoLTE son proporcionados por su operador.</string>
     <string name="close">Desactivar</string>
     <string name="prompt_to_turnoff_volte_when_supp_service">Servicio no disponible. Desactive VoLTE en Ajustes.</string>
     <string name="prefered_network_type_3g_promp">Debe desactivar VoLTE antes de seleccionar 3G como su tipo de red principal. ¿Desactivar ahora?</string>

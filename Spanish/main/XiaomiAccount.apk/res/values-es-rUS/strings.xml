@@ -206,7 +206,7 @@
     <string name="passport_get_innetdate_msg">&lt;font color=Red>Parece ser que&lt;/font>el número %s ha sido reciclado por su operador. ¿Verificar cuándo el número estuvo en línea?</string>
     <string name="passport_get_innetdate_agree">Verificar</string>
     <string name="passport_get_innetdate_disagree">No</string>
-    <string name="passport_extra_gdpr_license">Al crear Cuenta Mi, usted está de acuerdo con que Xiaomi recolecte, procese y utilice su información personal, incluyendo la información de verificación (códigos de verificación), información del Segundo Espacio (información sobre cómo utiliza el Segundo Espacio, identificaciones utilizadas en el Primer y Segundo Espacio), y otra información especificada en nuestra Política de Privacidad. Vaya a nuestra Política de Privacidad para aprender más sobre cómo procesamos y utilizamos su información personal.</string>
+    <string name="passport_extra_gdpr_license">Al crear Cuenta Mi, usted está de acuerdo con que Xiaomi recolecte, procese y utilice su información personal, incluyendo la información de verificación (códigos de verificación), información del Segundo espacio (información sobre cómo utiliza el Segundo espacio, identificaciones utilizadas en el Primer y Segundo espacio), y otra información especificada en nuestra Política de Privacidad. Vaya a nuestra Política de Privacidad para aprender más sobre cómo procesamos y utilizamos su información personal.</string>
     <string name="passport_talkback_image_captcha">Código de imagen de verificación</string>
     <string name="passport_talkback_voice_captcha">Reproducir código de verificación de voz</string>
     <string name="passport_talkback_switch_voice_captcha">Cambiar a código de verificación de voz</string>
@@ -400,8 +400,8 @@
     <string name="login_check_find_device_failed_title">No se pudo comprobar la información de seguridad del dispositivo</string>
     <string name="notify_network_restricted_title">Cuenta Mi no se pudo conectar a la red</string>
     <string name="notify_network_restricted_content_hidden_state">La actividad de la Cuenta Mi está restringida a segundo plano. Toca para permitir.</string>
-    <string name="notify_network_restricted_content_bg_network">El acceso a internet por parte de la Cuenta Mi está restringida. Toca para permitir.</string>
-    <string name="notify_network_restricted_content_mobile_network">El acceso a internet por parte de la Cuenta Mi está restringida. Toca para permitir.</string>
+    <string name="notify_network_restricted_content_bg_network">El acceso a Internet por parte de la Cuenta Mi está restringida. Toca para permitir.</string>
+    <string name="notify_network_restricted_content_mobile_network">El acceso a Internet por parte de la Cuenta Mi está restringida. Toca para permitir.</string>
     <string name="login_guard_prompt">Requerir número de verificación de teléfono al iniciar sesión de Cuenta Mi por primera vez en un dispositivo o app desconocidos.</string>
     <string name="verified_devices">Dispositivos verificados</string>
     <string name="verified_apps">Apps verificadas</string>
@@ -491,7 +491,7 @@ ID de su cuenta: %s"</string>
      <string name="collect_diagnosis_log">Generar registro de diagnóstico</string>
      <string name="com_facebook_device_auth_instructions">Visite &lt;b&gt;facebook.com/device&lt;/b&gt; e ingrese el código que se muestra arriba.</string>
      <string name="com_facebook_image_download_unknown_error">Error inesperado al descargar la imagen.</string>
-     <string name="com_facebook_internet_permission_error_message">WebView requiere permiso de INTERNET</string>
+     <string name="com_facebook_internet_permission_error_message">WebView requiere permiso de Internet</string>
      <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
      <string name="com_facebook_like_button_liked">Liked</string>
      <string name="com_facebook_like_button_not_liked">Like</string>
