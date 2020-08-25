@@ -1151,6 +1151,7 @@ Esto es lo que podría estar mal:
     <string name="bluetooth_opp_profile_summary_not_connected">No conectado al servidor de transferencia de archivos</string>
     <string name="bluetooth_opp_profile_summary_use_for">Usar para transferir archivos</string>
     <string name="bluetooth_paired_device_title">"Tus dispositivos"</string>
+    <string name="bluetooth_paired">Guardado</string>
     <string name="bluetooth_pairing">Vinculando…</string>
     <string name="bluetooth_pairing_accept">Emparejar</string>
     <string name="bluetooth_pairing_accept_all_caps">EMPAREJAR</string>
@@ -3224,7 +3225,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="imei_multi_sim">"IMEI (slot sim %1$d )"</string>
     <string name="immediately_destroy_activities">No mantener actividades</string>
     <string name="immediately_destroy_activities_summary">Cerrar todas las actividades al salir el usuario de ellas</string>
-    <string name="importance_default">Predeterminado</string>
+    <string name="importance_default">Predeterminada</string>
     <string name="importance_high">Alta</string>
     <string name="importance_low">Baja</string>
     <string name="importance_min">Mínima</string>
@@ -7993,7 +7994,8 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_ask_enable">%s quiere activar la conexión Wi-Fi</string>
     <string name="wifi_assist">Asistente Wi-Fi</string>
     <string name="wifi_assistant">Asistente Wi-Fi</string>
-    <string name="wifi_assistant_auto_confirm_data_message">Esta red Wi-Fi no tiene acceso a Internet. Tu dispositivo usará datos móviles. Puedes desactivar el asistente Wi-Fi en Ajustes.</string>
+    <string name="wifi_assistant_auto_confirm_data_help">Puedes desactivar esta función en Ajustes &gt; Wi-Fi &gt; Asistente Wi-Fi.</string>
+    <string name="wifi_assistant_auto_confirm_data_message">"Usa redes móviles cuando tu dispositivo no pueda conectarse a Internet a través de Wi-Fi".</string>
     <string name="wifi_assistant_confirm_always">No mostrar de nuevo</string>
     <string name="wifi_assistant_confirm_connection_title">Confirmar</string>
     <string name="wifi_assistant_data_prompt">Mostrar alertas de uso de datos</string>

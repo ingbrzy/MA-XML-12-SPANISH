@@ -140,7 +140,9 @@
     <string name="license_host_unreachable">No se puede conectar a la red. Para ver esta información ahora, ve a %s.</string>
     <string name="loading">Un momento…</string>
     <string name="master_alert_notif_content">No se pudo sincronizar</string>
-    <string name="master_alert_notif_title">Activar la sincronización con Xiaomi Cloud</string>
+    <string name="low_battery_locate_summary">Enviar automáticamente información de ubicación cuando haya poca batería</string>
+     <string name="low_battery_locate_title">Enviar ubicación cuando haya poca batería</string>
+    <string name="master_alert_notif_title">Activar Xiaomi Cloud</string>
     <string name="member_entrance_normal_title">Cambiar plan de Xiaomi Cloud</string>
     <string name="member_entrance_title_free_high_case_a">Obtener más espacio</string>
     <string name="member_entrance_title_free_high_case_b">Actualizar plan de Xiaomi Cloud</string>
@@ -484,6 +486,9 @@ Esta característica cifra y envía el ID de tu dispositivo a los servidores Mi.
     <string name="picker_list_empty">No hay contactos aquí</string>
     <string name="picker_search_empty">"No se encontraron contactos"</string>
     <string name="picker_search_hint">Buscar</string>
+    <string name="power_off_locate_summary">"Enviar ubicación presionando prolongadamente el botón de encendido.
+Es posible que la información de ubicación no se envíe cuando la conexión de red sea pobre."</string>
+    <string name="power_off_locate_title">Enviar ubicación antes de apagar</string>
     <string name="pre_privacy_policy">Política de Privacidad</string>
     <string name="pre_user_agreement">Acuerdo de Usuario</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Solo sincronizar las imágenes de perfil de los contactos cuando esté conectado por Wi-Fi</string>
@@ -521,9 +526,11 @@ Esta característica cifra y envía el ID de tu dispositivo a los servidores Mi.
     <string name="soundrecorder_sync_records">Sincronizar con Xiaomi Cloud</string>
     <string name="special_func_title">Características especiales</string>
     <string name="starred_contact">Favoritos</string>
+    <string name="storage_manage_cloud_data_title">Ver elementos en la nube</string>
     <string name="storage_manage_expansion">Obtener más</string>
     <string name="storage_manage_list_title">Datos de la nube</string>
     <string name="storage_manage_list_title_action">Ver más</string>
+    <string name="storage_manage_normal_summary">Cambiar el plan de almacenamiento en la nube</string>
     <string name="storage_manage_renewal">Renovar</string>
     <string name="storage_manage_title">Cambiar el plan de almacenamiento en la nube</string>
     <string name="storage_manage_upgrade">Actualizar</string>
