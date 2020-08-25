@@ -52,7 +52,7 @@
     <string name="auto_backup_choose_empty">Sin copias de seguridad.</string>
     <string name="auto_backup_choose_title">Elige los elementos para copia de seguridad</string>
     <string name="auto_backup_date">Días</string>
-    <string name="auto_backup_only_wifi">Sólo con conexión Wi-Fi</string>
+    <string name="auto_backup_only_wifi">Solo con conexión Wi-Fi</string>
     <string name="auto_backup_open">Crear copia de seguridad automáticamente</string>
     <string name="auto_backup_progress">Realizando copia…</string>
     <string name="auto_backup_select_user_apps">Seleccionar aplicaciones</string>
@@ -316,8 +316,8 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar elementos"</string>
     <string name="mms_title">Mensajes multimedia</string>
     <string name="multi_select_title">%1$s seleccionado(s)</string>
-    <string name="multi_user_mode_backup_message">No se permite realizar copias de seguridad en el modo multiusuario. Desactívalo para continuar.</string>
-    <string name="multi_user_mode_dialog_message">No se puede usar Mi Mover en el modo multiusuario. Desactiva el modo multiusuario para continuar.</string>
+    <string name="multi_user_mode_backup_message">No se permite realizar copias de seguridad en modo multiusuario. Desactívalo para continuar.</string>
+    <string name="multi_user_mode_dialog_message">No se puede usar Mi Mover en modo multiusuario. Desactiva el modo multiusuario para continuar.</string>
     <string name="multi_user_mode_dialog_title">Estás en modo multiusuario</string>
     <string name="name_password_not_consistent">Usuario o contraseña incorrectos</string>
     <string name="never">Nunca</string>
@@ -561,8 +561,8 @@ para descargar e instalar Mi Mover."</string>
     <string name="trans_intro_desc_1">En un teléfono Mi, conéctese a Wi-Fi y toque \"Soy un destinatario\". Seleccione su dispositivo iOS, inicie sesión en iCloud e importe datos.</string>
     <string name="trans_intro_desc_10">Pulsa \"Conectar vía código QR\" en el nuevo dispositivo y escanea el código QR para establecer la conexión.</string>
     <string name="trans_intro_desc_3">Cancela la transferencia, sal de Mi Mover y vuelve a empezar. Los archivos duplicados se sobrescribirán en la nueva transferencia.</string>
-    <string name="trans_intro_desc_4">Mi Mover usa Wi-Fi para transferir archivos, por eso, no puedes conectarte a internet con Wi-Fi en el dispositivo durante la transferencia pero sí puedes utilizar datos móviles. Algunos nuevos dispositivos (Mi 6, por ej.) sí podrían conectarse a internet con Wi-Fi durante las transferencias.</string>
-    <string name="trans_intro_desc_4_market">Mi Mover usa la red Wi-Fi para transferir archivos. Es por esto que no se puede conectar a internet usando Wi-Fi mientras se realiza una transferencia. Aun así puedes usar los datos móviles.</string>
+    <string name="trans_intro_desc_4">Mi Mover usa Wi-Fi para transferir archivos, por eso, no puedes conectarte a Internet con Wi-Fi en el dispositivo durante la transferencia pero sí puedes utilizar datos móviles. Algunos nuevos dispositivos (Mi 6, por ej.) sí podrían conectarse a Internet con Wi-Fi durante las transferencias.</string>
+    <string name="trans_intro_desc_4_market">Mi Mover usa la red Wi-Fi para transferir archivos. Es por esto que no se puede conectar a Internet usando Wi-Fi mientras se realiza una transferencia. Aun así puedes usar los datos móviles.</string>
     <string name="trans_intro_desc_5">Se utiliza espacio de almacenamiento del dispositivo antiguo para crear paquetes de transferencia. Asegúrate de que tienes entre 500MB - 1GB de espacio disponible en tu teléfono antiguo antes de empezar.</string>
     <string name="trans_intro_desc_6">Razones posibles son: problemas de compatibilidad de sistema y versión de la aplicación, problemas de red, problemas de compatibilidad específicos de un dispositivo particular, etc.</string>
     <string name="trans_intro_desc_7">Algunos perfiles de aplicaciones (e-banking, finanzas, etc) están asociados a un dispositivo específico por razones de seguridad. Prueba a borrar los datos de la aplicación o a reinstalarla en un nuevo dispositivo.</string>
@@ -656,7 +656,7 @@ Liberar espacio de almacenamiento o transferir solo elementos importantes."</str
     <string name="trans_select_data_tips">"Selecciona los archivos para transferir
 Se sobreescribirán los archivos similares en el nuevo dispositivo"</string>
     <string name="trans_select_data_too_large">"Seleccionó demasiados elementos para transferir.
-Seleccione sólo elementos importantes para acelerar la transferencia."</string>
+Seleccione solo elementos importantes para acelerar la transferencia."</string>
     <string name="trans_select_device_receive">Selecciona un dispositivo para recibir datos.</string>
     <string name="trans_select_device_send">Selecciona un dispositivo para trasferir datos.</string>
     <string name="trans_select_notification_message">Pulsar para ver</string>
@@ -718,7 +718,7 @@ pulsa \"Soy un emisor\" y selecciona un punto de acceso para conectar.
 No cierres la página antes de establecer la conexión."</string>
     <string name="waiting">Un momento…</string>
     <string name="wifi_title">Ajustes de Wi-Fi</string>
-    <string name="xiaomi_connect_download_manager_fail">No se pudo iniciar la descarga. Asegúrate de que el Administrador de Descargas funciona normalmente.</string>
+    <string name="xiaomi_connect_download_manager_fail">No se pudo iniciar la descarga. Asegúrate de que el Administrador de Descargas funciona con normalidad.</string>
     <string name="xiaomi_external_storage_unavailable">Almacenamiento no disponible, comprueba tu tarjeta SD.</string>
     <string name="xiaomi_router">Router Mi</string>
     <string name="xiaomi_router_location">Router Mi %s</string>

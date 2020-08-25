@@ -333,7 +333,7 @@
     <string name="contact_add_options_details1">Todos</string>
     <string name="contact_add_options_details2">Solo receptores</string>
     <string name="contact_edit_set_black_list_from">Mover todos los correos de este remitente a la papelera</string>
-    <string name="contact_edit_set_black_list_receive">Mover correos con este destinatario a la papelera (sólo nuevos correos)</string>
+    <string name="contact_edit_set_black_list_receive">Mover correos con este destinatario a la papelera (solo nuevos correos)</string>
     <string name="contact_edit_set_black_list_receive_summary">Eliminar correos que incluyan este destinatario en el campo Para o en Cc</string>
     <string name="contact_edit_set_black_list_title">Añadir a lista de bloqueo</string>
     <string name="contact_edit_set_phone_contact">Editar contactos del teléfono</string>
@@ -631,10 +631,10 @@
     <string name="login_mail">Correo de inicio</string>
     <string name="login_qq_psw">Inicia sesión con el código de autorización</string>
     <string name="login_support_tip_text">Admite todas las principales cuentas de correo electrónico</string>
-    <string name="long_press_to_select_tip">Toca y mantenga pulsado para seleccionar una conversación; a continuación, pulse para seleccionar más.</string>
+    <string name="long_press_to_select_tip">Toca y mantén pulsado para seleccionar una conversación, a continuación pulsa para seleccionar más.</string>
     <string name="long_string">laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaargo</string>
     <string name="mail">Correo</string>
-    <string name="mail_body_turncated">Este correo es demasiado grande para cargar, sólo se mostrará parte del mensaje. Acceda más tarde a través de un PC</string>
+    <string name="mail_body_turncated">Este correo es demasiado grande para cargar, solo se mostrará parte del mensaje. Acceda más tarde a través de un PC</string>
     <string name="mail_description_content">Correo es un cliente de correo que puede administrar múltiples buzones, enviar y recibir correo electrónico, así como sincronizar información del calendario y contactos. Asegúrese de que puede hacerlo sin estas características antes de desinstalar la aplicación. Sus contactos de Exchange e información de calendario serán borradas también.</string>
     <string name="mail_description_title">Acerca de Mail</string>
     <string name="mail_header_network_not_available">No tiene conexión de red.</string>
@@ -906,7 +906,7 @@ Prueba una bandeja de entrada diferente."</string>
     <string name="pls_parse_bill_discribe">"Analiza facturas e informacion de viajes en tu correo
 para recibir recordatorios sobre pagos y viajes"</string>
     <string name="policy_app_blacklist">No permitir aplicaciones especificadas</string>
-    <string name="policy_app_whitelist">Permitir sólo aplicaciones especificadas</string>
+    <string name="policy_app_whitelist">Permitir solo aplicaciones especificadas</string>
     <string name="policy_bluetooth_restricted">Restringir el uso de Bluetooth</string>
     <string name="policy_calendar_age">Limitar el número de eventos sincronizados</string>
     <string name="policy_dont_allow_attachments">No permitir adjuntos</string>
@@ -929,7 +929,7 @@ para recibir recordatorios sobre pagos y viajes"</string>
     <string name="policy_password_expiration">Hacer que las contraseñas caduquen</string>
     <string name="policy_password_history">Restringir el uso de contraseñas recientes</string>
     <string name="policy_require_encryption">Exige cifrado del dispositivo</string>
-    <string name="policy_require_manual_sync_roaming">Sólo permitir sincronización manual en itinerancia</string>
+    <string name="policy_require_manual_sync_roaming">Solo permitir sincronización manual en itinerancia</string>
     <string name="policy_require_password">Requerir la contraseña del dispositivo</string>
     <string name="policy_require_sd_encryption">Exige cifrado de la tarjeta SD</string>
     <string name="policy_require_smime">Requerir mensajes SMIME</string>
@@ -1008,7 +1008,7 @@ para recibir recordatorios sobre pagos y viajes"</string>
     <string name="quick_reply_expend">Más</string>
     <string name="quick_reply_hint_bcc">(En BCC)</string>
     <string name="quick_reply_hint_cc">(En CC)</string>
-    <string name="quick_reply_hint_reply_only_from">Respuesta rápida (sólo el remitente)</string>
+    <string name="quick_reply_hint_reply_only_from">Respuesta rápida (solo el remitente)</string>
     <string name="quick_reply_pattern">. * Aprobar. * |. * Aprobar. * |. * Aplicar. * |. * Informar. * |. * Consultar. * |. * Solicitud. *</string>
     <string name="quick_responses_empty_view">Sin respuestas rápidas</string>
     <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
@@ -1110,7 +1110,7 @@ Espere hasta que esté completamente sincronizado o vea el mensaje en su computa
     <string name="search_tabs_name_sender">Remitente</string>
     <string name="search_tabs_name_subject">Asunto</string>
     <string name="search_title">Email unificado</string>
-    <string name="search_txt_size_limit_prompt">Sólo puede realizar búsquedas de más de 3 caracteres</string>
+    <string name="search_txt_size_limit_prompt">Solo puede realizar búsquedas de más de 3 caracteres</string>
     <string name="security_changed_ticker_fmt">La cuenta \"%s\"cambió su configuración de seguridad; ninguna acción del usuario se requiere.</string>
     <string name="security_needed_ticker_fmt">La cuenta \"%s\" requiere una actualización de los ajustes de seguridad.</string>
     <string name="security_notification_content_change_title">Las políticas de seguridad han cambiado</string>
@@ -1246,7 +1246,7 @@ Espere hasta que esté completamente sincronizado o vea el mensaje en su computa
     <string name="translation_technology_support">Soporte técnico por iciba.com</string>
     <string name="trash_folder_selection_title">Seleccione la Papelera del servidor para %s</string>
     <string name="try_exchange_login">Inicia sesión con EXCHANGE</string>
-    <string name="turn_auto_sync_on_dialog_body">"Los cambios que realice en todas las aplicaciones y cuentas, no sólo Gmail, se sincronizarán en la web, otros dispositivos y en su %1$s."</string>
+    <string name="turn_auto_sync_on_dialog_body">"Los cambios que realice en todas las aplicaciones y cuentas, no solo Gmail, se sincronizarán en la web, otros dispositivos y en su %1$s."</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Activar</string>
     <string name="turn_auto_sync_on_dialog_title">¿Activar sincronización automática?</string>
     <string name="unbind_dialog_text">"La aplicación de Correo no analizará más sus emails después de esto.

@@ -21,17 +21,6 @@
      <string name="cal_text_copied">Texto copiado</string>
      <string name="cancel">Cancelar</string>
      <string name="children_education">"Educacion infantil"</string>
-     <string name="chinese_character_cross_check">互查</string>
-     <string name="chinese_character_daughter">女</string>
-     <string name="chinese_character_elder_brother">兄</string>
-     <string name="chinese_character_elder_sister">姐</string>
-     <string name="chinese_character_father">父</string>
-     <string name="chinese_character_husband">夫</string>
-     <string name="chinese_character_mother">母</string>
-     <string name="chinese_character_son">子</string>
-     <string name="chinese_character_wife">妻</string>
-     <string name="chinese_character_younger_brother">弟</string>
-     <string name="chinese_character_younger_sister">妹</string>
      <string name="choose_currency">Seleccionar divisa</string>
      <string name="choose_radix">Seleccionar sistema de numeración</string>
      <string name="choose_unit">Seleccionar unidad</string>
@@ -61,7 +50,6 @@
      <string name="current_rate_remind_commercial" />
      <string name="current_rate_remind_fund" />
      <string name="dateformat">dd/MM/yyyy</string>
-     <string name="daughter">女儿</string>
      <string name="day">día</string>
      <string name="default_separator_text">的</string>
      <string name="default_text">我</string>
@@ -71,7 +59,7 @@
      <string name="description_content">Además de las caracterísiticas básicas, la Calculadora también funciona como conversor universal y calculadora de impuestos e hipotecas. Asegúrese de no necesitar estas funciones antes de desinstalar la aplicación.</string>
      <string name="description_title">Acerca de la Calculadora</string>
      <string name="devided_by_zero_reminder_message">No se puede dividir entre cero</string>
-     <string name="dialog_privacy_content">Además de las funciones básicas de una calculadora, nuestra aplicación también contiene una calculadora científica y un conversor multiusos. Algunas funciones necesitan conectarse a internet para funcionar con normalidad. Debes leer y aceptar nuestro %1$s y nuestra %2$s antes de usar la Calculadora.</string>
+     <string name="dialog_privacy_content">Además de las funciones básicas de una calculadora, nuestra aplicación también contiene una calculadora científica y un conversor multiusos. Algunas funciones necesitan conectarse a Internet para funcionar con normalidad. Debes leer y aceptar nuestro %1$s y nuestra %2$s antes de usar la Calculadora.</string>
      <string name="dialog_privacy_title">Terminos y Condiciones</string>
      <string name="dialog_rating_desc_ask">¿Que le parece la Calculadora?</string>
      <string name="dialog_rating_desc_less">¿Podrías darnos tu opinión?</string>
@@ -95,8 +83,6 @@
      <string name="e">e</string>
      <string name="eDesc">Número de Euler</string>
      <string name="e_mathematical_value">e</string>
-     <string name="elder_brother">哥哥</string>
-     <string name="elder_sister">姐姐</string>
      <string name="enter">↓</string>
      <string name="equal">=</string>
      <string name="equalDesc">igual a</string>
@@ -108,8 +94,6 @@
      <string name="extra_deduction_title">Deducciones adicionales</string>
      <string name="factorial">!</string>
      <string name="factorialDesc">factorial</string>
-     <string name="far_relationship_result">关系有点远，年长就叫老祖宗，同龄人就叫美女帅哥吧~</string>
-     <string name="father">爸爸</string>
      <string name="float_window_guide_text">Toca aquí para minimizar la calculadora</string>
      <string name="from_num">100</string>
      <string name="from_unit">km/h</string>
@@ -118,9 +102,7 @@
      <string name="fund" />
      <string name="fund_loan">Préstamo de fondos</string>
      <string name="further_education">Educación avanzada</string>
-     <string name="gay_other_search_result">暂时不支持同性婚姻称呼查询，怎么称呼你决定~</string>
-     <string name="gay_search_result">是男是女不重要，是你就好</string>
-     <string name="global_network_confirm_content">El Conversor de divisas necesita conectarse a internet para funcionar con normalidad.</string>
+     <string name="global_network_confirm_content">El Conversor de divisas necesita conectarse a Internet para funcionar con normalidad.</string>
      <string name="global_search_key_area_convertion">Área;Conversor de área;Conversión de área</string>
      <string name="global_search_key_calculation">Calcular;Calculadora;Conversión de unidades;Conversor;Conversor de unidades</string>
      <string name="global_search_key_date_convertion">Conversor de tiempo;Unidades de tiempo;Conversión de tiempo;Tiempo</string>
@@ -141,7 +123,6 @@
      <string name="home_loan">Intereses hipotecarios</string>
      <string name="home_title_calculator">Calculadora</string>
      <string name="house_rent">Renta</string>
-     <string name="husband">丈夫</string>
      <string name="income_type" />
      <string name="install">Instalar</string>
      <string name="install_scanner_to_continued_use">Escáner desinstalado. ¿Instalar de nuevo?</string>
@@ -250,9 +231,9 @@ One-year and five-year LPRs will be quoted on the 20th of each month (delays mig
      <string name="mul">×</string>
      <string name="mulDesc">multiplicar</string>
      <string name="negDesc">Cambie entre temperaturas bajo y sobre cero</string>
-     <string name="network_confirm_content">El conversor de divisas y la calculadora de impuestos e hipotecas necesitan conectarse a internet y acceder a los servicios de localización para funcionar.</string>
+     <string name="network_confirm_content">El conversor de divisas y la calculadora de impuestos e hipotecas necesitan conectarse a Internet y acceder a los servicios de localización para funcionar.</string>
      <string name="network_confirm_title">Permisos requeridos</string>
-     <string name="network_privacy">Note that this app needs to connect to the internet and collect the required personal information in order to provide services to you. We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.</string>
+     <string name="network_privacy">Note that this app needs to connect to the Internet and collect the required personal information in order to provide services to you. We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.</string>
      <string name="network_purpose">¡Bienvenido a la Calculadora! La Calculadora te permite convertir divisas, calcular pagos de hipotecas y más.</string>
      <string name="none">None</string>
      <string name="not_supported_due_to_language">This feature is only available for the Chinese language</string>
@@ -387,7 +368,6 @@ One-year and five-year LPRs will be quoted on the 20th of each month (delays mig
      <string name="times" />
      <string name="title_bar">Length converter</string>
      <string name="to_num">62.7</string>
-     <string name="too_long_result">再玩就玩坏了</string>
      <string name="unKnow_error">Unknown error</string>
      <string name="unit_data_default_area_0">sq.m</string>
      <string name="unit_data_default_area_1">sq.cm</string>
@@ -738,6 +718,4 @@ Size: %2$s"</string>
 Delta tamaño de la actualización: %2$s"</string>
      <string name="xiaomi_update_dialog_title">%1$s actualizar!</string>
      <string name="year" />
-     <string name="younger_brother">弟弟</string>
-     <string name="younger_sister">妹妹</string>
 </resources>
