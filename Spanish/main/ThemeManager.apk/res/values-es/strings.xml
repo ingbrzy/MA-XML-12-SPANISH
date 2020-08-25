@@ -72,6 +72,7 @@
     <string name="apply_font_btn_exclude">Ahora no</string>
     <string name="apply_font_btn_reboot">Reiniciar</string>
     <string name="apply_font_tip">Reinicie para aplicar la fuente.</string>
+    <string name="apply_succeed">Aplicado con éxito</string>
     <string name="apply_theme_with_ringtones">Aplicar tema con tonos</string>
     <string name="audio_duration_minutes_format">%1$d minutos</string>
     <string name="audio_duration_seconds_format">%1$d segundos</string>
@@ -127,6 +128,16 @@
     <string name="current_using_lockscreen_wallpaper_text">Pantalla de bloqueo</string>
     <string name="current_version_incompatible">No compatible</string>
     <string name="data_use_desc">Documentos legales</string>
+    <string name="de_icon_text_comment">Comentar</string>
+    <string name="de_icon_text_discuss">Debatir</string>
+    <string name="de_icon_text_favorite">Añadir a favoritos</string>
+    <string name="de_icon_text_like">Me gusta</string>
+    <string name="de_icon_text_reward">Recompensar</string>
+    <string name="de_icon_text_share">Compartir</string>
+    <string name="de_mix">Crear</string>
+    <string name="de_mix_dialog_title">Crear tu tema</string>
+    <string name="de_more_info">Más</string>
+     <string name="de_more_resource">Desliza para ver más</string>
     <string name="deleting">Eliminando…</string>
     <string name="description_author">Autor</string>
     <string name="description_designer">Diseñador</string>
@@ -139,6 +150,7 @@
     <string name="desktop_effects">Efectos de pantalla de inicio</string>
     <string name="desktop_wallpaper">Pantalla de inicio</string>
     <string name="detail_recommend_title">Recomendados</string>
+    <string name="detail_reward_alert">Recompensa a los diseñadores talentosos por su trabajo</string>
     <string name="dev_options">Opciones de desarrollador</string>
     <string name="dev_options_summary">Recursos web</string>
     <string name="download_failed">No se puede descargar</string>
@@ -272,6 +284,24 @@ Para desactivar esta función, ve a Ajustes &gt; Sonido y vibración &gt; Perfil
     <string name="lockscreen_wallpaper">Pantalla de bloqueo</string>
     <string name="lockstyle_personal_settings">Personalización</string>
     <string name="mi_wallpaper">Fondo MIUI</string>
+    <string name="mine_tab_not_login">"Inicia sesión para ver los elementos.
+Toca aquí para iniciar sesión ahora."</string>
+    <string name="mine_tab_title_favorite">Favoritos</string>
+    <string name="mine_tab_title_like">Me gustan</string>
+    <string name="mine_tab_title_local">Local</string>
+    <string name="mine_tab_title_purchase">Compras</string>
+    <string name="miui_clock_city_name_local">Local</string>
+    <string name="miui_clock_city_name_second">Segundo reloj</string>
+    <string name="miui_lock_screen_date">EEEE, d MMMM</string>
+    <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
+    <string name="miui_lock_screen_date_two_lines">"EEEE
+d MMMM"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEEE
+d MMMM"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+dd/MM"</string>
+     <string name="miui_lock_screen_large_date_12">"EEE
+dd/MM"</string>
     <string name="miuishare_account_activate_confirmation">Activar Cuenta Mi</string>
     <string name="miuishare_account_activate_ok">Activar</string>
     <string name="miuishare_account_login_cancel">Cancelar</string>
@@ -775,7 +805,10 @@ Para desactivar esta función, ve a Ajustes &gt; Sonido y vibración &gt; Perfil
     <string name="wallpaper_apply">Aplicar</string>
     <string name="wallpaper_crop">Recortar</string>
     <string name="wallpaper_decoded_error">No es posible cargar el fondo de pantalla</string>
-    <string name="wallpaper_detail_load_page_no_network">Conéctese a la red e inténtelo de nuevo.</string>
+    <string name="wallpaper_detail_load_page_no_network">Conéctate a la red e inténtalo de nuevo.</string>
+    <string name="wallpaper_download_incall_show">Descargar vídeo</string>
+    <string name="wallpaper_dynamic">Dinámico</string>
+    <string name="wallpaper_loop_add_success">Añadido correctamente</string>
     <string name="wallpaper_might_like">Fondos de pantalla que podrían gustarte</string>
     <string name="wallpaper_personal_dialog_agree">Personalizar</string>
     <string name="wallpaper_personal_dialog_content">Usa esta función para poder ver la selección de fondos de pantalla personalizados de acuerdo a tus intereses. Puedes activar y desactivar esta función en los ajustes. ¿Personalizar fondos de pantalla?</string>
@@ -791,6 +824,8 @@ Para desactivar esta función, ve a Ajustes &gt; Sonido y vibración &gt; Perfil
     <string name="wallpaper_settings_no_history">Sin historial</string>
     <string name="wallpaper_settings_pad_more_page_title">Más fondos de pantalla</string>
     <string name="wallpaper_settings_page_title">Fondo de pantalla</string>
+    <string name="wallpaper_share_alert">Ha ocurrido un error. Espera uno o dos minutos y vuelve a intentarlo.</string>
+    <string name="wallpaper_static">Estático</string>
     <string name="wifi_check_cancel">Cancelar</string>
     <string name="wifi_check_confirm">Confirmar</string>
     <string name="wifi_check_message">¿Usar datos móviles para descargar actualizaciones?</string>
