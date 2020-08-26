@@ -47,7 +47,7 @@
     <string name="about_settings">Sobre el teléfono</string>
     <string name="about_settings_summary">Ver información legal, estado, versión del software</string>
     <string name="about_summary">Actualizado a Android %1$s</string>
-    <string name="ac_enable_summary">Establecer una contraseña para las aplicaciones individuales</string>
+    <string name="ac_enable_summary">Establece una contraseña para cada aplicación</string>
     <string name="ac_enable_title">Bloqueo de aplicaciones</string>
     <string name="ac_privacy_mode_sum">Se requiere una contraseña para desactivar el modo invitado</string>
     <string name="ac_privacy_mode_title">Contraseña</string>
@@ -1636,7 +1636,7 @@ Esta función puede ser desactivada en [Ajustes]"</string>
     <string name="color_lamp_notification_pulse_title">Flash para notificaciones cuando la pantalla está apagada</string>
     <string name="color_lamp_title">Luz LED</string>
     <string name="color_led_applications_title">"Seleccionar aplicaciones"</string>
-    <string name="color_led_applications_title_summary">"Puede restringir el uso de la luz LED para aplicaciones individuales"</string>
+    <string name="color_led_applications_title_summary">Puedes restringir el uso de la luz LED para cada aplicación</string>
     <string name="color_led_battery_title">"Seguir mientras se carga"</string>
     <string name="color_led_charging_summary">Se apagará cuando la batería esté cargada</string>
     <string name="color_led_end_time">"Hora de finalización"</string>
@@ -1894,7 +1894,7 @@ Debes restablecer los datos de fábrica para volver a usar el teléfono. Cuando 
     <string name="cutout_mode_always">Mostrar siempre notch</string>
     <string name="cutout_mode_default">Auto</string>
     <string name="cutout_mode_settings_title">Algunas aplicaciones pueden mostrarse incorrectamente si personaliza la forma en que se muestra el notch.</string>
-    <string name="cutout_mode_title">Notch en aplicaciones individuales</string>
+    <string name="cutout_mode_title">Notch en cada aplicación</string>
     <string name="cutout_type_desc">Activar para suavizar las curvas de notch</string>
     <string name="cutout_type_title">Administrar forma notch</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (rojo-verde)</string>
@@ -1909,10 +1909,9 @@ Debes restablecer los datos de fábrica para volver a usar el teléfono. Cuando 
     <string name="dangerous_option_hint_title">Característica de alto riesgo habilitada</string>
     <string name="dangerous_option_switch_title">Notificar sobre características de alto riesgo</string>
     <string name="dark_color_mode">"Modo oscuro"</string>
-    <string name="dark_color_summary">"Use la paleta de colores más oscuros para los fondos del sistema y las aplicaciones compatibles"</string>
-    <string name="dark_color_summary_lcd">Usar una paleta de colores más oscuros para fondos del sistema y aplicaciones compatibles. El modo oscuro puede ayudarlo a aliviar la fatiga visual cuando usa su dispositivo en la oscuridad.</string>
+    <string name="dark_color_summary_lcd">"Usar una paleta de colores más oscuros para fondos del sistema y aplicaciones compatibles. El modo oscuro puede ayudarte a aliviar la fatiga visual cuando uses tu dispositivo en la oscuridad."</string>
     <string name="dark_color_summary_oled">Usar una paleta de colores más oscuros para fondos del sistema y aplicaciones compatibles. El modo oscuro reduce el consumo de energía y ayuda a aliviar la fatiga visual</string>
-    <string name="dark_mode_contrast">Ajusta el contraste automáticamente</string>
+    <string name="dark_mode_contrast">Ajustar el contraste automáticamente</string>
     <string name="dark_mode_contrast_hint">Ajusta los colores y reduce el contraste automáticamente cuando se reduce el brillo</string>
     <string name="dark_ui_mode">Modo nocturno</string>
     <string name="dark_ui_mode_disabled_summary_dark_theme_off">Activado temporalmente para ahorrar batería</string>
@@ -2518,7 +2517,7 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
     <string name="enable_text">Habilitar</string>
     <string name="enable_wifi_calling">Habilitar llamadas Wi-Fi</string>
     <string name="enable_wifi_display">Pantalla inalámbrica</string>
-    <string name="enabled_authorised_apps_summary">Su autorización se revocará después de alternar interruptores de aplicaciones individuales.</string>
+    <string name="enabled_authorised_apps_summary">Tu autorización se revocará después de alternar los interruptores de cada aplicación.</string>
     <string name="enabled_authorised_apps_title">Autorización concedida</string>
     <string name="enabled_by_admin">Habilitado por el administrador</string>
     <string name="enalbe_identify_iPhone">Identificación de dispositivo</string>
@@ -5653,9 +5652,9 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="screen_dark_mode_advanced_title">Avanzado</string>
     <string name="screen_dark_mode_select_time_error_summary">La hora de inicio y la hora de fin no pueden ser iguales</string>
     <string name="screen_dark_mode_smart_dark_3rd_apps_list">Aplicaciones de terceros</string>
-    <string name="screen_dark_mode_smart_dark_apps_setting_summary">Algunas aplicaciones pueden mostrarse incorrectamente en modo oscuro. Puede restringir el uso del modo Oscuro para aplicaciones individuales aquí.</string>
+    <string name="screen_dark_mode_smart_dark_apps_setting_summary">Algunas aplicaciones pueden mostrarse incorrectamente en modo oscuro. Aquí puedes restringir el uso del modo oscuro en cada aplicación.</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_title">Aplicaciones individuales</string>
-    <string name="screen_dark_mode_smart_dark_summary">También aplicar el modo oscuro a aplicaciones de terceros. Algunas aplicaciones podrían no ser mostradas correctamente.</string>
+    <string name="screen_dark_mode_smart_dark_summary">Aplicar también el modo oscuro a aplicaciones de terceros. Algunas aplicaciones podrían no mostrarse correctamente.</string>
     <string name="screen_dark_mode_smart_dark_title">Modo oscuro general</string>
     <string name="screen_dark_mode_time_title">Programar</string>
     <string name="screen_effect">Contraste y colores</string>
@@ -6936,7 +6935,7 @@ Considera usar una ^1 para mejorar el rendimiento."</string>
     <string name="summary_font_size_v2">Ajustar tamaño del texto, imágenes, y iconos</string>
     <string name="summary_range_verbal_combination">De %1$s a %2$s</string>
     <string name="sunlight_mode">Modo luz solar</string>
-    <string name="sunlight_mode_summary">Ajuste el brillo a una luz ambiental intensa cuando el brillo automático esté apagado</string>
+    <string name="sunlight_mode_summary">Ajustar el brillo a una luz ambiental intensa cuando el brillo automático esté desactivado</string>
     <string name="super_resolution_access_title">Aplicaciones accesibles</string>
     <string name="super_resolution_desc">Hacer las imágenes más nítidas usando un algoritmo IA</string>
     <string name="super_resolution_maintain">Súper resolución no disponible.</string>

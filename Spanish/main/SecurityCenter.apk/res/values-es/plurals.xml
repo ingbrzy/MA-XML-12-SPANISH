@@ -452,6 +452,14 @@ Si activas los datos móviles otra vez, tu compañia telefónica puede cargar ga
         <item quantity="other">Se pueden ocultar %d aplicaciones</item>
         <item quantity="one">Se pueden ocultar una aplicación</item>
     </plurals>
+    <plurals name="privacy_permission_summary">
+        <item quantity="other">%s apps tienen acceso permanente</item>
+        <item quantity="one">%s app tiene acceso permanente</item>
+    </plurals>
+    <plurals name="privacy_pop_times">
+        <item quantity="other">%s veces</item>
+        <item quantity="one">%s vez</item>
+    </plurals>
     <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d problemas de la batería</item>
         <item quantity="one">%d problema de la batería</item>
