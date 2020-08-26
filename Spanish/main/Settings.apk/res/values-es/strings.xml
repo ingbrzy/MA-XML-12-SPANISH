@@ -1586,7 +1586,7 @@ Esta función puede ser desactivada en [Ajustes]"</string>
     <string name="clear_adb_keys">Revocar autorizaciones de depuración USB</string>
     <string name="clear_all_data">Borrar todos los datos</string>
     <string name="clear_cache_btn_text">Borrar caché</string>
-    <string name="clear_data_alert_info">Todas las copias de seguridad almacenadas en este dispositivo se eliminarán de forma permanente. Haga una copia de seguridad de los elementos importantes en su computadora y Xiaomi Cloud antes de continuar.</string>
+    <string name="clear_data_alert_info">Todas las copias de seguridad almacenadas en este dispositivo se eliminarán de forma permanente. Haz una copia de seguridad de los elementos importantes en tu ordenador y Xiaomi Cloud antes de continuar.</string>
     <string name="clear_data_dlg_text">Todos los datos de esta aplicación se eliminarán de forma permanente. Esto incluye todos los archivos, ajustes, cuentas, bases de datos, etc.</string>
     <string name="clear_data_dlg_title">¿Eliminar datos de la aplicación?</string>
     <string name="clear_data_failed">No se ha podido borrar los datos de aplicaciones.</string>
@@ -1679,8 +1679,8 @@ Esta función puede ser desactivada en [Ajustes]"</string>
     <string name="common_settings">Ajustes rápidos</string>
     <string name="complete_parameters">Todas las especificaciones</string>
     <string name="complete_settings">Ajustes generales</string>
-    <string name="computer_backup_summary">Haz una copia de seguridad y restaura elementos usando una computadora</string>
-    <string name="computer_backup_title">Computadora</string>
+    <string name="computer_backup_summary">Haz una copia de seguridad y restaura elementos usando un ordenador</string>
+    <string name="computer_backup_title">Ordenador</string>
     <string name="computing_size">Calculando…</string>
     <string name="condition_airplane_summary">La red móvil, la conexión Wi-Fi y el Bluetooth están desactivados. No puedes hacer llamadas ni conectarte a Internet.</string>
     <string name="condition_airplane_title">Modo avión activado</string>
@@ -2167,7 +2167,7 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
     <string name="device_admin_settings_title">Ajustes del administrador de dispositivos</string>
     <string name="device_admin_status">Esta aplicación del administrador está activa y permite que la aplicación %1$s realice las siguientes acciones:</string>
     <string name="device_admin_warning">Al activar esta aplicación del administrador, permites que la aplicación %1$s realice las siguientes acciones:</string>
-    <string name="device_admin_warning_simplified">%1$s gestionará y supervisará el dispositivo</string>
+    <string name="device_admin_warning_simplified">Este dispositivo será gestionado y supervisado por %1$s.</string>
     <string name="device_available_memory">Almacenamiento disponible</string>
     <string name="device_battery">Batería</string>
     <string name="device_build_id">Número de versión</string>
@@ -3172,16 +3172,16 @@ Puedes cambiar esta opción en cualquier momento en Ajustes > Aplicaciones y not
     <string name="homepage_personal_settings">Sugerencias</string>
     <string name="hotknot_charging_warning">La función %s puede verse afectada durante la carga USB</string>
     <string name="hotknot_explained_description">Permitir intercambio de datos cuando la pantalla toca otro dispositivo</string>
-    <string name="how_backup_content">"Puede guardar copias de seguridad localmente o en la nube. Las copias de seguridad locales se pueden almacenar en su dispositivo móvil, computadora o unidad USB.
+    <string name="how_backup_content">"Puedes guardar copias de seguridad localmente o en la nube. Las copias de seguridad locales se pueden almacenar en tu dispositivo móvil, computadora o unidad USB.
 
 Dispositivo móvil
-Guarde la configuración del sistema, las cuentas, los datos de la aplicación y otros elementos en un archivo separado almacenado en su dispositivo (MIUI-backup-AllBackup). Nota: Realizar un restablecimiento de fábrica eliminará tales copias de seguridad de forma permanente. Recuerde copiar copias de seguridad a su computadora.
+Guarda la configuración del sistema, las cuentas, los datos de la aplicación y otros elementos en un archivo separado almacenado en su dispositivo (MIUI-backup-AllBackup). Nota: Realizar un restablecimiento de fábrica eliminará tales copias de seguridad de forma permanente. Recuerda copiar las copias de seguridad a tu ordenador.
 
-Computadora
-Cree una copia de seguridad en este dispositivo, luego vaya a MIUI-backup-AllBackup y copie la copia de seguridad en su computadora mediante un cable USB.
+Ordenador
+Crea una copia de seguridad en este dispositivo, luego ve a MIUI-backup-AllBackup y copia la copia de seguridad en tu ordenador mediante un cable USB.
 
 Unidad USB
-Guarde la configuración del sistema, las cuentas, los datos de la aplicación y otros elementos en una unidad USB.
+Guarda la configuración del sistema, las cuentas, los datos de la aplicación y otros elementos en una unidad USB.
 
 Xiaomi Cloud
 Sincroniza tus contactos, fotos, videos, la lista de sus aplicaciones, la configuración del sistema y el diseño de la pantalla de inicio con la nube."</string>
@@ -3190,18 +3190,18 @@ Sincroniza tus contactos, fotos, videos, la lista de sus aplicaciones, la config
 a) Ve a Ajustes &gt; Ajustes adicionales en la página con tus copias de seguridad locales, toca el botón para activar el cifrado e inicia sesión en tu Cuenta Mi. Las copias de seguridad se cifrarán automáticamente después de eso. Recuerda que deberás iniciar sesión en tu Cuenta Mi para restaurar elementos de las copias de seguridad cifradas.
 b) Si estás utilizando Mi PC Suite para copiar los elementos, puedes usar las opciones de cifrado allí.
 
-Nota: ¡Recuerde la contraseña que estableció para las copias de seguridad cifradas! No podrá descifrar sus copias de seguridad si lo olvida."</string>
+Nota: ¡Recuerda la contraseña que estableciste para las copias de seguridad cifradas! No podrás descifrar tus copias de seguridad si la olvidas."</string>
     <string name="how_encrypt_title">¿Cómo cifro mis copias de seguridad?</string>
-    <string name="how_restore_backup_content">"A continuación, le mostramos cómo puede restaurar elementos de los que se realizó una copia de seguridad utilizando diferentes métodos:
+    <string name="how_restore_backup_content">"A continuación, te mostramos cómo puedes restaurar elementos de los que se realizó una copia de seguridad utilizando diferentes métodos:
 
 Dispositivo móvil
-Toca \"Dispositivo móvil\", encuentre la opción para restaurar elementos y seleccione la copia de seguridad para continuar.
+Toca \"Dispositivo móvil\", encuentra la opción para restaurar elementos y selecciona la copia de seguridad para continuar.
 
-Computadora
-Copie la copia de seguridad de su computadora a MIUI-backup-AllBackup a través del cable USB y restaure elementos desde su dispositivo móvil.
+Ordenador
+Copia la copia de seguridad de tu ordenador a MIUI-backup-AllBackup a través del cable USB y restaura elementos desde tu dispositivo móvil.
 
 Unidad USB
-Copie la copia de seguridad de su unidad USB a MIUI-backup-AllBackup y seleccione la opción para restaurar elementos desde una unidad USB para continuar.
+Copia la copia de seguridad de tu unidad USB a MIUI-backup-AllBackup y selecciona la opción para restaurar elementos desde una unidad USB para continuar.
 
 Xiaomi Cloud
 Abre Xiaomi Cloud y restaura elementos desde allí."</string>
@@ -6496,7 +6496,7 @@ Es posible que el PIN no sea correcto."</string>
     <string name="sos_phone_call_privacy_dialog_message">"Para llamar a sus contactos de emergencia y reproducir grabación SOS, esta aplicación necesita los siguientes permisos:
 • Hacer llamadas
 Para hacer llamadas a sus contactos de emergencia
-• Monitorear el estado del dispositivo
+• Monitorizar el estado del dispositivo
 Para reproducir la grabación SOS cuando sus contactos de emergencia recogen
 Si no acepta otorgar tales permisos, no podrá usar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible para usted. Siempre puedes elegir desactivar esta función."</string>
     <string name="sos_phone_call_privacy_dialog_message_confirm">Permitir</string>
@@ -6561,10 +6561,10 @@ Antes de utilizar nuestros servicios, lea y acepte nuestro %s."</string>
     <string name="spellcheckers_settings_title">Corrector ortográfico</string>
     <string name="split_screen">Abrir Pantalla dividida</string>
     <string name="ssid_label">SSID</string>
-    <string name="ssl_ca_cert_warning">Puede que la red esté supervisada</string>
-    <string name="ssl_ca_cert_warning_message">"Un tercero puede supervisar tu actividad de la red, incluidos los correos electrónicos, las aplicaciones y los sitios web seguros.
+    <string name="ssl_ca_cert_warning">La red puede ser monitorizada</string>
+    <string name="ssl_ca_cert_warning_message">"Un tercero puede monitorizar tu actividad de la red, incluidos los correos electrónicos, las aplicaciones y los sitios web seguros.
 
-Esto es posible por una credencial de confianza instalada en tu dispositivo."</string>
+Esto es posible por medio de una credencial de confianza instalada en tu dispositivo."</string>
     <string name="stable_build">Estable</string>
     <string name="standard">Silenciar</string>
     <string name="standard_info">Se silenciarán llamadas y notificaciones</string>
@@ -7729,7 +7729,7 @@ Toca en más para añadir palabras."</string>
     <string name="voice_input_output_settings_title">Configuración entrada y salida de voz</string>
     <string name="voice_input_settings">Ajustes de entrada de voz</string>
     <string name="voice_input_settings_title">Entrada de voz</string>
-    <string name="voice_interaction_security_warning">Este servicio de entrada de voz podrá supervisar que la voz siempre esté activada y controlar las aplicaciones compatibles con la entrada de voz en tu nombre. Procede de la aplicación %s. ¿Quieres habilitar el uso de este servicio?</string>
+    <string name="voice_interaction_security_warning">Este servicio de entrada de voz podrá realizar un monitoreo de voz siempre activo y controlar las aplicaciones habilitadas por voz en tu nombre. Procede de la aplicación %s. ¿Habilitar el uso de este servicio?</string>
     <string name="voice_interactor_preference_summary">Interacción y palabra activa completa</string>
     <string name="voice_recognizer_preference_summary">Síntesis de voz simple</string>
     <string name="voice_search_settings_title">Búsqueda por voz</string>
