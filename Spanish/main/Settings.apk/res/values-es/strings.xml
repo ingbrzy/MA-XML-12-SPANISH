@@ -47,7 +47,7 @@
     <string name="about_settings">Sobre el teléfono</string>
     <string name="about_settings_summary">Ver información legal, estado, versión del software</string>
     <string name="about_summary">Actualizado a Android %1$s</string>
-    <string name="ac_enable_summary">Establecer una contraseña para las aplicaciones individuales</string>
+    <string name="ac_enable_summary">Establece una contraseña para cada aplicación</string>
     <string name="ac_enable_title">Bloqueo de aplicaciones</string>
     <string name="ac_privacy_mode_sum">Se requiere una contraseña para desactivar el modo invitado</string>
     <string name="ac_privacy_mode_title">Contraseña</string>
@@ -66,7 +66,7 @@
     <string name="access_control_reset_by_account">Inicia sesión en Cuenta Mi para restablecer tu contraseña</string>
     <string name="access_point_names">Nombres de punto de acceso</string>
     <string name="accessibility_autoclick_delay_preference_title">Retraso antes del clic</string>
-    <string name="accessibility_autoclick_description">"Si está utilizando un mouse, puede configurar el cursor para que actúe automáticamente cuando deja de moverse durante un período de tiempo determinado."</string>
+    <string name="accessibility_autoclick_description">"Si está utilizando un mouse, puede configurar el cursor para que actúe automáticamente cuando deja de moverse durante un periodo de tiempo determinado."</string>
     <string name="accessibility_autoclick_preference_title">Clic después de que el puntero deje de moverse</string>
     <string name="accessibility_caption_master_switch_title">"Usar subtítulos"</string>
     <string name="accessibility_captioning_title">Subtítulos</string>
@@ -1586,7 +1586,7 @@ Esta función puede ser desactivada en [Ajustes]"</string>
     <string name="clear_adb_keys">Revocar autorizaciones de depuración USB</string>
     <string name="clear_all_data">Borrar todos los datos</string>
     <string name="clear_cache_btn_text">Borrar caché</string>
-    <string name="clear_data_alert_info">Todas las copias de seguridad almacenadas en este dispositivo se eliminarán de forma permanente. Haga una copia de seguridad de los elementos importantes en su computadora y Xiaomi Cloud antes de continuar.</string>
+    <string name="clear_data_alert_info">Todas las copias de seguridad almacenadas en este dispositivo se eliminarán de forma permanente. Haz una copia de seguridad de los elementos importantes en tu ordenador y Xiaomi Cloud antes de continuar.</string>
     <string name="clear_data_dlg_text">Todos los datos de esta aplicación se eliminarán de forma permanente. Esto incluye todos los archivos, ajustes, cuentas, bases de datos, etc.</string>
     <string name="clear_data_dlg_title">¿Eliminar datos de la aplicación?</string>
     <string name="clear_data_failed">No se ha podido borrar los datos de aplicaciones.</string>
@@ -1636,7 +1636,7 @@ Esta función puede ser desactivada en [Ajustes]"</string>
     <string name="color_lamp_notification_pulse_title">Flash para notificaciones cuando la pantalla está apagada</string>
     <string name="color_lamp_title">Luz LED</string>
     <string name="color_led_applications_title">"Seleccionar aplicaciones"</string>
-    <string name="color_led_applications_title_summary">"Puede restringir el uso de la luz LED para aplicaciones individuales"</string>
+    <string name="color_led_applications_title_summary">Puedes restringir el uso de la luz LED para cada aplicación</string>
     <string name="color_led_battery_title">"Seguir mientras se carga"</string>
     <string name="color_led_charging_summary">Se apagará cuando la batería esté cargada</string>
     <string name="color_led_end_time">"Hora de finalización"</string>
@@ -1679,8 +1679,8 @@ Esta función puede ser desactivada en [Ajustes]"</string>
     <string name="common_settings">Ajustes rápidos</string>
     <string name="complete_parameters">Todas las especificaciones</string>
     <string name="complete_settings">Ajustes generales</string>
-    <string name="computer_backup_summary">Haz una copia de seguridad y restaura elementos usando una computadora</string>
-    <string name="computer_backup_title">Computadora</string>
+    <string name="computer_backup_summary">Haz una copia de seguridad y restaura elementos usando un ordenador</string>
+    <string name="computer_backup_title">Ordenador</string>
     <string name="computing_size">Calculando…</string>
     <string name="condition_airplane_summary">La red móvil, la conexión Wi-Fi y el Bluetooth están desactivados. No puedes hacer llamadas ni conectarte a Internet.</string>
     <string name="condition_airplane_title">Modo avión activado</string>
@@ -1894,7 +1894,7 @@ Debes restablecer los datos de fábrica para volver a usar el teléfono. Cuando 
     <string name="cutout_mode_always">Mostrar siempre notch</string>
     <string name="cutout_mode_default">Auto</string>
     <string name="cutout_mode_settings_title">Algunas aplicaciones pueden mostrarse incorrectamente si personaliza la forma en que se muestra el notch.</string>
-    <string name="cutout_mode_title">Notch en aplicaciones individuales</string>
+    <string name="cutout_mode_title">Notch en cada aplicación</string>
     <string name="cutout_type_desc">Activar para suavizar las curvas de notch</string>
     <string name="cutout_type_title">Administrar forma notch</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (rojo-verde)</string>
@@ -1909,10 +1909,9 @@ Debes restablecer los datos de fábrica para volver a usar el teléfono. Cuando 
     <string name="dangerous_option_hint_title">Característica de alto riesgo habilitada</string>
     <string name="dangerous_option_switch_title">Notificar sobre características de alto riesgo</string>
     <string name="dark_color_mode">"Modo oscuro"</string>
-    <string name="dark_color_summary">"Use la paleta de colores más oscuros para los fondos del sistema y las aplicaciones compatibles"</string>
-    <string name="dark_color_summary_lcd">Usar una paleta de colores más oscuros para fondos del sistema y aplicaciones compatibles. El modo oscuro puede ayudarlo a aliviar la fatiga visual cuando usa su dispositivo en la oscuridad.</string>
+    <string name="dark_color_summary_lcd">"Usar una paleta de colores más oscuros para fondos del sistema y aplicaciones compatibles. El modo oscuro puede ayudarte a aliviar la fatiga visual cuando uses tu dispositivo en la oscuridad."</string>
     <string name="dark_color_summary_oled">Usar una paleta de colores más oscuros para fondos del sistema y aplicaciones compatibles. El modo oscuro reduce el consumo de energía y ayuda a aliviar la fatiga visual</string>
-    <string name="dark_mode_contrast">Ajusta el contraste automáticamente</string>
+    <string name="dark_mode_contrast">Ajustar el contraste automáticamente</string>
     <string name="dark_mode_contrast_hint">Ajusta los colores y reduce el contraste automáticamente cuando se reduce el brillo</string>
     <string name="dark_ui_mode">Modo nocturno</string>
     <string name="dark_ui_mode_disabled_summary_dark_theme_off">Activado temporalmente para ahorrar batería</string>
@@ -2168,7 +2167,7 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
     <string name="device_admin_settings_title">Ajustes del administrador de dispositivos</string>
     <string name="device_admin_status">Esta aplicación del administrador está activa y permite que la aplicación %1$s realice las siguientes acciones:</string>
     <string name="device_admin_warning">Al activar esta aplicación del administrador, permites que la aplicación %1$s realice las siguientes acciones:</string>
-    <string name="device_admin_warning_simplified">%1$s gestionará y supervisará el dispositivo</string>
+    <string name="device_admin_warning_simplified">Este dispositivo será gestionado y supervisado por %1$s.</string>
     <string name="device_available_memory">Almacenamiento disponible</string>
     <string name="device_battery">Batería</string>
     <string name="device_build_id">Número de versión</string>
@@ -2349,7 +2348,7 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
     <string name="dndm_notification">Modo No molestar activado</string>
     <string name="dndm_open">No molestar</string>
     <string name="dndm_repeated_call_setting_title">Llamadas repetidas</string>
-    <string name="dndm_repeated_call_summary_3min">El teléfono sonará cuando recibas una segunda llamada del mismo número en un período de 3 minutos</string>
+    <string name="dndm_repeated_call_summary_3min">El teléfono sonará cuando recibas una segunda llamada del mismo número en un periodo de 3 minutos</string>
     <string name="dndm_repeated_call_summary_none">Silenciar llamadas repetidas del mismo número</string>
     <string name="dndm_special_call_setting_group">Excepciones</string>
     <string name="dndm_summary">Las llamadas y notificaciones entrantes serán silenciadas cuando el modo No molestar esté activo.</string>
@@ -2518,7 +2517,7 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
     <string name="enable_text">Habilitar</string>
     <string name="enable_wifi_calling">Habilitar llamadas Wi-Fi</string>
     <string name="enable_wifi_display">Pantalla inalámbrica</string>
-    <string name="enabled_authorised_apps_summary">Su autorización se revocará después de alternar interruptores de aplicaciones individuales.</string>
+    <string name="enabled_authorised_apps_summary">Tu autorización se revocará después de alternar los interruptores de cada aplicación.</string>
     <string name="enabled_authorised_apps_title">Autorización concedida</string>
     <string name="enabled_by_admin">Habilitado por el administrador</string>
     <string name="enalbe_identify_iPhone">Identificación de dispositivo</string>
@@ -3173,16 +3172,16 @@ Puedes cambiar esta opción en cualquier momento en Ajustes > Aplicaciones y not
     <string name="homepage_personal_settings">Sugerencias</string>
     <string name="hotknot_charging_warning">La función %s puede verse afectada durante la carga USB</string>
     <string name="hotknot_explained_description">Permitir intercambio de datos cuando la pantalla toca otro dispositivo</string>
-    <string name="how_backup_content">"Puede guardar copias de seguridad localmente o en la nube. Las copias de seguridad locales se pueden almacenar en su dispositivo móvil, computadora o unidad USB.
+    <string name="how_backup_content">"Puedes guardar copias de seguridad localmente o en la nube. Las copias de seguridad locales se pueden almacenar en tu dispositivo móvil, computadora o unidad USB.
 
 Dispositivo móvil
-Guarde la configuración del sistema, las cuentas, los datos de la aplicación y otros elementos en un archivo separado almacenado en su dispositivo (MIUI-backup-AllBackup). Nota: Realizar un restablecimiento de fábrica eliminará tales copias de seguridad de forma permanente. Recuerde copiar copias de seguridad a su computadora.
+Guarda la configuración del sistema, las cuentas, los datos de la aplicación y otros elementos en un archivo separado almacenado en su dispositivo (MIUI-backup-AllBackup). Nota: Realizar un restablecimiento de fábrica eliminará tales copias de seguridad de forma permanente. Recuerda copiar las copias de seguridad a tu ordenador.
 
-Computadora
-Cree una copia de seguridad en este dispositivo, luego vaya a MIUI-backup-AllBackup y copie la copia de seguridad en su computadora mediante un cable USB.
+Ordenador
+Crea una copia de seguridad en este dispositivo, luego ve a MIUI-backup-AllBackup y copia la copia de seguridad en tu ordenador mediante un cable USB.
 
 Unidad USB
-Guarde la configuración del sistema, las cuentas, los datos de la aplicación y otros elementos en una unidad USB.
+Guarda la configuración del sistema, las cuentas, los datos de la aplicación y otros elementos en una unidad USB.
 
 Xiaomi Cloud
 Sincroniza tus contactos, fotos, videos, la lista de sus aplicaciones, la configuración del sistema y el diseño de la pantalla de inicio con la nube."</string>
@@ -3191,18 +3190,18 @@ Sincroniza tus contactos, fotos, videos, la lista de sus aplicaciones, la config
 a) Ve a Ajustes &gt; Ajustes adicionales en la página con tus copias de seguridad locales, toca el botón para activar el cifrado e inicia sesión en tu Cuenta Mi. Las copias de seguridad se cifrarán automáticamente después de eso. Recuerda que deberás iniciar sesión en tu Cuenta Mi para restaurar elementos de las copias de seguridad cifradas.
 b) Si estás utilizando Mi PC Suite para copiar los elementos, puedes usar las opciones de cifrado allí.
 
-Nota: ¡Recuerde la contraseña que estableció para las copias de seguridad cifradas! No podrá descifrar sus copias de seguridad si lo olvida."</string>
+Nota: ¡Recuerda la contraseña que estableciste para las copias de seguridad cifradas! No podrás descifrar tus copias de seguridad si la olvidas."</string>
     <string name="how_encrypt_title">¿Cómo cifro mis copias de seguridad?</string>
-    <string name="how_restore_backup_content">"A continuación, le mostramos cómo puede restaurar elementos de los que se realizó una copia de seguridad utilizando diferentes métodos:
+    <string name="how_restore_backup_content">"A continuación, te mostramos cómo puedes restaurar elementos de los que se realizó una copia de seguridad utilizando diferentes métodos:
 
 Dispositivo móvil
-Toca \"Dispositivo móvil\", encuentre la opción para restaurar elementos y seleccione la copia de seguridad para continuar.
+Toca \"Dispositivo móvil\", encuentra la opción para restaurar elementos y selecciona la copia de seguridad para continuar.
 
-Computadora
-Copie la copia de seguridad de su computadora a MIUI-backup-AllBackup a través del cable USB y restaure elementos desde su dispositivo móvil.
+Ordenador
+Copia la copia de seguridad de tu ordenador a MIUI-backup-AllBackup a través del cable USB y restaura elementos desde tu dispositivo móvil.
 
 Unidad USB
-Copie la copia de seguridad de su unidad USB a MIUI-backup-AllBackup y seleccione la opción para restaurar elementos desde una unidad USB para continuar.
+Copia la copia de seguridad de tu unidad USB a MIUI-backup-AllBackup y selecciona la opción para restaurar elementos desde una unidad USB para continuar.
 
 Xiaomi Cloud
 Abre Xiaomi Cloud y restaura elementos desde allí."</string>
@@ -5653,9 +5652,9 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="screen_dark_mode_advanced_title">Avanzado</string>
     <string name="screen_dark_mode_select_time_error_summary">La hora de inicio y la hora de fin no pueden ser iguales</string>
     <string name="screen_dark_mode_smart_dark_3rd_apps_list">Aplicaciones de terceros</string>
-    <string name="screen_dark_mode_smart_dark_apps_setting_summary">Algunas aplicaciones pueden mostrarse incorrectamente en modo oscuro. Puede restringir el uso del modo Oscuro para aplicaciones individuales aquí.</string>
+    <string name="screen_dark_mode_smart_dark_apps_setting_summary">Algunas aplicaciones pueden mostrarse incorrectamente en modo oscuro. Aquí puedes restringir el uso del modo oscuro en cada aplicación.</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_title">Aplicaciones individuales</string>
-    <string name="screen_dark_mode_smart_dark_summary">También aplicar el modo oscuro a aplicaciones de terceros. Algunas aplicaciones podrían no ser mostradas correctamente.</string>
+    <string name="screen_dark_mode_smart_dark_summary">Aplicar también el modo oscuro a aplicaciones de terceros. Algunas aplicaciones podrían no mostrarse correctamente.</string>
     <string name="screen_dark_mode_smart_dark_title">Modo oscuro general</string>
     <string name="screen_dark_mode_time_title">Programar</string>
     <string name="screen_effect">Contraste y colores</string>
@@ -6497,7 +6496,7 @@ Es posible que el PIN no sea correcto."</string>
     <string name="sos_phone_call_privacy_dialog_message">"Para llamar a sus contactos de emergencia y reproducir grabación SOS, esta aplicación necesita los siguientes permisos:
 • Hacer llamadas
 Para hacer llamadas a sus contactos de emergencia
-• Monitorear el estado del dispositivo
+• Monitorizar el estado del dispositivo
 Para reproducir la grabación SOS cuando sus contactos de emergencia recogen
 Si no acepta otorgar tales permisos, no podrá usar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible para usted. Siempre puedes elegir desactivar esta función."</string>
     <string name="sos_phone_call_privacy_dialog_message_confirm">Permitir</string>
@@ -6562,10 +6561,10 @@ Antes de utilizar nuestros servicios, lea y acepte nuestro %s."</string>
     <string name="spellcheckers_settings_title">Corrector ortográfico</string>
     <string name="split_screen">Abrir Pantalla dividida</string>
     <string name="ssid_label">SSID</string>
-    <string name="ssl_ca_cert_warning">Puede que la red esté supervisada</string>
-    <string name="ssl_ca_cert_warning_message">"Un tercero puede supervisar tu actividad de la red, incluidos los correos electrónicos, las aplicaciones y los sitios web seguros.
+    <string name="ssl_ca_cert_warning">La red puede ser monitorizada</string>
+    <string name="ssl_ca_cert_warning_message">"Un tercero puede monitorizar tu actividad en la red, incluidos los correos electrónicos, las aplicaciones y los sitios web seguros.
 
-Esto es posible por una credencial de confianza instalada en tu dispositivo."</string>
+Esto es posible por medio de una credencial de confianza instalada en tu dispositivo."</string>
     <string name="stable_build">Estable</string>
     <string name="standard">Silenciar</string>
     <string name="standard_info">Se silenciarán llamadas y notificaciones</string>
@@ -6627,7 +6626,7 @@ Esto es posible por una credencial de confianza instalada en tu dispositivo."</s
     <string name="status_bar_settings_show_lte_for_4g">Mostrar icono LTE para 4G</string>
     <string name="status_bar_settings_show_network_speed">Mostrar velocidad de conexión</string>
     <string name="status_bar_settings_show_notification_icon">Mostrar iconos de notificación</string>
-    <string name="status_bar_settings_show_weather">Mostrar clima en la barra de notificaciones</string>
+    <string name="status_bar_settings_show_weather">Mostrar el tiempo en la barra de notificaciones</string>
     <string name="status_bar_settings_show_wifi_name">Mostrar Wi-Fi</string>
     <string name="status_bar_settings_status_bar">Barra de estado</string>
     <string name="status_bar_settings_style">Notificaciones y disposición de los accesos directos</string>
@@ -6936,7 +6935,7 @@ Considera usar una ^1 para mejorar el rendimiento."</string>
     <string name="summary_font_size_v2">Ajustar tamaño del texto, imágenes, y iconos</string>
     <string name="summary_range_verbal_combination">De %1$s a %2$s</string>
     <string name="sunlight_mode">Modo luz solar</string>
-    <string name="sunlight_mode_summary">Ajuste el brillo a una luz ambiental intensa cuando el brillo automático esté apagado</string>
+    <string name="sunlight_mode_summary">Ajustar el brillo a una luz ambiental intensa cuando el brillo automático esté desactivado</string>
     <string name="super_resolution_access_title">Aplicaciones accesibles</string>
     <string name="super_resolution_desc">Hacer las imágenes más nítidas usando un algoritmo IA</string>
     <string name="super_resolution_maintain">Súper resolución no disponible.</string>
@@ -7730,7 +7729,7 @@ Toca en más para añadir palabras."</string>
     <string name="voice_input_output_settings_title">Configuración entrada y salida de voz</string>
     <string name="voice_input_settings">Ajustes de entrada de voz</string>
     <string name="voice_input_settings_title">Entrada de voz</string>
-    <string name="voice_interaction_security_warning">Este servicio de entrada de voz podrá supervisar que la voz siempre esté activada y controlar las aplicaciones compatibles con la entrada de voz en tu nombre. Procede de la aplicación %s. ¿Quieres habilitar el uso de este servicio?</string>
+    <string name="voice_interaction_security_warning">Este servicio de entrada de voz podrá realizar un monitoreo de voz siempre activo y controlar las aplicaciones habilitadas por voz en tu nombre. Procede de la aplicación %s. ¿Habilitar el uso de este servicio?</string>
     <string name="voice_interactor_preference_summary">Interacción y palabra activa completa</string>
     <string name="voice_recognizer_preference_summary">Síntesis de voz simple</string>
     <string name="voice_search_settings_title">Búsqueda por voz</string>
@@ -8622,7 +8621,7 @@ Toca" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi."</string>
     <string name="xspace">Aplicaciones duales</string>
     <string name="yes">Sí</string>
     <string name="zen_access_detail_switch">Permitir No molestar</string>
-    <string name="zen_access_disabled_package_warning">Debe activarse porque el acceso a las notificaciones está activado</string>
+    <string name="zen_access_disabled_package_warning">Debe permanecer activado porque el acceso a las notificaciones está activado</string>
     <string name="zen_access_empty_text">Ninguna aplicación instalada ha solicitado acceso de No molestar</string>
     <string name="zen_access_revoke_warning_dialog_summary">Se quitarán todas las reglas de No molestar que esta aplicación haya creado.</string>
     <string name="zen_access_revoke_warning_dialog_title">¿Quieres revocar el acceso a No molestar de %1$s?</string>
