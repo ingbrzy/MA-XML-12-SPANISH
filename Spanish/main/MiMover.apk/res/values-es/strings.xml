@@ -163,7 +163,7 @@ Visita https://appleid.apple.com/#!&amp;page=signin para desactivar"</string>
   <string name="com_miui_huanji">Mi Mover</string>
   <string name="com_miui_notes">Notas</string>
   <string name="com_miui_screenrecorder">Grabadora de pantalla</string>
-  <string name="com_miui_weather2">Clima</string>
+  <string name="com_miui_weather2">Tiempo</string>
   <string name="com_xiaomi_drivemode">Modo Auto</string>
   <string name="com_xiaomi_gamecenter">Juegos</string>
   <string name="com_xiaomi_jr">Mi Finanzas</string>
@@ -510,9 +510,9 @@ Abre WeChat y ve a Yo > Ajustes > General > Respaldo y migración."</string>
   <string name="fmt_date_numeric_year_month">M-yyyy</string>
   <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
   <string name="fmt_date_short_month">MMM</string>
-  <string name="fmt_date_short_month_day">MMM d</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
   <string name="fmt_date_short_year_month">MMM yyyy</string>
-  <string name="fmt_date_short_year_month_day">MMM d, yyyy</string>
+  <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
   <string name="fmt_date_time">D T</string>
   <string name="fmt_date_time_timezone">D T z</string>
   <string name="fmt_date_timezone">D z</string>
@@ -557,7 +557,7 @@ Abre WeChat y ve a Yo > Ajustes > General > Respaldo y migración."</string>
   <string name="guest_install_app_hint_ensure">Descargar</string>
   <string name="guest_install_app_hint_summary">"La nueva versión de Mi Mover no es compatible con la instalada en este dispositivo. Descarga e instala la nueva versión."</string>
   <string name="guest_install_app_hint_title">Descarga la nueva versión de Mi Mover</string>
-  <string name="guest_unfinished_task_alert_btn_negative">Iniciar de nuevo</string>
+  <string name="guest_unfinished_task_alert_btn_negative">Empezar de nuevo</string>
   <string name="guest_unfinished_task_alert_btn_positive">Continuar</string>
   <string name="guest_unfinished_task_alert_message">Parece que tienes tareas de transferencia sin finalizar. ¿Continuar con la transferencia?</string>
   <string name="guest_unfinished_task_alert_title">Tareas sin finalizar</string>
@@ -611,7 +611,7 @@ Abre WeChat y ve a Yo > Ajustes > General > Respaldo y migración."</string>
   <string name="icloud_data_importing">Importando...</string>
   <string name="icloud_how_to_backup_tip_steps">"Atención
 1. Para importar elementos de un dispositivo iOS, usa el respaldo más reciente o sincroniza todos los elementos antes de comenzar la transferencia."</string>
-  <string name="icloud_how_to_backup_tip_steps_two">"2. Tu Apple ID y contraseña serán usados sólo para iniciar sesión. No serán almacenados o grabados por Mi Mover."</string>
+  <string name="icloud_how_to_backup_tip_steps_two">"2. Tu Apple ID y contraseña serán usados solo para iniciar sesión. No serán almacenados o grabados por Mi Mover."</string>
   <string name="icloud_login_title">Inicia sesión en iCloud</string>
   <string name="icloud_need_sync">Selecciona elementos para importar</string>
   <string name="icloud_need_traffic_message">"No estás conectado a Wifi ahora. ¿Deseas usar los datos móviles para importar elementos desde iCloud?"</string>
@@ -654,7 +654,7 @@ Abre WeChat y ve a Yo > Ajustes > General > Respaldo y migración."</string>
   <string name="lack_perm_title">Permisos necesarios</string>
   <string name="launcher">Diseño de la pantalla de inicio</string>
   <string name="less_than_1_minute">Menos de 1 minutos</string>
-  <string name="loading_data">Sólo un segundo...</string>
+  <string name="loading_data">Un momento...</string>
   <string name="login">Iniciar sesión</string>
   <string name="login_failed">"No se pudo iniciar sesión. Intenta nuevamente."</string>
   <string name="logining">Iniciando sesión...</string>
@@ -724,13 +724,13 @@ Abre WeChat y ve a Yo > Ajustes > General > Respaldo y migración."</string>
   <string name="need_more_memory_cacel">Cancelar</string>
   <string name="need_more_memory_confirm">Limpiador</string>
   <string name="need_more_memory_summary">"No hay suficiente espacio de almacenamiento. Mi Mover necesita %1$s de espacio de almacenamiento adicional para crear paquetes comprimidos antes de la transferencia.
-1. Intenta transferir sólo elementos importantes.
+1. Intenta transferir solo elementos importantes.
 2. No selecciones apps con mucha información.
 3. Usa el Limpiador para liberar espacio de almacenamiento."</string>
   <string name="need_more_memory_title">No hay suficiente espacio de almacenamiento</string>
   <string name="new_app_name">Nueva versión</string>
   <string name="new_main_activity_label">Mi Mover</string>
-  <string name="new_trans_intro_desc_2">"No es necesario ingresar contraseña en la nueva versión de Mi Mover. Sólo abre Mi Mover en tu dispositivo antiguo, toca \"Yo estoy enviando\", y toca el nombre del punto de acceso para conectarte."</string>
+  <string name="new_trans_intro_desc_2">"No es necesario ingresar contraseña en la nueva versión de Mi Mover. Solo abre Mi Mover en tu dispositivo antiguo, toca \"Yo estoy enviando\", y toca el nombre del punto de acceso para conectarte."</string>
   <string name="new_trans_intro_desc_3">Mo Mover necesita espacio de almacenamiento para crear un paquete de transferencia en tu dispositivo antiguo antes de enviarlo al nuevo. Libera espacio antes de continuar.</string>
   <string name="new_trans_intro_desc_4">Podría haber problemas de compatibilidad con el dispositivo, el sistema y la versión de la app que eviten que algunas apps se transfieran correctamente.</string>
   <string name="new_trans_intro_desc_5">"Algunas apps (por ejemplo, servicios financieros y herramientas de pago) no permiten la transferencia de contraseña por razones de seguridad."</string>
@@ -751,7 +751,7 @@ Abre WeChat y ve a Yo > Ajustes > General > Respaldo y migración."</string>
   <string name="new_wait_link_first">"1. Abre Mi Mover en tu dispositivo antiguo.
 2. Toca \"Yo estoy enviando\" y espera un momento.
 3. Selecciona el siguiente punto de acceso en el dispositivo antiguo."</string>
-  <string name="new_wait_link_message_1">Ve a Ajustes, ingresa \"Mi Mover\" en la barra de búsqueda, y presiona \"Mi Mover\" en los resultados de búsqueda.</string>
+  <string name="new_wait_link_message_1">Ve a Ajustes, ingresa \"Mi Mover\" en la barra de búsqueda, y pulsa \"Mi Mover\" en los resultados de búsqueda.</string>
   <string name="new_wait_link_message_2">"El botón \"Yo estoy enviando\" está en la página de inicio de Mi Mover."</string>
   <string name="new_wait_link_title_1">1. Ve a Ajustes en tu dispositivo antiguo.</string>
   <string name="new_wait_link_title_2">2. Ingresa \"Mi Mover\" en la barra de búsqueda.</string>
@@ -867,7 +867,7 @@ Los datos que no fueron importados deben ser importados nuevamente."</string>
   <string name="saving_data_space_low">"No hay suficiente espacio de almacenamiento.
 Libera al menos %s."</string>
   <string name="scan_soft_ap_label">Conectar al dispositivo nuevo</string>
-  <string name="scanner_bottom_tip">Selecciona sólo los elementos importantes para transferir más rápido.</string>
+  <string name="scanner_bottom_tip">Selecciona solo los elementos importantes para transferir más rápido.</string>
   <string name="scanner_not_support_data_transfer_tip">"No se puede transferir los datos de apps (incluyendo WeChat y el historial QQ) de dispositivos que no son Xiaomi."</string>
   <string name="scanner_permission_alert_cancel">Entendido</string>
   <string name="scanner_permission_alert_ok">Ajustes</string>
@@ -895,7 +895,7 @@ Libera al menos %s."</string>
   <string name="select_item_notes">Notas</string>
   <string name="select_item_photos">Fotos</string>
   <string name="select_item_remind">Recordatorios</string>
-  <string name="select_item_summary_loading">Sólo un segundo...</string>
+  <string name="select_item_summary_loading">Un momento...</string>
   <string name="selected">Seleccionado</string>
   <string name="send">Enviado</string>
   <string name="send_sms_for_sync_notice">Un SMS puede ser necesario para activar este servicio. Tu proveedor podría cobrarte por este mensaje.</string>
@@ -909,7 +909,7 @@ Libera al menos %s."</string>
   <string name="settings_wifi">Ajustes de Wifi</string>
   <string name="sim_changed_reactivate_int_notice">Un SMS internacional puede ser necesario para activar este servicio. Tu proveedor podría cobrarte por este mensaje.</string>
   <string name="sim_changed_reactivate_notice">Un SMS internacional puede ser necesario para activar este servicio. Tu proveedor podría cobrarte por este mensaje.</string>
-  <string name="sim_in_airplane_mode">Desactiva el Modo Avión.</string>
+  <string name="sim_in_airplane_mode">Desactiva el modo avión.</string>
   <string name="sim_locked">La tarjeta SIM está bloqueada.</string>
   <string name="sim_not_ready">La tarjeta SIM está en uso. Reintenta más tarde.</string>
   <string name="sim_unavailable">Tarjeta SIM no disponible.</string>

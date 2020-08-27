@@ -41,20 +41,21 @@
     <string name="atrace_saving">Guardando registro de ATrace…</string>
     <string name="atrace_start">Grabando registro de ATrace…</string>
     <string name="base_info">Info básica</string>
-    <string name="cloud_addr_info">Info de la Nube</string>
+    <string name="cloud_addr_info">Info de la nube</string>
     <string name="cloud_china_addr">Actualizar datos del servidor chino</string>
+    <string name="cloud_russion_addr">Actualizar datos del servidor ruso</string>
     <string name="cloud_international_addr">Actualizar datos de servidor internacional</string>
     <string name="cloud_staging_addr">Actualizar datos de servidor intermediario</string>
     <string name="config_classify">Ordenar por conf. de la aplicación</string>
     <string name="config_description">MIUI puede identificar aplicaciones especificas con procesos en segundo plano (por ejemplo, aplicaciones de mensajería y navegación, reproductores multimedia), y aplicar el ahorro de batería de una manera que no influya de forma importante en la actividad que se ejecute en segundo plano.</string>
-    <string name="config_mode_title">Configuraciones de segundo plano</string>
+    <string name="config_mode_title">Configuración en segundo plano</string>
     <string name="config_no_restrict_description">El Ahorro de batería no restringe la actividad de las aplicaciones</string>
     <string name="config_no_restrict_title">Sin restricciones</string>
-    <string name="config_restrict_function_description">Algunas características (por ejemplo, las notificaciones del servidor) pueden verse afectadas, pero las aplicaciones no se cerrarán</string>
+    <string name="config_restrict_function_description">Algunas características (por ejemplo, las notificaciones push) pueden verse afectadas, pero las aplicaciones no se cerrarán</string>
     <string name="config_restrict_function_title">Restringir aplicaciones en segundo plano</string>
     <string name="config_restrict_running_description">Las aplicaciones se cerrarán para ahorrar batería</string>
     <string name="config_restrict_running_title">Restringir actividad en segundo plano</string>
-    <string name="config_restrict_running_warning">Se cerrarán aplicaciones en segundo plano. Esto podría causar problemas.</string>
+    <string name="config_restrict_running_warning">Las aplicaciones serán cerradas en segundo plano. Esto podría causar problemas.</string>
     <string name="config_scenario_policies_title">Escenarios</string>
     <string name="config_suggest_description">"Identificar las aplicaciones y actividades para mantener los procesos importantes activos.
 El Ahorro de batería tratará de forma selectiva las aplicaciones importantes."</string>
@@ -63,17 +64,17 @@ El Ahorro de batería tratará de forma selectiva las aplicaciones importantes."
     <string name="copy">Copiar</string>
     <string name="current_cloud_addr_is">La dirección del servidor de control en la nube es:</string>
     <string name="empty_title_apps_container_list">Sin aplicaciones</string>
-    <string name="enable_sleep_mode">Activa el Modo suspensión para optimizar el uso de la batería por las noches</string>
+    <string name="enable_sleep_mode">Activa el modo suspensión para optimizar el uso de la batería por las noches</string>
     <string name="error_filename_too_long">Nombre de archivo demasiado largo.</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="extreme_add_white_list_summary">Añade hasta 4 aplicaciones</string>
     <string name="extreme_add_white_list_title">Excepciones de segundo plano</string>
-    <string name="extreme_mode_max_item_alert">Puedes seleccionar hasta 4 aplicaciones para ejecutar en segundo plano en el Modo extremo</string>
+    <string name="extreme_mode_max_item_alert">Puedes seleccionar hasta 4 aplicaciones para ejecutar en segundo plano en el modo extremo</string>
     <string name="extreme_power_config_mode_category">Modo extremo</string>
-    <string name="extreme_power_config_mode_desc">"&lt;li&gt;El ahorro de batería extremo detiene toda la actividad en segundo plano de una aplicación después de abandonarla y regresa a la Pantalla de inicio. Esta aplicación no te enviará notificaciones ni recibirá actualizaciones.&lt;/li&gt;"
-"&lt;li&gt;Si deseas que una aplicación se ejecute en segundo plano, fíjala en Recientes o añádela a las excepciones en segundo plano a continuación. Hasta 4 aplicaciones pueden ejecutarse en segundo plano mientras el ahorro de batería extremo esté activado.&lt;/li&gt;"
-"&lt;li&gt;El ahorro de batería extremo desactiva el NFC por defecto. Puedes modificar esto en Ajustes.&lt;/li&gt;"
-"&lt;li&gt;Para asegurar que puedas utilizar todas las funciones de tu dispositivo normalmente, el ahorro de batería extremo se desactivará cuando tu batería esté cargada al 30%.&lt;/li&gt;"</string>
+    <string name="extreme_power_config_mode_desc"><li>"El ahorro de batería extremo detiene toda la actividad en segundo plano de una aplicación después de salir de ella y volver a la Pantalla de inicio. Esta aplicación no te enviará notificaciones ni recibirá actualizaciones."</li>"
+"<li>Si deseas que una aplicación se ejecute en segundo plano, fíjala en Recientes o añádela a las excepciones en segundo plano a continuación. Hasta 4 aplicaciones pueden ejecutarse en segundo plano mientras el ahorro de batería extremo esté activado.</li>"
+"<li>El ahorro de batería extremo desactiva el NFC por defecto. Puedes modificar esto en Ajustes.</li>"
+"<li>Para asegurar que puedas utilizar todas las funciones de tu dispositivo normalmente, el ahorro de batería extremo se desactivará cuando tu batería esté cargada al 30%.</li>"</string>
     <string name="extreme_power_config_mode_summary">El ahorro de batería extremo restringe la actividad en segundo plano y detiene la sincronización.</string>
     <string name="extreme_power_config_mode_title">Modo extremo</string>
     <string name="extreme_power_settings_title">ajustes</string>
@@ -100,7 +101,7 @@ El Ahorro de batería tratará de forma selectiva las aplicaciones importantes."
     <string name="not_set">No establecido</string>
     <string name="notification_exit_extreme_mode_text">La batería tiene más del %s de carga</string>
     <string name="notification_exit_extreme_mode_title">Ahorro de batería extremo desactivado</string>
-    <string name="notification_open_extreme_mode_text">Ahorro de batería extremo activo</string>
+    <string name="notification_open_extreme_mode_text">Ahorro de batería extremo activado</string>
     <string name="performance_category">Rendimiento</string>
     <string name="permstep_description">Permite que esta aplicación acceda a tu conteo de pasos</string>
     <string name="permstep_label">Acceder al recuento de pasos</string>

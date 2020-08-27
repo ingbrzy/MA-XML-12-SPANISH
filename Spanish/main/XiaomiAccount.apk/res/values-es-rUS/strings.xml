@@ -206,7 +206,7 @@
     <string name="passport_get_innetdate_msg">&lt;font color=Red>Parece ser que&lt;/font>el número %s ha sido reciclado por su operador. ¿Verificar cuándo el número estuvo en línea?</string>
     <string name="passport_get_innetdate_agree">Verificar</string>
     <string name="passport_get_innetdate_disagree">No</string>
-    <string name="passport_extra_gdpr_license">Al crear Cuenta Mi, usted está de acuerdo con que Xiaomi recolecte, procese y utilice su información personal, incluyendo la información de verificación (códigos de verificación), información del Segundo Espacio (información sobre cómo utiliza el Segundo Espacio, identificaciones utilizadas en el Primer y Segundo Espacio), y otra información especificada en nuestra Política de Privacidad. Vaya a nuestra Política de Privacidad para aprender más sobre cómo procesamos y utilizamos su información personal.</string>
+    <string name="passport_extra_gdpr_license">Al crear Cuenta Mi, usted está de acuerdo con que Xiaomi recolecte, procese y utilice su información personal, incluyendo la información de verificación (códigos de verificación), información del Segundo espacio (información sobre cómo utiliza el Segundo espacio, identificaciones utilizadas en el Primer y Segundo espacio), y otra información especificada en nuestra Política de Privacidad. Vaya a nuestra Política de Privacidad para aprender más sobre cómo procesamos y utilizamos su información personal.</string>
     <string name="passport_talkback_image_captcha">Código de imagen de verificación</string>
     <string name="passport_talkback_voice_captcha">Reproducir código de verificación de voz</string>
     <string name="passport_talkback_switch_voice_captcha">Cambiar a código de verificación de voz</string>
@@ -337,8 +337,6 @@
     <string name="action_update_phone">Cambiar número de teléfono</string>
     <string name="action_add_phone">Agregar número de teléfono</string>
     <string name="phone_num_use_for">El número de teléfono se usa para:</string>
-    <string name="sign_in">Iniciando sesión</string>
-    <string name="get_back_pwd">Restableciendo contraseña</string>
     <string name="identity">Identificación</string>
     <string name="set_success">Modificado con éxito</string>
     <string name="account_user_details">Información personal</string>
@@ -402,8 +400,8 @@
     <string name="login_check_find_device_failed_title">No se pudo comprobar la información de seguridad del dispositivo</string>
     <string name="notify_network_restricted_title">Cuenta Mi no se pudo conectar a la red</string>
     <string name="notify_network_restricted_content_hidden_state">La actividad de la Cuenta Mi está restringida a segundo plano. Toca para permitir.</string>
-    <string name="notify_network_restricted_content_bg_network">El acceso a internet por parte de la Cuenta Mi está restringida. Toca para permitir.</string>
-    <string name="notify_network_restricted_content_mobile_network">El acceso a internet por parte de la Cuenta Mi está restringida. Toca para permitir.</string>
+    <string name="notify_network_restricted_content_bg_network">El acceso a Internet por parte de la Cuenta Mi está restringida. Toca para permitir.</string>
+    <string name="notify_network_restricted_content_mobile_network">El acceso a Internet por parte de la Cuenta Mi está restringida. Toca para permitir.</string>
     <string name="login_guard_prompt">Requerir número de verificación de teléfono al iniciar sesión de Cuenta Mi por primera vez en un dispositivo o app desconocidos.</string>
     <string name="verified_devices">Dispositivos verificados</string>
     <string name="verified_apps">Apps verificadas</string>
@@ -468,7 +466,7 @@ ID de su cuenta: %s"</string>
     <string name="bind_safe_phone_msg">Agregar su número telefónico para poder iniciar sesión en Cuenta Mi la próxima vez.</string>
     <string name="account_notification_message">La sesión expiró. Vuelva a iniciar sesión.</string>
     <string name="sim_changed_notification_title">¿Cambió su número de teléfono?</string>
-    <string name="sim_changed_notification_msg">Toca para actualizar su teléfono de respaldo y mantener su cuenta más segura.</string>
+    <string name="sim_changed_notification_msg">Toque para actualizar su teléfono de respaldo y mantener su cuenta más segura.</string>
     <string name="recycle_phone_notification_title">Riesgo de seguridad de Cuenta Mi</string>
     <string name="recycle_phone_notification_msg">Parece que su número de teléfono ha sido reciclado. Toca para actualizar.</string>
      <string name="abc_action_menu_overflow_description">Mas opciones</string>
@@ -493,7 +491,7 @@ ID de su cuenta: %s"</string>
      <string name="collect_diagnosis_log">Generar registro de diagnóstico</string>
      <string name="com_facebook_device_auth_instructions">Visite &lt;b&gt;facebook.com/device&lt;/b&gt; e ingrese el código que se muestra arriba.</string>
      <string name="com_facebook_image_download_unknown_error">Error inesperado al descargar la imagen.</string>
-     <string name="com_facebook_internet_permission_error_message">WebView requiere permiso de INTERNET</string>
+     <string name="com_facebook_internet_permission_error_message">WebView requiere permiso de Internet</string>
      <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
      <string name="com_facebook_like_button_liked">Liked</string>
      <string name="com_facebook_like_button_not_liked">Like</string>
@@ -580,7 +578,7 @@ Enviar este código al supervisor."</string>
      <string name="select_all">Seleccionar todo</string>
      <string name="send_diagnosis_log">Enviar registro de diagnóstico</string>
      <string name="sending">Enviando…</string>
-     <string name="sim_card">tarjeta SIM</string>
+     <string name="sim_card">Tarjeta SIM</string>
      <string name="system_ad">Anuncios en aplicaciones del sistema</string>
      <string name="system_ad_list">Ver aplicaciones relacionadas.</string>
      <string name="system_ad_summary">"Active esta función para permitir mostrar una pequeña cantidad de anuncios en las aplicaciones del sistema. Estos anuncios nos ayudan a desarrollar y mejorar nuestros productos y servicios. Puede optar por desactivar esta función en cualquier momento. ¡Gracias por su apoyo! "</string>

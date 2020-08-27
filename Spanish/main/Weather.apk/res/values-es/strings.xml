@@ -3,9 +3,9 @@
     <string name="about_weather_setting">Acerca de Tiempo</string>
     <string name="about_weather_setting_feedback">Comentarios</string>
     <string name="abrupt_weather_settings_summary_type">Recibir alertas acerca de previsiones de lluvias, cambios en la calidad del aire y otros cambios significativos</string>
-    <string name="abrupt_weather_settings_summary_type_a">Interruptor de advertencia de clima inusual</string>
-    <string name="abrupt_weather_settings_summary_type_b">Interruptor de advertencia de clima inusual</string>
-    <string name="abrupt_weather_settings_title">Aviso de clima inusual</string>
+    <string name="abrupt_weather_settings_summary_type_a">Interruptor de advertencia de tiempo inusual</string>
+    <string name="abrupt_weather_settings_summary_type_b">Interruptor de advertencia de tiempo inusual</string>
+    <string name="abrupt_weather_settings_title">Aviso de tiempo inusual</string>
     <string name="act_find_city_hint">Introducir ubicación</string>
     <string name="act_find_city_hot_attractions_title">Lugares populares</string>
     <string name="act_find_city_hot_city_title">Ciudades populares</string>
@@ -21,7 +21,7 @@
     <string name="activity_find_city_dialog_cancel">Cancelar</string>
     <string name="activity_find_city_dialog_message">Dejar que la aplicación de tiempo vea su ubicación</string>
     <string name="activity_find_city_dialog_message_global">Activa los servicios de ubicación y permite que tu dispositivo determine la ubicación mediante redes inalámbricas.</string>
-    <string name="activity_find_city_dialog_message_location_service">Para obtener información relevante sobre el clima, permite que el clima acceda a tu ubicación.</string>
+    <string name="activity_find_city_dialog_message_location_service">Para obtener información relevante sobre el tiempo, permite que Tiempo acceda a tu ubicación.</string>
     <string name="activity_find_city_dialog_set">Ajustes</string>
     <string name="activity_find_city_dialog_title">Acceso a ubicación</string>
     <string name="activity_main_clickable">></string>
@@ -101,7 +101,7 @@
     <string name="daily_forecast_add_city_add">Follow</string>
     <string name="daily_forecast_add_city_message">Follow the weather in %1$s for a more detailed forecast.</string>
     <string name="daily_forecast_add_city_title">Sigue el tiempo en %1$s</string>
-    <string name="daily_forecast_detail_date">M/d</string>
+    <string name="daily_forecast_detail_date">d/M</string>
     <string name="daily_forecast_no_data">"No se pudo obtener la información del tiempo
 Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="data_provided_by">Datos proporcionados por</string>
@@ -231,7 +231,7 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="reminder_from_xiaomi_weather_app">Alertas Mi Tiempo</string>
     <string name="retry">Intentar de nuevo</string>
     <string name="search_weather">El tiempo</string>
-    <string name="search_weather_keywords">Temperatura;Previsión meteorológica;El tiempo;Calidad del aire;Grado de contaminación;Humedad</string>
+    <string name="search_weather_keywords">Temperatura;Previsión meteorológica;Tiempo;Calidad del aire;Grado de contaminación;Humedad</string>
     <string name="set">Ajustes</string>
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>
@@ -250,7 +250,7 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">No se puede obtener captura de pantalla</string>
     <string name="shortcut_short_label_24_hour_forecast">Pronóstico de 24-horas</string>
-    <string name="shortcut_short_label_recent_forecast">Consulta el clima</string>
+    <string name="shortcut_short_label_recent_forecast">Consulta el tiempo</string>
     <string name="some_where_on_earth">En algún lugar de la Tierra</string>
     <string name="sunrise">Amanecer</string>
     <string name="sunset">Puesta de sol</string>
@@ -272,8 +272,8 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="tts_hour_weather_date_time">Desde las %2$s el %1$s a las %4$s el %3$s</string>
     <string name="tts_max_wind_power">Velocidad del viento más alta</string>
     <string name="unit">Unidades</string>
-    <string name="unit_temperature">Unidad de temperatura</string>
-    <string name="unit_wind">Unidad de velocidad del viento</string>
+    <string name="unit_temperature">Unidades de temperatura</string>
+    <string name="unit_wind">Unidades de velocidad del viento</string>
     <string name="update_night_setting_summary_text">Actualizar info del tiempo entre las 23:00 y las 07:00</string>
     <string name="update_night_setting_title_text">Actualizar automáticamente por la noche</string>
     <string name="update_notification_info">Actualizando datos en segundo plano…</string>

@@ -52,7 +52,7 @@
     <string name="auto_backup_choose_empty">Sin copias de seguridad.</string>
     <string name="auto_backup_choose_title">Elige los elementos para copia de seguridad</string>
     <string name="auto_backup_date">Días</string>
-    <string name="auto_backup_only_wifi">Sólo con conexión Wi-Fi</string>
+    <string name="auto_backup_only_wifi">Solo con conexión Wi-Fi</string>
     <string name="auto_backup_open">Crear copia de seguridad automáticamente</string>
     <string name="auto_backup_progress">Realizando copia…</string>
     <string name="auto_backup_select_user_apps">Seleccionar aplicaciones</string>
@@ -110,7 +110,7 @@ Después de crear una nueva pregunta de seguridad y confirmar su fecha de nacimi
     <string name="close_twice_auth_operation">"URL:
 https://appleid.apple.com/#!&amp;page=iniciar sesión para cerrar"</string>
     <string name="close_twice_auth_step_1">1. Abra cualquier navegador web en cualquier ordenador y vaya a appleid.apple.com.</string>
-    <string name="close_twice_auth_step_2">2. Inicia sesión con el ID de Apple para la que desea desactivar la autenticación de dos factores, vaya a la sección \"Seguridad\" de los ajustes de la cuenta y elija \"Editar\".</string>
+    <string name="close_twice_auth_step_2">2. Inicia sesión con el ID de Apple para la que deseas desactivar la autenticación de dos factores, ve a la sección \"Seguridad\" de los ajustes de la cuenta y elige \"Editar\".</string>
     <string name="close_twice_auth_step_3">3. Haga clic en \"Desactivar la autenticación de dos factores\". Haga clic de nuevo para confirmar.</string>
     <string name="close_twice_auth_steps">Siga estos pasos para desactivar la autenticación de dos factores para Apple ID:</string>
     <string name="close_twice_auth_tutor">Desactivar la autorización de dos factores de Apple ID</string>
@@ -263,8 +263,8 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="loading_data">Cargando datos</string>
     <string name="local_app_name">Copia de seguridad</string>
     <string name="local_back_up_detail_description">"Nota:
-1. Para evitar la pérdida de datos, copie copias de seguridad locales en su computadora.
-2. Copie siempre las copias de seguridad locales a su computadora antes de realizar un restablecimiento de fábrica; de lo contrario, se perderán las copias de seguridad locales.
+1. Para evitar la pérdida de datos, copia las copias de seguridad locales en tu ordenador.
+2. Copia siempre las copias de seguridad locales a tu ordenador antes de realizar un restablecimiento de fábrica; de lo contrario, se perderán las copias de seguridad locales.
 3. ¿Dónde se almacenan las copias de seguridad locales? %1$s"</string>
     <string name="local_backup_select_activity">Crea una copia de seguridad</string>
     <string name="local_backup_window_title">Datos de copia de seguridad local</string>
@@ -289,7 +289,7 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="local_main_encrypt_backup_title">Cifrar copias de seguridad</string>
     <string name="local_main_latest_backup_time_loading">Un momento…</string>
     <string name="local_no_backup">Sin copias de seguridad.</string>
-    <string name="local_no_backup_data">No hay copias de seguridad aun</string>
+    <string name="local_no_backup_data">No hay copias de seguridad aquí todavía</string>
     <string name="local_restore_select_activity">Administrar copias de seguridad</string>
     <string name="local_restore_select_data_activity">Restaurar desde una copia de seguridad</string>
     <string name="local_restore_window_title">Restauración local</string>
@@ -316,8 +316,8 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar elementos"</string>
     <string name="mms_title">Mensajes multimedia</string>
     <string name="multi_select_title">%1$s seleccionado(s)</string>
-    <string name="multi_user_mode_backup_message">No se permite realizar copias de seguridad en el modo multiusuario. Desactívalo para continuar.</string>
-    <string name="multi_user_mode_dialog_message">No se puede usar Mi Mover en el modo multiusuario. Desactiva el modo multiusuario para continuar.</string>
+    <string name="multi_user_mode_backup_message">No se permite realizar copias de seguridad en modo multiusuario. Desactívalo para continuar.</string>
+    <string name="multi_user_mode_dialog_message">No se puede usar Mi Mover en modo multiusuario. Desactiva el modo multiusuario para continuar.</string>
     <string name="multi_user_mode_dialog_title">Estás en modo multiusuario</string>
     <string name="name_password_not_consistent">Usuario o contraseña incorrectos</string>
     <string name="never">Nunca</string>
@@ -327,6 +327,49 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="new_britem_other">Otro</string>
     <string name="new_britem_pic">Imágenes</string>
     <string name="new_britem_video">Videos</string>
+    <string name="new_confirm_enable_encrypt_content">"MIUI asocia las copias de seguridad cifradas con tu Cuenta Mi. Deberás iniciar sesión en tu Cuenta Mi para restaurar elementos de dichas copias de seguridad."</string>
+    <string name="new_confirm_enable_encrypt_title">Cifrar</string>
+    <string name="new_local_button_backup">Respaldar</string>
+    <string name="new_local_button_restore">Restaurar</string>
+    <string name="new_local_click_to_jump">Toca para ver instrucciones detalladas</string>
+    <string name="new_local_detail_description">"Nota:
+%1$d. Copia las copias de seguridad en tu ordenador para evitar la pérdida de datos. %2$s.
+%3$d. Las copias de seguridad se guardarán en MIUI-Backup-AllBackup."</string>
+    <string name="new_local_tab_backup">Respaldar</string>
+    <string name="new_local_tab_restore">Restaurar</string>
+    <string name="new_low_storage_title">No hay suficiente espacio de almacenamiento</string>
+    <string name="new_more_settings_label">Ajustes adicionales</string>
+    <string name="new_pc_backup_content1">%1$d. Abre \"%2$s\".</string>
+    <string name="new_pc_backup_content2">%d. Espera hasta que todos los elementos estén respaldados.</string>
+    <string name="new_pc_backup_content3">%d. Encuentra la copia de seguridad en MIUI-Backup-AllBackup.</string>
+    <string name="new_pc_backup_content4">%d. Copia el archivo a tu ordenador.</string>
+    <string name="new_pc_backup_restore_link">Dispositivo móvil</string>
+    <string name="new_pc_backup_summary1">Selecciona los elementos y toca \"Respaldar\".</string>
+    <string name="new_pc_backup_summary2">Conecta tu dispositivo móvil al ordenador mediante un cable USB.</string>
+    <string name="new_pc_backup_summary4">Nota: también puedes copiar fotos y videos de DCIM.</string>
+    <string name="new_pc_restore_content1">%d. Conecta tu dispositivo móvil al ordenador mediante un cable USB.</string>
+    <string name="new_pc_restore_content2">%d. Copia la copia de seguridad de tu ordenador a MIUI-Backup-AllBackup.</string>
+    <string name="new_pc_restore_content3">%1$d. Abre \"%2$s\" y selecciona los elementos a restaurar.</string>
+    <string name="new_pc_title">Copiar las copias de seguridad</string>
+    <string name="new_select_file">Audio, videos y archivos</string>
+    <string name="new_select_message">SMS, contactos e historial de llamadas</string>
+    <string name="new_select_pic">Imágenes</string>
+    <string name="new_select_system">Otros datos de aplicaciones del sistema</string>
+    <string name="new_select_tencent">QQ y WeChat</string>
+    <string name="new_select_third">Aplicaciones y datos de aplicaciones de terceros</string>
+    <string name="new_select_third_apk">Aplicaciones de terceros</string>
+    <string name="new_select_third_data">Datos de aplicaciones de terceros</string>
+    <string name="new_tab_pc_backup">Respaldar</string>
+    <string name="new_tab_pc_restore">Restaurar</string>
+    <string name="new_task_finished">Hecho</string>
+    <string name="new_usb_detail_description">"Nota:
+%1$d. Este método permite hacer copias de seguridad de aplicaciones y datos de aplicaciones de terceros.
+%2$d. Asegúrate de que haya suficiente espacio de almacenamiento en tu unidad USB para guardar las copias de seguridad."</string>
+    <string name="new_usb_disconnect_dialog_message">Conecta primero una unidad USB.</string>
+    <string name="new_usb_disconnect_dialog_title">"No se pudo encontrar una unidad USB"</string>
+    <string name="new_usb_select_data_no_space">Solo hay disponible %s de almacenamiento en tu unidad USB. Libera espacio de almacenamiento.</string>
+    <string name="new_usb_tab_backup">Respaldar</string>
+    <string name="new_usb_tab_restore">Restaurar</string>
     <string name="no_encrypt_password">Sin contraseña</string>
     <string name="no_network">No se puede conectar a la red</string>
     <string name="not_set">No establecido</string>
@@ -561,8 +604,8 @@ para descargar e instalar Mi Mover."</string>
     <string name="trans_intro_desc_1">En un teléfono Mi, conéctese a Wi-Fi y toque \"Soy un destinatario\". Seleccione su dispositivo iOS, inicie sesión en iCloud e importe datos.</string>
     <string name="trans_intro_desc_10">Pulsa \"Conectar vía código QR\" en el nuevo dispositivo y escanea el código QR para establecer la conexión.</string>
     <string name="trans_intro_desc_3">Cancela la transferencia, sal de Mi Mover y vuelve a empezar. Los archivos duplicados se sobrescribirán en la nueva transferencia.</string>
-    <string name="trans_intro_desc_4">Mi Mover usa Wi-Fi para transferir archivos, por eso, no puedes conectarte a internet con Wi-Fi en el dispositivo durante la transferencia pero sí puedes utilizar datos móviles. Algunos nuevos dispositivos (Mi 6, por ej.) sí podrían conectarse a internet con Wi-Fi durante las transferencias.</string>
-    <string name="trans_intro_desc_4_market">Mi Mover usa la red Wi-Fi para transferir archivos. Es por esto que no se puede conectar a internet usando Wi-Fi mientras se realiza una transferencia. Aun así puedes usar los datos móviles.</string>
+    <string name="trans_intro_desc_4">Mi Mover usa Wi-Fi para transferir archivos, por eso, no puedes conectarte a Internet con Wi-Fi en el dispositivo durante la transferencia pero sí puedes utilizar datos móviles. Algunos nuevos dispositivos (Mi 6, por ej.) sí podrían conectarse a Internet con Wi-Fi durante las transferencias.</string>
+    <string name="trans_intro_desc_4_market">Mi Mover usa la red Wi-Fi para transferir archivos. Es por esto que no se puede conectar a Internet usando Wi-Fi mientras se realiza una transferencia. Aun así puedes usar los datos móviles.</string>
     <string name="trans_intro_desc_5">Se utiliza espacio de almacenamiento del dispositivo antiguo para crear paquetes de transferencia. Asegúrate de que tienes entre 500MB - 1GB de espacio disponible en tu teléfono antiguo antes de empezar.</string>
     <string name="trans_intro_desc_6">Razones posibles son: problemas de compatibilidad de sistema y versión de la aplicación, problemas de red, problemas de compatibilidad específicos de un dispositivo particular, etc.</string>
     <string name="trans_intro_desc_7">Algunos perfiles de aplicaciones (e-banking, finanzas, etc) están asociados a un dispositivo específico por razones de seguridad. Prueba a borrar los datos de la aplicación o a reinstalarla en un nuevo dispositivo.</string>
@@ -647,7 +690,7 @@ Mantén los dispositivos cerca uno del otro."</string>
     <string name="trans_restoring_no_items">Obtener información…</string>
     <string name="trans_retry">Reintentar</string>
     <string name="trans_scan_invalid_qrcode">Código QR inválido</string>
-    <string name="trans_scan_qr_code_tips">Escanee el código QR ​​utilizando el nuevo dispositivo</string>
+    <string name="trans_scan_qr_code_tips">Escanea el código QR ​​utilizando el nuevo dispositivo</string>
     <string name="trans_security_tips_message">Algunas aplicaciones no son compatibles con Mi Mover.</string>
     <string name="trans_security_tips_title">Compatibilidad Mi Mover</string>
     <string name="trans_select_data">Seleccionar artículos para enviar</string>
@@ -655,8 +698,8 @@ Mantén los dispositivos cerca uno del otro."</string>
 Liberar espacio de almacenamiento o transferir solo elementos importantes."</string>
     <string name="trans_select_data_tips">"Selecciona los archivos para transferir
 Se sobreescribirán los archivos similares en el nuevo dispositivo"</string>
-    <string name="trans_select_data_too_large">"Seleccionó demasiados elementos para transferir.
-Seleccione sólo elementos importantes para acelerar la transferencia."</string>
+    <string name="trans_select_data_too_large">"Has seleccionado demasiados elementos para transferir.
+Selecciona solo elementos importantes para acelerar la transferencia."</string>
     <string name="trans_select_device_receive">Selecciona un dispositivo para recibir datos.</string>
     <string name="trans_select_device_send">Selecciona un dispositivo para trasferir datos.</string>
     <string name="trans_select_notification_message">Pulsar para ver</string>
@@ -718,7 +761,7 @@ pulsa \"Soy un emisor\" y selecciona un punto de acceso para conectar.
 No cierres la página antes de establecer la conexión."</string>
     <string name="waiting">Un momento…</string>
     <string name="wifi_title">Ajustes de Wi-Fi</string>
-    <string name="xiaomi_connect_download_manager_fail">No se pudo iniciar la descarga. Asegúrate de que el Administrador de Descargas funciona normalmente.</string>
+    <string name="xiaomi_connect_download_manager_fail">No se pudo iniciar la descarga. Asegúrate de que el Administrador de Descargas funciona con normalidad.</string>
     <string name="xiaomi_external_storage_unavailable">Almacenamiento no disponible, comprueba tu tarjeta SD.</string>
     <string name="xiaomi_router">Router Mi</string>
     <string name="xiaomi_router_location">Router Mi %s</string>

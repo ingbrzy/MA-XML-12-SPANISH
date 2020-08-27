@@ -11,11 +11,11 @@
     <string name="app_name">Xiaomi Cloud</string>
     <string name="sync_item_sms_title">Sincronizar mensajes</string>
     <string name="sync_item_sms_summary">Sincronizar SMS enviados y recibidos en este teléfono</string>
-    <string name="sub_sync_item_sms_title_wifi_only">Sólo sincronizar MMS por Wi-Fi</string>
-    <string name="sub_sync_item_sms_summary">Sólo sincronizar mensajes que contengan fotos, audio u otros archivos multimedia cuando esté conectado a la Wi-Fi</string>
+    <string name="sub_sync_item_sms_title_wifi_only">Solo sincronizar MMS por Wi-Fi</string>
+    <string name="sub_sync_item_sms_summary">Solo sincronizar mensajes que contengan fotos, audio u otros archivos multimedia cuando esté conectado a la Wi-Fi</string>
     <string name="pref_title_sync_contacts_title">Sincronizar contactos</string>
-    <string name="pref_title_sync_display_photo_on_wifi_only">Sólo sincronizar fotos con Wi-Fi</string>
-    <string name="pref_summary_sync_display_photo_on_wifi_only">Sólo sincronizar las imágenes de los contactos cuando esté conectado a una red Wi-Fi</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only">Solo sincronizar fotos con Wi-Fi</string>
+    <string name="pref_summary_sync_display_photo_on_wifi_only">Solo sincronizar las imágenes de los contactos cuando esté conectado a una red Wi-Fi</string>
     <string name="error_data_in_transfer_title">Xiaomi Cloud no disponible</string>
     <string name="error_data_in_transfer">La sincronización finalizará en %s horas.</string>
     <string name="no_sim">Tarjeta SIM no detectada</string>
@@ -26,7 +26,7 @@
     <string name="error_unknown">No es posible iniciar sesión</string>
     <string name="sync_dspt">Sincronizar</string>
     <string name="access_denied">Acceso denegado</string>
-    <string name="internet_access_dspt">Esta app necesita conectarse a internet para funcionar con normalidad.</string>
+    <string name="internet_access_dspt">Esta app necesita conectarse a Internet para funcionar con normalidad.</string>
     <string name="sync_on">Activado</string>
     <string name="sync_off">Desactivado</string>
     <string name="mx_dspt">Mi Message</string>
@@ -43,7 +43,7 @@
     <string name="sync_dspt_entrance_provision_confirm_title">¿Usa Xiaomi Cloud?</string>
     <string name="sync_dspt_entrance_provision_confirm_content">Las aplicaciones incluidas en MIUI necesitan de Xiaomi Cloud para realizar una copia de seguridad de sus fotos, contactos, notas y más. Xiaomi Cloud es gratuito y listo para usar.</string>
     <string name="sync_dspt_entrance_provision_skip">Omitir este paso</string>
-    <string name="sync_dspt_entrance_provision_network">Esta aplicación necesita conectarse a internet para funcionar correctamente. La sincronización puede requerir conexión a datos móviles y activar el Wi-Fi.</string>
+    <string name="sync_dspt_entrance_provision_network">Esta aplicación necesita conectarse a Internet para funcionar con normalidad. La sincronización puede requerir conexión a datos móviles y activar el Wi-Fi.</string>
     <string name="find_device_dspt_provision">Si pierde su dispositivo puede ir a %s para localizarlo, bloquearlo o restablecerlo. Puede activar o desactivar esta función en cualquier momento desde Ajustes.</string>
     <string name="find_device_send_sms_alert">Si cambia de tarjeta SIM, se enviará automáticamente una otra SMS para reactivar esta función.</string>
     <string name="mx_dspt_provision">"Mi Message le permite enviar mensajes a otros dispositivos MIUI sin gastos cuando se conecte a una red Wi-Fi.
@@ -85,14 +85,13 @@ Esta característica encripta y envía el ID de su dispositivo a los servidores 
     <string name="micloud_sec_dspt">y compartir cosas con amigos.</string>
     <string name="micloud_dspt_provision">Use Xiaomi Cloud para sincronizar datos, localizar su dispositivo y compartir cosas con sus amigos.</string>
     <string name="micloud_proceed">Continuar</string>
-    <string name="master_alert_notif_title">Activar sincronización con Xiaomi Cloud</string>
     <string name="master_alert_notif_content">No fue posible sincronizar</string>
     <string name="sub_alert_notif_title">Sincronizar con Xiaomi Cloud</string>
     <string name="sub_alert_notif_content">Active la sincronización con Xiaomi Cloud para respaldar sus datos</string>
     <string name="cloudservice_new_sync">Sincronizar %s con Xiaomi Cloud</string>
     <string name="click_to_enabled">Toca para sincronizar</string>
     <string name="calendar_sync">Calendario</string>
-    <string name="antispam_sync">Ajustes del modo no molestar</string>
+    <string name="antispam_sync">Ajustes del modo No molestar</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="micloud_space_duokan_title">Duokan</string>
     <string name="micloud_space_duokan_detail">Descargar y gestionar libros electrónicos con la app Duokan.</string>
@@ -196,7 +195,7 @@ con su Cuenta Mi para reactivar Xiaomi Cloud."</string>
     <string name="micloud_setting_wifi_summary">Ajustes de Wi-Fi</string>
     <string name="micloud_setting_antispam_summary">Excepciones y números de teléfono bloqueados</string>
     <string name="micloud_member_net_error_alert_title">No es posible conectarse a la red</string>
-    <string name="micloud_member_net_error_alert_message">No tiene conexión a internet.</string>
+    <string name="micloud_member_net_error_alert_message">No tiene conexión a Internet.</string>
     <string name="micloud_member_pay_order_error_toast">Error de datos</string>
     <string name="micloud_member_pay_miid_error_toast">Error de cuenta</string>
     <string name="share_miliao_not_installed">Mi Talk no está instalado.</string>
@@ -210,7 +209,7 @@ con su Cuenta Mi para reactivar Xiaomi Cloud."</string>
     <string name="micloud_main_title_sync_off">Sincronización desactivada</string>
     <string name="micloud_main_title_master_sync_off">La sincronización automática está desactivada</string>
     <string name="micloud_main_message_master_sync_off">Desactivó la sincronización en el Panel de Notificaciones.</string>
-    <string name="micloud_main_error_network_disallowed">Asegúrese de que permitió el acceso a internet.</string>
+    <string name="micloud_main_error_network_disallowed">Asegúrese de que permitió el acceso a Internet.</string>
     <string name="micloud_main_error_activated_fail">Active su tarjeta SIM.</string>
     <string name="micloud_main_error_permission_limit">Permitir a Xiaomi Cloud el acceso al almacenamiento.</string>
     <string name="micloud_manage_space_data">Administrar datos de Xiaomi Cloud</string>

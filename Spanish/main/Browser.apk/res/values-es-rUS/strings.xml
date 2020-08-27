@@ -208,7 +208,7 @@
     <string name="current_version_pc">Escritorio</string>
     <string name="current_version_phone">Teléfono</string>
     <string name="custom_head_card_text">Siempre crea que algo maravilloso esta a punto de pasar</string>
-    <string name="custom_head_card_text_incognito">"¡Está en Modo Incógnito!
+    <string name="custom_head_card_text_incognito">"¡Está en modo Incógnito!
 Las páginas que visite no aparecerán en el historial."</string>
     <string name="data_error">Error de datos</string>
     <string name="data_traffic_prompt_message">Usar sus datos móviles para buscar videos aumentará el uso de datos. Si excede el límite de su plan, su operador podría cobrarle cargos adicionales.</string>
@@ -557,7 +557,7 @@ Las páginas que visite no aparecerán en el historial."</string>
     <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">No se pudo leer el archivo. Los permisos de archivo podrían estar bloqueando el acceso.</string>
     <string name="mw_miuichromium_error_page_problem_gateway_timed_out">%s0 tardó demasiado en responder.</string>
     <string name="mw_miuichromium_error_page_problem_network_access_denied">Acceso a red restringido.</string>
-    <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">No se pudo conectar a internet. Hay un problema con el servidor proxy o la dirección proxy es incorrecta.</string>
+    <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">No se pudo conectar a Internet. Hay un problema con el servidor proxy o la dirección proxy es incorrecta.</string>
     <string name="mw_miuichromium_error_page_problem_page_moved">Esta página en %s0 pudo haber sido movida o eliminada.</string>
     <string name="mw_miuichromium_error_page_problem_page_not_found">No se pudo encontrar la página en %s0.</string>
     <string name="mw_miuichromium_error_page_problem_page_not_working_reason_connection_closed">Esta página no está funcionando. %s0 interrumpió la conexión.</string>
@@ -573,7 +573,7 @@ Las páginas que visite no aparecerán en el historial."</string>
     <string name="mw_miuichromium_error_page_safe_network">Modo seguro</string>
     <string name="mw_miuichromium_error_page_server_error">Demasiados dispositivos están intentando conectarse</string>
     <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">Compruebe los ajustes de las aplicaciones proxy instaladas en su dispositivo.</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_connetion">Verifique su conexión a internet.</string>
+    <string name="mw_miuichromium_error_page_suggestion_check_connetion">Verifique su conexión a Internet.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Datos móviles) Restablezca sus %s1ajustes APN%s2.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_url">Verifique la dirección que ingresó.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Compruebe sus %s1ajustes proxy%s2.</string>
@@ -581,10 +581,10 @@ Las páginas que visite no aparecerán en el historial."</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Limpiar caché y cookies (%s1Ajustes%s2 - Limpiar datos, la información de su cuenta podría perderse).</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Limpiar caché y cookies (la información de su cuenta podría perderse).</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_no_invoke">Limpiar caché.</string>
-    <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Volver a cargar después de conectarse a internet</string>
+    <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Volver a cargar después de conectarse a Internet</string>
     <string name="mw_miuichromium_error_page_suggestion_contact_admin">Contacte a su administrador de sistema.</string>
     <string name="mw_miuichromium_error_page_suggestion_correct_url">Compruebe la dirección que ingresó y vuelva a intentarlo usando una dirección correcta.</string>
-    <string name="mw_miuichromium_error_page_suggestion_grant_permission">Vuelva a cargar después de permitir al Navegador acceso a internet.</string>
+    <string name="mw_miuichromium_error_page_suggestion_grant_permission">Vuelva a cargar después de permitir al Navegador acceso a Internet.</string>
     <string name="mw_miuichromium_error_page_suggestion_title">Intente esto:</string>
     <string name="mw_miuichromium_error_page_title">Se produjo un error</string>
     <string name="mw_miuichromium_error_page_unknown_error">Algo salió mal</string>
@@ -602,7 +602,7 @@ Las páginas que visite no aparecerán en el historial."</string>
         &lt;ul>
           &lt;li>Sitios web que visite
           &lt;li>Su empleador o escuela
-          &lt;li>Su proveedor de servicio de internet
+          &lt;li>Su proveedor de servicio de Internet
         &lt;ul>"</string>
     <string name="mw_no_matches">Sin resultados</string>
     <string name="mw_notification_category_browser">Navegador</string>
@@ -748,7 +748,7 @@ Las páginas que visite no aparecerán en el historial."</string>
     <string name="nav_bottom_bar_new_tab">Nueva pestaña</string>
     <string name="nav_screen_container_tab_incognito">Pestaña de incógnito</string>
     <string name="nav_screen_container_tab_normal">Pestaña normal</string>
-    <string name="nav_screen_incognito_message">"Su historial de búsqueda y navegación no serán guardados en Modo incógnito.
+    <string name="nav_screen_incognito_message">"Su historial de búsqueda y navegación no serán guardados en modo incógnito.
 Recuerde que los archivos que descargue y los marcadores que agregue, sí se guardarán."</string>
     <string name="nav_screen_incognito_title">Modo incógnito</string>
     <string name="navigation_delete_all">Deslice hacia un lado para cerrar todas las pestañas</string>
@@ -779,7 +779,7 @@ Recuerde que los archivos que descargue y los marcadores que agregue, sí se gua
     <string name="onews_category_reddit">Reddit</string>
     <string name="open_app_confirm_message">¿Permitir a esta página abrir %s?</string>
     <string name="open_file_explorer_failed">No se puede abrir el Gestor de archivos</string>
-    <string name="open_voice_permission">Permitir al micrófono conectarse a internet</string>
+    <string name="open_voice_permission">Permitir al micrófono conectarse a Internet</string>
     <string name="other_channel">Toca para agregar más canales.</string>
     <string name="page_info">Información de la página</string>
     <string name="page_info_address">Dirección:</string>
@@ -897,11 +897,11 @@ Recuerde que los archivos que descargue y los marcadores que agregue, sí se gua
     <string name="pref_security_show_security_warning_summary">Mostrar advertencia si hay un problema con el certificado del sitio</string>
     <string name="pref_set_default_browser">Establecer como navegador predeterminado</string>
     <string name="pref_set_default_browser_don_ask">No volver a preguntar</string>
-    <string name="pref_set_default_browser_msg">Mi Navegador hace que navegar en internet sea rápido, conveniente y seguro. ¿Establecer Mi Navegador como su navegador predeterminado?</string>
+    <string name="pref_set_default_browser_msg">Mi Navegador hace que navegar en Internet sea rápido, conveniente y seguro. ¿Establecer Mi Navegador como su navegador predeterminado?</string>
     <string name="pref_set_default_browser_no_keep_it">Mantener Mi Navegador</string>
     <string name="pref_set_default_browser_no_thanks">No, gracias</string>
     <string name="pref_set_default_browser_set">Establecer</string>
-    <string name="pref_set_default_browser_set_another">Mi Navegador hace que navegar en internet sea rápido, conveniente y seguro. ¿Cambiar navegadores?</string>
+    <string name="pref_set_default_browser_set_another">Mi Navegador hace que navegar en Internet sea rápido, conveniente y seguro. ¿Cambiar navegadores?</string>
     <string name="pref_set_default_browser_sure_to_clear">¿Cambiar navegadores?</string>
     <string name="pref_set_default_browser_switch">Cambiar</string>
     <string name="pref_set_homepage_to">Establecer como</string>
@@ -1164,7 +1164,7 @@ Recuerde que los archivos que descargue y los marcadores que agregue, sí se gua
     <string name="voice_check_network">Compruebe sus ajustes de red e inténtelo de nuevo.</string>
     <string name="voice_connect_network">No se pudo conectar a la red.</string>
     <string name="voice_description">Búsqueda por voz</string>
-    <string name="voice_network_connection">La búsqueda por voz necesita conectarse a internet para funcionar con normalidad.</string>
+    <string name="voice_network_connection">La búsqueda por voz necesita conectarse a Internet para funcionar con normalidad.</string>
     <string name="voice_search_permission">La búsqueda por voz necesita acceso al micrófono para funcionar con normalidad.</string>
     <string name="voice_semantic_analysis">El Navegador podrá analizar la semántica después de que le permita conectarse.</string>
     <string name="voice_sub_title">¿No sabe que decir? ¡Pruebe \"Abrir mi.com!\"</string>
@@ -1244,7 +1244,7 @@ Recuerde que los archivos que descargue y los marcadores que agregue, sí se gua
     <string name="miui_content_share">Compartir</string>
     <string name="miui_content_web_search">Buscar</string>
     <string name="miuichromium_error_page_airplane_mode">Modo avión</string>
-    <string name="miuichromium_error_page_airplane_mode_on">Desactive el Modo avión para conectarse</string>
+    <string name="miuichromium_error_page_airplane_mode_on">Desactive el modo avión para conectarse</string>
     <string name="miuichromium_error_page_btn_close">Cerrar</string>
     <string name="miuichromium_error_page_btn_refresh">Actualizar</string>
     <string name="miuichromium_error_page_btn_report_issue">Reportar problema</string>
@@ -1301,7 +1301,7 @@ Recuerde que los archivos que descargue y los marcadores que agregue, sí se gua
     <string name="miuichromium_error_page_safe_network">Modo seguro</string>
     <string name="miuichromium_error_page_server_error">Demasiados dispositivos están tratando de conectarse</string>
     <string name="miuichromium_error_page_suggestion_check_app_proxy">Verifique los ajustes de las apps de proxy instaladas en su dispositivo.</string>
-    <string name="miuichromium_error_page_suggestion_check_connetion">Compruebe su conexión a internet.</string>
+    <string name="miuichromium_error_page_suggestion_check_connetion">Compruebe su conexión a Internet.</string>
     <string name="miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Datos móviles) Restablezca sus %s1ajustes APN%s2.</string>
     <string name="miuichromium_error_page_suggestion_check_url">Verifique la URL que ingresó.</string>
     <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Verifique sus %s1ajustes de proxy%s2.</string>
@@ -1309,7 +1309,7 @@ Recuerde que los archivos que descargue y los marcadores que agregue, sí se gua
     <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Limpiar el caché y las cookies (%s1Ajustes%s2 - Borrar datos, se puede perder la info de su cuenta).</string>
     <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Limpiar caché y cookies (la info de su cuenta se puede perder).</string>
     <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">Limpiar caché.</string>
-    <string name="miuichromium_error_page_suggestion_connect_and_retry">Volver a cargar después de conectarse a internet.</string>
+    <string name="miuichromium_error_page_suggestion_connect_and_retry">Volver a cargar después de conectarse a Internet.</string>
     <string name="miuichromium_error_page_suggestion_contact_admin">Contacte el administrador de su sistema.</string>
     <string name="miuichromium_error_page_suggestion_correct_url">Verifique la dirección que ha ingresado y reintente usando la URL correcta.</string>
     <string name="miuichromium_error_page_suggestion_grant_permission">Recargue después de permitir al Navegador acceso a Internet.</string>

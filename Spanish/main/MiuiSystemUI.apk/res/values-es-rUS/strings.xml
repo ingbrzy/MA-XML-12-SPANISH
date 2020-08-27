@@ -183,7 +183,7 @@
     <string name="accessibility_quick_settings_location_on">Reporte de ubicación activado.</string>
     <string name="accessibility_quick_settings_mobile">Datos móviles %1$s. %2$s. %3$s.</string>
     <string name="accessibility_quick_settings_more_time">Más tiempo.</string>
-    <string name="accessibility_quick_settings_no_internet">No hay internet.</string>
+    <string name="accessibility_quick_settings_no_internet">No hay Internet.</string>
     <string name="accessibility_quick_settings_open_details">Abrir detalles.</string>
     <string name="accessibility_quick_settings_open_settings">Abrir ajustes del %s.</string>
     <string name="accessibility_quick_settings_page">Página %1$d de %2$d</string>
@@ -259,7 +259,7 @@
     <string name="activity_launch_on_secondary_display_failed_text">La aplicación no soporta el launch en pantallas secundarias.</string>
     <string name="activity_not_found">Aplicación no instalada en su dispositivo</string>
     <string name="adb_keys_warning_message">¿Revocar acceso a depuración USB desde todas las computadoras autorizadas previamente?</string>
-    <string name="adb_warning_message">Depuración USB está diseñada sólo para fines de desarrollo. Úsela para copiar datos entre su computadora y su dispositivo, instalar aplicaciones en su dispositivo sin notificación y ver datos de registro.</string>
+    <string name="adb_warning_message">Depuración USB está diseñada solo para fines de desarrollo. Úsela para copiar datos entre su computadora y su dispositivo, instalar aplicaciones en su dispositivo sin notificación y ver datos de registro.</string>
     <string name="adb_warning_title">¿Permitir la depuración USB?</string>
     <string name="add_tile">Agregar mosaico</string>
     <string name="adjust_button_width">Ajustar ancho de botones</string>
@@ -348,9 +348,9 @@
     <string name="bluetooth_pairing_pin_error_message">No se pudo vincular con %1$s debido a que el PIN o la contraseña son incorrectos.</string>
     <string name="bluetooth_pairing_rejected_error_message">Vinculación rechazada por %1$s.</string>
     <string name="bluetooth_pairing_will_share_phonebook">Vincular da acceso a sus contactos e historial de llamadas cuando está conectado.</string>
-    <string name="bluetooth_pan_nap_profile_summary_connected">Compartir conexión de internet local con el dispositivo</string>
-    <string name="bluetooth_pan_profile_summary_use_for">Usar para acceso a internet</string>
-    <string name="bluetooth_pan_user_profile_summary_connected">Conectado al dispositivo para acceso a internet</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">Compartir conexión a Internet local con el dispositivo</string>
+    <string name="bluetooth_pan_profile_summary_use_for">Usar para acceso a Internet</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">Conectado al dispositivo para acceso a Internet</string>
     <string name="bluetooth_profile_a2dp">Audio de medios</string>
     <string name="bluetooth_profile_a2dp_high_quality">Usar audio de alta calidad: %1$s</string>
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Usar audio de alta calidad</string>
@@ -359,8 +359,8 @@
     <string name="bluetooth_profile_hid">Dispositivo de entrada</string>
     <string name="bluetooth_profile_map">Usado para acceder a mensajes</string>
     <string name="bluetooth_profile_opp">Transferencia de archivos</string>
-    <string name="bluetooth_profile_pan">Acceso a internet</string>
-    <string name="bluetooth_profile_pan_nap">Compartir conexión a internet</string>
+    <string name="bluetooth_profile_pan">Acceso a Internet</string>
+    <string name="bluetooth_profile_pan_nap">Compartir conexión a Internet</string>
     <string name="bluetooth_profile_pbap">Compartir contactos</string>
     <string name="bluetooth_profile_pbap_summary">Usar para compartir contactos</string>
     <string name="bluetooth_profile_sap">Usado para acceder a la tarjeta SIM</string>
@@ -451,7 +451,7 @@ calidad de reproducción"</string>
     <string name="daltonizer_mode_protanomaly">Protanomalía (rojo-verde)</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomalía (azul-amarillo)</string>
     <string name="daltonizer_type_overridden">Anulado por %1$s</string>
-    <string name="data_connection_no_internet">No conectado a internet</string>
+    <string name="data_connection_no_internet">No conectado a Internet</string>
     <string name="data_saver">Ahorrador de datos</string>
     <string name="data_saver_description">To help reduce data usage, Data Saver prevents some apps from sending or receiving data in the background. An app you’re currently using can access data, but may do so less frequently. This may mean, for example, that images don’t display until you tap them.</string>
     <string name="data_saver_enable_button">Turn on</string>
@@ -492,14 +492,14 @@ Si reanuda la conexión de datos móviles, podría generarle cargos."</string>
     <string name="dessert_case">Caja de postres</string>
     <string name="dev_logpersist_clear_warning_message">Cuando ya no monitoreamos con el registrador persistente, debemos eliminar los datos del registrador que quedan en el dispositivo.</string>
     <string name="dev_logpersist_clear_warning_title">¿Limpiar almacenamiento del logger persistente?</string>
-    <string name="dev_settings_warning_message">Estos ajustes están diseñados sólo para desarrolladores. Al activar estas características, su dispositivo y aplicaciones podrían no funcionar correctamente o causar errores.</string>
+    <string name="dev_settings_warning_message">Estos ajustes están diseñados solo para desarrolladores. Al activar estas características, su dispositivo y aplicaciones podrían no funcionar correctamente o causar errores.</string>
     <string name="dev_settings_warning_title">¿Permitir ajustes de desarrollo?</string>
     <string name="development_settings_enable">Activar opciones de desarrollador</string>
     <string name="development_settings_not_available">Las opciones de desarrollador no están disponibles para este usuario</string>
     <string name="development_settings_summary">Aplicar opciones para desarrollador de aplicaciones</string>
     <string name="development_settings_title">Opciones de desarrollador</string>
     <string name="digital_clock_dot">:</string>
-    <string name="direct_boot_unaware_dialog_message">Nota: podrá usar este teclado después de reiniciar sólo si desbloquea el dispositivo.</string>
+    <string name="direct_boot_unaware_dialog_message">Nota: podrá usar este teclado después de reiniciar solo si desbloquea el dispositivo.</string>
     <string name="disable_notification_summary">Nunca mostrar notificaciones de las apps seleccionadas</string>
     <string name="disable_notification_title">Ocultar notificaciones</string>
     <string name="disable_overlays">Desactivar superposiciones HW</string>
@@ -626,9 +626,9 @@ Si reanuda la conexión de datos móviles, podría generarle cargos."</string>
     <string name="fingerprint_add_text">El interfaz de huella dactilar fue actualizado. Vuelva a agregar su huella dactilar.</string>
     <string name="fingerprint_add_title">Agregar huella dactilar</string>
     <string name="fingerprint_again_identified_msg">Su huella dactilar está activada. Úsela para desbloquear el dispositivo o ingrese la contraseña.</string>
-    <string name="fingerprint_enter_second_psw_msg">Ingrese la contraseña del Segundo Espacio después de reiniciar el dispositivo para poder usar el reconocimiento de huellas dactilares</string>
-    <string name="fingerprint_enter_second_psw_msg_oldman">No puede entrar al Segundo Espacio en modo simplificado</string>
-    <string name="fingerprint_enter_second_psw_title">Ingrese la contraseña del Segundo Espacio</string>
+    <string name="fingerprint_enter_second_psw_msg">Ingrese la contraseña del Segundo espacio después de reiniciar el dispositivo para poder usar el reconocimiento de huellas dactilares</string>
+    <string name="fingerprint_enter_second_psw_msg_oldman">No puede entrar al Segundo espacio en modo simplificado</string>
+    <string name="fingerprint_enter_second_psw_title">Ingrese la contraseña del Segundo espacio</string>
     <string name="fingerprint_not_identified_msg">Demasiados intentos fallidos. Ingrese la contraseña ahora o use su huella dactilar en unos segundos.</string>
     <string name="fingerprint_not_identified_msg_lock">Demasiados intentos fallidos. Ingrese ahora la contraseña.</string>
     <string name="fingerprint_not_identified_title">Ingresar contraseña</string>
@@ -714,7 +714,7 @@ Una vez que se teléfono se haya enfriado, funcionará normalmente."</string>
     <string name="input_password_after_boot_msg">Para desbloquear su dispositivo, ingrese su contraseña</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">No puede cambiar entre espacios durante una llamada</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Debe entrar al Primer Espacio después de reiniciar el dispositivo</string>
-    <string name="input_password_handle_sdcard_fs">No puede entrar al Segundo Espacio desde la pantalla de bloqueo. Entre desde el Primer Espacio.</string>
+    <string name="input_password_handle_sdcard_fs">No puede entrar al Segundo espacio desde la pantalla de bloqueo. Entre desde el Primer Espacio.</string>
     <string name="input_password_hint_text">Ingresar contraseña</string>
     <string name="input_pattern_hint_text">Dibuje su patrón de desbloqueo</string>
     <string name="input_pin_code">Ingrese el PIN</string>
@@ -1274,7 +1274,7 @@ También está conectado a una red VPN, la cual puede monitorear su actividad en
     <string name="quick_settings_secondary_label_until">Hasta las %s</string>
     <string name="quick_settings_settings_label">Ajustes</string>
     <string name="quick_settings_sync_label">Sincronizar</string>
-    <string name="quick_settings_tethering_label">Compartiendo internet</string>
+    <string name="quick_settings_tethering_label">Compartiendo Internet</string>
     <string name="quick_settings_time_label">Hora</string>
     <string name="quick_settings_user_label">Yo</string>
     <string name="quick_settings_user_new_user">Nuevo usuario</string>
@@ -1288,7 +1288,7 @@ También está conectado a una red VPN, la cual puede monitorear su actividad en
     <string name="quick_settings_wifi_off_label">Wi-Fi desactivado</string>
     <string name="quick_settings_wifi_on_label">Wi-Fi activado</string>
     <string name="quick_settings_work_mode_label">Modo trabajo</string>
-    <string name="recent_cannot_dock">No se puede usar la Pantalla Dividida en Segundo Espacio</string>
+    <string name="recent_cannot_dock">No se puede usar la Pantalla Dividida en Segundo espacio</string>
     <string name="recent_dock_tip">Toca para seleccionar apps</string>
     <string name="recent_menu_item_info">Información</string>
     <string name="recent_menu_item_lock">Lock</string>
@@ -1341,7 +1341,7 @@ También está conectado a una red VPN, la cual puede monitorear su actividad en
     <string name="save">Guardar</string>
     <string name="save_mode_btn_ok">Aceptar</string>
     <string name="saved_network">Guardado por %1$s</string>
-    <string name="screen_button_notification_text">Para activarlos, presiona los botones de Inicio y Encender simultáneamente.</string>
+    <string name="screen_button_notification_text">Para activarlos, pulsa los botones de Inicio y Encender simultáneamente.</string>
     <string name="screen_button_notification_title">Los botones de navegación están desactivados</string>
     <string name="screen_pinning_description">Esto la mantiene visible hasta que deja de fijarla. Mantenga presionados Atrás y Recientes para dejar de fijar.</string>
     <string name="screen_pinning_description_accessible">Esto la mantiene visible hasta que deja de fijarla. Mantenga presionado Recientes para dejar de fijar.</string>
@@ -1463,7 +1463,7 @@ Deslice hacia abajo para bloquear"</string>
     <string name="status_bar_settings_mute_label">SILENCIO</string>
     <string name="status_bar_settings_notifications">Notificaciones</string>
     <string name="status_bar_settings_settings_button">Ajustes</string>
-    <string name="status_bar_settings_signal_meter_disconnected">No hay conexión a internet</string>
+    <string name="status_bar_settings_signal_meter_disconnected">No hay conexión a Internet</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi conectado</string>
     <string name="status_bar_settings_wifi_button">Wi-Fi</string>
     <string name="status_bar_style_settings">Notificaciones</string>
@@ -1537,13 +1537,13 @@ Deslice hacia abajo para bloquear"</string>
     <string name="task_access_locked_app_msg">Bloqueo de app activado</string>
     <string name="telephony_monitor_switch">Monitor de telefonía</string>
     <string name="telephony_monitor_switch_summary">El monitor de telefonía recolectará registros cuando detecte un problema de funcionalidad de telefonía o del módem, y sugerirá al usuario que reporte el error.</string>
-    <string name="tether_settings_title_all">Compartir internet y punto de acceso móvil</string>
-    <string name="tether_settings_title_bluetooth">Compartir internet vía Bluetooth</string>
-    <string name="tether_settings_title_usb">Compartir internet vía USB</string>
-    <string name="tether_settings_title_usb_bluetooth">Compartir internet</string>
+    <string name="tether_settings_title_all">Compartir Internet y punto de acceso móvil</string>
+    <string name="tether_settings_title_bluetooth">Compartir Internet vía Bluetooth</string>
+    <string name="tether_settings_title_usb">Compartir Internet vía USB</string>
+    <string name="tether_settings_title_usb_bluetooth">Compartir Internet</string>
     <string name="tether_settings_title_wifi">Punto de acceso móvil</string>
-    <string name="tethering_settings_not_available">Los ajustes para compartir internet no están disponibles para este usuario</string>
-    <string name="thermal_shutdown_dialog_message">"Su teléfono estaba demasiado caliente así que se apagó para enfriarse. Ahora su teléfono funciona normalmente.
+    <string name="tethering_settings_not_available">Los ajustes para compartir Internet no están disponibles para este usuario</string>
+    <string name="thermal_shutdown_dialog_message">"Su teléfono estaba demasiado caliente así que se apagó para enfriarse. Ahora su teléfono funciona con normalidad.
 
 Su teléfono podría calentarse de más si:
 \u0009• Usa aplicaciones que requieren muchos recursos (juegos, videos o aplicaciones de navegación)
@@ -1646,7 +1646,7 @@ Su teléfono podría calentarse de más si:
     <string name="usb_notification_ptp_ticker_text">Conectado como dispositivo multimedia (fotos)</string>
     <string name="usb_preference_title">Opciones de transferencia USB</string>
     <string name="usb_ptp_text">Fotos</string>
-    <string name="usb_share_net_info">Usar conexión de internet de la PC</string>
+    <string name="usb_share_net_info">Usar conexión a Internet de la PC</string>
     <string name="usb_storage_error_message">Hay un problema con su tarjeta SD.</string>
     <string name="usb_storage_message">Conectado con su PC via USB. Toca el botón de abajo si desea copiar archivos entre su pc y la tarjeta SD de su Android‘s.</string>
     <string name="usb_storage_notification_message">Toca para copiar archivos a y desde su PC.</string>
@@ -1688,7 +1688,7 @@ Cualquier usuario puede actualizar aplicaciones para otros."</string>
     <string name="volume_stream_content_description_unmute">%1$s. Toca para dejar de silenciar.</string>
     <string name="volume_stream_content_description_vibrate">%1$s. Toca para establecer vibración. Los servicios de accesibilidad podrían ser silenciados.</string>
     <string name="volume_stream_content_description_vibrate_a11y">%1$s. Toca para establecer vibración.</string>
-    <string name="volume_up_silent">Botón de subir volumen para salir del modo no molestar</string>
+    <string name="volume_up_silent">Botón de subir volumen para salir del modo No molestar</string>
     <string name="volume_zen_end_now">Desactivar ahora</string>
     <string name="vpn_footer">La red podría estar monitoreada</string>
     <string name="vpn_settings_not_available">Los ajustes del VPN no están disponibles para este usuario</string>
@@ -1704,7 +1704,7 @@ Cualquier usuario puede actualizar aplicaciones para otros."</string>
     <string name="wifi_aggressive_handover_summary">Cuando esté activado, la conexión cambiará a datos móviles más activamente cuando la señal Wi-Fi sea débil.</string>
     <string name="wifi_allow_scan_with_traffic">Siempre permitir que Wi-Fi busque mejores redes</string>
     <string name="wifi_allow_scan_with_traffic_summary">Permitir o restringir que Wi-Fi busque otras redes dependiendo del tráfico de datos en la presente interfaz.</string>
-    <string name="wifi_connected_no_internet">Conectado, sin internet</string>
+    <string name="wifi_connected_no_internet">Conectado, sin Internet</string>
     <string name="wifi_disabled_by_recommendation_provider">Sin conectar debido a la baja calidad de la red</string>
     <string name="wifi_disabled_generic">Deshabilitada</string>
     <string name="wifi_disabled_network_failure">No se pudo configurar la IP</string>
@@ -1714,8 +1714,8 @@ Cualquier usuario puede actualizar aplicaciones para otros."</string>
     <string name="wifi_display_certification_summary">Mostrar opciones para certificación de pantalla inalámbrica</string>
     <string name="wifi_fail_to_scan">No se pueden buscar redes</string>
     <string name="wifi_is_off">Wi-Fi desactivado</string>
-    <string name="wifi_no_internet">No se puede conectar a internet</string>
-    <string name="wifi_no_internet_no_reconnect">No se puede conectar a internet</string>
+    <string name="wifi_no_internet">No se puede conectar a Internet</string>
+    <string name="wifi_no_internet_no_reconnect">No se puede conectar a Internet</string>
     <string name="wifi_not_in_range">Fuera de alcance</string>
     <string name="wifi_remembered">Guardada</string>
     <string name="wifi_security_WAPI_CERT">WAPI CERT</string>

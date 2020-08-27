@@ -140,8 +140,8 @@
     <string name="album_videos_name">Vídeos</string>
     <string name="album_wallpaper">Fondos de pantalla</string>
     <string name="alert_secret_album_enter">Entendido</string>
-    <string name="alert_secret_album_message">Desliza hacia abajo en la pestaña de Álbumes para ver el álbum oculto.</string>
-    <string name="alert_secret_album_message_lower_case"> arrastra hacia abajo en Álbumes para ver</string>
+    <string name="alert_secret_album_message">Desliza hacia abajo en \"Álbumes\" para ver el álbum oculto.</string>
+    <string name="alert_secret_album_message_lower_case"> arrastra hacia abajo en \"Álbumes\" para ver</string>
     <string name="alert_secret_album_title">Cómo ver un álbum oculto</string>
     <string name="alert_selection_description">MIUI analizará fotos similares y marcará las mejores fotos para ti.</string>
     <string name="alert_selection_title">Elegir la mejor foto</string>
@@ -323,7 +323,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="card_title_sports">Entrenamientos</string>
     <string name="cast_devices_unavailable_desc">Asegúrese de que tanto este dispositivo como el proyector estén conectados a la misma red Wi-Fi</string>
     <string name="cast_devices_unavailable_title">No se pudo localizar el proyector</string>
-    <string name="change_to_face_mode">Mostrar sólo la cara</string>
+    <string name="change_to_face_mode">Mostrar solo la cara</string>
     <string name="change_to_photo_mode">Mostrar previsualizaciones completas</string>
     <string name="change_to_visible">¿Restablecer esta persona?</string>
     <string name="channel_default_name">Nuevas características</string>
@@ -525,7 +525,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="download_type_thumbnail_desc">Alta calidad</string>
     <string name="download_type_title">Calidad de descarga</string>
     <string name="download_with_metered_network_msg">"La descarga de archivos originales puede generar tarifas adicionales para el operador. Descargar de todos modos?"</string>
-    <string name="download_with_metered_network_title">"Estás conectado a una red paga"</string>
+    <string name="download_with_metered_network_title">"Estás conectado a una red de pago"</string>
     <string name="download_without_wifi_msg">Usar la conexión de datos para descargar archivos aumentará tu uso de datos. Si superas el límite de datos de tu plan, tu operador podría cobrarte cargos adicionales.</string>
     <string name="download_without_wifi_title">Aviso de uso de datos</string>
     <string name="downloading_desc">%1$d/%2$d</string>
@@ -535,7 +535,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="drag_failed_because_not_custom_sort">Solo puedes reorganizar elementos cuando se selecciona un orden de clasificación personalizado</string>
     <string name="drag_failed_because_screenshots_album_cant_sort">"/No se puede eliminar ni ocultar el álbum Capturas de pantalla"</string>
     <string name="drag_failed_because_share_album_cant_sort">"/No se pueden eliminar álbumes compartidos por otras personas"</string>
-    <string name="drag_view_tip_sub_title">Mantén presionado un álbum para reorganizarlo</string>
+    <string name="drag_view_tip_sub_title">Mantén pulsado un álbum para reorganizarlo</string>
     <string name="drag_view_tip_title">Reorganizar álbumes</string>
     <string name="edit_baby_info">Ver información del bebé</string>
     <string name="editor_cancel">Cancelar</string>
@@ -824,8 +824,8 @@ disponibles"</string>
     <string name="image_selection_title">Seleccionar mejor foto</string>
     <string name="image_with_time">Foto tomada con %s</string>
     <string name="image_with_time_and_location">Foto tomada con %1$s. Localización: %2$s.</string>
-    <string name="impunity_declaration_settings">Notificación de conexión a internet</string>
-    <string name="impunity_declaration_summary">Mostrar notificación de conexión a internet cada vez que se abra la Galería</string>
+    <string name="impunity_declaration_settings">Notificación de conexión a Internet</string>
+    <string name="impunity_declaration_summary">Mostrar notificación de conexión a Internet cada vez que se abra la Galería</string>
     <string name="initializing_cloud">Inicializando…</string>
     <string name="input_a_name">Introducir nombre</string>
     <string name="input_baby_name">Introduce nombre</string>
@@ -873,7 +873,7 @@ disponibles"</string>
     <string name="loading_video_fail_syncing">Espera hasta que los metadatos se descarguen por completo e inténtalo de nuevo</string>
     <string name="loading_video_thumbnail">Descargando portada del vídeo…</string>
     <string name="login_and_enable_service">Iniciar sesión con Cuenta Mi</string>
-    <string name="long_press_to_refocus">Pulsa y mantén pulsado para reenfocar</string>
+    <string name="long_press_to_refocus">Mantener pulsado pulsado para reenfocar</string>
     <string name="main_discard_confirm_message">Hay cambios sin guardar</string>
     <string name="main_discard_negative_btn">Descartar</string>
     <string name="main_discard_positive_btn">Guardar y Salir</string>
@@ -952,7 +952,7 @@ para personalizar la Galería"</string>
     <string name="movie_download_sdk_without_wifi_msg">"Parece que su dispositivo no está conectado a Wi-Fi. ¿Descargar el complemento requerido (3MB) usando datos móviles?"</string>
     <string name="movie_download_sdk_without_wifi_title">"Descargar utilizando datos móviles"</string>
     <string name="movie_download_with_metered_network_msg">"La descarga de archivos originales puede generar tarifas adicionales para el operador. Descargar de todos modos?"</string>
-    <string name="movie_download_with_metered_network_title">"Estás conectado a una red paga"</string>
+    <string name="movie_download_with_metered_network_title">"Estás conectado a una red de pago"</string>
     <string name="movie_edit">Editar</string>
     <string name="movie_item_name">Clip</string>
     <string name="movie_preview_btn">Previsualización</string>
@@ -988,7 +988,7 @@ para personalizar la Galería"</string>
     <string name="multi_view_tip_title">Ampliar y reducir</string>
     <string name="must_pick_file">Seleccionar foto</string>
     <string name="name_split">, </string>
-    <string name="need_to_turn_on_network">El dispositivo no está conectado a internet</string>
+    <string name="need_to_turn_on_network">El dispositivo no está conectado a Internet</string>
     <string name="need_to_turn_on_sync">Activar sincronización con la nube</string>
     <string name="need_to_turn_on_sync_first">Activa primero la sincronización con Xiaomi Cloud</string>
     <string name="need_to_turn_on_wlan">Primero conéctate a una red Wi-Fi</string>
@@ -1140,7 +1140,7 @@ para personalizar la Galería"</string>
     <string name="photo_editor_navigator_module_download_success">Descargado con éxito</string>
     <string name="photo_editor_navigator_module_download_wait_wlan">Esperar conexión Wi-Fi</string>
     <string name="photo_editor_navigator_module_downloading">Descargando %s…</string>
-    <string name="photo_editor_navigator_need_download">Conectar a internet para descargar %s.</string>
+    <string name="photo_editor_navigator_need_download">Conectar a Internet para descargar %s.</string>
     <string name="photo_editor_remove_watermark">Eliminar marca de agua</string>
     <string name="photo_editor_remove_watermark_on">Añadir marca de agua</string>
     <string name="photo_editor_remover">Eliminar</string>
@@ -1357,6 +1357,9 @@ para personalizar la Galería"</string>
     <string name="screen_doodle_talkback_size">"Ancho de linea Doodle"</string>
     <string name="screen_editor_btn_delete">Eliminar</string>
     <string name="screen_editor_btn_save">Guardar</string>
+    <string name="screen_editor_btn_shell_off">Quitar marco del dispositivo</string>
+    <string name="screen_editor_btn_shell_on">Añadir marco del dispositivo</string>
+    <string name="screen_editor_shell_disallowed_with_crop">"No se puede añadir el marco del dispositivo a capturas recortadas"</string>
     <string name="screen_editor_delete_dialog_msg">¿Eliminar esta captura de pantalla?</string>
     <string name="screen_editor_finish">Aceptar</string>
     <string name="screen_save_dialog_btn_cancel">Cancelar</string>
@@ -1598,7 +1601,7 @@ para personalizar la Galería"</string>
     <string name="thumbnail_name">miniatura</string>
     <string name="tip_capture_location">Ubicación:</string>
     <string name="tip_capture_params">Datos EXIF:</string>
-    <string name="tip_capture_time">Hora de captura:</string>
+    <string name="tip_capture_time">Fecha de captura:</string>
     <string name="tip_file_info">Información del archivo:</string>
     <string name="tip_file_path">Ruta local:</string>
     <string name="tip_not_download">No se encuentra en el dispositivo. Se descargará de Xiaomi Cloud mientras se reproduce.</string>

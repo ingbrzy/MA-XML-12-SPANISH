@@ -222,8 +222,7 @@ La función de ahorro de batería se desactiva automáticamente cuando el dispos
     <string name="captive_portal_logged_in_detailed">Conectado</string>
     <string name="car_loading_profile">Cargando</string>
     <string name="car_mode_disable_notification_message">Toca para salir del modo coche.</string>
-    <string name="car_mode_disable_notification_title">Se ha habilitado el modo coche</string>
-    <string name="carrier_app_dialog_button">DESCARGAR LA APLICACIÓN</string>
+    <string name="car_mode_disable_notification_title">Modo coche activado</string>
     <string name="carrier_app_dialog_message">Para que tu nueva SIM funcione correctamente, debes instalar y abrir una aplicación de tu operador.</string>
     <string name="carrier_app_dialog_not_now">AHORA NO</string>
     <string name="carrier_app_notification_text">Toca para configurar</string>
@@ -555,7 +554,7 @@ Si tienes alguna pregunta, ponte en contacto con el administrador de tu organiza
     <string name="heavy_weight_notification">%1$s en ejecución</string>
     <string name="heavy_weight_notification_detail">Toca para cambiar a la aplicación</string>
     <string name="heavy_weight_switcher_text">Se está ejecutando otra aplicación. Para iniciar una aplicación nueva, debes detenerla.</string>
-    <string name="heavy_weight_switcher_title">¿Cambiar aplicaciones?</string>
+    <string name="heavy_weight_switcher_title">Elegir juego</string>
     <string name="hour">hora</string>
     <string name="hour_picker_description">Control deslizante circular de horas</string>
     <string name="hours">horas</string>
@@ -721,8 +720,8 @@ Para desanclar, mantén pulsado el botón de Inicio y el botón de Encendido sim
 Para desanclar, mantén pulsado el botón de Inicio y el botón de Encendido simultáneamente."</string>
     <string name="lock_to_app_exit">La pantalla ya no está fija</string>
     <string name="lock_to_app_start">Pantalla fijada</string>
-    <string name="lock_to_app_toast">Para desbloquear esta pantalla, pulsa y mantén presionado el botón de Inicio y el botón de Encendido simultáneamente.</string>
-    <string name="lock_to_app_toast_accessible">Para desbloquear esta pantalla, pulsa y mantén presionado el botón de Inicio y el botón de Encendido simultáneamente.</string>
+    <string name="lock_to_app_toast">Para desbloquear esta pantalla, mantén pulsado el botón de Inicio y el botón de Encendido simultáneamente.</string>
+    <string name="lock_to_app_toast_accessible">Para desbloquear esta pantalla, mantén pulsado el botón de Inicio y el botón de Encendido simultáneamente.</string>
     <string name="lock_to_app_toast_locked">Esta aplicación no se puede dejar de fijar</string>
     <string name="lock_to_app_unlock_password">Solicitar contraseña para desactivar</string>
     <string name="lock_to_app_unlock_pattern">Solicitar patrón de desbloqueo para desactivar</string>
@@ -740,7 +739,7 @@ Para desanclar, mantén pulsado el botón de Inicio y el botón de Encendido sim
 
  Inténtalo de nuevo dentro de %3$d segundos."</string>
     <string name="lockscreen_failed_attempts_now_wiping">Has intentado desbloquear el teléfono %d veces, pero no lo has conseguido. Se restablecerán los datos de fábrica del dispositivo.</string>
-    <string name="lockscreen_forgot_pattern_button_text">¿Has olvidado el patrón?</string>
+    <string name="lockscreen_forgot_pattern_button_text">¿Patrón olvidado?</string>
     <string name="lockscreen_glogin_account_recovery_hint">"¿Has olvidado tu nombre de usuario o contraseña?
 Visita "<b>google.com/accounts/recovery</b>.</string>
     <string name="lockscreen_glogin_checking_password">Comprobando...</string>
@@ -984,7 +983,7 @@ Inténtalo de nuevo dentro de %2$d segundos."</string>
     <string name="notification_channel_account">Estado de la cuenta</string>
     <string name="notification_channel_alerts">Alertas</string>
     <string name="notification_channel_call_forward">Desvío de llamada</string>
-    <string name="notification_channel_car_mode">Modo de coche</string>
+    <string name="notification_channel_car_mode">Modo coche</string>
     <string name="notification_channel_developer">Mensajes de desarrolladores</string>
     <string name="notification_channel_device_admin">Administración del dispositivo</string>
     <string name="notification_channel_do_not_disturb">No molestar</string>
@@ -1372,7 +1371,7 @@ para la cuenta %s"</string>
     <string name="policylab_limitPassword">Establecimiento de reglas de contraseña</string>
     <string name="policylab_resetPassword">Cambiar el bloqueo de pantalla</string>
     <string name="policylab_setGlobalProxy">Definir el servidor proxy global</string>
-    <string name="policylab_watchLogin">Supervisar los intentos de desbloqueo de pantalla</string>
+    <string name="policylab_watchLogin">Monitorizar los intentos de desbloqueo de pantalla</string>
     <string name="policylab_wipeData">Borrar todos los datos</string>
     <string name="policylab_wipeData_secondaryUser">Borrar datos del usuario</string>
     <string name="popup_window_default_title">Ventana emergente</string>
@@ -1461,7 +1460,7 @@ para la cuenta %s"</string>
     <string name="safeMode">Modo seguro</string>
     <string name="safe_media_volume_warning">"¿Quieres subir el volumen por encima del nivel recomendado?
 
-Escuchar sonidos a alto volumen durante largos períodos de tiempo puede dañar tus oídos."</string>
+Escuchar sonidos a alto volumen durante largos periodos de tiempo puede dañar tus oídos."</string>
     <string name="save_password_label">Confirmar</string>
     <string name="save_password_message">¿Quieres que el navegador recuerde esta contraseña?</string>
     <string name="save_password_never">Nunca</string>
@@ -1657,12 +1656,12 @@ Escuchar sonidos a alto volumen durante largos períodos de tiempo puede dañar 
     <string name="usb_storage_activity_title">Almacenamiento masivo USB</string>
     <string name="usb_storage_button_mount">Activa el almacenamiento del USB</string>
     <string name="usb_storage_error_message">"Hay un problema al usar su almacenamiento USB para el almacenamiento masivo USB."</string>
-    <string name="usb_storage_message">"Se ha conectado a su computadora a través de USB. Toca el botón a continuación si desea copiar archivos entre su computadora y el almacenamiento USB de su Android."</string>
-    <string name="usb_storage_notification_message">Toca para copiar archivos desde/a su computadora.</string>
+    <string name="usb_storage_message">"Te has conectado a tu ordenador a través de USB. Toca el botón de abajo si desea copiar archivos entre tu ordenador y el almacenamiento USB de su Android."</string>
+    <string name="usb_storage_notification_message">Selecciona para copiar archivos hacia y desde tu ordenador.</string>
     <string name="usb_storage_notification_title">USB conectado</string>
     <string name="usb_storage_stop_button_mount">Desactiva el almacenamiento USB</string>
     <string name="usb_storage_stop_error_message">"Hubo un problema al desactivar el almacenamiento USB. Verifique que haya desmontado el host USB y vuelva a intentarlo."</string>
-    <string name="usb_storage_stop_message">"Antes de desactivar el almacenamiento USB, desmonte (\"expulsar\") el almacenamiento USB de su Android desde su computadora."</string>
+    <string name="usb_storage_stop_message">"Antes de desactivar el almacenamiento USB, desmonta (\"expulsar\") el almacenamiento USB de tu Android desde tu ordenador."</string>
     <string name="usb_storage_stop_notification_message">Toca para apagar el almacenamiento USB.</string>
     <string name="usb_storage_stop_notification_title">Desactiva el almacenamiento USB</string>
     <string name="usb_storage_stop_title">Almacenamiento USB en uso</string>

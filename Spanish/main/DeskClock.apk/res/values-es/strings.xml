@@ -86,7 +86,7 @@
     <string name="bedtime_repeat_type">Programar</string>
     <string name="bedtime_setting_complete">¡Qué duermas bien!</string>
     <string name="bedtime_setting_complete_desc">Sigue tu nuevo horario para acostarte y así funcionar de la mejor forma posible</string>
-    <string name="bedtime_setting_no_disturbance">¿Cambiar al Modo no molestar mientras duermes?</string>
+    <string name="bedtime_setting_no_disturbance">¿Cambiar al modo No molestar mientras duermes?</string>
     <string name="bedtime_setting_no_disturbance_desc">Los tonos de llamada, sonidos de notificaciones y vibración estarán silenciados hasta que te despiertes</string>
     <string name="bedtime_setting_repeat_type">¿Cuándo se aplicará tu horario para acostarte?</string>
     <string name="bedtime_setting_repeat_type_desc">Selecciona los días en los que recibirás recordatorios</string>
@@ -110,7 +110,7 @@
     <string name="clock_bg_button_setting_summary_follow_sys">El negro se usará como color de fondo cada vez que cambie al modo Oscuro</string>
     <string name="clock_bg_button_setting_title">Color de fondo</string>
     <string name="close">Cerrar</string>
-    <string name="close_alarm">Desactivar</string>
+    <string name="close_alarm">Apagar</string>
     <string name="common_settings">Ajustes</string>
     <string name="confirm">Confirmar</string>
     <string name="confirm_abort">Descartar</string>
@@ -133,24 +133,24 @@
     <string name="delete_selected_timer_item">¿Eliminar la tarea seleccionada del temporizador?</string>
     <string name="delete_timer_item_title">Eliminar tarea de temporizador</string>
     <string name="delete_timezone_title">Eliminar zona horaria</string>
-    <string name="deskclock_sleep_no_disturbance">Reloj - Hora de acostarse - Modo no molestar</string>
+    <string name="deskclock_sleep_no_disturbance">Reloj - Hora de acostarse - Modo No molestar</string>
     <string name="dialog_confirm_abort">¿Descartar cambios?</string>
-    <string name="dialog_legal_off_day">&lt;Data&gt;Parece que estás usando alarmas de festivos. Esta función necesita conectarse a internet para trabajar con normalidad. Antes de aceptar esta función debes aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
-    <string name="dialog_legal_off_day_desc">El Reloj no tiene permitido conectarse a internet para actualizar la información acerca de festivos. Las alarmas de festivos sonarán los sábados y domingos.</string>
-    <string name="dialog_legal_workday">&lt;Data&gt;Parece que estás usando alarmas de entre semana. Esta función necesita conectarse a internet para trabajar con normalidad. Antes de aceptar esta función debes aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
-    <string name="dialog_legal_workday_and_off_day">&lt;Data&gt;Parece que estás usando alarmas de entre semana y festivos. Esta función necesita conectarse a internet para trabajar con normalidad. Antes de aceptar esta función debes aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
-    <string name="dialog_legal_workday_and_off_day_desc">El Reloj no tiene permitido conectarse a internet para actualizar la información acerca de festivos. Las alarmas de entre semana sonarán de lunes a viernes. Las alarmas de festivos sonarán los sábados y domingos.</string>
-    <string name="dialog_legal_workday_desc">El Reloj no tiene permitido conectarse a internet para actualizar la información acerca de festivos. Las alarmas de entre semana sonarán de lunes a viernes.</string>
+    <string name="dialog_legal_off_day">&lt;Data&gt;Parece que estás usando alarmas de festivos. Esta función necesita conectarse a Internet para trabajar con normalidad. Antes de aceptar esta función debes aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
+    <string name="dialog_legal_off_day_desc">El Reloj no tiene permitido conectarse a Internet para actualizar la información acerca de festivos. Las alarmas de festivos sonarán los sábados y domingos.</string>
+    <string name="dialog_legal_workday">&lt;Data&gt;Parece que estás usando alarmas de entre semana. Esta función necesita conectarse a Internet para trabajar con normalidad. Antes de aceptar esta función debes aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
+    <string name="dialog_legal_workday_and_off_day">&lt;Data&gt;Parece que estás usando alarmas de entre semana y festivos. Esta función necesita conectarse a Internet para trabajar con normalidad. Antes de aceptar esta función debes aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
+    <string name="dialog_legal_workday_and_off_day_desc">El Reloj no tiene permitido conectarse a Internet para actualizar la información acerca de festivos. Las alarmas de entre semana sonarán de lunes a viernes. Las alarmas de festivos sonarán los sábados y domingos.</string>
+    <string name="dialog_legal_workday_desc">El Reloj no tiene permitido conectarse a Internet para actualizar la información acerca de festivos. Las alarmas de entre semana sonarán de lunes a viernes.</string>
     <string name="dialog_message_agree">Aceptar</string>
     <string name="dialog_message_for_contact_permission">Para tener disponibles las alarmas de cumpleaños, el Reloj necesita acceder a sus contactos. ¿Aceptar?</string>
     <string name="dialog_message_negative">Rechazar</string>
     <string name="dialog_message_not_remind">No volver a mostrar</string>
-    <string name="dialog_net_permission_in_repeat_type">&lt;Data&gt;Esta función necesita conectarse a internet para trabajar con normalidad. Antes de aceptar esta función debes aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
-    <string name="dialog_privacy_content">Con el fin de obtener información relevante acerca de vacaciones públicas, ajustar alarmas y proporcionar servicios personalizados, el Reloj necesita conectarse a internet. Antes de usar el reloj debes leer y aceptar nuestro %1$s y %2$s. ¿Aceptar?</string>
-    <string name="dialog_privacy_content_global">Con el fin de proporcionar servicios personalizados, el Reloj necesita conectarse a internet. Antes de usar el reloj debes leer y aceptar nuestro %1$s y %2$s. ¿Aceptar?</string>
-    <string name="dialog_privacy_content_news">Con el fin de proporcionar servicios personalizados e incluir noticias a tus alarmas, el Reloj necesita conectarse a internet. Antes de usar el reloj debes leer y aceptar nuestro %1$s y %2$s. ¿Aceptar?</string>
-    <string name="dialog_privacy_content_timer">Con el fin de descargar archivos de audio para los temporizadores de ruidos ambientales y proporcionar servicios personalizados, el Reloj necesita conectarse a internet. Antes de usar el reloj debes leer y aceptar nuestro %1$s y %2$s. ¿Aceptar?</string>
-    <string name="dialog_privacy_content_timer_data">Con el fin de descargar archivos de audio para los temporizadores de ruidos ambientales (20MB) y proporcionar servicios personalizados, el Reloj necesita conectarse a internet. Antes de usar el reloj debes leer y aceptar nuestro %1$s y %2$s. Ahora estás usando datos móviles ¿Aceptar?</string>
+    <string name="dialog_net_permission_in_repeat_type">&lt;Data&gt;Esta función necesita conectarse a Internet para trabajar con normalidad. Antes de aceptar esta función debes aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
+    <string name="dialog_privacy_content">Con el fin de obtener información relevante acerca de vacaciones públicas, ajustar alarmas y proporcionar servicios personalizados, el Reloj necesita conectarse a Internet. Antes de usar el reloj debes leer y aceptar nuestro %1$s y %2$s. ¿Aceptar?</string>
+    <string name="dialog_privacy_content_global">Con el fin de proporcionar servicios personalizados, el Reloj necesita conectarse a Internet. Antes de usar el reloj debes leer y aceptar nuestro %1$s y %2$s. ¿Aceptar?</string>
+    <string name="dialog_privacy_content_news">Con el fin de proporcionar servicios personalizados e incluir noticias a tus alarmas, el Reloj necesita conectarse a Internet. Antes de usar el reloj debes leer y aceptar nuestro %1$s y %2$s. ¿Aceptar?</string>
+    <string name="dialog_privacy_content_timer">Con el fin de descargar archivos de audio para los temporizadores de ruidos ambientales y proporcionar servicios personalizados, el Reloj necesita conectarse a Internet. Antes de usar el reloj debes leer y aceptar nuestro %1$s y %2$s. ¿Aceptar?</string>
+    <string name="dialog_privacy_content_timer_data">Con el fin de descargar archivos de audio para los temporizadores de ruidos ambientales (20MB) y proporcionar servicios personalizados, el Reloj necesita conectarse a Internet. Antes de usar el reloj debes leer y aceptar nuestro %1$s y %2$s. Ahora estás usando datos móviles ¿Aceptar?</string>
     <string name="disagree">Rechazar</string>
     <string name="done">Listo</string>
     <string name="dynamic_alarm_speech">Alarma inteligente</string>
@@ -222,7 +222,7 @@
     <string name="life_post_weather_invalid">No se pudo obtener la información del tiempo, pulsa nuevamente para reintentarlo</string>
     <string name="life_post_weather_no_network">Conéctate a la red para actualizar la info del tiempo</string>
     <string name="life_post_weather_temperature_centigrade">°</string>
-    <string name="listen_news_privacy">&lt;Data&gt;Para proveer servicios personalizados e incluir noticias matutinas en tus alarmas, el Reloj necesita conectarse a internet. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
+    <string name="listen_news_privacy">&lt;Data&gt;Para ofrecer servicios personalizados e incluir noticias matutinas en tus alarmas, el Reloj necesita conectarse a Internet. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
     <string name="loading_ringtone">Cargando tono…</string>
     <string name="menu_add_worldclock">Añadir reloj</string>
     <string name="menu_desk_clock">Reloj</string>
@@ -244,13 +244,13 @@
     <string name="module_dialog_neutral">Entendido</string>
     <string name="module_dialog_positive">Aceptar</string>
     <string name="module_download_cancel">No gracias</string>
-    <string name="module_download_data_msg">Reloj necesita conectarse a internet para descargar archivos de audio (20 Mb) para sonidos ambientales y alertas inteligentes. Estás usando datos móviles. ¿Permitir?</string>
+    <string name="module_download_data_msg">Reloj necesita conectarse a Internet para descargar archivos de audio (20 Mb) para sonidos ambientales y alertas inteligentes. Estás usando datos móviles. ¿Permitir?</string>
     <string name="module_download_data_msg_golbal">Reloj necesita descargar archivos de audio (20 MB) para sonidos ambientales y alertas inteligentes. Estás usando datos móviles. ¿Permitir?</string>
     <string name="module_download_data_msg_replace">Audio actualizado para alarmas inteligentes de MIUI disponible. Se requerirán 20MB de tus datos móviles para esta descarga. ¿Descargar ahora?</string>
     <string name="module_download_data_msg_timer">El Reloj necesita descargar archivos de audio para los temporizadores de ruidos ambientales. Se requerirán 20MB de tus datos móviles para esta descarga. ¿Descargar ahora?</string>
     <string name="module_download_fail">No se pudieron descargar los audios adicionales</string>
     <string name="module_download_failure">No se pudo descargar el audio. Comprueba tus ajustes de red y vuelve a intentarlo.</string>
-    <string name="module_download_msg">Reloj necesita conectarse a internet para descargar archivos de audio para sonidos ambientales y alertas inteligentes. ¿Permitir?</string>
+    <string name="module_download_msg">Reloj necesita conectarse a Internet para descargar archivos de audio para sonidos ambientales y alertas inteligentes. ¿Permitir?</string>
     <string name="module_download_msg_golbal">Reloj necesita descargar archivos de audio para sonidos ambientales y alarmas inteligentes. ¿Permitir?</string>
     <string name="module_download_msg_replace">Actualización de audio para alarmas inteligentes de MIUI disponible. ¿Descargar ahora?</string>
     <string name="module_download_msg_timer">El Reloj necesita descargar archivos de audio para los temporizadores de ruidos ambientales. ¿Descargar ahora?</string>
@@ -263,32 +263,32 @@
     <string name="module_update_success">Audio actualizado para alarmas inteligentes de MIUI descargado con éxito. Puedes establecer las alarmas inteligentes de MIUI en los ajustes del Reloj.</string>
     <string name="module_update_success_control">Entendido</string>
     <string name="module_weather_ringtone_download_data">La alarma meteorológica selecciona diferentes tonos dependiendo del estado del tiempo actual. El Reloj necesita descargar aproximadamente 300MB de audio para esto. ¿Descargar?</string>
-    <string name="module_weather_ringtone_download_data_privacy">&lt;Data&gt;La alarma meteorológica selecciona diferentes tonos dependiendo del estado del tiempo actual. El Reloj necesita conectarse a internet para descargar aproximadamente 30MB de audio. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
+    <string name="module_weather_ringtone_download_data_privacy">&lt;Data&gt;La alarma meteorológica selecciona diferentes tonos dependiendo del estado del tiempo actual. El Reloj necesita conectarse a Internet para descargar aproximadamente 30MB de audio. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
     <string name="module_weather_ringtone_download_wifi">La alarma meteorológica selecciona diferentes tonos dependiendo del estado del tiempo actual. El Reloj necesita descargar audio para esto. ¿Descargar?</string>
-    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data&gt;La alarma meteorológica selecciona diferentes tonos dependiendo del estado del tiempo actual. El Reloj necesita conectarse a internet para descargar audios. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
+    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data&gt;La alarma meteorológica selecciona diferentes tonos dependiendo del estado del tiempo actual. El Reloj necesita conectarse a Internet para descargar audios. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
     <string name="module_weather_ringtone_introduce">La alarma meteorológica selecciona diferentes tonos dependiendo del estado del tiempo actual. También te permite escuchar la información meteorológica matutina actual.</string>
     <string name="module_weather_ringtone_introduce_global">La alarma meteorológica selecciona diferentes tonos dependiendo del estado del tiempo actual.</string>
     <string name="module_weather_ringtone_update_data">La alerta meteorológica ahora cuenta con música de fondo y mejores anuncios de voz. El Reloj necesita descargar aproximadamente 30MB de audio para esto. ¿Descargar?</string>
     <string name="module_weather_ringtone_update_success">La alerta meteorológica ahora cuenta con música de fondo y mejores anuncios de voz. Puedes crear una nueva alarma para probar esta función.</string>
     <string name="module_week_ringtone_download_data">La alarma de naturaleza reproduce diferentes sonidos dependiendo de la fecha. Reloj necesita descargar aproximadamente 30MB de audio para que funcione. ¿Descargar?</string>
-    <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;La alarma semanal reproduce diferentes sonidos de la naturaleza cada día de la semana. El Reloj necesita conectarse a internet para descargar 30MB de audio. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
+    <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;La alarma semanal reproduce diferentes sonidos de la naturaleza cada día de la semana. El Reloj necesita conectarse a Internet para descargar 30MB de audio. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
     <string name="module_week_ringtone_download_wifi">La alarma de naturaleza reproduce diferentes sonidos dependiendo de la fecha. Reloj necesita descargar audio para que funcione. ¿Descargar?</string>
-    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;La alarma semanal reproduce diferentes sonidos de la naturaleza cada día de la semana. El Reloj necesita conectarse a internet para descargar audio. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
+    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;La alarma semanal reproduce diferentes sonidos de la naturaleza cada día de la semana. El Reloj necesita conectarse a Internet para descargar audio. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
     <string name="module_week_ringtone_introduce">La alarma de naturaleza reproduce diferentes sonidos dependiendo de la fecha.</string>
     <string name="module_week_ringtone_update_data">La alarma de naturaleza reproduce diferentes sonidos dependiendo de la fecha. Reloj necesita descargar aproximadamente 30MB de audio para que funcione. ¿Descargar?</string>
     <string name="module_week_ringtone_update_success">La alarma de naturaleza reproduce diferentes sonidos dependiendo de la fecha. Puedes crear una alarma para probar esta función.</string>
     <string name="module_white_noise_download_data">El Reloj necesita descargar archivos de audio para los temporizadores de ruidos ambientales. Se requerirán 30MB de tus datos móviles para esta descarga. ¿Descargar ahora?</string>
-    <string name="module_white_noise_download_data_privacy">&lt;Data&gt;Para descargar archivos de audio para temporizadores de sonido ambiental (aproximadamente 30MB) y proveer servicios personalizados, el Reloj necesita conectarse a internet. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. Estás usando datos móviles. ¿Aceptar?&lt;/Data&gt;</string>
+    <string name="module_white_noise_download_data_privacy">&lt;Data&gt;Para descargar archivos de audio para temporizadores de sonido ambiental (aproximadamente 30MB) y proveer servicios personalizados, el Reloj necesita conectarse a Internet. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. Estás usando datos móviles. ¿Aceptar?&lt;/Data&gt;</string>
     <string name="module_white_noise_download_wifi">El Reloj necesita descargar archivos de audio para los temporizadores de ruidos ambientales. ¿Descargar ahora?</string>
-    <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;Para descargar archivos de audio para temporizadores de sonido ambiental y proveer servicios personalizados, el Reloj necesita conectarse a internet. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
+    <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;Para descargar archivos de audio para temporizadores de sonido ambiental y proveer servicios personalizados, el Reloj necesita conectarse a Internet. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
     <string name="monday_to_friday">Lunes a viernes</string>
     <string name="more_alert_setting">Ajustes de alarma adicionales</string>
     <string name="more_setting">Más ajustes</string>
     <string name="more_settings">Ajustes</string>
     <string name="net_permission_cancel">"Rechazar"</string>
     <string name="net_permission_ok">Aceptar</string>
-    <string name="network_privacy">&lt;Data&gt;Para obtener información importante sobre días festivos locales, ajustar alarmas y proveer servicios personalizados, el Reloj necesita conectarse a internet. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
-    <string name="network_privacy_global">&lt;Data&gt;Para proveer servicios personalizados, el Reloj necesita conectarse a internet. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
+    <string name="network_privacy">&lt;Data&gt;Para obtener información importante sobre días festivos locales, ajustar alarmas y proveer servicios personalizados, el Reloj necesita conectarse a Internet. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
+    <string name="network_privacy_global">&lt;Data&gt;Para ofrecer servicios personalizados, el Reloj necesita conectarse a Internet. Antes de usar el Reloj, debes leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿Aceptar?&lt;/Data&gt;</string>
     <string name="never">Una vez</string>
     <string name="new_label">Añadir etiqueta de alarma</string>
     <string name="no_alarm_setting">No hay alarmas aquí</string>
@@ -354,7 +354,7 @@
     <string name="sleep_duration_no_data">Todavía no hay suficientes datos</string>
     <string name="sleep_duration_recommendation">La mayoría de las personas necesitan dormir de 7 a 9 horas cada noche</string>
     <string name="sleep_no_disturbance">Modo No molestar</string>
-    <string name="sleep_no_disturbance_desc">Cambia al Modo no molestar hasta que te despiertes</string>
+    <string name="sleep_no_disturbance_desc">Cambia al modo No molestar hasta que te despiertes</string>
     <string name="sleep_no_record_text">Comienza a hacer un seguimiento de tu sueño para ver las estadísticas</string>
     <string name="sleep_notification_desc">Sigue tu horario para acostarte</string>
     <string name="sleep_notification_title">Hora de irse a la cama</string>
@@ -374,8 +374,8 @@
     <string name="start_up">Iniciar</string>
     <string name="stopwatch_lap_empty_text">No hay vueltas</string>
     <string name="stopwatch_title">Cronómetro</string>
-    <string name="system_permission_agree_desc">Allow this app to connect to the internet to access all its features.</string>
-    <string name="system_permission_main_purpose">Viewing time, setting alarms and timers, using stopwatch</string>
+    <string name="system_permission_agree_desc">Permite que esta aplicación se conecte a Internet para acceder a todas sus funciones.</string>
+    <string name="system_permission_main_purpose">Ver el tiempo, configurar alarmas y temporizadores, usar cronómetro</string>
     <string name="system_permission_purpose">Crear alarmas entre semana y configurar tonos de llamada personalizados</string>
     <string name="system_time_setting">Ajustes</string>
     <string name="system_time_settings_category_title">Ajustes de hora</string>
@@ -438,8 +438,8 @@
     <string name="tomorrow">Mañana</string>
     <string name="turn_off_a_repeat_alarm">Desactivar una alarma repetida</string>
     <string name="turn_off_this_repeat_alarm">Desactivar todas las alarmas</string>
-    <string name="upcoming_alarm">%s Alarma siguiente</string>
-    <string name="upcoming_alarm_hint">Puedes cancelar la alarma antes</string>
+    <string name="upcoming_alarm">Próxima alarma: %s</string>
+    <string name="upcoming_alarm_hint">Puedes apagar esta alarma ahora</string>
     <string name="update_health_app">Actualizar Xiaomi Health</string>
     <string name="update_health_app_desc">La función de seguimiento del sueño es proporcionada por Xiaomi Health. Actualiza Xiaomi Health a su última versión para acceder a las funciones relacionadas.</string>
     <string name="update_it">Actualizar</string>

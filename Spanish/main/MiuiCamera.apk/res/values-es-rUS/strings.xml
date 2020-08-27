@@ -203,8 +203,8 @@
     <string name="accessibility_review_thumbnail">Foto más reciente</string>
     <string name="accessibility_camera_picker">Interruptor para cambiar entre la cámara trasera y la delantera</string>
     <string name="accessibility_stereo_button">Ajuste de enfoque</string>
-    <string name="accessibility_zoom_button">Modo Zoom</string>
-    <string name="accessibility_portrait_button">Modo Retrato</string>
+    <string name="accessibility_zoom_button">Modo zoom</string>
+    <string name="accessibility_portrait_button">Modo retrato</string>
     <string name="accessibility_flash_on">Flash activado</string>
     <string name="accessibility_flash_auto">Flash automático activado</string>
     <string name="accessibility_flash_off">Flash desactivado</string>
@@ -229,8 +229,8 @@
     <string name="accessibility_closed">Desactivado</string>
     <string name="accessibility_beauty_switch_open">Modo belleza activado</string>
     <string name="accessibility_beauty_switch_closed">Modo belleza desactivado</string>
-    <string name="accessibility_beauty_panel_closed">Menú del Modo belleza oculto</string>
-    <string name="accessibility_beauty_panel_open">Menú del Modo belleza abierto</string>
+    <string name="accessibility_beauty_panel_closed">Menú del modo belleza oculto</string>
+    <string name="accessibility_beauty_panel_open">Menú del modo belleza abierto</string>
     <string name="accessibility_back_preview_status">Previsualización de la cámara trasera</string>
     <string name="accessibility_front_preview_status">Previsualización de la cámara frontal</string>
     <string name="accessibility_focus_status">Zoom %1$sX</string>
@@ -278,7 +278,7 @@
     <string name="pref_camera_device_watermark_title">Marca de agua en fotos</string>
     <string name="pref_camera_face_info_watermark_title">Agregar marca de edad en la foto</string>
     <string name="pref_scan_qrcode_title">Escanear códigos QR</string>
-    <string name="pref_scan_qrcode_summary">Solo la cámara trasera puede escanear códigos QR en el Modo foto.</string>
+    <string name="pref_scan_qrcode_summary">Solo la cámara trasera puede escanear códigos QR en el modo foto.</string>
     <string name="pref_manual_exposure_title">S</string>
     <string name="pref_camera_exposuretime_entry_auto">AUTO</string>
     <string name="pref_camera_exposuretime_entry_32s">32s</string>
@@ -422,14 +422,14 @@
     <string name="pref_camera_zoom_mode_entry_standard">NORMAL</string>
     <string name="pref_camera_zoom_mode_entry_high_pixel">POCA LUZ</string>
     <string name="pref_camera_zoom_value_title">Zoom</string>
-    <string name="pref_camera_portrait_mode_title">Modo Retrato</string>
-    <string name="pref_camera_portrait_mode_entry_off">Modo Retrato desactivado</string>
-    <string name="pref_camera_portrait_mode_entry_on">Modo Retrato activado</string>
+    <string name="pref_camera_portrait_mode_title">Modo retrato</string>
+    <string name="pref_camera_portrait_mode_entry_off">Modo retrato desactivado</string>
+    <string name="pref_camera_portrait_mode_entry_on">Modo retrato activado</string>
     <string name="portrait_mode_lowlight_hint">Está demasiado oscuro ahora</string>
     <string name="portrait_mode_too_close_hint">Alejar del objeto</string>
     <string name="portrait_mode_too_far_hint">Coloque el objeto dentro de 2 metros</string>
     <string name="portrait_mode_depth_effect_success_hint">Efecto de profundidad</string>
-    <string name="portrait_mode_use_hint">"El Modo Retrato nubla el fondo
+    <string name="portrait_mode_use_hint">"El modo Retrato nubla el fondo
 y trae adelante a las personas."</string>
     <string name="pref_camera_square_mode_title">Cuadrado</string>
     <string name="simple_mode_button_text_square">Desactivar Cuadrado</string>
@@ -513,7 +513,7 @@ y creará una toma con la mínima cantidad de ruido."</string>
     <string name="user_notice_title">Términos y Condiciones</string>
     <string name="install_confirmed">Instalar</string>
     <string name="confirm_install_scanner_title">Instalar Escáner</string>
-    <string name="confirm_install_scanner_message">Escáner le permite escanear códigos QR, códigos de barras y más. No tiene que conectarse a internet para instalarlo.</string>
+    <string name="confirm_install_scanner_message">Escáner le permite escanear códigos QR, códigos de barras y más. No tiene que conectarse a Internet para instalarlo.</string>
     <string name="pref_camera_focus_shoot_title">Enfoque y toma</string>
     <string name="pref_camera_focus_shoot_summary">Toca para enfocar y vuelva a tocar para tomar una foto.</string>
     <string name="pref_retain_camera_mode_title">Guardar modo anterior</string>

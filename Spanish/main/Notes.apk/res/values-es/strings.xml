@@ -71,12 +71,12 @@
     <string name="confirm_cancel">"Rechazar"</string>
     <string name="confirm_ok">Aceptar</string>
     <string name="copy">Copiar</string>
-    <string name="cta_agree_desc">Permite a esta aplicación conectarse a internet y otorga los permisos requeridos para poder usar todas sus funciones.</string>
+    <string name="cta_agree_desc">Permite a esta aplicación conectarse a Internet y otorga los permisos requeridos para poder usar todas sus funciones.</string>
     <string name="cta_confirm_cancel">"No permitir"</string>
     <string name="cta_confirm_ok">Permitir</string>
-    <string name="cta_dialog_message">Las notas necesitan permisos para conectarse a Internet, grabar audio y acceder a sus contactos para que funcionen normalmente. ¿Permitir?</string>
+    <string name="cta_dialog_message">Las notas necesitan permisos para conectarse a Internet, grabar audio y acceder a sus contactos para que funcionen correctamente. ¿Permitir?</string>
     <string name="cta_dialog_title">Permissions required</string>
-    <string name="cta_reminder">Esta aplicación necesita conectarse a internet para copiar notas a Xiaomi Cloud, además de leer tus contactos para etiquetar las notas que tomas durante las llamadas.</string>
+    <string name="cta_reminder">Esta aplicación necesita conectarse a Internet para copiar notas a Xiaomi Cloud, además de leer tus contactos para etiquetar las notas que tomas durante las llamadas.</string>
     <string name="cta_v2_app_purpose">Creando, visualizando y gestionando notas</string>
     <string name="cta_v2_app_purpose_v12">¡Bienvenido a Notas! Puedes usar esta aplicación para crear tareas y notas que contengan texto, imágenes y audio.</string>
     <string name="data_empty_note">No hay notas todavía</string>
@@ -134,8 +134,11 @@
     <string name="first_enter_custom_folder_hint">Puedes renombrar o eliminar carpetas aquí</string>
     <string name="float_todo_guide_cancel">Cancelar</string>
     <string name="float_todo_guide_message">El acceso directo a la Pantalla de inicio te permite deslizar desde el borde de la pantalla para ver y crear tareas. ¿Crear ahora el acceso directo?</string>
+    <string name="float_todo_guide_message_v2">El atajo con gesto te permite ver y crear tareas deslizando el dedo desde el borde de la pantalla. Puedes activar y desactivar esta función en los Ajustes.</string>
     <string name="float_todo_guide_ok">Crear</string>
+    <string name="float_todo_guide_ok_v2">Activar</string>
     <string name="float_todo_guide_title">Acceso directo a la Pantalla de inicio</string>
+    <string name="float_todo_guide_title_v2">Atajo con gesto</string>
     <string name="folder_exist">La carpeta con ese nombre está repetida</string>
     <string name="folder_operation_delete">Eliminar</string>
     <string name="folder_operation_rename">Renombrar</string>
@@ -144,6 +147,12 @@
     <string name="format_move_note_to_folder">Movida a %1$s</string>
     <string name="format_move_notes_out_folder">Se ha movido %1$s</string>
     <string name="format_move_notes_to_folder">Se ha movido %1$s a %2$s</string>
+    <string name="fmt_date_long_month_day">dd MMMM</string>
+    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="gesture_guide_cancel">Saltar</string>
     <string name="gesture_guide_message">Puedes tocar, mantener pulsado y arrastrar elementos para crear y reorganizar notas. ¿Aprender ahora estos gestos?</string>
     <string name="gesture_guide_ok">Aprender</string>
@@ -204,7 +213,7 @@
     <string name="not_set">Sin definir</string>
     <string name="note_description_content">La aplicación de Notas es una gran herramienta para registrar tus ideas. Contiene memoria integrada y sincroniza tus elementos con Xiaomi Cloud para que puedas acceder a ellos en cualquier momento y lugar. Asegúrate de no necesitar estas funciones antes de eliminar la aplicación.</string>
     <string name="note_description_title">Acerca de Notas</string>
-    <string name="note_gesture_guide_step1">Mantén presionado el botón más para crear una nota de voz</string>
+    <string name="note_gesture_guide_step1">Mantén pulsado el botón más para crear una nota de voz</string>
     <string name="note_gesture_guide_step2">Mantén presionada una nota y luego arrástrala sobre otra nota para crear una carpeta</string>
     <string name="note_gesture_guide_step3">Mantén presionada una nota y luego arrástrala sobre una carpeta para mover allí la nota</string>
     <string name="note_link_email">Redactar correo</string>
@@ -224,7 +233,7 @@
     <string name="permission_intro_phone">Para marcar notas tomadas en una llamada</string>
     <string name="permission_intro_storage">Para guardar imágenes y archivos adjuntos</string>
     <string name="permission_microphone_desc">Para grabar notas de voz</string>
-    <string name="permission_network_for_cloud_desc">Para sincronizar notas con la nube necesitas conectarte a internet. Los datos móviles podrían ser usados para sincronizar elementos. ¿Conectar ahora?</string>
+    <string name="permission_network_for_cloud_desc">Para sincronizar notas con la nube necesitas conectarte a Internet. Los datos móviles podrían ser usados para sincronizar elementos. ¿Conectar ahora?</string>
     <string name="permission_phone_state_desc">Para dejar de grabar notas de voz durante las llamadas</string>
     <string name="permission_read_contact_desc">Asociar las notas creadas durante las llamadas con contactos</string>
     <string name="permission_storage_desc">Para guardar notas como imágenes</string>
@@ -436,6 +445,6 @@ Permitir a Notas grabar audio."</string>
  - Sincronizar con Xiaomi Cloud
  - Establecer recordatorios"</string>
     <string name="widget_content_loading">Un momento…</string>
-    <string name="widget_havenot_content">Toca para crear una nota. Mantén presionado el widget para cambiar el tamaño.</string>
+    <string name="widget_havenot_content">Toca para crear una nota. Mantén pulsado el widget para cambiar el tamaño.</string>
     <string name="yesterday">Ayer</string>
 </resources>

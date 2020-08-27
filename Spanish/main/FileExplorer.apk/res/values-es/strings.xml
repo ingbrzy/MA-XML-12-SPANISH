@@ -206,7 +206,7 @@
     <string name="data_consumption_checkbox_hint">No mostrar de nuevo</string>
     <string name="data_consumption_confirm">Aceptar</string>
     <string name="data_consumption_message">Esta aplicación necesita conectarse a Internet por Wi-Fi para funcionar con normalidad.</string>
-    <string name="data_consumption_message1">El Gestor de archivos necesita conectarse a internet para hacer disponibles los videos populares y las pegatinas.</string>
+    <string name="data_consumption_message1">El Gestor de archivos necesita conectarse a Internet para hacer disponibles los videos populares y las pegatinas.</string>
     <string name="data_consumption_title">Conexión a Internet</string>
     <string name="decompress_cancel">Cancelar</string>
     <string name="decompress_confirm">Extraer</string>
@@ -287,7 +287,7 @@
     <string name="encrypt_error">Error al cifrar archivos, intente de nuevo</string>
     <string name="encrypt_prefix">ENCRIPTADO</string>
     <string name="encrypt_success">Encriptados correctamente</string>
-    <string name="encrypt_success_first_five">Cifrado y ocultado. Deslice hacia abajo en la pantalla de inicio del Gestor de archivos para ver los archivos.</string>
+    <string name="encrypt_success_first_five">Cifrado y ocultado. Desliza hacia abajo en la pantalla de inicio del Gestor de archivos para ver los archivos.</string>
     <string name="encrypting">Encriptando…</string>
     <string name="error">ERROR</string>
     <string name="error_contains_sharer_path">No se pueden cifrar archivos en la carpeta /MIUI/Gallery/cloud/sharer, mueva el archivo a otro directorio e inténtelo de nuevo</string>
@@ -321,7 +321,7 @@
     <string name="fail_to_create_folder_unknown">No se puede crear la carpeta</string>
     <string name="failed_not_access_sd_card">Permite primero el acceso a la tarjeta SD</string>
     <string name="failed_obtain_permissions">No se pudieron obtener permisos</string>
-    <string name="favorite_notice_message">"Ahora puedes añadir calpetas a favoritos.
+    <string name="favorite_notice_message">"Ahora puedes añadir carpetas a favoritos.
 Mantén pulsada una carpeta y pulsa \"Más\" para añadir."</string>
     <string name="favorite_photo">Fotos</string>
     <string name="favorite_ringtone">Tonos de llamada</string>
@@ -519,7 +519,7 @@ Mantén pulsada una carpeta y pulsa \"Más\" para añadir."</string>
     <string name="my_follows">Mi feed</string>
     <string name="name_empty">Debes ingresar un nombre.</string>
     <string name="need_login">Entra primero</string>
-    <string name="need_read_storage_permission">\"Gestor de archivos requiere permiso para acceder al almacenamiento del dispositivo para que funcione normalmente\".</string>
+    <string name="need_read_storage_permission">"Gestor de archivos requiere permiso para acceder al almacenamiento del dispositivo para funcionar con normalidad."</string>
     <string name="net_error_text">Error de conexión</string>
     <string name="network_dialog_checkbox_tip">No mostrar de nuevo</string>
     <string name="network_not_available">No se pudo conectar a la red</string>
@@ -698,7 +698,7 @@ Mantén pulsada una carpeta y pulsa \"Más\" para añadir."</string>
     <string name="private_folder">Carpeta oculta</string>
     <string name="private_folder_no_file_hints">No hay archivos ocultos.</string>
     <string name="private_folder_update">Actualizando archivos ocultos…</string>
-    <string name="private_toast_hint2">Para ocultar un archivo, pulsa y mantén, después añádelo a una carpeta oculta.</string>
+    <string name="private_toast_hint2">Para ocultar un archivo, mantenlo pulsado y después añádelo a una carpeta oculta.</string>
     <string name="prize_result_tip">Intercambiar</string>
     <string name="prize_result_tip2">Las gemas van a su tesoro</string>
     <string name="promot_enctypt_password">Introduce la contraseña utilizada para desbloquear tu dispositivo</string>
@@ -742,8 +742,8 @@ Mantén pulsada una carpeta y pulsa \"Más\" para añadir."</string>
     <string name="rlv_closing">Cerrando…</string>
     <string name="rlv_last_refreshing_time">Actualizado %1$s</string>
     <string name="rlv_loading_more">Un momento…</string>
-    <string name="rlv_pull_to_close">Deslice hacia abajo para cerrar</string>
-    <string name="rlv_pull_to_refresh">Deslice hacia abajo para recargar</string>
+    <string name="rlv_pull_to_close">Desliza hacia abajo para cerrar</string>
+    <string name="rlv_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="rlv_refreshing">Escaneando archivos…</string>
     <string name="rlv_release_to_close">Suelte para cerrar</string>
     <string name="rlv_release_to_refresh">Suelte para recargar</string>
@@ -1040,7 +1040,7 @@ Mantén pulsada una carpeta y pulsa \"Más\" para añadir."</string>
     <string name="video_data_consumption_dialog_title">Aviso de uso de datos</string>
     <string name="video_description">Descripción del video</string>
     <string name="video_encrypt_fans_btn">Sea un fan</string>
-    <string name="video_encrypt_fans_text">Sólo los fans pueden ver este video</string>
+    <string name="video_encrypt_fans_text">Solo los fans pueden ver este video</string>
     <string name="video_encrypt_follow_fail">No se puede seguir</string>
     <string name="video_encrypt_follow_success">Seguido %s</string>
     <string name="video_encrypt_login_btn">Identifíquese</string>

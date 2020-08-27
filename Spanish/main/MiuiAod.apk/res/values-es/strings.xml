@@ -37,6 +37,8 @@
     <string name="aod_close_color_inversion">Esta función no puede ser combinada con inversión del color. Desactiva inversión del color primero.</string>
     <string name="aod_lock_screen_date">EE, d MMMM</string>
     <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12_signature">dd/MM</string>
+    <string name="aod_lock_screen_date_signature">dd/MM</string>
     <string name="aod_lock_screen_date_smartcover">"EE
 dd/MM"</string>
     <string name="aod_lock_screen_date_smartcover_b">EE dd/MM</string>
@@ -44,7 +46,7 @@ dd/MM"</string>
     <string name="aod_mode_style">Estilo del reloj y del fondo</string>
     <string name="aod_mode_style_title">Más opciones</string>
     <string name="aod_mode_summary">Mostrar reloj, fecha, notificaciones e imágenes de fondo cuando la pantalla está apagada</string>
-    <string name="aod_mode_time_summary">Programar la hora para encender y apagar el Modo siempre activo</string>
+    <string name="aod_mode_time_summary">Programar la hora para encender y apagar el modo siempre activo</string>
     <string name="aod_mode_time_title">Programar</string>
     <string name="aod_mode_title">Pantalla ambiente</string>
     <string name="aod_show_date_and_time">Mostrar fecha y hora</string>
@@ -76,6 +78,7 @@ dd/MM"</string>
     <string name="deep_space_planet_des">Este tema refleja los cambios de luz que ocurren a tu alrededor a lo largo del día. Los amaneceres y atardeceres también son sincronizados con tu ubicación.</string>
     <string name="delete">Eliminar</string>
     <string name="digital_clock">Digital</string>
+    <string name="disable_aod_in_dark_room">Desactivar al estar quieto en la oscuridad</string>
     <string name="disable_aod_in_power_save_mode">Desactivar cuando el Ahorro de batería está activado</string>
     <string name="disable_aod_in_power_save_mode_summary">No mostrar elementos para ahorrar energía</string>
     <string name="error_icon_content_description">Error</string>
@@ -162,7 +165,7 @@ dd/MM"</string>
 está a punto de suceder"</string>
     <string name="standard_clock_panel">Estándar</string>
     <string name="standard_style">Normal</string>
-    <string name="summary">Para reducir el consumo de energía, los elementos no serán mostrados cuando el dispositivo se encuentra en la oscuridad durante bastante tiempo.</string>
+    <string name="summary">Para reducir el consumo de energía, los elementos no serán mostrados cuando el dispositivo esté quieto en la oscuridad durante un tiempo.</string>
     <string name="temporary_style">Durante 10 segundos después de tocar</string>
     <string name="text_color">Color del texto</string>
     <string name="text_length_exceed_limit_alert">*El texto que has introducido es demasiado largo</string>

@@ -41,7 +41,7 @@
     <string name="backup_failed_reason_cloud_space_not_enough">No hay suficiente espacio en Xiaomi Cloud. Mejora tu plan o libera espacio de almacenamiento.</string>
     <string name="backup_failed_reason_disk_space_not_enough">No hay suficiente espacio de almacenamiento. Libera espacio primero.</string>
     <string name="backup_failed_reason_network_error">Error de red. Espera uno o dos minutos e inténtalo de nuevo.</string>
-    <string name="backup_finished_notification_content">Respaldar aplicaciones del escritorio, ajustes del sistema, etc.</string>
+    <string name="backup_finished_notification_content">Se respaldaron aplicaciones del escritorio, ajustes del sistema, etc.</string>
     <string name="backup_now">Crear copia de seguridad ahora</string>
     <string name="backup_size">Tamaño: %s</string>
     <string name="backup_stopped_msg">La copia de seguridad actual borrará la anterior. Pulsa para ver.</string>
@@ -62,8 +62,8 @@
     <string name="button_cancel">Cancelar</string>
     <string name="button_delete">Eliminar</string>
     <string name="button_next">Siguiente</string>
-    <string name="can_not_backup_in_lite_mode">No es posible realizar copia de seguridad en Modo simplificado</string>
-    <string name="can_not_restore_in_lite_mode">No es posible restaurar en Modo simplificado</string>
+    <string name="can_not_backup_in_lite_mode">No es posible realizar copias de seguridad en modo Lite</string>
+    <string name="can_not_restore_in_lite_mode">No es posible restaurar en modo Lite</string>
     <string name="cancel_backup">Cancelando la copia de seguridad…</string>
     <string name="cancel_recover_settings">&lt;u&gt;Cancelar&lt;/u&gt;</string>
     <string name="cancel_restore_home">Cancelando…</string>
@@ -81,12 +81,12 @@
     <string name="cloud_app_restore_success">Aplicaciones restauradas</string>
     <string name="cloud_app_restore_wifi_prompt">Restaurar desde copia de Xiaomi Cloud.</string>
     <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
-    <string name="cloud_back_up_detail_discription">"Los siguientes elementos serán copiados a Xiaomi Cloud al conectar el dispositivo a una red Wi-Fi: 
-*\u0009\u0009\u0009\u0009Aplicaciones, Diseño de Pantalla de inicio y Fondos de pantalla 
-*\u0009\u0009\u0009\u0009Ajustes de hora, alarma y reloj 
-*\u0009\u0009\u0009\u0009Ajustes de notificaciones 
-*\u0009\u0009\u0009\u0009Ajustes del sistema y de Miui 
-\"Nota: Los datos de las aplicaciones que has instalado no se guardarán en Xiaomi Cloud.\""</string>
+    <string name="cloud_back_up_detail_discription">"Los siguientes elementos serán copiados a Xiaomi Cloud cuando el dispositivo esté conectado a una red Wi-Fi: 
+*  Aplicaciones, diseño de la Pantalla de inicio y fondos de pantalla
+*  Ajustes de hora, alarma y reloj
+*  Ajustes de notificaciones
+*  Ajustes del sistema y de MIUI
+Nota: Los datos de las aplicaciones que has instalado no se guardarán en Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">Programar copia de seguridad</string>
     <string name="cloud_back_up_frequence_long">Cada 7 días</string>
     <string name="cloud_back_up_frequence_short">Todos los días</string>
@@ -158,6 +158,7 @@
     <string name="error_unknown">Algo ha salido mal</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="get_device_id_error">No se pudo obtener ID del dispositivo</string>
+    <string name="help_and_feedback">Ayuda y comentarios</string>
     <string name="hint_restore_cross_space">El diseño de la Pantalla de inicio podría ser mostrado de forma incorrecta si transfieres elementos entre espacios.</string>
     <string name="home_hint_global_launcher">Pantalla de inicio Poco</string>
     <string name="home_hint_other_launcher">Otro launcher</string>
@@ -226,7 +227,7 @@ Comprueba tus ajustes de red y vuelve a intentarlo."</string>
     <string name="restore_app_order_search_prior">Aplicaciones de alta prioridad</string>
     <string name="restore_app_order_title">Priorizar elementos restaurados</string>
     <string name="restore_cloud_backup_to_phone">Restaurar elementos de Xiaomi Cloud</string>
-    <string name="restore_data_summary">Esta función requiere una conexión a internet.</string>
+    <string name="restore_data_summary">Esta función requiere una conexión a Internet.</string>
     <string name="restore_data_title">Restaurar datos</string>
     <string name="restore_detail_category_apps">Diseños de la Pantalla de inicio y aplicaciones</string>
     <string name="restore_detail_category_settings">Ajustes</string>

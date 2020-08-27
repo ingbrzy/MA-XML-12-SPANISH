@@ -52,7 +52,7 @@
     <string name="audio_message_mx_offline">No se pudo descargar audio. Mi Message está fuera de línea o no disponible.</string>
     <string name="audio_playing_seconds">%d\"</string>
     <string name="audio_sim_card_mismatching">Sin conexión de red o fallo en la instalación de la tarjeta SIM. Instala la tarjeta SIM con el mensaje enviado y conéctate a una red.</string>
-    <string name="auto_identify_btn_text_only_smart_messaging">Activar la Mensajería inteligente</string>
+    <string name="auto_identify_btn_text_only_smart_messaging">Activar Mensajes Inteligentes</string>
     <string name="auto_identify_btn_text_when_all_disabled">Identificar automáticamente el ID del remitente</string>
     <string name="auto_identify_btn_title">Este mensaje ha sido enviado desde un número desconocido.</string>
     <string name="auto_identify_confirmation">Podría llevar varios minutos activar esta función.</string>
@@ -81,7 +81,7 @@
     <string name="button_resend_message">Enviar de nuevo</string>
     <string name="button_unfold">Desdoblar</string>
     <string name="call_sender">Llamar al remitente</string>
-    <string name="can_not_send_by_rcs">No puedes utilizar Mensajería de China Mobile</string>
+    <string name="can_not_send_by_rcs">"No puedes utilizar Mensajería de China Mobile"</string>
     <string name="can_not_view_group_chat_stranger">No se puede ver los detalles de extraños.</string>
     <string name="cannot_add_picture_and_video">No se pueden añadir vídeos ni imágenes a una diapositiva.</string>
     <string name="cannot_add_slide_anymore">No se pueden añadir más diapositivas.</string>
@@ -104,7 +104,7 @@
     <string name="cm_privacy_dialog_allow">Aceptar</string>
     <string name="cm_privacy_dialog_cancel">Cancelar</string>
     <string name="cm_privacy_dialog_spannable_tips">Política de Privacidad</string>
-    <string name="cm_privacy_dialog_tips">Los servicios de mensajería inteligente son proporcionados por tu operador. Mensajes necesita conectarse a internet y acceder a tu ubicación para prestarte estos servicios. Debes aceptar la %1s de tu operador antes de utilizar estos servicios. ¿Aceptar?</string>
+    <string name="cm_privacy_dialog_tips">Los servicios de mensajería inteligente son proporcionados por tu operador. Mensajes necesita conectarse a Internet y acceder a tu ubicación para prestarte estos servicios. Debes aceptar la %1s de tu operador antes de utilizar estos servicios. ¿Aceptar?</string>
     <string name="cm_privacy_dialog_title">Atención</string>
     <string name="cmcc_privacy">Acuerdo de privacidad del operador China Mobile</string>
     <string name="common_google_play_services_enable_button">Habilitar</string>
@@ -189,20 +189,20 @@
     <string name="delete_wild_sims_title">Eliminar números seleccionados</string>
     <string name="delivery_report_activity">Informe de entrega</string>
     <string name="delivery_toast_body">Mensaje recibido por %s</string>
-    <string name="dialog_complain_tips">Permitir a Mensajería conectar con la red para poder reportar elementos.</string>
+    <string name="dialog_complain_tips">Permitir a Mensajes conectar con la red para poder reportar elementos.</string>
     <string name="dialog_message_fake_cell_detect_error">¿Corregir la información del mensaje? Para hacerlo, MIUI necesita enviar al servidor tu número de teléfono (%1$s), el contenido del mensaje y la información de ubicación.</string>
     <string name="dialog_message_mx">Mi Message te permite enviar mensajes a otros usuarios de MIUI sin incurrir en cargos. Se requiere un mensaje de texto saliente para activar Mi Message. Su operador le cobrará por este mensaje. Debes aceptar nuestra \"%1$s\" y \"%2$s\" antes de usar Mi Message.</string>
-    <string name="dialog_message_networking">Mensaje necesita usar las páginas amarillas para poder proporcionar reconocimiento de identificación del remitente. Las páginas de mensajería y amarillas necesitan conectarse a Internet y acceder a su ubicación para trabajar normalmente. ¿Permitir?</string>
+    <string name="dialog_message_networking">Mensaje necesita usar las páginas amarillas para poder proporcionar reconocimiento de identificación del remitente. Las páginas de mensajería y amarillas necesitan conectarse a Internet y acceder a su ubicación para funcionar con normalidad. ¿Permitir?</string>
     <string name="dialog_message_rcs">La mensajería de China Mobile te permite enviar mensajes a otros usuarios de China Mobile en China continental sin incurrir en cargos. Debes aceptar \"%1$s\" antes de usar la mensajería de China Mobile.</string>
     <string name="dialog_message_sms_report">Los mensajes spam y la información del remitente se cargarán en MIUI cuando los notifique. Solo se usarán para mejorar los filtros de spam de MIUI.</string>
     <string name="dialog_sim_locked_confirm">Aceptar</string>
     <string name="dialog_sim_locked_message">La tarjeta SIM no funciona completamente con este teléfono debido a que no cumple con los términos y condiciones de tu suscripción. Si tienes alguna duda o necesitas más información al respecto, contacta con el servicio de atención al cliente de Xiaomi o a la tienda que te vendió el producto.</string>
-    <string name="dialog_smart_message_privacy_tips">Los servicios de Mensajes inteligentes son en parte proporcionados por Dianhuabang. Antes de usar Mensajes inteligentes, debes aceptar nuestra \"%1$s\". Mensajes inteligentes necesita conectarse a internet y acceder a tu ubicación para funcionar correctamente. ¿Aceptar?</string>
+    <string name="dialog_smart_message_privacy_tips">Los servicios de Mensajes Inteligentes son en parte proporcionados por Dianhuabang. Antes de usar Mensajes Inteligentes, debes aceptar nuestra \"%1$s\". Mensajes Inteligentes necesita conectarse a Internet y acceder a tu ubicación para funcionar con normalidad. ¿Aceptar?</string>
     <string name="dialog_smart_message_privacy_tips_title">Política de Privacidad de Dianhuabang</string>
     <string name="dialog_title_fake_cell_detect_error">Corrección</string>
     <string name="dialog_title_mx_rcs">Mi Message</string>
     <string name="dialog_title_networking">Términos y condiciones</string>
-    <string name="disable_notifications_dialog_message">¿Dejar de duplicar las notificaciones de mensajes de texto por defecto de la aplicación Mensajería?</string>
+    <string name="disable_notifications_dialog_message">¿Dejar de duplicar las notificaciones de mensajes de texto por defecto de la aplicación Mensajes?</string>
     <string name="disabled">Desactivado</string>
     <string name="discard">Descartar</string>
     <string name="discard_message">Descartar</string>
@@ -243,6 +243,12 @@
     <string name="exceed_message_text_limitation">Se ha alcanzado el límite de caracteres.</string>
     <string name="expire_on">Expira: %s</string>
     <string name="exporting_progress_private_message">Exportando…</string>
+    <string name="fmt_date_long_month_day">dd MMMM</string>
+    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="fail_to_add_attachment">No se pudo añadir el adjunto</string>
     <string name="fail_to_view_attachment">Archivo adjunto no disponible</string>
     <string name="failed_to_add_media">No puede añadir %1$s al mensaje.</string>
@@ -253,7 +259,7 @@
     <string name="fake_cell_safe_hint">Este mensaje es seguro</string>
     <string name="fake_cell_timeout_hint">No se pudo comprobar la seguridad</string>
     <string name="favorite_at_time">Añadido a favoritos a las: %1s</string>
-    <string name="fdn_check_failure">Sólo puede enviar mensajes a los números de marcación fija.</string>
+    <string name="fdn_check_failure">Solo puede enviar mensajes a los números de marcación fija.</string>
     <string name="festival_sms_loading">Cargando…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Creado:</string>
@@ -266,8 +272,8 @@
     <string name="forward_prefix">"Fwd: "</string>
     <string name="found_old_messages">¿Subir los mensajes de %1$s a %2$s?</string>
     <string name="found_old_messages_title">¿Subir los mensajes de sus otras tarjetas SIM?</string>
-    <string name="found_wild_messages_guide_cloud_desc">Para sincronizar mensajes de Xiaomi Cloud, inicia sesión en Cuenta Mi y activa la sincronización SMS.</string>
-    <string name="found_wild_messages_guide_settings_desc">Sincronizar mensajes de Xiaomi Cloud en Ajustes de Mensajería.</string>
+    <string name="found_wild_messages_guide_cloud_desc">Para sincronizar mensajes de Xiaomi Cloud, inicia sesión en tu Cuenta Mi y activa la sincronización SMS.</string>
+    <string name="found_wild_messages_guide_settings_desc">Sincronizar mensajes de Xiaomi Cloud en los ajustes de Mensajes.</string>
     <string name="found_wild_messages_guide_sync_not_started">La sincronización no se ha iniciado</string>
     <string name="found_wild_messages_title">Sincronizar mensajes de Xiaomi Cloud</string>
     <string name="from_label">"De: "</string>
@@ -290,7 +296,7 @@
     <string name="guild_msim_switcher">Pulsa para cambiar las tarjetas SIM</string>
     <string name="has_invalid_recipient">Destinatarios no válidos: &lt;%1$s></string>
     <string name="hidden_sender_address">Dirección de remitente oculta</string>
-    <string name="hold_to_talk">Mantén presionado para hablar</string>
+    <string name="hold_to_talk">Mantén pulsado para hablar</string>
     <string name="hybrid_check_network">Ajustes de red</string>
     <string name="hybrid_data_error">Ha ocurrido un error</string>
     <string name="hybrid_locating_fail">No se pudo encontrar tu ubicación</string>
@@ -331,6 +337,7 @@
     <string name="menu_make_call">Llamar</string>
     <string name="menu_mark">Marcar</string>
     <string name="menu_more">Más</string>
+    <string name="menu_multi_select">Seleccionar</string>
     <string name="menu_new_contact">Nuevo contacto</string>
     <string name="menu_new_manual">Introduce número de teléfono</string>
     <string name="menu_pick_from_contact">Seleccionar desde contactos</string>
@@ -385,7 +392,7 @@
     <string name="mms_block_hint">"El remitente no está entre tus contactos.
 Este mensaje podría ser no deseado."</string>
     <string name="mms_block_hint_highlight">Bloquear MMS</string>
-    <string name="mms_main_purpose">Para tener acceso a todas las funciones de Mensajería, activa Mi Message y Mensajería inteligente.</string>
+    <string name="mms_main_purpose">Para tener acceso a todas las funciones de Mensajes, activa Mi Message y Mensajes Inteligentes.</string>
     <string name="mms_title">Mensajes</string>
     <string name="more">Más</string>
     <string name="move_down">Mover hacia abajo</string>
@@ -397,7 +404,7 @@ Este mensaje podría ser no deseado."</string>
     <string name="msg_type_hint_mx_omit">Mi Msj</string>
     <string name="msg_type_hint_sms">Mensaje de texto</string>
     <string name="msg_type_hint_sms_omit">SMS</string>
-    <string name="msg_type_sms_rcs">SMS, MMS y mensajes por internet</string>
+    <string name="msg_type_sms_rcs">SMS, MMS y mensajes por Internet</string>
     <string name="msglist_continue_to_pull_for_more">Desliza hacia abajo para ver más</string>
     <string name="msglist_more_refreshing">Actualizando…</string>
     <string name="msglist_no_more_to_refresh">Actualizado</string>
@@ -465,8 +472,8 @@ Se requiere enviar un mensaje SMS para activar Mi Message. Tu operador te cobrar
     <string name="net_sms_unsubscribe">Suscripción cancelada con éxito</string>
     <string name="network_error_description">Se produjo un error de red. Espera y vuelve a intentarlo.</string>
     <string name="networking_allow_continue">Permitir</string>
-    <string name="networking_allow_desc">Mi Message necesita conectarse a internet para funcionar con normalidad. Para proporcionar mensajes gratuitos y servicios de voz, reconocer números desconocidos, filtrar el spam y habilitar otras características, Mi Message necesita usar las Páginas Amarillas. ¿Permitir a las Páginas Amarillas conectarse a internet, obtener tu información de localización y leer tus contactos?</string>
-    <string name="networking_allow_desc_without_mx">Mi Message necesita conectarse a internet para funcionar con normalidad. Para reconocer números desconocidos, filtrar el spam y habilitar otras características, Mi Message necesita usar las Páginas Amarillas. ¿Permitir a las Páginas Amarillas conectarse a internet, obtener tu información de localización y leer tus contactos?</string>
+    <string name="networking_allow_desc">Mi Message necesita conectarse a Internet para funcionar con normalidad. Para proporcionar mensajes gratuitos y servicios de voz, reconocer números desconocidos, filtrar el spam y habilitar otras características, Mi Message necesita usar las Páginas Amarillas. ¿Permitir a las Páginas Amarillas conectarse a Internet, obtener tu información de localización y leer tus contactos?</string>
+    <string name="networking_allow_desc_without_mx">Mi Message necesita conectarse a Internet para funcionar con normalidad. Para reconocer números desconocidos, filtrar el spam y habilitar otras características, Mi Message necesita usar las Páginas Amarillas. ¿Permitir a las Páginas Amarillas conectarse a Internet, obtener tu información de localización y leer tus contactos?</string>
     <string name="networking_allow_title">Atención</string>
     <string name="new_message">Escribir</string>
     <string name="new_message_arrived">Tienes un mensaje nuevo</string>
@@ -540,7 +547,7 @@ Se requiere enviar un mensaje SMS para activar Mi Message. Tu operador te cobrar
     <string name="pref_show_sms_template_entry_summary">Detectar contraseñas de una sola vez y mostrar menús rápidos</string>
     <string name="pref_show_sms_template_in_summary">Detectar automáticamente las contraseñas incluidas en sus mensajes SMS</string>
     <string name="pref_show_sms_template_summary">Activa las funciones inteligentes de Mi Message, como copiar códigos, comprobar el saldo, etc.</string>
-    <string name="pref_smart_messages_settings">Mensajes inteligentes</string>
+    <string name="pref_smart_messages_settings">Mensajes Inteligentes</string>
     <string name="pref_sms_storage_title">Almacenamiento</string>
     <string name="pref_sms_theme_title">Mostrar</string>
     <string name="pref_summary_allow_si_sl_push">Permitir a los mensajes cargar el contenido de los sitios web</string>
@@ -583,7 +590,7 @@ Se requiere enviar un mensaje SMS para activar Mi Message. Tu operador te cobrar
     <string name="pref_title_ringtone_repeat">Tonos de notificación</string>
     <string name="pref_title_ringtone_repeat_summary">Tono de notificación activo al recibirse un mensaje mientras la pantalla está apagada</string>
     <string name="pref_title_send_delivery_reports">Enviar informe de entrega de mensajes</string>
-    <string name="pref_title_smart_msg_privacy_policy">Política de Privacidad de Mensajes inteligentes</string>
+    <string name="pref_title_smart_msg_privacy_policy">Política de Privacidad de Mensajes Inteligentes</string>
     <string name="pref_title_sms_delete">Límite de mensaje de texto</string>
     <string name="pref_title_sms_validity_period">Expiración SMS</string>
     <string name="pref_title_storage_status">Estado de almacenamiento de mensajes</string>
@@ -598,7 +605,7 @@ Se requiere enviar un mensaje SMS para activar Mi Message. Tu operador te cobrar
     <string name="priority_label">"Prioridad: "</string>
     <string name="priority_low">Baja</string>
     <string name="priority_normal">Normal</string>
-    <string name="privacy_mode_hint">No se pueden enviar mensajes en Modo Invitado</string>
+    <string name="privacy_mode_hint">No se pueden enviar mensajes en modo invitado</string>
     <string name="privacy_password_message1">La contraseña de protección de privacidad sirve para aplicaciones, fotos, notas y carpetas ocultas.</string>
     <string name="privacy_password_message2">Utiliza la contraseña de protección de privacidad. Sirve para aplicaciones, fotos, notas y carpetas ocultas.</string>
     <string name="privacy_password_message3">La contraseña de mensajería se sustituirá por la contraseña de protección de privacidad, que sirve para aplicaciones, fotos, notas y carpetas ocultas.</string>
@@ -676,7 +683,7 @@ Se requiere enviar un mensaje SMS para activar Mi Message. Tu operador te cobrar
     <string name="rcs_send_rms_remind_title">Enviar mensajes con Mensajería de China Mobile</string>
     <string name="rcs_service_agreement">Acuerdo de Servicio</string>
     <string name="rcs_setting">Ajustes de Mensajería de China Mobile</string>
-    <string name="rcs_setting_tips">Puedes cambiar alternativamente los métodos de envío en los ajustes de Mensajería.</string>
+    <string name="rcs_setting_tips">Puedes cambiar alternativamente los métodos de envío en los ajustes de Mensajes.</string>
     <string name="rcs_silence_message">Silenciar notificaciones de mensajes</string>
     <string name="rcs_summary_auto_resend_mms">Convertir los mensajes multimedia de China Mobile a MMS cuando no se pueda enviar el mensaje original. Tu operador podría cobrarte por este mensaje.</string>
     <string name="rcs_summary_auto_resend_sms">Convertir los mensajes multimedia de China Mobile a SMS cuando no se pueda enviar el mensaje original. Tu operador podría cobrarte por este mensaje.</string>
@@ -698,11 +705,11 @@ Se requiere enviar un mensaje SMS para activar Mi Message. Tu operador te cobrar
     <string name="recommend_bar_title_mx_rcs">Mi Message</string>
     <string name="recommend_bar_title_smart_message">Mensajes Inteligente</string>
     <string name="recommend_both_dialog_title">¡Bienvenido a Mensajes!</string>
-    <string name="recommend_dialog_message">Puedes activar Mi Message y Mensajes inteligentes para acceder a funciones adicionales.</string>
+    <string name="recommend_dialog_message">Puedes activar Mi Message y Mensajes Inteligentes para acceder a funciones adicionales.</string>
     <string name="recommend_mx_dialog_title">¡Bienvenido a Mi Message!</string>
     <string name="recommend_mx_setting_summary">Mi Message te permite enviar mensajes a otros usuarios de Mi Message a través de Internet sin coste alguno.</string>
-    <string name="recommend_smart_sms_dialog_title">¡Bienvenido a Mensajes inteligentes!</string>
-    <string name="recommend_smart_sms_setting_summary">Mensajes inteligentes proporciona reconocimiento de ID del remitente y menús inteligentes.</string>
+    <string name="recommend_smart_sms_dialog_title">¡Bienvenido a Mensajes Inteligentes!</string>
+    <string name="recommend_smart_sms_setting_summary">Mensajes Inteligentes proporciona reconocimiento de ID del remitente y menús inteligentes.</string>
     <string name="recording_failed">No se puede grabar</string>
     <string name="refill_now">Recargar ahora</string>
     <string name="refreshing">Actualizando…</string>
@@ -759,7 +766,7 @@ Se requiere enviar un mensaje SMS para activar Mi Message. Tu operador te cobrar
     <string name="search_hint">Buscar mensajes</string>
     <string name="search_keyword_mms">Mensajes;SMS;MMS;Texto;Mensajes de texto;Mensaje;Mensajes</string>
     <string name="search_label">Mensajes</string>
-    <string name="search_path_mms">Ajustes/Aplicaciones del sistema/Mensajería</string>
+    <string name="search_path_mms">Ajustes/Aplicaciones del sistema/Mensajes</string>
     <string name="search_setting_description">Texto de sus mensajes</string>
     <string name="search_show_more_results">Mostrar más</string>
     <string name="search_title_mms">Mensajes</string>
@@ -789,14 +796,14 @@ Se requiere enviar un mensaje SMS para activar Mi Message. Tu operador te cobrar
     <string name="select_top_text">Texto arriba</string>
     <string name="send">Enviar</string>
     <string name="send_message_dlg_check_hint">No mostrar de nuevo</string>
-    <string name="send_message_dlg_mgs">Aviso de CMCC: Necesitamos registrar tu dispositivo en nuestra plataforma de administración de dispositivos para proveer servicio al cliente y soporte gratis. Esta plataforma de CMCC administra los dispositivos móviles y te permite cambiar los ajustes y actualizar el software remotamente. Un mensaje de texto gratuito con la información de tu dispositivo será enviado para el registro. Este mensaje se enviará sólo una vez y no contiene datos personales. Este mensaje no lo pueden enviar clientes de Hong Kong, Macao, Taiwan y el extranjero. Selecciona \"Ok\" para aceptar y registrar tu dispositivo. Selecciona \"Cancelar\" si no estás de acuerdo con los términos, en este caso no se te proveerán los servicios antes mencionados.</string>
+    <string name="send_message_dlg_mgs">Aviso de CMCC: Necesitamos registrar tu dispositivo en nuestra plataforma de administración de dispositivos para proveer servicio al cliente y soporte gratis. Esta plataforma de CMCC administra los dispositivos móviles y te permite cambiar los ajustes y actualizar el software remotamente. Un mensaje de texto gratuito con la información de tu dispositivo será enviado para el registro. Este mensaje se enviará solo una vez y no contiene datos personales. Este mensaje no lo pueden enviar clientes de Hong Kong, Macao, Taiwan y el extranjero. Selecciona \"Ok\" para aceptar y registrar tu dispositivo. Selecciona \"Cancelar\" si no estás de acuerdo con los términos, en este caso no se te proveerán los servicios antes mencionados.</string>
     <string name="send_message_dlg_title">Administración de dispositivos</string>
     <string name="send_message_notification_msg">Toca para ver los detalles de la solicitud.</string>
     <string name="send_message_notification_tickerText">El dispositivo solicita permiso</string>
     <string name="send_message_notification_title">Solicitud de permiso</string>
     <string name="send_rms_editor_hints">Mensajes de China Mobile</string>
     <string name="send_rms_editor_hints_omit">Mi Message</string>
-    <string name="send_signature_confirm_dialog_message">No se encontró contenido. ¿Enviar sólo tu firma?</string>
+    <string name="send_signature_confirm_dialog_message">No se encontró contenido. ¿Enviar solo tu firma?</string>
     <string name="send_signature_confirm_dialog_title">Enviar mensaje</string>
     <string name="send_sms">Enviar mensaje</string>
     <string name="send_to">Para:</string>
@@ -826,11 +833,11 @@ Se requiere enviar un mensaje SMS para activar Mi Message. Tu operador te cobrar
     <string name="slide_show_part">Parte %1$d/%2$d</string>
     <string name="slide_up_to_cancel">Desliza hacia arriba para cancelar</string>
     <string name="slideshow_activity">Presentación</string>
-    <string name="smart_message_title">Mensajes inteligentes</string>
-    <string name="smart_messages_network_allow_message">Mi Message necesita conectarse a internet para que el servicio funcione normalmente. ¿Permitirlo ahora?</string>
-    <string name="smart_messages_network_allow_title">Se requiere conexión a internet</string>
-    <string name="smart_msg_main_purpose">Mensajes inteligentes ofrece reconocimiento de identidad del remitente y menús de servicio inteligentes.</string>
-    <string name="smart_msg_privacy_policy">Política de Privacidad de Mensajería inteligente</string>
+    <string name="smart_message_title">Mensajes Inteligentes</string>
+    <string name="smart_messages_network_allow_message">Mi Message necesita conectarse a Internet para que el servicio funcione con normalidad. ¿Permitirlo ahora?</string>
+    <string name="smart_messages_network_allow_title">Se requiere conexión a Internet</string>
+    <string name="smart_msg_main_purpose">Mensajes Inteligentes ofrece reconocimiento de identidad del remitente y menús de servicio inteligentes.</string>
+    <string name="smart_msg_privacy_policy">Política de Privacidad de Mensajes Inteligentes</string>
     <string name="sms_card_partner_label">"Tarjeta SMS de asociado: "</string>
     <string name="sms_card_teddy_mobile">Teddy Mobile</string>
     <string name="sms_content">Contenido:</string>
@@ -888,9 +895,9 @@ Se requiere enviar un mensaje SMS para activar Mi Message. Tu operador te cobrar
     <string name="system_permission_declare_main_purpose" formatted="false">¡Bienvenido a %1s! %2s</string>
     <string name="system_permission_declare_no_say_no">"Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.
 Si no aceptas conceder dichos permisos ni compartir y subir tu información personal, no podrás usar esta aplicación."</string>
-    <string name="system_permission_declare_privacy_declare">%1s necesita recolectar tus datos y los siguientes permisos para funcionar correctamente:</string>
-    <string name="system_permission_declare_privacy_declare_new">Esta aplicación necesita conectarse a Internet y requiere los siguientes permisos para funcionar correctamente:</string>
-    <string name="system_permission_declare_revoke_path">Puedes revocar tu autorización y desactivar los servicios en los ajustes de Mensajería.</string>
+    <string name="system_permission_declare_privacy_declare">%1s necesita recolectar tus datos y los siguientes permisos para funcionar con normalidad:</string>
+    <string name="system_permission_declare_privacy_declare_new">Esta aplicación necesita conectarse a Internet y requiere los siguientes permisos para funcionar con normalidad:</string>
+    <string name="system_permission_declare_revoke_path">Puedes revocar tu autorización y desactivar los servicios en los ajustes de Mensajes.</string>
     <string name="system_permission_declare_single_link">Lee y acepta nuestra %1s antes de usar esta función.</string>
     <string name="system_permission_declare_triple_link" formatted="false">Lee y acepta nuestro %1s, %2s y %3s antes de usar estas funciones.</string>
     <string name="system_permission_declare_use_network">Conectarse a la red</string>
@@ -911,7 +918,7 @@ Si no aceptas conceder dichos permisos ni compartir y subir tu información pers
     <string name="title_show_blocked_messages">Mostrar SMS bloqueados</string>
     <string name="title_show_list_avatar">Mostrar fotos de perfil</string>
     <string name="title_show_photo_word">Asignar fotos a contactos</string>
-    <string name="title_show_sms_template">Mensajes inteligentes</string>
+    <string name="title_show_sms_template">Mensajes Inteligentes</string>
     <string name="title_show_sms_template_in">Comprobar OTP en sus SMS</string>
     <string name="title_timed_message_dialog">Establecer mensaje temporizado</string>
     <string name="title_use_gsm_alphabet">Usar alfabeto GSM</string>
@@ -921,7 +928,7 @@ Si no aceptas conceder dichos permisos ni compartir y subir tu información pers
     <string name="toast_failed_to_close_priv_auth">No se pudo revocar la autorización. Comprueba tus ajustes de red y vuelve a intentarlo.</string>
     <string name="toast_pending_hangup_msg">Se enviará un mensaje después de terminar la llamada</string>
     <string name="today">Hoy</string>
-    <string name="too_many_attachments">No se pueden incluir más de %1$s adjuntos. Sólo se añadirán los primeros %2$s.</string>
+    <string name="too_many_attachments">No se pueden incluir más de %1$s adjuntos. Solo se añadirán los primeros %2$s.</string>
     <string name="too_many_recipients">Este mensaje contiene demasiados destinatarios (%1$s). No se admiten más de %2$s destinatarios.</string>
     <string name="too_many_unsent_mms">No se puede enviar el mensaje en este momento. Hay demasiados mensajes multimedia sin enviar.</string>
     <string name="try_to_send">Intentar envío</string>

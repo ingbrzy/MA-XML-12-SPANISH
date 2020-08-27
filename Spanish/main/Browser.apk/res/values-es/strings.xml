@@ -171,7 +171,7 @@
     <string name="browserFrameFormResubmitMessage">La página que intentas visualizar contiene datos que ya se han enviado. Si reenvías los datos, acciones anteriores (por ejemplo, búsquedas o compras) se repetirán.</string>
     <string name="browserFrameNetworkErrorLabel">Error de conexión</string>
     <string name="cancel">Cancelar</string>
-    <string name="cannot_download">Sólo se pueden descargar URLs \"http\" o \"https\"</string>
+    <string name="cannot_download">Solo se pueden descargar URLs \"http\" o \"https\"</string>
     <string name="cast_video">Emitir vídeo</string>
     <string name="change_news_language">¿Cambiar el idioma de las noticias?</string>
     <string name="channel_description">Descargas del navegador</string>
@@ -254,7 +254,7 @@
     <string name="contextmenu_dial_dot">Marcar…</string>
     <string name="contextmenu_download_image">Guardar imagen</string>
     <string name="contextmenu_download_image_as">Guardar imagen</string>
-    <string name="contextmenu_incognito">Modo Incógnito</string>
+    <string name="contextmenu_incognito">Modo incógnito</string>
     <string name="contextmenu_manually_block_ad">Marcar como anuncio</string>
     <string name="contextmenu_map">Mapa</string>
     <string name="contextmenu_openlink">Abrir</string>
@@ -473,8 +473,8 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="empty_snapshot_hint">Vacío</string>
     <string name="enable_geolocation_confirm_message">Apagar los servicios de localización afectará a las recomendaciones que recibas.</string>
     <string name="enhanced_incognito_mode">Modo incógnito mejorado</string>
-    <string name="enhanced_incognito_mode_desc_off">Las estadísticas de datos agregadas no serán cargadas cuando el Modo incógnito está activo</string>
-    <string name="enhanced_incognito_mode_desc_on">Mejora tu experiencia de usuario cargando estadísticas de datos agregados cuando el Modo incógnito está activo</string>
+    <string name="enhanced_incognito_mode_desc_off">Las estadísticas de datos agregadas no serán cargadas cuando el modo incógnito esté activo</string>
+    <string name="enhanced_incognito_mode_desc_on">Mejora tu experiencia de usuario cargando estadísticas de datos agregados cuando el modo incógnito esté activo</string>
     <string name="enter_developer_mode">Acceder al modo de desarrollador</string>
     <string name="enter_incongnito_mode">Iniciar modo incógnito</string>
     <string name="enter_news_by_pull_down">Suelta para abrir Nuevos contenidos</string>
@@ -537,6 +537,12 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="find_previous">Encontrar anterior</string>
     <string name="firstUsingSearchEngineTips">¿Cambiar buscador?</string>
     <string name="fling_on_border_gesture_hint">Puedes seleccionar la función para este gesto en Ajustes</string>
+    <string name="fmt_date_long_month_day">dd MMMM</string>
+    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="fm_guide_btn">Entendido</string>
     <string name="fm_guide_msg">¡Ahora puedes gestionar vídeos locales, canciones e imágenes usando el Navegador Mi!</string>
     <string name="force_quick_search_title">Buscar</string>
@@ -578,7 +584,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="ignore_add_game_center_dialog_this_week">No mostrar esta semana</string>
     <string name="ignore_add_pwa_dialog_today">No mostrar hoy</string>
     <string name="in_incognito">¡Estás en modo incógnito! Las páginas que veas no guardarán información en el historial de navegación.</string>
-    <string name="in_secureaccess">El navegador cambiará al Modo seguro</string>
+    <string name="in_secureaccess">El navegador cambiará al modo seguro</string>
     <string name="incognito_off">Modo incógnito desactivado.</string>
     <string name="incognito_on">¡Estás de incógnito!</string>
     <string name="ins_login_tips">Inicia sesión para descargar vídeos desde Instagram</string>
@@ -684,7 +690,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="miui_search_notification_title">Buscar</string>
     <string name="miui_startpage">Página de inicio</string>
     <string name="miuichromium_error_page_airplane_mode">Modo avión</string>
-    <string name="miuichromium_error_page_airplane_mode_on">Desactiva el Modo avión para conectarse</string>
+    <string name="miuichromium_error_page_airplane_mode_on">Desactiva el modo avión para conectarte</string>
     <string name="miuichromium_error_page_btn_close">Cerrar</string>
     <string name="miuichromium_error_page_btn_refresh">Actualizar</string>
     <string name="miuichromium_error_page_btn_report_issue">Notificar un error</string>
@@ -741,7 +747,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="miuichromium_error_page_safe_network">Modo seguro</string>
     <string name="miuichromium_error_page_server_error">Demasiados dispositivos tratan de conectarse</string>
     <string name="miuichromium_error_page_suggestion_check_app_proxy">Comprueba los ajustes de las apps de proxy instaladas en tu dispositivo.</string>
-    <string name="miuichromium_error_page_suggestion_check_connetion">Comprueba tu conexión a internet.</string>
+    <string name="miuichromium_error_page_suggestion_check_connetion">Comprueba tu conexión a Internet.</string>
     <string name="miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Datos móviles) Restablece tus %s1ajustes APN%s2.</string>
     <string name="miuichromium_error_page_suggestion_check_url">Comprueba la URL a la que has accedido.</string>
     <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Verifica tu %s1ajustes de proxy%s2.</string>
@@ -749,7 +755,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Borra el caché y las cookies (%s1Ajustes%s2 - Borrar datos, se perderá la información de tu cuenta).</string>
     <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Borrar caché y cookies (la información de tu cuenta se puede perder).</string>
     <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">Borrar caché.</string>
-    <string name="miuichromium_error_page_suggestion_connect_and_retry">Volver a cargar después de conectarse a internet.</string>
+    <string name="miuichromium_error_page_suggestion_connect_and_retry">Volver a cargar después de conectarse a Internet.</string>
     <string name="miuichromium_error_page_suggestion_contact_admin">Contacta con el administrador del sistema.</string>
     <string name="miuichromium_error_page_suggestion_correct_url">Comprueba la dirección a la que has accedido y reintenta usando la URL correcta.</string>
     <string name="miuichromium_error_page_suggestion_grant_permission">Recarga después de conceder permiso a Internet al Navegador.</string>
@@ -886,7 +892,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="mw_miui_content_translate">Traducir</string>
     <string name="mw_miui_content_web_search">Buscar</string>
     <string name="mw_miuichromium_error_page_airplane_mode">Modo avión</string>
-    <string name="mw_miuichromium_error_page_airplane_mode_on">Desactiva el Modo avión para conectarse</string>
+    <string name="mw_miuichromium_error_page_airplane_mode_on">Desactiva el modo avión para conectarte</string>
     <string name="mw_miuichromium_error_page_btn_close">Cerrar</string>
     <string name="mw_miuichromium_error_page_btn_refresh">Actualizar</string>
     <string name="mw_miuichromium_error_page_btn_report_issue">Notificar un error</string>
@@ -928,7 +934,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">No se pudo leer el archivo. Los permisos de archivo podrían estar bloqueando el acceso.</string>
     <string name="mw_miuichromium_error_page_problem_gateway_timed_out">%s0 está tardando en responder.</string>
     <string name="mw_miuichromium_error_page_problem_network_access_denied">Acceso a red restringido.</string>
-    <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">No se pudo conectar a internet. Hay un problema con el servidor proxy o la dirección proxy es incorrecta.</string>
+    <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">No se pudo conectar a Internet. Hay un problema con el servidor proxy o la dirección proxy es incorrecta.</string>
     <string name="mw_miuichromium_error_page_problem_page_moved">Esta página en %s0 quizá ha sido movida o eliminada.</string>
     <string name="mw_miuichromium_error_page_problem_page_not_found">No se pudo encontrar esta página en %s0.</string>
     <string name="mw_miuichromium_error_page_problem_page_not_working_reason_connection_closed">Esta página no está funcionando. %s0 interrumpió la conexión.</string>
@@ -960,7 +966,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Borra el caché y las cookies (%s1Ajustes%s2 - Borrar datos, se perderá la información de tu cuenta).</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Borrar caché y cookies (la información de tu cuenta se puede perder).</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_no_invoke">Borrar caché.</string>
-    <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Volver a cargar después de conectarse a internet</string>
+    <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Volver a cargar después de conectarse a Internet</string>
     <string name="mw_miuichromium_error_page_suggestion_contact_admin">Contacta con el administrador del sistema.</string>
     <string name="mw_miuichromium_error_page_suggestion_correct_url">Comprueba la dirección a la que has accedido y reintenta usando la URL correcta.</string>
     <string name="mw_miuichromium_error_page_suggestion_grant_permission">Recarga después de conceder permiso a Internet al Navegador.</string>
@@ -981,7 +987,7 @@ Las páginas que visites no aparecerán en el historial."</string>
         &lt;ul>
           &lt;li>Sitios web que visites
           &lt;li>Tu empleador o escuela
-          &lt;li>Tu proveedor de servicio de internet
+          &lt;li>Tu proveedor de servicio de Internet
         &lt;ul>"</string>
     <string name="mw_no_matches">Sin resultados</string>
     <string name="mw_notification_category_browser">Navegador</string>
@@ -1128,7 +1134,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="nav_bottom_bar_new_tab">Nueva pestaña</string>
     <string name="nav_screen_container_tab_incognito">Pestaña de incógnito</string>
     <string name="nav_screen_container_tab_normal">Pestaña normal</string>
-    <string name="nav_screen_incognito_message">Tu búsqueda y el historial de búsqueda no se guardarán en el Modo incógnito. Recuerda que los archivos que descargues y los marcadores que agregues se guardarán.</string>
+    <string name="nav_screen_incognito_message">Tu búsqueda y el historial de búsqueda no se guardarán en el modo incógnito. Recuerda que los archivos que descargues y los marcadores que agregues se guardarán.</string>
     <string name="nav_screen_incognito_title"> Modo incógnito</string>
     <string name="navigation_delete_all">Desliza a izquierda o derecha para cerrar todas las pestañas</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">Cancelar</string>
@@ -1189,7 +1195,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="onews_category_reddit">Reddit</string>
     <string name="open_app_confirm_message">¿Permitir abrir esta página%s?</string>
     <string name="open_file_explorer_failed">No se puede abrir el Gestor de archivos</string>
-    <string name="open_voice_permission">Permitir que el micro se conecte a internet</string>
+    <string name="open_voice_permission">Permitir que el micro se conecte a Internet</string>
     <string name="open_whatsapp_status">Comprobar estados de WhatsApp</string>
     <string name="opening_file_error">No se pudo abrir el archivo seleccionado.</string>
     <string name="other_channel">Toca para añadir más canales.</string>
@@ -1346,11 +1352,11 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="pref_security_show_security_warning_summary">Mostrar advertencia si hay un problema con el certificado del sitio</string>
     <string name="pref_set_default_browser">Seleccionar como navegador principal</string>
     <string name="pref_set_default_browser_don_ask">No volver a preguntar</string>
-    <string name="pref_set_default_browser_msg">Mi Navegador hace que navegar en internet sea rápido, conveniente y seguro. ¿Establecer Mi Navegador como tu navegador predeterminado?</string>
+    <string name="pref_set_default_browser_msg">Mi Navegador hace que navegar en Internet sea rápido, conveniente y seguro. ¿Establecer Mi Navegador como tu navegador predeterminado?</string>
     <string name="pref_set_default_browser_no_keep_it">Mantener Mi Navegador</string>
     <string name="pref_set_default_browser_no_thanks">No gracias</string>
     <string name="pref_set_default_browser_set">Establecer</string>
-    <string name="pref_set_default_browser_set_another">Mi Navegador hace que navegar en internet sea rápido, conveniente y seguro. ¿Cambiar navegadores?</string>
+    <string name="pref_set_default_browser_set_another">Mi Navegador hace que navegar en Internet sea rápido, conveniente y seguro. ¿Cambiar navegadores?</string>
     <string name="pref_set_default_browser_sure_to_clear">¿Cambiar entre navegadores?</string>
     <string name="pref_set_default_browser_switch">Cambiar</string>
     <string name="pref_set_homepage_to">Establecer como</string>
@@ -1490,12 +1496,12 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="search_yahoo">Yahoo!</string>
     <string name="search_yicha">Yicha</string>
     <string name="secure_download_in_xiaomi_market">Descargar en App Store</string>
-    <string name="secureaccess">Cambiar a Modo seguro</string>
+    <string name="secureaccess">Cambiar a modo seguro</string>
     <string name="secureaccess_cancel">Ignorar</string>
     <string name="security_permission_desc_get_accounts">Para iniciar sesión y administrar las cuentas del sistema</string>
     <string name="security_permission_desc_read_phone">Para acceder al IMEI con el fin de identificar tu dispositivo</string>
     <string name="security_permission_desc_storage">Para acceder, guardar, cargar y descargar imágenes y otros archivos</string>
-    <string name="security_permission_main_purpose">Navegación web, búsqueda, leer libros y noticias, ver videos, etc.</string>
+    <string name="security_permission_main_purpose">Navegación web, búsqueda, leer libros y noticias, ver vídeos, etc.</string>
     <string name="security_permission_message_location">"Esta aplicación necesita acceso a tu ubicación para proporcionar servicios basados en la ubicación. Si no aceptas conceder tales permisos, no podrás usar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible para ti. Siempre puedes restringir los permisos o revocar tu autorización en Ajustes."</string>
     <string name="security_permission_negative_btn_location">Cancelar</string>
     <string name="security_permission_positive_btn_location">Aceptar</string>
@@ -1692,7 +1698,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="voice_check_network">Comprueba la configuración de red y vuelve a intentarlo.</string>
     <string name="voice_connect_network">No fue posible conectarse a la red.</string>
     <string name="voice_description">Búsqueda por voz</string>
-    <string name="voice_network_connection">La Búsqueda de voz necesita conectarse a internet para funcionar con normalidad.</string>
+    <string name="voice_network_connection">La Búsqueda de voz necesita conectarse a Internet para funcionar con normalidad.</string>
     <string name="voice_search_permission">La Búsqueda de voz necesita acceso al micro para funcionar con normalidad.</string>
     <string name="voice_semantic_analysis">El Navegador podrá analizar la semántica después de que le permitas conectarse.</string>
     <string name="voice_sub_title">¿No sabes qué decir? Prueba \"¡Abrir mi.com!\"</string>
@@ -1749,5 +1755,5 @@ Estos son los datos que recopilaremos:
 Así es como usamos los datos que recopilamos:
 1. Seguridad: Usamos tus datos para proteger tu dispositivo contra fraudes y virus, así como por razones de almacenamiento y copia de seguridad.
 2. Contenido: Tus datos nos ayudan a proporcionar contenido de noticias relevantes por ubicación.
-Navegador necesita conectarse a internet para funcionar correctamente. Debes aceptar nuestra %2$s y %1$s para poder usar Navegador.​"</string>
+Navegador necesita conectarse a Internet para funcionar con normalidad. Debes aceptar nuestra %2$s y %1$s para poder usar Navegador.​"</string>
 </resources>

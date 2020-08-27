@@ -24,7 +24,7 @@
     <string name="title_switch_file">¿Eliminar estos archivos?</string>
     <string name="msg_switch_photo">¿Eliminar estas fotos del Primer espacio después de que se hallan movido?</string>
     <string name="msg_switch_file">¿Eliminar estos archivos del Primer espacio después de que se hallan movido?</string>
-    <string name="msg_switch_file_second">¿Eliminar estos archivos del Segundo Espacio después de moverlos?</string>
+    <string name="msg_switch_file_second">¿Eliminar estos archivos del Segundo espacio después de moverlos?</string>
     <string name="delete_src_photo">Eliminar fotos</string>
     <string name="delete_src_file">Eliminar archivos</string>
     <string name="retain_src_photo">Conservar fotos</string>
@@ -183,10 +183,10 @@ Algunas aplicaciones duales requieren compatibilidad con el Marco de Servicios d
     <string name="notification_from_second_user">Mostrar notificaciones del Segundo espacio</string>
     <string name="radio_button_icon_switch_title">Usando un acceso directo</string>
     <string name="radio_button_password_switch_title">Usando una contraseña</string>
-    <string name="reset_password_dialog_title">No puede ocultar el acceso directo del Segundo Espacio</string>
-    <string name="reset_password_dialog_message">Está usando diferentes tipos de contraseña para el Primer y Segundo Espacio. El Segundo Espacio debería tener el mismo tipo de contraseña que el Primer Espacio para que el acceso directo esté oculto.</string>
+    <string name="reset_password_dialog_title">No puede ocultar el acceso directo del Segundo espacio</string>
+    <string name="reset_password_dialog_message">Está usando diferentes tipos de contraseña para el Primer y Segundo espacio. El Segundo espacio debería tener el mismo tipo de contraseña que el Primer Espacio para que el acceso directo esté oculto.</string>
     <string name="reset_password_dialog_positve_btn_title">Cambiar</string>
-    <string name="entrance_reopen_toast_msg">Mostrando acceso directo del Segundo Espacio porque tienen diferentes tipos de contraseña</string>
+    <string name="entrance_reopen_toast_msg">Mostrando acceso directo del Segundo espacio porque tienen diferentes tipos de contraseña</string>
     <string name="settings_cross_notification_title">Notificaciones</string>
     <string name="settings_cross_notification_summary">Reciba notificaciones del otro espacio</string>
     <string name="settings_switch_shortcut_summary">Mostrar el acceso directo de la Pantalla de inicio en el Primer espacio</string>
@@ -194,7 +194,7 @@ Algunas aplicaciones duales requieren compatibilidad con el Marco de Servicios d
     <string name="settings_status_icon_title">Icono del Segundo espacio</string>
     <string name="settings_status_icon_summary">Mostrar ícono del Segundo espacio en la barra de estatus</string>
     <string name="settings_msg_add_shortcut_to_owner_space">Acceso directo agregado al Primer espacio</string>
-    <string name="settings_msg_add_shortcut_to_second_space">Se creó el acceso directo en el segundo espacio</string>
+    <string name="settings_msg_add_shortcut_to_second_space">Se creó el acceso directo en el Segundo espacio</string>
     <string name="settings_msg_remove_shortcut_from_owner_space">Se eliminó el acceso directo del Primer espacio</string>
     <string name="settings_msg_remove_shortcut_from_second_space">Se eliminó el acceso directo del Segundo espacio</string>
     <string name="start_setting_guide_desc_title">Aún hay algunas cosas que configurar</string>
@@ -363,19 +363,19 @@ Dos espacios. Un dispositivo."</string>
     <string name="remove_user_click_message">*Si no tiene ningún elemento importante en el Segundo espacio, %s</string>
     <string name="remove_user_click_message_action">puede eliminar el Segundo espacio y reiniciar su dispositivo ahora.</string>
     <string name="sdcradfs_dialog_in_owner_title">Segundo espacio</string>
-    <string name="sdcradfs_dialog_in_owner_message">"Un nuevo archivo de sistema es introducido en esta actualización. Los datos antiguos podrían ser incompatibles con este. Para actualizar, mueva los elementos al Segundo Espacio, reinicie el dispositivo y vuelva a crear el Segundo Espacio.
+    <string name="sdcradfs_dialog_in_owner_message">"Un nuevo archivo de sistema es introducido en esta actualización. Los datos antiguos podrían ser incompatibles con este. Para actualizar, mueva los elementos al Segundo espacio, reinicie el dispositivo y vuelva a crear el Segundo espacio.
 Si no realiza la actualización, las aplicaciones duales podrían no funcionar correctamente."</string>
     <string name="sdcradfs_dialog_in_sec_title">Actualización importante</string>
-    <string name="sdcradfs_dialog_in_sec_message">"Para actualizar debe eliminar su Segundo Espacio y volver a crearlo. Mueva los datos del Segundo Espacio al Primer Espacio y reinicie su dispositivo para completar la actualización.
+    <string name="sdcradfs_dialog_in_sec_message">"Para actualizar debe eliminar su Segundo espacio y volver a crearlo. Mueva los datos del Segundo espacio al Primer Espacio y reinicie su dispositivo para completar la actualización.
 Si no actualiza, las aplicaciones duales tampoco funcionarán correctamente."</string>
     <string name="space_created_success">Segundo espacio creado con éxito</string>
     <string name="encrypt_space_delete_dialog_title">Advertencia</string>
-    <string name="encrypt_space_delete_dialog_message">Está a punto de realizar una actualización del sistema. Después de la actualización, los datos del Segundo Espacio serán incompatibles. Para evitar esto, mueva todos los datos al Primer Espacio, elimine el Segundo Espacio y vuelva a crearlo.</string>
+    <string name="encrypt_space_delete_dialog_message">Está a punto de realizar una actualización del sistema. Después de la actualización, los datos del Segundo espacio serán incompatibles. Para evitar esto, mueva todos los datos al Primer Espacio, elimine el Segundo espacio y vuelva a crearlo.</string>
     <string name="encrypt_space_delete_dialog_click_message">*Si no necesita mover datos, %s</string>
-    <string name="encrypt_space_delete_dialog_click_message_action">borre y cree el Segundo Espacio ahora.</string>
+    <string name="encrypt_space_delete_dialog_click_message_action">borre y cree el Segundo espacio ahora.</string>
     <string name="encrypt_space_delete_dialog_positive_text">Mover datos</string>
-    <string name="encrypt_space_delete_notification_title">Segundo Espacio</string>
-    <string name="encrypt_space_delete_notification_message">Elimine su Segundo Espacio y cree uno nuevo para actualizar su dispositivo con éxito.</string>
+    <string name="encrypt_space_delete_notification_title">Segundo espacio</string>
+    <string name="encrypt_space_delete_notification_message">Elimine su Segundo espacio y cree uno nuevo para actualizar su dispositivo con éxito.</string>
     <string name="space_create_guide_title_1">Proteja su privacidad</string>
     <string name="space_create_guide_desc_1">Almacene aplicaciones y fotos de forma segura</string>
     <string name="space_create_guide_title_2">Crear en cualquier momento</string>
@@ -394,7 +394,7 @@ Si no actualiza, las aplicaciones duales tampoco funcionarán correctamente."</s
     <string name="green_guard_title3">Administrar apps</string>
     <string name="green_guard_des3">Controle aplicaciones instaladas y restrinja su uso</string>
     <string name="experience_more_features">Agregue un dispositivo para ver todas las funciones</string>
-    <string name="can_not_switch_when_green_kid_active">El cambio al Segundo Espacio está restringido por el control parental</string>
+    <string name="can_not_switch_when_green_kid_active">El cambio al Segundo espacio está restringido por el control parental</string>
     <string name="need_network_when_bind">Conéctese a la red antes de agregar servicios</string>
     <string name="this_function_can_not_use_in_second_space">Esta función solo se puede usar en el Primer Espacio</string>
     <string name="menu_item_about_privacy_title">Política de Privacidad</string>

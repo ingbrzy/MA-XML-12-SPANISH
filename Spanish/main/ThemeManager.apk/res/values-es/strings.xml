@@ -72,6 +72,7 @@
     <string name="apply_font_btn_exclude">Ahora no</string>
     <string name="apply_font_btn_reboot">Reiniciar</string>
     <string name="apply_font_tip">Reinicie para aplicar la fuente.</string>
+    <string name="apply_succeed">Aplicado con éxito</string>
     <string name="apply_theme_with_ringtones">Aplicar tema con tonos</string>
     <string name="audio_duration_minutes_format">%1$d minutos</string>
     <string name="audio_duration_seconds_format">%1$d segundos</string>
@@ -127,6 +128,16 @@
     <string name="current_using_lockscreen_wallpaper_text">Pantalla de bloqueo</string>
     <string name="current_version_incompatible">No compatible</string>
     <string name="data_use_desc">Documentos legales</string>
+    <string name="de_icon_text_comment">Comentar</string>
+    <string name="de_icon_text_discuss">Debatir</string>
+    <string name="de_icon_text_favorite">Añadir a favoritos</string>
+    <string name="de_icon_text_like">Me gusta</string>
+    <string name="de_icon_text_reward">Recompensar</string>
+    <string name="de_icon_text_share">Compartir</string>
+    <string name="de_mix">Crear</string>
+    <string name="de_mix_dialog_title">Crear tu tema</string>
+    <string name="de_more_info">Más</string>
+     <string name="de_more_resource">Desliza para ver más</string>
     <string name="deleting">Eliminando…</string>
     <string name="description_author">Autor</string>
     <string name="description_designer">Diseñador</string>
@@ -139,6 +150,7 @@
     <string name="desktop_effects">Efectos de pantalla de inicio</string>
     <string name="desktop_wallpaper">Pantalla de inicio</string>
     <string name="detail_recommend_title">Recomendados</string>
+    <string name="detail_reward_alert">Recompensa a los diseñadores talentosos por su trabajo</string>
     <string name="dev_options">Opciones de desarrollador</string>
     <string name="dev_options_summary">Recursos web</string>
     <string name="download_failed">No se puede descargar</string>
@@ -148,7 +160,7 @@
     <string name="exit">Salir</string>
     <string name="exit_extreme_mode_dialog_agree">Aceptar</string>
     <string name="exit_extreme_mode_dialog_cancel">Cancelar</string>
-    <string name="exit_extreme_mode_dialog_title">Desactivar Modo extremo</string>
+    <string name="exit_extreme_mode_dialog_title">Desactivar modo extremo</string>
     <string name="exo_controls_fastforward_description">Avanzar rápidamente</string>
     <string name="exo_controls_fullscreen_description">Modo de pantalla completa</string>
     <string name="exo_controls_next_description">Siguiente pista</string>
@@ -180,7 +192,7 @@
     <string name="exo_track_surround_7_point_1">Sonido envolvente 7.1</string>
     <string name="exo_track_unknown">Desconocido</string>
     <string name="expect_more">¡Permanece atento para más actualizaciones!</string>
-    <string name="extreme_mode_dialog_message">Esta función no está disponible en Modo extremo. Desactiva el Modo extremo para poder usarla.</string>
+    <string name="extreme_mode_dialog_message">Esta función no está disponible en modo extremo. Desactiva el modo extremo para poder usarla.</string>
     <string name="extreme_mode_dialog_ok">Entendido</string>
     <string name="extreme_mode_dialog_title">Alerta</string>
     <string name="fail_to_add_account">No se puede agregar la cuenta</string>
@@ -272,6 +284,24 @@ Para desactivar esta función, ve a Ajustes &gt; Sonido y vibración &gt; Perfil
     <string name="lockscreen_wallpaper">Pantalla de bloqueo</string>
     <string name="lockstyle_personal_settings">Personalización</string>
     <string name="mi_wallpaper">Fondo MIUI</string>
+    <string name="mine_tab_not_login">"Inicia sesión para ver los elementos.
+Toca aquí para iniciar sesión ahora."</string>
+    <string name="mine_tab_title_favorite">Favoritos</string>
+    <string name="mine_tab_title_like">Me gustan</string>
+    <string name="mine_tab_title_local">Local</string>
+    <string name="mine_tab_title_purchase">Compras</string>
+    <string name="miui_clock_city_name_local">Local</string>
+    <string name="miui_clock_city_name_second">Segundo reloj</string>
+    <string name="miui_lock_screen_date">EEEE, d MMMM</string>
+    <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
+    <string name="miui_lock_screen_date_two_lines">"EEEE
+d MMMM"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEEE
+d MMMM"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+dd/MM"</string>
+     <string name="miui_lock_screen_large_date_12">"EEE
+dd/MM"</string>
     <string name="miuishare_account_activate_confirmation">Activar Cuenta Mi</string>
     <string name="miuishare_account_activate_ok">Activar</string>
     <string name="miuishare_account_login_cancel">Cancelar</string>
@@ -353,7 +383,7 @@ Para desactivar esta función, ve a Ajustes &gt; Sonido y vibración &gt; Perfil
     <string name="provision_loading_tips">Espera un momento…</string>
     <string name="provision_second_title">Selecciona uno de los cinco temas predeterminados</string>
     <string name="provision_title">Elige un tema</string>
-    <string name="pull_down_view_error_message">Whoops! No se ha encontrado conexión a internet. Compruebe su conexión o intente de nuevo.</string>
+    <string name="pull_down_view_error_message">Whoops! No se ha encontrado conexión a Internet. Compruebe su conexión o intente de nuevo.</string>
     <string name="pull_down_view_refresh">Refrescar</string>
     <string name="pull_down_view_title">Qué hay de nuevo</string>
     <string name="purchased_list">Adquirido</string>
@@ -706,7 +736,7 @@ Para desactivar esta función, ve a Ajustes &gt; Sonido y vibración &gt; Perfil
     <string name="theme_user_agreement_content2">Contrato de usuario</string>
     <string name="theme_user_agreement_content3">" y "</string>
     <string name="theme_user_agreement_content4">Política de Privacidad</string>
-    <string name="theme_user_agreement_content5">". Esta aplicación necesita conectarse a internet para funcionar con normalidad. "</string>
+    <string name="theme_user_agreement_content5">". Esta aplicación necesita conectarse a Internet para funcionar con normalidad. "</string>
     <string name="theme_user_agreement_exit">No acepto</string>
     <string name="theme_user_agreement_remind_again">Mostrar Condiciones de Uso</string>
     <string name="theme_user_agreement_remind_never">No mostrar de nuevo</string>
@@ -715,7 +745,7 @@ Para desactivar esta función, ve a Ajustes &gt; Sonido y vibración &gt; Perfil
     <string name="theme_yes">Sí</string>
     <string name="themes_might_like">Temas que podrían gustarte</string>
     <string name="third_party_pickers_activity_title">Añadir %1$s</string>
-    <string name="tip_global">Barra de notificaciones, Teléfono, Mensajería, etc. Desmarcar para usar las opciones por defecto.</string>
+    <string name="tip_global">Barra de notificaciones, Teléfono, Mensajes, etc. Desmarcar para usar las opciones por defecto.</string>
     <string name="tip_home">Fondo de pantalla de la Pantalla de inicio y reloj. Desmarcar para usar las opciones por defecto.</string>
     <string name="tip_icon">Iconos de la Pantalla de inicio. Desmarcar para usar las opciones por defecto.</string>
     <string name="tip_lockscreen">Fondo de pantalla de la Pantalla de bloqueo y reloj. Desmarcar para usar las opciones por defecto.</string>
@@ -775,7 +805,10 @@ Para desactivar esta función, ve a Ajustes &gt; Sonido y vibración &gt; Perfil
     <string name="wallpaper_apply">Aplicar</string>
     <string name="wallpaper_crop">Recortar</string>
     <string name="wallpaper_decoded_error">No es posible cargar el fondo de pantalla</string>
-    <string name="wallpaper_detail_load_page_no_network">Conéctese a la red e inténtelo de nuevo.</string>
+    <string name="wallpaper_detail_load_page_no_network">Conéctate a la red e inténtalo de nuevo.</string>
+    <string name="wallpaper_download_incall_show">Descargar vídeo</string>
+    <string name="wallpaper_dynamic">Dinámico</string>
+    <string name="wallpaper_loop_add_success">Añadido correctamente</string>
     <string name="wallpaper_might_like">Fondos de pantalla que podrían gustarte</string>
     <string name="wallpaper_personal_dialog_agree">Personalizar</string>
     <string name="wallpaper_personal_dialog_content">Usa esta función para poder ver la selección de fondos de pantalla personalizados de acuerdo a tus intereses. Puedes activar y desactivar esta función en los ajustes. ¿Personalizar fondos de pantalla?</string>
@@ -791,6 +824,8 @@ Para desactivar esta función, ve a Ajustes &gt; Sonido y vibración &gt; Perfil
     <string name="wallpaper_settings_no_history">Sin historial</string>
     <string name="wallpaper_settings_pad_more_page_title">Más fondos de pantalla</string>
     <string name="wallpaper_settings_page_title">Fondo de pantalla</string>
+    <string name="wallpaper_share_alert">Ha ocurrido un error. Espera uno o dos minutos y vuelve a intentarlo.</string>
+    <string name="wallpaper_static">Estático</string>
     <string name="wifi_check_cancel">Cancelar</string>
     <string name="wifi_check_confirm">Confirmar</string>
     <string name="wifi_check_message">¿Usar datos móviles para descargar actualizaciones?</string>
@@ -799,7 +834,7 @@ Para desactivar esta función, ve a Ajustes &gt; Sonido y vibración &gt; Perfil
     <string name="xiaoai_speech_not_installed_message">Descargar e instalar el asistente de voz Mi AI para continuar.</string>
     <string name="xiaoai_speech_not_installed_title">El asistente de voz Mi AI no está instalado.</string>
     <string name="you_might_also_like">También podría gustarte</string>
-    <string name="system_cta_agree_desc">Permite que esta aplicación se conecte a internet y concede los permisos obligatorios mencionados anteriormente.</string>
+    <string name="system_cta_agree_desc">Permite que esta aplicación se conecte a Internet y concede los permisos obligatorios mencionados anteriormente.</string>
     <string name="system_cta_all_purpose">¡Bienvenido a Temas! Puedes usar esta aplicación para administrar tus temas, fondos de pantalla, tonos de llamada y fuentes.</string>
     <string name="system_cta_main_purpose">Administrar y usar temas, fondos de pantalla, tonos de llamada, fuentes y videos de fondo de pantalla</string>
     <string name="system_cta_runtime_perm_desc_get_accounts">Para acceder al IMEI y proporcionar servicios de descarga</string>

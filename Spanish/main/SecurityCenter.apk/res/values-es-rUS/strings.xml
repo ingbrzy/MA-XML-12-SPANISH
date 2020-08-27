@@ -71,7 +71,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="dlg_not_block_call">¿Desbloquear números seleccionados? los números serán agregados a excepciones, pero los elementos bloqueados previamente no serán mostrados en el historial de llamadas.</string>
     <string name="dlg_update_date_title">Advertencia</string>
     <string name="dlg_update_data_content">No está conectado a una red Wi-Fi. Usar datos móviles podría generar cargos adicionales. ¿Continuar?</string>
-    <string name="dlg_sec_network_unavailable">La aplicación Seguridad no puede ser actualizada porque ha restrigido la conexión a internet. ¿Permitir a Seguridad conectarse a internet?</string>
+    <string name="dlg_sec_network_unavailable">La aplicación Seguridad no puede ser actualizada porque ha restrigido la conexión a Internet. ¿Permitir a Seguridad conectarse a Internet?</string>
     <string name="dlg_update_btn_contiue">Continuar</string>
     <string name="dlg_update_btn_open">Permitir</string>
     <string name="dlg_update_updating">Actualizando…</string>
@@ -195,7 +195,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="st_antispam_mode_smart">Números reportados</string>
     <string name="st_antispam_mode_blacklist">Números bloqueados</string>
     <string name="st_antispam_mode_only_contacts">Solo permitir contactos</string>
-    <string name="st_antispam_mode_only_whitelist">Sólo permitir excepciones</string>
+    <string name="st_antispam_mode_only_whitelist">Solo permitir excepciones</string>
     <string name="st_antispam_mode_only_all_deny">Bloquear todo</string>
     <string name="st_antispam_mode_add_new">Agregar reglas</string>
     <string name="st_antispam_title_whitelist">Excepciones</string>
@@ -311,7 +311,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="st_confirm_dialog_summary_contact_call">Todas las llamadas de contactos serán bloqueadas.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Active para bloquear todas las llamadas entrantes desdes números extranjeros.</string>
     <string name="cta_dialog_title">Conexión a Internet</string>
-    <string name="cta_dialog_msg">Seguridad requiere una conexión a internet para obtener actualizaciones, así como acceder a la ubicación para funcionar correctamente.</string>
+    <string name="cta_dialog_msg">Seguridad requiere una conexión a Internet para obtener actualizaciones, así como acceder a la ubicación para funcionar correctamente.</string>
     <string name="cta_settings">Permitir conexión a la red</string>
     <string name="gdpr_msg">&lt;Data&gt;Para poder usar las funciones básicas de Seguridad, debe aceptar que Xiaomi recopilará, procesará y usará su información personal, incluida información sobre la manera en que utiliza las funciones básicas (por ejemplo, estadísticas del uso de datos móviles, información sobre malware, así como información básica de su dispositivo) y otro tipo de información especificada en nuestra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidad&lt;/a>.&lt;/Data&gt;</string>
     <string name="app_name_na">Uso de datos</string>
@@ -388,11 +388,11 @@ responda"</string>
     <string name="firewall_restrict_android_dialog_content">Para asegurarse de que su dispositivo funciona con normalidad, algunas apps del sistema Android seguirán conectadas a Internet. Estas apps usarán su conexión de datos móviles y podrían generar cobros menores de su operadora.</string>
     <string name="background_restrict_app_dialog_message">Restringir el acceso a la red en segundo plano para esta app puede que imposibilite su funcionamiento normal, recibir mensajes, descargar contenidos, etc. ¿Restringir de todos modos?</string>
     <string name="firewall_allow_network">Permitir</string>
-    <string name="app_bg_restrict_dialog_message">Restringir la conexión de red en segundo plano puede hacer que la aplicación no funcione normalmente. Por ejemplo, es posible que ya no pueda recibir mensajes ni actualizar el contenido.</string>
+    <string name="app_bg_restrict_dialog_message">Restringir la conexión de red en segundo plano puede hacer que la aplicación no funcione con normalidad. Por ejemplo, es posible que ya no pueda recibir mensajes ni actualizar el contenido.</string>
     <string name="firewall_network_allow">Se permitió a %1$s usar la conexión %2$s</string>
     <string name="search_result_text">No se pudo encontrar ninguna app</string>
-    <string name="firewall_mobile_dialog_message">La app instalada no podrá conectarse a internet al usar datos móviles cuando desactive este interruptor.</string>
-    <string name="firewall_wifi_dialog_message">La app instalada no podrá conectarse a internet al usar Wi-Fi cuando desactive este interruptor.</string>
+    <string name="firewall_mobile_dialog_message">La app instalada no podrá conectarse a Internet al usar datos móviles cuando desactive este interruptor.</string>
+    <string name="firewall_wifi_dialog_message">La app instalada no podrá conectarse a Internet al usar Wi-Fi cuando desactive este interruptor.</string>
     <string name="firewall_system_title">Uso de datos para aplicaciones de sistema</string>
     <string name="firewall_temp_rule_reason">%2$s restringió la conexión a Internet para %1$s​</string>
     <string name="dialog_restrict_all_wlan_title">Restringir la conexión Wi-Fi</string>
@@ -653,7 +653,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a su operadora para recib
     <string name="roaming_start_title">Roaming de datos</string>
     <string name="roaming_start_body">Toca para ver las excepciones del roaming.</string>
     <string name="dialog_app_roaming_title">%1$s no pudo utilizar el roaming de datos</string>
-    <string name="dialog_app_roaming_message">%1$s no puede usar datos móviles en itinerancia. Cuando esté en itinerancia, sólo aquellas apps añadidas a la lista de excepciones podrán utilizar datos móviles.</string>
+    <string name="dialog_app_roaming_message">%1$s no puede usar datos móviles en itinerancia. Cuando esté en itinerancia, solo aquellas apps añadidas a la lista de excepciones podrán utilizar datos móviles.</string>
     <string name="add_miservice_dialog_title">Estructura de servicios MIUI</string>
     <string name="add_miservice_dialog_content">%s requiere que agregue la estructura de servicios de MIUI a la lista de excepciones. Puede recibir notificaciones de apps integradas de MIUI y otras apps de terceros.</string>
     <string name="pref_roaming_daily_limit_setting_cat_title">Límite de datos diarios</string>
@@ -699,12 +699,12 @@ Mientras se esté calibrando, MIUI enviará un mensaje a su operadora para recib
     <string name="main_toolbar_internet_by_pc_brige">Internet USB</string>
     <string name="main_toolbar_internet_by_wifi">Wi-Fi</string>
     <string name="main_toolbar_internet_by_mobiledata">Datos móviles</string>
-    <string name="connect_internet_by_usbshare">Compartir internet a través de USB</string>
+    <string name="connect_internet_by_usbshare">Compartir Internet a través de USB</string>
     <string name="connect_internet_by_mobiledata">Conexión de datos móviles</string>
     <string name="connect_internet_by_wifi">Wi-Fi</string>
     <string name="unable_connect_internet">Sin conexión a Internet</string>
     <string name="enable_network">Active primero la red</string>
-    <string name="disable_air_mode">Primero desactive el Modo avión</string>
+    <string name="disable_air_mode">Primero desactive el modo avión</string>
     <string name="repair">Reparar</string>
     <string name="check_network_state">Comprobar la red</string>
     <string name="current_network_state_not_need_diagnose">La conexión a Internet funciona con normalidad.</string>
@@ -717,13 +717,13 @@ Mientras se esté calibrando, MIUI enviará un mensaje a su operadora para recib
     <string name="signal_exception_title">Probar intensidad de la señal</string>
     <string name="signal_exception_summary">No se puede conectar a la red en esta área.</string>
     <string name="usbsharenet_exception_title">Pobar Internet compartida a través de USB</string>
-    <string name="usbsharenet_exception_summary">No se puede conectar a internet mediante conexión USB compartida. Compruebe la conexión USB de su dispositivo y reinicie Mi PC Suite.</string>
-    <string name="usbsharenet_pc_exception_summary">No se puede conectar a internet mediante conexión USB compartida. Compruebe la conexión a internet de su computadora.</string>
+    <string name="usbsharenet_exception_summary">No se puede conectar a Internet mediante conexión USB compartida. Compruebe la conexión USB de su dispositivo y reinicie Mi PC Suite.</string>
+    <string name="usbsharenet_pc_exception_summary">No se puede conectar a Internet mediante conexión USB compartida. Compruebe la conexión a Internet de su computadora.</string>
     <string name="gateway_exception_title">Probar el router</string>
     <string name="gateway_exception_summary">Compruebe el router y vuelva a intentarlo.</string>
     <string name="gateway_exception_summary2">No se pudo conectar al servidor</string>
     <string name="other_exception_title">Verificando otros problemas</string>
-    <string name="other_exception_summary">No tiene conexión a internet</string>
+    <string name="other_exception_summary">No tiene conexión a Internet</string>
     <string name="see_detail">Detalles</string>
     <string name="choose">Elegir</string>
     <string name="replace_dns">Reemplazar DNS automáticamente</string>
@@ -739,8 +739,8 @@ Mientras se esté calibrando, MIUI enviará un mensaje a su operadora para recib
     <string name="notify_daily_limit_body">Toca para establecer el límite de datos.</string>
     <string name="network_blocked_notification_summary">Comprobar la red</string>
     <string name="network_blocked_switch_wifi">Cambiar redes</string>
-    <string name="wifi_network_blocked_notification_title">Sin conexión a internet</string>
-    <string name="data_network_blocked_notification_title">Sin conexión a internet</string>
+    <string name="wifi_network_blocked_notification_title">Sin conexión a Internet</string>
+    <string name="data_network_blocked_notification_title">Sin conexión a Internet</string>
     <string name="sim_state_exception_summary">El estado del SIM indica que algo puede estar mal con su tarjeta SIM.</string>
     <string name="network_operator_exception_summary">No se pudo activar la tarjeta SIM. Asegúrese de que su tarjeta SIM está insertada correctamente y de que su plan de telefonía móvil ha sido activado por su operadora.</string>
     <string name="network_blocked_connected_open_wifi">Conectado a una red pública</string>
@@ -773,7 +773,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a su operadora para recib
 Si está conectado a una red Wi-Fi pública, el número de usuarios conectados a la red podría estar haciéndola lenta o causando problemas de conectividad. Cambie a otra red e intente nuevamente.
 
  "&lt;b&gt;2. Problemas de proveedores de servicios de Internet&lt;/b&gt;"
-Asegúrese que su cuenta está en buenos términos con su proveedor de servicios de internet.
+Asegúrese que su cuenta está en buenos términos con su proveedor de servicios de Internet.
 
  "&lt;b&gt;3. Problemas de hardware del router&lt;/b&gt;"
 Intente reiniciar el router o comprobar la configuración de administración de su router.
@@ -782,7 +782,7 @@ Intente reiniciar el router o comprobar la configuración de administración de 
 Lea las instrucciones que vienen con el router y restaure las configuraciones de fábrica.
 
  "&lt;b&gt;5. Asegúrese de que el router esté conectado correctamente&lt;/b&gt;"
-Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un problema con su conexión de casa, póngase en contacto con su proveedor de servicios de internet."</string>
+Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un problema con su conexión de casa, póngase en contacto con su proveedor de servicios de Internet."</string>
     <string name="permission_exception_title">Conexión restringida para aplicaciones</string>
     <string name="bg_network_exception_title">Conexión de segundo plano restringida</string>
     <string name="networkchanged_exception_title">Cambió la conexión</string>
@@ -861,7 +861,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="menu_charge_traffic">Comprar datos</string>
     <string name="menu_setting_traffic">Establecer manualmente</string>
     <string name="menu_charge_bill">Saldo de recarga</string>
-    <string name="privacy_dialog_message">Cuando se conecta a internet, este mensaje, junto con la info de operadora, serán encriptados y cargados en los servidores Mi para ayudarnos a mejorar el monitoreo de uso de datos.</string>
+    <string name="privacy_dialog_message">Cuando se conecta a Internet, este mensaje, junto con la info de operadora, serán encriptados y cargados en los servidores Mi para ayudarnos a mejorar el monitoreo de uso de datos.</string>
     <string name="status_bar_network_flow_purchase">"   Comprar >"</string>
     <string name="status_bar_network_flow_setup_data_plan">"   Establecer plan de datos >"</string>
     <string name="status_bar_network_flow_phone_balance">"   Saldo del teléfono:%1$s "</string>
@@ -909,7 +909,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="om_settings_title">Ajustes</string>
     <string name="om_settings_lock_app_manage">Bloquear apps</string>
     <string name="om_settings_lock_app">Bloquear apps</string>
-    <string name="om_settings_speed_up_auto">Aumento de velocidad Auto</string>
+    <string name="om_settings_speed_up_auto">Aumento de velocidad automático</string>
     <string name="om_settings_memory_clean_lock_screen">Limpiar el chaché cuando el dispositivo está bloqueado</string>
     <string name="om_settings_notify_manage">Notifications</string>
     <string name="om_settings_memory_occupy_notify">Gran tamaño de caché</string>
@@ -944,7 +944,7 @@ su dispositivo"</string>
     <string name="om_ill_proc_handle_unstaill_title">¿Desinstalar %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">Desinstale esta app para solucionar los problemas de uso de batería.</string>
     <string name="om_ill_proc_type_wakelock_title">La app bloquea el modo suspensión y descarga la batería</string>
-    <string name="om_ill_proc_type_wakelock_detail">Arreglar problemas del Modo suspensión</string>
+    <string name="om_ill_proc_type_wakelock_detail">Arreglar problemas del modo suspensión</string>
     <string name="om_ill_proc_type_wifiscan_title">La app frecuentemente busca Wi-Fi y descarga la batería</string>
     <string name="om_ill_proc_type_wifiscan_detail">Solucionar problemas de búsqueda de Wi-Fi</string>
     <string name="om_ill_proc_type_cpu_title">La app ocupa espacio en la CPU y descarga la batería</string>
@@ -1131,7 +1131,7 @@ su dispositivo"</string>
     <string name="auto_task_edit_choose_condition_title">Selecionar condición</string>
     <string name="auto_task_edit_choose_operation_title">Seleccionar acción</string>
     <string name="auto_task_edit_choose_new_operation">Agregar acción</string>
-    <string name="auto_task_edit_operation_summary">Por ejemplo, \"Activar Modo avión\"</string>
+    <string name="auto_task_edit_operation_summary">Por ejemplo, \"Activar modo avión\"</string>
     <string name="auto_task_edit_condition_title">Agregar condición</string>
     <string name="auto_task_edit_condition_summary">Por ejemplo, \"A las 23:00\"</string>
     <string name="auto_task_edit_task_name">Nombre</string>
@@ -1265,7 +1265,7 @@ su dispositivo"</string>
     <string name="sp_empty_title_sign_exception">Mantenga presionada la app para agregarla a las excepciones</string>
     <string name="sp_toast_removed_from_sign_white_list">Eliminado de las excepciones. El elemento será escaneado la próxima vez.</string>
     <string name="sp_network_privacy_dialog_title">No se puede usar el análisis de seguridad</string>
-    <string name="sp_network_privacy_dialog_message">La app de Seguridad no funciona correctamente porque ha restringido la conexión a internet. ¿Permitir que se conecte a internet?</string>
+    <string name="sp_network_privacy_dialog_message">La app de Seguridad no funciona correctamente porque ha restringido la conexión a Internet. ¿Permitir que se conecte a Internet?</string>
     <string name="sp_settings_exception_count_zero">Sin elementos</string>
     <string name="sp_monitored_apps_count_zero">No hay apps de pago protegidas</string>
     <string name="monitor_app_more">Más</string>
@@ -1540,7 +1540,7 @@ su dispositivo"</string>
     <string name="title_cloud_service">Xiaomi Cloud</string>
     <string name="summary_cloud_service">Sincronice sus fotos, contactos y más, a través de todos sus dispositivos</string>
     <string name="title_network_switch">Conexión de red</string>
-    <string name="summary_network_switch">Permita a Security app conectarse a internet</string>
+    <string name="summary_network_switch">Permita a Security app conectarse a Internet</string>
     <string name="title_power_optimizer">Ahorro de batería</string>
     <string name="summary_power_optimizer">Reduzca el rendimiento de su dispositivo cuando el nivel de batería esté bajo</string>
     <string name="title_data_flow_monitor">Monitor de uso de datos encendido</string>
@@ -1585,7 +1585,7 @@ su dispositivo"</string>
     <string name="summary_cleaner_cloudscan">Subir y comprar los nombres de carpetas con las definiciones en línea</string>
     <string name="title_xiaomi_roaming">Mi Roaming</string>
     <string name="summary_xiaomi_roaming">0,01 RMB/MB de datos móviles en roaming.</string>
-    <string name="toast_network_switch">Esta aplicacion necesita conectarse a internet</string>
+    <string name="toast_network_switch">Esta aplicacion necesita conectarse a Internet</string>
     <string name="toast_flow_notification">Notificaciones de uso de datos activas</string>
     <string name="toast_auto_traffic_correct">El uso de datos se ajusta automáticamente</string>
     <string name="toast_show_notification">Fifado al panel de notificación</string>
@@ -1607,18 +1607,18 @@ su dispositivo"</string>
     <string name="title_garbage_clean">El tamaño de caché de la app alcanzó los %s</string>
     <string name="summary_garbage_clean">Limpiar caché para liberar espacio</string>
     <string name="summary_consume_power">Se han detectado problemas de calentamiendo que pueden afectar la vida útil de la batería</string>
-    <string name="title_restrict_data_usage">¿%s no puede conectarse a internet?</string>
+    <string name="title_restrict_data_usage">¿%s no puede conectarse a Internet?</string>
     <string name="summary_restrict_data_usage">Restringió el uso de datos para esta aplicación. Toca para solucionarlo.</string>
     <string name="title_background_connection">¿No puede usar %s en segundo plano?</string>
     <string name="summary_background_connection">Restringió la conexión en segundo plano para esta aplicación. Toca para solucionarlo.</string>
     <string name="title_block_calls_from_cantacts">¿Llamadas perdidas de sus contactos?</string>
     <string name="summary_block_calls_from_cantacts">Está usando la lista de bloqueo. Toca para solucionarlo.</string>
     <string name="title_block_calls_from_strangers">¿Llamadas perdidas importantes?</string>
-    <string name="summary_block_calls_from_strangers">Sólo permitió llamadas de sus contactos. Toca para solucionarlo.</string>
+    <string name="summary_block_calls_from_strangers">Solo permitió llamadas de sus contactos. Toca para solucionarlo.</string>
     <string name="title_do_not_disturb">¿No puede escuchar su tono de llamada?</string>
     <string name="summary_do_not_disturb">Está usando el modo No molestar. Toca para solucionarlo.</string>
     <string name="title_eye_shield">¿El color de la pantalla no se ve bien?</string>
-    <string name="summary_eye_shield">Está usando el Modo lectura. Toca para solucionarlo.</string>
+    <string name="summary_eye_shield">Está usando el modo lectura. Toca para solucionarlo.</string>
     <string name="dialog_button_ignore">Ignorar</string>
     <string name="dialog_button_yes">Sí</string>
     <string name="summary_default_app">%s no se ha establecido como una app del sistema por defecto</string>
@@ -1645,9 +1645,9 @@ su dispositivo"</string>
     <string name="virus_update_tips_title">Alerta</string>
     <string name="virus_wait_network_dialog_message">Su teléfono no está conectado a Wi-Fi ahora. ¿Usar la conexión a datos móviles?</string>
     <string name="antivirus_not_wlan">No está conectado a Wi-Fi. Usar datos móviles puede generar gastos adicionales. ¿Continuar de todos modos?</string>
-    <string name="antivirus_longtime_no_update">Parece que sus definiciones de virus son antiguas. Actualizaciones regulares ayudan a conseguir mejores resultados de análisis. ¿Permitir a Seguridad conectarse a internet y actualizar definiciones de virus?</string>
+    <string name="antivirus_longtime_no_update">Parece que sus definiciones de virus son antiguas. Actualizaciones regulares ayudan a conseguir mejores resultados de análisis. ¿Permitir a Seguridad conectarse a Internet y actualizar definiciones de virus?</string>
     <string name="antivirus_longtime_no_update1">Parece que sus definiciones de virus son antiguas. Actualizaciones regulares ayudan a conseguir mejores resultados de análisis. Actualice e inténtelo de nuevo.</string>
-    <string name="antivirus_sec_network_unavailable">La app Seguridad no puede actualizarse porque ha restringido la conexión a internet. ¿Permitir a Seguridad conectarse a internet?</string>
+    <string name="antivirus_sec_network_unavailable">La app Seguridad no puede actualizarse porque ha restringido la conexión a Internet. ¿Permitir a Seguridad conectarse a Internet?</string>
     <string name="antivirus_update_btn_contiue">Continuar</string>
     <string name="antivirus_update_btn_open">Permitir</string>
     <string name="antivirus_update_btn_update">Actualizar</string>
@@ -1671,7 +1671,7 @@ su dispositivo"</string>
     <string name="antivirus_main_activity_back">Atrás</string>
     <string name="toast_removed_from_virus_white_list">Eliminado de las excepciones. El elemento será escaneado la próxima vez.</string>
     <string name="long_click_dialog_title">Atención</string>
-    <string name="long_click_dialog_summary">Mantener los resultados en la lista para agregarlos a excepciones</string>
+    <string name="long_click_dialog_summary">Mantenga pulsados los resultados en la lista para añadirlos a excepciones</string>
     <string name="button_text_let_me_select">Entendido</string>
     <string name="toast_add_virus_white_list_no_need_repeat">Esta excepción ya existe</string>
     <string name="button_text_delete_from_virus_white_list">Eliminar</string>
@@ -1728,7 +1728,7 @@ su dispositivo"</string>
     <string name="card_main_sectool_title">Herramientas</string>
     <string name="card_main_monthreport_action">Ver</string>
     <string name="card_main_netcheck_title">Probar la red</string>
-    <string name="card_main_netcheck_summary">Probar la red por problemas de conectividad</string>
+    <string name="card_main_netcheck_summary">Probar la conexión para detectar problemas de red</string>
     <string name="card_main_netcheck_action">Prueba</string>
     <string name="card_main_hbassistant_title">Asistente de sobre rojo</string>
     <string name="card_main_hbassistant_summary">Use esta herramienta para agarrar los sobres más rápido</string>
@@ -1944,7 +1944,7 @@ su dispositivo"</string>
     <string name="optimize_result_summary_sucurity_risk">Algunas funciones de seguridad están desactivadas. Active estas funciones para hacer su dispositivo más seguro:</string>
     <string name="optimize_result_ads_close_text">Anuncio</string>
     <string name="information_setting">Recomendaciones</string>
-    <string name="load_only_under_wlan">Cargar usando sólo Wi-Fi</string>
+    <string name="load_only_under_wlan">Cargar usando solo Wi-Fi</string>
     <string name="recommend_news">Recibir recomendaciones</string>
     <string name="setting_privacy_password">Agregar patrón</string>
     <string name="bind_xiaomi_account_title">Agregar Cuenta Mi</string>
@@ -1956,7 +1956,7 @@ su dispositivo"</string>
     <string name="password_promotion_title">Agregar Cuenta Mi</string>
     <string name="password_forget_pattern_title">Atención</string>
     <string name="password_forget_pattern_reset">Restablecer</string>
-    <string name="password_forget_pattern_message">Por razones de seguridad, sólo puede restablecer su contraseña después de restaurar los datos de fábrica. Toca para restaurar.</string>
+    <string name="password_forget_pattern_message">Por razones de seguridad, solo puede restablecer su contraseña después de restaurar los datos de fábrica. Toca para restaurar.</string>
     <string name="password_forget_pattern_message_none">Las apps no están bloqueadas. Puede restablecer su contraseña.</string>
     <string name="password_forget_pattern_confirm">Entendido</string>
     <string name="password_xspace_forget_pattern_message">Para cambiar su contraseña del Segundo espacio deberá eliminar su Segundo espacio actual y crear uno nuevo.</string>
@@ -2207,7 +2207,7 @@ su dispositivo"</string>
     <string name="data_booster_desc">Desactivar otras ranuras SIM para mantener la conexión estable</string>
     <string name="international_Ad">Anuncio</string>
     <string name="thermal_tips_title">Atención</string>
-    <string name="thermal_tips_message">Jugar con el Modo Rendimiento puede llevar a problemas de sobrecalentamiento.</string>
+    <string name="thermal_tips_message">Jugar con el modo Rendimiento puede llevar a problemas de sobrecalentamiento.</string>
     <string name="forbid_autobright_title">Ajustar el brillo de la pantalla</string>
     <string name="forbid_autobright_summary">El brillo de la pantalla permanecerá igual cuando juegue</string>
     <string name="gamebooster_lowbattery_notification_title">La batería está a menos del 5%%</string>
@@ -2232,7 +2232,7 @@ su dispositivo"</string>
     <string name="gb_sign_gift">Regístrese para obtener recompensas</string>
     <string name="signed_rule">Reglas</string>
     <string name="signed_rule_one">1. Regístrese 10, 20 o 28 días seguidos cada mes para obtener Aceleración Xunyou 1, 2, o 3 días respectivamente.</string>
-    <string name="signed_rule_two">2. Puede obtener sólo 1 Aceleración Xunyou por mes.</string>
+    <string name="signed_rule_two">2. Puede obtener solo 1 Aceleración Xunyou por mes.</string>
     <string name="signed_rule_three">3. Cada inicio de mes se eliminan los días que se ha registrado previamente. Los días restantes no se vuelven a contar.</string>
     <string name="gb_get_gift_right_now">Registrárse ahora</string>
     <string name="gb_have_signed">Registrado hoy</string>
@@ -2376,16 +2376,16 @@ su dispositivo"</string>
     <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
     <string name="power_save_on_time_end_time_summary">Terminar</string>
     <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
-    <string name="power_save_on_time_option_title">Durante este período cambiar a</string>
-    <string name="power_save_on_time_option_summary">Al final de este período el dispositivo volverá al perfil usado más recientemente</string>
+    <string name="power_save_on_time_option_title">Durante este periodo cambiar a</string>
+    <string name="power_save_on_time_option_summary">Al final de este periodo el dispositivo volverá al perfil usado más recientemente</string>
     <string name="power_save_on_time_default_time">00:00</string>
     <string name="power_consume_total_software">Aplicaciones: %1$d%%</string>
     <string name="power_consume_total_hardware">Hardware: %1$d%%</string>
-    <string name="power_save_on_time_goout_title">Después de este período, regresar a</string>
+    <string name="power_save_on_time_goout_title">Después de este periodo, regresar a</string>
     <string name="power_save_choose_recovery_mode">Escoja un perfil</string>
     <string name="power_new_choose_mode">Escoja un perfil</string>
     <string name="power_save_low_battery_option_recovery_title">Si la batería se recupera, cambiar a</string>
-    <string name="power_save_on_time_option_recovery_title">Cuando termine este período, cambiar a</string>
+    <string name="power_save_on_time_option_recovery_title">Cuando termine este periodo, cambiar a</string>
     <string name="power_save_ps_close_setting_fingeraod">\"Mostrar ícono de huella digital cuando la pantalla esté apagada\"</string>
     <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">Su dispositivo está programado para cambiar a este perfil cuando la batería se recupere. Debe cambiar sus ajustes antes de poder borrar este perfil.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Su dispositivo está programado para cambiar este perfil más tarde. Debe cambiar sus ajustes de energía antes de poder borrar esta configuración.</string>
