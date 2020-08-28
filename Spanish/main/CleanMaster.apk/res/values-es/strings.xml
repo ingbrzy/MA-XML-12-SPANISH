@@ -105,16 +105,16 @@
     <string name="appcleaner_wechat_clean_summary">Eliminar elementos innecesarios de WeChat</string>
     <string name="appcleaner_wechat_clean_title">Limpiador de aplicaciones</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Limpiar %s de caché de WeChat para liberar espacio de almacenamiento</string>
-    <string name="appcleaner_wechat_notification_garbage_cleanup_title">No olvides limpiar el caché</string>
-    <string name="appcleaner_wechat_pref_category_title_auto_clean_settings">Recordarme limpiar el caché de WeChat</string>
+    <string name="appcleaner_wechat_notification_garbage_cleanup_title">No olvides limpiar la caché</string>
+    <string name="appcleaner_wechat_pref_category_title_auto_clean_settings">Recordarme limpiar la caché de WeChat</string>
     <string name="appcleaner_wechat_pref_time_every_day">Cada día</string>
     <string name="appcleaner_wechat_pref_time_fifteen_day">Cada 15 días</string>
     <string name="appcleaner_wechat_pref_time_seven_day">Cada 7 días</string>
     <string name="appcleaner_wechat_pref_time_three_day">Cada 3 días</string>
-    <string name="appcleaner_wechat_pref_title_clean_alert">Recordarme limpiar el caché de WeChat</string>
-    <string name="appcleaner_wechat_pref_title_garbage_cleanup_check_size">Tamaño del caché</string>
+    <string name="appcleaner_wechat_pref_title_clean_alert">Recordarme limpiar la caché de WeChat</string>
+    <string name="appcleaner_wechat_pref_title_garbage_cleanup_check_size">Tamaño de la caché</string>
     <string name="appcleaner_wechat_pref_title_garbage_cleanup_check_time">Recordármelo</string>
-    <string name="appcleaner_wechat_pref_title_garbage_cleanup_size">Tamaño del caché</string>
+    <string name="appcleaner_wechat_pref_title_garbage_cleanup_size">Tamaño de la caché</string>
     <string name="appcleaner_wechat_scanning_cache">Caché de WeChat</string>
     <string name="appcleaner_wechat_scanning_chat">Archivos enviados</string>
     <string name="appcleaner_wechat_scanning_trash">Basura</string>
@@ -343,7 +343,7 @@
     <string name="global_wa_main_cleaning">Limpiando…</string>
     <string name="global_wa_main_header_cleaning_hints">El limpiador de WhatsApp está liberando espacio en tu dispositivo…</string>
     <string name="global_wa_main_header_scanning_hints">El limpiador de WhatsApp está escaneando tu dispositivo…</string>
-    <string name="global_wa_main_item_desc_cache">Limpiar el caché no influirá al uso normal</string>
+    <string name="global_wa_main_item_desc_cache">"Limpiar la caché no influirá en el uso normal"</string>
     <string name="global_wa_main_item_desc_chat">Puedes consultar los adjuntos en la siguiente página</string>
     <string name="global_wa_main_item_title_cache">Caché de aplicaciones</string>
     <string name="global_wa_main_item_title_chat">Adjuntos</string>
@@ -553,7 +553,7 @@
     <string name="pref_summary_garbage_cleanup_check_time">Programar una rutina de limpieza</string>
     <string name="pref_summary_garbage_process_mode">Configurar notificaciones para cuando se ejecute el limpiador</string>
     <string name="pref_summary_open_optimizer_cloud_scan">Subir y comparar nombres de archivo desconocidos con definiciones online</string>
-    <string name="pref_title_apps_cleanup_size">Cuando alcance el tamaño del caché</string>
+    <string name="pref_title_apps_cleanup_size">Cuando alcance el tamaño de la caché</string>
     <string name="pref_title_auto_clean">Limpiar automáticamente</string>
     <string name="pref_title_auto_clean_content_choose">Seleccionar elementos a limpiar</string>
     <string name="pref_title_auto_clean_operation">Método de limpieza</string>
@@ -602,7 +602,7 @@
     <string name="recommend_the_following">Realiza las siguientes acciones para aprovechar al máximo tu dispositivo</string>
     <string name="recommended">Destacado</string>
     <string name="resutl_function_deep_clean_summary">" "&lt;Data&gt;&lt;font color=#ff0000 >%1$s&lt;/font> más archivos pueden ser limpiados. Libera más espacio.&lt;/Data&gt;" "</string>
-    <string name="resutl_function_qq_clean_summary">" "&lt;Data&gt;Puedes borrar &lt;font color=#ff0000 >%1$s&lt;/font> del caché generado por QQ;&lt;/Data&gt;" "</string>
+    <string name="resutl_function_qq_clean_summary">" "&lt;Data&gt;Puedes borrar &lt;font color=#ff0000 >%1$s&lt;/font> de la caché generado por QQ;&lt;/Data&gt;" "</string>
     <string name="resutl_function_wechat_clean_summary">" "&lt;Data&gt;&lt;font color=#ff0000 >%1$s&lt;/font> de caché de WeChat. Libera más espacio.;&lt;/Data&gt;" "</string>
     <string name="sc_allow_network_dialog_button">Permitir</string>
     <string name="sc_allow_network_dialog_message">¿Permitir a esta app conectarse a Internet para recibir actualizaciones?</string>
