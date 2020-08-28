@@ -354,8 +354,8 @@
     <string name="battery_low_button_not_open_power_save">Ahora no</string>
     <string name="battery_low_button_open_power_save">Activar</string>
     <string name="battery_low_percent_format">%d%% restante</string>
-    <string name="battery_low_percent_format_save_mode_closed">Menos del %d%% de batería restante. Carga tu dispositivo.</string>
-    <string name="battery_low_percent_format_save_mode_open">Menos del %d%% de batería restante. Activa el modo Ahorro de batería para ahorrar energía.</string>
+    <string name="battery_low_percent_format_save_mode_closed">Queda menos del %d%% de batería. Carga tu dispositivo.</string>
+    <string name="battery_low_percent_format_save_mode_open">Queda menos del %d%% de batería. Activa el Ahorro de batería para ahorrar energía.</string>
     <string name="battery_low_percent_format_saver_started">%s restante. Ahorro de batería activado.</string>
     <string name="battery_low_title">Batería baja</string>
     <string name="battery_low_title_power_save">Ahorro de batería</string>
@@ -1490,7 +1490,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="power_remaining_duration_only_short">%1$s restante</string>
     <string name="power_remaining_duration_only_shutdown_imminent">"El teléfono puede apagarse pronto"</string>
     <string name="power_remaining_duration_shutdown_imminent">"El teléfono puede apagarse pronto (%1$s)"</string>
-    <string name="power_remaining_less_than_duration">"Menos del %1$s restante (%2$s)"</string>
+    <string name="power_remaining_less_than_duration">"Queda menos del %1$s (%2$s)"</string>
     <string name="power_remaining_less_than_duration_only">"Queda menos del %1$s"</string>
     <string name="power_remaining_more_than_subtext">"Más de %1$s restantes (%2$s)"</string>
     <string name="power_remaining_only_more_than_subtext">"Más de %1$s restantes"</string>
