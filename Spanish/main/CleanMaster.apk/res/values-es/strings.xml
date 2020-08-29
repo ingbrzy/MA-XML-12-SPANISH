@@ -307,7 +307,7 @@
     <string name="engine_tm">Tencent</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="facebook_clean_exit_confirm_cancel">Seguir escaneando</string>
-    <string name="facebook_clean_exit_confirm_msg">No se ha terminado de escanear Facebook todavía. ¿Desea detener ahora?</string>
+    <string name="facebook_clean_exit_confirm_msg">No se ha terminado de escanear Facebook todavía. ¿Detener el escaneo ahora?</string>
     <string name="facebook_clean_exit_confirm_ok">Detener</string>
     <string name="facebook_clean_exit_confirm_title">¿Detener escaneo?</string>
     <string name="facebook_cleaner">Limpiador de Facebook</string>
@@ -443,7 +443,7 @@
     <string name="hints_scanfinish">Sin basura</string>
     <string name="hints_storage_clean_size">Liberados %s de la memoria interna</string>
     <string name="hints_storage_free">Libre</string>
-    <string name="hints_storage_free_size">Total %1$s, %2$s disponible</string>
+    <string name="hints_storage_free_size">Total %1$s, %2$s disponibles</string>
     <string name="hints_storage_news">Noticias de seguridad</string>
     <string name="hints_title_garbage">basura</string>
     <string name="hints_video_camera">Vídeos capturados</string>
@@ -546,8 +546,8 @@
     <string name="pref_content_cleanup_white_list_none">Ninguno</string>
     <string name="pref_summary_auto_clean_and_alert">Programar el limpiador para ejecutarse automáticamente</string>
     <string name="pref_summary_auto_update_cleanup_db">Última actualización %s</string>
-    <string name="pref_summary_cleanup_white_list">Evitar que se haga limpieza de las apps seleccionadas</string>
-    <string name="pref_summary_expand_cache_group">Mostrar detalles de caché automáticamente</string>
+    <string name="pref_summary_cleanup_white_list">Evitar que se limpien los archivos seleccionados</string>
+    <string name="pref_summary_expand_cache_group">Mostrar detalles de la caché automáticamente</string>
     <string name="pref_summary_garbage_auto_clean_content">Selecciona qué elementos limpiar automáticamente</string>
     <string name="pref_summary_garbage_cleanup_check_size">Limpiar automáticamente cuando la papelera alcance un determinado tamaño</string>
     <string name="pref_summary_garbage_cleanup_check_time">Programar una rutina de limpieza</string>
