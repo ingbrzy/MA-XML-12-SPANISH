@@ -519,7 +519,7 @@
     <string name="character_counter_overflowed_content_description">Límite de caracteres excedido %1$d de %2$d</string>
     <string name="charge_length_format">hace %1$s</string>
     <string name="chooseUsbActivity">Selecciona una aplicación para el dispositivo USB</string>
-    <string name="choose_clock_panel_title">Diseño de pantalla de bloqueo</string>
+    <string name="choose_clock_panel_title">Diseño de la pantalla de bloqueo</string>
     <string name="choose_clock_third_theme_hint_text">Pantalla de bloqueo del tema aplicado actualmente</string>
     <string name="choose_clock_title_left_top">"Alineado a la izquierda"</string>
     <string name="choose_clock_title_middle">"Centrado"</string>
@@ -578,7 +578,7 @@
     <string name="data_connection_5g_uwb">5GUWB</string>
     <string name="data_connection_no_internet">No conectado a Internet</string>
     <string name="data_saver">Ahorro de datos</string>
-    <string name="data_saver_description">Para ayudar a activar el ahorro de datos, el Ahorrador de datos evita que algunas aplicaciones envíen y reciban datos de fondo. Una aplicación que estás utilizando actualmente puede acceder a los datos pero no frecuentemente. Esto podría significar por ejemplo que la imagen no se muestre hasta que pulses.</string>
+    <string name="data_saver_description">"Para ayudar a reducir el uso de datos, el Ahorro de datos evita que algunas aplicaciones envíen y reciban datos en segundo plano. Una aplicación que estés utilizando actualmente puede acceder a los datos, pero menos frecuentemente. Esto podría significar, por ejemplo, que las imágenes no se muestren hasta que las toques."</string>
     <string name="data_saver_enable_button">Activar</string>
     <string name="data_saver_enable_title">¿Activar el Ahorro de datos?</string>
     <string name="data_usage_disabled_dialog">"El límite de datos que fijaste ya ha sido alcanzado. Ya no estás usando datos móviles.
@@ -623,9 +623,9 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="dev_logpersist_clear_warning_title">¿Limpiar almacenamiento del logger persistente?</string>
     <string name="dev_settings_warning_message">Estos ajustes están diseñados solo para desarrolladores. Al activar estas características, tu dispositivo y aplicaciones podrían no funcionar correctamente o causar errores.</string>
     <string name="dev_settings_warning_title">¿Permitir ajustes de desarrollo?</string>
-    <string name="development_settings_enable">Activar opciones de desarrollador</string>
+    <string name="development_settings_enable">Habilitar opciones de desarrollador</string>
     <string name="development_settings_not_available">Las opciones de desarrollador no están disponibles para este usuario</string>
-    <string name="development_settings_summary">Ajustar opciones de desarrollo de app</string>
+    <string name="development_settings_summary">Establecer opciones de desarrollo de aplicaciones</string>
     <string name="development_settings_title">Opciones de desarrollador</string>
     <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Nota: Solo podrás usar este teclado después de un reinicio si desbloqueas tu dispositivo.</string>
@@ -1141,7 +1141,7 @@ d MMMM"</string>
     <string name="lock_screen_no_sim_card_emergency_only">Solo llamadas de emergencia</string>
     <string name="lock_screen_no_sim_card_no_service">Sin servicio</string>
     <string name="lock_screen_signature_msg">Mostrar firma en la pantalla de bloqueo</string>
-    <string name="lock_screen_signature_title">Información del propietario de la pantalla de bloqueo</string>
+    <string name="lock_screen_signature_title">Información del propietario en la pantalla de bloqueo</string>
     <string name="lock_wallpaper_enter">Introducir</string>
     <string name="lock_wallpaper_learn_more">Más</string>
     <string name="lockscreen_access_pattern_area">Área del patrón.</string>
@@ -2103,8 +2103,8 @@ Cualquier usuario puede actualizar aplicaciones para otros."</string>
     <string name="v7_preference_on">"ENCENDIDO"</string>
     <string name="verify_apps_over_usb_summary">Verificar comportamiento dañino de apps instaladas via ADB/ADT.</string>
     <string name="verify_apps_over_usb_title">Verificar apps a través de USB</string>
-    <string name="voice_assist_label">Abrir Asistente de voz</string>
-    <string name="voice_hint">Desliza desde el ícono para abrir Asistente de Voz</string>
+    <string name="voice_assist_label">Abrir asistente de voz</string>
+    <string name="voice_hint">Desliza desde el ícono para abrir el asistente de voz</string>
     <string name="volume_and_do_not_disturb">No molestar</string>
     <string name="volume_dialog_accessibility_dismissed_message">Controles de volumen ocultos</string>
     <string name="volume_dialog_accessibility_shown_message">%s controles de volumen mostrados. Desliza a la derecha para desestimar.</string>
@@ -2168,10 +2168,10 @@ Cualquier usuario puede actualizar aplicaciones para otros."</string>
     <string name="wifi_cant_connect_to_ap">"No se puede conectar a '%1$s'"</string>
     <string name="wifi_check_password_try_again">"Verifique la contraseña y vuelva a intentarlo"</string>
     <string name="wifi_connected_mac_randomization">"Aleatorización de MAC conectada"</string>
-    <string name="wifi_connected_mac_randomization_summary">"Aleatorizar la dirección MAC al conectarse a redes WLAN"</string>
+    <string name="wifi_connected_mac_randomization_summary">"Aleatorizar la dirección MAC al conectarse a redes Wi-Fi"</string>
     <string name="wifi_connected_no_internet">Conectado, sin Internet</string>
-    <string name="wifi_coverage_extend">"Activar extensión de cobertura WLAN"</string>
-    <string name="wifi_coverage_extend_summary">"Amplíe la cobertura WLAN usando un punto de acceso"</string>
+    <string name="wifi_coverage_extend">"Activar extensión de cobertura Wi-Fi"</string>
+    <string name="wifi_coverage_extend_summary">"Amplía la cobertura Wi-Fi usando un punto de acceso"</string>
     <string name="wifi_disabled_by_recommendation_provider">Sin conectar debido a la baja calidad de la red</string>
     <string name="wifi_disabled_generic">Deshabilitado</string>
     <string name="wifi_disabled_network_failure">No se puede configurar la IP</string>
