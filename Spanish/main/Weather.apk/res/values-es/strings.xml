@@ -2,7 +2,7 @@
 <resources>
     <string name="about_weather_setting">Acerca de Tiempo</string>
     <string name="about_weather_setting_feedback">Comentarios</string>
-    <string name="abrupt_weather_settings_summary_type">Recibir alertas sobre previsiones de lluvia, cambios en la calidad del aire y otros cambios significativos</string>
+    <string name="abrupt_weather_settings_summary_type">Recibir alertas sobre posibles lluvias, variaciones en la calidad del aire y otros cambios significativos</string>
     <string name="abrupt_weather_settings_summary_type_a">Interruptor de advertencia de tiempo inusual</string>
     <string name="abrupt_weather_settings_summary_type_b">Interruptor de advertencia de tiempo inusual</string>
     <string name="abrupt_weather_settings_title">Aviso de tiempo inusual</string>
@@ -41,8 +41,8 @@
     <string name="app_name">Tiempo</string>
     <string name="aqi_data_source">Desarrollado por Colorful Clouds</string>
     <string name="aqi_desc">Índice de Calidad del Aire</string>
-    <string name="aqi_detail_24_hours">Previsión para 24 horas</string>
-    <string name="aqi_detail_5_days">Previsión para 5 días</string>
+    <string name="aqi_detail_24_hours">Pronóstico para 24 horas</string>
+    <string name="aqi_detail_5_days">Pronóstico para 5 días</string>
     <string name="aqi_detail_co_unit">Unidad: mg/m³</string>
     <string name="aqi_detail_title">Índice de calidad del aire</string>
     <string name="aqi_detail_unit">Unidad: µg/m³</string>
@@ -52,10 +52,10 @@
     <string name="aqi_publish_time">Actualizado %1$s</string>
     <string name="aqi_quality_ambient_air_quality">Calidad del aire en las proximidades</string>
     <string name="aqi_quality_co_desc">Monóxido de carbono</string>
-    <string name="aqi_quality_detail_15_days">Previsión para 15 días</string>
-    <string name="aqi_quality_detail_24_hours">Previsión para 24 horas</string>
-    <string name="aqi_quality_detail_48_hours">Previsión para 48 horas</string>
-    <string name="aqi_quality_detail_5_days">Previsión para 5 días</string>
+    <string name="aqi_quality_detail_15_days">Pronóstico para 15 días</string>
+    <string name="aqi_quality_detail_24_hours">Pronóstico para 24 horas</string>
+    <string name="aqi_quality_detail_48_hours">Pronóstico para 48 horas</string>
+    <string name="aqi_quality_detail_5_days">Pronóstico para 5 días</string>
     <string name="aqi_quality_major_pollutants">Contaminantes principales</string>
     <string name="aqi_quality_map_title">Mapa de calidad del aire</string>
     <string name="aqi_quality_no2_desc">Dióxido de nitrógeno</string>
@@ -132,8 +132,8 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">Ahora</string>
     <string name="hourly_forecast_date">dd/MM</string>
-    <string name="hourly_forecast_title_24_hours_desc">Previsión para 24 horas</string>
-    <string name="hourly_forecast_title_hourly_desc">Previsión por horas</string>
+    <string name="hourly_forecast_title_24_hours_desc">Pronóstico para 24 horas</string>
+    <string name="hourly_forecast_title_hourly_desc">Pronóstico por horas</string>
     <string name="index_item_downloading">Descargando</string>
     <string name="index_item_experience_now">Instalar ahora</string>
     <string name="index_item_install_dialog" />
@@ -162,7 +162,7 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="location_tag">Localizar</string>
     <string name="menu_location">Ubicaciones</string>
     <string name="menu_speaker">Transmisión de voz</string>
-    <string name="minute_rain">Previsión de precipitaciones</string>
+    <string name="minute_rain">Pronóstico de precipitaciones</string>
     <string name="minute_rain_after_an_hour">En 1 hora</string>
     <string name="minute_rain_after_two_hour">En 2 horas</string>
     <string name="minute_rain_feedback_subtitle">Cuéntanos cómo está el tiempo.</string>
@@ -232,7 +232,7 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="reminder_from_xiaomi_weather_app">Alertas Mi Tiempo</string>
     <string name="retry">Intentar de nuevo</string>
     <string name="search_weather">El tiempo</string>
-    <string name="search_weather_keywords">Temperatura;Previsión meteorológica;Tiempo;Calidad del aire;Grado de contaminación;Humedad</string>
+    <string name="search_weather_keywords">Temperatura;Previsión meteorológica;Pronóstico meteorológico;Tiempo;Calidad del aire;Grado de contaminación;Humedad</string>
     <string name="set">Ajustes</string>
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>
@@ -250,8 +250,8 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="share_weather_desc">\#MIUI Tiempo#Hoy %1$s %2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">No se puede obtener captura de pantalla</string>
-    <string name="shortcut_short_label_24_hour_forecast">Previsión para 24 horas</string>
-    <string name="shortcut_short_label_recent_forecast">Consulta el tiempo</string>
+    <string name="shortcut_short_label_24_hour_forecast">Pronóstico 24 horas</string>
+    <string name="shortcut_short_label_recent_forecast">Consultar el tiempo</string>
     <string name="some_where_on_earth">En algún lugar de la Tierra</string>
     <string name="sunrise">Amanecer</string>
     <string name="sunset">Puesta de sol</string>
