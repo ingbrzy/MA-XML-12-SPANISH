@@ -1217,10 +1217,10 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="function_gwsd_detail">Acerca de esta función: 1. Las llamadas entrantes a su SIM de datos no interrumpirán la conexión de datos móviles. La conexión se interrumpirá solo cuando conteste una llamada. 2. Cuando esta función está activada, la persona que llama no escuchará los tonos de llamada en espera. Las llamadas entrantes finalizarán a menos que responda dentro de los 6 segundos. 3. Esta función solo funciona para tarjetas SIM de datos. Las llamadas a su SIM principal interrumpirán la conexión de datos móviles. 4. Esta característica solo es compatible con China Mobile y China Unicom.</string>
     <string name="function_gwsd_title">"No permitir que las llamadas entrantes interrumpan la conexión SIM de datos"</string>
     <string name="function_shield_auto_bright">Desactiva el brillo automático</string>
-    <string name="function_shield_eye_shield">Desactiva el modo de lectura</string>
+    <string name="function_shield_eye_shield">Desactiva el modo lectura</string>
     <string name="function_shield_pull_notification_bar">No abra el tono de notificación</string>
     <string name="function_shield_settings_title">Restringe las siguientes funciones cuando juegas</string>
-    <string name="function_shield_summary">Restringir el brillo automático, los gestos de captura de pantalla y el modo de lectura</string>
+    <string name="function_shield_summary">Restringir el brillo automático, los gestos de captura de pantalla y el modo lectura</string>
     <string name="function_shield_summary_m">Restringir el brillo automático y los gestos de captura de pantalla</string>
     <string name="function_shield_three_finger">Restringir gestos de captura de pantalla</string>
     <string name="function_shield_title">Experiencia mejorada</string>
@@ -1231,7 +1231,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="fw_oversea">Bloquear llamadas desde el extranjero</string>
     <string name="fw_oversea_content">Bloquear llamadas entrantes desde números de teléfono extranjeros</string>
     <string name="game_ad_recommendation">Todos están jugando</string>
-    <string name="game_anti_disturb_msg">No molestar videojuego</string>
+    <string name="game_anti_disturb_msg">No molestar en juegos</string>
     <string name="game_booster">Game Turbo</string>
     <string name="game_booster_close">Acelerador de velocidad de juegos deshabilitado</string>
     <string name="game_booster_intro">Acerca del acelerador de velocidad en el juego</string>
@@ -1299,7 +1299,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="gb_advance_settings_edge_gear3">Medio</string>
     <string name="gb_advance_settings_edge_gear4">Grande</string>
     <string name="gb_advance_settings_edge_suppression">Área resistente al tacto</string>
-    <string name="gb_advance_settings_edge_suppression_summary">Reduzca la sensibilidad táctil cerca de los bordes para evitar activar los controles táctiles. Sujete su dispositivo por las áreas resaltadas para mantener los altavoces descubiertos.</string>
+    <string name="gb_advance_settings_edge_suppression_summary">Reduce la sensibilidad táctil cerca de los bordes para evitar activar los controles táctiles. Sujeta tu dispositivo por las áreas resaltadas para mantener los altavoces descubiertos.</string>
     <string name="gb_advance_settings_finger_up">Sensibilidad a golpes repetidos</string>
     <string name="gb_advance_settings_follow_up">Respuesta táctil</string>
     <string name="gb_advance_settings_reset">Restaurar la configuración predeterminada</string>
@@ -1308,7 +1308,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="gb_advance_settings_screen_display">Monitor</string>
     <string name="gb_advance_settings_screen_hdr">Imágenes mejoradas</string>
     <string name="gb_advance_settings_screen_hdr_gear1">Original</string>
-    <string name="gb_advance_settings_screen_hdr_gear2">Moderar</string>
+    <string name="gb_advance_settings_screen_hdr_gear2">Moderado</string>
     <string name="gb_advance_settings_screen_hdr_gear3">Fuerte</string>
     <string name="gb_advance_settings_screen_hdr_gear4">Extremo</string>
     <string name="gb_advance_settings_screen_hdr_summary">Aumenta el contraste y mejora los detalles de los juegos.</string>
@@ -1380,8 +1380,8 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="gb_signed_title">Registrado este mes</string>
     <string name="gb_sound_audition">Probar</string>
     <string name="gb_storage_game_uninstall">Desinstalar juegos</string>
-    <string name="gb_storage_summary">"No mostrar los juegos que se añadieron al panel de juegos en la Pantalla de inicio"</string>
-    <string name="gb_storage_title">Eliminar juegos añadidos de la Pantalla de inicio</string>
+    <string name="gb_storage_summary">"No mostrar en la pantalla de inicio los juegos que se añadieron al panel de juegos"</string>
+    <string name="gb_storage_title">Eliminar de la pantalla de inicio los juegos recién añadidos</string>
     <string name="gb_voice_change_settinged">El modificador de voz está activado</string>
     <string name="gb_voice_changer_cartoon">Dibujo animado</string>
     <string name="gb_voice_changer_dlg_button_agree">Permitir</string>
@@ -1416,7 +1416,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
 	%d: 0 Original: 0 -->
      <!-- Original string: La aplicación requiere el Marco de Servicios de Google para funcionar con normalidad, ¿descargar e instalarlo? -->
     <string name="google_base_app_install_choice">\"%s\" requiere el Marco de Servicios de Google para funcionar con normalidad, ¿descargar e instalarlas?</string>
-    <string name="gs_advanced_setting_summary">Configuraciones para juegos individuales</string>
+    <string name="gs_advanced_setting_summary">Ajustes para cada juego</string>
     <string name="gs_advanced_setting_title">Ajustes adicionales</string>
     <string name="gs_anto_clean_memory_whitelist">Excepciones</string>
     <string name="gs_app_back_self_start">Ahorro de batería</string>
@@ -2110,8 +2110,8 @@ Esta actividad acorta la vida de la batería."</string>
     <string name="pc_to_phone_install">Instalación bloqueada de %s vía USB</string>
     <string name="per_month_pkg_traffic_settings">Establecer límite de datos</string>
     <string name="percent_formatted_text">%s%%</string>
-    <string name="perfermance_optimization_summary">Evite el sobrecalentamiento y los problemas relacionados con el hardware.</string>
-    <string name="perfermance_optimization_title">Optimización del rendimiento</string>
+    <string name="perfermance_optimization_summary">Evitar el sobrecalentamiento y los problemas relacionados con el hardware</string>
+    <string name="perfermance_optimization_title">Optimizar el rendimiento</string>
     <string name="perm_intercept_content">¿Dar a esta aplicación el siguiente permiso: %1s?</string>
     <string name="perm_intercept_notification_title">Permitir que %1s use las notificaciones permitirá que esta aplicación realice las siguientes acciones:</string>
     <string name="perm_intercept_privacy_content">Estas acciones podrían exponer tus datos personales. ¿Conceder el permiso (%1s) de todos modos?</string>
