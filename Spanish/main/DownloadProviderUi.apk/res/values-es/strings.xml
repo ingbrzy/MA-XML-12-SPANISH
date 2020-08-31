@@ -14,6 +14,7 @@
     <string name="apk_filter">APK</string>
     <string name="app_label">Descargas</string>
     <string name="auth_fail">No se ha podido obtener autorización</string>
+    <string name="bt_download">Descargar</string>
     <string name="bt_path_not_exit">Esta ruta no existe</string>
     <string name="bt_restart_dialog_message">¿Reiniciar todas las descargas en la carpeta BT?</string>
     <string name="bt_restart_dialog_title">Reiniciar todas las descargas</string>
@@ -21,6 +22,7 @@
     <string name="button_sort_by_size">Por tamaño</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_running_download">Cancelar</string>
+    <string name="cancle">Cancelar</string>
     <string name="check_new_downloaded_action">Ver</string>
     <string name="check_new_downloaded_file">Un nuevo archivo encontrado</string>
     <string name="clear_data">Borrar</string>
@@ -55,6 +57,7 @@
     <string name="delete_downloads_records">Eliminar descargas</string>
     <string name="delete_the_downloaded_file">Se eliminarán los archivos descargados.</string>
     <string name="deselect_all">Deseleccionar todo</string>
+    <string name="determine">Aceptar</string>
     <string name="dialog_btn_cancel">Cancelar</string>
     <string name="dialog_btn_ok">Aceptar</string>
     <string name="dialog_btn_ok_disabled_net">Ajustes de red</string>
@@ -252,6 +255,20 @@
     <string name="setting_open_debug">Modo depuración activado. Pulsa aquí 6 veces para desactivarlo.</string>
     <string name="show_more">Mostrar %s más</string>
     <string name="sniff_copyright_text">No se pueden mostrar los resultados debido a problemas con los derechos de autor</string>
+    <string name="speed_entrance">Probar velocidad del Wi-Fi</string>
+    <string name="speed_result_broadband_text1">Velocidad de descarga actual</string>
+    <string name="speed_result_broadband_text2">%s del ancho de banda</string>
+    <string name="speed_result_broadband_text3">Ancho de banda</string>
+    <string name="speed_result_finish">Done</string>
+    <string name="speed_result_restart">Probar de nuevo</string>
+    <string name="speed_start">Probar</string>
+    <string name="speed_stop">Cancelar</string>
+    <string name="speed_tip_netwrok_fail">Ocurrió un error de red, inténtalo de nuevo</string>
+    <string name="speed_tip_netwrok_timeout">Se agotó el tiempo de conexión, vuelve a intentarlo.</string>
+    <string name="speed_tip_no_netwrok">"No se pudo conectar a la red. Conéctate y vuelve a intentarlo."</string>
+    <string name="speed_title">Probar velocidad del Wi-Fi</string>
+    <string name="speed_title_result">Probar velocidad del Wi-Fi</string>
+    <string name="start_analysis">Probar ahora</string>
     <string name="start_download">Descargar</string>
     <string name="storage_internal">Almacenamiento interno</string>
     <string name="storage_sd_card">Tarjeta SD</string>
@@ -261,6 +278,13 @@
     <string name="subbt_pause">En pausa</string>
     <string name="subbt_wait">Esperando…</string>
     <string name="subfile_list">Archivos</string>
+    <string name="third_web_cancel">Cancelar</string>
+    <string name="third_web_confirm">Aceptar</string>
+    <string name="third_web_default">Recordar esta ubicación</string>
+    <string name="third_web_filename_hint">Nombre</string>
+    <string name="third_web_filesize">Tamaño</string>
+    <string name="third_web_savepath">Ubicación</string>
+    <string name="third_web_title">Descargar</string>
     <string name="task_detail">Tareas</string>
     <string name="task_detail_notfound_confirm">Aceptar</string>
     <string name="task_fail">No se pudo completar la operación</string>
@@ -268,4 +292,6 @@
     <string name="total_speedup">Aumento de velocidad (total)</string>
     <string name="version">Versión %s</string>
     <string name="xunlei_open_info">¿Usar Xunlei Engine para abrir estos links?</string>
+    <string name="web_dialog_cancel">Cancelar</string>
+    <string name="web_dialog_confirm">Aceptar</string>
 </resources>
