@@ -751,8 +751,8 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Datos móviles) Restablece tus %s1ajustes APN%s2.</string>
     <string name="miuichromium_error_page_suggestion_check_url">Comprueba la URL a la que has accedido.</string>
     <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Verifica tu %s1ajustes de proxy%s2.</string>
-    <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Borra el caché (%s1Ajustes%s2 - Borrar datos).</string>
-    <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Borra el caché y las cookies (%s1Ajustes%s2 - Borrar datos, se perderá la información de tu cuenta).</string>
+    <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Borra la caché (%s1Ajustes%s2 - Borrar datos).</string>
+    <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Borra la caché y las cookies (%s1Ajustes%s2 - Borrar datos, se perderá la información de tu cuenta).</string>
     <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Borrar caché y cookies (la información de tu cuenta se puede perder).</string>
     <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">Borrar caché.</string>
     <string name="miuichromium_error_page_suggestion_connect_and_retry">Volver a cargar después de conectarse a Internet.</string>
@@ -954,18 +954,8 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Datos móviles) Restablece tus %s1ajustes APN%s2.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_url">Comprueba la URL a la que has accedido.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Verifica tu %s1ajustes de proxy%s2.</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 0
-	%s: 2 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Borrar caché. -->
-    <string name="mw_miuichromium_error_page_suggestion_clear_cache" formatted="false">Borra el caché (%s1Ajustes%s2 - Borrar datos).</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 0
-	%s: 2 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Borrar caché y cookies (la información de tu cuenta se puede perder). -->
-    <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Borra el caché y las cookies (%s1Ajustes%s2 - Borrar datos, se perderá la información de tu cuenta).</string>
-    <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Borrar caché y cookies (la información de tu cuenta se puede perder).</string>
-    <string name="mw_miuichromium_error_page_suggestion_clear_cache_no_invoke">Borrar caché.</string>
+    <string name="mw_miuichromium_error_page_suggestion_clear_cache">Borra la caché.</string>
+    <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">Borra la caché y las cookies (la información de tu cuenta podría perderse).</string>
     <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Volver a cargar después de conectarse a Internet</string>
     <string name="mw_miuichromium_error_page_suggestion_contact_admin">Contacta con el administrador del sistema.</string>
     <string name="mw_miuichromium_error_page_suggestion_correct_url">Comprueba la dirección a la que has accedido y reintenta usando la URL correcta.</string>

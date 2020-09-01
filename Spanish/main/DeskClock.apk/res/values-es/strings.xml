@@ -32,11 +32,7 @@
     <string name="add_timer">Temporizador frecuente</string>
     <string name="add_timezone_title">Añadir zona horaria</string>
     <string name="agree">Aceptar</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 1
-	%s: 0 Original: 1
-	%d: 1 Original: 0 -->
-     <!-- Original string: La alarma se silenciará después de %1$s. -->
-    <string name="alarm_alert_alert_silenced">La alarma se silenciará después de %d minutos.</string>
+    <string name="alarm_alert_alert_silenced">La alarma se silenciará después de %1$s.</string>
     <string name="alarm_alert_disabled">Desactivado</string>
     <string name="alarm_alert_snooze_set">Silenciado %d minutos.</string>
     <string name="alarm_ascending_mode_summary">El volumen de la alarma aumentará gradualmente</string>
@@ -61,6 +57,7 @@
     <string name="alarmclock_silent_hint">La alarma está en silencio</string>
     <string name="alert">Tono de alarma</string>
     <string name="alert_ringtone">Tono de alarma</string>
+    <string name="alert_vibrate_enable_summary">Vibrar cuando suene la alarma</string>
     <string name="alert_volume">Volumen del tono de llamada</string>
     <string name="alert_volume_summary">Establecer el volumen del tono de llamada para alarmas y temporizadores</string>
     <string name="already_exist">Este temporizador ya existe</string>
@@ -68,34 +65,34 @@
     <string name="app_label">Reloj</string>
     <string name="app_name">Preferencia</string>
     <string name="auto_silence_never">Nunca</string>
-    <string name="auto_silence_summary">Establecer hora después de la cual se silenciarán las alarmas y los temporizadores</string>
+    <string name="auto_silence_summary">Establecer tiempo después del cual se silenciarán las alarmas y los temporizadores</string>
     <string name="auto_silence_title">Autosilenciar</string>
     <string name="back">Salir</string>
     <string name="battery_charging_level">%d%%</string>
-    <string name="bedtime">Hora de acostarte</string>
+    <string name="bedtime">Hora de acostarse</string>
     <string name="bedtime_analysis_more">Más datos</string>
     <string name="bedtime_banner_desc">Dormir bien es importante</string>
-    <string name="bedtime_banner_guide_desc">Programa tu hora de acostarte</string>
-    <string name="bedtime_guide_back_desc">No podrás recibir alertas para acostarte si sales ahora. ¿Salir de todas formas?</string>
+    <string name="bedtime_banner_guide_desc">Programa tu hora de acostarse</string>
+    <string name="bedtime_guide_back_desc">"No podrás recibir alertas para acostarse si sales ahora. ¿Salir de todas formas?"</string>
     <string name="bedtime_manage">Hora de acostarse</string>
     <string name="bedtime_manage_desc">Programa recordatorios para la hora de acostarse y haz un seguimiento de tu sueño</string>
-    <string name="bedtime_manage_open">Programa tu hora de acostarte</string>
+    <string name="bedtime_manage_open">Programa tu hora de acostarse</string>
     <string name="bedtime_manage_tip">Gestiona aquí la hora de acostarse</string>
-    <string name="bedtime_not_open_text">Tus estadísticas aparecerán aquí después de comenzar a usar los recordatorios para acostarte</string>
+    <string name="bedtime_not_open_text">Tus estadísticas aparecerán aquí después de comenzar a usar los recordatorios para acostarse</string>
     <string name="bedtime_repeat_desc">Días en los que recibes recordatorios</string>
     <string name="bedtime_repeat_type">Programar</string>
     <string name="bedtime_setting_complete">¡Qué duermas bien!</string>
-    <string name="bedtime_setting_complete_desc">Sigue tu nuevo horario para acostarte y así funcionar de la mejor forma posible</string>
+    <string name="bedtime_setting_complete_desc">Sigue tu nuevo horario para acostarse y así funcionar de la mejor forma posible</string>
     <string name="bedtime_setting_no_disturbance">¿Cambiar al modo No molestar mientras duermes?</string>
     <string name="bedtime_setting_no_disturbance_desc">Los tonos de llamada, sonidos de notificaciones y vibración estarán silenciados hasta que te despiertes</string>
-    <string name="bedtime_setting_repeat_type">¿Cuándo se aplicará tu horario para acostarte?</string>
+    <string name="bedtime_setting_repeat_type">¿Cuándo se aplicará tu horario para acostarse?</string>
     <string name="bedtime_setting_repeat_type_desc">Selecciona los días en los que recibirás recordatorios</string>
-    <string name="bedtime_settings">Ajustes de la hora de acostarte</string>
+    <string name="bedtime_settings">Ajustes de la hora de acostarse</string>
     <string name="bedtime_sleep_time_remind">Se te recordará irte a la cama 15 minutos antes de esta hora</string>
     <string name="bedtime_sleep_time_setting">¿Cuándo te irás a la cama?</string>
     <string name="bedtime_wake_up_time_remind">Una alarma sonará a esta hora</string>
     <string name="bedtime_wake_up_time_setting">¿Cuándo te levantarás?</string>
-    <string name="bedtime_welcome">Gestiona tu hora de acostarte</string>
+    <string name="bedtime_welcome">Gestiona tu hora de acostarse</string>
     <string name="bedtime_welcome_desc">Mantener un horario de sueño regular y constante es beneficioso para tu salud. Establece recordatorios para ayudarte a irte a la cama y levantarte cada día.</string>
     <string name="birthday_alarm">Alarma de cumpleaños</string>
     <string name="birthday_alarm_summary">Reproducir \"Cumpleaños Feliz\" en vez del sonido de alarma predeterminado cuando sea tu cumpleaños</string>
@@ -164,6 +161,7 @@
     <string name="force_touch_add_alarm">Añadir alarma</string>
     <string name="force_touch_enter_stopwatch">Cronómetro</string>
     <string name="force_touch_enter_timer">Temporizador</string>
+    <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
     <string name="go_back">Atrás</string>
     <string name="holiday_update">Hay una actualización disponible de las vacaciones públicas</string>
     <string name="holiday_update_fail">No se pudo actualizar</string>
@@ -235,7 +233,7 @@
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tire hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelte para actualizar</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
@@ -338,10 +336,10 @@
     <string name="shortcut_start_timer">Iniciar temporizador</string>
     <string name="shortcut_stop_watch">Iniciar cronómetro</string>
     <string name="shut_down_keep_screen">La pantalla no se mantendrá encendida</string>
-    <string name="shutdown_alarm_alert_enable_summary">Las alarmas de apagado se apagarán al menos 10 minutos después de que apague su dispositivo</string>
+    <string name="shutdown_alarm_alert_enable_summary">Las alarmas con el teléfono apagado sonarán al menos 10 minutos después de que apagues tu dispositivo</string>
     <string name="shutdown_alarm_alert_title">Alarma con teléfono apagado</string>
-    <string name="shutdown_alarm_disable_summary">La alarma no sonará con el teléfono apagado</string>
-    <string name="shutdown_alarm_enable_summary">La alarma sonará con el teléfono apagado</string>
+    <string name="shutdown_alarm_disable_summary">"La alarma no sonará con el teléfono apagado"</string>
+    <string name="shutdown_alarm_enable_summary">"La alarma sonará con el teléfono apagado si ha sido establecida para al menos 10 minutos después de apagar el dispositivo"</string>
     <string name="shutdown_alarm_title">Apagado de alarma</string>
     <string name="silent_alarm_summary">Silencio</string>
     <string name="skip_alarm_once_hint">Desactivar una vez el %s</string>
@@ -356,14 +354,14 @@
     <string name="sleep_no_disturbance">Modo No molestar</string>
     <string name="sleep_no_disturbance_desc">Cambia al modo No molestar hasta que te despiertes</string>
     <string name="sleep_no_record_text">Comienza a hacer un seguimiento de tu sueño para ver las estadísticas</string>
-    <string name="sleep_notification_desc">Sigue tu horario para acostarte</string>
+    <string name="sleep_notification_desc">Sigue tu horario de acostarse</string>
     <string name="sleep_notification_title">Hora de irse a la cama</string>
     <string name="sleep_record">Seguimiento del sueño</string>
     <string name="sleep_record_desc">Activar para comenzar a registrar datos de sueño</string>
     <string name="sleep_record_desc_detailed">La funcionalidad de seguimiento del sueño es proporcionada por Xiaomi Health. Una vez activado, Xiaomi Health registra automáticamente tu sueño en función del uso de tu teléfono, las estadísticas de actividad, así como el tiempo en que te duermes y te despiertas, y te muestra estadísticas en forma de gráficos. Para hacer un seguimiento de tu sueño con mayor precisión, permite que Xiaomi Health se inicie automáticamente. Todos los datos relacionados se almacenarán localmente en tu dispositivo, lo que te permite administrarlos fácilmente.</string>
     <string name="sleep_record_no_data">Tus estadísticas aparecerán después de que Xiaomi Health analice los suficientes datos</string>
-    <string name="sleep_remind">Recordatorio para acostarte</string>
-    <string name="sleep_time">Quedarse dormido</string>
+    <string name="sleep_remind">Recordatorio para acostarse</string>
+    <string name="sleep_time">Dormirse</string>
     <string name="slider_text">Desliza hacia arriba para desactivar</string>
     <string name="snooze_confirm_cancel">Descartar alarma</string>
     <string name="snooze_duration">Repetición</string>
@@ -385,15 +383,11 @@
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="time_picker_label_second">S</string>
-    <string name="time_settings">Ajustes de Reloj</string>
+    <string name="time_settings">Ajustes del reloj</string>
     <string name="timer_alarm_alert_pad">%s</string>
     <string name="timer_alarm_cancel_pad">Toca la pantalla para detener la alarma</string>
     <string name="timer_alarm_dot_matrix_label">TEMPORIZADOR</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 1
-	%s: 0 Original: 1
-	%d: 1 Original: 0 -->
-     <!-- Original string: El temporizador se silenciará después de %1$s. -->
-    <string name="timer_alert_alert_silenced">El temporizador se silenciará después de %d minutos.</string>
+    <string name="timer_alert_alert_silenced">El temporizador se silenciará después de %1$s.</string>
     <string name="timer_alert_mute_off">La alarma sonará cuando el temporizador se detenga</string>
     <string name="timer_alert_mute_on">La alarma no sonará cuando el temporizador se detenga</string>
     <string name="timer_alert_mute_remind">Toca para desactivar la alarma</string>
@@ -450,13 +444,13 @@
     <string name="v7_preference_on">ACTIVADA</string>
     <string name="vibrate_pref_summary">Vibrar cuando suene la alarma</string>
     <string name="vibrate_when_ringing">Vibrar al sonar</string>
-    <string name="volume_button_setting_desc">Asigna funciones para los botones de Encendido y Volumen +/-</string>
+    <string name="volume_button_setting_desc">Asignar funciones para los botones de Encendido y Volumen +/-</string>
     <string name="volume_button_setting_summary">Establecer función para los botones de volumen durante la alarma</string>
     <string name="volume_button_setting_title">Botones de volumen</string>
     <string name="wake_up_alert">Alarma</string>
-    <string name="wake_up_alert_desc">Reproducir sonido de alarma a la hora de despertarte</string>
+    <string name="wake_up_alert_desc">Reproducir sonido de alarma a la hora de despertarse</string>
     <string name="wake_up_ringtone">Tono de alarma</string>
-    <string name="wake_up_time">Despertar</string>
+    <string name="wake_up_time">Despertarse</string>
     <string name="workday_alarm_clock">Alarma de días laborables</string>
     <string name="worldclock_empty_text">No hay relojes</string>
     <string name="worldclock_input_hint_text">Introducir ciudad</string>

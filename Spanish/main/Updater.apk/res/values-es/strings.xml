@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Actualizador</string>
-    <string name="battery_islow">Conecta el cargador</string>
-    <string name="battery_islow_desc">El nivel de la batería es demasiado bajo para instalar el archivo zip de forma segura, conecte el cargador y vuelva a intentarlo más tarde.</string>
+    <string name="battery_islow"><font color=#f37981>Conecta el cargador</font></string>
+    <string name="battery_islow_desc">El nivel de la batería es demasiado bajo para instalar el archivo zip de forma segura, conecta el cargador y vuelve a intentarlo más tarde.</string>
     <string name="btn_changelog">Registro de cambios</string>
     <string name="btn_download">Descargar (%1$s)</string>
-    <string name="btn_error">Ha ocurrido un error, ¿Desea intentarlo otra vez?</string>
+    <string name="btn_error">Ha ocurrido un error, ¿Deseas intentarlo de nuevo?</string>
     <string name="btn_install">Instalar</string>
     <string name="btn_no">Cancelar</string>
     <string name="btn_ok">Aceptar</string>
     <string name="btn_pause">Pausar</string>
     <string name="btn_share">Compartir</string>
     <string name="btn_stop">Detener</string>
-    <string name="btn_wrong_md5">MD5 erroneo, haga clic para eliminar ROM!</string>
+    <string name="btn_wrong_md5">MD5 erroneo, haz clic para eliminar la ROM!</string>
     <string name="btn_yes">Sí</string>
     <string name="channel_downloading">Progreso de la descarga</string>
-    <string name="channel_service">Servicio en segundo plano de Actualizador</string>
+    <string name="channel_service">Servicio en segundo plano del Actualizador</string>
     <string name="channel_update">Nueva versión disponible</string>
     <string name="check_new_version">Comprobar</string>
     <string name="default_filedownloader_notification_content">FileDownloader se está ejecutando.</string>
@@ -27,15 +27,15 @@
     <string name="dialog_stop_desc">¿Seguro que quiere detener la descarga? Todo el progreso se perderá y no se podrá reanudar. El siguiente intento de descarga comenzará desde el principio.</string>
     <string name="dialog_stop_title">¿Detener la descarga?</string>
     <string name="dialog_twrp">Tu almacenamiento interno está encriptado. Después de reiniciar el dispositivo al modo Recovery, introduce la contraseña de desbloqueo de tu dispositivo para continuar.</string>
-    <string name="download_done">¡Descarga exitosa!</string>
+    <string name="download_done">¡Descargado con éxito!</string>
     <string name="download_fail">¡Error mientras se descargaba!</string>
     <string name="download_fail_desc">MD5 no coincide…</string>
     <string name="downloading">Descargando:</string>
-    <string name="downloading_desc">La descarga está en curso, puede comprobar el progreso en la barra de notificaciones.</string>
-    <string name="fetching_data">Obteniendo enlace de descarga, por favor espere…</string>
+    <string name="downloading_desc">La descarga está en curso, puedes comprobar el progreso en la barra de notificaciones.</string>
+    <string name="fetching_data">Obteniendo enlace de descarga, por favor espera…</string>
     <string name="install_desc">"El dispositivo se reiniciará al modo Recovery e instalará el archivo: %1$s\"
 Los datos no serán borrados.\""</string>
-    <string name="install_title">¿Está seguro de querer continuar?</string>
+    <string name="install_title">¿Estás seguro de querer continuar?</string>
     <string name="menu_title_current_version_log">¿Qué hay nuevo?</string>
     <string name="menu_title_pick_rom_file">Elegir el paquete de actualización</string>
     <string name="menu_title_recovery">Reiniciar al modo Recovery</string>
@@ -62,12 +62,12 @@ Las actualizaciones no están disponibles!"</string>
     <string name="permlab_reboot">Reiniciar el acceso</string>
     <string name="pick_not_found">No se encontró ningún Gestor de archivos adecuado.</string>
     <string name="pick_title">Seleccionar usando</string>
-    <string name="recovery_desc">El dispositivo se reiniciará al modo Recovery, si no está familiarizado con este modo cancele su acción. ¿Desea continuar?</string>
+    <string name="recovery_desc">El dispositivo se reiniciará al modo Recovery, si no estás familiarizado con este modo cancela esta acción. ¿Deseas continuar?</string>
     <string name="server_error">El servidor no responde, puede que la aplicación no funcione correctamente</string>
-    <string name="share_desc">Su versión de MIUI se ha actualizado a %1$s, consulte el último registro de cambios en: %2$s</string>
+    <string name="share_desc">Tu versión de MIUI se ha actualizado a %1$s, consulta el último registro de cambios en: %2$s</string>
     <string name="share_title">Compartir con</string>
-    <string name="stable">estable</string>
-    <string name="version">Actual:</string>
-    <string name="weekly">semanal</string>
+    <string name="stable">Estable</string>
+    <string name="version">Instalado actualmente:</string>
+    <string name="weekly">Semanal</string>
     <string name="wifi_recommended">¡No hay conexión Wi-Fi para comenzar la descarga de forma segura!</string>
 </resources>
