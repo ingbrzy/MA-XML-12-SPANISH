@@ -6,17 +6,18 @@
 
 # SPANISH MIUI TRANSLATION
 
-Benvinguts al repositori de la traducció al CATALÀ de MIUI, el sistema operatiu basat en Android creat per la comunitat de Xiaomi.eu a partir del de l'empresa de mòbils xinesa Xiaomi.
+Bienvenidos al repositorio de la traducción al ESPAÑOL de MIUI, el sistema operativo basado en Android creado por la comunidad de Xiaomi.eu a partir del de la empresa de móviles china Xiaomi.
 
-Estat de la traducció: <a title="Crowdin" target="_blank" href="https://crowdin.com/project/miui-xiaomieu-catalan"><img src="https://badges.crowdin.net/miui-xiaomieu-catalan/localized.svg"></a>
+Estado de la traducción: <a title="Crowdin" target="_blank" href="https://crowdin.com/project/miui-xiaomieu-catalan"><img src="https://badges.crowdin.net/miui-xiaomieu-catalan/localized.svg"></a>
 
-# Si voleu col·laborar amb la traducció, http://bit.ly/385HaRf
+# Si desea colaborar con la traducción, http://bit.ly/385HaRf
 
 Translation xml checker (updated every 30min)
-http://translators.xiaomi.eu/XML_MIUI12-Catalan-ca.html
+http://translators.xiaomi.eu/XML_MIUI12-Spanish-es.html
 
+## Para mas informacion contactar con  [@deivids84](https://github.com/deivids84)
 
-## Voluntarios que ayudaron a la traducción:
+## Voluntarios que ayudaron anteriormente a la traducción:
 
 * [@Infante007](https://github.com/Infante007)
 * [@danielchc](https://github.com/danielchc)
@@ -24,4 +25,4 @@ http://translators.xiaomi.eu/XML_MIUI12-Catalan-ca.html
 * [@Muchachito](https://github.com/Muchachito)
 * [@nmercy-arg](https://github.com/nmercy-arg)
 
-*Español(América)* No se actualiza (si alguien si quiere hacer cargo que cree una issue)
+*Español(América)* No se actualiza
