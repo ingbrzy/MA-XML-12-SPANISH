@@ -24,10 +24,6 @@
         <item quantity="other">en %d d</item>
         <item quantity="one">en %d d</item>
     </plurals>
-    <plurals name="duration_hours">
-        <item quantity="other">%d horas</item>
-        <item quantity="one">1 hora</item>
-    </plurals>
     <plurals name="duration_hours_relative">
         <item quantity="other">hace %d horas</item>
         <item quantity="one">hace %d hora</item>
@@ -44,10 +40,6 @@
         <item quantity="other">en %d h</item>
         <item quantity="one">en %d h</item>
     </plurals>
-    <plurals name="duration_minutes">
-        <item quantity="other">%d minutos</item>
-        <item quantity="one">1 minuto</item>
-    </plurals>
     <plurals name="duration_minutes_relative">
         <item quantity="other">hace %d minutos</item>
         <item quantity="one">hace %d minuto</item>
@@ -63,10 +55,6 @@
     <plurals name="duration_minutes_shortest_future">
         <item quantity="other">en %d min</item>
         <item quantity="one">en %d min</item>
-    </plurals>
-    <plurals name="duration_seconds">
-        <item quantity="other">%d segundos</item>
-        <item quantity="one">1 segundo</item>
     </plurals>
     <plurals name="duration_years_relative">
         <item quantity="other">hace %d años</item>
@@ -115,14 +103,6 @@
     <plurals name="ssl_ca_cert_warning">
         <item quantity="other">Entidades de certificación instaladas</item>
         <item quantity="one">Entidad de certificación instalada</item>
-    </plurals>
-    <plurals name="wifi_available">
-        <item quantity="other">Redes Wi-Fi disponibles</item>
-        <item quantity="one">Red Wi-Fi disponibles</item>
-    </plurals>
-    <plurals name="wifi_available_detailed">
-        <item quantity="other">Redes Wi-Fi abiertas disponibles</item>
-        <item quantity="one">Red Wi-Fi abierta disponible</item>
     </plurals>
     <plurals name="zen_mode_duration_hours">
         <item quantity="other">Durante %d horas</item>
