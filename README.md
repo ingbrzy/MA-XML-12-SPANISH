@@ -8,7 +8,7 @@
 
 Bienvenidos al repositorio de la traducción al ESPAÑOL de MIUI, el sistema operativo basado en Android creado por la comunidad de Xiaomi.eu a partir del de la empresa de móviles china Xiaomi.
 
-Estado de la traducción: <a title="Crowdin" target="_blank" href="https://crowdin.com/project/miui-xiaomieu-catalan"><img src="https://badges.crowdin.net/miui-xiaomieu-catalan/localized.svg"></a>
+Estado de la traducción: ![es-ES translation](https://img.shields.io/badge/dynamic/json?color=blue&label=es-ES&style=for-the-badge&query=%24.progress.1.data.translationProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-22663-391213.json)
 
 # Si desea colaborar con la traducción, http://bit.ly/385HaRf
 
