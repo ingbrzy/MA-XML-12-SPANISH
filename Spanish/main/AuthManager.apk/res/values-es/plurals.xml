@@ -30,19 +30,23 @@
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
-        <item quantity="other">Ahora</item>
+        <item quantity="other">Justo ahora</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Hace %d min</item>
         <item quantity="one">Hace 1 min</item>
     </plurals>
-    <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$shoras %2$s"</item>
-        <item quantity="one">" %1$shora %2$s"</item>
+    <plurals name="clipboard_ai_allow_more">
+        <item quantity="other">Permite %1$s acceder a elementos en el portapapeles automáticamente %2$d veces</item>
+        <item quantity="one">Permite %1$s acceder a elementos en el portapapeles automáticamente %2$d veces</item>
     </plurals>
-    <plurals name="count_selected">
-        <item quantity="other">%d elementos seleccionados</item>
-        <item quantity="one">%d elemento seleccionado</item>
+    <plurals name="clipboard_read_ai_deny_more">
+        <item quantity="other">Bloqueado %2$d intentos de acceso al portapapeles durante %1$s</item>
+        <item quantity="one">Bloqueado %2$d intento de acceso al portapapeles durante %1$s</item>
+    </plurals>
+    <plurals name="clipboard_read_allow_more">
+        <item quantity="other">%1$s elementos accedidos en el portapapeles %2$d veces</item>
+        <item quantity="one">%1$s elementos accedidos en el portapapeles %2$d vez</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Hace media hora</item>
@@ -65,15 +69,19 @@
         <item quantity="one">en 1 minuto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Ahora mismo</item>
-        <item quantity="other">Ahora</item>
-    </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d nuevas notificaciones</item>
-        <item quantity="one">%d nueva notificación</item>
+        <item quantity="one">Ahora</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">hace %d minutos</item>
         <item quantity="one">Hace 1 minuto</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_allow_content">
+        <item quantity="other">"Has permitido a %2$s acceder al portapapeles %1$d veces ya. ¿Desea permitir siempre a %3$s acceder al portapapeles?"</item>
+        <item quantity="one">"Has permitido a %2$s acceder al portapapeles %1$d veces ya. ¿Desea permitir siempre a %3$s acceder al portapapeles?"</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_deny_content">
+        <item quantity="other">"Ha restringido el acceso al portapapeles para %2$s %1$d veces ya. ¿Restringir el acceso al portapapeles para %3$s permanentemente?"</item>
+        <item quantity="one">"Ya ha restringido el acceso al portapapeles durante %2$s %1$d. ¿Restringir el acceso al portapapeles para %3$s permanente?"</item>
     </plurals>
 </resources>

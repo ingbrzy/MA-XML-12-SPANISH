@@ -36,14 +36,6 @@
         <item quantity="other">Hace %d min</item>
         <item quantity="one">Hace 1 min</item>
     </plurals>
-    <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$shoras %2$s"</item>
-        <item quantity="one">" %1$shora %2$s"</item>
-    </plurals>
-    <plurals name="count_selected">
-        <item quantity="other">%d elementos seleccionados</item>
-        <item quantity="one">%d elemento seleccionado</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>
@@ -67,10 +59,6 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
         <item quantity="other">Ahora</item>
-    </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d nuevas notificaciones</item>
-        <item quantity="one">%d nueva notificación</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">hace %d minutos</item>
