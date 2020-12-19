@@ -1,52 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="adblock_notification">
-        <item quantity="other">%d anuncios bloqueados</item>
-        <item quantity="one">%d anuncio bloqueado</item>
+    <plurals name="a_hour_ago">
+        <item quantity="one">Hace 1 hora</item>
+        <item quantity="other">Hace 1 hora</item>
     </plurals>
-    <plurals name="adblock_rules_number_text">
-        <item quantity="other">%d elementos bloqueados</item>
-        <item quantity="one">%d elemento bloqueado</item>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">Hace 1 hora</item>
+        <item quantity="other">Hace 1 hora</item>
     </plurals>
-    <plurals name="articles_updated_amount">
-        <item quantity="other">Comprobar %1$d artículos nuevos</item>
-        <item quantity="one">Comprobar %1$d artículo nuevo</item>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Hace media hora</item>
+        <item quantity="other">Hace media hora</item>
     </plurals>
-    <plurals name="auto_play_next_tips">
-        <item quantity="other">Reproduciendo el siguiente vídeo en %d segundos</item>
-        <item quantity="one">Reproduciendo el siguiente vídeo en %d segundo</item>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">En 1 hora</item>
+        <item quantity="other">En 1 hora</item>
     </plurals>
-    <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">¿Eliminar tareas %d?</item>
-        <item quantity="one">¿Eliminar tarea %d?</item>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">En media hora</item>
+        <item quantity="other">En media hora</item>
     </plurals>
-    <plurals name="download_business_v5_edit_mode_title">
-        <item quantity="other">%1$d seleccionados</item>
-        <item quantity="one">%1$d seleccionado</item>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Inmediatamente</item>
+        <item quantity="other">Inmediatamente</item>
     </plurals>
-    <plurals name="download_dialog_confirm_delete_downloads_message">
-        <item quantity="other">¿Eliminar %d tareas?</item>
-        <item quantity="one">¿Eliminar %d tarea?</item>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">en %d min</item>
+        <item quantity="one">en 1 min</item>
     </plurals>
-    <plurals name="find_on_page_matches">
-        <item quantity="other">%d resultados</item>
-        <item quantity="one">%d resultado</item>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora</item>
     </plurals>
-    <plurals name="last_num_days">
-        <item quantity="other">%d últimos días</item>
-        <item quantity="one">%d último día</item>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Hace %d min</item>
+        <item quantity="one">Hace 1 min</item>
     </plurals>
-    <plurals name="le_notification_download_completed">
-        <item quantity="other">%d elementos descargados con éxito</item>
-        <item quantity="one">%d elemento descargado con éxito</item>
+    <plurals name="comment_detail_title">
+        <item quantity="other">%d respuestas</item>
+        <item quantity="one">%d respuesta</item>
     </plurals>
-    <plurals name="matches_found">
-        <item quantity="other">%1$d de %2$d</item>
-        <item quantity="one">1 resultado</item>
+    <plurals name="comment_hour_ago">
+        <item quantity="other">hace %d horas</item>
+        <item quantity="one">hace %d hora</item>
+    </plurals>
+    <plurals name="comment_look_all">
+        <item quantity="other">Ver %d comentarios</item>
+        <item quantity="one">Ver %d comentario</item>
+    </plurals>
+    <plurals name="comment_minute_ago">
+        <item quantity="other">hace %d minutos</item>
+        <item quantity="one">hace %d minutos</item>
+    </plurals>
+    <plurals name="comment_selected">
+        <item quantity="other">Seleccionados %d motivos</item>
+        <item quantity="one">%d elementos seleccionados</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Hace media hora</item>
+        <item quantity="other">Hace media hora</item>
+    </plurals>
+    <plurals name="hot_word_hot_count">
+        <item quantity="other">%d visualizaciones</item>
+        <item quantity="one">%d visitas</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">En 1 hora</item>
+        <item quantity="other">En 1 hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">En media hora</item>
+        <item quantity="other">En media hora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Inmediatamente</item>
+        <item quantity="other">Inmediatamente</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">en %d minutos</item>
+        <item quantity="one">en 1 minuto</item>
+    </plurals>
+    <plurals name="info_flow_tips">
+        <item quantity="other">Encontrados %d artículos nuevos para ti</item>
+        <item quantity="one">Encontrados %d nuevos artículos para tí</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora</item>
     </plurals>
     <plurals name="mw_last_num_days">
-        <item quantity="other">Últimos %d días</item>
         <item quantity="one">Último %d día</item>
+        <item quantity="other">Últimos %d días</item>
     </plurals>
     <plurals name="mw_matches_found">
         <item quantity="other">%1$d de %2$d</item>
@@ -56,25 +100,9 @@
         <item quantity="other">Después de %d segundos creará automáticamente una página nueva</item>
         <item quantity="one">Después de %d segundo creará automáticamente una página nueva</item>
     </plurals>
-    <plurals name="nf_item_like">
-        <item quantity="other">%s me gusta</item>
-        <item quantity="one">%s me gusta</item>
-    </plurals>
-    <plurals name="pref_adblock_counts">
-        <item quantity="other">%d bloqueados</item>
-        <item quantity="one">%d bloqueado</item>
-    </plurals>
-    <plurals name="suggest_access_item_album_songs">
-        <item quantity="other">%d canciones</item>
-        <item quantity="one">%d canción</item>
-    </plurals>
-    <plurals name="suggest_access_item_singer_albums">
-        <item quantity="other">%d álbumes</item>
-        <item quantity="one">%d álbum</item>
-    </plurals>
-    <plurals name="suggest_access_item_singer_pop">
-        <item quantity="other">%d canciones populares</item>
-        <item quantity="one">%d canción popular</item>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">hace %d minutos</item>
+        <item quantity="one">Hace 1 minuto</item>
     </plurals>
     <plurals name="transfer_prompt">
         <item quantity="other">Reproducir vídeo en %1$d segundos</item>
@@ -100,28 +128,42 @@
         <item quantity="other">¿Eliminar %1$d elementos del historial?</item>
         <item quantity="one">¿Eliminar %1$d elemento del historial?</item>
     </plurals>
-    <plurals name="video_push_multi_message">
-        <item quantity="other">%1$d actualizaciones disponibles.</item>
-        <item quantity="one">%1$d actualización disponible.</item>
+    <plurals name="video_playback_error">
+        <item quantity="other">"No se pudo cargar el video.
+Se reproducirá el siguiente en %d segundos…"</item>
+        <item quantity="one">"No se pudo cargar el video.
+Se reproducirá el siguiente en %d segundo…"</item>
     </plurals>
     <plurals name="video_subtitle_last_message">
         <item quantity="other">%d minutos restantes</item>
         <item quantity="one">%d minuto restante</item>
     </plurals>
-    <plurals name="videos_updated_amount">
-        <item quantity="other">Comprobar %1$d vídeos nuevos</item>
-        <item quantity="one">Comprobar %1$d vídeo nuevo</item>
+    <plurals name="vo_comment">
+        <item quantity="other">%s comentarios</item>
+        <item quantity="one">%s comentario</item>
     </plurals>
-    <plurals name="view_count">
-        <item quantity="other">%1$d visualizaciones</item>
-        <item quantity="one">%1$d visualización</item>
+    <plurals name="vo_image_mark">
+        <item quantity="other">%d imágenes</item>
+        <item quantity="one">%d imagen</item>
     </plurals>
-    <plurals name="view_realtime_clear">
-        <item quantity="other">Despejado</item>
-        <item quantity="one">Despejado</item>
+    <plurals name="vo_source_comment">
+        <item quantity="other">%1$s | %2$s comentarios</item>
+        <item quantity="one">%1$s | %2$s comentario</item>
     </plurals>
-    <plurals name="vote_all_people">
-        <item quantity="other">%d personas han votado</item>
-        <item quantity="one">%d persona ha votado</item>
+    <plurals name="vo_vote_num">
+        <item quantity="other">%d personas ya han votado</item>
+        <item quantity="one">%d persona ya ha votado</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_hour">
+        <item quantity="other">· Hace %s horas</item>
+        <item quantity="one">· Hace %s hora</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_minute">
+        <item quantity="other">· Hace %s minutos</item>
+        <item quantity="one">· Hace %s min</item>
+    </plurals>
+    <plurals name="vo_zhi_hu_answer">
+        <item quantity="other">%d respuestas en Zhihu</item>
+        <item quantity="one">%d respuesta en Zhihu</item>
     </plurals>
 </resources>

@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="accessibility_recent_task_enter">
-        <item quantity="other">Abiertos recientemente, aplicaciones disponibles: %d.</item>
-        <item quantity="one">Abiertos recientemente, aplicación disponible: %d.</item>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">Hace %d días</item>
+        <item quantity="one">Hace %d día</item>
     </plurals>
-    <plurals name="accessibility_recent_task_first_enter_tips">
-        <item quantity="other">Abiertos recientemente, aplicaciones disponibles: %d. Sube para eliminar, baja para bloquear.</item>
-        <item quantity="one">Abiertos recientemente, aplicación disponible: %d. Sube para eliminar, baja para bloquear.</item>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">Hace %d min</item>
+        <item quantity="one">Hace %d min</item>
     </plurals>
-    <plurals name="block_record_notification_more_text">
-        <item quantity="other">Ocultando notificaciones de %1$s &amp; %2$d aplicaciones.</item>
-        <item quantity="one">Ocultando notificaciones de %1$s &amp; %2$d aplicación.</item>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">Hace %d años</item>
+        <item quantity="one">Hace %d años</item>
     </plurals>
-    <plurals name="disable_notification_confirm_title">
-        <item quantity="other">¿Ocultar notificaciones de %d aplicaciones?</item>
-        <item quantity="one">¿Ocultar notificaciones de esta aplicación?</item>
-    </plurals>
-    <plurals name="fold_tips_title">
-        <item quantity="other">%d notificaciones no importantes</item>
-        <item quantity="one">%d notificación no importante</item>
+    <plurals name="controls_number_of_favorites">
+        <item quantity="other">%s controles añadidos.</item>
+        <item quantity="one">%s control añadido.</item>
     </plurals>
     <plurals name="incorrect_pincode_remaining_attempts">
         <item quantity="other">Código PIN incorrecto. %d intentos restantes</item>
@@ -28,17 +24,13 @@
         <item quantity="other">Código PUK incorrecto. %d intentos restantes</item>
         <item quantity="one">Código PUK incorrecto. %d intento restante</item>
     </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-        <item quantity="other">Alrededor de %d horas hasta cargado</item>
-        <item quantity="one">Alrededor de %d hora hasta cargado</item>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Introduce tu contraseña al menos una vez cada %d horas para recordarla siempre</item>
+        <item quantity="one">Introduce tu contraseña al menos una vez cada %d hora para recordarla siempre</item>
     </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
-        <item quantity="other">Alrededor de %d minutos hasta cargado</item>
-        <item quantity="one">Alrededor de %d minuto hasta cargado</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_time__text">
-        <item quantity="other">Alrededor de %1$d h %2$d m hasta cargado</item>
-        <item quantity="one">Alrededor de %1$d h %2$d m hasta cargado</item>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Introduce tu patrón al menos una vez cada %d horas para recordarlo siempre</item>
+        <item quantity="one">Introduce tu patrón al menos una vez cada %d hora para recordarlo siempre</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Queda alrededor de %d horas</item>
@@ -60,13 +52,25 @@
         <item quantity="other">%d minutos</item>
         <item quantity="one">%d minuto</item>
     </plurals>
-    <plurals name="keyguard_charging_info_drained_time_format">
-        <item quantity="other">%1$d h %2$d m</item>
-        <item quantity="one">%1$d h %2$d m</item>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">%d horas restantes</item>
+        <item quantity="one">%d hora restante</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">%d minutos restantes</item>
+        <item quantity="one">%d minuto restante</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">%1$d h %2$d m restantes</item>
+        <item quantity="one">%1$d h %2$d m restante</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
         <item quantity="other">Introduce el PIN de la SIM, tienes %d intentos restantes.</item>
         <item quantity="one">Introduce el PIN de la SIM, tienes %d intento restante antes de que debas contactar con tu operador para desbloquear el dispositivo.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message_multi_sim">
+        <item quantity="other">Introduce el código PIN%1$d de la tarjeta SIM, tienes %2$d intentos restantes.</item>
+        <item quantity="one">Introduce el PIN%1$d SIM, tienes %2$d intento restante antes de que debas contactar con tu operador para desbloquear el dispositivo.</item>
     </plurals>
     <plurals name="kg_password_default_puk_message">
         <item quantity="other">La SIM fue deshabilitada. Introduce el código PUK para continuar. Tienes %d intentos restantes antes de que la SIM se vuelva inutilizable. Contacta con tu operador para más detalles.</item>
@@ -76,41 +80,37 @@
         <item quantity="other">PIN incorrecto. Tiene %d intentos restantes antes de que debas contactar con tu operador para desbloquear tu dispositivo.</item>
         <item quantity="one">PIN incorrecto. Tiene %d intento restante antes de que debas contactar con tu operador para desbloquear tu dispositivo.</item>
     </plurals>
+    <plurals name="kg_password_wrong_pin_code_multi_sim">
+        <item quantity="other">Código PIN%1$d de la tarjeta SIM incorrecto, te quedan %2$d intentos restantes.</item>
+        <item quantity="one">Código PIN%1$d de la tarjeta SIM incorrecto, te queda %2$d intento restante antes de que debas contactar con tu operador para desbloquear el dispositivo.</item>
+    </plurals>
     <plurals name="kg_password_wrong_puk_code">
         <item quantity="other">Código PUK incorrecto. Tienes %d intentos restantes antes de que la SIM se vuelva inutilizable.</item>
         <item quantity="one">Código PUK incorrecto. Tienes %d intento restante antes de que la SIM se vuelva inutilizable.</item>
     </plurals>
     <plurals name="kg_prompt_reason_time_password">
-        <item quantity="other">El dispositivo no ha sido desbloqueado por %d horas. Confirma la contraseña.</item>
-        <item quantity="one">El dispositivo no ha sido desbloqueado por %d hora. Confirma la contraseña.</item>
+        <item quantity="other">"El dispositivo no ha sido desbloqueado por %d horas. Confirma la contraseña."</item>
+        <item quantity="one">"El dispositivo no ha sido desbloqueado por %d hora. Confirma la contraseña."</item>
     </plurals>
     <plurals name="kg_prompt_reason_time_pattern">
-        <item quantity="other">El dispositivo no ha sido desbloqueado por %d horas. Confirma el patrón.</item>
-        <item quantity="one">El dispositivo no ha sido desbloqueado por %d hora. Confirma el patrón.</item>
+        <item quantity="other">"El dispositivo no ha sido desbloqueado por %d horas. Confirma el patrón."</item>
+        <item quantity="one">"El dispositivo no ha sido desbloqueado por %d hora. Confirma el patrón."</item>
     </plurals>
     <plurals name="kg_prompt_reason_time_pin">
-        <item quantity="other">El dispositivo no ha sido desbloqueado por %d horas. Confirma el PIN.</item>
-        <item quantity="one">El dispositivo no ha sido desbloqueado por %d hora. Confirma el PIN.</item>
+        <item quantity="other">"El dispositivo no ha sido desbloqueado por %d horas. Confirma el PIN."</item>
+        <item quantity="one">"El dispositivo no ha sido desbloqueado por %d hora. Confirma el PIN."</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Vuelve a intentarlo en %d segundos.</item>
+        <item quantity="one">Vuelve a intentarlo en %d segundo.</item>
     </plurals>
     <plurals name="new_notifications_msg">
         <item quantity="other">%d nuevas notificaciones</item>
         <item quantity="one">%d nueva notificación</item>
     </plurals>
-    <plurals name="notification_channels_list_desc_2_and_others">
-        <item quantity="other">%1$s, %2$s y %3$d otros</item>
-        <item quantity="one">%1$s, %2$s y %3$d otro</item>
-    </plurals>
     <plurals name="notification_group_overflow_description">
         <item quantity="other">%s más notificaciones dentro.</item>
         <item quantity="one">%s más notificaciones dentro.</item>
-    </plurals>
-    <plurals name="notification_num_channels">
-        <item quantity="other">%d categorías de notificaciones</item>
-        <item quantity="one">%d categoría de notificaciones</item>
-    </plurals>
-    <plurals name="notification_num_channels_desc">
-        <item quantity="other">1 de %d categoría de notificaciones para esta aplicación</item>
-        <item quantity="one">1 de %d categoría de notificaciones para esta aplicación</item>
     </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
         <item quantity="other">Vuelve a intentarlo en %d minutos</item>
@@ -120,40 +120,24 @@
         <item quantity="other">Vuelve a intentarlo en %d segundos</item>
         <item quantity="one">Vuelve a intentarlo en %d segundo</item>
     </plurals>
-    <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d accesos directos sobre esta barra están activos</item>
-        <item quantity="one">%1$d acceso directo sobre esta barra está activo</item>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d dispositivos</item>
+        <item quantity="one">%d dispositivo</item>
     </plurals>
-    <plurals name="status_bar_accessibility_recent_apps">
-        <item quantity="other">%d pantallas en Descripción</item>
-        <item quantity="one">1 pantalla en Descripción</item>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
     </plurals>
-    <plurals name="view_realtime_clear">
-        <item quantity="other">Despejado</item>
-        <item quantity="one">Despejado</item>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
     </plurals>
-	<plurals name="input_password_after_timeout_msg">
-		<item quantity="other">Introduce tu contraseña al menos una vez cada %d horas para recordarla siempre</item>
-		<item quantity="one">Introduce tu contraseña al menos una vez cada %d hora para recordarla siempre</item>
-	</plurals>
-	<plurals name="input_pattern_after_timeout_msg">
-	<item quantity="other">Introduce tu patrón al menos una vez cada %d horas para recordarlo siempre</item>
-	<item quantity="one">Introduce tu patrón al menos una vez cada %d hora para recordarlo siempre</item>
-	</plurals>
-	<plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
-	<item quantity="other">%d horas restantes</item>
-	<item quantity="one">%d hora restante</item>
-	</plurals>
-	<plurals name="keyguard_extreme_power_info_could_use_min_time_text">
-	<item quantity="other">%d minutos restantes</item>
-	<item quantity="one">%d minuto restante</item>
-	</plurals>
-	<plurals name="keyguard_extreme_power_info_could_use_time_text">
-	<item quantity="other">%1$d h %2$d m restantes</item>
-	<item quantity="one">%1$d h %2$d m restante</item>
-	</plurals>
-	<plurals name="wifi_tether_connected_summary">
-		<item quantity="other">%1$d dispositivos conectados</item>
-		<item quantity="one">%1$d dispositivo conectado</item>
-	</plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Puedes añadir hasta %d usuarios.</item>
+        <item quantity="one">Sólo un usuario puede ser creado.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d dispositivos conectados</item>
+        <item quantity="one">%1$d dispositivo conectado</item>
+    </plurals>
 </resources>
