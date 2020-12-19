@@ -24,6 +24,42 @@
         <item quantity="other">%d semanas atrás</item>
         <item quantity="one">%d semana atrás</item>
     </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="one">Hace 1 hora</item>
+        <item quantity="other">Hace 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">Hace 1 hora</item>
+        <item quantity="other">Hace 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Hace media hora</item>
+        <item quantity="other">Hace media hora</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">En 1 hora</item>
+        <item quantity="other">En 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">En media hora</item>
+        <item quantity="other">En media hora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Inmediatamente</item>
+        <item quantity="other">Inmediatamente</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">en %d min</item>
+        <item quantity="one">en 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Hace %d min</item>
+        <item quantity="one">Hace 1 min</item>
+    </plurals>
     <plurals name="anniversary_day">
         <item quantity="other">%1$s días</item>
         <item quantity="one">%1$s día</item>
@@ -80,9 +116,61 @@
         <item quantity="other">Puedes establecer hasta %d recordatorios</item>
         <item quantity="one">Puedes establecer hasta %d recordatorio</item>
     </plurals>
-    <plurals name="month_more_events">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+1</item>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Hace media hora</item>
+        <item quantity="other">Hace media hora</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">En 1 hora</item>
+        <item quantity="other">En 1 hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">En media hora</item>
+        <item quantity="other">En media hora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Inmediatamente</item>
+        <item quantity="other">Inmediatamente</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">en %d minutos</item>
+        <item quantity="one">en 1 minuto</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nuevas notificaciones</item>
+        <item quantity="one">%d nueva notificación</item>
+    </plurals>
+    <plurals name="n_attendees">
+        <item quantity="other">%d invitaciones</item>
+        <item quantity="one">%d invitación</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">hace %d minutos</item>
+        <item quantity="one">Hace 1 minuto</item>
+    </plurals>
+    <plurals name="other_all_day_events">
+        <item quantity="other">%d eventos más</item>
+        <item quantity="one">%d evento más</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_day">
+        <item quantity="other">" días"</item>
+        <item quantity="one">" día"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_hour">
+        <item quantity="other">" horas"</item>
+        <item quantity="one">" hora"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_minute">
+        <item quantity="other">" minutos"</item>
+        <item quantity="one">" minuto"</item>
+    </plurals>
+    <plurals name="reminder_later_toast">
+        <item quantity="other">Próximo recordatorio en %1$d minutos</item>
+        <item quantity="one">Siguiente recordatorio en %1$d minutos</item>
     </plurals>
     <plurals name="repeat_custom_prompt">
         <item quantity="other">cada %1$s el %2$s</item>
@@ -104,13 +192,17 @@
         <item quantity="other">%1$d años</item>
         <item quantity="one">%1$d año</item>
     </plurals>
-    <plurals name="travel_eta_advice">
-        <item quantity="other">s%2$s minutos para llegar a %1$s.</item>
-        <item quantity="one">s%2$s minuto para llegar a %1$s.</item>
+    <plurals name="travel_time_range_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="travel_time_range_mins">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
     </plurals>
     <plurals name="weekN">
-        <item quantity="other">SEMANA %d</item>
         <item quantity="one">SEMANA %d</item>
+        <item quantity="other">SEMANA %d</item>
     </plurals>
     <plurals name="work_days">
         <item quantity="other">%d días laborables</item>
