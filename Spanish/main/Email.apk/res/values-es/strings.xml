@@ -68,7 +68,7 @@
     <string name="account_settings_incoming_summary">Nombre de usuario, contraseña y otros ajustes del servidor</string>
     <string name="account_settings_login_dialog_content_fmt">"El nombre de usuario o contraseña para %s es incorrecta.
  ¿Actualizar ahora?"</string>
-    <string name="account_settings_login_dialog_reason_fmt">"No se pudo iniciar sesión en %s. El servidor respondió: %s"</string>
+    <string name="account_settings_login_dialog_reason_fmt">"No se pudo iniciar sesión en %1$s. El servidor dijo: %2$s. ¿Actualizar su nombre de usuario o contraseña?"</string>
     <string name="account_settings_login_dialog_title">"No se ha podido iniciar sesión"</string>
     <string name="account_settings_mail_check_frequency_dialog_title">Necesita refrescar Mail manualmente para sincronizar sus emails</string>
     <string name="account_settings_mail_check_frequency_dialog_title_eas">"Cuando cambia a manual, necesita refrescar manualmente para sincronizar mensajes y calendario"</string>
@@ -1019,7 +1019,7 @@ Espera hasta que esté completamente sincronizado o veas el mensaje en tu ordena
     <string name="reply">Responder</string>
     <string name="reply_add_bodycontent">¿Añadir la respuesta al cuerpo del mensaje?</string>
     <string name="reply_all">Responder a todos</string>
-    <string name="reply_attribution">El %s, %s escribió:</string>
+    <string name="reply_attribution">%2$s escribió en %1$s:</string>
     <string name="report_phishing">Notificar phishing</string>
     <string name="report_spam">Notificar spam</string>
     <string name="request_copy_db_to_disk">Mail está solicitando copiar su base de datos en un archivo</string>

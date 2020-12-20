@@ -518,7 +518,7 @@ Motivo: \"%s\""</string>
     <string name="exporting_vcard_finished_title">Exportación de %s finalizada.</string>
     <string name="external_profile_title">Mi perfil %1$s</string>
     <string name="fail_reason_could_not_initialize_exporter">"No es posible iniciar la exportación: \"%s\"."</string>
-    <string name="fail_reason_could_not_open_file">"No se pudo abrir \"%s: %s."</string>
+    <string name="fail_reason_could_not_open_file">"No se pudo abrir \"%1$s\": %2$s."</string>
     <string name="fail_reason_error_occurred_during_export">Se ha producido un error durante la exportación: \"%s\".</string>
     <string name="fail_reason_io_error">Error de E/S</string>
     <string name="fail_reason_low_memory_during_import">No hay memoria suficiente. El archivo podría ser demasiado grande.</string>
@@ -1013,7 +1013,7 @@ Motivo: \"%s\""</string>
     <string name="simContacts_emptyLoading">Cargando contactos desde la tarjeta SIM…</string>
     <string name="simContacts_title">Contactos de la tarjeta SIM</string>
     <string name="sim_capacity">Ver espacio en la tarjeta SIM</string>
-    <string name="sim_capacity_content">%d total | %d usados</string>
+    <string name="sim_capacity_content">%1$d total | %2$d usados</string>
     <string name="sim_card_no_free_space_message">No hay suficiente espacio</string>
     <string name="sim_card_no_free_space_title">Tarjeta SIM llena</string>
     <string name="sim_contact_existing">El contacto ya existe</string>
