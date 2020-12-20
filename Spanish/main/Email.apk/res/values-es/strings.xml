@@ -34,7 +34,6 @@
     <string name="about_go_to_update">Ir a actualizar</string>
     <string name="about_lasted_version">Es la última edición</string>
     <string name="account_add_title">Seleccione el servicio de correo electrónico</string>
-    <string name="account_cache_provider">Proveedor de caché de cuenta</string>
     <string name="account_duplicate_dlg_message_fmt">"Ya está usando este nombre de usuario para la cuenta \"%s\"."</string>
     <string name="account_duplicate_dlg_title">Cuenta duplicada</string>
     <string name="account_failure">Sesión terminada</string>
@@ -261,7 +260,6 @@
     <string name="back">Atrás</string>
     <string name="bank_card_detail">Detalles de la tarjeta de credito</string>
     <string name="bcc">Cco</string>
-    <string name="bcc_heading">"CCO: "</string>
     <string name="bill_center_setting">Ajustes de facturación</string>
     <string name="bill_center_setting_head">Importar informacion de estas cuentas</string>
     <string name="bill_cycle_text">Ciclo de facturacion</string>
@@ -368,7 +366,6 @@
     <string name="conversation_cert_info_tips">Este correo electrónico fue firmado con un certificado confiable</string>
     <string name="conversation_cert_info_title">Firmado</string>
     <string name="conversation_cert_trust">Confiar</string>
-    <string name="conversation_content_provider">Proveedor de contenido de conversación</string>
     <string name="conversation_detail_hide">Ocultar</string>
     <string name="conversation_detail_show">Detalles</string>
     <string name="conversation_folder_moved">Movido a %1$s</string>
@@ -564,7 +561,6 @@
     <string name="forward_attribution_no_headers">---------- Mensaje reenviado ----------</string>
     <string name="forward_download_failed_ticker">"No se pudieron reenviar uno o más archivos adjuntos."</string>
     <string name="forward_download_failed_title">Adjunto no reenviado</string>
-    <string name="forward_subject_label">Fwd:</string>
     <string name="free_period_text">Periodo libre de intereses</string>
     <string name="from_heading">"De: "</string>
     <string name="general_preference_confirm_delete_label">Confirmar antes de eliminar</string>
@@ -920,7 +916,6 @@ para recibir recordatorios sobre pagos y viajes"</string>
     <string name="policy_require_sd_encryption">Exige cifrado de la tarjeta SD</string>
     <string name="policy_require_smime">Requerir mensajes SMIME</string>
     <string name="policy_text_truncation">Restringir el tamaño del texto del correo</string>
-    <string name="prefDefault_autoAdvance">lista</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="preference_eas_tips">Toca Activar para configurar el servidor de correo.</string>
     <string name="preference_pop_tips">En POP3, los adjuntos se descargarán automáticamente con el correo. Esto podría aumentar su gasto de datos móviles.</string>
@@ -1025,7 +1020,6 @@ Espera hasta que esté completamente sincronizado o veas el mensaje en tu ordena
     <string name="reply_add_bodycontent">¿Añadir la respuesta al cuerpo del mensaje?</string>
     <string name="reply_all">Responder a todos</string>
     <string name="reply_attribution">El %s, %s escribió:</string>
-    <string name="reply_subject_label">Re:</string>
     <string name="report_phishing">Notificar phishing</string>
     <string name="report_spam">Notificar spam</string>
     <string name="request_copy_db_to_disk">Mail está solicitando copiar su base de datos en un archivo</string>
