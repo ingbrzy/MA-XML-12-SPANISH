@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="auto_clean_size">
-        <item>100MB</item>
-        <item>300MB</item>
-        <item>500MB</item>
-        <item>1GB</item>
+        <item>100 MB</item>
+        <item>300 MB</item>
+        <item>500 MB</item>
+        <item>1 GB</item>
     </string-array>
     <string-array name="auto_process_mode">
         <item>Notificar</item>
@@ -22,6 +22,11 @@
     <string-array name="large_file_sort_type">
         <item>Tamaño</item>
         <item>Nombre</item>
+    </string-array>
+    <string-array name="uninstalled_app_sort_type">
+        <item>Tamaño</item>
+        <item>Frecuencia de uso</item>
+        <item>Hora de instalación</item>
     </string-array>
     <string-array name="wechat_sort">
         <item>Fecha</item>

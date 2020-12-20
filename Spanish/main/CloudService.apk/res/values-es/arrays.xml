@@ -18,13 +18,31 @@
         <item>Sincroniza tus contactos, mensajes, notas, calendario y más</item>
         <item>Copia de seguridad de apps, diseño de pantalla de inicio y fondos de pantalla</item>
         <item>Copia de seguridad de las configuraciones importantes, incluida la conexión Wi-Fi y la pantalla</item>
-        <item>Bloquea tu dispositivo de forma remota si se pierde</item>
+        <item>"Bloquea tu dispositivo de forma remota si se pierde"</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Sincroniza tus contactos, mensajes, notas, calendario y más</item>
+        <item>Copia de seguridad de apps, diseño de pantalla de inicio y fondos de pantalla</item>
+        <item>Realice una copia de seguridad de configuraciones importantes, incluidas WLAN y pantalla</item>
+        <item>"Bloquea tu dispositivo de forma remota si se pierde"</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Sincronizar datos de la aplicación</item>
         <item>Realizar copia de seguridad del diseño de la pantalla de inicio</item>
         <item>Copia de seguridad de los ajustes del sistema</item>
         <item>Encontrar dispositivo</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
+        <item>Para identificar su dispositivo</item>
+        <item>Para localizar su dispositivo y cambiar al modo perdido</item>
+    </string-array>
+    <string-array name="privacy_dialog_sync_runtime_perm_desc">
+        <item>Para sincronizar eventos</item>
+        <item>Para sincronizar mensajes</item>
+        <item>Para sincronizar mensajes</item>
+        <item>Para sincronizar contactos</item>
+        <item>Para sincronizar contactos</item>
+        <item>Para guardar elementos en su dispositivo (por ejemplo, imágenes, videos, canciones)</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>Copias de seguridad</item>
@@ -58,12 +76,12 @@
     </string-array>
     <string-array name="settings_search_find_pad">
         <item>Encontrar dispositivo</item>
-        <item>Eliminar datos y bloquear tu dispositivo si se pierde</item>
+        <item>"Eliminar datos y bloquear tu dispositivo si se pierde"</item>
         <item>Encontrar dispositivo;Perdido;Sincronizar;Servicios de la nube;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_find_phone">
         <item>Encontrar dispositivo</item>
-        <item>Eliminar datos y bloquear tu dispositivo si se pierde</item>
+        <item>"Eliminar datos y bloquear tu dispositivo si se pierde"</item>
         <item>Encontrar dispositivo;Perdido;Sincronizar;Servicios de la nube;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_gallery">
@@ -85,6 +103,11 @@
         <item>Sincronizar Bóveda de aplicaciones con Xiaomi Cloud</item>
         <item>Activar sincronización</item>
         <item>Bóveda de aplicaciones;Tarjetas;Nube;Sincronizar;Servicios de la nube; Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>Sincronizar respuestas rápidas</item>
+        <item>Activar sincronización</item>
+        <item>Respuestas rápidas; Portapapeles; Editor; Nube; Sincronización; Servicios en la nube</item>
     </string-array>
     <string-array name="settings_search_recorder">
         <item>Sincronizar grabaciones con Xiaomi Cloud</item>
@@ -123,6 +146,11 @@
     </string-array>
     <string-array name="settings_search_wlan">
         <item>Sincronizar ajustes de Wi-Fi con Xiaomi Cloud</item>
+        <item>Activar sincronización</item>
+        <item>WLAN;wifi;Wi-Fi;incronizar;Servicios de la nube; Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Sincronizar la configuración de WLAN con Xiaomi Cloud</item>
         <item>Activar sincronización</item>
         <item>WLAN;wifi;Wi-Fi;incronizar;Servicios de la nube; Xiaomi Cloud</item>
     </string-array>
