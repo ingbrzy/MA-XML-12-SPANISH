@@ -1,12 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">Hace 1 hora</item>
+        <item quantity="other">Hace 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">Hace 1 hora</item>
+        <item quantity="other">Hace 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Hace media hora</item>
+        <item quantity="other">Hace media hora</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">En 1 hora</item>
+        <item quantity="other">En 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">En media hora</item>
+        <item quantity="other">En media hora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Inmediatamente</item>
+        <item quantity="other">Inmediatamente</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">en %d min</item>
+        <item quantity="one">en 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Hace %d min</item>
+        <item quantity="one">Hace 1 min</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Hace media hora</item>
+        <item quantity="other">Hace media hora</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">En 1 hora</item>
+        <item quantity="other">En 1 hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">En media hora</item>
+        <item quantity="other">En media hora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Inmediatamente</item>
+        <item quantity="other">Inmediatamente</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">en %d minutos</item>
+        <item quantity="one">en 1 minuto</item>
+    </plurals>
     <plurals name="last_several_days">
         <item quantity="other">%d días</item>
         <item quantity="one">%d día</item>
     </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">hace %d minutos</item>
+        <item quantity="one">Hace 1 minuto</item>
+    </plurals>
     <plurals name="steady_on_screen_notification_summary">
-        <item quantity="other">Has usado tu dispositivo durante %d minutos sin interrupciones</item>
-        <item quantity="one">Has usado tu dispositivo durante %d minuto sin interrupciones</item>
+        <item quantity="other">"Has usado tu dispositivo durante %d minutos sin interrupciones"</item>
+        <item quantity="one">"Has usado tu dispositivo durante %d minuto sin interrupciones"</item>
     </plurals>
     <plurals name="steady_on_screen_time_pick">
         <item quantity="other">%d min</item>
@@ -39,6 +103,10 @@
     <plurals name="usage_new_home_total_unlocks">
         <item quantity="other">Desbloqueado %d veces</item>
         <item quantity="one">Desbloqueado %d vez</item>
+    </plurals>
+    <plurals name="usage_new_home_total_unlocks_new">
+        <item quantity="other">Desbloqueado %1$d veces en %2$s</item>
+        <item quantity="one">Desbloqueado %1$d vez en %2$s</item>
     </plurals>
     <plurals name="usage_new_home_total_week_unlocks">
         <item quantity="other">Desbloqueado %d veces</item>
@@ -99,6 +167,10 @@
     <plurals name="usage_state_unlock_count">
         <item quantity="other">%d veces</item>
         <item quantity="one">%d vez</item>
+    </plurals>
+    <plurals name="usage_state_unlock_count_new">
+        <item quantity="other">Promedio %.2f veces</item>
+        <item quantity="one">Promedio %.2f tiempo</item>
     </plurals>
     <plurals name="usage_state_week_day_hour">
         <item quantity="other">Fines de semana: %d horas</item>
