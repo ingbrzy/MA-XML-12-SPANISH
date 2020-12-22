@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="comment_model_watch_reply">
+        <item quantity="other">Ver %d respuestas</item>
+        <item quantity="one">Ver %d respuesta</item>
+    </plurals>
+    <plurals name="feed_back_home">
+        <item quantity="other">Volver a la página de inicio en %1$d segundos…</item>
+        <item quantity="one">Volver a la página de inicio en %1$d segundos…</item>
+    </plurals>
+    <plurals name="follower">
+        <item quantity="other">%d seguidores</item>
+        <item quantity="one">%d seguidor</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">Se mostrarán los subtítulos %.1f segundos antes</item>
         <item quantity="one">Se mostrarán los subtítulos %.1f segundo antes</item>
@@ -15,6 +27,18 @@
     <plurals name="lv_video_count">
         <item quantity="other">%d vídeos</item>
         <item quantity="one">%d vídeo</item>
+    </plurals>
+    <plurals name="mediation_animate_close_after">
+        <item quantity="other">Quedan %s segundos</item>
+        <item quantity="one">Quedan %s segundos</item>
+    </plurals>
+    <plurals name="notice_user_banned">
+        <item quantity="other">Su contenido contiene elementos (%1$s) que violan los estándares de nuestra comunidad. Su cuenta se suspende por %2$d día hasta el %3$s.</item>
+        <item quantity="one">Su contenido contiene elementos (%1$s) que violan los estándares de nuestra comunidad. Su cuenta se suspende por %2$d día hasta las %3$s.</item>
+    </plurals>
+    <plurals name="notification_close_tip">
+        <item quantity="other">Esta función estará desactivada durante %s días</item>
+        <item quantity="one">Esta función se desactivará durante %s días</item>
     </plurals>
     <plurals name="ovp_detail_v_video_count">
         <item quantity="other">%d vídeos</item>
@@ -48,20 +72,28 @@
         <item quantity="other">%d vídeos</item>
         <item quantity="one">%d vídeo</item>
     </plurals>
-    <plurals name="pw_comment_count">
-        <item quantity="other">%d comentarios</item>
-        <item quantity="one">%d comentario</item>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">Toca dos veces para retroceder %d segundos</item>
+        <item quantity="one">Toca dos veces para retroceder %d segundos</item>
     </plurals>
-    <plurals name="pw_comment_sub_count">
-        <item quantity="other">%d respuestaa</item>
-        <item quantity="one">%d respuesta</item>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">Toca dos veces para avanzar rápidamente %d segundos</item>
+        <item quantity="one">Toca dos veces para avanzar rápidamente %d segundos</item>
     </plurals>
-    <plurals name="pw_comment_view_all_comment">
-        <item quantity="other">Ver %d comentarios</item>
-        <item quantity="one">Ver %d comentario</item>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s s</item>
+        <item quantity="one">%1$s s</item>
     </plurals>
     <plurals name="subscriber">
         <item quantity="other"> suscriptores</item>
         <item quantity="one"> suscriptor</item>
+    </plurals>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">Los subtítulos se mueven %.1f segundos hacia adelante</item>
+        <item quantity="one">Los subtítulos se mueven %.1f segundos hacia adelante</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">Los subtítulos se retrasan %.1f segundos</item>
+        <item quantity="one">Los subtítulos se retrasan %.1f segundos</item>
     </plurals>
 </resources>

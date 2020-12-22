@@ -5,7 +5,8 @@
         <item quantity="one">Arrastrando %1$d elemento</item>
     </plurals>
     <plurals name="announce_for_unread">
-        <item quantity="other">%2$s sin leer de %1$s</item>
+        <item quantity="one">%2$s sin leer de %1$s</item>
+        <item quantity="other">%2$s no leídos de %1$s</item>
     </plurals>
     <plurals name="delete_wallpapers_message">
         <item quantity="other">¿Eliminar %1$d fondos de pantalla?</item>
@@ -24,8 +25,8 @@
         <item quantity="one">¿Desinstalar %1$d aplicación?</item>
     </plurals>
     <plurals name="uninstall_result_multi_failed">
-        <item quantity="other">No se puede desinstalar %1$d aplicaciones</item>
-        <item quantity="one">No se puede desinstalar %1$d aplicación</item>
+        <item quantity="other">"No se puede desinstalar %1$d aplicaciones"</item>
+        <item quantity="one">"No se puede desinstalar %1$d aplicación"</item>
     </plurals>
     <plurals name="uninstall_result_multi_succeeded">
         <item quantity="other">%1$d aplicaciones desinstaladas</item>

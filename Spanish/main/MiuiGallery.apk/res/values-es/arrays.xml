@@ -13,24 +13,77 @@
         <item>Hacer copia de seguridad de las fotos</item>
         <item>Sincronizar fotos con la nube</item>
     </string-array>
-    <string-array name="collage_month">
-        <item>Ene</item>
-        <item>Feb</item>
-        <item>Mar</item>
-        <item>Abr</item>
+    <string-array name="card_last_week_day">
+        <item>Último lunes</item>
+        <item>Último martes</item>
+        <item>Último miércoles</item>
+        <item>Último jueves</item>
+        <item>Último viernes</item>
+    </string-array>
+    <string-array name="chinese_holiday_last_year">
+        <item>"Último año nuevo chino"</item>
+        <item>Último año nuevo chino</item>
+        <item>Último Festival de los Faroles</item>
+        <item>Último Festival del Barco Dragón</item>
+        <item>Último Festival Qixi</item>
+        <item>Último Festival del Medio Otoño</item>
+    </string-array>
+    <string-array name="chinese_holiday_past_year">
+        <item>"Nochevieja china a través de los años"</item>
+        <item>Año nuevo chino a través de los años</item>
+        <item>Festival de los Faroles a través de los años</item>
+        <item>Dragon Boat Festival a través de los años</item>
+        <item>Festival Qixi a través de los años</item>
+        <item>Festival del Medio Otoño a través de los años</item>
+    </string-array>
+    <string-array name="holiday_last_year">
+        <item>"Último día de año nuevo"</item>
+        <item>"Último San Valentín"</item>
+        <item>Último día del trabajo</item>
+        <item>"Último día del niño"</item>
+        <item>Último día nacional</item>
+        <item>Últimas Navidades</item>
+    </string-array>
+    <string-array name="holiday_past_year">
+        <item>"El día de año nuevo a través de los años"</item>
+        <item>"San Valentín a través de los años"</item>
+        <item>Día del Trabajo a través de los años</item>
+        <item>"Día del niño a través de los años"</item>
+        <item>Día Nacional a través de los años</item>
+        <item>Navidad a través de los años</item>
+    </string-array>
+    <string-array name="last_month">
+        <item>Enero</item>
+        <item>Febrero</item>
+        <item>Marzo</item>
+        <item>Abril</item>
         <item>Mayo</item>
-        <item>Jun</item>
-        <item>Jul</item>
-        <item>Ago</item>
-        <item>Sep</item>
-        <item>Oct</item>
-        <item>Nov</item>
-        <item>Dic</item>
+        <item>Junio</item>
+        <item>Julio</item>
+        <item>Agosto</item>
+        <item>Septiembre</item>
+        <item>Octubre</item>
+        <item>Noviembre</item>
+        <item>Diciembre</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Hora de jugar</item>
+        <item>"Fin de semana de niños"</item>
+        <item>El pequeño</item>
     </string-array>
     <string-array name="last_weekend_title">
         <item>Mis fines de semana</item>
         <item>Pedacitos de vida</item>
         <item>Recuerdos del fin de semana</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>Nuevos amigos y viejos amigos</item>
+        <item>"Reuniones del año pasado"</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Mover</item>
+        <item>Copiar</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>Enero</item>
@@ -46,6 +99,20 @@
         <item>Noviembre</item>
         <item>Diciembre</item>
     </string-array>
+    <string-array name="month_last_year">
+        <item>Enero pasado</item>
+        <item>Febrero pasado</item>
+        <item>El pasado marzo</item>
+        <item>Pasado abril</item>
+        <item>El pasado mayo</item>
+        <item>El pasado junio</item>
+        <item>Julio pasado</item>
+        <item>El pasado agosto</item>
+        <item>Septiembre pasado</item>
+        <item>El pasado octubre</item>
+        <item>Pasado noviembre</item>
+        <item>El pasado diciembre</item>
+    </string-array>
     <string-array name="owner_relation">
         <item>Padre</item>
         <item>Madre</item>
@@ -58,6 +125,10 @@
         <item>Juntos</item>
         <item>Buenos tiempos</item>
         <item>Al unísono</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Juntos</item>
+        <item>Vínculos y lazos</item>
     </string-array>
     <string-array name="relation_with_me">
         <item>Yo</item>
@@ -74,6 +145,12 @@
         <item>Otoño</item>
         <item>Invierno</item>
     </string-array>
+    <string-array name="season_last_year">
+        <item>La primavera pasada</item>
+        <item>El verano pasado</item>
+        <item>Ultimo otoño</item>
+        <item>El invierno pasado</item>
+    </string-array>
     <string-array name="sharer_relation_addressive">
         <item>Padre</item>
         <item>Madre</item>
@@ -85,5 +162,15 @@
     <string-array name="sports_title">
         <item>Hacia adelante</item>
         <item>Lleno de energía</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>Crecen tan rápido</item>
+        <item>"Fotos de Kiddo"</item>
+    </string-array>
+    <string-array name="weekend_title">
+        <item>Fines de semana pasados</item>
+        <item>Días para recordar</item>
+        <item>Eventos diarios</item>
+        <item>Ordinario &amp; Extraordinario</item>
     </string-array>
 </resources>

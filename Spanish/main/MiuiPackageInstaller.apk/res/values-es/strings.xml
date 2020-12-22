@@ -10,15 +10,15 @@
     <string name="abc_capital_off">DESACTIVADO</string>
     <string name="abc_capital_on">ACTIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
-    <string name="abc_menu_space_shortcut_label">space</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">eliminar</string>
+    <string name="abc_menu_enter_shortcut_label">intro</string>
+    <string name="abc_menu_function_shortcut_label">Función+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Mayús +</string>
+    <string name="abc_menu_space_shortcut_label">espacio</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menú+</string>
     <string name="abc_search_hint">Buscar...</string>
     <string name="abc_searchview_description_clear">Borrar consulta</string>
     <string name="abc_searchview_description_query">Buscar consulta</string>
@@ -33,7 +33,7 @@
     <string name="adb_install_open">Abriendo...</string>
     <string name="adb_install_open_error">"No se pudo abrir. Revisa tus ajustes de red e intenta nuevamente."</string>
     <string name="additional_permissions">Permisos adicionales</string>
-    <string name="ads">Ads</string>
+    <string name="ads">Publicidad</string>
     <string name="ads_install_button">Instalar</string>
     <string name="ads_install_button_installed">Abrir</string>
     <string name="ads_install_button_isDownloading">Descargando</string>
@@ -53,7 +53,7 @@
     <string name="app_ops_clean_master_tip">Liberar %s</string>
     <string name="app_ops_install_exit">Salir</string>
     <string name="app_permissions">Permisos de app</string>
-    <string name="app_permissions_breadcrumb">Apps</string>
+    <string name="app_permissions_breadcrumb">Aplicaciones</string>
     <string name="app_permissions_group_summary">%1$d de %2$d apps permitidas</string>
     <string name="app_store_install_hint">Instalar ahora</string>
     <string name="app_store_installing_message">Instalando…</string>
@@ -70,7 +70,7 @@
     <string name="caller_app">Solicitud de permiso de %1$s</string>
     <string name="cancel">Cancelar</string>
     <string name="copy">Copiar</string>
-    <string name="cta_button_text_agree">OK</string>
+    <string name="cta_button_text_agree">Aceptar</string>
     <string name="cta_button_text_cancel">Salir</string>
     <string name="cta_dialog_msg">Seguridad necesita una conexión a Internet para obtener actualizaciones, al igual que acceso a tu ubicación para funcionar con normalidad.</string>
     <string name="cta_dialog_title">Conexión a Internet</string>
@@ -91,8 +91,8 @@
     <string name="dlg_mimarket_intercept_mimarket_install">Instalar desde Mi App Store</string>
     <string name="dlg_mimarket_intercept_msg">Instalar apps de terceros podría conllevar riesgos de seguridad. Descarga e instala Mi App Store para acceder a versiones seguras de las apps.</string>
     <string name="dlg_msg_unoffical">"No se puede instalar aplicaciones del sistema desde medios no oficiales"</string>
-    <string name="dlg_msg_unoffical_ok">OK</string>
-    <string name="dlg_ok">OK</string>
+    <string name="dlg_msg_unoffical_ok">Aceptar</string>
+    <string name="dlg_ok">Aceptar</string>
     <string name="dlg_sys_app_replacement_statement">"Esta es una app del sistema.
 
     Todos tus datos de usuarios anteriores serán guardados."</string>
@@ -111,16 +111,15 @@
     <string name="grant_dialog_button_allow">Permitir</string>
     <string name="grant_dialog_button_deny">Rechazar</string>
     <string name="grant_dialog_button_deny_anyway">Rechazar de todos modos</string>
-    <string name="help_app_permissions"/>
     <string name="high_risk_perms">Permisos de alto riesgo</string>
     <string name="increment_install_downloading">Descargando %1$s</string>
-    <string name="increment_install_network_error_cancel">Cancel</string>
-    <string name="increment_install_network_error_msg">A network error occurred. You can still continue installing the unofficial app. Continue?</string>
-    <string name="increment_install_network_error_ok">Continue</string>
-    <string name="increment_install_network_error_title">Network error</string>
-    <string name="increment_install_pathing">Verifying package…</string>
-    <string name="increment_install_pause_for_wifi">Waiting for network</string>
-    <string name="increment_preparing">Preparing…</string>
+    <string name="increment_install_network_error_cancel">Cancelar</string>
+    <string name="increment_install_network_error_msg">Ocurrió un error de red. Aún puede continuar instalando la aplicación no oficial. ¿Seguir?</string>
+    <string name="increment_install_network_error_ok">Continuar</string>
+    <string name="increment_install_network_error_title">Error de red</string>
+    <string name="increment_install_pathing">Verificando paquete…</string>
+    <string name="increment_install_pause_for_wifi">Esperando red</string>
+    <string name="increment_preparing">Preparando…</string>
     <string name="install">Instalar</string>
     <string name="install_app_progress_clear_apk">Eliminar APK</string>
     <string name="install_confirm_dialog_message">Esta app fue hecha por Google. Deberías instalar los servicios de Google Play para usar esta app con normalidad. Instalar esta app ahora podría hacer que tu dispositivo no funcione correctamente. ¿Instalar de todos modos?</string>
@@ -181,11 +180,11 @@
     <string name="message_install_in_market">Te recomendamos que instales la app desde App Store</string>
     <string name="message_quick_scanning">Escaneo rápido</string>
     <string name="message_staging">Preparando app...</string>
-    <string name="mimarket_install">Install from Mi App Store</string>
-    <string name="mimarket_install_more">Find more apps in GetApps</string>
-    <string name="mimarket_install_tips">Download and install Mi App Store to get more features</string>
-    <string name="mimarket_intercept_warning_msg">"This app wasn't checked for viruses by Xiaomi. Install this app from Mi App Store to avoid security risks."</string>
-    <string name="miui_app_danger">"This app isn't secure, don't install it."</string>
+    <string name="mimarket_install">Instalar desde Mi App Store</string>
+    <string name="mimarket_install_more">Encuentra más aplicaciones en GetApps</string>
+    <string name="mimarket_install_tips">Descargue e instale Mi App Store para obtener más funciones</string>
+    <string name="mimarket_intercept_warning_msg">"Xiaomi no verificó esta aplicación en busca de virus. Instale esta aplicación desde Mi App Store para evitar riesgos de seguridad."</string>
+    <string name="miui_app_danger">"Esta aplicación no es segura, no la instale."</string>
     <string name="miui_app_detail">Detalles</string>
     <string name="miui_app_permission_detail">Permisos necesarios</string>
     <string name="miui_app_virus">"Esta app es un virus, no la instales."</string>
@@ -214,6 +213,7 @@
     <string name="miui_failed_solution_5">Intenta usar un paquete de instalación compatible.</string>
     <string name="miui_failed_solution_6">Desinstala esta app en el Segundo espacio e intenta nuevamente.</string>
     <string name="miui_failed_solution_7">Descargua la última versión de esta app en GetApps.</string>
+    <string name="miui_failed_solution_8">Descarga la aplicación de GetApps.</string>
     <string name="miui_failed_system_incompatible">Paquete de instalación incompatible</string>
     <string name="miui_failed_update_incompatible">Firmas de apps en conflicto</string>
     <string name="miui_failed_version_downgrade">"No se pueden degradar las apps"</string>
@@ -237,6 +237,7 @@
     <string name="miui_message_staging_3">Preparando app...</string>
     <string name="miui_no_perms">No se requieren permisos</string>
     <string name="miui_not_uninstall_system_app">"No se pueden desinstalar las apps del sistema"</string>
+    <string name="miui_other_permission">Otro</string>
     <string name="miui_other_relative">Otro</string>
     <string name="miui_permission_manage_title">%s detalles</string>
     <string name="miui_please_clear">Eliminar virus</string>
@@ -299,7 +300,7 @@
     <string name="permission_action_prompt">Preguntar</string>
     <string name="permission_action_reject">Denegar</string>
     <string name="permission_group_title_charges_related">Teléfono</string>
-    <string name="permission_group_title_media_related">Media</string>
+    <string name="permission_group_title_media_related">Multimedia</string>
     <string name="permission_group_title_others">Otros</string>
     <string name="permission_group_title_privacy_related">Privacidad</string>
     <string name="permission_group_title_settings_related">Ajustes</string>
@@ -337,14 +338,12 @@
     <string name="search_menu_title">Buscar</string>
     <string name="security_settings_desc">Permitir que esta app:</string>
     <string name="settings">Configuración</string>
-    <string name="settings_warning_dialog_detail">"Se te preguntará en los siguientes casos:
-    "&lt;li&gt;Cuando una app contiene virus.&lt;/li&gt;"
-    "&lt;li&gt;El paquete de instalación proviene de una fuente desconocida.&lt;/li&gt;</string>
+    <string name="settings_warning_dialog_detail">\"Se te preguntará en los siguientes casos:
+    \"&lt;li&gt;Cuando una app contiene virus.&lt;/li&gt;\"
+    \"&lt;li&gt;El paquete de instalación proviene de una fuente desconocida.&lt;/li&gt;</string>
     <string name="settings_warning_dialog_msg">"Tu teléfono es propenso a riesgos de seguridad. No se te pedirá que instales versiones seguras de la app si desactivas esta función. ¿Apagar de todos modos?"</string>
     <string name="settings_warning_dialog_title">Atención</string>
     <string name="spannable_continue_text">Entiendo los riesgos. Instalar de todos modos.</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="system_warning">Si niegas este permiso, es posible que las funciones básicas de tu dispositivo ya no funcionen según lo previsto.</string>
     <string name="toast_network_eror">"No se puede conectar a la red"</string>
     <string name="trust_switch_dialog_msg">"No te avisará cuando esta app acceda a tus contactos, mensajes, contraseñas u otras partes del sistema."</string>
@@ -389,5 +388,4 @@
     <string name="waiting_tip">Esto puede llevar un tiempo, pero vale la pena.</string>
     <string name="wear_app_channel">Instalación/desinstalación de apps de Android Wear</string>
     <string name="wear_not_allowed_dlg_text">Acciones de instalación/desinstalación no compatibles con Wear.</string>
-    <string name="wear_not_allowed_dlg_title">Android Wear</string>
 </resources>

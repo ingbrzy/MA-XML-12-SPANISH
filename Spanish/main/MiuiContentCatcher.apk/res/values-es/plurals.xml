@@ -1,3 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="settings_clear_data_confirmation">
+        <item quantity="other">"Si elimina las contraseñas ahora, tendrá que ingresarlas manualmente la próxima vez que inicie sesión.
+Eliminar las contraseñas de %1$s aplicaciones seleccionadas?"</item>
+        <item quantity="one">"Si elimina las contraseñas ahora, deberá ingresarlas manualmente la próxima vez que inicie sesión.
+Eliminar la contraseña de %1$s aplicación seleccionada?"</item>
+    </plurals>
 </resources>
