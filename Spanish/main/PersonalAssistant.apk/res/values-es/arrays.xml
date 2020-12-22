@@ -1,85 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="aqi_title">
-    <item>Excelente</item>
-    <item>Liang</item>
-    <item>Leve</item>
-    <item>Moderado</item>
-    <item>Grave</item>
-    <item>Serio</item>
-  </string-array>
-  <string-array name="aqi_title_append">
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$sContaminación</item>
-    <item>%1$sContaminación</item>
-    <item>%1$sContaminación</item>
-    <item>%1$sContaminación</item>
-  </string-array>
-  <string-array name="aqi_title_prefix">
-    <item>Aire%1$s</item>
-    <item>Aire%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-  </string-array>
-  <string-array name="day_time_space">
-    <item>Noche</item>
-    <item>Temprano por la mañana</item>
-    <item>Mañana</item>
-    <item>Mediodía</item>
-    <item>Tarde</item>
-    <item>Al final de la tarde</item>
-    <item>Noche</item>
-  </string-array>
-  <string-array name="detail_font_size">
-    <item>Pequeño</item>
-    <item>Regular</item>
-    <item>Grande</item>
-  </string-array>
-  <string-array name="express_status_all">
-    <item>En el camino</item>
-    <item>Despacho</item>
-    <item>Enviado</item>
-    <item>Desconocido</item>
-    <item>Recibido</item>
-    <item>Rechazado</item>
-    <item>Volvió</item>
-    <item>Desconocido</item>
-  </string-array>
-  <string-array name="express_status_detail">
-    <item>En el camino</item>
-    <item>Enviar</item>
-  </string-array>
-  <string-array name="express_watched_app_filter">
-    <item>承运公司:</item>
-    <item>运单编号:</item>
-    <item>信息来源：</item>
-    <item>物流信息：</item>
-  </string-array>
-  <string-array name="keyword_recommend_unit">
-    <item>要</item>
-    <item>只要</item>
-  </string-array>
-  <string-array name="map_keyword">
-    <item>拥堵</item>
-    <item>公里拥堵</item>
-    <item>公里缓行</item>
-    <item>Construcción de carreteras</item>
-  </string-array>
-  <string-array name="map_title">
-    <item>Viaje máximo</item>
-    <item>Congestión severa</item>
-    <item>Condiciones de carretera suaves</item>
-    <item>Sin congestiones obvias</item>
-    <item>Tráfico inusual</item>
-  </string-array>
-  <string-array name="sms_exclude_category">
-    <item>Reembolso</item>
-  </string-array>
-  <string-array name="stock_color_schema">
-    <item>Rojo - arriba, verde - abajo</item>
-    <item>Verde - arriba, rojo - abajo</item>
-  </string-array>
+    <string-array name="agenda_weeks_of_year">
+        <item>Semana 1</item>
+        <item>Semana 2</item>
+        <item>Semana 3</item>
+        <item>Semana %1$d</item>
+    </string-array>
+    <string-array name="app_commute_tab_array">
+        <item>Conductor</item>
+        <item>Transporte público</item>
+        <item>Taxi</item>
+    </string-array>
+    <string-array name="base_day_time_space">
+        <item>Noche</item>
+        <item>Noche</item>
+        <item>Mañana</item>
+        <item>Tarde</item>
+        <item>Tarde</item>
+        <item>Noche</item>
+        <item>Noche</item>
+    </string-array>
+    <string-array name="day_time_space">
+        <item>Noche</item>
+        <item>Temprano por la mañana</item>
+        <item>Mañana</item>
+        <item>Mediodía</item>
+        <item>Tarde</item>
+        <item>Al final de la tarde</item>
+        <item>Noche</item>
+    </string-array>
+    <string-array name="detail_font_size">
+        <item>Pequeño</item>
+        <item>Normal</item>
+        <item>Grande</item>
+    </string-array>
+    <string-array name="stock_color_schema">
+        <item>Rojo - arriba, verde - abajo</item>
+        <item>Verde - arriba, rojo - abajo</item>
+    </string-array>
 </resources>

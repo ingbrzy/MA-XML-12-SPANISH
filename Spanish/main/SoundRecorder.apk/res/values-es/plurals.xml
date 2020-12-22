@@ -48,6 +48,18 @@
         <item quantity="other">Se encontraron %d grabaciones</item>
         <item quantity="one">Se encontró %d grabación</item>
     </plurals>
+    <plurals name="time_left_for_clear_file">
+        <item quantity="other">%d días restantes</item>
+        <item quantity="one">%d día restante</item>
+    </plurals>
+    <plurals name="trash_box_delete_items">
+        <item quantity="other">¿Eliminar %d grabaciones seleccionadas de forma permanente?</item>
+        <item quantity="one">¿Eliminar %d grabaciones seleccionadas de forma permanente?</item>
+    </plurals>
+    <plurals name="trash_box_tip">
+        <item quantity="other">Los elementos eliminados se pueden almacenar en la papelera hasta por %d días</item>
+        <item quantity="one">Los elementos eliminados se pueden almacenar en la papelera hasta por %d días</item>
+    </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">%d no sincronizadas</item>
         <item quantity="one">%d no sincronizada</item>

@@ -13,19 +13,6 @@
         <item>Días laborables</item>
         <item>Personalizado</item>
     </string-array>
-    <integer-array name="alarm_repeat_type_no_workdays_values">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="alarm_repeat_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
     <string-array name="app_behavior_type_menu">
         <item>Todos los registros</item>
         <item>Inicio automático</item>
@@ -35,24 +22,54 @@
     </string-array>
     <string-array name="applock_password_types">
         <item>Patrón</item>
-        <item>PIN</item>
+        <item>ALFILER</item>
         <item>Contraseña</item>
     </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MEGABYTE</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Plan mensual</item>
+        <item>Ilimitado</item>
+        <item>Plan diario</item>
+    </string-array>
+    <string-array name="clean_cached_process_white_list">
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.virtualsim</item>
+        <item>com.android.keyguard</item>
+        <item>com.android.keychain</item>
+        <item>com.miui.systemAdSolution</item>
+        <item>com.miui.msa.global</item>
+        <item>com.miui.securitycore</item>
+        <item>com.miui.personalassistant</item>
+        <item>com.android.updater</item>
+        <item>com.miui.analytics</item>
+        <item>com.miui.cleanmaster</item>
+        <item>com.miui.cleaner</item>
+    </string-array>
     <string-array name="daily_brand">
-        <item>Custom</item>
-        <item>Mi Fan card</item>
-        <item>Xiao Tiansheng card</item>
-        <item>Tencent King card</item>
+        <item>Personalizar</item>
+        <item>Mi tarjeta Fan</item>
+        <item>Tarjeta Xiao Tiansheng</item>
+        <item>Tarjeta de Tencent King</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Personalizada</item>
+        <item>Mi Móvil</item>
+        <item>Mi tarjeta Fan</item>
+        <item>Tarjeta de Tianshen</item>
+        <item>Tarjeta Tencent</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Ayer (datos)</item>
-        <item>Hoy (datos)</item>
-        <item>Mes pasado (datos)</item>
-        <item>Este mes (datos)</item>
-        <item>Ayer (Wi-Fi)</item>
-        <item>Hoy (Wi-Fi)</item>
-        <item>Mes pasado (Wi-Fi)</item>
-        <item>Este mes (Wi-Fi)</item>
+        <item>"Ayer (datos)"</item>
+        <item>"Hoy (datos)"</item>
+        <item>"Mes pasado (datos)"</item>
+        <item>"Este mes (datos)"</item>
+        <item>"Ayer (Wi-Fi)"</item>
+        <item>"Hoy (Wi-Fi)"</item>
+        <item>"Mes pasado (Wi-Fi)"</item>
+        <item>"Este mes (Wi-Fi)"</item>
     </string-array>
     <string-array name="date_of_traffic">
         <item>"Ayer "</item>
@@ -76,19 +93,28 @@
         <item>"Hoy: "</item>
         <item>"Este mes: "</item>
     </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Será posible acceder y editar archivos en su dispositivo usando una computadora.</item>
+        <item>Se permitirá la instalación de aplicaciones en su dispositivo sin su permiso explícito.</item>
+        <item>"Podrás monitorear y grabar el contenido de tu pantalla de forma remota."</item>
+        <item>Será posible acceder a la información detallada sobre su dispositivo.</item>
+    </string-array>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Sí</item>
+        <item>No</item>
+    </string-array>
     <string-array name="lock_mode">
         <item>Cuando el dispositivo esté bloqueado</item>
         <item>Cuando el dispositivo esté bloqueado o después de salir de la aplicación</item>
         <item>Cuando el dispositivo esté bloqueado o 1 minuto después de salir de la aplicación</item>
     </string-array>
-    <string-array name="lock_mode_value">
-        <item>1</item>
-        <item>0</item>
-        <item>2</item>
-    </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Uso de datos "</item>
         <item>"Uso de Wi-Fi "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Importante: Es posible que varias aplicaciones del sistema dejen de funcionar correctamente.</item>
+        <item>Es posible que los diseños de texto, las cuentas y el contenido no se muestren correctamente.</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Mostrar aviso</item>
@@ -116,34 +142,9 @@
         <item>"Las aplicaciones de terceros que no hayan sido verificadas podrían causar múltiples problemas y reducir la estabilidad del sistema."</item>
         <item>Algunas aplicaciones de terceros pueden contener malware que pondría tus datos personales en peligro.</item>
     </string-array>
-    <string-array name="power_dialog_auto_clean_memory_items">
-        <item>Después de 1 minuto</item>
-        <item>Después de 5 minutos</item>
-        <item>Después de 10 minutos</item>
-        <item>Nunca</item>
-    </string-array>
-    <string-array name="power_dialog_cpu_state_items">
-        <item>Alto rendimiento</item>
-        <item>Equilibrado</item>
-    </string-array>
-    <string-array name="power_dialog_sleep_items">
-        <item>15 segundos</item>
-        <item>30 segundos</item>
-        <item>1 minuto</item>
-        <item>2 minutos</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>Nunca</item>
-    </string-array>
-    <string-array name="power_dialog_vibration_items">
-        <item>No vibrar nunca</item>
-        <item>Vibrar en modo Silencio</item>
-        <item>Vibrar siempre</item>
-    </string-array>
-    <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Desactivar</item>
-        <item>Activar</item>
-        <item>Por defecto</item>
+    <string-array name="priority_storage_entries">
+        <item>Almacenamiento interno</item>
+        <item>Almacenamiento externo</item>
     </string-array>
     <string-array name="roaming_network_type">
         <item>Siempre</item>
