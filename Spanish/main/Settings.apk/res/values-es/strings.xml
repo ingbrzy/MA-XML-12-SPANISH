@@ -5585,7 +5585,6 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="runtime_permissions_summary_control_app_access">Controle el acceso de la aplicación a sus datos</string>
     <string name="runtime_permissions_summary_no_permissions_granted">No se han concedido permisos</string>
     <string name="runtime_permissions_summary_no_permissions_requested">No se han solicitado permisos</string>
-    <string name="rx_link_speed">%1$d Mbps</string>
     <string name="rx_link_speed_label">Velocidad de recepción:</string>
     <string name="rx_wifi_speed">Recibir velocidad de enlace</string>
     <string name="safety_and_regulatory_info">Manual de seguridad y normativas</string>
@@ -7120,7 +7119,6 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="twilight_mode_launch_location">Ajustes de ubicación</string>
     <string name="twilight_mode_location_off_dialog_message">Se necesita la ubicación del dispositivo para determinar las horas de puesta y salida del sol.</string>
     <string name="twohours">1 hora</string>
-    <string name="tx_link_speed">%1$d Mbps</string>
     <string name="tx_link_speed_label">Transmitir velocidad de enlace:</string>
     <string name="tx_wifi_speed">Transmitir velocidad de enlace</string>
     <string name="under_keyguard">Pantalla apagada</string>
@@ -7257,13 +7255,13 @@ Las huellas dactilares guardadas también se eliminarán del perfil y no podrás
     <string name="usage_state_app_usage_detail_title">Detalles de uso de la aplicación</string>
     <string name="usage_state_app_usage_list_title">"Tiempo de uso aplicaciones hoy"</string>
     <string name="usage_state_app_usage_list_week_title">"Tiempo de uso aplicaciones (últimos 7 días)"</string>
-    <string name="usage_state_app_usage_tip_title">Tiempo de uso entre %d:00 y %d:00</string>
+    <string name="usage_state_app_usage_tip_title">Tiempo de pantalla entre %1$d:00 y %2$d:00</string>
     <string name="usage_state_app_use_time">Uso de pantalla de aplicación</string>
     <string name="usage_state_channel_mouth">Últimos 30 días</string>
     <string name="usage_state_channel_week">Últimos 7 días</string>
     <string name="usage_state_date">d MMM</string>
-    <string name="usage_state_device_noti_today_tip_title">Notificaciones entre %d:00 y %d:00</string>
-    <string name="usage_state_device_unlock_today_tip_title">Dispositivo desbloqueado %d:00 and %d:00</string>
+    <string name="usage_state_device_noti_today_tip_title">Notificaciones entre %1$d:00 y %2$d:00</string>
+    <string name="usage_state_device_unlock_today_tip_title">Dispositivo desbloqueado entre %1$d:00 y %2$d:00</string>
     <string name="usage_state_friday">Vie</string>
     <string name="usage_state_go_more">Más aplicaciones</string>
     <string name="usage_state_less_one_minute">Menos de 1 minuto</string>
@@ -7287,11 +7285,11 @@ Las huellas dactilares guardadas también se eliminarán del perfil y no podrás
     <string name="usage_state_usage_time_remind">Alerta de tiempo de uso</string>
     <string name="usage_state_use_time_remind_title">Alerta de tiempo de uso</string>
     <string name="usage_state_wednesday">Mie</string>
-    <string name="usage_state_week_day_hour_minute">Fin de semana: %dh %dm</string>
+    <string name="usage_state_week_day_hour_minute">Fines de semana: %1$dh %2$dm</string>
     <string name="usage_state_week_total_text">Tiempo de uso (últimos 7 días)</string>
     <string name="usage_state_which_mouth">MMM</string>
     <string name="usage_state_work_day">Días de la semana</string>
-    <string name="usage_state_work_day_hour_minute">Días de la semana: %dh %dm</string>
+    <string name="usage_state_work_day_hour_minute">Entre semana: %1$dh %2$dmin</string>
     <string name="usage_stats_label">Estadísticas de uso</string>
     <string name="usage_stats_normal_day">Días de la semana</string>
     <string name="usage_stats_week_day">Fin de semana</string>
@@ -7329,9 +7327,9 @@ Las huellas dactilares guardadas también se eliminarán del perfil y no podrás
     <string name="usagestats_app_category_miui_video_etc">Musica y video</string>
     <string name="usagestats_device_notification_des">Tiempo límite de pantalla para hoy: %s</string>
     <string name="usagestats_device_notification_des_over">"Ya has alcanzado tu límite de tiempo de pantalla hoy."</string>
-    <string name="usagestats_device_notification_des_reset">"Límite de hoy: %s | %s restante"</string>
+    <string name="usagestats_device_notification_des_reset">"Límite de hoy: %1$s | %2$s restante"</string>
     <string name="usagestats_device_notification_title">Alerta de tiempo de pantalla</string>
-    <string name="usagestats_device_timeout_des">"Has estado usando tu dispositivo para %d h %d m hoy. ¡Descansa un poco!"</string>
+    <string name="usagestats_device_timeout_des">"Has estado usando tu dispositivo durante %1$dh %2$dm hoy. ¡Descansa un poco!"</string>
     <string name="usagestats_device_timeout_negative">Recordar en 1 hora</string>
     <string name="usagestats_device_timeout_positive">Lo tengo</string>
     <string name="usagestats_device_timeout_title">Alerta de tiempo de pantalla</string>
@@ -8153,7 +8151,7 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wifi_password">Contraseña</string>
     <string name="wifi_poor_network_detection">Solo conexiones estables</string>
     <string name="wifi_poor_network_detection_summary">"No usar una red Wi-Fi a menos que tengas una buena conexión a Internet"</string>
-    <string name="wifi_priority_changed">Valor antiguo %s | Nuevo valor %s</string>
+    <string name="wifi_priority_changed">Valor antiguo %1$s | Nuevo valor %2$s</string>
     <string name="wifi_priority_label">Prioridad</string>
     <string name="wifi_priority_settings_label">Ajustes de prioridad</string>
     <string name="wifi_priority_settings_summary">Establecer prioridad de cada punto de acceso</string>
