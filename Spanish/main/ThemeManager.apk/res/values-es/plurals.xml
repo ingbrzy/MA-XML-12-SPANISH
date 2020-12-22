@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
+        <item quantity="one">Hace 1 hora</item>
         <item quantity="other">Hace 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">Hace 1 hora</item>
         <item quantity="other">Hace 1 hora</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
+        <item quantity="one">En 1 hora</item>
         <item quantity="other">En 1 hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
+        <item quantity="one">En media hora</item>
         <item quantity="other">En media hora</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Inmediatamente</item>
         <item quantity="other">Inmediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
@@ -23,7 +29,8 @@
         <item quantity="one">en 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Justo ahora</item>
+        <item quantity="other">Ahora</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Hace %d min</item>
@@ -71,7 +78,7 @@
     </plurals>
     <plurals name="de_author_fans_amount">
         <item quantity="other">%1$d fans</item>
-        <item quantity="one">%1$d fan</item>
+        <item quantity="one">%1$d ventilador</item>
     </plurals>
     <plurals name="de_author_theme_amount">
         <item quantity="other">%1$d elementos</item>
@@ -86,8 +93,8 @@
         <item quantity="one">%1$d comentario más</item>
     </plurals>
     <plurals name="detail_reward_few_times">
-        <item quantity="other">%s rewards</item>
-        <item quantity="one">%s reward</item>
+        <item quantity="other">%s recompensas</item>
+        <item quantity="one">%s recompensa</item>
     </plurals>
     <plurals name="detail_reward_times">
         <item quantity="other">%s recompensas</item>
@@ -101,11 +108,20 @@
         <item quantity="other">Hace %d minutos</item>
         <item quantity="one">Hace %d minuto</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avance rápido %d segundos</item>
+        <item quantity="one">Avance rápido %d segundos</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Rebobinar %d segundos</item>
+        <item quantity="one">Rebobinar %d segundos</item>
+    </plurals>
     <plurals name="guide_used_number">
         <item quantity="other">Aplicado en %1$d dispositivos</item>
         <item quantity="one">Aplicado en %1$d dispositivo</item>
     </plurals>
     <plurals name="half_hour_ago">
+        <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>
     </plurals>
     <plurals name="icon_batch_has_update_text">
@@ -117,12 +133,15 @@
         <item quantity="one">Actualizando %1$d icono…</item>
     </plurals>
     <plurals name="in_a_hour">
+        <item quantity="one">En 1 hora</item>
         <item quantity="other">En 1 hora</item>
     </plurals>
     <plurals name="in_half_hour">
+        <item quantity="one">En media hora</item>
         <item quantity="other">En media hora</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
+        <item quantity="one">Inmediatamente</item>
         <item quantity="other">Inmediatamente</item>
     </plurals>
     <plurals name="in_num_minutes">
@@ -130,7 +149,8 @@
         <item quantity="one">en 1 minuto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Justo ahora</item>
+        <item quantity="other">Ahora</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d nuevas notificaciones</item>

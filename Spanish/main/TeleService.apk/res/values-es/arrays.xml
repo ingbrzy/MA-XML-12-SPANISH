@@ -17,11 +17,6 @@
         <item>Máximo 3 procesos</item>
         <item>Máximo 4 procesos</item>
     </string-array>
-    <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Usar preferencia del sistema (predeter.)</item>
         <item>16 bits por muestra</item>
@@ -96,26 +91,23 @@
         <item>, activo (contenido multimedia)</item>
         <item>, activo (teléfono)</item>
     </string-array>
-    <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp14</item>
-        <item>avrcp13</item>
-        <item>avrcp15</item>
-        <item>avrcp16</item>
-    </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Predeterminada)</item>
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAPA 1.2 (Predeterminado)</item>
+        <item>MAPA 1.3</item>
+        <item>MAPA 1.4</item>
+    </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Inhabilitado</item>
-        <item>Habilitado con filtros</item>
+        <item>Enabled Filtered</item>
         <item>Habilitado</item>
-    </string-array>
-    <string-array name="cdma_subscription_choices">
-        <item>RUIM/SIM</item>
-        <item>NV</item>
+        <item>Enabled Headers Filtered</item>
+        <item>Enabled Media Pkts Filtered</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Solo Inicio</item>
@@ -136,24 +128,27 @@
         <item>Natural</item>
         <item>Estándar</item>
     </string-array>
+    <string-array name="config_rcs_provision_error_on_publish_response">
+        <item>404 No encontrado</item>
+    </string-array>
+    <string-array name="config_volte_provision_error_on_publish_response">
+        <item>403 no autorizado para presencia</item>
+    </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Desactivado</item>
         <item>Mostrar áreas sobredibujadas</item>
         <item>Mostrar áreas para deuteranomalía</item>
-    </string-array>
-    <string-array name="debug_hw_renderer_entries">
-        <item>OpenGL (predeterminado)</item>
-        <item>OpenGL (Skia)</item>
-    </string-array>
-    <string-array name="dtmf_tone_entries">
-        <item>Normal</item>
-        <item>Largo</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Desactivado</item>
         <item>Logcat</item>
         <item>Systrace (gráficos)</item>
         <item>Pila de llamadas en glGetError</item>
+    </string-array>
+    <string-array name="enhanced_4g_lte_mode_title_variant">
+        <item>@string/enhanced_4g_lte_mode_title</item>
+        <item>Llamadas avanzadas</item>
+        <item>Llamadas 4G</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>No utilizar comprobación de HDCP</item>
@@ -192,26 +187,42 @@
         <item>LTE / WCDMA</item>
         <item>LTE</item>
         <item>Global</item>
-        <item>GSM/WCDMA/LTE</item>
-        <item>CDMA + LTE/EvDo</item>
-        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>GSM/WCDMA auto</item>
+        <item>CDMA/EvDo auto</item>
+        <item>CDMA w/o EvDo</item>
         <item>Solo EvDo</item>
-        <item>CDMA sin EvDo</item>
-        <item>CDMA/EvDo automático</item>
-        <item>GSM/WCDMA automático</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
         <item>Solo WCDMA</item>
-        <item>Solo GSM</item>
-        <item>GSM/WCDMA preferido</item>
+        <item>LTE</item>
+        <item>LTE / WCDMA</item>
+        <item>Solo TDSCDMA</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>Solo NR</item>
+        <item>NR/LTE</item>
+        <item>NR/LTE/CDMA/EvDo</item>
+        <item>NR/LTE/GSM/WCDMA</item>
+        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>NR/LTE/WCDMA</item>
+        <item>NR/LTE/TDSCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM</item>
+        <item>NR/LTE/TDSCDMA/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>Mundial</item>
         <item>LTE / CDMA</item>
         <item>LTE / GSM / UMTS</item>
-    </string-array>
-    <string-array name="preferred_network_mode_values_world_mode">
-        <item>10</item>
-        <item>8</item>
-        <item>9</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Desactivado</item>
@@ -277,16 +288,22 @@
         <item>Hiperrrápida</item>
         <item>La más rápida</item>
     </string-array>
-    <string-array name="tty_mode_entries">
-        <item>TTY desactivado</item>
-        <item>TTY completo</item>
-        <item>TTY HCO</item>
-        <item>TTY VCO</item>
+    <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>LTE</item>
+        <item>Modo triple</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Modo triple</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Carga</item>
-        <item>MTP (Media Transfer Protocol)</item>
-        <item>PTP (Picture Transfer Protocol)</item>
+        <item>MTP (Protocolo de transferencia de medios)</item>
+        <item>PTP (Protocolo de transferencia de imágenes)</item>
         <item>RNDIS (Ethernet USB)</item>
         <item>Fuente de audio</item>
         <item>MIDI</item>

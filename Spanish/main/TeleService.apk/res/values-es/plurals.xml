@@ -4,9 +4,15 @@
         <item quantity="other">El teléfono permanecerá en el modo de devolución de llamada durante %s minutos. Durante este tiempo, no se podrán usar las aplicaciones que utilicen una conexión de datos. ¿Quiere salir ahora?</item>
         <item quantity="one">El teléfono permanecerá en el modo de devolución de llamada de emergencia durante %s minuto. Durante este tiempo, no se podrán usar las aplicaciones que utilicen una conexión de datos. ¿Quiere salir ahora?</item>
     </plurals>
+    <plurals name="alert_dialog_exit_ecm_without_data_restriction_hint">
+        <item quantity="other">"El teléfono estará en modo de devolución de llamada de emergencia durante %s minutos.
+¿Quieres salir ahora?"</item>
+        <item quantity="one">"El teléfono estará en modo de devolución de llamada de emergencia durante %s minutos.
+¿Quieres salir ahora?"</item>
+    </plurals>
     <plurals name="alert_dialog_not_avaialble_in_ecm">
-        <item quantity="other">La acción seleccionada no está disponible durante el modo de devolución de llamada de emergencia. El teléfono permanecerá en este modo durante %s minutos. ¿Quiere salir ahora?</item>
-        <item quantity="one">La acción seleccionada no está disponible durante el modo de devolución de llamada de emergencia. El teléfono permanecerá en este modo durante %s minuto. ¿Quiere salir ahora?</item>
+        <item quantity="other">"La acción seleccionada no está disponible durante el modo de devolución de llamada de emergencia. El teléfono permanecerá en este modo durante %s minutos. ¿Quiere salir ahora?"</item>
+        <item quantity="one">"La acción seleccionada no está disponible durante el modo de devolución de llamada de emergencia. El teléfono permanecerá en este modo durante %s minuto. ¿Quiere salir ahora?"</item>
     </plurals>
     <plurals name="auto_answer_summary_delay">
         <item quantity="other">retraso: %s segundos</item>
@@ -23,6 +29,14 @@
     <plurals name="call_remove_exception_numbers_confirm">
         <item quantity="other">Se borrarán %d números.</item>
         <item quantity="one">Se borrará %d número.</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%s días</item>
+        <item quantity="one">%s día</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%s horas</item>
+        <item quantity="one">%s hora</item>
     </plurals>
     <plurals name="pin_attempts">
         <item quantity="other">"
