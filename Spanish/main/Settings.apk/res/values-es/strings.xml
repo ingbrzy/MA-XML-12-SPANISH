@@ -1735,7 +1735,6 @@ Esta función puede ser desactivada en [Ajustes]</string>
     <string name="condition_zen_summary_phone_muted">Teléfono silenciado</string>
     <string name="condition_zen_summary_with_exceptions">Con excepciones</string>
     <string name="condition_zen_title">No molestar está activado</string>
-    <string name="config_charging_function_name">cargando</string>
     <string name="config_list_label">Redes configuradas</string>
     <string name="configure">Configurar</string>
     <string name="configure_apps">Configurar aplicaciones</string>
@@ -3617,8 +3616,6 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="location_agps_apn_choose_dialog_title">Tipos de APN</string>
     <string name="location_agps_apn_summary">Selecciona el tipo de APN preferida</string>
     <string name="location_agps_apn_type">Tipos de APN</string>
-    <string name="location_agps_def_network_mode">CASA</string>
-    <string name="location_agps_def_reset_type">TENDENCIA</string>
     <string name="location_agps_params_settings_title">Ajustes A-GPS</string>
     <string name="location_agps_pref_apn_title">APN preferida</string>
     <string name="location_agps_pref_network_title">Redes preferidas</string>
@@ -4523,10 +4520,10 @@ Selecciona tu sistema operativo:"</string>
     <string name="nfc_repair_btn_reboot_later">Más tarde</string>
     <string name="nfc_repair_btn_retry">Inténtalo de nuevo</string>
     <string name="nfc_repair_btn_yes">Si</string>
-    <string name="nfc_repair_confirm_desc" formatted="false">"¿Has experimentado alguno de estos problemas?
-%d. No puede agregar o recargar una tarjeta NFC.
-%d. Su tarjeta NFC no funcionó.
-%d. No se cargarán otras funciones de NFC."</string>
+    <string name="nfc_repair_confirm_desc">"¿Has experimentado alguno de estos problemas?
+%1$d. No se pudo agregar o recargar una tarjeta NFC.
+%2$d. Tu tarjeta NFC no funcionó.
+%3$d. Otras características NFC no se cargan."</string>
     <string name="nfc_repair_fail_desc">Se produjo un error que impidió la restauración de la funcionalidad NFC. Inténtalo de nuevo.</string>
     <string name="nfc_repair_fail_title">"No se pudo restaurar"</string>
     <string name="nfc_repair_ongoing">"\"Restaurando… No salgas de esta página\"."</string>
@@ -5076,7 +5073,7 @@ Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="power_remaining_duration_only_enhanced">Alrededor de %1$s restante en función de su uso</string>
     <string name="power_remaining_duration_only_short">%1$s restante</string>
     <string name="power_remaining_duration_only_shutdown_imminent">El teléfono puede apagarse pronto</string>
-    <string name="power_remaining_duration_shutdown_imminent">El teléfono puede apagarse pronto (%2$s)</string>
+    <string name="power_remaining_duration_shutdown_imminent">El dispositivo puede apagarse pronto (%1$s)</string>
     <string name="power_remaining_less_than_duration">Menos del %1$s restante (%2$s)</string>
     <string name="power_remaining_less_than_duration_only">Queda menos del %1$s</string>
     <string name="power_remaining_more_than_subtext">Más de %1$s restantes (%2$s)</string>

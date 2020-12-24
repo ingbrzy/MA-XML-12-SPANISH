@@ -360,7 +360,7 @@
     <string name="battery_info_status_full">Lleno</string>
     <string name="battery_info_status_not_charging">"No se está cargando"</string>
     <string name="battery_info_status_unknown">Desconocido</string>
-    <string name="battery_low_percent_format">%d%% restante</string>
+    <string name="battery_low_percent_format">%s restante</string>
     <string name="battery_low_percent_format_hybrid">%1$s restante, aproximadamente %2$s restante según su uso</string>
     <string name="battery_low_percent_format_hybrid_short">%1$s restante, aproximadamente %2$s restante</string>
     <string name="battery_low_percent_format_saver_started">%s restante. Ahorro de batería activado.</string>
@@ -583,7 +583,6 @@ Vuelva a intentarlo en %d segundo."</string>
     <string name="connected_via_network_scorer_default">Conectado automáticamente vía proveedor de clasificaciones de redes</string>
     <string name="connected_via_passpoint">Conectado vía %1$s</string>
     <string name="content_description_menu_button">Menú</string>
-    <string name="control_quick_settings_tiles_super_save">gps, nfc, captura de pantalla, vibrar</string>
     <string name="controls_added_tooltip">Mantenga presionado el botón de encendido para ver nuevos controles</string>
     <string name="controls_confirmation_confirming">Confirmando…</string>
     <string name="controls_confirmation_message">Confirmar cambio por %s</string>
@@ -1220,8 +1219,6 @@ d MMMM"</string>
     <string name="miui_notification_menu_setting_success">Hecho</string>
     <string name="miui_notification_menu_snooze">Repetición</string>
     <string name="miui_notification_menu_title_not_allow">Restringir</string>
-    <string name="miui_quick_settings_tiles_default">voteifi1, vocalifi2, celular, wifi, linterna, silencio, captura de pantalla, bt, brillo automático, avión, bloqueo de pantalla, gps, rotación, modo papel, noche, modo silencioso, ahorro de batería, ahorro de batería extremo, personalizado (com.miui.securitycenter / com.miui.superpower. notificación.SuperPowerTileService), personalizado (com.milink.service / com.milink.ui.service.MiLinkTileService), personalizado (com.miui.mishare.connectivity / .tile.MiShareTileService), modo de energía, personalizado (com.miui.screenrecorder / .service.QuickService), vibrar, punto de acceso, sincronización, botón de pantalla, potencia inalámbrica, nfc, editar</string>
-    <string name="miui_quick_settings_tiles_stock">Vocali1, Vocali2, Celda, Wifi, Linterna, Silencio, Captura de pantalla, BT, Brillo automático, Avión, Bloqueo de pantalla, Gps, Rotación, Modo papel, Noche, Modo silencioso, Ahorro de batería, Ahorro de batería extremo, Modo de energía, Vibrar, Punto de acceso, Sincronización, Botón de pantalla, Potencia inalámbrica, NFC, editar, modo de manejo, modo de trabajo</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -1335,7 +1332,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="not_default_data_content_description">No configurado para usar datos</string>
     <string name="not_set">Sin definir</string>
     <string name="notification_alert_title">Alertas</string>
-    <string name="notification_app_settings">Personalizar: %1$s</string>
+    <string name="notification_app_settings">Personalizar</string>
     <string name="notification_appops_ok">Ok</string>
     <string name="notification_appops_settings">Ajustes</string>
     <string name="notification_bubble_title">Burbuja</string>
@@ -1488,7 +1485,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="power_remaining_duration_only_enhanced">Alrededor de %1$s restante en función de su uso</string>
     <string name="power_remaining_duration_only_short">%1$s restante</string>
     <string name="power_remaining_duration_only_shutdown_imminent">El teléfono puede apagarse pronto</string>
-    <string name="power_remaining_duration_shutdown_imminent">El teléfono puede apagarse pronto (%1$s)</string>
+    <string name="power_remaining_duration_shutdown_imminent">El dispositivo puede apagarse pronto (%1$s)</string>
     <string name="power_remaining_less_than_duration">Queda menos del %1$s (%2$s)</string>
     <string name="power_remaining_less_than_duration_only">Queda menos del %1$s</string>
     <string name="power_remaining_more_than_subtext">Más de %1$s restantes (%2$s)</string>
@@ -1654,8 +1651,6 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="quick_settings_settings_label">Ajustes</string>
     <string name="quick_settings_sync_label">Sincronizar</string>
     <string name="quick_settings_tethering_label">Compartiendo Internet</string>
-    <string name="quick_settings_tiles_old_mode">celular,wifi,bt,linterna,batería,captura de pantalla,editar</string>
-    <string name="quick_settings_tiles_super_save">celular,wifi,bt,gps,vibrar</string>
     <string name="quick_settings_time_label">Tiempo</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Para agregar un elemento, manténgalo pulsado y luego arrástrelo a la parte superior del panel.</string>
     <string name="quick_settings_ui_mode_night_label">Tema oscuro</string>
