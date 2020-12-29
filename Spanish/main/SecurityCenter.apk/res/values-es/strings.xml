@@ -142,7 +142,6 @@
     <string name="adjust_traffic_carrier_summary_yesterday">Actualizado ayer a las %s</string>
     <string name="adjust_traffic_data">Establecer uso de datos</string>
     <string name="after_the_lock_screen">Bloquear aplicaciones con la pantalla</string>
-    <string name="ai_allow_all">Notificar cuando se use el permiso para todos</string>
     <string name="alert_back_diving_mode_summary">¿Desactiva el modo inmersivo ahora?</string>
     <string name="alert_back_diving_mode_title">Modo inmersivo</string>
     <string name="alert_back_milink_hangup_tips_content">"El envío no se interrumpirá mientras finaliza una llamada. Puede presionar el botón de Encendido para activar la pantalla."</string>
@@ -241,7 +240,6 @@
     <string name="app_behavior_key_camera">Tomando fotos</string>
     <string name="app_behavior_key_location">Ubicación</string>
     <string name="app_behavior_key_protect">Protege tu información personal</string>
-    <string name="app_behavior_link_start">Inicio provocado</string>
     <string name="app_behavior_list_load_more">Cargando…</string>
     <string name="app_behavior_location">%1s accedió a tu ubicación</string>
     <string name="app_behavior_location_bg">%1s accedió a tu ubicación en segundo plano</string>
@@ -303,8 +301,6 @@
     <string name="app_behavior_settings_category_privacy">Proteger información personal</string>
     <string name="app_behavior_settings_perm_tips">Mostrar una alerta en la barra de estado cuando las aplicaciones acceden a tu ubicación, graban audio o toman fotos</string>
     <string name="app_behavior_settings_privacy_tips">Recibe notificaciones cuando las aplicaciones accedan a tus contactos, historial de llamadas o realicen otras acciones delicadas</string>
-    <string name="app_behavior_share_file">Recurso compartido de archivos</string>
-    <string name="app_behavior_share_picture">Compartir imagen</string>
     <string name="app_behavior_sms_read">%1s leyó SMS</string>
     <string name="app_behavior_sms_read_single">Esta app leyó SMS</string>
     <string name="app_behavior_sms_send">%1s envió SMS</string>
@@ -1389,7 +1385,6 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="fw_blocked_join">" y "</string>
     <string name="fw_oversea">Bloquear llamadas desde el extranjero</string>
     <string name="fw_oversea_content">Bloquear llamadas entrantes desde números de teléfono extranjeros</string>
-    <string name="gallery_confirm_start_activity">%s está intentando acceder a las imágenes a través de otra aplicación. ¿Permitir?</string>
     <string name="game_ad_recommendation">Todos están jugando</string>
     <string name="game_anti_disturb_msg">No molestar en juegos</string>
     <string name="game_booster">Juego Turbo</string>
@@ -1579,7 +1574,6 @@ para obtener una prueba gratuita de 3 días."</string>
     <string name="gb_voice_changer_toast_window_new_tips">"¡Prueba el cambiador de voz!
 Cambia entre diferentes personajes y efectos especiales."</string>
     <string name="gb_voice_changer_toast_window_open">Activó el efecto \"%s\"</string>
-    <string name="gb_voice_changer_toast_window_vip_expire">Su suscripción está a punto de caducar. ¡Renueve la suscripción ahora para obtener beneficios!</string>
     <string name="gb_voice_changer_trial_gender_dialog">¡Recibió una prueba gratuita con éxito! Seleccione el género para ajustar los efectos y las recomendaciones en consecuencia.</string>
     <string name="gb_voice_changer_trial_gender_dialog_title">Prueba gratis</string>
     <string name="gb_voice_changer_trial_progress_dialog_message">Recibir una prueba gratuita…</string>
@@ -1589,7 +1583,6 @@ y explore nuestro cambiador de voz!"</string>
     <string name="gb_voice_changer_user_status_no_login">Iniciar sesión en Cuenta Mi</string>
     <string name="gb_voice_changer_user_status_remain_time">Fecha de caducidad: %s</string>
     <string name="gb_voice_changer_user_status_renew">Renovar</string>
-    <string name="gb_voice_changer_user_tips_info_vip_expire">Tus suscripciones expiraron. ¡Renueve la suscripción ahora para obtener beneficios!</string>
     <string name="gb_wonderful_moment_toast_window_new_pop">"Grabe momentos clave
 de sus sesiones de juego"</string>
     <string name="gb_wonderful_video_cancel">Cancelar</string>
@@ -1801,7 +1794,6 @@ La compañía telefónica puede cobrar cargos adicionales si usas la conexión d
     <string name="lockpattern_pattern_confirmed_header">Nuevo patrón de desbloqueo</string>
     <string name="lockpattern_pattern_entered_header">Patrón añadido</string>
     <string name="lockpattern_recording_inprogress">"Levante el dedo cuando haya terminado"</string>
-    <string name="lockpattern_recording_intro_header">Conecte al menos 4 puntos para crear un patrón</string>
     <string name="lockpattern_retry_button_text">Intentar de nuevo</string>
     <string name="lockpattern_settings_help_how_to_record">Establezca un patrón</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">¡Demasiados intentos fallidos!</string>
@@ -2338,7 +2330,6 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="permgroupdesc_sms">Leer o enviar SMS</string>
     <string name="permgroupdesc_storage">Acceder a fotos o archivos en el dispositivo</string>
     <string name="permission_action_accept">Aceptar</string>
-    <string name="permission_action_ai_prompt">Notificar cuando se usa el permiso</string>
     <string name="permission_action_always">Permitir siempre</string>
     <string name="permission_action_desc">Otorgue permisos pero devuelva mensajes en blanco a la aplicación para proteger la privacidad</string>
     <string name="permission_action_desc_always">Este permiso se puede utilizar en cualquier momento</string>
@@ -3026,7 +3017,6 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="read_clipboard_ai_close_no">Ahora no</string>
     <string name="read_clipboard_ai_close_tip">"Ya no recibirás notificaciones cuando las aplicaciones accedan al portapapeles. En cambio, solo podrán usar este permiso mientras esté usando la aplicación. ¿Ajustar permisos?"</string>
     <string name="read_clipboard_ai_close_yes">Ajustar</string>
-    <string name="read_clipboard_op_content">"En lugar de otorgar el permiso solo cuando está utilizando la aplicación, recibirá una notificación cada vez que las aplicaciones accedan a su portapapeles."</string>
     <string name="read_clipboard_op_title">Notificar cuando las aplicaciones acceden a elementos en el portapapeles</string>
     <string name="read_clipboard_tip_content">Este permiso permite que las aplicaciones lean cualquier contenido que copie, que puede incluir información privada (por ejemplo, detalles de la cuenta, números de tarjetas bancarias y contraseñas).</string>
     <string name="read_clipboard_tip_title">Acceder a elementos en el portapapeles</string>
@@ -3878,9 +3868,7 @@ Los datos restantes incluyen datos excedentes del mes anterior."</string>
     <string name="unlock_pattern_to_bind_fingerprint">Introduce la contraseña para activar la huella</string>
     <string name="unlock_set_unlock_password_summary">Combine diferentes caracteres</string>
     <string name="unlock_set_unlock_password_title">Contraseña</string>
-    <string name="unlock_set_unlock_pattern_summary">Conecte al menos 4 puntos</string>
     <string name="unlock_set_unlock_pattern_title">Patrón</string>
-    <string name="unlock_set_unlock_pin_summary">Introduce 4 dígitos</string>
     <string name="usage_sorted_activity_lable">Uso de datos</string>
     <string name="usage_sorted_empty_text">Vacío</string>
     <string name="usage_sorted_loading_text">Un momento…</string>

@@ -577,7 +577,6 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="app_list_preference_none">Nada</string>
     <string name="app_memory_use">Uso de memoria</string>
     <string name="app_mobile">Móvil</string>
-    <string name="app_name">Preferencia</string>
     <string name="app_name_label">Aplicación</string>
     <string name="app_name_na">Uso de datos</string>
     <string name="app_not_found_dlg_text">No se ha encontrado la aplicación en la lista de aplicaciones instaladas.</string>
@@ -3391,7 +3390,6 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="keyboard_shortcuts_helper">Ayuda de accesos directos de teclado</string>
     <string name="keyboard_shortcuts_helper_summary">Mostrar accesos directos de teclado disponibles</string>
     <string name="keyguard_advance_setting_title">Ajustes avanzados</string>
-    <string name="keyguard_notification_status_title">Cuando lleguen notificaciones y la pantalla esté apagada</string>
     <string name="keyguard_security_setting_others">Otros</string>
     <string name="keyguard_security_setting_privacy_policy">Política de Privacidad</string>
     <string name="keywords_accounts">cuenta</string>
@@ -3774,7 +3772,6 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="lockpassword_clear_label">Claro</string>
     <string name="lockpassword_confirm_for_second_user">Confirma la contraseña del Segundo espacio</string>
     <string name="lockpassword_confirm_label">Confirmar</string>
-    <string name="lockpassword_confirm_passwords_dont_match">Las contraseñas no coinciden</string>
     <string name="lockpassword_confirm_pins_dont_match">"Los PIN no coinciden"</string>
     <string name="lockpassword_confirm_workspace_password">Comprobar contraseña del Espacio de Trabajo</string>
     <string name="lockpassword_confirm_your_lock_password_header">Confirma tu contraseña</string>
@@ -4111,7 +4108,6 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="miheadset_equalizer">Ecualizador</string>
     <string name="miheadset_game_mode">Modo de juego</string>
     <string name="miheadset_game_mode_summary">Reducir la demora de audio mientras juega</string>
-    <string name="miheadset_ignore">Eliminar este dispositivo</string>
     <string name="miheadset_in_ear_check">Detecta la presencia del oído</string>
     <string name="miheadset_in_ear_check_summary">Pausar y reanudar la reproducción automáticamente mientras usa o se quita los auriculares</string>
     <string name="miheadset_last_version">El firmware está actualizado</string>
@@ -4978,7 +4974,6 @@ Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="picture_color_mode">Modo color de imagen</string>
     <string name="picture_color_mode_desc">Usar sRGB</string>
     <string name="picture_in_picture_app_detail_summary">"Permite que la aplicación cree una ventana imagen en imagen mientras esté abierta o después de que hayas salido de ella (por ejemplo, para seguir viendo un vídeo). La ventana se muestra sobre otras aplicaciones que estés utilizando."</string>
-    <string name="picture_in_picture_app_detail_switch">Permitir imagen en imagen</string>
     <string name="picture_in_picture_app_detail_title">Imagen en imagen</string>
     <string name="picture_in_picture_empty_text">Las aplicaciones instaladas no admiten el modo Imagen en imagen</string>
     <string name="picture_in_picture_keywords">imagen PIP en</string>
@@ -5089,7 +5084,6 @@ Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="power_usage_old_debug">%1$s izquierda (antiguo est)</string>
     <string name="power_usage_summary">Consumo de la batería</string>
     <string name="power_usage_summary_title">Batería y rendimiento</string>
-    <string name="power_usage_summary_title_new">Batería y rendimiento</string>
     <string name="power_wifi">Wi-Fi</string>
     <string name="pre_installed_application">Aplicaciones preinstaladas</string>
     <string name="pref_bg_network_title">Datos en segundo plano</string>
@@ -5611,22 +5605,16 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="screen_dark_mode_smart_dark_title">Modo oscuro general</string>
     <string name="screen_dark_mode_time_title">Programar</string>
     <string name="screen_effect">Contraste y colores</string>
-    <string name="screen_enhance_engine_ai_note">"Para asegurarse de que su experiencia de visualización sea natural, esta función no funcionará si la imagen consta de colores primarios o contiene ajustes avanzados."</string>
     <string name="screen_enhance_engine_ai_open">Mejorar imágenes</string>
-    <string name="screen_enhance_engine_ai_pic_summary">Identifique objetos (por ejemplo, plantas, animales, edificios) y ajuste dinámicamente los efectos de visualización. Esta característica aumenta ligeramente el consumo de energía.</string>
     <string name="screen_enhance_engine_ai_title">Mejora de imagen AI</string>
     <string name="screen_enhance_engine_memc_note">"No se pueden mejorar los videos cuando la súper resolución está activada. Al activar los videos mejorados, desactivará la súper resolución."</string>
     <string name="screen_enhance_engine_memc_open">MEMC</string>
-    <string name="screen_enhance_engine_memc_pic_summary">Agregue marcos adicionales a los videos para que el contenido parezca fluido y las transiciones sean más animadas.</string>
     <string name="screen_enhance_engine_memc_title">MEMC</string>
     <string name="screen_enhance_engine_s2h_open">Mejora AI HDR</string>
-    <string name="screen_enhance_engine_s2h_pic_summary">Procese videos con efectos HDR para resaltar más detalles en las áreas más claras y más oscuras y hacer que los colores sean más vibrantes. Esta función es compatible con aplicaciones seleccionadas.</string>
     <string name="screen_enhance_engine_s2h_title">Mejora AI HDR</string>
     <string name="screen_enhance_engine_sr_for_pic">Mejorar imágenes</string>
     <string name="screen_enhance_engine_sr_for_video">Mejorar videos</string>
     <string name="screen_enhance_engine_sr_for_video_note">"La súper resolución no funciona con videos mejorados. Al activar la súper resolución, desactivará los videos mejorados."</string>
-    <string name="screen_enhance_engine_sr_pic_summary">Mejora la resolución de imágenes o videos hasta 1440p. Esta función es compatible con aplicaciones seleccionadas y aumenta ligeramente el consumo de energía.</string>
-    <string name="screen_enhance_engine_sr_pic_summary_video_only">Mejora la resolución de videos hasta 1440p. Esta función es compatible con aplicaciones seleccionadas y aumenta ligeramente el consumo de energía.</string>
     <string name="screen_enhance_engine_sr_title">Súper resolución</string>
     <string name="screen_enhance_engine_title">Motor de imágenes AI</string>
     <string name="screen_enhance_status_disable">Desactivado</string>
@@ -6920,7 +6908,6 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="tap_to_wake">Tocar para activar</string>
     <string name="tap_to_wake_summary">Toca dos veces cualquier punto de la pantalla para activar el dispositivo</string>
     <string name="taplus_title">Taplus</string>
-    <string name="temporary_style">10 segundos después de pulsar la pantalla</string>
     <string name="terms_title">Condiciones de uso</string>
     <string name="testing">Prueba</string>
     <string name="testing_phone_info">Información sobre el teléfono</string>
@@ -7486,7 +7473,6 @@ Toca en más para añadir palabras."</string>
     <string name="user_exit_guest_dialog_remove">Quitar</string>
     <string name="user_exit_guest_title">Quitar invitado</string>
     <string name="user_experience_program">Programa de Experiencia de Usuario</string>
-    <string name="user_experience_program_summary">Ayudanos a mejorar nuestros productos y servicios compartiendo con nosotros tus datos de uso</string>
     <string name="user_experience_program_title">Programa de Experiencia de Usuario</string>
     <string name="user_guest">Invitado</string>
     <string name="user_image_choose_photo">Seleccionar foto de la galería</string>

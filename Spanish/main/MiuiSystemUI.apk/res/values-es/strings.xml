@@ -937,8 +937,6 @@ Utilice solo el cargador proporcionado."</string>
     <string name="invalid_charger_text">Usa solo el cargador proporcionado.</string>
     <string name="invalid_charger_title">"Carga USB no soportada."</string>
     <string name="invalid_confirm_pin_hint">"Los PINs no coinciden"</string>
-    <string name="invalid_sim_pin_hint">El PIN debe contener de 4 a 8 números</string>
-    <string name="invalid_sim_puk_hint">El PUK debe tener al menos 8 dígitos</string>
     <string name="keep_screen_on">"Mantener encendida"</string>
     <string name="keep_screen_on_summary">"La pantalla no se suspenderá nunca mientras se carga"</string>
     <string name="keyboard_key_back">Atrás</string>
@@ -991,18 +989,9 @@ Utilice solo el cargador proporcionado."</string>
     <string name="keyguard_carrier_default">Sin servicio.</string>
     <string name="keyguard_charged">Cargado</string>
     <string name="keyguard_charging_back_to_lockscreen">Volver a la pantalla de bloqueo</string>
-    <string name="keyguard_charging_info_battery_used_time_text">De batería</string>
-    <string name="keyguard_charging_info_drained_power_percent_text">Agotada</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Hoy %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">Ayer %s</string>
-    <string name="keyguard_charging_info_last_charged_time_text">Última carga</string>
-    <string name="keyguard_charging_info_tip_text1">Mantén el dispositivo siempre con al menos un 10% de carga para prolongar la vida de la batería.</string>
-    <string name="keyguard_charging_info_tip_text2">"No sobrecargues el dispositivo. Varias cargas cortas es mejor que una carga durante toda la noche."</string>
-    <string name="keyguard_charging_info_tip_text3">Evita cargar el dispositivo cuando la temperatura ambiente sea inferior a 0℃.</string>
-    <string name="keyguard_charging_info_tip_text4">"No uses el dispositivo activamente mientras se carga para evitar sobrecalentamiento."</string>
-    <string name="keyguard_charging_info_tip_text5">La batería dura más si está más caliente de lo habitual.</string>
-    <string name="keyguard_charging_info_tip_text6">Apaga la pantalla y mantén el dispositivo alejado para enfriarlo.</string>
     <string name="keyguard_charging_normal_and_level_tip">Cargando %d%%</string>
     <string name="keyguard_charging_quick_and_level_tip">Carga rápida %d%%</string>
     <string name="keyguard_charging_super_quick_and_level_tip">Carga rápida %d%%</string>
@@ -1409,7 +1398,6 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="output_title">Salida de medios</string>
     <string name="overlay_display_devices_title">Simular pantallas adicionales</string>
     <string name="overview">Descripción general</string>
-    <string name="owner_info_settings_edit_text_hint">Por ejemplo, Android de Juan.</string>
     <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="phone_hint">Desliza desde el ícono para abrir Teléfono</string>
     <string name="phone_label">Abrir Teléfono</string>

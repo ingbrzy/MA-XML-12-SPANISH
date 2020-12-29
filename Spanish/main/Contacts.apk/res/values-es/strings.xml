@@ -63,7 +63,6 @@
     <string name="auto_nickname">Automático</string>
     <string name="auto_record_yellowpage">Páginas amarillas</string>
     <string name="auto_set_nickname">Automático</string>
-    <string name="back">Atrás</string>
     <string name="back_description">Atrás</string>
     <string name="back_view_description">Volver</string>
     <string name="batch_delete">Borrado múltiple</string>
@@ -76,6 +75,7 @@
     <string name="bh_adjusting">Calibrando…</string>
     <string name="bh_app_name">Servicios de Mi Carrier</string>
     <string name="bh_app_name_short">Servicios del operador</string>
+    <string name="bh_back">Atrás</string>
     <string name="bh_bill_balance">Saldo</string>
     <string name="bh_bill_charge">Recargar saldo</string>
     <string name="bh_bugreport">Comentarios comerciales</string>
@@ -90,6 +90,7 @@
     <string name="bh_charge_number">Relleno %1$s</string>
     <string name="bh_charged_phone_number">Número de teléfono: %1$s</string>
     <string name="bh_close_traffic_package">Cerrar los detalles del plan del operador</string>
+    <string name="bh_confirm">Aceptar</string>
     <string name="bh_contact_number">%1$s de tus contactos</string>
     <string name="bh_current_no_sim">"La tarjeta SIM no está insertada"</string>
     <string name="bh_current_sim_number">Número de teléfono SIM actual %1$s</string>
@@ -102,7 +103,7 @@
     <string name="bh_exchange_number">Cambie el número</string>
     <string name="bh_fetch_balance">Consultar saldo</string>
     <string name="bh_flow_exceed">Superó el límite</string>
-    <string name="bh_funtion_desc">¡Bienvenido a Mi Carrier Services! Puede usar esta aplicación para verificar el saldo de su teléfono, comprar minutos de llamadas y datos móviles, y más.</string>
+    <string name="bh_funtion_desc">¡Bienvenido a Mi Carrier Services! Puedes usar esta aplicación para comprobar el saldo de tu teléfono, comprar minutos de llamadas y datos móviles, y más. Esta aplicación necesita conectarse a la red para poder funcionar con normalidad.</string>
     <string name="bh_get_balance_success">Comprobado con éxito. Es posible que la información se actualice con un retraso aquí.</string>
     <string name="bh_get_charge_phone_number">Seleccionar desde contactos</string>
     <string name="bh_goto_set">Establecer</string>
@@ -273,7 +274,6 @@
     <string name="callrecordview_menu_show_missed">Llamadas perdidas</string>
     <string name="callrecordview_menu_show_sim">%s llamadas</string>
     <string name="callrecordview_menu_show_stranger">Llamadas de números desconocidos</string>
-    <string name="cancel">Cancelar</string>
     <string name="cancel_confirmation_dialog_message">¿Descartar cambios?</string>
     <string name="cancel_confirmation_dialog_title">Cancelar</string>
     <string name="cancel_export_confirmation_message">¿Cancelar la exportación de %s?</string>
@@ -306,7 +306,6 @@
     <string name="composer_has_no_exportable_contact">No hay contactos que exportar. Si ya tienes contactos en el dispositvo, es posible que algunos proveedores de datos no permitan que se exporten los contactos desde el dispositivo.</string>
     <string name="composer_not_initialized">"El redactor de vCard no se ha iniciado correctamente."</string>
     <string name="conference_call_disable_tip">"No se pueden hacer llamadas. Asegúrese de que su dispositivo esté conectado a una red 4G que soporte VoLTE."</string>
-    <string name="confirm">ACEPTAR </string>
     <string name="confirm_call_log_dial_summary">Preguntar antes de marcar desde el registro de llamadas para evitar llamadas accidentales.</string>
     <string name="confirm_call_log_dial_title">Preguntar antes de llamar desde el registro de llamadas</string>
     <string name="confirm_delete_contact_all_call_logs">"¿Borrar el historial de %s?"</string>
