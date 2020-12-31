@@ -32,6 +32,7 @@
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="access_denied_info">Demasiados intentos. Espera un minuto o dos y vuelve a intentarlo.</string>
     <string name="account_bind_secure_email_title">Agregar correo de recuperación</string>
     <string name="account_bind_secure_phone_title">Agregar número de teléfono de recuperación</string>
     <string name="account_crop_user_avatar">Recortar foto</string>
@@ -68,6 +69,8 @@
     <string name="activate_email_notice">Asegúrate de activar tu cuenta antes de 24 horas</string>
     <string name="activity_not_found_notice">"No se pudo localizar la aplicación"</string>
     <string name="ad">Anuncio</string>
+    <string name="ad_bar_notification_setting_sub_title">Mostrar eventos en el panel de notificaciones</string>
+    <string name="ad_bar_notification_setting_title">Eventos</string>
     <string name="ad_buy">Comprar</string>
     <string name="ad_download">Descargas</string>
     <string name="ad_join">Unirse a la comunidad</string>
@@ -149,6 +152,7 @@
     <string name="cast_tracks_chooser_dialog_ok">Aceptar</string>
     <string name="cast_tracks_chooser_dialog_subtitles">Subtítulos</string>
     <string name="cast_unmute">Activar sonido</string>
+    <string name="catchplay_video">Captura de juego</string>
     <string name="change_activate_email">Cambiar dirección de correo electrónico</string>
     <string name="change_password">Cambiar contraseña</string>
     <string name="character_counter_content_description">Límite de caracteres excedido %1$d de %2$d</string>
@@ -398,7 +402,7 @@ Envíe este código al supervisor."</string>
     <string name="galleryplus_gallery_video_save_video">Creando video…</string>
     <string name="galleryplus_gallery_video_slow_edit">Cámara lenta</string>
     <string name="galleryplus_gallery_view_tags">Mostrar marcas</string>
-    <string name="galleryplus_is_higher_definition">Vista previa en HD abierta</string>
+    <string name="galleryplus_is_higher_definition">Vista previa HD</string>
     <string name="galleryplus_network_connect_check">"No fue posible conectarse a la red"</string>
     <string name="galleryplus_network_connect_confirm">Conéctese a Wi-Fi o active los datos móviles en la configuración de red.</string>
     <string name="galleryplus_network_error">"No se pudo conectar a la red"</string>
@@ -408,6 +412,8 @@ Envíe este código al supervisor."</string>
     <string name="galleryplus_online_cta_disagree">"Rechazar"</string>
     <string name="galleryplus_online_cta_title">Términos y condiciones</string>
     <string name="galleryplus_online_video_loading">Un momento…</string>
+    <string name="galleryplus_orientation_lock">Orientación bloqueada con éxito</string>
+    <string name="galleryplus_orientation_unlock">La orientación de la pantalla está desbloqueada</string>
     <string name="galleryplus_permission_content">Otorgue a Mi Video los permisos necesarios para poder utilizar esta función.</string>
     <string name="galleryplus_permission_content2">"Para poder usar esta función, vaya a Configuración &gt; Aplicaciones &gt; Mi Video &gt; Permisos de la aplicación y permita que Mi Video haga lo siguiente:
 
@@ -462,6 +468,7 @@ Envíe este código al supervisor."</string>
     <string name="history_local_video">Local</string>
     <string name="history_online_video">En línea</string>
     <string name="hot">Popular</string>
+    <string name="i_know">Entendido</string>
     <string name="id_namespace">hungama</string>
     <string name="identity">Identificación</string>
     <string name="inconsistent_pwd">"Las contraseñas no coinciden"</string>
@@ -483,6 +490,8 @@ Envíe este código al supervisor."</string>
     <string name="language_setting_tips">Guardado con éxito. Puedes cambiar tus preferencias de idioma en los ajustes.</string>
     <string name="language_setting_tips_dialog">Puede seleccionar las preferencias de idioma para el contenido en Account &gt; Language.</string>
     <string name="later">Más tarde</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">API SQLite de Android basada en SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher para Android</string>
     <string name="library_roundedimageview_libraryDescription">Un ImageView rápido (y dibujable) que admite esquinas redondeadas (y óvalos o círculos) basado en el ejemplo original de Romain Guy.</string>
     <string name="live_now">Vive ahora</string>
     <string name="live_title">Vivo</string>
@@ -661,8 +670,10 @@ Envíe este código al supervisor."</string>
     <string name="my_favorite_channels">Mis canales</string>
     <string name="my_feedback_title">Mi retroalimentación</string>
     <string name="need_update_app">Actualiza Mi Video para usar sus funciones</string>
-    <string name="network_connect_info">"No se pudo conectar a la red. Comprueba tus ajustes de red y vuelve a intentarlo."</string>
+    <string name="network_connect_info">"No se pudo conectar a la red."</string>
+    <string name="network_error_info">Ocurrió un error de red. Verifique la configuración de su red y vuelva a intentarlo.</string>
     <string name="network_failed">"No se pudo conectar a la red"</string>
+    <string name="network_timeout_info">"No se pudo conectar a la red. Inténtalo de nuevo."</string>
     <string name="neverthink_player_loading">Cargando vídeo Neverthink …</string>
     <string name="new_channel_tip">¡Echa un vistazo a los nuevos canales!</string>
     <string name="next">Siguiente</string>
@@ -695,6 +706,7 @@ Envíe este código al supervisor."</string>
     <string name="off_tip_firework_recommend">"No recibirás recomendaciones de contenido personalizadas de Firework"</string>
     <string name="ok">Aceptar</string>
     <string name="on_tip_firework_recommend">"Recibirás recomendaciones de contenido personalizadas de Firework"</string>
+    <string name="open_settings">Ajustes</string>
     <string name="order_recently_subscribe">Suscripciones recientes</string>
     <string name="order_recently_updated">Recientemente actualizado</string>
     <string name="ovp_alert_dialog_download_install_task">Descargando complemento HD…</string>
@@ -936,6 +948,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="plus_menu_delete_popup_text">¿Eliminar ahora?</string>
     <string name="plus_menu_properties">Atributos</string>
     <string name="plus_menu_rename">Cambiar nombre</string>
+    <string name="plus_menu_rename_cant_empty">"El nombre de archivo no puede estar vacío"</string>
     <string name="plus_menu_rename_fail">"El nombre de archivo no puede contener \"/\""</string>
     <string name="plus_menu_share">Compartir</string>
     <string name="plus_mine_gallery">Mis álbumes</string>
@@ -1031,6 +1044,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="plus_sort_type_time">Hora</string>
     <string name="plus_tab_gallery">Carpetas</string>
     <string name="plus_tab_time">Línea de tiempo</string>
+    <string name="progressbar_title">Comprobando problemas de seguridad…</string>
     <string name="psw_hint">Contraseña</string>
     <string name="psw_sign_in">Iniciar sesión usando contraseña</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Desliza hacia arriba para actualizar…</string>
@@ -1068,6 +1082,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="report_content_violence">El discurso del odio</string>
     <string name="report_fail">"No se pudo informar. Inténtalo de nuevo."</string>
     <string name="report_success">Reportado con éxito</string>
+    <string name="request_camera_permission_message">"Protegeremos su información personal de acuerdo con las leyes y regulaciones pertinentes. Esta aplicación necesita los siguientes permisos para funcionar normalmente:&lt;br&gt;&lt;br&gt;&lt;b&gt;Uso de la cámara (para configurar su foto de perfil)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Si no está de acuerdo con otorgar dichos permisos, no podrá utilizar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible. Siempre puede restringir los permisos o revocar su autorización en la Configuración."</string>
     <string name="resend_active_email">Reenviar</string>
     <string name="resend_email_reach_limit_message">"Has solicitado demasiados correos de verificación. Asegúrate de que el mensaje de verificación no está en la carpeta de correo no deseado."</string>
     <string name="resend_email_reach_limit_title">Demasiados intentos</string>
@@ -1164,6 +1179,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="sync_favorites_limit">"Hay más de 500 videos en tus favoritos. Tendremos que eliminar algunos de los videos anteriores para seguir sincronizando."</string>
     <string name="sync_favorites_message">¿Sincronizar favoritos de este dispositivo a su cuenta? Se eliminarán los elementos que ya no estén disponibles.</string>
     <string name="sync_favorites_title">Sincronizar favoritos</string>
+    <string name="system_error_info">El sistema está ocupado. Espere uno o dos minutos y vuelva a intentarlo.</string>
     <string name="t_check_hide_file">Seleccionar elementos para ocultar</string>
     <string name="t_check_unhide_file">Seleccionar elementos para mostrar</string>
     <string name="t_downloading">Descargando:</string>
@@ -1216,6 +1232,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="ugc_no_net">"No se pudo conectar a la red. Verifique la configuración de su red e intente nuevamente."</string>
     <string name="ui_log_tip">Toca aquí para ocultar, mantén pulsado para borrar registros viejos. Arrastra registros manualmente.</string>
     <string name="unknow">Desconocido</string>
+    <string name="unknown_error_info">Error desconocido</string>
     <string name="update">Actualizar</string>
     <string name="update_email_address_dialog_message">Debe verificar su identidad antes de actualizar el correo electrónico de recuperación.</string>
     <string name="update_email_address_dialog_title">Actualizar el correo de recuperación</string>
