@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Seleccione imagen</item>
+        <item>Fondo trasparente</item>
+    </string-array>
     <string-array name="activities_title">
         <item>Día especial</item>
         <item>Día para recordar</item>
@@ -79,6 +83,80 @@
     <string-array name="last_year_group_people">
         <item>Nuevos amigos y viejos amigos</item>
         <item>"Reuniones del año pasado"</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Ocio</item>
+        <item>Brisa</item>
+        <item>Sueños</item>
+        <item>Nubes</item>
+        <item>Pensamientos</item>
+        <item>Buds</item>
+        <item>Metamorfosis</item>
+        <item>Profundidad</item>
+        <item>Reflejos</item>
+        <item>Minimalista</item>
+        <item>Misterio</item>
+        <item>Niebla</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Convierte fondos en bocetos</item>
+        <item>Fondos de estilo acuarela</item>
+        <item>Cyberpunk retro</item>
+        <item>Segmentos verticales mal colocados</item>
+        <item>Desenfoque brumoso</item>
+        <item>Sensación futurista</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Boceto</item>
+        <item>Acuarela</item>
+        <item>RGB</item>
+        <item>Persianas</item>
+        <item>Ventana con niebla</item>
+        <item>Tecnología</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Contorno coloreado</item>
+        <item>Contorno discontinuo</item>
+        <item>Contorno fluorescente</item>
+        <item>Sombra de color</item>
+        <item>Onda eléctrica</item>
+        <item>Actual</item>
+        <item>Texto</item>
+        <item>Alas</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Viaje</item>
+        <item>Trabajo</item>
+        <item>Documentos</item>
+        <item>Educación</item>
+        <item>Exámenes</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Seguridad Social</item>
+        <item>Estado de salud</item>
+        <item>Seguro médico</item>
+        <item>ID</item>
+        <item>Permiso de residencia</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>Un cun</item>
+        <item>Teo cuns</item>
+        <item>Un cun más pequeño</item>
+        <item>Dos cuns más pequeños</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Solicitud de admisión</item>
+        <item>Red de estudiantes</item>
+        <item>Red de estudiantes para escuelas primarias</item>
+        <item>Perfil de red de estudiantes</item>
+        <item>Admisión universitaria</item>
+        <item>NCEE</item>
+        <item>Resume</item>
     </string-array>
     <string-array name="month">
         <item>Enero</item>

@@ -1559,6 +1559,9 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="quick_settings_cellular_detail_data_usage">Uso de datos</string>
     <string name="quick_settings_cellular_detail_data_used">%s usados</string>
     <string name="quick_settings_cellular_detail_data_warning">%s advertencia</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Los datos móviles (WCDMA / LTE) se desactivarán. A menos que use WLAN, ya no podrá usar aplicaciones que requieran una conexión de datos. Se restringirá el envío o la recepción de mensajes multimedia.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">Se activarán los datos móviles. La conexión a redes móviles puede generar cargos adicionales según su plan de pago.</string>
+    <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Apagar</string>
     <string name="quick_settings_cellular_detail_over_limit">Sobre el límite</string>
     <string name="quick_settings_cellular_detail_remaining_data">Datos restantes</string>
     <string name="quick_settings_cellular_detail_title">Datos móviles</string>

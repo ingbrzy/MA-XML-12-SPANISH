@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_menu_overflow_description">Más opciones</string>
     <string name="accessibility_enabled">Accesibilidad activada.</string>
     <string name="agree">Aceptar</string>
     <string name="agree_and_next">Aceptar</string>
@@ -22,10 +23,10 @@
     <string name="backup_introduction">Puede utilizar esta aplicación para realizar copias de seguridad y restaurar elementos en su dispositivo.</string>
     <string name="calculator_introduction">Puede utilizar esta aplicación para realizar cálculos, convertir unidades y monedas y estimar los reembolsos de su hipoteca.</string>
     <string name="camera_introduction">Puede usar la cámara para tomar fotos y grabar videos.</string>
-    <string name="carrier_introduction">"Para brindarle mejores servicios, su dispositivo puede enviar periódicamente información de la versión de su dispositivo, datos de identificación del dispositivo (incluida la dirección IMEI / IMSI / MSISDN / MAC, MEID / ICCID) e información de ubicación aproximada (incluida la ID de la estación base) al operador a través de Wi-Fi, red de datos móviles o SMS gratuitos. El operador se compromete a analizar la información relevante solo para mejorar la calidad de los servicios o para proporcionar servicios o tecnologías personalizados, y no revelará información relevante a terceros en ninguna forma que lo identifique personalmente. La declaración de transportista específica prevalecerá. Consulte a su operador sobre el costo de utilizar este servicio."</string>
+    <string name="carrier_introduction">"Para proporcionarle mejores servicios, su dispositivo puede enviar periódicamente la información de la versión del dispositivo, los datos de identificación del dispositivo (incluyendo la dirección IMEI/IMSI/MSISDN/MAC, MEID/ICCID), e información de la ubicación aproximada (incluyendo el ID de la estación base) al operador a través de Wi-Fi, red de datos móviles o SMS gratuito. El Operador se compromete a analizar la información relevante sólo para mejorar la calidad de los servicios o para proporcionar servicios o tecnologías personalizadas, y no revelará información relevante a terceros de ninguna forma que le identifique personalmente. La declaración del Operador específico prevalecerá. Consulte a su Operador sobre el coste de uso de este servicio."</string>
     <string name="clock_introduction">Puede usar esta aplicación para ver la hora, así como usar el temporizador, el reloj mundial, el cronómetro, configurar alarmas y más.</string>
     <string name="close_location_service_setting">Puede elegir desactivar el acceso a la ubicación en Configuración &gt; Configuración adicional &gt; Privacidad o restringir los permisos para aplicaciones individuales en Seguridad.</string>
-    <string name="cm_terms_content">"Para mejorar los servicios provistos, el operador de red móvil de su selección puede subir sus datos personales e información de este dispositivo en los servidores usando redes Wi-Fi o conexión de datos móviles. Esta información será utilizada solo con fines estadísticos para mejorar la calidad de los servicios y proveer contenido más personalizado. Esta información no se usará para identificarle y no se revelará a terceras partes."</string>
+    <string name="cm_terms_content">"Con el fin de mejorar los servicios que se le brindan, el operador de red móvil de su elección puede subir sus datos personales y la información sobre este dispositivo en sus servidores mediante redes WLAN o conexión de datos móviles. Esta información solo se utilizará con fines estadísticos con el fin de mejorar la calidad de los servicios y proporcionar contenido más personalizado. Esta información no se utilizará para identificarle personalmente y no se divulgará a terceros."</string>
     <string name="cm_terms_title">Acuerdo del Operador de Red Móvil</string>
     <string name="compass_introduction">Puede utilizar esta aplicación para la navegación, así como para ver las coordenadas, la presión atmosférica y la altitud.</string>
     <string name="congratulation_label">"¡Listo para disfrutar!​"</string>
@@ -36,7 +37,6 @@
     <string name="content_description_start">Iniciar</string>
     <string name="content_introduction">El Centro de contenido agrega contenido y servicios de múltiples canales. Aquí puede leer artículos, ver videos, ver elementos destacados diarios y recibir recomendaciones de contenido.</string>
     <string name="continue_to_enable_accessibility">Mantén pulsados dos dedos para activar la accesibilidad.</string>
-    <string name="data_traffic_enable_dialog_title">"Si no está conectado a Wi-Fi ahora, su dispositivo usará datos móviles. El uso de datos móviles puede generar tarifas de operador adicionales."</string>
     <string name="desc_fingerprint">Utiliza tu huella para desbloquear el dispositivo, comprobar las transacciones de Mi Pago o para conectarte a aplicaciones y servicios.</string>
     <string name="desc_international_fingerprint">Use su huella dactilar para desbloquear el dispositivo o para iniciar sesión en aplicaciones y servicios.</string>
     <string name="diagnose_report">Envíe datos de diagnóstico para localizar y analizar problemas del sistema y mejorar la experiencia del usuario. Dichos datos pueden incluir información personal (por ejemplo, IP, ubicación, etc.)</string>
@@ -214,7 +214,6 @@ Ver la Política de Privacidad del teclado seleccionado."</string>
     <string name="sim_card_detecting">Comprobando tarjeta SIM…</string>
     <string name="sim_card_detecting_check">"No se pudo encontrar la SIM card. Asegúrate de que la tarjeta SIM está bien instalada y hay suficientes fondos."</string>
     <string name="sim_card_detecting_confirm_turn_on_network">¿Permitir la conexión a datos móviles? Si lo haces, la tarjeta SIM que insertes será usada para conectarse a la red de datos móviles.</string>
-    <string name="sim_card_detecting_title">Comprobar si hay tarjeta SIM</string>
     <string name="sim_card_detection">Insertar tarjeta SIM</string>
     <string name="sim_card_detection_info">Para insertar la tarjeta SIM, lea las instrucciones suministradas con tu dispositivo.</string>
     <string name="sim_card_detection_mobile_not_available">"La tarjeta SIM no se pudo conectar a la red"</string>
