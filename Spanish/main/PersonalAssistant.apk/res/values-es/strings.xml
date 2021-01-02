@@ -105,6 +105,7 @@
     <string name="announce_for_drag">Arrastrando un elemento</string>
     <string name="app_agenda_i_known">Descartar</string>
     <string name="app_agenda_need_install_alipay">Instale Alipay antes de utilizar esta función.</string>
+    <string name="app_assist_sleep_timer_cancel_hint">Detener</string>
     <string name="app_bluetooth_device_type">Dispositivo bluetooth</string>
     <string name="app_commute_correction_button">Correcto</string>
     <string name="app_commute_correction_text">¿Es \"%1$s\" su %2$s dirección?</string>
@@ -246,6 +247,8 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="app_pa_search">Buscar</string>
     <string name="app_pa_setting_bugreport">Comentarios</string>
     <string name="app_pa_setting_global_display">Mostrar</string>
+    <string name="app_pa_setting_global_display_backdrop_blur_option">Fondos de tarjeta de desenfoque</string>
+    <string name="app_pa_setting_global_display_backdrop_blur_summary">Aplicar desenfoque gaussiano a los fondos de las tarjetas. Esta función puede ralentizar la respuesta de deslizamiento.</string>
     <string name="app_pa_setting_global_display_blur_option">Fondo de pantalla borroso</string>
     <string name="app_pa_setting_global_display_blur_summary">Desenfocar el fondo de pantalla ralentiza la respuesta de deslizamiento</string>
     <string name="app_pa_setting_head_bg_img">Fondo</string>
@@ -342,11 +345,20 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="app_sports_action_live">Vivo</string>
     <string name="app_sports_action_preview">Vista previa</string>
     <string name="app_sports_action_review">Volver a ver</string>
+    <string name="app_sports_all_club">Discoteca</string>
+    <string name="app_sports_all_league">Liga</string>
     <string name="app_sports_all_match">Todos los eventos</string>
+    <string name="app_sports_all_title">Seleccionar preocupación</string>
+    <string name="app_sports_card_settings">Ajustes</string>
+    <string name="app_sports_dialog_msg_install_douyu">Instale Douyu para poder utilizar esta función. ¿Instalar ahora?</string>
+    <string name="app_sports_dialog_msg_install_hupu">Instale Hupu para poder utilizar esta función. ¿Instalar ahora?</string>
     <string name="app_sports_dialog_title_fav_league">Seleccionar liga</string>
     <string name="app_sports_fav_add">Añadir</string>
     <string name="app_sports_fav_cancel_club">Quitar este club</string>
     <string name="app_sports_fav_cancel_league">Quitar esta liga</string>
+    <string name="app_sports_fav_club">Club de preocupación</string>
+    <string name="app_sports_fav_league">Liga de preocupaciones</string>
+    <string name="app_sports_fav_title">Mi preocupación</string>
     <string name="app_sports_more_match">MÁS</string>
     <string name="app_sports_title">Deportes</string>
     <string name="app_sports_title_all_leagues">Todos los partidos</string>

@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Ir a inicio</string>
+    <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
     <string name="abc_action_menu_overflow_description">Más opciones</string>
+    <string name="abc_action_mode_done">Hecho</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
+    <string name="abc_capital_off">Apagado</string>
+    <string name="abc_capital_on">ENCENDIDO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">eliminar</string>
+    <string name="abc_menu_enter_shortcut_label">introducir</string>
+    <string name="abc_menu_function_shortcut_label">Función+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Mayús +</string>
+    <string name="abc_menu_space_shortcut_label">espacio</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menú+</string>
+    <string name="abc_search_hint">Buscar…</string>
+    <string name="abc_searchview_description_clear">Borrar consulta</string>
+    <string name="abc_searchview_description_query">Buscar consulta</string>
+    <string name="abc_searchview_description_search">Búsqueda</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+    <string name="abc_toolbar_collapse_description">Colapso</string>
     <string name="accessibility_enabled">Accesibilidad activada.</string>
     <string name="agree">Aceptar</string>
     <string name="agree_and_next">Aceptar</string>
@@ -21,6 +47,8 @@
     <string name="application_permissions">Permisos de la aplicación</string>
     <string name="back">Volver</string>
     <string name="backup_introduction">Puede utilizar esta aplicación para realizar copias de seguridad y restaurar elementos en su dispositivo.</string>
+    <string name="boot_video_replay">Volver a reproducir</string>
+    <string name="boot_video_skip">Omitir</string>
     <string name="calculator_introduction">Puede utilizar esta aplicación para realizar cálculos, convertir unidades y monedas y estimar los reembolsos de su hipoteca.</string>
     <string name="camera_introduction">Puede usar la cámara para tomar fotos y grabar videos.</string>
     <string name="carrier_introduction">"Para proporcionarle mejores servicios, su dispositivo puede enviar periódicamente la información de la versión del dispositivo, los datos de identificación del dispositivo (incluyendo la dirección IMEI/IMSI/MSISDN/MAC, MEID/ICCID), e información de la ubicación aproximada (incluyendo el ID de la estación base) al operador a través de Wi-Fi, red de datos móviles o SMS gratuito. El Operador se compromete a analizar la información relevante sólo para mejorar la calidad de los servicios o para proporcionar servicios o tecnologías personalizadas, y no revelará información relevante a terceros de ninguna forma que le identifique personalmente. La declaración del Operador específico prevalecerá. Consulte a su Operador sobre el coste de uso de este servicio."</string>
@@ -37,6 +65,7 @@
     <string name="content_description_start">Iniciar</string>
     <string name="content_introduction">El Centro de contenido agrega contenido y servicios de múltiples canales. Aquí puede leer artículos, ver videos, ver elementos destacados diarios y recibir recomendaciones de contenido.</string>
     <string name="continue_to_enable_accessibility">Mantén pulsados dos dedos para activar la accesibilidad.</string>
+    <string name="data_traffic_enable_dialog_title">"Si no está conectado a WLAN ahora, su dispositivo utilizará datos móviles. El uso de datos móviles puede generar tarifas de operador adicionales."</string>
     <string name="desc_fingerprint">Utiliza tu huella para desbloquear el dispositivo, comprobar las transacciones de Mi Pago o para conectarte a aplicaciones y servicios.</string>
     <string name="desc_international_fingerprint">Use su huella dactilar para desbloquear el dispositivo o para iniciar sesión en aplicaciones y servicios.</string>
     <string name="diagnose_report">Envíe datos de diagnóstico para localizar y analizar problemas del sistema y mejorar la experiencia del usuario. Dichos datos pueden incluir información personal (por ejemplo, IP, ubicación, etc.)</string>
@@ -74,6 +103,7 @@
     <string name="install_preinstall_app">Cargando aplicaciones…</string>
     <string name="item_fingerprint">Huella dactilar</string>
     <string name="item_lock_screen_password">Solo bloqueo de pantalla</string>
+    <string name="item_lock_screen_password_only">Pantalla de Bloqueo</string>
     <string name="ktlocation_U">(Agente de servicio de KT)</string>
     <string name="ktposition_header">Compartir información de ubicación con agencias de rescate de emergencia</string>
     <string name="language_picker_other_languages_title">Más idiomas</string>
@@ -94,6 +124,8 @@
     <string name="move_data_dialog_cancel">Cancelar</string>
     <string name="move_data_dialog_title">Puede restringir la conexión de datos móviles en la Configuración más tarde</string>
     <string name="move_data_dialog_use">Usar</string>
+    <string name="msim_setting_default_data">SIM de datos</string>
+    <string name="msim_setting_default_voice">SIM predeterminada para llamadas</string>
     <string name="multisim_settings_category">Ajustes de SIM</string>
     <string name="multisim_settings_title">Se han detectado 2 tarjetas SIM</string>
     <string name="navigation_picker_gesture_guide">Guía de gestos</string>
@@ -175,13 +207,17 @@
     <string name="pref_title_voice_slot">Tarjeta SIM de voz preferida</string>
     <string name="privacy_policy">Política de Privacidad</string>
     <string name="protect_persoanl_info_statement">Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad pertinentes.</string>
+    <string name="provision_back">Atrás</string>
     <string name="provision_inputmethod_policy_description">"
 Ver la Política de Privacidad del teclado seleccionado."</string>
     <string name="provision_inputmethod_policy_description1">Política de Privacidad</string>
+    <string name="provision_next">Siguiente</string>
+    <string name="provision_skip_underline">Omitir</string>
     <string name="recorder_introduction">Puede utilizar esta aplicación para grabar audio y realizar copias de seguridad de las grabaciones en la nube.</string>
     <string name="require_authority_statement">Para permitirnos brindarle servicios básicos, debe otorgar los siguientes permisos para que podamos recopilar su información personal:</string>
     <string name="require_network_authority_statement">Para permitirnos brindarle servicios básicos, debe conectarse a Internet y otorgar los siguientes permisos para que podamos recopilar su información personal:</string>
     <string name="screen_recording_introduction">"Esta aplicación te permite grabar lo que está sucediendo en tu pantalla."</string>
+    <string name="search_menu_title">Buscar</string>
     <string name="security_introduction">Puede utilizar esta aplicación para eliminar la basura de su dispositivo, encontrar y neutralizar virus, optimizar el rendimiento de los juegos, ahorrar batería, administrar aplicaciones, permisos y más.</string>
     <string name="security_mobile_account_introduction">Para iniciar sesión y administrar cuentas del sistema</string>
     <string name="service_agreement">"He leído y acepto los términos y condiciones."</string>
@@ -208,12 +244,14 @@ Ver la Política de Privacidad del teclado seleccionado."</string>
     <string name="service_policy"><Data>Lea y acepte nuestra &lt;a href=%1$s&gt;Política de privacidad&lt;/a &gt;.</Data></string>
     <string name="service_policy_download"><Data>Antes de utilizar nuestros servicios, lea y acepte &lt;a href=%1$s&gt;Política de privacidad de Xunlei&lt;/a &gt;.</Data></string>
     <string name="service_privacy_index">Política de Privacidad</string>
+    <string name="service_security_over_r"><Data>Lea y acepte nuestra &lt;a href=%1$s&gt;Política de privacidad&lt;/a &gt; antes de usar Seguridad.&lt;br/&gt;&lt;br/&gt;De acuerdo con los estándares de Android 11, un permiso único se retirará dentro de los 5 segundos posteriores a que la aplicación correspondiente deje de ejecutarse. Si abre la aplicación durante este breve período de tiempo, se retirará el permiso.</Data></string>
     <string name="servicestate_title">Declaración sobre servicios básicos</string>
     <string name="setting_locale">Estableciendo región…</string>
     <string name="shut_down">Apagar</string>
     <string name="sim_card_detecting">Comprobando tarjeta SIM…</string>
     <string name="sim_card_detecting_check">"No se pudo encontrar la SIM card. Asegúrate de que la tarjeta SIM está bien instalada y hay suficientes fondos."</string>
     <string name="sim_card_detecting_confirm_turn_on_network">¿Permitir la conexión a datos móviles? Si lo haces, la tarjeta SIM que insertes será usada para conectarse a la red de datos móviles.</string>
+    <string name="sim_card_detecting_title">Comprobando tarjeta SIM…</string>
     <string name="sim_card_detection">Insertar tarjeta SIM</string>
     <string name="sim_card_detection_info">Para insertar la tarjeta SIM, lea las instrucciones suministradas con tu dispositivo.</string>
     <string name="sim_card_detection_mobile_not_available">"La tarjeta SIM no se pudo conectar a la red"</string>
