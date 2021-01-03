@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="acc_category_color_description">
+        <item>Blanco</item>
+        <item>Azul oscuro</item>
+        <item>Azul claro</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Rosa</item>
+        <item>Marrón</item>
+        <item>Gris</item>
+    </string-array>
     <string-array name="acc_magic_matting_background_description">
         <item>Seleccione imagen</item>
         <item>Fondo trasparente</item>
@@ -156,7 +166,55 @@
         <item>Perfil de red de estudiantes</item>
         <item>Admisión universitaria</item>
         <item>NCEE</item>
-        <item>Resume</item>
+        <item>Reanudar</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>Prueba de inglés universitario 1</item>
+        <item>Prueba de inglés universitario 2</item>
+        <item>Prueba de inglés universitario 3</item>
+        <item>Prueba de aptitud de Putonghua 1</item>
+        <item>Prueba de aptitud de Putonghua 2</item>
+        <item>Prueba de inglés de grado</item>
+        <item>PET para universidades</item>
+        <item>PETS Nivel 3</item>
+        <item>Examen de Clasificación Nacional de Ordenador 1</item>
+        <item>Examen de Clasificación Nacional de Ordenador 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Certificación de profesor de primaria y secundaria</item>
+        <item>Certificación de profesor</item>
+        <item>"Carné de conducir"</item>
+        <item>Permiso de guía</item>
+        <item>Permiso electrónico de guía</item>
+        <item>Examen judicial nacional</item>
+        <item>Certificado electrónico de constructor de primera clase</item>
+        <item>Certificado de constructor de segunda clase</item>
+        <item>Examen de título de contabilidad Junior</item>
+        <item>Contador público certificado</item>
+        <item>Permiso de guía de Beijing</item>
+        <item>Examen del título de contabilidad intermedio</item>
+        <item>Examen del título de contabilidad superior</item>
+        <item>Certificado de calificación contable</item>
+        <item>Examen de contador público certificado</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>Estados Unidos</item>
+        <item>Vietnam</item>
+        <item>Japón</item>
+        <item>Hong Kong y Macao</item>
+        <item>Corea del Sur</item>
+        <item>Tailandia (turista)</item>
+        <item>Tailandia (llegando)</item>
+        <item>India</item>
+        <item>Israel</item>
+        <item>Taiwán</item>
+        <item>Malasia</item>
+        <item>Nueva Zelanda</item>
+        <item>Italia</item>
+        <item>Argentina</item>
+        <item>Brasil</item>
+        <item>Islandia</item>
+        <item>Kenia</item>
     </string-array>
     <string-array name="month">
         <item>Enero</item>
