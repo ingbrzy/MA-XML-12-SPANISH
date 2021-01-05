@@ -43,7 +43,7 @@
     <string name="backup_action_retry_now">Reintentar</string>
     <string name="backup_failed_reason_cloud_space_not_enough">No hay suficiente espacio en Xiaomi Cloud. Mejora tu plan o libera espacio de almacenamiento.</string>
     <string name="backup_failed_reason_disk_space_not_enough">No hay suficiente espacio de almacenamiento. Libera espacio primero.</string>
-    <string name="backup_failed_reason_network_error">Error de red. Espera uno o dos minutos e inténtalo de nuevo.</string>
+    <string name="backup_failed_reason_network_error">Compruebe la configuración de red y vuelva a intentarlo</string>
     <string name="backup_finished_notification_content">Se respaldaron aplicaciones del escritorio, ajustes del sistema, etc.</string>
     <string name="backup_now">Crear copia de seguridad ahora</string>
     <string name="backup_remind_buy_cloud_space">Actualice su plan de almacenamiento en la nube</string>
@@ -81,7 +81,7 @@ Inténtelo de nuevo"</string>
     <string name="cancel_backup">Cancelando la copia de seguridad…</string>
     <string name="cancel_recover_settings">&lt;u&gt;Cancelar&lt;/u&gt;</string>
     <string name="cancel_restore_home">Cancelando…</string>
-    <string name="click_try_to_restore_again">Toca para intentar de nuevo</string>
+    <string name="click_try_to_restore_again">Pulse para intentar de nuevo</string>
     <string name="cloud_app_backup_success">Aplicaciones respaldadas correctamente</string>
     <string name="cloud_app_check_data">Conectando con Xiaomi Cloud…</string>
     <string name="cloud_app_current_device">Dispositivo actual</string>
@@ -172,7 +172,7 @@ Nota: Datos para las aplicaciones que ha instalado no se hará una copia de segu
     <string name="download_meta_failed">"No se pudieron cargar los datos."</string>
     <string name="download_settings">Descargando Ajustes de Pantalla de inicio: %s%%</string>
     <string name="download_settings_fail">"No se han podido descargar los Ajustes de Pantalla de inicio"</string>
-    <string name="error_retry_later">"No se pudo completar la acción. Espera un minuto e inténtalo de nuevo…"</string>
+    <string name="error_retry_later">"No se pudo completar la acción. Espere un minuto e inténtelo de nuevo…"</string>
     <string name="error_unknown">Algo ha salido mal</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="get_device_id_error">"No se pudo obtener ID del dispositivo"</string>
@@ -235,9 +235,9 @@ Nota: Datos para las aplicaciones que ha instalado no se hará una copia de segu
     <string name="remove_unfinished">Eliminando, vuelva a intentarlo</string>
     <string name="restore_app_order_finish">Listo</string>
     <string name="restore_app_order_loading">Un momento…</string>
-    <string name="restore_app_order_retry">Inténtalo de nuevo</string>
+    <string name="restore_app_order_retry">Reintentar</string>
     <string name="restore_app_order_retry_desc">"No se pudo conectar a la red.
-Comprueba tus ajustes de red y vuelve a intentarlo."</string>
+Compruebe sus ajustes de red y vuelva a intentarlo."</string>
     <string name="restore_app_order_search_hint">Buscar elementos para establecer prioridad</string>
     <string name="restore_app_order_search_installed">Aplicaciones en este dispositivo</string>
     <string name="restore_app_order_search_normal">Aplicaciones de prioridad regular</string>
@@ -250,7 +250,7 @@ Comprueba tus ajustes de red y vuelve a intentarlo."</string>
     <string name="restore_detail_more">Más</string>
     <string name="restore_detail_title">Seleccionar elementos a restaurar</string>
     <string name="restore_failed_reason_disk_space_not_enough">No hay suficiente espacio de almacenamiento. Libera espacio primero.</string>
-    <string name="restore_failed_reason_network_error">Error de red. Espera uno o dos minutos e inténtalo de nuevo.</string>
+    <string name="restore_failed_reason_network_error">Error de red. Espere uno o dos minutos y vuelva a intentarlo.</string>
     <string name="restore_finish_description">Restauración finalizada</string>
     <string name="restore_finished_notification_content">Se restauraron las aplicaciones de la pantalla de inicio, la configuración del sistema, etc.</string>
     <string name="restore_from_cloud">Restaurar desde la copia de seguridad de Xiaomi Cloud</string>
@@ -283,7 +283,7 @@ Comprueba tus ajustes de red y vuelve a intentarlo."</string>
     <string name="title_alert_restore_error">"Restauración fallida"</string>
     <string name="title_restore_with_current_network">Usando la conexión actual para descargar archivos</string>
     <string name="total_space">Espacio total: %s</string>
-    <string name="try_again">Toca para intentar de nuevo</string>
+    <string name="try_again">Toque para intentarlo de nuevo</string>
     <string name="try_continue">Pulsa para continuar</string>
     <string name="unselected">No seleccionado</string>
     <string name="unsupported_home">Actualizar MIUI a la última versión.</string>

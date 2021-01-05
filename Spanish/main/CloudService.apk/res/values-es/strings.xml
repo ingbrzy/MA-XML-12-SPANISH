@@ -91,7 +91,7 @@
     <string name="error_credential_fail">Error de contraseña</string>
     <string name="error_data_in_transfer">La sincronización finalizará en %s horas.</string>
     <string name="error_data_in_transfer_title">"Xiaomi Cloud no disponible"</string>
-    <string name="error_keybag_unknown">Un error desconocido ocurrió. Espere un minuto o dos e inténtelo de nuevo.</string>
+    <string name="error_keybag_unknown">Error desconocido. Espere un minuto o dos e inténtelo de nuevo.</string>
     <string name="error_masterkey_changed">Se cambió la contraseña</string>
     <string name="error_masterkey_exists">La contraseña ya existe</string>
     <string name="error_network">"No se puede conectar a la red"</string>
@@ -110,7 +110,7 @@
     <string name="feedback_custom_hint">"Describe los problemas que has encontrado aquí. Si está dando sugerencias, le agradeceríamos más detalles."</string>
     <string name="find_device">Encontrar dispositivo</string>
     <string name="find_device_dspt_provision">Si pierdes tu dispositivo, puedes entrar en %s para localizarlo, bloquearlo o restablecerlo. Puedes activar o desactivar esta función en cualquier momento desde Ajustes.</string>
-    <string name="find_device_error_network">Comprueba tu conexión de datos e inténtalo de nuevo.</string>
+    <string name="find_device_error_network">Compruebe su conexión de datos e inténtelo de nuevo.</string>
     <string name="find_device_error_server">Error del servidor</string>
     <string name="find_device_gdpr_prompt">Al activar Encontrar dispositivo, aceptas nuestra <a href="app://com.miui.cloudservice.gdpr.license"><u>Política de Privacidad</u></a>. Si necesitas revocar la autorización, desactiva esta función.</string>
     <string name="find_device_operation_failure_rpc">"No se pudo realizar la acción debido a un error de RPC."</string>
@@ -162,7 +162,7 @@
     <string name="ks_update_certificate">Certificado</string>
     <string name="ks_update_fail">"No se pudo descargar"</string>
     <string name="ks_update_fail_code">"No se pudo descargar el certificado. Código de error: %d"</string>
-    <string name="ks_update_fail_no_network">"No se pudo conectar a la red. Conecta y vuelve a intentarlo."</string>
+    <string name="ks_update_fail_no_network">"No se pudo conectar a la red. Conéctese y vuelva a intentarlo."</string>
     <string name="ks_update_fail_request_timeout">La solicitud de conexión ha expirado. Espere un minuto o dos y vuelva a intentarlo.</string>
     <string name="ks_update_success">Actualizado con éxito</string>
     <string name="ks_update_wait">Un segundo…</string>
@@ -261,7 +261,7 @@ Localiza y bloquea tu dispositivo en caso de pérdida."</string>
     <string name="micloud_find_device_guide_desc_pad">Si pierdes tu dispositivo, inicia sesión en &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; en cualquier otro dispositivo para localizar, bloquear de forma remota, o borrar los datos del dispositivo perdido. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;Ver detalles&lt;/a&gt;.</string>
     <string name="micloud_find_device_guide_desc_phone">Si pierdes tu dispositivo, inicia sesión en &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; en cualquier otro dispositivo para localizar, bloquear de forma remota, o borrar los datos del dispositivo perdido. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;Ver detalles&lt;/a&gt;.</string>
     <string name="micloud_find_device_guide_fail_reopen">Puedes activar Encontrar dispositivo en Cuenta Mi - Xiaomi Cloud</string>
-    <string name="micloud_find_device_guide_fail_sub_net">Comprueba tu conexión de red e inténtalo de nuevo.</string>
+    <string name="micloud_find_device_guide_fail_sub_net">Compruebe su conexión de red e inténtelo de nuevo.</string>
     <string name="micloud_find_device_guide_micloud_sub_content">Sincronizar contactos, fotos, notas y más con Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_micloud_sub_content_v2">Sincronizar contactos, fotos, notas y más con Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_noti_content">Protege tus datos incluso si pierdes tu dispositivo</string>
@@ -282,7 +282,7 @@ Localiza y bloquea tu dispositivo en caso de pérdida."</string>
     <string name="micloud_find_device_verify_close">Desactivar Encontrar dispositivo</string>
     <string name="micloud_find_device_verify_fail">"No se pudo reactivar Encontrar dispositivo"</string>
     <string name="micloud_find_device_verify_progress">Reactivando Encontrar dispositivo…</string>
-    <string name="micloud_last_sync_canceled">La sincronización fue cancelada. Vuelve a intentarlo.</string>
+    <string name="micloud_last_sync_canceled">La sincronización fue cancelada. Inténtelo de nuevo.</string>
     <string name="micloud_main_head_menu_cloud_backup">Copia de seguridad de la pantalla de inicio</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">Diseño de la Pantalla de inicio, aplicaciones y ajustes del sistema</string>
     <string name="micloud_main_head_menu_finddevice_summary">Localiza y bloquea tu dispositivo si se pierde</string>
@@ -316,7 +316,7 @@ Localiza y bloquea tu dispositivo en caso de pérdida."</string>
     <string name="micloud_manual_cloud_storage_low_title">Xiaomi Cloud storage is running low. Your photos might not be synced.</string>
     <string name="micloud_manual_grant_permission">Give permissions</string>
     <string name="micloud_manual_local_storage_low_button_text">Limpiar</string>
-    <string name="micloud_manual_local_storage_low_summary">Can\'t resume sync due to low storage. Free up storage space.</string>
+    <string name="micloud_manual_local_storage_low_summary">Libere espacio de almacenamiento y vuelva a intentarlo.</string>
     <string name="micloud_manual_local_storage_low_title">"Se está acabando el espacio"</string>
     <string name="micloud_manual_network_disconnet_button_text">Configuración de la red</string>
     <string name="micloud_manual_network_disconnet_title">"No se puede conectar a la red"</string>
@@ -331,7 +331,7 @@ Localiza y bloquea tu dispositivo en caso de pérdida."</string>
     <string name="micloud_manual_request_permission_title">Permisos necesarios</string>
     <string name="micloud_manual_sync_all">Sincronizar todos los elementos</string>
     <string name="micloud_manual_sync_now">Sincronizar</string>
-    <string name="micloud_manual_sync_now_retry">Vuelve a intentarlo</string>
+    <string name="micloud_manual_sync_now_retry">Reintentar</string>
     <string name="micloud_manual_sync_pause">Pausar sincronización</string>
     <string name="micloud_manual_sync_resume">Detener sincronización</string>
     <string name="micloud_manual_syncing">Sincronizando…</string>
@@ -366,13 +366,13 @@ Localiza y bloquea tu dispositivo en caso de pérdida."</string>
     <string name="micloud_privacy_licence_privacy_policy">Política de Privacidad</string>
     <string name="micloud_privacy_progress_content">Concediendo autorización…</string>
     <string name="micloud_privacy_warning_button">Atrás</string>
-    <string name="micloud_privacy_warning_content">"No se pueden activar los servicios de Xiaomi Cloud. Espera un momento y vuelve a intentarlo."</string>
+    <string name="micloud_privacy_warning_content">"No se pueden activar los servicios de Xiaomi Cloud. Espere un momento y vuelva a intentarlo."</string>
     <string name="micloud_privacy_warning_title">Atención</string>
     <string name="micloud_proceed">Continuar</string>
     <string name="micloud_request_permission_confirm">Aceptar</string>
     <string name="micloud_request_permission_content">Se necesitan permisos para sincronizar datos a Xiaomi Cloud. Permite a Xiaomi Cloud acceder al Calendario, a los Contactos, a Cuenta Mi, al estado de la tarjeta SIM, al historial de llamadas y a los mensajes.</string>
     <string name="micloud_request_permission_title">Se necesitan permisos para Xiaomi Cloud</string>
-    <string name="micloud_request_sync_too_frequent">Demasiadas solicitudes. Espera un minuto o dos y vuelve a intentarlo.</string>
+    <string name="micloud_request_sync_too_frequent">Demasiadas solicitudes. Espere uno o dos minutos y vuelva a intentarlo.</string>
     <string name="micloud_setting_antispam_summary">Excepciones y números de teléfono bloqueados</string>
     <string name="micloud_setting_browser_summary">Marcadores, historial y pestañas</string>
     <string name="micloud_setting_calendar_summary">Eventos</string>
@@ -409,9 +409,9 @@ Localiza y bloquea tu dispositivo en caso de pérdida."</string>
     <string name="micloud_sync_result_auth_exception">Error de cuenta</string>
     <string name="micloud_sync_result_cancel">La sincronización fue interrumpida</string>
     <string name="micloud_sync_result_cloud_storage_full">"No se puede sincronizar. No hay suficiente espacio de almacenamiento en Xiaomi Cloud."</string>
-    <string name="micloud_sync_result_common_message">La sincronización fue interrumpida. Vuelve a intentarlo.</string>
+    <string name="micloud_sync_result_common_message">Se interrumpió la sincronización. Inténtelo de nuevo.</string>
     <string name="micloud_sync_result_cta_permission_error">Permitir conectarse a la red para sincronizar</string>
-    <string name="micloud_sync_result_get_sim_info_error">"No se pudo obtener información de la tarjeta SIM. Espera un minuto o dos y vuelve a intentarlo."</string>
+    <string name="micloud_sync_result_get_sim_info_error">"No se pudo obtener la información de la tarjeta SIM. Espere uno o dos minutos y vuelva a intentarlo."</string>
     <string name="micloud_sync_result_internal_error">Error interno</string>
     <string name="micloud_sync_result_io_exception">Error de E/S</string>
     <string name="micloud_sync_result_parse_exception">"No se pudo analizar los datos"</string>
@@ -469,7 +469,7 @@ Esta característica cifra y envía el ID de tu dispositivo a los servidores Mi.
     <string name="mx_voip_dspt">Mi Voz</string>
     <string name="no_sim">"Tarjeta SIM no detectada"</string>
     <string name="not_set">No establecido</string>
-    <string name="notification_reinstall_key_text">Verifica tu identidad y vuelve a intentarlo</string>
+    <string name="notification_reinstall_key_text">Verifique su identidad y vuelva a intentarlo</string>
     <string name="notification_sync_fail_title">"No se pudo sincronizar"</string>
     <string name="notification_update_key_text">Tu contraseña fue restablecida</string>
     <string name="pay_info_dialog_confirm_to_pay">Pagar %s</string>
@@ -559,7 +559,7 @@ Es posible que la información de ubicación no se envíe cuando la conexión de
     <string name="share_sdk_error_code_error_and_msg">Error %1$d (%2$s)</string>
     <string name="share_sdk_error_current_invitation_invalid">Invitación caducada</string>
     <string name="share_sdk_error_current_sharing_invalid">Dejó de compartir</string>
-    <string name="share_sdk_error_too_frequent">Demasiadas solicitudes. Espera un minuto o dos y vuelve a intentarlo.</string>
+    <string name="share_sdk_error_too_frequent">Demasiadas solicitudes. Espere uno o dos minutos y vuelva a intentarlo.</string>
     <string name="share_sdk_error_update_sharing">Seleccione al menos 1 artículo</string>
     <string name="share_sdk_error_user_already_invited">"Ya invitaste a esta persona"</string>
     <string name="share_sdk_error_user_invalid">"Este usuario no existe"</string>
@@ -591,7 +591,7 @@ Es posible que la información de ubicación no se envíe cuando la conexión de
     <string name="share_sdk_privacy_link_description">Lea y acepte la Política de privacidad de <a href="https://account.xiaomi.com/about/protocol/privacy"><u>Mi cuenta</u></a> antes de utilizar este servicio.</string>
     <string name="share_sdk_qr_code_description">"Invitación de %1$s"</string>
     <string name="share_sdk_qr_code_expire_time">Período de validez del código QR: %1$s</string>
-    <string name="share_sdk_resend_invitation_times_exceed">Demasiadas invitaciones salientes. Vuelve a intentarlo en 24 horas.</string>
+    <string name="share_sdk_resend_invitation_times_exceed">Demasiadas invitaciones salientes. Vuelva a intentarlo en 24 horas.</string>
     <string name="share_sdk_search_hint">Número de teléfono / ID de mi cuenta</string>
     <string name="share_sdk_search_online">Buscar %1$s línea</string>
     <string name="share_sdk_share_entrance_title">Añadir miembros</string>
@@ -675,7 +675,7 @@ Es posible que la información de ubicación no se envíe cuando la conexión de
     <string name="sync_sub_1_sms_1_intl_sms">Puede que se requiera un SMS internacional y uno doméstico para activar este servicio. Tu operador te cobrará por estos mensajes.</string>
     <string name="sync_sub_2_intl_sms">Puede que se requieran 2 SMS internacionales salientes para activar este servicio. Tu operador te cobrará por estos mensajes.</string>
     <string name="sync_sub_2_sms">Puede que se requieran 2 SMS salientes para activar este servicio. Tu operador te cobrará por estos mensajes.</string>
-    <string name="system_busy_or_network_error">Ha ocurrido un error. Espera un minuto o dos y vuelve a intentarlo.</string>
+    <string name="system_busy_or_network_error">Ocurrió un error. Espere uno o dos minutos y vuelva a intentarlo.</string>
     <string name="tip_short_cut_added_success">Creado con éxito</string>
     <string name="tip_short_cut_already_added">Creado</string>
     <string name="title_back">Atrás</string>

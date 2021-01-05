@@ -473,7 +473,6 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="always">Siempre</string>
     <string name="always_allow_bind_appwidgets_text">Has permitido que esta aplicación pueda crear widgets y acceder a sus datos.</string>
     <string name="always_running">Siempre en ejecución (%s)</string>
-    <string name="always_style">Siempre</string>
     <string name="amber_alerts_summary">Recibir boletines sobre secuestros de menores</string>
     <string name="amber_alerts_title">Alertas AMBER</string>
     <string name="ambient_display_category_triggers">Cuando mostrar</string>
@@ -2677,6 +2676,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="erase_sure">Obligatorio</string>
     <string name="error_adding_apn_type">El operador no permite agregar APN de tipo %s .</string>
     <string name="error_apn_empty">El campo APN no puede estar vacío.</string>
+    <string name="error_apn_not_allowed">"Este APN no está permitido en este dispositivo. Pruebe con otro."</string>
     <string name="error_apn_restrict_string">"El campo APN no puede contener %1$s"</string>
     <string name="error_capturing_system_heap_dump_message">No se ha podido capturar el volcado de pila del sistema</string>
     <string name="error_mcc_not3">El campo MCC debe contener 3 dígitos.</string>
@@ -5621,7 +5621,6 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="scanning_status_text_wifi_off_ble_on">La búsqueda de conexiones Bluetooth está activada y la de redes Wi‑Fi, desactivada</string>
     <string name="scanning_status_text_wifi_on_ble_off">La búsqueda de redes Wi‑Fi está activa y la de conexiones Bluetooth, desactivada</string>
     <string name="scanning_status_text_wifi_on_ble_on">Las redes Wi‑Fi y las conexiones Bluetooth tienen la búsqueda activada</string>
-    <string name="scheduled_style">Programado</string>
     <string name="screen">Pantalla</string>
     <string name="screen_cancel">Cancelar</string>
     <string name="screen_color_and_optimize">Colores y contraste</string>
@@ -5636,10 +5635,12 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="screen_dark_mode_smart_dark_title">Modo oscuro general</string>
     <string name="screen_dark_mode_time_title">Programar</string>
     <string name="screen_effect">Contraste y colores</string>
+    <string name="screen_enhance_engine_ai_note">%d. Esta característica aumenta ligeramente el consumo de energía.</string>
     <string name="screen_enhance_engine_ai_note_2">%d. Solo se pueden mejorar las imágenes de la aplicación Galería.</string>
     <string name="screen_enhance_engine_ai_open">Mejorar imágenes</string>
     <string name="screen_enhance_engine_ai_title">Mejora de imagen AI</string>
     <string name="screen_enhance_engine_memc_note">"No se pueden mejorar los videos cuando la súper resolución está activada. Al activar los videos mejorados, desactivará la súper resolución."</string>
+    <string name="screen_enhance_engine_memc_note_1">Esta característica aumenta ligeramente el consumo de energía.</string>
     <string name="screen_enhance_engine_memc_open">MEMC</string>
     <string name="screen_enhance_engine_memc_title">MEMC</string>
     <string name="screen_enhance_engine_s2h_open">Mejora AI HDR</string>
@@ -5648,6 +5649,7 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="screen_enhance_engine_sr_for_pic">Mejorar imágenes</string>
     <string name="screen_enhance_engine_sr_for_video">Mejorar videos</string>
     <string name="screen_enhance_engine_sr_for_video_note">"La súper resolución no funciona con videos mejorados. Al activar la súper resolución, desactivará los videos mejorados."</string>
+    <string name="screen_enhance_engine_sr_note">Esta característica aumenta ligeramente el consumo de energía.</string>
     <string name="screen_enhance_engine_sr_title">Súper resolución</string>
     <string name="screen_enhance_engine_title">Motor de imágenes AI</string>
     <string name="screen_enhance_status_disable">Desactivado</string>
@@ -6945,7 +6947,6 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="tap_to_wake">Tocar para activar</string>
     <string name="tap_to_wake_summary">Toca dos veces cualquier punto de la pantalla para activar el dispositivo</string>
     <string name="taplus_title">Taplus</string>
-    <string name="temporary_style">10 segundos después de tocar la pantalla</string>
     <string name="terms_title">Condiciones de uso</string>
     <string name="testing">Prueba</string>
     <string name="testing_phone_info">Información sobre el teléfono</string>

@@ -435,6 +435,7 @@
     <string name="hints_quick_cleanning">Limpiando…</string>
     <string name="hints_quick_cleanuping">Optimizando…</string>
     <string name="hints_quick_deep_clean">Limpiar ahora</string>
+    <string name="hints_quick_deep_clean2">Liberar %s</string>
     <string name="hints_quick_deep_scanning">Escaneando</string>
     <string name="hints_quick_deep_uninstall">Eliminar ahora</string>
     <string name="hints_quick_prepare">Preparando…</string>
@@ -500,14 +501,14 @@
     <string name="msg_update_error_code_network_error">"No es posible conectarse a la red"</string>
     <string name="msg_update_error_code_no_newer_db">El Limpiador está actualizado</string>
     <string name="msg_update_error_code_success">Hecho</string>
-    <string name="msg_update_error_code_unknown_error">Los servidores están ocupados. Espera un momento y vuelve a intentarlo.</string>
+    <string name="msg_update_error_code_unknown_error">Los servidores están ocupados. Espere un momento y vuelva a intentarlo.</string>
     <string name="name_debuglog_dir">Registro de depuración BSP</string>
     <string name="name_optimizer">Política de Privacidad</string>
     <string name="nb_clear_set">Limpiar caché, ver batería e información de lista de bloqueo en el panel de notificaciones</string>
     <string name="network_not_available">"No se puede conectar a la red"</string>
     <string name="news_change">Cambiar</string>
-    <string name="no_network">"No ha sido posible conectarse a la red, inténtalo más tarde"</string>
-    <string name="no_network_btn">Volver a intentarlo</string>
+    <string name="no_network">"No ha sido posible conectarse a la red, inténtelo más tarde"</string>
+    <string name="no_network_btn">Inténtelo de nuevo</string>
     <string name="not_set">No establecido</string>
     <string name="notification_apk_clean_button_text">Limpiar</string>
     <string name="notification_checker_installed_apk_hint">No es necesario mantener los APK después de la instalación</string>
@@ -587,6 +588,19 @@
     <string name="permission_dialog_storage_title">Se necesitan permisos</string>
     <string name="phone_search">Búsqueda en Google</string>
     <string name="positive_confirm">Aceptar</string>
+    <string name="powerful_acceleration">Desfragmentación</string>
+    <string name="powerful_acceleration_after">Después</string>
+    <string name="powerful_acceleration_before">Antes</string>
+    <string name="powerful_acceleration_enable_summary">"La desfragmentación se realizará automáticamente mientras no esté usando el dispositivo"</string>
+    <string name="powerful_acceleration_enable_title">Realizar la defragmentación en segundo plano</string>
+    <string name="powerful_acceleration_item_button">Encender</string>
+    <string name="powerful_acceleration_item_tip_normal">¡Tu almacenamiento es bueno!</string>
+    <string name="powerful_acceleration_notification_summary">Pulse para liberar más espacio</string>
+    <string name="powerful_acceleration_notification_title">Desfragmentación completa</string>
+    <string name="powerful_acceleration_tip">El almacenamiento interno sufre fragmentación, lo que podría ralentizar significativamente su dispositivo. La desfragmentación organiza físicamente sus archivos en la menor cantidad de fragmentos, lo que reduce el retraso.</string>
+    <string name="powerful_acceleration_tip_high"><Data>Tu almacenamiento tiene &lt;font color=#ff0000 &gt;severamente&lt;/font&gt; fragmentado. La desfragmentación puede resolver el problema.</Data></string>
+    <string name="powerful_acceleration_tip_middle"><Data>Su almacenamiento está &lt;font color=#ff0000 &gt;ligeramente&lt;/font&gt; fragmentado. La desfragmentación puede solucionar el problema.</Data></string>
+    <string name="powerful_acceleration_toast">"La desfragmentación se realizará cuando no esté usando el dispositivo"</string>
     <string name="pref_about_privacy_title">Política de Privacidad</string>
     <string name="pref_category_title_auto_clean_settings">Recordar limpiar</string>
     <string name="pref_category_title_auto_update_cleanup_db">Ajustes adicionales</string>
@@ -652,6 +666,9 @@
     <string name="resutl_function_deep_clean_summary"> \"&lt;Data&gt;&lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; más archivos pueden ser limpiados. Libera más espacio.&lt;/Data&gt;\" </string>
     <string name="resutl_function_qq_clean_summary"> \"&lt;Data&gt;Puedes borrar &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; de la caché generado por QQ;&lt;/Data&gt;\" </string>
     <string name="resutl_function_wechat_clean_summary"> \"&lt;Data&gt;&lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; de caché de WeChat. Libera más espacio.;&lt;/Data&gt;\" </string>
+    <string name="rs_clean_size_free_space">Liberar %s</string>
+    <string name="rs_clean_size_storage_size">Ocupado: %1$s/%2$s</string>
+    <string name="rs_clean_size_storage_title">Almacenamiento</string>
     <string name="sc_allow_network_dialog_button">Permitir</string>
     <string name="sc_allow_network_dialog_message">¿Permitir a esta app conectarse a Internet para recibir actualizaciones?</string>
     <string name="scanning">Escaneando…</string>
@@ -738,6 +755,26 @@
     <string name="update_date_format">dd/MM/yyyy</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADA</string>
+    <string name="video_clean">Borrar videos en caché</string>
+    <string name="video_clean_auto_clean">Limpiar automáticamente</string>
+    <string name="video_clean_auto_clean_summary">Borrar videos en caché automáticamente después de escanear</string>
+    <string name="video_clean_cache_tip">Los videos borrados se pueden volver a cargar después</string>
+    <string name="video_clean_create_desktop_icon">Acceso directo a la Pantalla de inicio</string>
+    <string name="video_clean_create_desktop_icon_summary">Agregue un acceso directo a la pantalla de inicio para borrar videos almacenados en caché con un solo toque</string>
+    <string name="video_clean_desktop_icon_created">Se agregó un acceso directo a la pantalla de inicio con éxito</string>
+    <string name="video_clean_garbage">Vídeos en caché</string>
+    <string name="video_clean_garbage_cleared">Los videos almacenados en caché se borraron correctamente</string>
+    <string name="video_clean_notification_summary">Borrar los videos almacenados en caché por aplicaciones</string>
+    <string name="video_clean_notification_title">Liberar %s</string>
+    <string name="video_clean_personal_settings_title">Ajustes adicionales</string>
+    <string name="video_clean_qq_clean_summary">Elimina basura para liberar espacio</string>
+    <string name="video_clean_qq_clean_title">Limpiador QQ</string>
+    <string name="video_clean_remind_settings_title">Recordar limpiar</string>
+    <string name="video_clean_scan_app_tip">Escaneado de aplicaciones %1$d/%2$d</string>
+    <string name="video_clean_video_manager_summary">Administra todos los videos almacenados en tu dispositivo</string>
+    <string name="video_clean_video_manager_title">Gestor de vídeo</string>
+    <string name="video_clean_wechat_clean_summary">Limpia la basura para aumentar la velocidad</string>
+    <string name="video_clean_wechat_clean_title">Limpieza de WeChat</string>
     <string name="virus_scan">Análisis de virus</string>
     <string name="wechat_chat_data_type_cache">Caché de WeChat</string>
     <string name="wechat_chat_data_type_cache_desc">"Podrás restaurar estos archivos después de conectarse a Internet."</string>

@@ -55,7 +55,7 @@
     <string name="byteShort">segundo</string>
     <string name="can_not_send_with_too_many">"No se pueden enviar todos esos elementos"</string>
     <string name="cancel">Cancelar</string>
-    <string name="cancel_error">"No se pudieron quitar, intenta de nuevo"</string>
+    <string name="cancel_error">"No se pudo eliminar, inténtelo de nuevo"</string>
     <string name="cancel_msg">Desmarcar todos?</string>
     <string name="cancel_operation">Cancelar operación</string>
     <string name="cancel_success">Removidos correctamente, todos los archivos fueron movidos a %s</string>
@@ -131,7 +131,7 @@
     <string name="decrypt_to">Descifrar y guardar en…</string>
     <string name="decrypting">Desencriptando…</string>
     <string name="delete_dialog_button">Eliminar</string>
-    <string name="delete_error">"Fallo al borrar archivos, trate de nuevo"</string>
+    <string name="delete_error">"No se pudo eliminar los archivos, inténtelo de nuevo"</string>
     <string name="delete_file">¿Eliminar este archivo?</string>
     <string name="delete_file_error">"No se pudo eliminar el archivo"</string>
     <string name="delete_files">¿Eliminar %1$d archivo(s)?</string>
@@ -157,7 +157,7 @@
     <string name="early_morning">Buenos días</string>
     <string name="enable_sd_card">Insertar la tarjeta SD o desactivar el almacenamiento masivo USB.</string>
     <string name="enable_usb">Conecte el dispositivo USB</string>
-    <string name="encrypt_error">"Error al cifrar archivos, intente de nuevo"</string>
+    <string name="encrypt_error">"No se pudieron ocultar los archivos. Vuelva a intentarlo"</string>
     <string name="encrypt_prefix">ENCRIPTADO</string>
     <string name="encrypt_setting">Cifrado</string>
     <string name="encrypt_success">Encriptados correctamente</string>
@@ -468,7 +468,7 @@
     <string name="overwrite_msg">\"%s\" ya existe. Toca para sustituirlo por el nuevo archivo.</string>
     <string name="pad">Almacenamiento interno</string>
     <string name="partial_cancel_successful">"No se pudieron quitar algunos archivos. El resto fueron movidos a %s."</string>
-    <string name="partial_delete_failure">"No se pudieron eliminar algunos archivos, intenta de nuevo"</string>
+    <string name="partial_delete_failure">"No se pudieron eliminar algunos archivos, inténtelo de nuevo"</string>
     <string name="partial_encrypt_success">"No se pudieron ocultar algunos archivos, intenta de nuevo"</string>
     <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="path_name_email">Correo electrónico</string>
@@ -677,11 +677,11 @@
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
-    <string name="type_not_support">"Este formato de archivo no está soportado. Revise su extensión o descomprima y vuelve a intentarlo."</string>
+    <string name="type_not_support">"Este formato de archivo no es compatible. Descomprima el archivo y vuelva a intentarlo."</string>
     <string name="ui_main_toast_favorite_added">Marcado como favorito</string>
     <string name="ui_main_toast_favorite_removed">Desmarcado de favoritos</string>
     <string name="ui_main_toast_operation_failed">"No se puede desmarcar %1$s de favoritos"</string>
-    <string name="unknown_error">Un error desconocido ocurrió. Espere un minuto o dos e inténtelo de nuevo.</string>
+    <string name="unknown_error">Error desconocido. Espere un minuto o dos e inténtelo de nuevo.</string>
     <string name="unlock_pattern_msg">La contraseña de privacidad también funciona para fotos y mensajes.</string>
     <string name="unlock_pattern_title">Nueva contraseña</string>
     <string name="upload_user_photo">Subir</string>
