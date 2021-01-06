@@ -180,6 +180,12 @@ Si activas los datos móviles otra vez, tu compañia telefónica puede cargar ga
         <item quantity="other">Registrado %d días seguidos</item>
         <item quantity="one">Registrado %d vez</item>
     </plurals>
+    <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="one">"¡Pruebe el Cambiador de Voz
+para obtener una prueba gratuita de %d-días!"</item>
+        <item quantity="other">"¡Pruebe Voice Changer ahora
+para obtener una prueba gratuita de %ddía!"</item>
+    </plurals>
     <plurals name="gb_voice_changer_trial_gain_fail">
         <item quantity="other">"No se pudo recibir una prueba gratuita de %ddías"</item>
         <item quantity="one">"No se pudo recibir una prueba gratuita de %ddías"</item>
@@ -191,6 +197,12 @@ Si activas los datos móviles otra vez, tu compañia telefónica puede cargar ga
     <plurals name="gb_voice_changer_user_status_get_trial_card">
         <item quantity="other">Obtenga una prueba gratuita de %ddías</item>
         <item quantity="one">Obtenga una prueba gratuita de %ddías</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"Su suscripción ha caducado.
+¡Puede obtener una prueba gratuita de %d días!"</item>
+        <item quantity="one">"Su suscripción han caducado.
+¡Puede obtener una prueba gratuita de %d días!"</item>
     </plurals>
     <plurals name="gb_voice_changer_user_tips_info">
         <item quantity="other">Obtenga una prueba gratuita de %ddías</item>
@@ -287,6 +299,10 @@ Si activas los datos móviles otra vez, tu compañia telefónica puede cargar ga
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">Conecta al menos %d puntos</item>
         <item quantity="one">Conecta al menos %d punto</item>
+    </plurals>
+    <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="other">Conecte al menos %s puntos</item>
+        <item quantity="one">Conecte al menos %s punto</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Espera %d segundos e inténtalo de nuevo. "</item>
@@ -691,6 +707,14 @@ Si activas los datos móviles otra vez, tu compañia telefónica puede cargar ga
     <plurals name="uninstall_game_count_title">
         <item quantity="other">"No se han añadido %d juegos"</item>
         <item quantity="one">"No se ha añadido %d juego"</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">Conecte al menos %s puntos</item>
+        <item quantity="one">Conecte al menos %s punto</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">Ingrese %s dígitos</item>
+        <item quantity="one">Ingrese %s dígito</item>
     </plurals>
     <plurals name="videobox_settings_manager_apps_count">
         <item quantity="other">%d aplicaciones</item>

@@ -171,6 +171,7 @@
     <string name="diagnosis_log_sent_format">"Registro enviado con éxito.
 ID:%s
 Enviar este código al supervisor."</string>
+    <string name="download_file">Descargando %s…</string>
     <string name="empty_device_list_notice">No hay dispositivos</string>
     <string name="ep_unsupported">"No puede iniciar sesión en Cuenta Mi en su dispositivo"</string>
     <string name="error_dup_binded_email">Esta dirección de correo electrónico ya está asociada con otra Cuenta Mi.</string>
@@ -388,6 +389,8 @@ Enviar este código al supervisor."</string>
     <string name="passport_login_instead_reg">Usar este número</string>
     <string name="passport_login_instead_reg_with_email">Usar esta dirección de correo electrónico</string>
     <string name="passport_login_other_account">Otra cuenta</string>
+    <string name="passport_login_other_phone">Usa otra cuenta</string>
+    <string name="passport_login_other_way">Otras formas de iniciar sesión</string>
     <string name="passport_login_prompt">Una Cuenta Mi. Todos los servicios Mi.</string>
     <string name="passport_login_recycle_account_yes">Sí</string>
     <string name="passport_login_title">Inicia sesión en Cuenta Mi</string>
@@ -403,7 +406,10 @@ Enviar este código al supervisor."</string>
     <string name="passport_prev">Volver</string>
     <string name="passport_privacy_policy">Política de Privacidad</string>
     <string name="passport_privacy_policy_required">Política de Privacidad (obligatoria)</string>
+    <string name="passport_provision_activator_phone_summary_sim1_prefix">SIM <xliff id="sim1" refersto="1">%1$d</xliff>%2$s</string>
+    <string name="passport_provision_activator_phone_summary_sim2_prefix">SIM <xliff id="sim2" refersto="2">%1$d</xliff>%2$s</string>
     <string name="passport_provision_input_email_register_prompt">Sus datos personales se almacenarán de acuerdo con las leyes y regulaciones de la región que seleccione.</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> caracteres de al menos <xliff id="min_pwd_type" refersto="2">%3$d</xliff> de los siguientes tipos: letras, dígitos, símbolos especiales</string>
     <string name="passport_pwd_generate_failure">"No se pudo generar una contraseña"</string>
     <string name="passport_pwd_generating">Generando…</string>
     <string name="passport_querying_phone_info">Solicitando info de cuenta…</string>
@@ -439,6 +445,7 @@ Enviar este código al supervisor."</string>
     <string name="passport_register_restricted_title">"No se puede usar este número de teléfono"</string>
     <string name="passport_register_using_other_ways">Otras formas de crear una cuenta</string>
     <string name="passport_registered_phone_num">Teléfono: %s</string>
+    <string name="passport_registered_phone_num_v2">Número de teléfono</string>
     <string name="passport_registered_phone_user_ID">ID de Usuario: %s</string>
     <string name="passport_registered_phone_user_name">Nombre de usuario: %s</string>
     <string name="passport_reject_recycle_account">No</string>
@@ -520,6 +527,9 @@ Enviar este código al supervisor."</string>
     <string name="phone_num_use_for">El número de teléfono se usa para:</string>
     <string name="photoPickerNotFoundText">No hay fotos disponibles.</string>
     <string name="preference_copied">\"%1$s\" copiado al portapapeles.</string>
+    <string name="provision_back">atrás</string>
+    <string name="provision_next">próximo</string>
+    <string name="provision_skip_underline">Omitir</string>
     <string name="push_notification_content">Obtener código de verificación</string>
     <string name="push_notification_title">Has iniciado sesión en Cuenta Mi desde un dispositivo desconocido</string>
     <string name="push_notify_dialog_message">"Se ha usado un dispositivo desconocido para iniciar sesión en Cuenta Mi. Introduce este código de verificación en el dispositivo. Si no fuiste tú, cambia la contraseña de Cuenta Mi de inmediato. No reveles tu código de verificación a otras personas."</string>

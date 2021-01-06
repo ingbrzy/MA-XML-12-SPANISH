@@ -845,6 +845,7 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="gxzw_use_password_to_unlock">Introducir la contraseña</string>
     <string name="hdcp_checking_dialog_title">Config. verificación HDCP</string>
     <string name="hdcp_checking_title">Verificación HDCP</string>
+    <string name="heads_up_snooze_toast">"Las notificaciones de esta aplicación no aparecerán hasta que desbloquee su dispositivo nuevamente"</string>
     <string name="headset">Auriculares</string>
     <string name="heap_dump_tile_name">Volcar montón de SysUI</string>
     <string name="help_feedback_label">Ayuda y comentarios</string>
@@ -1398,6 +1399,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="output_title">Salida de medios</string>
     <string name="overlay_display_devices_title">Simular pantallas adicionales</string>
     <string name="overview">Descripción general</string>
+    <string name="owner_info_settings_edit_text_hint">"Por ejemplo, Android de Juan."</string>
     <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="phone_hint">Desliza desde el ícono para abrir Teléfono</string>
     <string name="phone_label">Abrir Teléfono</string>
@@ -1559,8 +1561,10 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="quick_settings_cellular_detail_data_usage">Uso de datos</string>
     <string name="quick_settings_cellular_detail_data_used">%s usados</string>
     <string name="quick_settings_cellular_detail_data_warning">%s advertencia</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Los datos móviles (WCDMA / LTE) se desactivarán. A menos que use WLAN, ya no podrá usar aplicaciones que requieran una conexión de datos. Se restringirá el envío o la recepción de mensajes multimedia.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Los datos móviles (WCDMA / LTE) se desactivarán. A menos que use WLAN, ya no podrá usar aplicaciones que requieran conexión de datos. Se restringirá el envío o la recepción de mensajes multimedia.</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnon">Se activarán los datos móviles. La conexión a redes móviles puede generar cargos adicionales según su plan de pago.</string>
+    <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Cancelar</string>
+    <string name="quick_settings_cellular_detail_dialog_positive_button_ok">Aceptar</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Apagar</string>
     <string name="quick_settings_cellular_detail_over_limit">Sobre el límite</string>
     <string name="quick_settings_cellular_detail_remaining_data">Datos restantes</string>
@@ -1877,6 +1881,7 @@ Tu teléfono podría calentarse de más si:
     <string name="time_unit_just_now">Ahora mismo</string>
     <string name="title_convert_fbe">Convirtiendo a encriptación basada en archivos</string>
     <string name="title_usb_accessory">Accesorio USB</string>
+    <string name="torch_high_temperature_warning">"Su dispositivo está sobrecalentado. No se puede usar el flash."</string>
     <string name="touch_filtered_warning">Una aplicación está bloqueando una solicitud de permiso, por lo que Ajustes no puede verificar tu respuesta.</string>
     <string name="track_frame_time">Perfil de renderización GPU</string>
     <string name="transition_animation_scale_title">Nivel de animación de las transiciones</string>
@@ -2149,6 +2154,10 @@ Dirección Wi-Fi (BSSID)
     <string name="zen_mode_forever">Hasta que lo desactives</string>
     <string name="zen_mode_settings_summary_off">Nunca</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Activar No Molestar</string>
+    <string name="zen_mode_warnings_all_time_content">Se silenciarán las notificaciones y las llamadas</string>
+    <string name="zen_mode_warnings_keyguard_content">Las notificaciones y llamadas se silenciarán cuando el dispositivo esté bloqueado</string>
+    <string name="zen_mode_warnings_quit_immediately">Apagar</string>
+    <string name="zen_mode_warnings_title">DND está activado</string>
     <string name="zen_priority_customize_button">Personalizar</string>
     <string name="zen_priority_introduction">"No serás molestado por sonidos o vibraciones, excepto por los de alarmas, recordatorios, eventos y llamadas de contactos que especifique. Podrás escuchar cualquier elemento que decidas reproducir, incluyendo música, videos y juegos."</string>
     <string name="zen_silence_introduction">Esto bloquea todos los sonidos y vibraciones, incluidos los de alarmas, música, videos y juegos.</string>

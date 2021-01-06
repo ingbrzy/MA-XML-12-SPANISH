@@ -58,6 +58,7 @@
     <string name="error_ap_or_screen_already_hosting">"No se pueden enviar elementos a otros dispositivos mientras se transmite o se usa un punto de acceso portátil."</string>
     <string name="error_device_lost">Parece que el otro dispositivo está fuera de su alcance. Espere uno o dos minutos y vuelva a intentarlo.</string>
     <string name="error_has_occurred">Ha ocurrido un error</string>
+    <string name="error_mirror_working">"No puedo compartir elementos mientras se comparte la pantalla"</string>
     <string name="error_msg_network_error">Se produjo un error de red. Vuelve a intentarlo.</string>
     <string name="error_receive_file_cannot_read">"No se pudo recibir el archivo"</string>
     <string name="error_receive_file_changed">"No puedo recibir. El artículo ha cambiado."</string>
@@ -68,6 +69,7 @@
     <string name="error_receive_user_interrupted">La otra persona canceló la transferencia.</string>
     <string name="error_refuse_receive">Transferencia cancelada</string>
     <string name="error_remote_busy">Parece que el otro dispositivo está ocupado. Espere uno o dos minutos y vuelva a intentarlo.</string>
+    <string name="error_remote_mirror_working">"El otro dispositivo no puede aceptar elementos mientras se comparte la pantalla"</string>
     <string name="error_self_busy">El dispositivo está ocupado. Espere uno o dos minutos y vuelva a intentarlo.</string>
     <string name="error_send_file_cannot_read">"No se pudo enviar el archivo. Inténtalo de nuevo."</string>
     <string name="error_send_file_no_enough_space">"No se puede enviar. No hay suficiente espacio de almacenamiento en el otro dispositivo."</string>
@@ -142,6 +144,7 @@ Antes de usar Mi Share, debe otorgar los siguientes permisos, así como permitir
     <string name="scanning_only_xiaomi_device">Este artículo solo se puede transferir a dispositivos Xiaomi o Black Shark</string>
     <string name="search_menu_title">Buscar</string>
     <string name="send_file">ENVIAR ARCHIVO</string>
+    <string name="send_files_by">Comparte archivos a través de</string>
     <string name="send_files_to">Enviar elementos a</string>
     <string name="send_files_to_remote_success">Enviar elementos a %1$s éxito</string>
     <string name="send_files_to_remote_success_title">Enviado correctamente</string>
@@ -162,6 +165,7 @@ Antes de usar Mi Share, debe otorgar los siguientes permisos, así como permitir
     <string name="tile_state_active">Activado</string>
     <string name="tile_state_inactive">Desactivado</string>
     <string name="tile_state_unavailable">No disponible</string>
+    <string name="tips_prompt_enable_midrop">Mi Compartir</string>
     <string name="to_feedback">Reportar</string>
     <string name="transfer_intercept_to_remote">"No se pudo enviar: %1$s"</string>
     <string name="transfer_to_pc_summary">"La última versión del software AIoT instalado en Mi Notebooks es compatible con Mi Share. Puede consultar la lista de modelos de portátiles compatibles en el sitio web de MIUI. Si su computadora portátil está en la lista, pero AIoT no está instalado, actualice la BIOS y el controlador del adaptador de red de su computadora portátil y descargue AIoT."</string>
