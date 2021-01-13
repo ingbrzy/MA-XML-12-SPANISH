@@ -36,9 +36,9 @@
     <string name="alert_button_deny">Rechazar</string>
     <string name="alert_message_backup_to_miasist">Mi PC Suite requiere permisos para crear una copia en el ordenador. ¿Permitir?</string>
     <string name="alert_message_restore_from_miasist">Mi PC Suite requiere permisos para restaurar elementos en tu teléfono. ¿Permitir?</string>
-    <string name="alert_miasist_occupy_backup">Haciendo copia de los elementos usando Mi PC Suite… Espera hasta que la copia esté completada y vuelve a intentarlo.</string>
-    <string name="alert_miasist_occupy_restore">Restaurando elementos usando Mi PC Suite… Espera hasta que estén restaurados y vuelve a intentarlo.</string>
-    <string name="alert_phone_occupy_backup">"No se puede usar Mi PC Suite ahora. Completa la copia de seguridad o restaura los elementos en tu teléfono y vuelve a intentarlo."</string>
+    <string name="alert_miasist_occupy_backup">Haciendo copia de los elementos usando Mi PC Suite… Espere hasta que la copia esté completada y vuelva a intentarlo.</string>
+    <string name="alert_miasist_occupy_restore">Restaurando elementos usando Mi PC Suite… Espere hasta que estén restaurados y vuelva a intentarlo.</string>
+    <string name="alert_phone_occupy_backup">"No se puede usar Mi PC Suite ahora. Complete la copia de seguridad o restaure los elementos en su teléfono y vuelva a intentarlo."</string>
     <string name="alert_second_space_not_support_miasist">"No se puede usar Mi PC Suite en Segundo espacio. Cambia a Espacio principal."</string>
     <string name="alert_title_backup_to_miasist">¿Hacer copia de seguridad de los elementos usando Mi PC Suite?</string>
     <string name="alert_title_restore_from_miasist">¿Restaurar elementos en tu teléfono?</string>
@@ -51,7 +51,7 @@
     <string name="auto_backup_choose_empty">Sin copias de seguridad.</string>
     <string name="auto_backup_choose_title">Elige los elementos para copia de seguridad</string>
     <string name="auto_backup_date">Días</string>
-    <string name="auto_backup_only_wifi">Solo con conexión Wi-Fi</string>
+    <string name="auto_backup_only_wifi">Sólo con conexión Wi-Fi</string>
     <string name="auto_backup_open">Crear copia de seguridad automáticamente</string>
     <string name="auto_backup_progress">Realizando copia…</string>
     <string name="auto_backup_select_user_apps">Seleccionar aplicaciones</string>
@@ -101,7 +101,7 @@
     <string name="cancel_moving_dialog_message">¿Detener la importación?</string>
     <string name="cancel_moving_dialog_title">Detener la importación</string>
     <string name="cancel_restore">Detener</string>
-    <string name="click_soft_ap_to_link">Selecciona el punto de acceso para conectar</string>
+    <string name="click_soft_ap_to_link">Seleccione un punto de acceso para conectarse</string>
     <string name="click_to_view">Pulsa para ver</string>
     <string name="close_twice_auth_btn">Desactivar la autenticación de dos factores</string>
     <string name="close_twice_auth_note">"Nota:
@@ -174,7 +174,7 @@ Después de crear una nueva pregunta de seguridad y confirmar su fecha de nacimi
     <string name="err_no_gms">Versión de aplicación incompatible. Instala esta aplicación por separado.</string>
     <string name="err_not_allow">No compatible</string>
     <string name="err_pkg_not_exist">"No se pudo encontrar la aplicación."</string>
-    <string name="err_router_disconnected">"Comprueba la conexión del router y vuelve a intentarlo."</string>
+    <string name="err_router_disconnected">"Compruebe la conexión del router y vuelva a intentarlo."</string>
     <string name="err_router_files_delete">"No se pudo eliminar los archivos de copia de seguridad en el router"</string>
     <string name="err_unknown">Error desconocido</string>
     <string name="err_user_abort">Cancelado por el usuario.</string>
@@ -237,8 +237,8 @@ No modifiques o renombres los archivos copiados."</string>
     <string name="icloud_login_title">Iniciar sesión en iCloud</string>
     <string name="icloud_need_sync">"Para importar datos desde iOS,
 debería crear una copia de seguridad de iCloud primero."</string>
-    <string name="icloud_need_wifi_message">"No está conectado a Wi-Fi ahora. Para importar datos desde iCloud, conéctate a Wi-Fi."</string>
-    <string name="icloud_need_wifi_title">Conectar a Wi-Fi</string>
+    <string name="icloud_need_wifi_message">"No está conectado a Wi-Fi ahora. Para importar datos desde iCloud, conéctese a Wi-Fi."</string>
+    <string name="icloud_need_wifi_title">Conectar a red Wi-Fi</string>
     <string name="import_again">Importar de nuevo</string>
     <string name="import_data_from_icloud">Importar datos de iCloud</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Descarga la app de Mi Talk e inicia sesión.
@@ -293,7 +293,7 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="local_select_userapp">Aplicaciones</string>
     <string name="local_select_video">Vídeos</string>
     <string name="login">Iniciar sesión</string>
-    <string name="login_failed">"No se pudo iniciar sesión. Reintentar."</string>
+    <string name="login_failed">"No se pudo iniciar sesión. Inténtelo de nuevo."</string>
     <string name="logining">Iniciando sesión…</string>
     <string name="miliao_account_guide">Usar tu Cuenta Mi para iniciar sesión en Xiaomi Cloud, la tienda de MIUI Temas y otros servicios de Mi desde cualquier lugar.</string>
     <string name="miliao_account_login">Iniciar sesión con Mi Talk</string>
@@ -421,7 +421,7 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="prompt_writing">Guardando…</string>
     <string name="read_encrypt_fail">"No es posible leer las copias de seguridad cifradas"</string>
     <string name="reconnect">Conectar de nuevo</string>
-    <string name="recreate_soft_ap_tips">Pulsa el botón de más abajo para volver a intentarlo.</string>
+    <string name="recreate_soft_ap_tips">Toque el botón de abajo para intentarlo de nuevo.</string>
     <string name="refresh">Actualizar</string>
     <string name="remote_receive">Recibir</string>
     <string name="restore">Restaurar</string>
@@ -443,14 +443,14 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="router_backup_hint">Mantener el dispositivo encendido</string>
     <string name="save_finish_with_failing_items">"La transferencia se interrumpió.
 Los datos que no se importaron deben importarse nuevamente."</string>
-    <string name="saving_data">"Importando datos de iCloud…
-No apague ni cambie el Wi-Fi"</string>
+    <string name="saving_data">"\"Importando datos de iCloud…
+No apague el Wi-Fi\""</string>
     <string name="saving_data_no_time">Restaurando datos…</string>
     <string name="saving_data_space_low">"No hay suficiente espacio de almacenamiento.
 Libere al menos %s."</string>
     <string name="sc_bad_request">Solicitud inválida</string>
     <string name="sc_internal_server_error">Error interno del servidor</string>
-    <string name="sc_network_unavailable">Comprueba la conexión e inténtalo de nuevo.</string>
+    <string name="sc_network_unavailable">Compruebe la conexión e inténtelo de nuevo.</string>
     <string name="sc_others">Ha ocurrido un error</string>
     <string name="sc_precondition_failed">Primero debes añadir un correo electrónico a Cuenta Mi.</string>
     <string name="sc_request_timeout">Tiempo de espera agotado</string>
@@ -538,7 +538,7 @@ Libere al menos %s."</string>
     <string name="trans_cancelling">Cancelando…</string>
     <string name="trans_complete_restoring">Transferido con éxito. Restaurando los datos de aplicación…</string>
     <string name="trans_connect_failed_device_incompatible">"Dispositivo no compatible. Cancelar la transferencia y reintentar."</string>
-    <string name="trans_connect_failed_message">"No se pudo conectar, por favor vuelve a intentarlo o reinicia. En el otro dispositivo, ve a Ajustes &gt; Ajustes adicionales &gt; Mi Mover, pulsa [Soy el remitente], o vuelve a abrir Mi Mover después del reinicio."</string>
+    <string name="trans_connect_failed_message">"No se pudo conectar, por favor vuelva a intentarlo o reinicie. En el otro dispositivo, vaya a Ajustes &gt; Ajustes adicionales &gt; Mi Mover, pulse [Soy el remitente], o vuelva a abrir Mi Mover después del reinicio."</string>
     <string name="trans_connect_failed_title">"No se pudo conectar"</string>
     <string name="trans_connect_failed_toast">"No es posible conectar"</string>
     <string name="trans_connecting_toast">Conectando…</string>
@@ -576,7 +576,7 @@ Libere al menos %s."</string>
     <string name="trans_disconnected_tips_title">Dispositivo remoto desconectado</string>
     <string name="trans_failed_details_page_title">Transferencias fallidas</string>
     <string name="trans_generate_qr_code_failed">"No se pudo crear el código QR"</string>
-    <string name="trans_generate_qrcode_failed">"No se pudo generar código QR. Vuelve a intentarlo."</string>
+    <string name="trans_generate_qrcode_failed">"No se pudo generar código QR. Vuelva a intentarlo."</string>
     <string name="trans_generating_qrcode">Generando código QR…</string>
     <string name="trans_install_guide_button_start">Iniciar</string>
     <string name="trans_install_guide_page_title">Instala Mi Mover en tu teléfono antiguo</string>
@@ -589,8 +589,8 @@ para descargar e instalar Mi Mover."</string>
     <string name="trans_intro_desc_1">"En un teléfono Mi, conéctese a Wi-Fi y toque \"Soy un destinatario\". Seleccione su dispositivo iOS, inicie sesión en iCloud e importe datos."</string>
     <string name="trans_intro_desc_10">Pulsa \"Conectar vía código QR\" en el nuevo dispositivo y escanea el código QR para establecer la conexión.</string>
     <string name="trans_intro_desc_3">Cancela la transferencia, sal de Mi Mover y vuelve a empezar. Los archivos duplicados se sobrescribirán en la nueva transferencia.</string>
-    <string name="trans_intro_desc_4">"Mi Mover usa Wi-Fi para transferir archivos, por eso, no puedes conectarte a Internet con Wi-Fi en el dispositivo durante la transferencia pero sí puedes utilizar datos móviles. Algunos nuevos dispositivos (Mi 6, por ej.) sí podrían conectarse a Internet con Wi-Fi durante las transferencias."</string>
-    <string name="trans_intro_desc_4_market">"Mi Mover usa la red Wi-Fi para transferir archivos. Es por esto que no se puede conectar a Internet usando Wi-Fi mientras se realiza una transferencia. Aun así puedes usar los datos móviles."</string>
+    <string name="trans_intro_desc_4">"Mi Mover usa Wi-Fi para transferir archivos, por eso, no puede conectarse a internet con Wi-Fi durante la transferencia pero sí puede utilizar datos móviles. Algunos nuevos dispositivos (Mi 6, por ej.) sí podrían conectarse a internet con Wi-Fi durante las transferencias."</string>
+    <string name="trans_intro_desc_4_market">"Mi Mover usa la red Wi-Fi para transferir archivos. Es por eso que no se puede conectarse a internet usando Wi-Fi mientras se realiza una transferencia. Aún así, puede usar los datos móviles."</string>
     <string name="trans_intro_desc_5">Se utiliza espacio de almacenamiento del dispositivo antiguo para crear paquetes de transferencia. Asegúrate de que tienes entre 500MB - 1GB de espacio disponible en tu teléfono antiguo antes de empezar.</string>
     <string name="trans_intro_desc_6">Razones posibles son: problemas de compatibilidad de sistema y versión de la aplicación, problemas de red, problemas de compatibilidad específicos de un dispositivo particular, etc.</string>
     <string name="trans_intro_desc_7">Algunos perfiles de aplicaciones (e-banking, finanzas, etc) están asociados a un dispositivo específico por razones de seguridad. Prueba a borrar los datos de la aplicación o a reinstalarla en un nuevo dispositivo.</string>
@@ -610,7 +610,7 @@ para descargar e instalar Mi Mover."</string>
     <string name="trans_intro_desc_old_market">Pulsa \"Iniciar\". Escanea el código QR en el teléfono nuevo, espera a que Mi Mover averigüe qué archivos enviar y pulsa \"Enviar\".</string>
     <string name="trans_intro_desc_private">"Mi Mover no puede acceder a las fotos del álbum oculto porque están cifradas. Puedes restaurar estas fotos desde Xiaomi Cloud en un nuevo dispositivo."</string>
     <string name="trans_intro_question_1">%d. ¿Cómo uso Mi Mover para mover datos desde un dispositivo iOS?</string>
-    <string name="trans_intro_question_10">"%d. ¿No puedes encontrar el punto de acceso en el dispositivo antiguo?"</string>
+    <string name="trans_intro_question_10">"%d. ¿No pudo encontrar el punto de acceso en su antiguo dispositivo?"</string>
     <string name="trans_intro_question_2">%d. ¿Cómo uso Mi Mover para mover datos desde un dispositivo Android?</string>
     <string name="trans_intro_question_3">%d. ¿Qué debo hacer si Mi Mover se atascó en un determinado paso?</string>
     <string name="trans_intro_question_4">"%d. ¿Por qué no puedo usar Wi-Fi durante las transferencias?"</string>
@@ -667,12 +667,12 @@ Después pulsa \"Conectar de nuevo\" para escanear el código QR."</string>
     <string name="trans_progress_subdescript_waiting">Esperando para recibir %s</string>
     <string name="trans_receiver">"Soy el destinatario"</string>
     <string name="trans_receiver_time_remained">"%s restante.
-No apagues el punto de acceso Wi-Fi.
-Mantén los dispositivos cerca uno del otro."</string>
+No apague el punto de acceso Wi-Fi.
+Mantenga los dispositivos cerca el uno del otro."</string>
     <string name="trans_receiving_completed">Recibido correctamente</string>
     <string name="trans_restoring">Restaurando…</string>
     <string name="trans_restoring_no_items">Obtener información…</string>
-    <string name="trans_retry">Reintentar</string>
+    <string name="trans_retry">Inténtelo de nuevo</string>
     <string name="trans_scan_invalid_qrcode">Código QR inválido</string>
     <string name="trans_scan_qr_code_tips">Escanea el código QR ​​utilizando el nuevo dispositivo</string>
     <string name="trans_security_tips_message">"Algunas aplicaciones no son compatibles con Mi Mover."</string>
@@ -694,8 +694,8 @@ Selecciona solo elementos importantes para acelerar la transferencia."</string>
     <string name="trans_sender_searching_ensurance">"Asegúrate de que el antiguo dispositivo esté encendido
 Esperando al antiguo dispositivo para conectarse…"</string>
     <string name="trans_sender_time_remained">"%s restante.
-No apagues el Wi-Fi.
-Mantén los dispositivos cerca uno del otro."</string>
+No apague el Wi-Fi.
+Mantenga los dispositivos cerca el uno del otro."</string>
     <string name="trans_sending_completed">Enviado correctamente</string>
     <string name="trans_show_qr_code_label">Conectar dispositivo antiguo</string>
     <string name="trans_show_qr_code_tips">Escanear código QR usando un dispositivo antiguo</string>
@@ -739,9 +739,9 @@ Libera espacio o transfiere solo los elementos importantes."</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADA</string>
     <string name="view_password_description">Mostrar contraseña</string>
-    <string name="wait_link">"Abrir Mi Mover en el dispositivo antiguo,
-pulsa \"Soy un emisor\" y selecciona un punto de acceso para conectar.
-No cierres la página antes de establecer la conexión."</string>
+    <string name="wait_link">"Abra Mi Mover en su viejo dispositivo,
+pulse \"Soy un emisor\" y seleccione un punto de acceso para conectar.
+No cierre la página antes de establecer la conexión."</string>
     <string name="waiting">Un momento…</string>
     <string name="wifi_title">Ajustes de Wi-Fi</string>
     <string name="xiaomi_connect_download_manager_fail">"No se pudo iniciar la descarga. Asegúrate de que el Administrador de Descargas funciona con normalidad."</string>
