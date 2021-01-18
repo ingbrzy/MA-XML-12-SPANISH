@@ -21,16 +21,16 @@
         <item quantity="one">%1$s segundo</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
-        <item quantity="other">Retraso largo (%1$d ms)</item>
-        <item quantity="one">Retraso largo (%1$d ms)</item>
+        <item quantity="other">Largo (%1$s segundos)</item>
+        <item quantity="one">Largo (%1$s segundo)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_medium_delay">
         <item quantity="other">Medio (%1$s segundos)</item>
         <item quantity="one">Medio (%1$s segundos)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
-        <item quantity="other">Retraso corto (%1$d ms)</item>
-        <item quantity="one">Retraso corto (%1$d ms)</item>
+        <item quantity="other">Corto (%1$s segundos)</item>
+        <item quantity="one">Corto (%1$s segundo)</item>
     </plurals>
     <plurals name="app_link_open_always_summary">
         <item quantity="other">La aplicación afirma manejar %d enlaces</item>
@@ -245,8 +245,8 @@
         <item quantity="one">%d añadido</item>
     </plurals>
     <plurals name="miui_wifi_wakeup_summary">
-        <item quantity="other">La WLAN se activará automáticamente cuando su dispositivo detecte redes guardadas cercanas y se apagará después de %d minutos si no se establece ninguna conexión.</item>
-        <item quantity="one">La WLAN se activará automáticamente cuando su dispositivo detecte redes guardadas cercanas y se apagará después de %d minutos si no se establece ninguna conexión.</item>
+        <item quantity="other">El Wi-Fi se activará automáticamente cuando su dispositivo detecte redes guardadas cercanas y se apagará después de %d minutos si no se establece ninguna conexión</item>
+        <item quantity="one">El Wi-Fi se activará automáticamente cuando su dispositivo detecte redes guardadas cercanas y se apagará después de %d minuto si no se establece ninguna conexión</item>
     </plurals>
     <plurals name="mobile_network_summary_count">
         <item quantity="other">%1$d tarjetas SIM</item>

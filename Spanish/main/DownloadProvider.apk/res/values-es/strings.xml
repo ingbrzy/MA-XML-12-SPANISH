@@ -15,7 +15,7 @@
     <string name="dialog_button_ok">Aceptar</string>
     <string name="dialog_content_limit0">Restringir descargas</string>
     <string name="dialog_content_limit_max">Ilimitado</string>
-    <string name="dialog_data_limit_button1">Esperar a Wi-Fi</string>
+    <string name="dialog_data_limit_button1">Esperar conexión Wi-Fi</string>
     <string name="dialog_data_limit_button2">Descargar ahora</string>
     <string name="dialog_data_limit_msg1">%s de datos móviles se utilizará para descargar este archivo. ¿Descargar ahora?</string>
     <string name="dialog_data_limit_msg3">Cambiar límite</string>
@@ -47,13 +47,13 @@
     <string name="notification_download_complete">Descarga completada.</string>
     <string name="notification_download_failed">Descarga fallida.</string>
     <string name="notification_download_success_more">%1$d descargado(s)</string>
-    <string name="notification_need_wifi_for_size">El tamaño de descarga requiere Wi-Fi.</string>
+    <string name="notification_need_wifi_for_size">El tamaño de la descarga requiere el uso de una red Wi-Fi.</string>
     <string name="notification_paused_in_background">Pausado en segundo plano.</string>
     <string name="notify_disabled_net_by_app">La conexión a Internet está restringida por la aplicación de Seguridad</string>
     <string name="notify_install_guide_forward_text">Abrir</string>
     <string name="notify_install_guide_msg">Instalada correctamente</string>
     <string name="notify_install_guide_title">Instaladas %s correctamente</string>
-    <string name="notify_only_wifi_download">Esperando Wi-Fi</string>
+    <string name="notify_only_wifi_download">Esperando conexión Wi-Fi</string>
     <string name="paused_waiting_for_network">Esperando red</string>
     <string name="permdesc_accessAllDownloads">Permitir que la aplicación vea y modifique todas las descargas iniciadas por cualquier aplicación en el sistema.</string>
     <string name="permdesc_downloadCacheNonPurgeable">"Permite a la aplicación descargar archivos en la caché de descargas, que no puede ser automáticamente eliminado cuando el gestor de descargas necesita más espacio."</string>
@@ -85,11 +85,11 @@
     <string name="warning_tip_title">Advertencia de uso de datos</string>
     <string name="wifi_recommended_body">"Iniciar esta descarga de %1$s ahora puede resultar en un uso excesivo de su conexión de datos móviles, lo que puede generar cargos por parte de su operador de telefonía móvil según su plan de datos.
 
-Toque %2$s para iniciar esta descarga la próxima vez que se conecte a una red WLAN."</string>
+Toque %2$s para iniciar esta descarga la próxima vez que se conecte a una red Wi-Fi."</string>
     <string name="wifi_recommended_title">¿Poner en cola para descargar luego?</string>
-    <string name="wifi_required_body">"Conéctese a la WLAN para completar esta descarga %1$s. 
+    <string name="wifi_required_body">"Conéctese a Wi-Fi para completar esta %1$s descarga. 
 
-Toque %2$s para iniciar esta descarga la próxima vez que se conecte a una red WLAN."</string>
+Toque %2$s para iniciar esta descarga la próxima vez que se conecte a una red Wi-Fi."</string>
     <string name="wifi_required_title">El archivo es demasiado grande para descargarlo con datos móviles</string>
     <string name="xl_speedup_experience_notify_context">"La velocidad se incrementa para cada descarga cuando eres miembro de Xunlei"</string>
     <string name="xl_speedup_experience_notify_title">Membresía Xunlei</string>

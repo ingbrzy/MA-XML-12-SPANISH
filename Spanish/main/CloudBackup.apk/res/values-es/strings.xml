@@ -70,7 +70,7 @@ Inténtelo de nuevo"</string>
     <string name="btn_restore_resume">Reanudar</string>
     <string name="btn_restore_retry">Reintentar</string>
     <string name="btn_restore_wait">Esperar conexión Wi-Fi</string>
-    <string name="btn_restore_wait_china">Esperar a Wi-Fi</string>
+    <string name="btn_restore_wait_china">Esperando conexión Wi-Fi</string>
     <string name="btn_retry">Comprobar de nuevo</string>
     <string name="btn_skip">Omitir este paso</string>
     <string name="button_cancel">Cancelar</string>
@@ -100,13 +100,12 @@ Inténtelo de nuevo"</string>
 *  Ajustes de notificaciones
 *  Ajustes del sistema y de MIUI
 Nota: Los datos de las aplicaciones que has instalado no se guardarán en Xiaomi Cloud."</string>
-    <string name="cloud_back_up_detail_discription_china">"Estos elementos se respaldarán en Xiaomi Cloud cuando su dispositivo esté conectado a WLAN: 
-* Aplicaciones, diseño de pantalla de inicio y fondos 
-pantalla 
- * Configuración de alarma, reloj y hora 
-* Configuración de notificación 
-* MIUI y configuración del sistema 
-Nota: Datos para las aplicaciones que ha instalado no se hará una copia de seguridad en Xiaomi Cloud."</string>
+    <string name="cloud_back_up_detail_discription_china">"Los siguientes elementos serán copiados a Xiaomi Cloud cuando el dispositivo esté conectado a una red Wi-Fi: 
+*  Aplicaciones, diseño de la Pantalla de inicio y fondos de pantalla
+*  Ajustes de hora, alarma y reloj
+*  Ajustes de notificaciones
+*  Ajustes del sistema y de MIUI
+Nota: Los datos de las aplicaciones que ha instalado no se guardarán en Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">Programar copia de seguridad</string>
     <string name="cloud_back_up_frequence_long">Cada 7 días</string>
     <string name="cloud_back_up_frequence_short">Todos los días</string>
@@ -124,7 +123,7 @@ Nota: Datos para las aplicaciones que ha instalado no se hará una copia de segu
     <string name="cloud_backup_detail_manage">Gestionar copias de seguridad</string>
     <string name="cloud_backup_detail_state">Copias de seguridad automáticas</string>
     <string name="cloud_backup_detail_state_summary">Cree copias de seguridad de Xiaomi Cloud automáticamente cuando esté conectado a Wi-Fi.</string>
-    <string name="cloud_backup_detail_state_summary_china">Cree copias de seguridad de Xiaomi Cloud automáticamente cuando se conecte a WLAN.</string>
+    <string name="cloud_backup_detail_state_summary_china">Cree copias de seguridad de Xiaomi Cloud automáticamente cuando esté conectado a Wi-Fi.</string>
     <string name="cloud_backup_detail_time">Última copia: %1$s</string>
     <string name="cloud_backup_detail_title">Pantalla de inicio, aplicaciones y configuraciones.</string>
     <string name="cloud_backup_have_data">Copia de seguridad en Xiaomi Cloud</string>
@@ -160,9 +159,9 @@ Nota: Datos para las aplicaciones que ha instalado no se hará una copia de segu
     <string name="dialog_cancel_backup_title">¿Cancelar la copia de seguridad en curso?</string>
     <string name="dialog_msg_overwrite_backup">La copia de seguridad local es diferente a la realizada en Xiaomi Cloud. Si continúas, la copia actual borrará la anterior.</string>
     <string name="dialog_msg_restore_require_wlan">Restaurar copias de seguridad requiere conectarse a Wi-Fi.</string>
-    <string name="dialog_msg_restore_require_wlan_china">La restauración de copias de seguridad requiere conectarse a una WLAN.</string>
+    <string name="dialog_msg_restore_require_wlan_china">Restaurar copias de seguridad requiere conectarse a Wi-Fi.</string>
     <string name="dialog_title_require_wlan">Conectar a Wi-Fi</string>
-    <string name="dialog_title_require_wlan_china">Conectar a Wifi</string>
+    <string name="dialog_title_require_wlan_china">Conectar a red Wi-Fi</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
     <string name="doing_calc_backup_data_size">Calculando tamaño…</string>
     <string name="doing_restore_home">Restaurando la pantalla de inicio y la configuración…</string>

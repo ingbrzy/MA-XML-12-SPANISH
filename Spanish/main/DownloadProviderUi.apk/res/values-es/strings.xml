@@ -2,9 +2,9 @@
 <resources>
     <string name="DOWNLOAD_UNIT_GB">GB</string>
     <string name="DOWNLOAD_UNIT_KB">KB</string>
-    <string name="DOWNLOAD_UNIT_MB">MEGABYTE</string>
+    <string name="DOWNLOAD_UNIT_MB">Mb</string>
     <string name="DOWNLOAD_UNIT_TB">tuberculosis</string>
-    <string name="Only_the_wifi">Utilice solo WLAN</string>
+    <string name="Only_the_wifi">Utilizar sólo Wi-Fi</string>
     <string name="abc_action_bar_home_description">Ir a inicio</string>
     <string name="abc_action_bar_up_description">Ir arriba</string>
     <string name="abc_action_menu_overflow_description">Mas opciones</string>
@@ -155,7 +155,7 @@
     <string name="download_speed">Velocidad de descarga:</string>
     <string name="download_spend_time">Tiempo</string>
     <string name="download_status_continue">Reanudar</string>
-    <string name="download_status_fail">Intentar de nuevo</string>
+    <string name="download_status_fail">Reintentar</string>
     <string name="download_status_paused">Pausa</string>
     <string name="download_success">Descarga finalizada</string>
     <string name="download_title_sorted_by_date">Ordenar por fecha</string>
@@ -192,7 +192,7 @@
     <string name="free_high_speed_channel">Acelerador Xunlei (gratis)</string>
     <string name="free_speedup_exp">Prueba el acelerador de descargas Xunlei gratis</string>
     <string name="get_account_dialog_msg">Obteniendo información de la cuenta…</string>
-    <string name="get_data_failed">"No se pudo obtener la información. Espera unos minutos e inténtalo de nuevo."</string>
+    <string name="get_data_failed">"No se pudo obtener la información. Espere unos minutos e inténtelo de nuevo"</string>
     <string name="get_order_dialog_msg">Obteniendo información de pedido…</string>
     <string name="get_order_fail_msg">"No se pudo crear el pedido"</string>
     <string name="gigabyteShort">GB</string>
@@ -209,7 +209,7 @@
     <string name="hint">Atención</string>
     <string name="home_page_new_download_guide">Las nuevas descargas van aquí</string>
     <string name="immediately_a_renewal">Renovar ahora</string>
-    <string name="info_flow_only_load_wifi">Solo cargar contenido mediante Wi-Fi</string>
+    <string name="info_flow_only_load_wifi">Cargar contenido solo mediante Wi-Fi</string>
     <string name="info_flow_setting">Ajustes de contenido</string>
     <string name="info_flow_show">Mostrar contenido recomendado</string>
     <string name="info_rank_show">Recomendar artículos populares</string>
@@ -225,7 +225,7 @@
     <string name="load_finish_hint">Eso es todo por ahora.</string>
     <string name="loading">Un momento…</string>
     <string name="media_filter">Multimedia</string>
-    <string name="megabyteShort">MEGABYTE</string>
+    <string name="megabyteShort">Mb</string>
     <string name="member_cost">Anual</string>
     <string name="menu_all_task_pause">Pausar todo</string>
     <string name="menu_all_task_start">Iniciar todo</string>
@@ -250,7 +250,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Todo por ahora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento...</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar los elementos"</string>
-    <string name="net_error">"Conéctate a la red e inténtalo de nuevo"</string>
+    <string name="net_error">"No se pudo conectar a la red, inténtelo de nuevo"</string>
     <string name="network_error">"No se pudo conectar a la red"</string>
     <string name="new_add">Nueva descarga</string>
     <string name="new_add_bt">Agregar torrent</string>
@@ -300,9 +300,9 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="pref_download_settings_title">Máximo descarga con datos</string>
     <string name="pref_download_storage_path">Guardar en una localización personalizada</string>
     <string name="pref_sniff_shortcut">Crear acceso directo a la pantalla de inicio para búsquedas web</string>
-    <string name="pref_summary_any_bytes_popup">Esperar siempre a una conexión Wi-Fi para descargar archivos</string>
+    <string name="pref_summary_any_bytes_popup">Descargar archivos sólo mediante conexión Wi-Fi</string>
     <string name="pref_summary_enable_max_bytes_popup">Mostrar notificación emergente cuando se utilice la conexión de datos móviles para descargar el contenido</string>
-    <string name="pref_summary_max_bytes_limit_format">Esperar a conexión Wi-Fi si el tamaño del archivo excede %s</string>
+    <string name="pref_summary_max_bytes_limit_format">Descargar por Wi-Fi si el tamaño excede de %s</string>
     <string name="pref_summary_no_limit_popup">Ilimitado</string>
     <string name="pref_title_enable_max_bytes_popup">Mostrar aviso de uso de datos</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
@@ -333,7 +333,7 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="restart_download">Reiniciar</string>
     <string name="resume_download">Reanudar</string>
     <string name="retry_after_network_available">"No se puede conectar a la red. Compruebe su conexión e inténtelo de nuevo."</string>
-    <string name="retry_download">Inténtalo de nuevo</string>
+    <string name="retry_download">Reintentar</string>
     <string name="revert_default">Restaurar ajustes predeterminados</string>
     <string name="revert_download_path">¿Usar la ubicación de descargas predeterminada?</string>
     <string name="save_path">"Guardar descargas en: "</string>
@@ -362,7 +362,7 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="search_input_empty_toast">Buscar o ingresar URL</string>
     <string name="search_input_hint">Buscar o ingresar URL</string>
     <string name="search_menu_title">Buscar</string>
-    <string name="search_nonetwork_prompt">Comprueba tu conexión de red y vuelve a intentarlo</string>
+    <string name="search_nonetwork_prompt">Compruebe su conexión de red y vuelva a intentarlo</string>
     <string name="search_nonetwork_refresh">Actualizar</string>
     <string name="search_recommend_empty">No hay elementos</string>
     <string name="search_vif_empty">No hay elementos recomendados</string>
@@ -422,7 +422,7 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="sniff_text_sniff_next_page">Continuar &gt;</string>
     <string name="sniff_vip_tip_speedup">Puedes probar Speed boost una vez gratis</string>
     <string name="sniff_vip_tip_vip">Xunlei puede seguir aumentando tu velocidad</string>
-    <string name="speed_entrance">Probar velocidad del Wi-Fi</string>
+    <string name="speed_entrance">Test velocidad de Wi-Fi</string>
     <string name="speed_result_broadband_text1">Velocidad de descarga actual</string>
     <string name="speed_result_broadband_text2">%s del ancho de banda</string>
     <string name="speed_result_broadband_text3">Ancho de banda</string>
@@ -430,11 +430,11 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="speed_result_restart">Probar de nuevo</string>
     <string name="speed_start">Probar</string>
     <string name="speed_stop">Cancelar</string>
-    <string name="speed_tip_netwrok_fail">Ocurrió un error de red, inténtalo de nuevo</string>
-    <string name="speed_tip_netwrok_timeout">Se agotó el tiempo de conexión, vuelve a intentarlo.</string>
-    <string name="speed_tip_no_netwrok">"No se pudo conectar a la red. Conéctate y vuelve a intentarlo."</string>
-    <string name="speed_title">Probar velocidad del Wi-Fi</string>
-    <string name="speed_title_result">Probar velocidad del Wi-Fi</string>
+    <string name="speed_tip_netwrok_fail">Ha ocurrido un error de red, inténtelo de nuevo</string>
+    <string name="speed_tip_netwrok_timeout">Tiempo de conexión agotado, inténtelo de nuevo</string>
+    <string name="speed_tip_no_netwrok">"No se pudo conectar a la red. Conéctese y vuelva a intentarlo."</string>
+    <string name="speed_title">Test velocidad de Wi-Fi</string>
+    <string name="speed_title_result">Test velocidad de Wi-Fi</string>
     <string name="start_analysis">Probar ahora</string>
     <string name="start_download">Descargar</string>
     <string name="start_xunlei_speedup_info">Inicie sesión para acelerar sus descargas.</string>

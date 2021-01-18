@@ -422,6 +422,7 @@ y ajusta las preferencias automáticamente"</string>
     <string name="color_effect_entry_new_3_describe">Esta combinación única de colores funciona perfectamente en climas nublados y con luz suave.</string>
     <string name="color_effect_entry_new_4">Sueño</string>
     <string name="color_effect_entry_new_4_describe">Los tonos oscuros y el contraste suave son adecuados para escenas interiores con iluminación tenue.</string>
+    <string name="color_effect_entry_new_5">Carmen</string>
     <string name="color_effect_entry_new_5_describe">Los tonos marrones y el contraste medio crean una atmósfera cálida para escenas al aire libre filmadas con luz natural.</string>
     <string name="color_effect_entry_new_bbp_describe">El alto contraste y la baja saturación aportarán una sensación cinematográfica a la mayoría de las escenas.</string>
     <string name="color_effect_entry_orange">Lima</string>
@@ -469,12 +470,14 @@ y ajusta las preferencias automáticamente"</string>
     <string name="cta_mimoji_msg">¡Bienvenido a Fun Cam! Puede usar esta aplicación para tomar fotos y grabar videos. Para poder funcionar normalmente, esta aplicación necesita conectarse a Internet y requiere los siguientes permisos para recopilar su información personal:</string>
     <string name="cta_mimoji_perm_type">Permisos obligatorios (utilizados para funciones y servicios básicos de esta aplicación)</string>
     <string name="cta_mimoji_user_links"><Data>Lea y acepte nuestro &lt;a href =%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href =%2$s&gt;Política de Privacidad&lt;/a&gt; antes de usar esta aplicación.</Data></string>
+    <string name="cta_mimoji_user_tips">"Si no acepta otorgar permisos obligatorios o compartir y cargar su información personal, no podrá usar esta aplicación. Si no otorga permisos opcionales, no podrá utilizar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible. Siempre puede restringir los permisos o retirar su consentimiento en la Configuración."</string>
     <string name="cta_msg">¡Bienvenido a Cámara! Puedes usar esta aplicación para tomar fotos y grabar vídeos. Esta aplicación necesita conectarse a Internet y requiere los siguientes permisos opcionales:</string>
     <string name="cta_perm_cam">Usar la cámara</string>
     <string name="cta_perm_cam_desc">Para tomar fotos</string>
     <string name="cta_perm_dec">Para añadir información de ubicación a fotos y vídeos</string>
     <string name="cta_perm_loc">Ubicación</string>
     <string name="cta_perm_storage">Acceder a las fotos en este dispositivo</string>
+    <string name="cta_perm_storage_desc">Para ver y guardar fotos</string>
     <string name="cta_perm_type">"Permisos opcionales (Usados para funciones adicionales mientras las estés usando)"</string>
     <string name="cta_perm_voice">Usar micrófono</string>
     <string name="cta_perm_voice_desc">Para grabar audio mientras se toman videos</string>
@@ -513,6 +516,20 @@ documentos escaneados automáticamente"</string>
     <string name="dolly_zoom_capture_tip1">Coloque el sujeto en el marco y mantenga el dispositivo al menos a %d metros de distancia</string>
     <string name="dolly_zoom_capture_tip2">Aleje el dispositivo del sujeto de manera constante</string>
     <string name="dolly_zoom_capture_tip3">Perdió la pista del sujeto. Comience de nuevo.</string>
+    <string name="dolly_zoom_capture_tip4">Movió el dispositivo demasiado lejos. Comience de nuevo.</string>
+    <string name="dolly_zoom_capture_tip5">"No se pudo guardar el video"</string>
+    <string name="dolly_zoom_guide_tip1">"Asegúrese de que haya suficiente espacio entre el sujeto y el fondo."</string>
+    <string name="dolly_zoom_guide_tip10">¡Y más!</string>
+    <string name="dolly_zoom_guide_tip2">Trate de evitar grandes áreas de color sólido.</string>
+    <string name="dolly_zoom_guide_tip3">Coloque al sujeto en el marco.</string>
+    <string name="dolly_zoom_guide_tip4">Pídale que no se mueva.</string>
+    <string name="dolly_zoom_guide_tip5">Recuerde mantener al sujeto dentro del encuadre mientras dispara.</string>
+    <string name="dolly_zoom_guide_tip6">Aleje el dispositivo del sujeto de manera constante.</string>
+    <string name="dolly_zoom_guide_tip7">Pasillos.</string>
+    <string name="dolly_zoom_guide_tip8">Escalera.</string>
+    <string name="dolly_zoom_guide_tip9">Callejones.</string>
+    <string name="dolly_zoom_guide_video_title1">Zoom mágico</string>
+    <string name="dolly_zoom_guide_video_title2">Escenas</string>
     <string name="download_cancel_hint">¿Cancelar descarga %1$s?</string>
     <string name="download_confirm">Descargar</string>
     <string name="download_hint">Se utilizarán %1$s MB de datos móviles para descargar elementos. Descargar de todos modos?</string>
@@ -586,6 +603,17 @@ documentos escaneados automáticamente"</string>
     <string name="fastmotion_pro_save_time_infinity">Duración ilimitada</string>
     <string name="fastmotion_pro_save_time_min_and_sec">Duración: %1$s %2$s</string>
     <string name="fastmotion_pro_save_time_min_or_sec">Duración： %1$s</string>
+    <string name="film_landscape_timefreeze_hint">Los videos donde el tiempo se congela solo pueden grabarse en modo horizontal</string>
+    <string name="film_timefreeze">Congelar fondo</string>
+    <string name="film_timefreeze_hint">Toque el obturador para comenzar a grabar</string>
+    <string name="film_timefreeze_reset">Descongelar fondo</string>
+    <string name="film_video_a">Zoom mágico</string>
+    <string name="film_video_b">Obturador lento</string>
+    <string name="film_video_b_tip">Disparo con poca luz</string>
+    <string name="film_video_c">Tiempo congelado</string>
+    <string name="film_video_d">Lapso de tiempo nocturno</string>
+    <string name="film_video_e">Mundo paralelo</string>
+    <string name="film_video_tip">Use un trípode</string>
     <string name="fps960_toast">La captura en cámara lenta comenzará en el último cuarto de la grabación.</string>
     <string name="fragment_tab_name_bokeh">Bokeh</string>
     <string name="front_camera_hint_text_place">"Hacer selfies será más fácil
@@ -695,8 +723,15 @@ en modo retrato"</string>
     <string name="macro_mode_use_hint_text_body">"Usa el modo macro para hacer que los objetos pequeños
 parezcan más grandes en las fotos"</string>
     <string name="macro_mode_use_hint_text_title">Macro</string>
+    <string name="makeup_effect_entry_apricot_white">Alabastro</string>
+    <string name="makeup_effect_entry_neutral">Neutral</string>
+    <string name="makeup_effect_entry_palm">Palmera</string>
+    <string name="makeup_effect_entry_taro">Taro</string>
+    <string name="makeup_effect_entry_vitality">Brío</string>
     <string name="makeup_reset_toast">Efectos de maquillaje eliminados con éxito</string>
+    <string name="manual_picture_style">Parámetros</string>
     <string name="manually_raw_hint">CRUDO</string>
+    <string name="masterfilter_description_title">Filtros de película</string>
     <string name="message_snap_double_confirm">Mantener pulsado el botón de volumen activará el NFC. ¿Reemplazar esta función?</string>
     <string name="mimoji_app_name">Cámara divertida</string>
     <string name="mimoji_back">atrás</string>
@@ -893,14 +928,17 @@ parezcan más grandes en las fotos"</string>
     <string name="parameter_lens_w">ANCHO (lente gran angular)</string>
     <string name="parameter_log_format_description">Este formato graba video con función logarítmica aplicada a la curva de exposición con el fin de capturar más detalles en luces y sombras, brindándote más opciones en el posprocesamiento.</string>
     <string name="parameter_log_format_title">Formato de registro</string>
+    <string name="parameter_manual_picturestyle_description">La saturación le permite controlar la profundidad y la intensidad de los colores, el ajuste del contraste resalta o minimiza la diferencia entre la luz y la oscuridad, y la nitidez representa los detalles a lo largo de los contornos.</string>
     <string name="parameter_metering_description">La medición promedio tiene en cuenta todas las áreas de su imagen, y funciona mejor para escenas con iluminación uniforme. La medición ponderada al centro se centra principalmente en el área central del encuadre y da la debida consideración al brillo del área circundante, que es adecuada para fotografiar sujetos en el centro del encuadre. La medición puntual solo cubre el área en un punto, lo que le brinda un control preciso sobre la exposición.</string>
     <string name="parameter_metering_title">Modos de medición</string>
     <string name="parameter_peak_focus_description">"Cuando esté enfocando manualmente, use el pico de enfoque para colocar un resaltado rojo en el área de enfoque."</string>
     <string name="parameter_peak_focus_title">Pico de enfoque</string>
     <string name="parameter_peak_raw_description">Este formato de imagen captura todos los datos de imagen registrados por el sensor cuando toma una foto. Los datos sin comprimir le brindan más opciones de posprocesamiento.</string>
     <string name="parameter_peak_raw_title">Formato RAW</string>
+    <string name="parameter_videos_title">Efectos de película</string>
     <string name="parameter_wb_description">Además de los preajustes de balance de blancos (incandescente, luz diurna, fluorescente, nublado), también puede configurar el balance de blancos en un valor personalizado dentro del rango de 2000–8000 Kelvin.</string>
     <string name="parameter_wb_title">Balance de blancos</string>
+    <string name="parameter_zoom_slider_description">Arrastre el control deslizante del zoom horizontalmente para cambiar su toma suavemente de una toma larga a una de cerca.</string>
     <string name="parameter_zoom_slider_title">Zoom</string>
     <string name="path_settings">Aplicaciones del sistema/Cámara/Ajustes</string>
     <string name="photo_assistance_tips_title">Consejos en vivo</string>
@@ -948,6 +986,7 @@ y resalta las personas en primer plano."</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Prueba el modo Retrato. 
 Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_960_watermark_title">Marca de agua 960FPS</string>
+    <string name="pref_a_c_f">Sonógrafo</string>
     <string name="pref_advance_settings">Ajustes adicionales</string>
     <string name="pref_ai_detect">Detección con IA</string>
     <string name="pref_audio_denoise_title">Reducción de ruido de audio</string>
@@ -1095,6 +1134,7 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_camera_multilevel_entry_lower">Más bajo</string>
     <string name="pref_camera_multilevel_entry_lowest">Bajísimo</string>
     <string name="pref_camera_multilevel_entry_middle">Medio (predeterminado)</string>
+    <string name="pref_camera_new_coloreffect_title">Filtros de película</string>
     <string name="pref_camera_normal_wide_ldc_description">Corrija las caras distorsionadas de las personas que están cerca del borde del marco</string>
     <string name="pref_camera_normal_wide_ldc_title">Corregir distorsiones faciales en fotos grupales</string>
     <string name="pref_camera_optimized_flash_enable_title">Flash optimizado</string>
@@ -1121,6 +1161,11 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_camera_recordlocation_entry_off">Desactivar</string>
     <string name="pref_camera_recordlocation_entry_on">Activar</string>
     <string name="pref_camera_recordlocation_title">Guardar información de ubicación</string>
+    <string name="pref_camera_reference_capture_title">Líneas de referencia</string>
+    <string name="pref_camera_reference_capture_title_golden_section">Proporción áurea</string>
+    <string name="pref_camera_reference_capture_title_jiugongge">Cuadrícula</string>
+    <string name="pref_camera_reference_capture_title_left_golden_spiral">Espiral dorada A</string>
+    <string name="pref_camera_reference_capture_title_right_golden_spiral">Espiral dorada B</string>
     <string name="pref_camera_referenceline_title">Mostrar cuadrícula</string>
     <string name="pref_camera_saturation_title">Saturación</string>
     <string name="pref_camera_scenemode_entry_auto">Automático</string>
@@ -1163,6 +1208,8 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_camera_tilt_shift_entry_circle">Círculo</string>
     <string name="pref_camera_tilt_shift_entry_parallel">Paralelo</string>
     <string name="pref_camera_tilt_shift_title">Efecto diorama</string>
+    <string name="pref_camera_tip_doc">Escáner de documentos</string>
+    <string name="pref_camera_tip_id_card">Escáner de identificación</string>
     <string name="pref_camera_touchafaec_entry_off">Desactivado</string>
     <string name="pref_camera_touchafaec_entry_on">Activado</string>
     <string name="pref_camera_ubifocus_title">Reenfocar</string>
@@ -1208,6 +1255,9 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_customization_title">Personalizar</string>
     <string name="pref_document_mode">Documentos</string>
     <string name="pref_dual_camera_video">Vídeo dual</string>
+    <string name="pref_e_c_t_j">Sonido original</string>
+    <string name="pref_e_p_k">Micrófono externo</string>
+    <string name="pref_e_p_s_n">Grabe sonido a través de un micrófono externo cuando se conecten auriculares Bluetooth equipados con micrófono</string>
     <string name="pref_face_beauty_title">Modo belleza</string>
     <string name="pref_fingerprint_capture_title">Obturador con huella dactilar</string>
     <string name="pref_front_denoise_summary">Reducir los ruidos generados detrás de la cámara frontal</string>
@@ -1478,7 +1528,9 @@ con mayor detalle"</string>
     <string name="video_effect_entry_northern_europe_describe">La baja saturación y contraste aportan algo de noir escandinavo a entornos interiores nublados y con poca luz.</string>
     <string name="video_effect_entry_polaroid">polaroid</string>
     <string name="video_effect_entry_rome">Roma</string>
+    <string name="video_effect_entry_rome_describe">El monocromo retro cálido funciona para la mayoría de las escenas.</string>
     <string name="video_effect_entry_summer_day">Verano</string>
+    <string name="video_effect_entry_summer_day_describe">Los tonos brillantes y de bajo contraste funcionan bien cuando necesita conservar los tonos de piel. Este filtro es adecuado para escenas al aire libre soleadas.</string>
     <string name="video_effect_entry_wind_sing">Brisa</string>
     <string name="video_reach_size_limit">Límite de tamaño alcanzado.</string>
     <string name="video_shortcut_short">Vídeo</string>

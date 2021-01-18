@@ -141,7 +141,7 @@
     <string name="accessibility_no_signal">Sin señal.</string>
     <string name="accessibility_no_sim">Sin SIM.</string>
     <string name="accessibility_no_sims">No hay tarjeta SIM.</string>
-    <string name="accessibility_no_wifi">Desconectado de Wi-Fi.</string>
+    <string name="accessibility_no_wifi">Desconectado de la Wi-Fi.</string>
     <string name="accessibility_no_wimax">Sin WiMAX.</string>
     <string name="accessibility_not_connected">No conectado.</string>
     <string name="accessibility_notification_dismissed">Notificación desestimada.</string>
@@ -259,13 +259,13 @@
     <string name="accessibility_vpn_on">VPN activado.</string>
     <string name="accessibility_waiting_for_fingerprint">Esperando huella dactilar</string>
     <string name="accessibility_wifi_name">Conectado a %s.</string>
-    <string name="accessibility_wifi_off">Wi-Fi apagado.</string>
-    <string name="accessibility_wifi_one_bar">Una barra de señal Wi-Fi.</string>
+    <string name="accessibility_wifi_off">Wi-Fi desactivado.</string>
+    <string name="accessibility_wifi_one_bar">Una barra de Wi-Fi.</string>
     <string name="accessibility_wifi_security_type_none">Red abierta</string>
     <string name="accessibility_wifi_security_type_secured">Red segura</string>
-    <string name="accessibility_wifi_signal_full">Señal de red Wi-Fi al máximo.</string>
-    <string name="accessibility_wifi_three_bars">Tres barras de señal Wi-Fi.</string>
-    <string name="accessibility_wifi_two_bars">Dos barras de señal Wi-Fi.</string>
+    <string name="accessibility_wifi_signal_full">Señal de Wi-Fi al máximo.</string>
+    <string name="accessibility_wifi_three_bars">Tres barras de Wi-Fi.</string>
+    <string name="accessibility_wifi_two_bars">Dos barras de Wi-Fi.</string>
     <string name="accessibility_wimax_one_bar">Una barra WiMAX.</string>
     <string name="accessibility_wimax_signal_full">Señal WiMAX máxima.</string>
     <string name="accessibility_wimax_three_bars">Tres barras WiMAX.</string>
@@ -434,6 +434,8 @@ Vuelva a intentarlo en %d segundo."</string>
     <string name="bluetooth_dun_profile_summary_use_for">Usar para el acceso a redes dial-up</string>
     <string name="bluetooth_enable_gabeldorsche">Habilitar Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Habilita la pila de funciones de Bluetooth Gabeldorsche.</string>
+    <string name="bluetooth_enable_page_scan">habilitar escaneo de página bluetooth</string>
+    <string name="bluetooth_enable_page_scan_summary">deshabilitar / habilitar la exploración de páginas para la prueba de Bluetooth</string>
     <string name="bluetooth_headset_profile_summary_connected">Conectado a audio del teléfono</string>
     <string name="bluetooth_headset_profile_summary_use_for">Usar para audio del teléfono</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Conectado a audífono</string>
@@ -1197,6 +1199,7 @@ d MMMM"</string>
     <string name="media_transfer_this_device_name">Este dispositivo</string>
     <string name="media_transfer_wired_device_name">Dispositivo de audio con cable</string>
     <string name="media_transfer_wired_usb_device_name">Audífonos con cable</string>
+    <string name="memory_leak">Pérdida de memoria</string>
     <string name="menu_ime">Selector de teclado</string>
     <string name="mic_active">Micrófono activo</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloqueado por un dispositivo Bluetooth</string>
@@ -1221,8 +1224,8 @@ d MMMM"</string>
     <string name="mland">Tierra de malvaviscos</string>
     <string name="mobile_data">Datos móviles</string>
     <string name="mobile_data_always_on">Datos móviles siempre activos</string>
-    <string name="mobile_data_always_on_summary">Mantener siempre activos los datos móviles, incluso cuando el Wi‑Fi esté activo (para cambiar rápidamente de red).</string>
-    <string name="mobile_data_disable_message">No tendrá acceso a datos ni a Internet a través de %s. Internet solo estará disponible a través de WLAN.</string>
+    <string name="mobile_data_always_on_summary">Mantener los datos móviles siempre activos aunque la conexión Wi‑Fi esté activada (para cambiar de red rápidamente).</string>
+    <string name="mobile_data_disable_message">No tendrá acceso a los datos o a Internet a través de %s. Internet solo estará disponible a través del Wi-Fi.</string>
     <string name="mobile_data_disable_message_default_carrier">tu portador</string>
     <string name="mobile_data_disable_title">¿Desactivar los datos móviles?</string>
     <string name="mock_location_app">Seleccionar la app para localización ficticia</string>
@@ -1395,7 +1398,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="output_none_found">No se encontraron dispositivos</string>
     <string name="output_none_found_service_off">No se encontraron dispositivos. Intenta encender %1$s</string>
     <string name="output_service_bt">Bluetooth</string>
-    <string name="output_service_bt_wifi">Bluetooth y WLAN</string>
+    <string name="output_service_bt_wifi">Bluetooth y Wi‑Fi</string>
     <string name="output_service_wifi">Wi-Fi</string>
     <string name="output_title">Salida de medios</string>
     <string name="overlay_display_devices_title">Simular pantallas adicionales</string>
@@ -1562,7 +1565,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="quick_settings_cellular_detail_data_usage">Uso de datos</string>
     <string name="quick_settings_cellular_detail_data_used">%s usados</string>
     <string name="quick_settings_cellular_detail_data_warning">%s advertencia</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Los datos móviles (WCDMA / LTE) se desactivarán. A menos que use WLAN, ya no podrá usar aplicaciones que requieran conexión de datos. Se restringirá el envío o la recepción de mensajes multimedia.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Los datos móviles (WCDMA/LTE) se desactivarán. A menos que utilice Wi-Fi, ya no podrá usar aplicaciones que requieran conexión de datos. Se restringirá el envío o recepción de mensajes multimedia.</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnon">Se activarán los datos móviles. La conexión a redes móviles puede generar cargos adicionales según su plan de pago.</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Cancelar</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">Aceptar</string>
@@ -1659,7 +1662,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="quick_settings_wifi_no_network">Sin red</string>
     <string name="quick_settings_wifi_not_connected">No conectado</string>
     <string name="quick_settings_wifi_off_label">Wi-Fi desactivado</string>
-    <string name="quick_settings_wifi_on_label">Wi-Fi activado</string>
+    <string name="quick_settings_wifi_on_label">Wi-Fi Activado</string>
     <string name="quick_settings_wifi_secondary_label_transient">Activando...</string>
     <string name="quick_settings_work_mode_label">Modo de trabajo</string>
     <string name="quick_step_accessibility_toggle_overview">Toggle Resumen</string>
@@ -2074,8 +2077,8 @@ Cualquier usuario puede actualizar aplicaciones para otros."</string>
     <string name="wifi_check_password_try_again">Verifique la contraseña y vuelva a intentarlo</string>
     <string name="wifi_connected_mac_randomization">Aleatorización de MAC conectada</string>
     <string name="wifi_connected_no_internet">Conectado, sin Internet</string>
-    <string name="wifi_coverage_extend">Activar extensión de cobertura Wi-Fi</string>
-    <string name="wifi_coverage_extend_summary">Amplíe la cobertura WLAN usando un punto de acceso</string>
+    <string name="wifi_coverage_extend">Activar la extensión de cobertura Wi-Fi</string>
+    <string name="wifi_coverage_extend_summary">Amplíe la cobertura de Wi-Fi usando un punto de acceso</string>
     <string name="wifi_debugging_allow">Permitir</string>
     <string name="wifi_debugging_always">Permitir siempre en esta red</string>
     <string name="wifi_debugging_message">"Nombre de red (SSID)
@@ -2106,7 +2109,7 @@ Dirección Wi-Fi (BSSID)
     <string name="wifi_not_in_range">Fuera de alcance</string>
     <string name="wifi_passpoint_expired">Caducado</string>
     <string name="wifi_remembered">Guardado</string>
-    <string name="wifi_scan_throttling">Limitación para búsqueda de redes Wi-Fi</string>
+    <string name="wifi_scan_throttling">Aceleración de escaneo de Wi-Fi</string>
     <string name="wifi_scan_throttling_summary">Reduce el uso de batería y mejora el rendimiento de la red</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_eap_suiteb">WPA3-Enterprise de 192 bits</string>
@@ -2125,8 +2128,8 @@ Dirección Wi-Fi (BSSID)
     <string name="wifi_unmetered_label">Sin medir</string>
     <string name="wifi_unsaved_network_linking">Puente SSID - Conexión automática</string>
     <string name="wifi_unsaved_network_linking_summary">Habilite los intentos de conexión automática a un nuevo SSID WPA / WPA2 ‑ PSK de 5 GHz con las credenciales SSID WPA / WPA2 ‑ PSK de 2 GHz actualmente conectadas en SSID y coincidencia parcial de BSSID</string>
-    <string name="wifi_verbose_logging">Habilitar registro detallado de Wi‑Fi</string>
-    <string name="wifi_verbose_logging_summary">Aumentar nivel de registro de Wi‑Fi, mostrar RSSI para todas las SSID en la lista de redes Wi‑Fi.</string>
+    <string name="wifi_verbose_logging">Activar el registro detallado de Wi-Fi</string>
+    <string name="wifi_verbose_logging_summary">Aumentar el nivel de registro de Wi-Fi (mostrar por SSID RSSI en el selector de Wi-Fi)</string>
     <string name="wifi_wapi_as_certificate">Certificado AS</string>
     <string name="wifi_wapi_cert_mode_hand_text">Seleccionar manualmente</string>
     <string name="wifi_wapi_certification_dont_exist">"La contraseña de red que ingresaste es incorrecta."</string>

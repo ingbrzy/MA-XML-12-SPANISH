@@ -33,9 +33,9 @@
     <string name="am">AM</string>
     <string name="casting_tips">Emitiendo…</string>
     <string name="clearable_edittext_clear_description">Claro</string>
-    <string name="close_hotspot_hint">Apague el punto de acceso portátil antes de lanzar</string>
+    <string name="close_hotspot_hint">Apague el punto de acceso portátil antes de transmitir</string>
     <string name="close_slave_wifi_hint">Desconectarse de las redes Wi-Fi auxiliares antes de transmitir</string>
-    <string name="close_slave_wifi_hint_china">Desconectarse de las redes Wi-Fi auxiliares antes de enviar</string>
+    <string name="close_slave_wifi_hint_china">Desconectarse de las redes Wi-Fi auxiliares antes de transmitir</string>
     <string name="console_guide_btn_got_it">Entendido</string>
     <string name="console_guide_subtitle_hang_up">Puedes seguir transmitiendo cuando la pantalla de tu dispositivo esté apagada. Esta característica disminuye el consumo de energía.</string>
     <string name="console_guide_subtitle_private">"No muestre notificaciones flotantes, llamadas entrantes y otros elementos privados en monitores externos"</string>
@@ -56,7 +56,7 @@
     <string name="dialog_miplay_permission_title">Solicitud de permiso</string>
     <string name="dialog_nfc_cast_wifi_off">Active el Wi-Fi para poder emitir usando NFC. ¿Activar ahora?</string>
     <string name="dialog_no_device_message"><Data>1. Conecte tanto su teléfono como su televisor a la misma red Wi-Fi.&lt;br&gt;&lt;br&gt;2. En algunos modelos de TV, esta función solo está disponible cuando la duplicación de pantalla está activada. Vea &lt;a href=milink://com.milink.service/specification&gt;\"Ayuda\"&lt;/a&gt; para obtener más información.</Data></string>
-    <string name="dialog_no_device_message_china"><Data>1. Conecte su teléfono y TV a la misma red WLAN.&lt;br&gt;&lt;br&gt;2. En algunos modelos de TV, esta función solo está disponible cuando la duplicación de pantalla está activada. Vea &lt;a href=milink://com.milink.service/specification&gt;\"Ayuda\"&lt;/a&gt; para obtener más información.</Data></string>
+    <string name="dialog_no_device_message_china"><Data>1. Conecte tanto su teléfono como su televisor a la misma red Wi-Fi.&lt;br&gt;&lt;br&gt;2. En algunos modelos de TV, esta función solo está disponible cuando la duplicación de pantalla está activada. Vea &lt;a href=milink://com.milink.service/specification&gt;\"Ayuda\"&lt;/a&gt; para obtener más información.</Data></string>
     <string name="dialog_ok">Aceptar</string>
     <string name="dialog_only_suport_content">Transmite fotos, videos o música</string>
     <string name="dialog_open_wifi_bt">Encender</string>
@@ -67,7 +67,7 @@ Ver ayuda si tiene problemas para conectarse."</string>
     <string name="dialog_scan_message">"1. Conecte su teléfono y TV a la misma red Wi-Fi.
 
 2. En algunos modelos de TV, esta función solo está disponible cuando la duplicación de pantalla está activada. Vea \"Ayuda\" para obtener más información."</string>
-    <string name="dialog_scan_message_china">"1. Conecte tanto su teléfono como su televisor a la misma red WLAN.
+    <string name="dialog_scan_message_china">"1. Conecte su teléfono y TV a la misma red Wi-Fi.
 
 2. En algunos modelos de TV, esta función solo está disponible cuando la duplicación de pantalla está activada. Vea \"Ayuda\" para obtener más información."</string>
     <string name="dialog_scanning_device">Buscando dispositivos cercanos…</string>
@@ -210,9 +210,9 @@ Si necesita activar Miracast, presione el botón [MENÚ] y seleccione Mis aplica
     <string name="help_page_text_52">Primero, asegúrese de que la funcionalidad de Miracast sea compatible con su dispositivo. En algunos de los modelos, puede activar esta función en Configuración&gt; Redes&gt; Varias pantallas&gt; Pantalla inalámbrica.</string>
     <string name="help_page_text_53">Atención al cliente de LeEco: 10109000</string>
     <string name="help_page_text_55">"Si no puede conectarse a la red, asegúrese de que su monitor externo admita la funcionalidad Miracast y esté encendido. En algunos modelos, esta función se denomina Pantalla inalámbrica, Duplicación de pantalla o Pantallas múltiples. Vea la información a continuación para aprender cómo enciende Miracast.
-4. Si encuentra algún problema, puede informarlo utilizando nuestros \"Servicios y comentarios\" app."</string>
+4. Si encuentra algún problema, puede informarlo utilizando nuestra aplicación \"Servicios &amp; comentarios\"."</string>
     <string name="help_page_text_55_global">"Si no puede conectarse a la red, asegúrese de que su monitor externo admita la funcionalidad Miracast y esté encendido. En algunos modelos, esta función se denomina Pantalla inalámbrica, Duplicación de pantalla o Pantallas múltiples.
-4. Si encuentra algún problema, puede informarlo utilizando nuestros \"Servicios y comentarios\" app."</string>
+4. Si encuentra algún problema, puede informarlo utilizando nuestra aplicación \"Servicios &amp; comentarios\"."</string>
     <string name="help_page_text_end">"Si la marca de tu dispositivo no aparece en la lista, póngase en contacto con el fabricante para obtener más información sobre la funcionalidad de transmisión"</string>
     <string name="keyguard_security_setting_privacy_policy">Política de Privacidad</string>
     <string name="midnight">Noche</string>
@@ -306,7 +306,7 @@ Si necesita activar Miracast, presione el botón [MENÚ] y seleccione Mis aplica
     <string name="privacy_permission_optional">Permisos opcionales</string>
     <string name="privacy_permission_optional_desc">"Usado para funciones adicionales mientras se estén usando"</string>
     <string name="privacy_permission_wlan">Activar y desactivar Wi-Fi</string>
-    <string name="privacy_permission_wlan_china">Activar y desactivar WLAN</string>
+    <string name="privacy_permission_wlan_china">Encender y apagar el Wi-Fi</string>
     <string name="privacy_permission_wlan_desc">Para encontrar dispositivos disponibles cercanos</string>
     <string name="privacy_permission_wlan_desc_china">Para encontrar dispositivos disponibles cercanos</string>
     <string name="privacy_positive">Aceptar</string>
@@ -378,7 +378,7 @@ Lea y acepte nuestro &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a hre
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
-    <string name="synergy_casting">"No se puede usar la transmisión mientras Screen Combo está funcionando"</string>
+    <string name="synergy_casting">"No se puede usar la transmisión mientras Pantalla Combinada está funcionando"</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversario del Levantamiento de la Ley Marcial</string>
     <string name="the_anti_aggression_day">Día de la lucha contra la agresión</string>
     <string name="the_arbor_day">Día del árbol</string>
@@ -432,7 +432,7 @@ Lea y acepte nuestro &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a hre
     <string name="toast_msg_for_small_window">"Puede minimizar la ventana que se está proyectando para poder usar otras funciones de su teléfono sin interrumpir el proceso de transmisión."</string>
     <string name="toast_nfc_dont_move">"No alejes tu teléfono"</string>
     <string name="toast_title_for_small_window">Seleccione \"Minimizar ventana\" en la aplicación</string>
-    <string name="toast_turn_off_hotspot_before_cast">Apague el punto de acceso portátil antes de lanzar</string>
+    <string name="toast_turn_off_hotspot_before_cast">Apague el punto de acceso portátil antes de transmitir</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">mañana</string>
     <string name="trust_device_desc">"Estos dispositivos aparecerán aquí primero cuando estén cerca"</string>

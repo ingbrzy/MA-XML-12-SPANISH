@@ -151,7 +151,7 @@
     <string name="app_name">Administrador de permisos</string>
     <string name="background_location_access_reminder_notification_content">Esta aplicación siempre puede acceder a tu ubicación. Pulsa para cambiarlo.</string>
     <string name="background_location_access_reminder_notification_title">%s ha estado usando tu ubicación</string>
-    <string name="blur_location_is_on_tip">%1$s ha iniciado el servicio de ubicación aproximado. ¿Desea mantener el servicio de ubicación aproximado encendido?</string>
+    <string name="blur_location_is_on_tip">%1$s usa su ubicación aproximada. ¿Seguir usándolo en lugar de la ubicación precisa?</string>
     <string name="blur_location_now_tip">Ubicación aproximada activada</string>
     <string name="blur_location_title">Ubicacion Aproximada</string>
     <string name="clearable_edittext_clear_description">Limpiar</string>
@@ -184,8 +184,8 @@
     <string name="go_behavior_record">Historial de comportamiento de la aplicación</string>
     <string name="go_perm_manager">Administrar permisos</string>
     <string name="go_setting">Ajustes</string>
-    <string name="gold_master_dialog_reject">Rechazar (%d)</string>
-    <string name="gold_master_dialog_title">%1$s quiere leer el portapapeles</string>
+    <string name="gold_master_dialog_reject">Restringir (%d)</string>
+    <string name="gold_master_dialog_title">%1$s quiere acceder a su portapapeles</string>
     <string name="grant_dialog_button_allow">Permitir</string>
     <string name="grant_dialog_button_allow_always">Permitir siempre</string>
     <string name="grant_dialog_button_allow_background">Permitir siempre</string>
@@ -198,7 +198,7 @@
     <string name="grant_dialog_storage_category_title">Esta aplicación requiere permisos para acceder a la Galería y los mensajes en aplicaciones de redes sociales</string>
     <string name="grant_dialog_storage_gallery_title">Galería</string>
     <string name="grant_dialog_storage_sociality_title">Mensajes en aplicaciones de redes sociales</string>
-    <string name="keep_blur_location">Continuar</string>
+    <string name="keep_blur_location">No</string>
     <string name="keep_notice_me">Sigue notificando</string>
     <string name="location_settings">Ajustes de ubicación</string>
     <string name="location_warning">%1$s es un proveedor de servicios de ubicación para este dispositivo. El acceso a la ubicación se puede modificar en los ajustes de la ubicación.</string>
@@ -346,7 +346,7 @@
     <string name="solar_term_white_dews">Rocío</string>
     <string name="solar_term_winter_begins">Empieza el invierno</string>
     <string name="solar_term_winter_solstice">Solsticio de invierno</string>
-    <string name="stop_blur_location">Desactivar</string>
+    <string name="stop_blur_location">Sí</string>
     <string name="storage_policy_notify_both_title">"%1$s no se permite acceder a la Galería y los mensajes en las aplicaciones de redes sociales"</string>
     <string name="storage_policy_notify_content">Toca para administrar permisos</string>
     <string name="storage_policy_notify_gallery_title">"%1$s no tiene permiso para acceder a la Galería"</string>

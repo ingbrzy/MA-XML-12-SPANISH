@@ -190,7 +190,7 @@ Sostenga el teléfono como si estuviera respondiendo a una llamada, hable por el
     <string name="cit_bluetooth_logging_confirm_ok">Aceptar</string>
     <string name="cit_bluetooth_logging_confirm_title">Advertencia de privacidad de registro de Bluetooth</string>
     <string name="cit_bluetooth_not_support">"Este dispositivo no es compatible con Bluetooth"</string>
-    <string name="cit_bluetooth_scan_retry">Escanea otra vez</string>
+    <string name="cit_bluetooth_scan_retry">Escanear de nuevo</string>
     <string name="cit_bluetooth_scanning">Búsqueda de dispositivos Bluetooth cercanos (esto debería tardar unos 4 segundos)…</string>
     <string name="cit_bluetooth_scanning_bluetooth_done">"Hecho. No encontré ningún dispositivo Bluetooth cerca."</string>
     <string name="cit_bluetooth_scanning_bluetooth_error">Se produjo un error al buscar dispositivos Bluetooth.</string>
@@ -618,7 +618,7 @@ Después de colocar \"music.mp3\" en el directorio de la tarjeta SD, toque la pa
     <string name="cit_tool_log_no_sdcard">Insertar una tarjeta SD ahora</string>
     <string name="cit_tool_log_ril">Registro RIL</string>
     <string name="cit_tool_log_toast">Registro guardado en %s</string>
-    <string name="cit_tool_log_toast_generate_bugreport">Crear informe de error… (esto demora aproximadamente 1 minuto)</string>
+    <string name="cit_tool_log_toast_generate_bugreport">Creando informe de error… (tomará aprox. 1 minuto)</string>
     <string name="cit_tool_mbn_default_notfiy">MBN predeterminado</string>
     <string name="cit_tool_mbn_no_default_notfiy">Sin MBN predeterminado</string>
     <string name="cit_tool_mbn_opt_help">"Instrucciones de funcionamiento:
@@ -677,7 +677,7 @@ La segunda línea muestra el nombre y el número de versión del MBN predetermin
     <string name="cit_tool_splash_test_title">Prueba de salpicadura</string>
     <string name="cit_tool_switch_autosms">Activar / desactivar AutoSMSReg</string>
     <string name="cit_tool_to_fetching">ir a buscar</string>
-    <string name="cit_tool_wifi">Herramienta de prueba de WLAN</string>
+    <string name="cit_tool_wifi">Herramienta de prueba Wi-Fi</string>
     <string name="cit_tool_wifi_exit">Salir</string>
     <string name="cit_tool_wifi_rx_chan">Rx: canal</string>
     <string name="cit_tool_wifi_rx_count_error">El valor de salida no es un número</string>
@@ -688,7 +688,7 @@ La segunda línea muestra el nombre y el número de versión del MBN predetermin
     <string name="cit_tool_wifi_rxbg_test_channel">canal:</string>
     <string name="cit_tool_wifi_rxn_test_bw">banda ancha:</string>
     <string name="cit_tool_wifi_rxn_test_channel">canal:</string>
-    <string name="cit_tool_wifi_sniffer">Herramienta WLAN Sniffer</string>
+    <string name="cit_tool_wifi_sniffer">Herramienta de rastreo de Wi-Fi</string>
     <string name="cit_tool_wifi_sniffer_settings">Configuración de Sniffer</string>
     <string name="cit_tool_wifi_tx_ax_gI">Intervalo de guardia:</string>
     <string name="cit_tool_wifi_tx_bg_chan">canal:</string>
@@ -741,11 +741,11 @@ prueba falla!"</string>
     <string name="cit_voc_data_pressure">Presión</string>
     <string name="cit_voc_data_sensor_check_summary">Los valores de COV, temperatura, humedad, presión deben aparecer a continuación</string>
     <string name="cit_voc_data_temperature">Temperatura</string>
-    <string name="cit_wifi_address_check_summary">A continuación se muestra la dirección de la red WLAN a la que el teléfono está conectado actualmente. Confirma que la información resaltada en verde sea correcta.</string>
-    <string name="cit_wifi_address_check_title">Dirección WLAN</string>
-    <string name="cit_wifi_address_error">"No se pudo obtener la dirección WLAN. Asegúrese de que WLAN esté habilitada."</string>
-    <string name="cit_wifi_ap_scan_check_summary">A continuación se muestra la información de WLAN AP de los dispositivos en el área que se detectaron. Confirma que la información resaltada en verde sea correcta.</string>
-    <string name="cit_wifi_ap_scan_check_title">Escaneo WLAN AP</string>
+    <string name="cit_wifi_address_check_summary">A continuación se muestra la dirección de la red Wi-Fi a la que el teléfono está conectado actualmente. Confirmae que la información resaltada en verde sea correcta.</string>
+    <string name="cit_wifi_address_check_title">Dirección Wi-Fi</string>
+    <string name="cit_wifi_address_error">"No se pudo obtener la dirección Wi-Fi. Asegúrese de que esté habilitado."</string>
+    <string name="cit_wifi_ap_scan_check_summary">A continuación se muestra la información de AP Wi-Fi de los dispositivos que se detectaron en el área. Confirme que la información resaltada en verde sea correcta.</string>
+    <string name="cit_wifi_ap_scan_check_title">Escaneo de AP Wi-Fi</string>
     <string name="cit_wifi_ap_scan_retry">Escaneando de nuevo…</string>
     <string name="cit_wifi_ap_scanning">Escaneando…</string>
     <string name="cit_wifi_fail_to_scan">"No se pudo buscar redes"</string>

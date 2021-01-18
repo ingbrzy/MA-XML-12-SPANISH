@@ -51,10 +51,10 @@
     <string name="boot_video_skip">Omitir</string>
     <string name="calculator_introduction">Puede utilizar esta aplicación para realizar cálculos, convertir unidades y monedas y estimar los reembolsos de su hipoteca.</string>
     <string name="camera_introduction">Puede usar la cámara para tomar fotos y grabar videos.</string>
-    <string name="carrier_introduction">"Para proporcionarle mejores servicios, su dispositivo puede enviar periódicamente la información de la versión del dispositivo, los datos de identificación del dispositivo (incluyendo la dirección IMEI/IMSI/MSISDN/MAC, MEID/ICCID), e información de la ubicación aproximada (incluyendo el ID de la estación base) al operador a través de Wi-Fi, red de datos móviles o SMS gratuito. El Operador se compromete a analizar la información relevante sólo para mejorar la calidad de los servicios o para proporcionar servicios o tecnologías personalizadas, y no revelará información relevante a terceros de ninguna forma que le identifique personalmente. La declaración del Operador específico prevalecerá. Consulte a su Operador sobre el coste de uso de este servicio."</string>
+    <string name="carrier_introduction">"Para proporcionarle mejores servicios, su dispositivo puede enviar periódicamente la información de la versión del dispositivo, los datos de identificación del dispositivo (incluyendo la dirección IMEI/IMSI/MSISDN/MAC, MEID/ICCID), y aproximar información de ubicación (incluyendo el ID de la estación base) al operador a través de Wi-Fi, red de datos móviles o SMS gratuito. El operador se compromete a analizar la información relevante sólo para mejorar la calidad de los servicios o para proporcionar servicios o tecnologías personalizadas, y no revelará información relevante a terceros de ninguna forma que le identifique personalmente. La declaración del operador específico prevalecerá. Consulte a su operador sobre el coste de uso de este servicio."</string>
     <string name="clock_introduction">Puede usar esta aplicación para ver la hora, así como usar el temporizador, el reloj mundial, el cronómetro, configurar alarmas y más.</string>
     <string name="close_location_service_setting">Puede elegir desactivar el acceso a la ubicación en Configuración &gt; Configuración adicional &gt; Privacidad o restringir los permisos para aplicaciones individuales en Seguridad.</string>
-    <string name="cm_terms_content">"Con el fin de mejorar los servicios que se le brindan, el operador de red móvil de su elección puede subir sus datos personales y la información sobre este dispositivo en sus servidores mediante redes WLAN o conexión de datos móviles. Esta información solo se utilizará con fines estadísticos con el fin de mejorar la calidad de los servicios y proporcionar contenido más personalizado. Esta información no se utilizará para identificarle personalmente y no se divulgará a terceros."</string>
+    <string name="cm_terms_content">"Para mejorar los servicios que se le brindan, su operador de red móvil puede cargar sus datos personales y la información sobre este dispositivo en sus servidores mediante redes Wi-Fi o conexión de datos móviles. Esta información solo se utilizará con fines estadísticos con el fin de mejorar la calidad de los servicios y proporcionar contenido más personalizado. Esta información no se utilizará para identificarle personalmente y no se divulgará a terceros."</string>
     <string name="cm_terms_title">Acuerdo del Operador de Red Móvil</string>
     <string name="compass_introduction">Puede utilizar esta aplicación para la navegación, así como para ver las coordenadas, la presión atmosférica y la altitud.</string>
     <string name="congratulation_label">"¡Listo para disfrutar!​"</string>
@@ -64,7 +64,7 @@
     <string name="content_description_start">Iniciar</string>
     <string name="content_introduction">El Centro de contenido agrega contenido y servicios de múltiples canales. Aquí puede leer artículos, ver videos, ver elementos destacados diarios y recibir recomendaciones de contenido.</string>
     <string name="continue_to_enable_accessibility">Mantén pulsados dos dedos para activar la accesibilidad.</string>
-    <string name="data_traffic_enable_dialog_title">"Si no está conectado a WLAN ahora, su dispositivo utilizará datos móviles. El uso de datos móviles puede generar tarifas de operador adicionales."</string>
+    <string name="data_traffic_enable_dialog_title">"Si no está conectado a la red Wi-Fi, su dispositivo utilizará datos móviles. Usar datos móviles puede generar cargos adicionales de operador."</string>
     <string name="desc_fingerprint">Utiliza tu huella para desbloquear el dispositivo, comprobar las transacciones de Mi Pago o para conectarte a aplicaciones y servicios.</string>
     <string name="desc_international_fingerprint">Use su huella dactilar para desbloquear el dispositivo o para iniciar sesión en aplicaciones y servicios.</string>
     <string name="diagnose_report">Envíe datos de diagnóstico para localizar y analizar problemas del sistema y mejorar la experiencia del usuario. Dichos datos pueden incluir información personal (por ejemplo, IP, ubicación, etc.)</string>
@@ -207,6 +207,7 @@
     <string name="privacy_policy">Política de Privacidad</string>
     <string name="protect_persoanl_info_statement">Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad pertinentes.</string>
     <string name="provision_back">Atrás</string>
+    <string name="provision_inputmethod_policy_description"><Data>Vea la &lt;a href=%1$s&gt;Política de privacidad&lt;/a &gt; del teclado seleccionado.</Data></string>
     <string name="provision_inputmethod_policy_description1">Política de Privacidad</string>
     <string name="provision_next">Siguiente</string>
     <string name="provision_skip_underline">Omitir</string>
