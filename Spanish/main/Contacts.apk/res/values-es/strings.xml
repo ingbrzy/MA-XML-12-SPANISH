@@ -79,6 +79,10 @@
     <string name="bh_bill_balance">Saldo</string>
     <string name="bh_bill_charge">Recargar saldo</string>
     <string name="bh_bugreport">Comentarios comerciales</string>
+    <string name="bh_business_hall_is_here">Los servicios de operador están aquí</string>
+    <string name="bh_business_style">Seleccionar interfaz</string>
+    <string name="bh_business_style_new">Nuevo</string>
+    <string name="bh_business_style_old">Antiguo</string>
     <string name="bh_button_finish">Hecho</string>
     <string name="bh_buy_now">Comprar</string>
     <string name="bh_call_used">Minutos usados</string>
@@ -155,6 +159,8 @@
     <string name="bh_saved_number">Número guardado: %1$s</string>
     <string name="bh_should_login_to_buy">Inicie sesión en Mi Cuenta para poder comprar minutos de llamadas y datos móviles</string>
     <string name="bh_similar_number_hint">Este número es similar a %1$s. ¿Completar este número de todos modos?</string>
+    <string name="bh_system_recommend">Recomendación del Sistema</string>
+    <string name="bh_system_recommend_des">Permítanos analizar su tráfico y recomendar productos digitales en función de los resultados</string>
     <string name="bh_tag_phones">Números de teléfono de uso frecuente</string>
     <string name="bh_tags_number_exceed">"No puedo guardar más números de teléfono"</string>
     <string name="bh_time_before">%1$s %2$s hace</string>
@@ -274,6 +280,7 @@
     <string name="callrecordview_menu_show_missed">Llamadas perdidas</string>
     <string name="callrecordview_menu_show_sim">%s llamadas</string>
     <string name="callrecordview_menu_show_stranger">Llamadas de números desconocidos</string>
+    <string name="cancel">Cancelar</string>
     <string name="cancel_confirmation_dialog_message">¿Descartar cambios?</string>
     <string name="cancel_confirmation_dialog_title">Cancelar</string>
     <string name="cancel_export_confirmation_message">¿Cancelar la exportación de %s?</string>
@@ -352,6 +359,15 @@
     <string name="contactsList">Contactos</string>
     <string name="contacts_default_notification_channel">Notificaciones</string>
     <string name="contacts_hybrid_activity_label">Recuperar contactos</string>
+    <string name="contacts_trash_activity_hint">Seleccionar contactos para restaurar</string>
+    <string name="contacts_trash_activity_title">Contactos eliminados recientemente</string>
+    <string name="contacts_trash_delete">Eliminar</string>
+    <string name="contacts_trash_delete_dialog_continue">Eliminar</string>
+    <string name="contacts_trash_delete_dialog_hint">"No podrá revertir esto."</string>
+    <string name="contacts_trash_delete_dialog_loading">Eliminando…</string>
+    <string name="contacts_trash_delete_dialog_title">Eliminar contactos seleccionados?</string>
+    <string name="contacts_trash_restore">Restaurar</string>
+    <string name="contacts_trash_restore_loading">Restaurando…</string>
     <string name="contacts_unavailable_add_account">Acceder a una cuenta</string>
     <string name="contacts_unavailable_create_contact">Crear contacto nuevo</string>
     <string name="contacts_unavailable_import_contacts">Importar desde archivo</string>
@@ -490,6 +506,7 @@ Mi Roaming necesita conectarse a Internet y acceder a la información de su ubic
     <string name="email_other">Correo electrónico</string>
     <string name="email_work">Enviar correo electrónico al trabajo</string>
     <string name="emergency_number_label">Número de emergencia</string>
+    <string name="ensure">Aceptar</string>
     <string name="eras_ad">DC</string>
     <string name="eras_bc">AC</string>
     <string name="err_dont_install_mipay">Instale Mi Pay para completar el pago.</string>

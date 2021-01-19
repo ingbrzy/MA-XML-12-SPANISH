@@ -128,12 +128,6 @@
         <item>Natural</item>
         <item>Estándar</item>
     </string-array>
-    <string-array name="config_rcs_provision_error_on_publish_response">
-        <item>404 No encontrado</item>
-    </string-array>
-    <string-array name="config_volte_provision_error_on_publish_response">
-        <item>403 no autorizado para presencia</item>
-    </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Desactivado</item>
         <item>Mostrar áreas sobredibujadas</item>
@@ -214,11 +208,6 @@
         <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
         <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
     </string-array>
-    <string-array name="preferred_network_mode_choices_world_mode">
-        <item>Mundial</item>
-        <item>LTE / CDMA</item>
-        <item>LTE / GSM / UMTS</item>
-    </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desactivado</item>
         <item>64 K/búfer registro</item>
@@ -276,18 +265,6 @@
         <item>Superrápida</item>
         <item>Hiperrrápida</item>
         <item>La más rápida</item>
-    </string-array>
-    <string-array name="uplmn_prefer_network_mode_td_choices">
-        <item>GSM</item>
-        <item>TD-SCDMA</item>
-        <item>LTE</item>
-        <item>Modo triple</item>
-    </string-array>
-    <string-array name="uplmn_prefer_network_mode_w_choices">
-        <item>GSM</item>
-        <item>WCDMA</item>
-        <item>LTE</item>
-        <item>Modo triple</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Carga</item>

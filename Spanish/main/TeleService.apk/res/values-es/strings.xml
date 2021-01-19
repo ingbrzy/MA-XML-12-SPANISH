@@ -434,7 +434,7 @@ Frecuencia de muestreo"</string>
     <string name="callFailed_dsac_restricted">Llamadas restringidas por control de acceso.</string>
     <string name="callFailed_dsac_restricted_emergency">Llamadas de emergencia restringidas por control de acceso.</string>
     <string name="callFailed_dsac_restricted_normal">Llamadas normales restringidas por control de acceso.</string>
-    <string name="callFailed_emergency_call_over_wfc_not_available">Las llamadas de emergencia a través de llamadas WLAN no están disponibles en esta ubicación.</string>
+    <string name="callFailed_emergency_call_over_wfc_not_available">Las llamadas de emergencia por Wi-Fi no están disponibles en esta ubicación.</string>
     <string name="callFailed_facility_rejected">Instalación rechazada</string>
     <string name="callFailed_fdn_only">Las llamadas salientes están limitadas por el número de marcación fija (FDN).</string>
     <string name="callFailed_imei_not_accepted">No se puede conectar, inserta una tarjeta SIM válida.</string>
@@ -493,8 +493,8 @@ Frecuencia de muestreo"</string>
     <string name="callFailed_userBusy">Línea ocupada</string>
     <string name="callFailed_user_not_member_of_CUG">Usuario no miembro de CUG</string>
     <string name="callFailed_video_call_tty_enabled">No se pueden realizar videollamadas si el TTY está habilitado.</string>
-    <string name="callFailed_wfc_service_not_available_in_this_location">Las llamadas WLAN no están disponibles en esta ubicación.</string>
-    <string name="callFailed_wifi_lost">Conexión Wi-Fi perdida. Llamada terminada.</string>
+    <string name="callFailed_wfc_service_not_available_in_this_location">Las llamadas por Wi-Fi no están disponibles en esta ubicación.</string>
+    <string name="callFailed_wifi_lost">Se perdió la conexión Wi-Fi. Llamada terminada.</string>
     <string name="callUnanswered_forwarded">Llamada no contestada y desviada</string>
     <string name="call_advanced_setting_title">Ajustes avanzados</string>
     <string name="call_barring">Bloqueo de llamada</string>
@@ -605,7 +605,7 @@ Frecuencia de muestreo"</string>
     <string name="cell_bc_sms_enable">SMS de difusión activado</string>
     <string name="cell_broadcast_settings">Emisión de emergencia</string>
     <string name="cell_broadcast_sms">Mensaje de difusión móvil</string>
-    <string name="cf_setting_mobile_data_alert">Activa los datos móviles y asegúrate de que el Wi-Fi está desactivado</string>
+    <string name="cf_setting_mobile_data_alert">Por favor active los datos móviles y asegúrese de que el Wi-Fi esté apagado</string>
     <string name="cf_setting_mobile_data_roaming_alert">Activa el roaming de datos</string>
     <string name="cfb_title">Desviar si está ocupado</string>
     <string name="cfnrc_title">Desviar si no es accesible</string>
@@ -756,8 +756,8 @@ Frecuencia de muestreo"</string>
     <string name="daltonizer_mode_protanomaly">Protanomalía (rojo-verde)</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomalía (azul-amarillo)</string>
     <string name="daltonizer_type_overridden">Anulado por %1$s</string>
-    <string name="data_disable_warning_no_mms">"No podrá enviar ni recibir MMS si desactiva los datos móviles (WCDMA / LTE). Sin embargo, podrá hacerlo cuando su dispositivo esté conectado a una WLAN."</string>
-    <string name="data_disable_warning_with_mms">"Aún podrá enviar y recibir MMS si desactiva los datos móviles (WCDMA / LTE). Para usar Internet, conéctese a una WLAN."</string>
+    <string name="data_disable_warning_no_mms">"No podrá enviar y recibir MMS si desactiva los datos móviles (WCDMA/LTE). Sin embargo, podrá hacerlo cuando su dispositivo esté conectado al Wi-Fi."</string>
+    <string name="data_disable_warning_with_mms">"Aún podrá enviar y recibir MMS si desactiva los datos móviles (WCDMA / LTE). Para usar Internet, conéctese a una red Wi-Fi."</string>
     <string name="data_enable_always_warn">Pregunte si usar datos móviles</string>
     <string name="data_enable_summary">Permitir el uso de datos</string>
     <string name="data_enable_warning">Permitir usar siempre datos móviles puede generar cargos adicionales fuera de su plan de operador. ¿Conectar de todos modos?</string>
@@ -1075,7 +1075,7 @@ Póngase en contacto con su operador si el problema persiste."</string>
     <string name="incall_error_outgoing_call_failed">"No se pudo realizar la llamada"</string>
     <string name="incall_error_power_off">Desactiva el modo avión para realizar una llamada.</string>
     <string name="incall_error_power_off_wfc">Desactiva el modo de avión o conéctate a una red inalámbrica para realizar una llamada.</string>
-    <string name="incall_error_promote_wfc">Habilitar llamada Wi-Fi para llamar.</string>
+    <string name="incall_error_promote_wfc">Habilite las llamadas por Wi-Fi para realizar una llamada.</string>
     <string name="incall_error_supp_service_conference">No se puede realizar llamadas de conferencia.</string>
     <string name="incall_error_supp_service_hangup">"No se pueden liberar llamada(s)."</string>
     <string name="incall_error_supp_service_hold">"Imposible poner en espera."</string>
@@ -1186,12 +1186,12 @@ Póngase en contacto con su operador si el problema persiste."</string>
     <string name="lgu_msim_emm_cause_7_14">"La red SIM %d no proporciona servicios de datos móviles"</string>
     <string name="lgu_msim_emm_cause_8">"SIM %d no pudo registrar la red. Visite un centro de servicio al cliente (+ 82-2-3416-7010)."</string>
     <string name="lgu_msim_emm_cause_others">"La SIM %d no se puede conectar a la red. Visite un centro de servicio al cliente (+ 82-2-3416-7010)."</string>
-    <string name="limited_service_alert_dialog_description"><b>Llamadas de emergencia a través de WLAN Calling</b>\"
-Las llamadas de emergencia no son posibles a través de WLAN Calling. 
+    <string name="limited_service_alert_dialog_description"><b>Llamadas de emergencia a través de Llamadas Wi-Fi </b>\"
+Las llamadas de emergencia no son posibles a través de Llamadas Wi-Fi. 
 
 El dispositivo cambia automáticamente a una red celular (2G / 3G) para realizar una llamada de emergencia. 
 
-Las llamadas de emergencia solo son posibles en áreas con cobertura celular. \"</string>
+Las llamadas de emergencia solo son posibles en áreas con cobertura celular \"</string>
     <string name="limited_sim_function_notification_message">%1$s llamadas y los servicios de datos pueden bloquearse mientras se usa otra SIM.</string>
     <string name="limited_sim_function_notification_title">Funcionalidad SIM limitada</string>
     <string name="limited_sim_function_with_phone_num_notification_message">%1$s llamadas y los servicios de datos pueden bloquearse mientras se usa %2$s.</string>
@@ -1354,7 +1354,7 @@ Las llamadas de emergencia solo son posibles en áreas con cobertura celular. \"
     <string name="msim_set_sub_not_supported_phone_in_call">"No se puede establecer durante una llamada"</string>
     <string name="msim_set_sub_not_supported_slot_id_error">Error de tarjeta SIM</string>
     <string name="msim_setting_categery_title">Ajustes de la tarjeta SIM</string>
-    <string name="msim_setting_default_data">Tarjeta de Datos</string>
+    <string name="msim_setting_default_data">SIM de datos</string>
     <string name="msim_setting_default_data_description">Tarjeta de Datos %d</string>
     <string name="msim_setting_default_voice">Predeterminada para llamadas</string>
     <string name="msim_setting_default_voice_description">SIM %d para llamadas</string>
@@ -1434,7 +1434,7 @@ Se usarán las redes preferidas en su lugar."</string>
     <string name="no_vm_number">Falta el número del buzón de voz</string>
     <string name="no_vm_number_msg">No hay ningún número de buzón de voz guardado en su tarjeta SIM.</string>
     <string name="no_voip">"Llamada SIP no admitida"</string>
-    <string name="no_wifi_available">Debes estar conectado a una red Wi-Fi para realizar llamadas SIP (usa la opción de conexiones y redes inalámbricas).</string>
+    <string name="no_wifi_available">Necesita estar conectado a una red Wi-Fi para llamadas SIP (use la configuración de Red Inalámbrica &amp;).</string>
     <string name="not_a_valid_port">El número de puerto debe estar comprendido entre 1.000 y 65.534.</string>
     <string name="not_allowed">"La tarjeta SIM no permite establecer conexión con esta red."</string>
     <string name="not_set">Sin definir</string>
@@ -1481,6 +1481,7 @@ Se usarán las redes preferidas en su lugar."</string>
     <string name="onscreenShowDialpadText">Teclado de marcado</string>
     <string name="onscreenSwapCallsText">Intercambiar</string>
     <string name="onscreenVideoCallText">Videollamada</string>
+    <string name="open_miui">Encender</string>
     <string name="opened_dual_4g_confirm_prompt">Parece que tienes una tarjeta SIM que solo soporta 4G. El 4G dual fue activado automáticamente.</string>
     <string name="opened_dual_4g_confirm_prompt_with_sim">La tarjeta SIM %1$s solo soporta 4G. Para asegurar que tu tarjeta SIM funciona con normalidad se ha activado el 4G dual.</string>
     <string name="operator">Operadora</string>
@@ -1500,7 +1501,7 @@ Este proceso puede tardar hasta 5 minutos."</string>
     <string name="ota_listen">Siga las instrucciones habladas hasta que la activación se haya completado.</string>
     <string name="ota_next">Siguiente</string>
     <string name="ota_progress">Programando su teléfono…</string>
-    <string name="ota_skip_activation_dialog_message">"Si omite la activación, no podrá realizar llamadas ni conectarse a las redes de datos móviles (aunque sí podrá conectarse a las redes Wi-Fi). Se le pedirá que active el teléfono cada vez que lo encienda hasta que realice la activación."</string>
+    <string name="ota_skip_activation_dialog_message">"Si omite la activación, no podrá realizar llamadas ni conectarse a redes de datos móviles (aunque puede conectarse a redes Wi-Fi). Hasta que active su teléfono, se le pedirá que lo active cada vez que lo encienda."</string>
     <string name="ota_skip_activation_dialog_skip_label">Omitir</string>
     <string name="ota_skip_activation_dialog_title">¿Omitir la activación?</string>
     <string name="ota_spc_failure">EXCESO DE ERRORES DE SPC</string>
@@ -1786,7 +1787,7 @@ Su tarjeta SIM se bloqueará tras otro intento fallido."</string>
     <string name="radio_info_ims_feature_status_unavailable">No disponible</string>
     <string name="radio_info_ims_reg_status">"Registro IMS: %1$s
 Voz sobre LTE: %2$s
-Voz sobre WLAN: %3$s
+Voz sobre Wi-Fi: %3$s
 Videollamadas: %4$s
 Interfaz UT: %5$s"</string>
     <string name="radio_info_ims_reg_status_not_registered">No registrado</string>
@@ -1826,7 +1827,7 @@ Interfaz UT: %5$s"</string>
     <string name="registration_status_failed_try_later">"Error al registrar la cuenta: (%s); vuelve a intentarlo más tarde"</string>
     <string name="registration_status_invalid_credentials">"Registro de cuenta incorrecto: nombre de usuario o contraseña incorrectos."</string>
     <string name="registration_status_no_data">"Se ha detenido el registro de cuenta porque no hay conexión a Internet."</string>
-    <string name="registration_status_no_wifi_data">"Se ha detenido el registro de cuenta porque no hay conexión Wi-Fi."</string>
+    <string name="registration_status_no_wifi_data">"No se pudo registrar la cuenta. Este dispositivo no está conectado a Wi-Fi."</string>
     <string name="registration_status_not_receiving">"Sin recepción de llamadas"</string>
     <string name="registration_status_not_running">"Registro de cuenta incorrecto"</string>
     <string name="registration_status_registering">Registrando...</string>
@@ -1998,7 +1999,7 @@ Interfaz UT: %5$s"</string>
     <string name="sip_call_options_entry_3">Preguntar cada vez</string>
     <string name="sip_call_options_title">Usar SIP</string>
     <string name="sip_call_options_wifi_only_entry_1">En todas las llamadas</string>
-    <string name="sip_call_options_wifi_only_title">Usar llamadas SIP (solo con Wi-Fi)</string>
+    <string name="sip_call_options_wifi_only_title">Usar llamadas SIP (solo Wi-Fi)</string>
     <string name="sip_connection_service_label">Llamadas SIP integradas</string>
     <string name="sip_edit_new_title">Cuenta SIP</string>
     <string name="sip_edit_title">Cuenta SIP</string>
@@ -2042,7 +2043,7 @@ Interfaz UT: %5$s"</string>
     <string name="srvcc_message">La llamada de voz 4G se ha degradado a llamada de voz 2G / 3G debido a que la red 4G no está disponible.</string>
     <string name="srvcc_video_message">La videollamada se ha degradado a llamada de voz 2G / 3G debido a que la red 4G no está disponible.</string>
     <string name="standby_bucket_summary">Estado de la aplicación en espera:  %s</string>
-    <string name="status_hint_label_incoming_wifi_call">Llamada Wi-Fi de</string>
+    <string name="status_hint_label_incoming_wifi_call">Llamada Wi-Fi desde</string>
     <string name="status_hint_label_wifi_call">Llamada Wi-Fi</string>
     <string name="status_unavailable">No disponible</string>
     <string name="stk_cc_ss_to_dial_error">Solicitud SS modificada a solicitud de marcación.</string>
@@ -2316,6 +2317,7 @@ Esta tablet no cuenta con un altavoz. Puedes cambiar al modo manos libres o usar
     <string name="voicemail_provider">Servicio</string>
     <string name="voicemail_provider_summary">Selecciona un servicio de buzón de voz</string>
     <string name="voicemail_set_pin_dialog_title">Configurar PIN</string>
+    <string name="voicemail_settings">Ajustes del correo de voz</string>
     <string name="voicemail_settings_number_hint">Introduce el número del buzón de voz</string>
     <string name="voicemail_settings_number_label">Número del buzón de voz</string>
     <string name="voicemail_settings_number_title">Número del buzón de voz</string>
@@ -2335,7 +2337,7 @@ Esta tablet no cuenta con un altavoz. Puedes cambiar al modo manos libres o usar
     <string name="volte_tips_when_turn_on">Los servicios de China Telecom VoLTE solo están disponibles en las áreas con cobertura de red VoLTE. Los servicios VoLTE son provistos por la operadora.</string>
     <string name="vonr_switch_summary">Utilice VoNR para mejorar la calidad de las llamadas de voz</string>
     <string name="vonr_switch_title">Utilice VoNR</string>
-    <string name="vowifi_emergency_notification_channel">Aviso de emergencia de llamada Wi-Fi</string>
+    <string name="vowifi_emergency_notification_channel">Aviso de emergencia de llamadas Wi-Fi</string>
     <string name="vowifi_emergency_notification_content">Las llamadas de emergencia solo son posibles en áreas con cobertura móvil</string>
     <string name="vowifi_emergency_notification_title">Llamadas Wi-Fi de Vodafone</string>
     <string name="vowifi_emergency_warning_check">"No mostrar de nuevo."</string>
@@ -2344,7 +2346,7 @@ Esta tablet no cuenta con un altavoz. Puedes cambiar al modo manos libres o usar
 El dispositivo cambia automáticamente a una red (2G/3G) para realizar una llamada de emergencia.
 
 Las llamadas de emergencia están solo disponibles en áreas con cobertura móvil."</string>
-    <string name="vowifi_emergency_warning_title">Llamadas de emergencia vía llamada Wi-Fi</string>
+    <string name="vowifi_emergency_warning_title">Llamadas de emergencia vía Wi-Fi</string>
     <string name="vowifi_welcome_notification_channel">wifiCallWelcomeNotification</string>
     <string name="vpn_settings_not_available">Los ajustes de VPN no están disponibles para este usuario</string>
     <string name="vt_provisioned_switch_string">Videollamadas aprovisionadas</string>
@@ -2372,36 +2374,36 @@ Las llamadas de emergencia están solo disponibles en áreas con cobertura móvi
     <string name="wapi_yes">sí</string>
     <string name="wfc_provisioned_switch_string">Llamadas Wifi aprovisionadas</string>
     <string name="wfcmode_mobile_preferred">Priorizar redes móviles</string>
-    <string name="wfcmode_wifi_only">Solo Wi-Fi</string>
-    <string name="wfcmode_wifi_preferred">Priorizar Wi-Fi</string>
+    <string name="wfcmode_wifi_only">Sólo Wi-Fi</string>
+    <string name="wfcmode_wifi_preferred">Wi-Fi preferido</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Punto de acceso temporalmente lleno</string>
     <string name="wifi_auto_sel_wapi_cert">Seleccionar automáticamente</string>
     <string name="wifi_call_accept">Aceptar</string>
-    <string name="wifi_call_available_message">"Ahora puedes hacer llamadas usando Wi-Fi. Si estás conectado a una red Wi-Fi, podrás hablar incluso cuando estás en áreas sin cobertura móvil."</string>
-    <string name="wifi_call_available_title">Activando llamadas Wi-Fi</string>
+    <string name="wifi_call_available_message">"Puede hacer llamadas usando Wi-Fi ahora. Si está conectado a una red Wi-Fi, podrá hablar incluso cuando se encuentre en áreas sin cobertura de red móvil."</string>
+    <string name="wifi_call_available_title">Activar llamadas Wi-Fi</string>
     <string name="wifi_call_cancel">Cancelar</string>
     <string name="wifi_call_help">Ayuda</string>
-    <string name="wifi_call_help_message_1">"WLAN Calling es un servicio proporcionado por Orange que le permite realizar y recibir llamadas a través de WLAN. Esta función se puede utilizar en áreas con poca cobertura de red móvil.
+    <string name="wifi_call_help_message_1">"Las llamadas por Wi-Fi es un servicio proporcionado por Orange que le permite realizar y recibir llamadas a través de Wi-Fi. Esta función se puede utilizar en áreas con poca cobertura de red móvil.
 
-Para usar WLAN Calling, actívelo en Configuración &gt; WLAN Calling.
+Para usar Llamadas Wi-Fi, actívelo en Configuración &gt; Llamadas Wi-Fi.
 
-Para activar el servicio, Orange le enviará un mensaje de confirmación tan pronto como el servicio esté disponible. Después de esto, podrá conectarse a una red WLAN y realizar llamadas.
+Para activar el servicio, Orange le enviará un mensaje de confirmación tan pronto como el servicio esté disponible. Después de esto, podrá conectarse a una red Wi-Fi y realizar llamadas.
 
-llamadas realizadas a través de WLAN se cobrarán según las condiciones de su plan.
+llamadas realizadas a través de Wi-Fi se cobrarán según las condiciones de su plan.
 
 Siempre que esta función esté disponible, se mostrará el siguiente icono en la parte superior de la pantalla."</string>
-    <string name="wifi_call_help_message_2">"Si elige preferir redes WLAN, se utilizarán de forma predeterminada para realizar llamadas telefónicas. En caso de que no esté conectado a una WLAN o la señal sea deficiente, se utilizarán redes móviles para realizar llamadas.
+    <string name="wifi_call_help_message_2">"Si elige preferir redes Wi-Fi, se utilizarán de forma predeterminada para realizar llamadas telefónicas. En caso de que no esté conectado a una red Wi-Fi o la señal sea deficiente, se utilizarán redes móviles para realizar llamadas.
 
-Si elige preferir las redes móviles, se utilizarán de forma predeterminada para realizar llamadas telefónicas. En caso de que no haya cobertura de red móvil o la señal sea deficiente, se utilizarán redes WLAN en su lugar."</string>
-    <string name="wifi_call_help_title">Ayuda para llamadas Wi-Fi</string>
+Si elige preferir las redes móviles, se utilizarán de forma predeterminada para realizar llamadas telefónicas. En caso de que no haya cobertura de red móvil o la señal sea deficiente, se utilizarán redes Wi-Fi en su lugar."</string>
+    <string name="wifi_call_help_title">Ayuda de llamadas Wi-Fi</string>
     <string name="wifi_call_notification_message">"Este servicio es proporcionado por Orange. Podría llevar algún tiempo activar este servicio. Recibirás un SMS de confirmación tan pronto como esté disponible."</string>
-    <string name="wifi_call_preferred_summary">"Si elige preferir las redes móviles, las redes móviles se utilizarán para las llamadas de forma predeterminada. En caso de que no haya señal de red móvil o sea muy deficiente, se utilizará la red WLAN."</string>
+    <string name="wifi_call_preferred_summary">"Si elige preferir las redes móviles, las redes móviles se utilizarán para las llamadas de forma predeterminada. En caso de que no haya señal de red móvil o sea muy deficiente, se utilizará la red Wi-Fi en su lugar."</string>
     <string name="wifi_call_setting">Llamadas Wi-Fi</string>
-    <string name="wifi_call_setting_vodafone_de">Llamada Wi-Fi</string>
+    <string name="wifi_call_setting_vodafone_de">Llamada por Wi-Fi</string>
     <string name="wifi_call_setting_vodafone_uk">Llamada Wi-Fi</string>
     <string name="wifi_call_welcome_settings">Llamadas Wi-Fi</string>
-    <string name="wifi_calling">Llamada Wi-Fi</string>
-    <string name="wifi_calling_settings_title">Llamada Wi-Fi</string>
+    <string name="wifi_calling">Llamada por Wi-Fi</string>
+    <string name="wifi_calling_settings_title">Llamada por Wi-Fi</string>
     <string name="wifi_cant_connect">"No se puede establecer conexión"</string>
     <string name="wifi_cant_connect_to_ap">"No se puede establecer conexión con \"%1$s\""</string>
     <string name="wifi_check_password_try_again">Comprueba la contraseña y vuelve a intentarlo</string>
@@ -2412,7 +2414,7 @@ Si elige preferir las redes móviles, se utilizarán de forma predeterminada par
     <string name="wifi_disabled_generic">Inhabilitado</string>
     <string name="wifi_disabled_network_failure">Error de configuración de IP</string>
     <string name="wifi_disabled_password_failure">Error de autenticación</string>
-    <string name="wifi_disabled_wifi_failure">Error de conexión Wi-Fi</string>
+    <string name="wifi_disabled_wifi_failure">Fallo de conexión Wi-Fi</string>
     <string name="wifi_disconnected">Desconectado</string>
     <string name="wifi_display_certification">Certificación de pantalla inalámbrica</string>
     <string name="wifi_display_certification_summary">Mostrar opciones para la certificación de la pantalla inalámbrica</string>
@@ -2453,7 +2455,7 @@ Compruebe la validez de los certificados"</string>
 posible que el almacenamiento de credenciales no esté habilitado"</string>
     <string name="wifi_wapi_psk_type">Tipo de contraseña</string>
     <string name="wifi_wapi_user_certificate">Certificado de usuario</string>
-    <string name="wificall_switch_summary">Tu dispositivo cambiará entre Wi-Fi y VoLTE cuando la conexión sea débil</string>
+    <string name="wificall_switch_summary">Utilice Wi-Fi para hacer y recibir llamadas siempre que sea posible</string>
     <string name="wificall_switch_title">Hacer llamadas usando Wi-Fi</string>
     <string name="wild_prompt_str">Reemplazar carácter especial con</string>
     <string name="window_animation_scale_title">Escala de animación de ventana</string>

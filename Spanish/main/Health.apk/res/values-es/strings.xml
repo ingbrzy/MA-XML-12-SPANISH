@@ -341,6 +341,7 @@ Xiaomi Health solo te notificará sobre elementos importantes."</string>
     <string name="dialog_keep">Mantener</string>
     <string name="dialog_known">Entendido</string>
     <string name="dialog_menstruation_purpose">¡Bienvenido a Xiaomi Health! \"Mentruación\" te permite registrar periodos, determinar fechas aproximadas de los próximos periodos y recibir recordatorios. Todos los datos relacionados serán almacenados localmente en tu dispositivo, lo que te permite gestionarlos fácilmente.</string>
+    <string name="dialog_new_version_title">Hay una actualización disponible</string>
     <string name="dialog_no_more_prompt">"No mostrar de nuevo"</string>
     <string name="dialog_ok">Aceptar</string>
     <string name="dialog_open">Permitir</string>
@@ -360,6 +361,7 @@ Xiaomi Health solo te notificará sobre elementos importantes."</string>
     <string name="dialog_user_agreement_purpose2">¡Bienvenido a Xiaomi Health! Puedes usar esta aplicación para contar tus pasos, analizar tu sueño, tus periodos, registrar tu peso y más.</string>
     <string name="diastolic_pressure">Diastólica</string>
     <string name="disable">Desactivar</string>
+    <string name="discard_update">No gracias</string>
     <string name="drag_sort">Reorganizar</string>
     <string name="dream_talk">Hablando %1$s</string>
     <string name="dream_talk_record">Te grabaron cuando hablaste mientras dormías</string>
@@ -468,12 +470,12 @@ Si aún le resulta difícil conciliar el sueño después de 30 minutos en la cam
     <string name="feedback_need_permission_msg">Permitir a Xiaomi Health escribir en el almacenamiento externo para poder generar registros usados para comentarios.</string>
     <string name="feedback_permission_denied_msg">"Xiaomi Health no puede guardar registros en el almacenamiento externo. Concede a Xiaomi Health los permisos requeridos en los ajustes."</string>
     <string name="fewer">Pequeño</string>
+    <string name="find_new_verision">La versión %s está disponible</string>
     <string name="finish">Terminar</string>
     <string name="finish_stand">Sí</string>
     <string name="finish_stand2">De pie</string>
     <string name="finished_rate">Completado %1$d%%</string>
     <string name="fmt_date">D</string>
-    <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
@@ -639,6 +641,7 @@ Empiece de nuevo."</string>
     <string name="hr_strength_lowest">Bajísimo</string>
     <string name="hr_strength_mid">Medio</string>
     <string name="icon_content_description">Icono de diálogo</string>
+    <string name="immediately_experience">Actualizar</string>
     <string name="improve_step_target">Alcanzas tu objetivo demasiado a menudo. Prueba con uno más difícil.</string>
     <string name="improve_your_health_default_tips">Haz ejercicio y duerme lo suficiente para permanecer sano.</string>
     <string name="inactivated">No activado</string>
@@ -696,6 +699,7 @@ Empiece de nuevo."</string>
     <string name="light_sleep_time_normal_description">Tiene suficiente cantidad de sueño ligero</string>
     <string name="load_failed">"No se pudieron cargar los elementos. Espere uno o dos minutos y vuelva a intentarlo."</string>
     <string name="loading">Solo un segundo…</string>
+    <string name="location_perm_description">Para rastrear entrenamientos al aire libre y grabar rutas</string>
     <string name="location_permission_dialog_content">Permita que Xiaomi Health acceda a su ubicación en \"Xiaomi Health\" &gt; \"Administrar permisos\" para poder realizar un seguimiento de sus entrenamientos al aire libre.</string>
     <string name="location_permission_dialog_negative">Ahora no</string>
     <string name="location_permission_dialog_positive">Permitir</string>
@@ -1125,7 +1129,7 @@ Empiece de nuevo."</string>
     <string name="share_card_title_free_training">Ejercicio libre</string>
     <string name="share_card_title_high_interval_training">HIIT</string>
     <string name="share_card_title_indoor_rinding">Bicicleta estática %s</string>
-    <string name="share_card_title_indoor_running">Carrera %s</string>
+    <string name="share_card_title_indoor_running">Carrera en interior %s</string>
     <string name="share_card_title_open_swimming">Nado en aguas abiertas %s</string>
     <string name="share_card_title_outdoor_hiking">Senderismo %s</string>
     <string name="share_card_title_outdoor_riding">Ciclismo</string>
@@ -1756,13 +1760,9 @@ Novedades:
     <string name="welcome_start_use">Comenzar</string>
     <string name="well">Bien</string>
     <string name="write_strorage_perm_description">Para guardar la información acerca de los errores que encuentres</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">Falló Connect Download Manager, compruebe el estado de Download Manager en la Gestión de aplicaciones.</string>
-    <string name="xiaomi_update_sdk_dialog_message">"Presentando la versión %1$s
-Tamaño: %2$s "</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">"Presentando la versión %1$s
-Tamaño de actualización: %2$s "</string>
-    <string name="xiaomi_update_sdk_dialog_title">¡Actualización de %1$s!</string>
-    <string name="xiaomi_update_sdk_external_storage_unavailable">Almacenamiento no disponible, verifique la tarjeta SD.</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Ahora no</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualizar</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Hay disponible una actualización</string>
     <string name="year">Año</string>
     <string name="yesterday">Ayer</string>
     <string name="yoga">Yoga</string>

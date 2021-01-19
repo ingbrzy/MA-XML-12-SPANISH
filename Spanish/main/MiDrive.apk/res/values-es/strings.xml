@@ -56,6 +56,15 @@
     <string name="category_select">Seleccionar</string>
     <string name="category_video">Vídeos</string>
     <string name="category_video_title">Vídeos</string>
+    <string name="channel_pc_edit">Editado en el ordenador</string>
+    <string name="channel_pc_upload">Subido desde el ordenador</string>
+    <string name="channel_pc_view">Visto en el ordenador</string>
+    <string name="channel_phone_edit">Editado en el teléfono</string>
+    <string name="channel_phone_upload">Cargado desde el teléfono</string>
+    <string name="channel_phone_view">Visto en el teléfono</string>
+    <string name="channel_web_edit">Editado en el navegador</string>
+    <string name="channel_web_upload">Cargado en el navegador</string>
+    <string name="channel_web_view">Visto en el navegador</string>
     <string name="clear_cache_success">Borrado con éxito</string>
     <string name="cloud_gallery_to_pdf">Auto generado</string>
     <string name="cloud_storage_already_full">El almacenamiento en la nube está lleno: %1$s/%2$s</string>
@@ -81,6 +90,8 @@
     <string name="create_pdf_manual">Nuevo PDF</string>
     <string name="current_speed_content">Velocidad actual: %1$s</string>
     <string name="delete_file_success">Borrado con éxito</string>
+    <string name="delete_operation_record">¿Eliminar este registro?</string>
+    <string name="delete_operation_record_timeout">"No se pudo borrar el registro. Espere uno o dos minutos y vuelva a intentarlo."</string>
     <string name="delete_record_only">"Los elementos a los que se refieren los registros seleccionados no serán eliminados."</string>
     <string name="delete_success">Eliminado correctamente</string>
     <string name="detail_download_path">"Ubicación: "</string>
@@ -176,6 +187,7 @@
     <string name="image_preview_download_failed">"No se pudo abrir la imagen original"</string>
     <string name="image_preview_open_large_image">Abrir imagen original (%s)</string>
     <string name="inner_storage_path">Almacenamiento interno</string>
+    <string name="jump_to_directory">Abrir carpeta</string>
     <string name="just_now">Justo ahora</string>
     <string name="license_host_unreachable">"Tu dispositivo no está conectado a los servicios en la nube. Para ver este elemento, visita %s en cualquier dispositivo conectado."</string>
     <string name="load_label_up_no_data">No hay más elementos para mostrar</string>
@@ -227,6 +239,7 @@ Asegúrate de estar utilizando la Cuenta Mi actual como tu cuenta del sistema MI
     <string name="navigation_file">Archivos</string>
     <string name="navigation_my">Perfil</string>
     <string name="navigation_transport">Transferencias</string>
+    <string name="no_recent_activity">No hay elementos recientes aquí</string>
     <string name="not_set">No establecido</string>
     <string name="not_support_upload_file_for_overseas_users">"La carga no está disponible fuera de China continental"</string>
     <string name="notification_channel_remind">Recordatorios</string>
@@ -242,6 +255,7 @@ Asegúrate de estar utilizando la Cuenta Mi actual como tu cuenta del sistema MI
     <string name="operation_dialog_copy_message">Copiando…</string>
     <string name="operation_dialog_create_folder_message">Creando carpeta…</string>
     <string name="operation_dialog_delete_message">Eliminando…</string>
+    <string name="operation_dialog_jump_message">Abriendo carpeta…</string>
     <string name="operation_dialog_move_message">Moviendo…</string>
     <string name="operation_dialog_rename_message">Renombrando…</string>
     <string name="operation_download">Descargar</string>
@@ -251,6 +265,7 @@ Asegúrate de estar utilizando la Cuenta Mi actual como tu cuenta del sistema MI
     <string name="operation_save">Guardar</string>
     <string name="operation_sure_to_delete">¿Eliminar ahora?</string>
     <string name="operation_transport_success">Añadido a transferencias con éxito</string>
+    <string name="operation_will_not_show_after_delete">El registro ya no aparecerá aquí si lo borra.</string>
     <string name="pause_all">Pausar todo</string>
     <string name="pause_download">En pausa</string>
     <string name="pause_upload">En pausa</string>
@@ -271,6 +286,8 @@ Asegúrate de estar utilizando la Cuenta Mi actual como tu cuenta del sistema MI
     <string name="private_empty_sub_desc">Intente mover archivos aquí o cárguelos directamente.</string>
     <string name="private_folder_name">Archivos privados</string>
     <string name="ptp_ai_recommend_empty_page">No hay archivos PDF generados automáticamente aquí</string>
+    <string name="recent_file">Reciente</string>
+    <string name="recent_jump_to_privacy_fail_notice">Este archivo es privado. Regrese a la página de inicio y desliza hacia abajo para ver.</string>
     <string name="refresh_label_pull_to_refresh">Tira hacia abajo para actualizar</string>
     <string name="refresh_label_refreshed">Actualizado con éxito</string>
     <string name="refresh_label_refreshing">Actualizando…</string>

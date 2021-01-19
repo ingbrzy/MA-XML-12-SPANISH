@@ -87,6 +87,8 @@
     <string name="copy">Copiar</string>
     <string name="date_picker_lunar">Calendario Lunar</string>
     <string name="disabled">No disponible</string>
+    <string name="dnd_popup_close_message">Entendido</string>
+    <string name="dnd_popup_message">Puede activar el modo DND para silenciar llamadas y notificaciones sin apagar los sonidos multimedia.</string>
     <string name="early_morning">Mañana</string>
     <string name="eras_ad">DC</string>
     <string name="eras_bc">AC</string>
@@ -163,14 +165,15 @@
     <string name="miui_ringer_standard">Silencio</string>
     <string name="miui_ringer_standard_description">Silenciar tonos para llamadas entrantes y notificaciones</string>
     <string name="miui_ringer_status_close">No Activo</string>
-    <string name="miui_ringer_status_open">Activado</string>
+    <string name="miui_ringer_status_open">Activo</string>
     <string name="miui_ringer_total">No Molestar</string>
     <string name="miui_ringer_total_description">Silenciar sonidos y apagar vibración para todos los elementos excepto la alarma</string>
-    <string name="miui_toast_zen_dnd_to_off">DND está desactivado ahora. Los sonidos y las vibraciones vuelven a la normalidad.</string>
-    <string name="miui_toast_zen_standard_to_off">El modo silencioso está desactivado ahora. Los tonos de llamada vuelven a la normalidad.</string>
+    <string name="miui_toast_zen_dnd_to_off">"Las llamadas y notificaciones ya no se silenciarán"</string>
+    <string name="miui_toast_zen_standard_to_off">Modo silencioso desactivado</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">El modo silencioso está desactivado ahora. Se reproducirán tonos de llamada, así como notificaciones y sonidos multimedia.</string>
-    <string name="miui_toast_zen_to_dnd">Cambiado a DND. Los sonidos están silenciados y la vibración ahora está apagada.</string>
-    <string name="miui_toast_zen_to_standard">Cambiado al modo silencioso. Los tonos de llamada y notificaciones ahora están silenciados.</string>
+    <string name="miui_toast_zen_to_dnd">Se silenciarán llamadas y notificaciones</string>
+    <string name="miui_toast_zen_to_dnd_when_lock">Las llamadas y notificaciones se silenciarán cuando el dispositivo esté bloqueado</string>
+    <string name="miui_toast_zen_to_standard">Modo silencioso activado</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Cambiado al modo silencioso. Los tonos de llamada, así como los sonidos de notificación y multimedia, ahora están silenciados.</string>
     <string name="miuix_appcompat_cloud_state_disabled">Sincronización con la nube desactivada</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronizado con la nube correctamente</string>
@@ -387,7 +390,8 @@ La exposición prolongada a sonidos fuertes puede causar problemas de audición.
     <string name="wireless_charging_saver_message">El ahorro de batería está activado ahora. ¿Mantener la carga inalámbrica inversa disponible?</string>
     <string name="wireless_charging_saver_ok">Mantener</string>
     <string name="wireless_charging_tips_disable">"No mostrar de nuevo"</string>
-    <string name="wireless_charging_tips_message">Coloque los dispositivos compatibles con la carga inalámbrica Qi (teléfonos, accesorios, etc.) en la parte posterior de este dispositivo.</string>
+    <string name="wireless_charging_tips_message">Coloque el dispositivo que desea cargar de forma inalámbrica (por ejemplo, teléfono, reloj inteligente, auriculares) en la parte posterior de este teléfono. Asegúrese de que este teléfono tenga al menos %d%% carga antes de usar la carga inalámbrica inversa.</string>
+    <string name="wireless_charging_tips_sub_message">El otro dispositivo debe ser compatible con el estándar de carga inalámbrica Qi.</string>
     <string name="wireless_charging_tips_title">Carga inalámbrica inversa</string>
     <string name="yesterday">Ayer</string>
 </resources>

@@ -302,6 +302,8 @@
     <string name="external_source_trusted">Autorizadas</string>
     <string name="external_source_untrusted">No autorizadas</string>
     <string name="failed_to_open_app_settings_toast">"No se pudo abrir los ajustes para: %1$s"</string>
+    <string name="fast_connect_anti_lost_content">"Configure una alerta que aparecerá cuando falte uno de sus auriculares.
+Verifique los Ajustes para obtener más detalles."</string>
     <string name="fast_connect_bt_speaker2_name">Altavoz portátil MI</string>
     <string name="fast_connect_device_battery">Batería</string>
     <string name="fast_connect_device_box">Caja</string>
@@ -318,13 +320,18 @@
     <string name="fast_connect_device_title_connecting">Conectando…</string>
     <string name="fast_connect_device_title_find_headset">Encontrar auriculares %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">"Encontrar auriculares %1$s otros"</string>
-    <string name="fast_connect_new_feture_anti_lost">Anti perdida</string>
-    <string name="fast_connect_new_feture_same_account">Misma Cuenta Sin Emparejar</string>
-    <string name="fast_connect_new_feture_sound_normalizer">Normalizador de sonido</string>
-    <string name="fast_connect_new_feture_title">Nuevas características</string>
+    <string name="fast_connect_new_feture_anti_lost">Alerta de perdida de auricular</string>
+    <string name="fast_connect_new_feture_same_account">Conectar dispositivos sincronizados</string>
+    <string name="fast_connect_new_feture_sound_normalizer">Mejor sonido</string>
+    <string name="fast_connect_new_feture_title">"Qué hay de nuevo"</string>
     <string name="fast_connect_nzbt_reset">Mantenga presionado el botón superior durante %1$s segundos mientras está apagado</string>
     <string name="fast_connect_reset_common">Reinicia este dispositivo para poder emparejar</string>
-    <string name="fast_connect_same_accout_devices_title">Este es su otro dispositivo conectado: %1$s</string>
+    <string name="fast_connect_same_account_content">Los dispositivos Bluetooth se pueden sincronizar con su Cuenta Mi y conectarse sin emparejarse con otros dispositivos.</string>
+    <string name="fast_connect_same_accout_devices_connecting">Conexión a través de Xiaomi Cloud…</string>
+    <string name="fast_connect_same_accout_devices_title">"Has conectado %1$s a otros dispositivos"</string>
+    <string name="fast_connect_same_accout_ok">Aceptar</string>
+    <string name="fast_connect_sound_normalizer_content">"Mejor audio en llamadas de voz.
+Protocolo de conexión más rápido."</string>
     <string name="fast_connect_wbs_reset">Mantenga presionado el botón superior durante %1$s segundos mientras está apagado</string>
     <string name="feiyu_vlog_name">Bolsillo Feiyu VLOG</string>
     <string name="force_allow_on_external">Forzar permiso de aplicaciónes para escribir en el almacenamiento externo</string>
@@ -747,7 +754,7 @@ Cualquier usuario puede actualizar las aplicaciones del resto de usuarios."</str
     <string name="wifi_whitelist_roaming">Puente SSID: transferencia rápida</string>
     <string name="wifi_whitelist_roaming_summary">Habilite la itinerancia entre diferentes AP SSID WPA / WPA2 ‑ PSK con la misma dirección MAC de puerta de enlace</string>
     <string name="window_animation_scale_title">Escala de animación de ventana</string>
-    <string name="xiaomi_account_bt_sync_name">Mi cerca</string>
+    <string name="xiaomi_account_bt_sync_name">Bluetooth</string>
     <string name="zen_alarm_warning">"No oirás la próxima alarma (%1$s)"</string>
     <string name="zen_alarm_warning_indef">"Solo oirás la próxima alarma (%1$s) si desactivas esta opción antes"</string>
     <string name="zen_interruption_level_priority">Solo interrupciones prioritarias</string>

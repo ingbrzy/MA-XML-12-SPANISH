@@ -508,9 +508,9 @@
         <item>"Hoy (datos)"</item>
         <item>"Este mes (datos)"</item>
         <item>"Último mes (datos)"</item>
-        <item>"Hoy Wi-Fi"</item>
-        <item>"Este mes Wi-Fi"</item>
-        <item>"Último mes Wi-Fi"</item>
+        <item>"Hoy (Wi-Fi) "</item>
+        <item>"Este mes (Wi-Fi) "</item>
+        <item>"Mes pasado (Wi-Fi) "</item>
     </string-array>
     <string-array name="date_of_traffic">
         <item>"Hoy: "</item>
@@ -991,7 +991,7 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"Uso de datos "</item>
-        <item>"Uso de WLAN "</item>
+        <item>"Uso de Wi-Fi "</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animaciones desactivadas</item>
@@ -1106,13 +1106,13 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
     <string-array name="wifi_calling_mode_choices_v2">
         <item>Wi-Fi</item>
         <item>Móvil</item>
-        <item>Solo Wi-Fi</item>
+        <item>Sólo Wi-Fi</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_with_ims_preferred">
         <item>Ims preferido</item>
-        <item>WLAN</item>
+        <item>Wi-Fi</item>
         <item>Móvil</item>
-        <item>Solo Wi-Fi</item>
+        <item>Sólo Wi-Fi</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
         <item>Wi-Fi</item>
@@ -1120,7 +1120,7 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only_with_ims_preferred">
         <item>Ims preferido</item>
-        <item>WLAN</item>
+        <item>Wi-Fi</item>
         <item>Móvil</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">

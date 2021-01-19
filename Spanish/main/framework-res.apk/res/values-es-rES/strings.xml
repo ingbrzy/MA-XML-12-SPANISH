@@ -184,12 +184,7 @@ Puede cambiar las funciones seleccionadas en Configuración &gt; Accesibilidad."
 Puede cambiar este acceso directo a otra función en Configuración &gt; Accesibilidad."</string>
     <string name="accessibility_shortcut_single_service_warning_title">Activar %1$s?</string>
     <string name="accessibility_shortcut_spoken_feedback">Para utilizar %1$s, mantén pulsadas ambas teclas de volumen durante 3 segundos</string>
-    <string name="accessibility_shortcut_toogle_warning">Si el acceso directo está activado, pulsa los dos botones de volumen durante tres segundos para iniciar una función de accesibilidad.
-
- Función de accesibilidad actual:
- %1$s
-
- Puedes cambiar la función en Ajustes &gt; Accesibilidad.</string>
+    <string name="accessibility_shortcut_toogle_warning">Cuando el acceso directo está activado, al presionar ambos botones de volumen durante 3 segundos se iniciará una función de accesibilidad.</string>
     <string name="accessibility_shortcut_warning_dialog_title">¿Utilizar acceso directo de accesibilidad?</string>
     <string name="accessibility_system_action_back_label">Atrás</string>
     <string name="accessibility_system_action_hardware_a11y_shortcut_label">Atajo de accesibilidad</string>
@@ -507,7 +502,7 @@ con %s"</string>
     <string name="expand_button_content_description_collapsed">Mostrar</string>
     <string name="expand_button_content_description_expanded">Ocultar</string>
     <string name="expires_on">Fecha de caducidad:</string>
-    <string name="ext_media_badremoval_notification_message">Desconecta tu %s antes de extraer la unidad para evitar pérdidas de datos</string>
+    <string name="ext_media_badremoval_notification_message">Extrae el dispositivo de forma segura antes de sacarlo para evitar perder contenido</string>
     <string name="ext_media_badremoval_notification_title">Extracción inesperada de %s</string>
     <string name="ext_media_browse_action">Explorar</string>
     <string name="ext_media_checking_notification_message">Comprobando errores</string>
@@ -521,9 +516,9 @@ con %s"</string>
     <string name="ext_media_move_success_message">Datos movidos a %s</string>
     <string name="ext_media_move_success_title">Datos movidos</string>
     <string name="ext_media_move_title">Moviendo datos</string>
-    <string name="ext_media_new_notification_message">Nueva %s detectada</string>
+    <string name="ext_media_new_notification_message">Toca para configurar</string>
     <string name="ext_media_new_notification_title">Nueva unidad: %s</string>
-    <string name="ext_media_nomedia_notification_message">Tu %s se ha extraído: inserta otra unidad</string>
+    <string name="ext_media_nomedia_notification_message">Es posible que algunas funciones no funcionen correctamente. Inserte un nuevo almacenamiento.</string>
     <string name="ext_media_nomedia_notification_title">Tu %s se ha extraído</string>
     <string name="ext_media_ready_notification_message">Para transferir fotos y multimedia</string>
     <string name="ext_media_seamless_action">Cambiar salida</string>
@@ -539,7 +534,7 @@ con %s"</string>
     <string name="ext_media_status_unmounted">Expulsado</string>
     <string name="ext_media_status_unsupported">No admitido</string>
     <string name="ext_media_unmount_action">Expulsar</string>
-    <string name="ext_media_unmountable_notification_message">%s está en mal estado. Toca para solucionar el problema.</string>
+    <string name="ext_media_unmountable_notification_message">Toca para solucionar el problema</string>
     <string name="ext_media_unmountable_notification_title">Medio externo (%s) dañado</string>
     <string name="ext_media_unmounting_notification_message">No extraer</string>
     <string name="ext_media_unmounting_notification_title">Expulsando %s…</string>
@@ -932,7 +927,7 @@ Inténtalo de nuevo dentro de %2$d segundos."</string>
     <string name="mediasize_na_tabloid">Tabloide</string>
     <string name="mediasize_unknown_landscape">Cualquier tamaño horizontal</string>
     <string name="mediasize_unknown_portrait">Cualquier tamaño vertical</string>
-    <string name="megabyteShort">MEGABYTE</string>
+    <string name="megabyteShort">Mb</string>
     <string name="meid">MEID</string>
     <string name="menu_alt_shortcut_label">Alt +</string>
     <string name="menu_ctrl_shortcut_label">Ctrl +</string>
@@ -1087,7 +1082,7 @@ Inténtalo de nuevo dentro de %2$d segundos."</string>
     <string name="permdesc_accessNetworkConditions">Permite que una aplicación detecte cambios en el estado de la red. No debe ser necesario para aplicaciones normales.</string>
     <string name="permdesc_accessNetworkState">Permite que la aplicación vea información sobre conexiones de red (por ejemplo, qué redes existen y están conectadas).</string>
     <string name="permdesc_accessNotifications">Permite que la aplicación recupere, examine y borre notificaciones, incluidas las que han publicado otras aplicaciones.</string>
-    <string name="permdesc_accessWifiState">Permite que la aplicación vea información sobre conexión a redes Wi-Fi (por ejemplo, si está habilitada la conexión Wi-Fi y el nombre de los dispositivos Wi-Fi conectados).</string>
+    <string name="permdesc_accessWifiState">Permite que la aplicación vea información sobre redes Wi-Fi, como si Wi-Fi está habilitado y el nombre de los dispositivos Wi-Fi conectados.</string>
     <string name="permdesc_accessWimaxState">Permite que la aplicación determine si está habilitada la conexión WiMAX y obtenga información sobre las redes WiMAX que están conectadas.</string>
     <string name="permdesc_access_notification_policy">Permite que la aplicación lea y modifique la configuración de No molestar.</string>
     <string name="permdesc_activityRecognition">Esta aplicación puede reconocer tu actividad física.</string>
@@ -1112,8 +1107,8 @@ Inténtalo de nuevo dentro de %2$d segundos."</string>
     <string name="permdesc_cameraOpenCloseListener">Esta aplicación puede recibir devoluciones de llamada cuando se abre o se cierra cualquier dispositivo de cámara (por qué aplicación).</string>
     <string name="permdesc_changeNetworkState">Permite que la aplicación modifique el estado de la conectividad de red.</string>
     <string name="permdesc_changeTetherState">Permite que la aplicación cambie el estado de la conectividad de red de anclaje.</string>
-    <string name="permdesc_changeWifiMulticastState">Permite que la aplicación reciba paquetes enviados a todos los dispositivos de una red Wi-Fi que utilicen direcciones de multidifusión, no solo al teléfono. Utiliza más batería que el modo de no multidifusión.</string>
-    <string name="permdesc_changeWifiState">Permite que la aplicación se conecte a puntos de acceso Wi-Fi y se desconecte de ellos y que realice cambios en la configuración de redes Wi-Fi del dispositivo.</string>
+    <string name="permdesc_changeWifiMulticastState">Permite que la aplicación reciba paquetes enviados a todos los dispositivos en una red Wi-Fi usando direcciones de multidifusión, no solo a su teléfono. Utiliza más energía que el modo sin multidifusión.</string>
+    <string name="permdesc_changeWifiState">Permite que la aplicación se conecte y se desconecte de los puntos de acceso Wi-Fi y realice cambios en la configuración del dispositivo para las redes Wi-Fi.</string>
     <string name="permdesc_changeWimaxState">Permite que la aplicación conecte el teléfono a redes WiMAX y lo desconecte de ellas.</string>
     <string name="permdesc_connection_manager">Permite que la aplicación administre las conexiones de telecomunicaciones.</string>
     <string name="permdesc_control_incall_experience">Permite que la aplicación proporcione una experiencia de usuario de llamada.</string>
@@ -1264,8 +1259,8 @@ para la cuenta %s"</string>
     <string name="permlab_cameraOpenCloseListener">Permita que una aplicación o servicio reciba devoluciones de llamada sobre la apertura o cierre de dispositivos de cámara.</string>
     <string name="permlab_changeNetworkState">cambiar la conectividad de red</string>
     <string name="permlab_changeTetherState">cambiar conectividad de anclaje a red</string>
-    <string name="permlab_changeWifiMulticastState">permitir recepción multidifusión Wi-Fi</string>
-    <string name="permlab_changeWifiState">conectarse a redes Wi-Fi y desconectarse</string>
+    <string name="permlab_changeWifiMulticastState">permitir la recepción de multidifusión Wi-Fi</string>
+    <string name="permlab_changeWifiState">conectarse y desconectarse de Wi-Fi</string>
     <string name="permlab_changeWimaxState">cambiar estado de WiMAX</string>
     <string name="permlab_connection_manager">administrar conexiones de telecomunicaciones</string>
     <string name="permlab_control_incall_experience">ofrecer una experiencia de usuario de llamada</string>
@@ -1646,7 +1641,7 @@ Escuchar sonidos a alto volumen durante largos periodos de tiempo puede dañar t
     <string name="tethered_notification_multi_device_message">%1$s dispositivos conectados</string>
     <string name="tethered_notification_no_device_message">No hay dispositivos conectados</string>
     <string name="tethered_notification_one_device_message">%1$s dispositivo conectado</string>
-    <string name="tethered_notification_title">Compartir conexión/Zona Wi-Fi activada</string>
+    <string name="tethered_notification_title">Compartir conexión o zona Wi-Fi activa</string>
     <string name="textSelectionCABTitle">Selección de texto</string>
     <string name="text_copied">Texto copiado al portapapeles.</string>
     <string name="time_picker_decrement_hour_button">Reducir horas</string>
@@ -1760,20 +1755,20 @@ Escuchar sonidos a alto volumen durante largos periodos de tiempo puede dañar t
     <string name="weeks">semanas</string>
     <string name="wfcRegErrorTitle">Llamadas Wi-Fi</string>
     <string name="wfcSpnFormat_spn_vowifi">VoWiFi de %s</string>
-    <string name="wfcSpnFormat_spn_wifi">Wi‑Fi de %s</string>
-    <string name="wfcSpnFormat_spn_wifi_calling">Llamada por Wi‑Fi de %s</string>
-    <string name="wfcSpnFormat_spn_wifi_calling_vo_hyphen">%s Llamada por Wi‑Fi</string>
-    <string name="wfcSpnFormat_spn_wlan_call">Llamada por WLAN de %s</string>
+    <string name="wfcSpnFormat_spn_wifi">%s Wi-Fi</string>
+    <string name="wfcSpnFormat_spn_wifi_calling">%s Llamadas por Wi-Fi</string>
+    <string name="wfcSpnFormat_spn_wifi_calling_vo_hyphen">%s Llamadas por Wi-Fi</string>
+    <string name="wfcSpnFormat_spn_wlan_call">%s Llamadas Wi-Fi</string>
     <string name="wfcSpnFormat_vowifi">VoWiFi</string>
-    <string name="wfcSpnFormat_wifi">Wi‑Fi</string>
-    <string name="wfcSpnFormat_wifi_calling">Llamada por Wi‑Fi</string>
-    <string name="wfcSpnFormat_wifi_calling_bar_spn">Llamada por Wi‑Fi | %s</string>
-    <string name="wfcSpnFormat_wifi_calling_wo_hyphen">Llamada por Wi‑Fi</string>
-    <string name="wfcSpnFormat_wlan_call">Llamada por WLAN</string>
+    <string name="wfcSpnFormat_wifi">Wi-Fi</string>
+    <string name="wfcSpnFormat_wifi_calling">Llamadas por Wi-Fi</string>
+    <string name="wfcSpnFormat_wifi_calling_bar_spn">Llamadas por Wi-Fi | %s</string>
+    <string name="wfcSpnFormat_wifi_calling_wo_hyphen">Llamadas por Wi-Fi</string>
+    <string name="wfcSpnFormat_wlan_call">Llamadas Wi-Fi</string>
     <string name="wfc_mode_cellular_preferred_summary">Preferir datos móviles</string>
     <string name="wfc_mode_ims_preferred_summary">Ims preferido</string>
-    <string name="wfc_mode_wifi_only_summary">Solo conexión Wi-Fi</string>
-    <string name="wfc_mode_wifi_preferred_summary">Preferir Wi-Fi</string>
+    <string name="wfc_mode_wifi_only_summary">Sólo Wi-Fi</string>
+    <string name="wfc_mode_wifi_preferred_summary">Llamar a través Wi-Fi</string>
     <string name="whichApplication">Completar acción utilizando</string>
     <string name="whichApplicationLabel">Completar acción</string>
     <string name="whichApplicationNamed">Completar acción con %1$s</string>
@@ -1800,7 +1795,7 @@ Escuchar sonidos a alto volumen durante largos periodos de tiempo puede dañar t
     <string name="whichViewApplication">Abrir con</string>
     <string name="whichViewApplicationLabel">Abrir</string>
     <string name="whichViewApplicationNamed">Abrir con %1$s</string>
-    <string name="wifi_available_sign_in">Iniciar sesión en red Wi-Fi</string>
+    <string name="wifi_available_sign_in">Iniciar sesión en la red</string>
     <string name="wifi_calling_off_summary">Desactivado</string>
     <string name="wifi_no_internet">Wi-Fi sin acceso a Internet</string>
     <string name="wifi_no_internet_detailed">Toca para ver opciones</string>
