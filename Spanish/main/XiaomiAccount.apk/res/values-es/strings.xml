@@ -161,7 +161,7 @@
     <string name="delete_bank_card_title">Atención</string>
     <string name="delete_device_btn">Desvincular</string>
     <string name="delete_device_failed">"No es posible desvincular el dispositivo"</string>
-    <string name="delete_device_notice">"Después de desvincular el dispositivo, se cerrará la sesión de Cuenta Mi automáticamente. No podrás usar este dispositivo para acceder a las fotos, mensajes u otros contenidos almacenados en tu cuenta."</string>
+    <string name="delete_device_notice">"Después de desvincular el dispositivo, se cerrará la sesión de su Cuenta Mi automáticamente. No podrá usar este dispositivo para acceder a las fotos, mensajes u otros contenidos almacenados en su cuenta."</string>
     <string name="device_delete_success_message">"Si no iniciaste sesión con este dispositivo, cambia tu contraseña inmediatamente."</string>
     <string name="device_delete_success_title">Cerrar sesión</string>
     <string name="device_list__header">Mis dispositivos</string>
@@ -506,7 +506,7 @@ Enviar este código al supervisor."</string>
     <string name="passport_user_agreement_required">Acuerdo de Usuario (obligatorio)</string>
     <string name="passport_user_id_notice">El ID de tu Cuenta Mi es %s.</string>
     <string name="passport_user_reg_region">País/Región</string>
-    <string name="passport_user_reg_region_warning">"No podrás cambiar tu país/región una vez que la cuenta haya sido creada."</string>
+    <string name="passport_user_reg_region_warning">"No podrá cambiar su país/región una vez creada la cuenta."</string>
     <string name="passport_vcode_notification_title">Su verificación de inicio de sesión es incompleta</string>
     <string name="passport_vcode_prompt_long">Introduzca el código de verificación</string>
     <string name="passport_vcode_sms_send_prompt">Enviar código de verificación a %s</string>
@@ -521,6 +521,8 @@ Enviar este código al supervisor."</string>
     <string name="passport_wx_bind_account_limit">"No se puede crear una cuenta ahora. Pruebe otros métodos de inicio de sesión."</string>
     <string name="passport_yes">Sí</string>
     <string name="password_toggle_content_description">Mostrar contraseña</string>
+    <string name="password_view_hide_password">Ocultar contraseña</string>
+    <string name="password_view_show_password">Mostrar contraseña</string>
     <string name="permission_group_contacts">Contactos</string>
     <string name="permission_group_phone">Teléfono</string>
     <string name="permission_group_storage">Almacenamiento</string>
@@ -594,7 +596,7 @@ Enviar este código al supervisor."</string>
     <string name="two_factor_auth_need_code">Ingrese el código</string>
     <string name="two_factor_auth_need_code_summary">"Verá un código en otros dispositivos Mi conectados. Ingrese este código en un nuevo dispositivo para iniciar sesión."</string>
     <string name="two_factor_auth_summary">"Cuando intente iniciar sesión en un nuevo dispositivo o en una nueva ubicación, se le notificará sobre esto en otros dispositivos conectados. Deberá confirmar si dichos intentos de inicio de sesión están autorizados por usted."</string>
-    <string name="unbind_sns_description">"Después de desvincular esta cuenta, no podrás usar la información de tu cuenta de %s para iniciar sesión en Cuenta Mi."</string>
+    <string name="unbind_sns_description">"Después de desvincular esta cuenta, no podrá usar la información de su Cuenta %s para iniciar sesión en su Cuenta Mi."</string>
     <string name="unlock_help_notice">"Ayuda:
 1. Si olvidaste tu contraseña, visita id.mi.com para restablecerla.
 2. Si no puedes restablecer tu contraseña o alguien ha bloqueado tu dispositivo, ve a i.mi.com para desbloquearlo.
@@ -610,4 +612,5 @@ Enviar este código al supervisor."</string>
     <string name="v7_preference_on">ACTIVADA</string>
     <string name="vip_account_settings">Ajustes VIP</string>
     <string name="vip_settings_info">Ajustes VIP</string>
+    <string name="weixin_login">Iniciar sesión con WeChat</string>
 </resources>

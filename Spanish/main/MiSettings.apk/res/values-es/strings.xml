@@ -249,10 +249,10 @@
     <string name="focus_mode_timer_pick_dialog_title">Introducir duración</string>
     <string name="focus_time_exception_tip">Parece que la hora del sistema cambió. El modo concentración se ha desactivado.</string>
     <string name="follow_sim1">Aplicar ajustes de SIM 1</string>
-    <string name="fps_nature_summary">La alta frecuencia de actualización mantiene todo nítido y claro</string>
-    <string name="fps_nature_title">Alto</string>
-    <string name="fps_smooth_summary">La frecuencia de actualización media agrega más claridad a los detalles</string>
-    <string name="fps_smooth_title">Medio</string>
+    <string name="fps_nature_summary">La frecuencia de actualización máxima mantiene todo nítido y claro</string>
+    <string name="fps_nature_title">Máximo</string>
+    <string name="fps_smooth_summary">La alta frecuencia de actualización agrega más claridad a los detalles</string>
+    <string name="fps_smooth_title">Alta</string>
     <string name="fps_standard_summary">La frecuencia de actualización estándar ahorra batería</string>
     <string name="fps_standard_title">Predefinido</string>
     <string name="fps_user_tip">Estas animaciones de demostración se reproducen a baja velocidad para su referencia. El rendimiento real puede verse diferente en función de diversos factores.</string>
@@ -607,7 +607,7 @@
     <string name="usage_device_limit_time_over">"Has llegado a tu límite de hoy (%1$s)"</string>
     <string name="usage_exit">Salir</string>
     <string name="usage_focus_focus_premission_main_summary">Esta aplicación necesita acceder a la información de tu cuenta para registrar tus estadísticas de uso del modo concentración.</string>
-    <string name="usage_focus_focus_premission_second_summary">"Si no aceptas conceder estos permisos, no podrás usar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible. Siempre puedes restringir los permisos o revocar su autorización en Ajustes."</string>
+    <string name="usage_focus_focus_premission_second_summary">"Si no acepta conceder estos permisos, no podrá usar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible. Siempre puede restringir los permisos o revocar su autorización en Ajustes."</string>
     <string name="usage_focus_new_summary">Permanece atento y centrado</string>
     <string name="usage_focus_save_success">Guardado en la Galería con éxito</string>
     <string name="usage_focus_summary_level1">Dedicar unos minutos a mantenerse concentrado es fácil.</string>
@@ -632,9 +632,9 @@ Esta aplicación también necesita conectarse a Internet y requiere los siguient
 Para poder trabajar con normalidad, esta aplicación necesita recolectar información sobre el tiempo de pantalla: la cantidad de veces que desbloqueas tu teléfono, los nombres de las aplicaciones y la duración del uso de la aplicación son necesarios para generar estadísticas de Tiempo de pantalla.
 Esta aplicación también necesita conectarse a Internet y requiere los siguientes permisos para recolectar tu información personal:"</string>
     <string name="usage_home_premission_second_summary">Para poder funcionar con normalidad, esta aplicación necesita recolectar tu información personal. Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.</string>
-    <string name="usage_home_premission_second_summary_double_link_prefix">"Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes. Si no aceptas otorgar tales permisos o compartir y cargar tu información personal, no podrás usar esta aplicación. Puedes revocar tu autorización en Tiempo de pantalla &gt; Ajustes &gt; Desactivar Tiempo de pantalla."</string>
+    <string name="usage_home_premission_second_summary_double_link_prefix">"Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes. Si no acepta otorgar tales permisos o compartir y cargar su información personal, no podrá usar esta aplicación. Puede revocar su autorización en Tiempo de pantalla &gt; Ajustes &gt; Desactivar Tiempo de pantalla."</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">&lt;Data&gt;Antes de usar esta aplicación, lee acepta nuestro &lt;a href=\'%1s\'&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=\'%2s\'&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
-    <string name="usage_home_premission_second_summary_new">"Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes. Si no aceptas otorgar tales permisos o compartir y cargar tu información personal, no podrás usar esta aplicación. Puedes revocar tu autorización en Tiempo de pantalla &gt; Ajustes &gt; Desactivar Tiempo de pantalla. Si tienes más preguntas sobre privacidad, puedes contactarnos en privacy@xiaomi.com."</string>
+    <string name="usage_home_premission_second_summary_new">"Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes. Si no acepta otorgar tales permisos o compartir y cargar su información personal, no podrá usar esta aplicación. Puede revocar su autorización en Tiempo de pantalla &gt; Ajustes &gt; Desactivar Tiempo de pantalla. Si tiene más preguntas sobre privacidad, puede contactarnos en privacy@xiaomi.com."</string>
     <string name="usage_new_home_app_limit_summary">Establecer un límite de tiempo de pantalla diario para esta aplicación</string>
     <string name="usage_new_home_app_limit_title">Limitar tiempo de pantalla</string>
     <string name="usage_new_home_average">"Media "</string>
@@ -724,13 +724,13 @@ Esta aplicación necesita conectarse a Internet y requiere los siguientes permis
     <string name="usage_state_focus_call">Llamada de emergencia</string>
     <string name="usage_state_focus_level1">Estrella emergente</string>
     <string name="usage_state_focus_level_summary">Nivel actual: %s</string>
-    <string name="usage_state_focus_mode_experience_warning_message">"El modo concentración solo permite usar la cámara y hacer llamadas de emergencia. No podrás desactivar el modo concentración de forma prematura."</string>
+    <string name="usage_state_focus_mode_experience_warning_message">"El modo concentración solo permite usar la cámara y hacer llamadas de emergencia. No podrá desactivar el modo concentración de forma prematura."</string>
     <string name="usage_state_focus_mode_summary">Restringe todas las funciones excepto las llamadas de emergencia y la Cámara</string>
     <string name="usage_state_focus_mode_summary1">Un buen comienzo es la mitad del camino</string>
     <string name="usage_state_focus_mode_summary2">Mantente concentrado</string>
     <string name="usage_state_focus_mode_summary3">Se necesita esfuerzo para mantenerse concentrado</string>
     <string name="usage_state_focus_mode_title">Modo concentración</string>
-    <string name="usage_state_focus_mode_warning_message">"El modo concentración solo permite usar la cámara y hacer llamadas de emergencia. No podrás desactivar el modo concentración de forma prematura."</string>
+    <string name="usage_state_focus_mode_warning_message">"El modo concentración solo permite usar la cámara y hacer llamadas de emergencia. No podrá desactivar el modo concentración de forma prematura."</string>
     <string name="usage_state_focus_mode_warning_title">Atención</string>
     <string name="usage_state_focus_success">Desafío completado</string>
     <string name="usage_state_focus_take_photo">Cámara</string>

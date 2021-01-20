@@ -111,6 +111,7 @@
     <string name="accessibility_display_daltonizer_preference_subtitle">Esta característica es experimental y puede afectar al rendimiento.</string>
     <string name="accessibility_display_daltonizer_preference_title">Corrección del color</string>
     <string name="accessibility_divider">Separador de pantalla dividida</string>
+    <string name="accessibility_enter_lock_setting">Toque para abrir los ajustes del Carrusel de Fondos de Pantalla</string>
     <string name="accessibility_enter_lock_wallpaper">Toca para abrir el Carrusel de Fondos de pantalla</string>
     <string name="accessibility_ethernet_connected">Ethernet conectado.</string>
     <string name="accessibility_ethernet_disconnected">Ethernet desconectado.</string>
@@ -122,6 +123,14 @@
     <string name="accessibility_home">Inicio</string>
     <string name="accessibility_ime_switch_button">Cambie el botón del método de entrada.</string>
     <string name="accessibility_key">Botón de navegación personalizado</string>
+    <string name="accessibility_keyboard_delete_button">Eliminar</string>
+    <string name="accessibility_keyboard_letter_board_caps_lock_button">Bloq Mayús</string>
+    <string name="accessibility_keyboard_letter_board_shift2number_button">Números</string>
+    <string name="accessibility_keyboard_letter_board_shift2symbol_button">Símbolos</string>
+    <string name="accessibility_keyboard_ok_button">Intro</string>
+    <string name="accessibility_keyboard_symbol_board_shift2letter_button">Letras</string>
+    <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Bloqueo de símbolos</string>
+    <string name="accessibility_keyguard_face_unlock_view">Desbloqueo facial</string>
     <string name="accessibility_left_control_center_button">Atajo</string>
     <string name="accessibility_left_lock_screen_magazine_button">Carrusel de papel tapiz</string>
     <string name="accessibility_location_active">Solicitud de ubicación activa</string>
@@ -689,7 +698,7 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="development_settings_summary">Establecer opciones de desarrollo de aplicaciones</string>
     <string name="development_settings_title">Opciones de desarrollador</string>
     <string name="device_services">Servicios de dispositivos</string>
-    <string name="direct_boot_unaware_dialog_message">"Nota: Solo podrás usar este teclado después de un reinicio si desbloqueas tu dispositivo."</string>
+    <string name="direct_boot_unaware_dialog_message">"Nota: Después de reiniciar, esta aplicación no se iniciará hasta que desbloquee su dispositivo."</string>
     <string name="disable_carrier_button_text">Desactivar eSIM</string>
     <string name="disable_overlays">Desactivar superposición HW</string>
     <string name="disable_overlays_summary">Siempre usar GPU para renderización de pantalla</string>
@@ -2156,7 +2165,7 @@ Dirección Wi-Fi (BSSID)
     <string name="wrong_password">Contraseña incorrecta</string>
     <string name="zen_alarm_warning">"No oirás tu siguiente alarma %1$s"</string>
     <string name="zen_alarm_warning_indef">"No oirás la siguiente alarma %1$s a menos que desactives esto antes"</string>
-    <string name="zen_alarms_introduction">"No serás molestado por sonidos o vibraciones, excepto por los de alarmas. Podrás escuchar cualquier elemento que decidas reproducir, incluidos música, videos y juegos."</string>
+    <string name="zen_alarms_introduction">"No le molestarán los sonidos y vibraciones, excepto las alarmas. Seguirá escuchando todo lo que quiera reproducir, incluyendo música, vídeos y juegos."</string>
     <string name="zen_interruption_level_priority">Solo prioridad</string>
     <string name="zen_mode_duration_always_prompt_title">Preguntar siempre</string>
     <string name="zen_mode_duration_settings_title">Duración</string>
@@ -2169,7 +2178,7 @@ Dirección Wi-Fi (BSSID)
     <string name="zen_mode_warnings_quit_immediately">Apagar</string>
     <string name="zen_mode_warnings_title">DND está activado</string>
     <string name="zen_priority_customize_button">Personalizar</string>
-    <string name="zen_priority_introduction">"No serás molestado por sonidos o vibraciones, excepto por los de alarmas, recordatorios, eventos y llamadas de contactos que especifique. Podrás escuchar cualquier elemento que decidas reproducir, incluyendo música, videos y juegos."</string>
+    <string name="zen_priority_introduction">"No le molestarán los sonidos ni las vibraciones, excepto las alarmas, recordatorios, eventos y las llamadas que especifique. Seguirá escuchando el contenido que quiera reproducir, como música, vídeos y juegos."</string>
     <string name="zen_silence_introduction">Esto bloquea todos los sonidos y vibraciones, incluidos los de alarmas, música, videos y juegos.</string>
     <string name="zen_silence_introduction_voice">"Esto bloquea todos los sonidos y vibraciones, incluidos los de alarmas, música, videos y juegos. Podrás realizar llamadas."</string>
 </resources>

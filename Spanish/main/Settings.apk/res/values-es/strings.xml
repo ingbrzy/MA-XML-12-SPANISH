@@ -76,12 +76,14 @@
     <string name="accessibility_autoclick_short_summary">0.2 segundos</string>
     <string name="accessibility_autoclick_short_title">Breve</string>
     <string name="accessibility_autoclick_shorter_desc">Más corta</string>
+    <string name="accessibility_back">Atrás</string>
     <string name="accessibility_caption_master_switch_summary">Solo para aplicaciones compatibles</string>
     <string name="accessibility_caption_master_switch_title">Usar subtítulos</string>
     <string name="accessibility_caption_preference_summary">No todas las aplicaciones admiten estas preferencias de subtítulos</string>
     <string name="accessibility_captioning_title">Subtítulos</string>
     <string name="accessibility_category_personal">Cuentas de perfil personal</string>
     <string name="accessibility_category_work">Cuentas de perfil de trabajo (%s)</string>
+    <string name="accessibility_clear">Limpiar</string>
     <string name="accessibility_close_tab">Cerrar pestaña actual</string>
     <string name="accessibility_control_timeout_preference_summary">"Elige el tiempo que quieres tener para leer los mensajes que te piden que realices una acción, pero que se muestran solo temporalmente.
 
@@ -1360,7 +1362,7 @@ Calidad de reproducción"</string>
     <string name="bootloader_device_bind_server_token_expired_2">"No se pudo verificar. Vuelve a iniciar sesión en tu cuenta y comienza de nuevo."</string>
     <string name="bootloader_device_bind_sim_invalid">Tarjeta SIM inválida. Reemplázala y vuelve a intentarlo.</string>
     <string name="bootloader_locked_answer_1">"Bloqueamos los dispositivos para asegurarnos de que son seguros y de que tu información personal no es compartida con terceros. Si necesitas entrar al modo Fastboot para flashear el dispositivo, puedes desbloquearlo."</string>
-    <string name="bootloader_locked_answer_1_warning">"Recuerda: No podrás usar \"Encontrar dispositivo\" después de que el teléfono se desbloquee."</string>
+    <string name="bootloader_locked_answer_1_warning">"Recuerde: no podrá utilizar \"Buscar dispositivo\" después de desbloquear el teléfono."</string>
     <string name="bootloader_locked_answer_2">"1. Asegúrese de haber insertado la tarjeta SIM en su dispositivo.
 2. Pulse \"Agregar cuenta\" para asociar su Cuenta Mi a este dispositivo.
 3. Descargue la herramienta de desbloqueo de nuestro sitio web. Tenga presente que debe desbloquear los dispositivos usando un ordenador. Descargue la herramienta aquí:"</string>
@@ -1896,9 +1898,9 @@ Deslice el dedo hacia abajo desde la parte superior de la pantalla para abrir la
     <string name="crypt_keeper_confirm_title">¿Cifrar dispositivo?</string>
     <string name="crypt_keeper_content">Puedes cifrar tus cuentas, configuraciones, aplicaciones descargadas y tus datos, contenido multimedia y otros archivos.</string>
     <string name="crypt_keeper_content_title">Cifrar dispositivo</string>
-    <string name="crypt_keeper_data_corrupt_summary">"La contraseña que has introducido es correcta pero, lamentablemente, tus datos están dañados. 
+    <string name="crypt_keeper_data_corrupt_summary">"La contraseña que ha introducido es correcta, pero desafortunadamente sus datos están corruptos. 
 
-Para seguir utilizando el teléfono, debes restablecer los datos de fábrica. Al configurar el dispositivo después de este proceso, podrás restaurar los datos incluidos en la copia de seguridad de tu cuenta de Google."</string>
+Para seguir utilizando el teléfono, debe restablecer los datos de fábrica. Cuando configure su teléfono después del reinicio, tendrá la oportunidad de restaurar cualquier dato que haya sido respaldado en su cuenta de Google."</string>
     <string name="crypt_keeper_data_corrupt_title">Descifrado incorrecto</string>
     <string name="crypt_keeper_decrypt_methods">"Después de encriptar tu teléfono, suponiendo que has configurado un bloqueo de pantalla (es decir, un patrón o PIN numérico o contraseña), deberás desbloquear la pantalla para desencriptar el teléfono cada vez que lo enciendas. La única manera diferente de desencriptar es realizar un restablecimiento de datos de fábrica, se eliminarán todos tus datos."</string>
     <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"Si has cifrado tu teléfono, deberás introducir tu contraseña, PIN o patrón cada vez que reinicies el dispositivo para desbloquearlo."</string>
@@ -1911,9 +1913,9 @@ El proceso de cifrar tarda 1 hora o más. Debes iniciar el proceso con la bater�
     <string name="crypt_keeper_encrypt_title">Cifrar teléfono</string>
     <string name="crypt_keeper_encrypted_summary">Cifrado</string>
     <string name="crypt_keeper_enter_password">Escribe tu contraseña</string>
-    <string name="crypt_keeper_failed_summary">"El cifrado se ha interrumpido y no se puede completar. No podrás volver a acceder a los datos del teléfono. 
+    <string name="crypt_keeper_failed_summary">"El cifrado se ha interrumpido y no se puede completar. No podrá volver a acceder a los datos del teléfono. 
 
-Debes restablecer los datos de fábrica para volver a usar el teléfono. Cuando configures el teléfono después de este proceso, podrás restaurar los datos de los que hayas hecho una copia de seguridad en tu cuenta de Google."</string>
+Debe restablecer los datos de fábrica para volver a usar el teléfono. Cuando configure el teléfono, después del reinicio, podrá restaurar los datos de los que haya hecho una copia de seguridad en su cuenta de Google."</string>
     <string name="crypt_keeper_failed_title">Error en el cifrado</string>
     <string name="crypt_keeper_final_desc">La operación de cifrado no se puede deshacer y, si la interrumpes, perderás datos. El cifrado puede tardar 1 hora o más y el teléfono se reinicia varias veces durante este proceso.</string>
     <string name="crypt_keeper_force_power_cycle">Para desbloquear el teléfono, apágalo y vuelve a encenderlo.</string>
@@ -2323,7 +2325,7 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="dialog_title_hdmi_color_calibration">Corrección de color preestablecido</string>
     <string name="dialog_title_login">Iniciar sesión en Cuenta Mi</string>
     <string name="dialog_yes">Sí</string>
-    <string name="direct_boot_unaware_dialog_message">"Nota: Solo podrás usar este teclado después de un reinicio si desbloqueas tu dispositivo."</string>
+    <string name="direct_boot_unaware_dialog_message">"Nota: Después de reiniciar, esta aplicación no se iniciará hasta que desbloquee su dispositivo."</string>
     <string name="disableNetwork">deshabilitar la red</string>
     <string name="disable_overlays">Desactivar superposición HW</string>
     <string name="disable_overlays_summary">Siempre usar GPU para renderización de pantalla</string>
@@ -2856,7 +2858,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="fingerprint_intro_error_max">Has añadido el número máximo de huellas dactilares</string>
     <string name="fingerprint_intro_error_unknown">No se pueden añadir más huellas dactilares</string>
     <string name="fingerprint_last_delete_confirm">Sí, borrar</string>
-    <string name="fingerprint_last_delete_message">"No podrás utilizar tus huellas dactilares para desbloquear el teléfono, autorizar compras o iniciar sesión en las aplicaciones"</string>
+    <string name="fingerprint_last_delete_message">"No podrá usar sus huellas digitales para desbloquear su teléfono, autorizar compras o iniciar sesión en aplicaciones con ellos"</string>
     <string name="fingerprint_last_delete_message_profile_challenge">"No puedes utilizar tus huellas dactilares para desbloquear el perfil de trabajo, autorizar compras o iniciar sesión en aplicaciones de trabajo"</string>
     <string name="fingerprint_last_delete_title">¿Borrar todas las huellas?</string>
     <string name="fingerprint_list_title">Huella</string>
@@ -2988,7 +2990,7 @@ No parecía que en aquel lugar hubiese caballos ni animales de ningún tipo, pue
     <string name="forget_password_button_text"><u>Contraseña olvidada</u></string>
     <string name="forget_password_dialog_button_text">Volver</string>
     <string name="forget_password_dialog_content_four">2. Selecciona [Wipe data], y espera hasta que tu dispositivo se reinicie.</string>
-    <string name="forget_password_dialog_content_one">&lt;Data&gt;\"Si olvidas tu contraseña, no podrás restaurarla. Sin embargo, puedes restablecer tu contraseña después de &lt;font color=#ec2700&gt;borrar todos los datos de tu dispositivo&lt;/font&gt; (incluyendo fotos, contactos, etc.). Haz una copia de seguridad de todos los datos importantes antes.\"&lt;/Data&gt;</string>
+    <string name="forget_password_dialog_content_one"><Data>\"Si olvida su contraseña, no podrá restaurarla. Sin embargo, puede restablecer su contraseña después de &lt;font color=#ec2700&gt;borrar todos los datos de su dispositivo&lt;/font&gt; (incluidas fotos, contactos, etc.). Haga una copia de seguridad de todos los datos importantes antes.\"</Data></string>
     <string name="forget_password_dialog_content_three">1. Apaga tu dispositivo. Presiona el botón [Power] y el botón [Volume+] a la vez, y mantenlos hasta que veas el siguiente * icono.</string>
     <string name="forget_password_dialog_content_two">Sigue estos pasos para borrar los datos:</string>
     <string name="forget_password_dialog_title">Borrar datos</string>
@@ -3254,11 +3256,11 @@ Guarda la configuración del sistema, las cuentas, los datos de la aplicación y
 Xiaomi Cloud
 Sincroniza tus contactos, fotos, videos, la lista de sus aplicaciones, la configuración del sistema y el diseño de la pantalla de inicio con la nube."</string>
     <string name="how_backup_title">¿Cómo puedo hacer una copia de seguridad de los artículos?</string>
-    <string name="how_encrypt_content">"Solo puedes cifrar las copias de seguridad locales. Estos son algunos métodos de cifrado que puedes usar:
-a) Ve a Ajustes &gt; Ajustes adicionales en la página con tus copias de seguridad locales, toca el botón para activar el cifrado e inicia sesión en tu Cuenta Mi. Las copias de seguridad se cifrarán automáticamente después de eso. Recuerda que deberás iniciar sesión en tu Cuenta Mi para restaurar elementos de las copias de seguridad cifradas.
-b) Si estás utilizando Mi PC Suite para copiar los elementos, puedes usar las opciones de cifrado allí.
+    <string name="how_encrypt_content">"Solo puede cifrar copias de seguridad locales. Estos son algunos métodos de encriptación que puede usar:
+a) Vaya a Ajustes &gt; Ajustes adicionales en la página con sus copias de seguridad locales, toque el botón para activar la encriptación e inicie sesión en su Cuenta Mi. Las copias de seguridad se cifrarán automáticamente. Recuerde que deberá iniciar sesión en su Cuenta Mi para restaurar el contenido de las copias de seguridad cifradas.
+b) Si está usando Mi PC Suite para hacer una copia de seguridad de su contenido, podrá usar las opciones de cifrado existentes.
 
-Nota: ¡Recuerda la contraseña que estableciste para las copias de seguridad cifradas! No podrás descifrar tus copias de seguridad si la olvidas."</string>
+Nota: Recuerde la contraseña que estableció para las copias de seguridad cifradas. No podrá descifrar sus copias de seguridad si las olvida."</string>
     <string name="how_encrypt_title">¿Cómo cifro mis copias de seguridad?</string>
     <string name="how_restore_backup_content">"A continuación, te mostramos cómo puedes restaurar elementos de los que se realizó una copia de seguridad utilizando diferentes métodos:
 
@@ -3771,8 +3773,8 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="lock_profile_wipe_warning_content_pin">Si vuelves a introducir un PIN de trabajo incorrecto, el perfil de trabajo y los datos asociados se quitarán de este dispositivo.</string>
     <string name="lock_screen_action">Elementos que se muestran en la pantalla de bloqueo después de deslizar hacia abajo</string>
     <string name="lock_screen_display_category_name">Pantalla de bloqueo</string>
-    <string name="lock_screen_intro_skip_dialog_text">Las funciones de protección del dispositivo no se activarán. No podrás evitar que otros utilicen este teléfono en caso de pérdida o robo.</string>
-    <string name="lock_screen_intro_skip_dialog_text_frp">Las funciones de protección del dispositivo no se activarán. No podrás evitar que otros utilicen este teléfono en caso de pérdida, robo o borrado de datos.</string>
+    <string name="lock_screen_intro_skip_dialog_text">No se activarán las funciones de protección del dispositivo. No podrá evitar que otras personas usen este teléfono en caso de pérdida o robo.</string>
+    <string name="lock_screen_intro_skip_dialog_text_frp">No se activarán las funciones de protección del dispositivo. No podrá evitar que otros utilicen este teléfono en caso de pérdida, robo o borrado de datos.</string>
     <string name="lock_screen_intro_skip_title">¿Omitir bloqueo de pantalla?</string>
     <string name="lock_screen_notifications_interstitial_message">¿Cómo quieres que se muestren las notificaciones cuando el dispositivo esté bloqueado?</string>
     <string name="lock_screen_notifications_interstitial_message_profile">¿Cómo quieres que se muestren las notificaciones del perfil cuando el dispositivo esté bloqueado?</string>
@@ -4027,7 +4029,7 @@ Has iniciado sesión en las cuentas que se indican a continuación:
 "</string>
     <string name="master_clear_all">"¿Eliminar todos los datos de la memoria interna del teléfono? ¡Esta acción no podrá deshacerse!"</string>
     <string name="master_clear_apply_step_1"><b>&#8220;Restablecer datos de fábrica&#8221; eliminará todos los datos de tu teléfono</b>, incluyendo fotos, canciones, notas, y otros datos personales. Asegúrate de copiar a tu ordenador cualquier elemento importante.</string>
-    <string name="master_clear_apply_step_2">Asegúrate de que todos los elementos importantes hayan sido copiados a tu ordenador. Todos los datos en este dispositivo se borrarán durante el reinicio. <b>\"No podrás restaurar los elementos que no hayan sido copiados.\"</b></string>
+    <string name="master_clear_apply_step_2">Asegúrese de que todo el contenido importante esté respaldado en su ordenador. Todos los datos de este dispositivo se borrarán durante el reinicio. <b>\"No podrá restaurar contenido de lo que no haya realizado una copia de seguridad\".</b></string>
     <string name="master_clear_apply_title">Atención</string>
     <string name="master_clear_button_text">Borrar todos los datos</string>
     <string name="master_clear_confirm_title">¿Borrar todos los datos?</string>
@@ -4050,7 +4052,7 @@ Esto no cancelará tu plan de servicio móvil."</string>
     <string name="master_clear_failed">No se realizó ningún restablecimiento porque el servicio Limpieza del sistema no está disponible.</string>
     <string name="master_clear_final_button_text">Borrar todo</string>
     <string name="master_clear_final_desc">Toda tu información personal y aplicaciones descargadas serán eliminadas. Esta acción no se puede deshacer.</string>
-    <string name="master_clear_final_desc_esim">Toda tu información personal, incluidas las aplicaciones descargadas y las SIM, se eliminará. No podrás deshacer esta acción.</string>
+    <string name="master_clear_final_desc_esim">Se eliminará toda su información personal, incluidas las aplicaciones descargadas &amp; SIM. No puede deshacer esta acción.</string>
     <string name="master_clear_not_available">Este usuario no puede restablecer los datos de fábrica</string>
     <string name="master_clear_other_users_present">"
 
@@ -5595,7 +5597,7 @@ No se perderán los datos de las aplicaciones."</string>
 \"&lt;li&gt;Bluetooth&lt;/li&gt;</string>
     <string name="reset_network_final_button_text">Restablecer ajustes</string>
     <string name="reset_network_final_desc">"¿Quieres restablecer todos los ajustes de red? Esta acción no se puede deshacer."</string>
-    <string name="reset_network_final_desc_esim">¿Quieres restablecer todos los ajustes de red y borrar todas las SIM descargadas? No podrás deshacer esta acción.</string>
+    <string name="reset_network_final_desc_esim">¿Restablecer todas las configuraciones de red y borrar las SIM descargadas? No puede deshacer esta acción.</string>
     <string name="reset_network_title">Restablecer Wi-Fi, redes móviles y Bluetooth</string>
     <string name="reset_network_wifi">Wi-Fi</string>
     <string name="reset_remove_data_hint">Todos los elementos mencionados arriba serán borrados permanentemente. Respalda todos los elementos importantes en tu ordenador o en Xiaomi Cloud antes de continuar.</string>
@@ -6156,7 +6158,7 @@ Para usar la fijación de aplicaciones: \u0009
     <string name="security_enable_widgets_title">Habilitar widgets</string>
     <string name="security_encryption_alert_dialog_info_first">"Establece una contraseña de bloqueo de pantalla para activar esta función. Deberás introducir la contraseña de bloqueo de pantalla después de cada reinicio para desbloquear y utilizar el dispositivo normalmente."</string>
     <string name="security_encryption_alert_dialog_title_first">Establece primero el bloqueo de pantalla</string>
-    <string name="security_encryption_attention_1">"No podrás utilizar las alarmas mientras el dispositivo está apagado."</string>
+    <string name="security_encryption_attention_1">"No podrá usar alarmas mientras el dispositivo esté apagado."</string>
     <string name="security_encryption_attention_2">"Deberás introducir la contraseña de bloqueo de pantalla después de cada reinicio para desbloquear el dispositivo. Los reinicios tardarán más tiempo de lo habitual."</string>
     <string name="security_encryption_attention_3">"Deberás establecer una nueva contraseña de pantalla de bloqueo."</string>
     <string name="security_encryption_attention_4">"Asegúrate de recordar la contraseña de la pantalla de bloqueo, o deberás restaurar el dispositivo al estado de fábrica."</string>
@@ -6877,9 +6879,9 @@ Tardará ^2 y liberará ^3 de almacenamiento interno. Algunas aplicaciones no fu
     <string name="storage_wizard_migrate_v2_later">Mover contenido más tarde</string>
     <string name="storage_wizard_migrate_v2_now">Mover contenido</string>
     <string name="storage_wizard_migrate_v2_title">¿Mover contenido a ^1?</string>
-    <string name="storage_wizard_move_confirm_body">"La migración de ^1 y de sus datos a tu ^2 solo durará un momento. No podrás utilizar la aplicación hasta que finalice el proceso. 
+    <string name="storage_wizard_move_confirm_body">"La migración de ^1 y de sus datos a ^2 durará un momento. No podrá utilizar la aplicación hasta que finalice el proceso. 
 
-No extraigas tu ^2 durante la migración."</string>
+No extraiga su ^2 durante la migración."</string>
     <string name="storage_wizard_move_confirm_title">Mover ^1</string>
     <string name="storage_wizard_move_progress_body">"No extraigas tu ^1 durante la migración 
 
@@ -7240,12 +7242,12 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="turn_off_keyguard_password_confirm_msg">"Algunas características de seguridad no funcionarán sin tu contraseña."</string>
     <string name="turn_off_keyguard_password_title">Desactiva el bloqueo de pantalla</string>
     <string name="turn_off_keyguard_password_wait_dialog">Desactivando contraseña…</string>
-    <string name="turn_off_keyguard_password_with_face_confirm_msg">"Después de desactivar la contraseña de la pantalla de bloqueo, los datos de rostro grabados se eliminarán. No podrás desbloquear el dispositivo con tu cara."</string>
-    <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"No podrás desbloquear el dispositivo con tu huella tras desactivar la contraseña."</string>
-    <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">"Después de desactivar la contraseña de la pantalla de bloqueo, las huellas guardadas se eliminarán. Ya no podrás desbloquear el dispositivo usando tu huella."</string>
+    <string name="turn_off_keyguard_password_with_face_confirm_msg">"Después de desactivar la contraseña de la pantalla de bloqueo, se eliminarán los datos faciales grabados. No podrá desbloquear el dispositivo con su rostro."</string>
+    <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"No podrá desbloquear el dispositivo con su huella digital después de desactivar la contraseña."</string>
+    <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">"Después de desactivar la contraseña de la pantalla de bloqueo, las huellas guardadas se eliminarán. Ya no podrá desbloquear el dispositivo usando su huella."</string>
     <string name="turn_off_security_lock">Desactivar bloqueo</string>
     <string name="turn_on_keyguard_password">Activar contraseña de la Pantalla de bloqueo</string>
-    <string name="turn_on_keyguard_password_alert">"Recuerda tu contraseña. Si la olvidas, no podrás restaurarla."</string>
+    <string name="turn_on_keyguard_password_alert">"Recuerde su contraseña. Si lo olvida, no podrá restaurarlo."</string>
     <string name="turn_on_keyguard_password_alert_choose">"Recuerda tu contraseña. Si la olvidas, tendrás que borrar todos los datos de tu dispositivo para establecer una nueva."</string>
     <string name="turn_on_keyguard_password_alert_foget_cacel">Ahora no</string>
     <string name="turn_on_keyguard_password_alert_foget_ok">Entendido</string>
@@ -7279,37 +7281,37 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="unlock_change_lock_pattern_title">Cambiar patrón desbloqueo</string>
     <string name="unlock_change_lock_pin_title">Cambiar PIN</string>
     <string name="unlock_disable_frp_warning_content_password">Las funciones de protección del dispositivo no funcionarán sin tu contraseña.</string>
-    <string name="unlock_disable_frp_warning_content_password_fingerprint">"Las funciones de protección del dispositivo no funcionarán sin tu contraseña.
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"Las funciones de protección del dispositivo no funcionarán sin su contraseña.
 
-Las huellas dactilares guardadas también se eliminarán de este dispositivo y no podrás desbloquear el teléfono, autorizar compras ni iniciar sesión en las aplicaciones con ellas."</string>
+Las huellas dactilares guardadas también se eliminarán de este dispositivo y no podrá desbloquear el teléfono, autorizar compras ni iniciar sesión en las aplicaciones con ellas."</string>
     <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">"Las funciones de protección del perfil no funcionan sin la contraseña.
 
-Las huellas dactilares guardadas también se eliminarán del perfil y no podrás utilizarlas para desbloquearlo, autorizar compras ni iniciar sesión en aplicaciones."</string>
+Las huellas dactilares guardadas también se eliminarán del perfil y no podrá utilizarlas para desbloquearlo, autorizar compras o iniciar sesión en aplicaciones."</string>
     <string name="unlock_disable_frp_warning_content_password_profile">Las funciones de protección del perfil no funcionan sin la contraseña.</string>
     <string name="unlock_disable_frp_warning_content_pattern">Las funciones de protección del dispositivo no funcionarán sin tu patrón.</string>
-    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Las funciones de protección del dispositivo no funcionarán sin tu patrón.
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Las funciones de protección del dispositivo no funcionarán sin su patrón.
 
-Las huellas dactilares guardadas también se eliminarán de este dispositivo y no podrás desbloquear el teléfono, autorizar compras ni iniciar sesión en las aplicaciones con ellas."</string>
-    <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">"Las funciones de protección del perfil no funcionan sin el patrón.
+Las huellas dactilares guardadas también se eliminarán de este dispositivo y no podrá desbloquear el teléfono, autorizar compras o iniciar sesión en las aplicaciones con ellas."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">"Las funciones de protección del perfil no funcionarán sin su patrón.
 
-Las huellas dactilares guardadas también se eliminarán del perfil y no podrás utilizarlas para desbloquearlo, autorizar compras ni iniciar sesión en aplicaciones."</string>
+Sus huellas digitales guardadas también se eliminarán de este perfil y no podrá desbloquear su perfil, autorizar compras o iniciar sesión en aplicaciones con ellas."</string>
     <string name="unlock_disable_frp_warning_content_pattern_profile">Las funciones de protección del perfil no funcionan sin el patrón.</string>
     <string name="unlock_disable_frp_warning_content_pin">Las funciones de protección del dispositivo no funcionarán sin tu PIN.</string>
-    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Las funciones de protección del dispositivo no funcionarán sin tu PIN.
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Las funciones de protección del dispositivo no funcionarán sin su PIN.
 
-Las huellas dactilares guardadas también se eliminarán de este dispositivo y no podrás desbloquear el teléfono, autorizar compras ni iniciar sesión en las aplicaciones con ellas."</string>
-    <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">"Las funciones de protección del perfil no funcionan sin el PIN.
+Sus huellas digitales guardadas también se eliminarán de este dispositivo y no podrá desbloquear su teléfono, autorizar compras o iniciar sesión en aplicaciones con ellas."</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">"Las funciones de protección de perfil no funcionarán sin su PIN.
 
-Las huellas dactilares guardadas también se eliminarán del perfil y no podrás utilizarlas para desbloquearlo, autorizar compras ni iniciar sesión en aplicaciones."</string>
+Sus huellas digitales guardadas también se eliminarán de este perfil y no podrá desbloquear su perfil, autorizar compras o iniciar sesión en aplicaciones con ellas."</string>
     <string name="unlock_disable_frp_warning_content_pin_profile">Las funciones de protección del perfil no funcionan sin el PIN.</string>
     <string name="unlock_disable_frp_warning_content_profile">"Las características del perfil de protección no funcionarán sin tu contraseña."</string>
     <string name="unlock_disable_frp_warning_content_unknown">Las funciones de protección del dispositivo no funcionarán sin tu bloqueo de pantalla.</string>
-    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Las funciones de protección del dispositivo no funcionarán sin tu bloqueo de pantalla.
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Las funciones de protección del dispositivo no funcionarán sin su bloqueo de pantalla.
 
-Las huellas dactilares guardadas también se eliminarán de este dispositivo y no podrás desbloquear el teléfono, autorizar compras ni iniciar sesión en las aplicaciones con ellas."</string>
+Las huellas dactilares guardadas también se eliminarán de este dispositivo y no podrá desbloquear el teléfono, autorizar compras o iniciar sesión en las aplicaciones con ellas."</string>
     <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">"Las funciones de protección del perfil no funcionan sin el bloqueo de pantalla.
 
-Las huellas dactilares guardadas también se eliminarán del perfil y no podrás utilizarlas para desbloquearlo, autorizar compras ni iniciar sesión en aplicaciones."</string>
+Las huellas dactilares guardadas también se eliminarán del perfil y no podrá utilizarlas para desbloquearlo, autorizar compras o iniciar sesión en aplicaciones."</string>
     <string name="unlock_disable_frp_warning_content_unknown_profile">Las funciones de protección del perfil no funcionan sin el bloqueo de pantalla.</string>
     <string name="unlock_disable_frp_warning_ok">Sí, quitar</string>
     <string name="unlock_disable_frp_warning_title">¿Quitar protección del dispositivo?</string>
@@ -8574,7 +8576,7 @@ Toca\" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi.</string>
     <string name="work_sound_same_as_personal">Igual que el perfil personal</string>
     <string name="work_space_delete">Eliminar Espacio de trabajo</string>
     <string name="work_space_delete_confirm">Eliminar ahora</string>
-    <string name="work_space_delete_description">"No podrás acceder al Espacio de trabajo después de eliminarlo. Todos los datos serán movidos o eliminados."</string>
+    <string name="work_space_delete_description">"No podrá acceder al Espacio de trabajo después de eliminarlo. Todos los datos serán movidos o eliminados."</string>
     <string name="work_sync_dialog_message">Se utilizarán los sonidos de tu perfil personal en tu perfil de trabajo</string>
     <string name="work_sync_dialog_title">¿Sustituir sonidos?</string>
     <string name="work_sync_dialog_yes">Sustituir</string>
