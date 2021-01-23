@@ -6,11 +6,11 @@
     </string-array>
     <string-array name="contact_entries">
         <item>Nombre</item>
-        <item>Sobrenombre</item>
+        <item>Alias</item>
         <item>Teléfono</item>
-        <item>Correo electrónico</item>
-        <item>Compañía</item>
-        <item>IM</item>
+        <item>Email</item>
+        <item>Empresa</item>
+        <item>MI</item>
         <item>Teléfono SIP</item>
         <item>Cumpleaños</item>
         <item>Página web</item>
@@ -19,13 +19,13 @@
     </string-array>
     <string-array name="first_guide_contents">
         <item>¡Bienvenido a Notas!</item>
-        <item>Tome notas</item>
-        <item>Puede usar texto, imágenes y grabaciones de voz en sus notas. Una surtida librería de estilos y fuentes hará que sus notas luzcan impresionantes.</item>
-        <item>Listas y recordatorios le ayudan cuando necesita herramientas básicas y efectivas para planear su siguiente viaje o para ordenar su lista de compras.</item>
+        <item>Toma notas</item>
+        <item>Puedes usar texto, imágenes y grabaciones de voz en tus notas. Una variada librería de estilos y fuentes hará que tus notas luzcan impresionantes.</item>
+        <item>Las listas y recordatorios te ayudan cuando necesitas herramientas básicas y efectivas para planear tu siguiente viaje o para ordenar tu lista de compras.</item>
         <item>Compartir notas</item>
-        <item>Puede generar capturas de pantalla desplazables automáticamente en Notas para después compartirlas con sus amigos.</item>
+        <item>Puedes generar capturas de pantalla desplazables automáticamente en Notas para después compartirlas con tus amigos.</item>
         <item>Crear y cambiar entre carpetas</item>
-        <item>Presione la flecha para crear una nueva carpeta or cambiar entre las existentes.</item>
+        <item>Pulsa la flecha para crear una nueva carpeta or cambiar entre las existentes.</item>
     </string-array>
     <string-array name="folder_operations">
         <item>Renombrar</item>
@@ -33,9 +33,9 @@
     </string-array>
     <string-array name="font_size_names">
         <item>Pequeña</item>
-        <item>Medio</item>
+        <item>Mediana</item>
         <item>Grande</item>
-        <item>Muy grande</item>
+        <item>Enorme</item>
     </string-array>
     <string-array name="note_sort_way">
         <item>Por fecha de creación</item>
@@ -43,6 +43,10 @@
     </string-array>
     <string-array name="second_guide_contents">
         <item>Notas de voz</item>
-        <item>Cree notas usando el sintetizador de voz al adjuntar las grabaciones originales de voz a las notas.</item>
+        <item>Crea notas usando el sintetizador de voz al adjuntar las grabaciones originales de voz a las notas.</item>
+    </string-array>
+    <string-array name="second_guide_contents_pad_or_inter">
+        <item>Notas de voz</item>
+        <item>Ahora puedes crear notas de voz. Simplementa pulsa el icono, graba tu voz y guarda archivos de audio dentro de la nota.</item>
     </string-array>
 </resources>

@@ -1,9 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="date_of_traffic_cmcc">
-        <item>"Esta semana "</item>
-        <item>"Hoy "</item>
-        <item>"Este mes "</item>
+    <string-array name="alarm_repeat_type">
+        <item>Una vez</item>
+        <item>Cada día</item>
+        <item>Días laborables</item>
+        <item>Días laborables</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Una vez</item>
+        <item>Cada día</item>
+        <item>Días laborables</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>Todos los registros</item>
+        <item>Inicio automático</item>
+        <item>Inicio en cadena</item>
+        <item>Usando permisos</item>
+        <item>Acciones delicadas</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>Patrón</item>
+        <item>PIN</item>
+        <item>Contraseña</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>Mb</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Plan mensual</item>
+        <item>Ilimitado</item>
+        <item>Plan diario</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>Personalizar</item>
+        <item>Mi tarjeta Fan</item>
+        <item>Tarjeta Xiao Tiansheng</item>
+        <item>Tarjeta de Tencent King</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Personalizada</item>
+        <item>Mi Móvil</item>
+        <item>Mi tarjeta Fan</item>
+        <item>Tarjeta de Tianshen</item>
+        <item>Tarjeta Tencent</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Ayer (datos)"</item>
+        <item>"Hoy (datos)"</item>
+        <item>"Mes pasado (datos)"</item>
+        <item>"Este mes (datos)"</item>
+        <item>"Ayer (Wi-Fi)"</item>
+        <item>"Hoy (Wi-Fi)"</item>
+        <item>"Mes pasado (Wi-Fi)"</item>
+        <item>"Este mes (Wi-Fi)"</item>
     </string-array>
     <string-array name="date_of_traffic">
         <item>"Ayer "</item>
@@ -11,10 +63,10 @@
         <item>"Mes pasado "</item>
         <item>"Este mes "</item>
     </string-array>
-    <string-array name="date_of_traffic_prefix_cmcc">
-        <item>"Esta semana: "</item>
-        <item>"Hoy: "</item>
-        <item>"Este mes: "</item>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Esta semana "</item>
+        <item>"Hoy "</item>
+        <item>"Este mes "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix">
         <item>"Ayer: "</item>
@@ -22,44 +74,79 @@
         <item>"Mes pasado: "</item>
         <item>"Este mes: "</item>
     </string-array>
-    <string-array name="date_of_app_all">
-        <item>Ayer (datos)</item>
-        <item>Hoy (datos)</item>
-        <item>Mes pasado (datos móviles)</item>
-        <item>Este mes (datos móviles)</item>
-        <item>Ayer (Wi-Fi)</item>
-        <item>Hoy (Wi-Fi)</item>
-        <item>Mes pasado (Wi-Fi)</item>
-        <item>Este mes (Wi-Fi)</item>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Esta semana: "</item>
+        <item>"Hoy: "</item>
+        <item>"Este mes: "</item>
     </string-array>
-    <string-array name="traffic_type">
-        <item>"Uso de datos móviles "</item>
-        <item>"Uso de Wi-Fi "</item>
+    <string-array name="debug_open_intercept">
+        <item>Será posible acceder y editar archivos en su dispositivo usando una computadora.</item>
+        <item>Se permitirá la instalación de aplicaciones en su dispositivo sin su permiso explícito.</item>
+        <item>"Podrás monitorear y grabar el contenido de tu pantalla de forma remota."</item>
+        <item>Será posible acceder a la información detallada sobre su dispositivo.</item>
+    </string-array>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Sí</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Más bajo</item>
+        <item>Bajo</item>
+        <item>Regular</item>
+        <item>Alto</item>
+        <item>Más alto</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Cuando el dispositivo esté bloqueado</item>
+        <item>Cuando el dispositivo esté bloqueado o después de salir de la aplicación</item>
+        <item>Cuando el dispositivo esté bloqueado o 1 minuto después de salir de la aplicación</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
-        <item>"Uso de datos móviles "</item>
+        <item>"Uso de datos "</item>
         <item>"Uso de Wi-Fi "</item>
     </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Importante: Es posible que varias aplicaciones del sistema dejen de funcionar correctamente.</item>
+        <item>Es posible que los diseños de texto, las cuentas y el contenido no se muestren correctamente.</item>
+    </string-array>
     <string-array name="over_limit_traffic_waring_style">
-        <item>Mostrar advertencia</item>
+        <item>Mostrar aviso</item>
         <item>Advertir y desactivar los datos móviles</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Predeterminado</item>
+        <item>Priorizar el rendimiento</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Usando el modo de control de temperatura predeterminado</item>
+        <item>Priorizando el rendimiento</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Leer todas tus notificaciones, incluyendo el contenido de tus mensajes de texto y otros elementos que pudieran contener información personal</item>
+        <item>Restringir permisos de notificación a ciertas aplicaciones</item>
+        <item>Simular notificaciones táctiles y abrir aplicaciones</item>
+        <item>Activar y desactivar el modo No molestar</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Recolectar datos sobre tus intereses y comportamiento aprendiendo qué aplicaciones usas y con qué frecuencia las usas</item>
+        <item>Acceder a los ajustes relacionados con tu operador y ajustes de idioma, así como otros detalles</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>"Las aplicaciones de terceros que no hayan sido verificadas podrían causar múltiples problemas y reducir la estabilidad del sistema."</item>
+        <item>Algunas aplicaciones de terceros pueden contener malware que pondría tus datos personales en peligro.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Almacenamiento interno</item>
+        <item>Almacenamiento externo</item>
     </string-array>
     <string-array name="roaming_network_type">
         <item>Siempre</item>
         <item>Solo para las excepciones</item>
         <item>Nunca</item>
     </string-array>
-    <string-array name="lock_mode">
-        <item>Cuando el dispositivo esté bloqueado</item>
-        <item>Cuando el dispositivo esté bloqueado o después de salir de la app</item>
-        <item>Cuando el dispositivo esté bloqueado o 1 minuto después de salir de la app</item>
-    </string-array>
-    <string-array name="sort_type">
-        <item>Estado</item>
-        <item>Nombre de la app</item>
-        <item>Frecuencia de uso</item>
-        <item>Almacenamiento usado</item>
-        <item>Hora de instalación</item>
+    <string-array name="sms_report_type">
+        <item>Uso de datos</item>
+        <item>Saldo del teléfono</item>
     </string-array>
     <string-array name="sort_title">
         <item>Ordenar por estado</item>
@@ -68,60 +155,30 @@
         <item>Ordenar por almacenamiento usado</item>
         <item>Ordenar por fecha de instalación</item>
     </string-array>
+    <string-array name="sort_type">
+        <item>Estado</item>
+        <item>Nombre de la app</item>
+        <item>Frecuencia de uso</item>
+        <item>Almacenamiento usado</item>
+        <item>Hora de instalación</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Desactivar y notificar</item>
+        <item>Solo notificar</item>
+    </string-array>
     <string-array name="title_app_info">
         <item>Fuente de instalación</item>
         <item>Hora de instalación</item>
         <item>Última fuente de actualización</item>
         <item>Última hora de actualización</item>
     </string-array>
-    <string-array name="sms_report_type">
-        <item>Uso de datos</item>
-        <item>Saldo del teléfono</item>
+    <string-array name="traffic_package_type">
+        <item>Plan de datos mensual</item>
+        <item>Plan de datos diario</item>
+        <item>Plan de datos ilimitado</item>
     </string-array>
-    <string-array name="tether_limit_warn_type">
-        <item>Desactivar y notificar</item>
-        <item>Solo notificar</item>
-    </string-array>
-    <string-array name="alarm_repeat_type">
-        <item>Una vez</item>
-        <item>Todos los días</item>
-        <item>Días laborables</item>
-        <item>Entre semana</item>
-        <item>Personalizado</item>
-    </string-array>
-    <string-array name="alarm_repeat_type_no_workdays">
-        <item>Una vez</item>
-        <item>Todos los días</item>
-        <item>Lunes a viernes</item>
-        <item>Personalizado</item>
-    </string-array>
-    <string-array name="power_dialog_auto_clean_memory_items">
-        <item>Después de 1 minuto</item>
-        <item>Después de 5 minutos</item>
-        <item>Después de 10 minutos</item>
-        <item>Nunca</item>
-    </string-array>
-    <string-array name="power_dialog_sleep_items">
-        <item>15 segundos</item>
-        <item>30 segundos</item>
-        <item>1 minuto</item>
-        <item>2 minutos</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>Nunca</item>
-    </string-array>
-    <string-array name="power_dialog_cpu_state_items">
-        <item>Alto rendimiento</item>
-        <item>Balanceado</item>
-    </string-array>
-    <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Desactivar</item>
-        <item>Activar</item>
-        <item>Predeterminado</item>
-    </string-array>
-    <string-array name="power_dialog_vibration_items">
-        <item>No vibrar nunca</item>
-        <item>Vibrar en modo Silencio</item>
-        <item>Vibrar siempre</item>
+    <string-array name="traffic_type">
+        <item>"Uso de datos "</item>
+        <item>"Uso de Wi-Fi "</item>
     </string-array>
 </resources>

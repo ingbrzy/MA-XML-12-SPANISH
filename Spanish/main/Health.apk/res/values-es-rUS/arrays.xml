@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="HomePageTabTitle">
+        <item>Salud</item>
+        <item>Ejercicio</item>
+    </string-array>
+    <string-array name="ShareTabTitle">
+        <item>Imagen</item>
+        <item>Ruta</item>
+        <item>Tarjeta</item>
+    </string-array>
+    <string-array name="SportTabTitle">
+        <item>Correr</item>
+        <item>Caminar</item>
+        <item>Ciclismo</item>
+        <item>Saltar a la Comba</item>
+        <item>Entrenamiento</item>
+    </string-array>
+    <string-array name="arr_prompt_label">
+        <item>Razonable</item>
+        <item>Largo</item>
+        <item>Demasiado largo</item>
+    </string-array>
+    <string-array name="arr_sedentary_reminder">
+        <item>¡Hora de moverse!</item>
+        <item>Aprender más</item>
+        <item>Bebe algo de agua y da un paseo.</item>
+        <item>Aprender más</item>
+        <item>Sube un tramo de escaleras</item>
+        <item>Aprender más</item>
+        <item>"No te sientes demasiado tiempo"</item>
+        <item>Aprender más</item>
+    </string-array>
+    <string-array name="arr_time_label">
+        <item>1 hora</item>
+        <item>2 horas</item>
+    </string-array>
+    <string-array name="contact_relation_array">
+        <item>Sin indicar</item>
+        <item>Padre/Madre</item>
+        <item>Hermana</item>
+        <item>Hermano</item>
+        <item>Cónyuge</item>
+        <item>Pareja</item>
+        <item>Amigo/a</item>
+        <item>Colega</item>
+        <item>Compañero/a</item>
+    </string-array>
+    <string-array name="energy_unit">
+        <item>"kcal"</item>
+        <item>" kJ"</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>No establecido</item>
+        <item>Hombre</item>
+        <item>Mujer</item>
+    </string-array>
+    <string-array name="length_unit">
+        <item>" cm"</item>
+        <item>"m"</item>
+        <item>" km"</item>
+    </string-array>
+    <string-array name="normal_blood_array">
+        <item>No establecido</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="pager_titles">
+        <item>Día</item>
+        <item>Semana</item>
+        <item>Mes</item>
+    </string-array>
+    <string-array name="repeat_mode_mild_abnormal_array">
+        <item>Lun, mié, vie</item>
+        <item>Mar, jue, sáb</item>
+        <item>Mié, vie, dom</item>
+    </string-array>
+    <string-array name="repeat_mode_week_array">
+        <item>Todos los lunes</item>
+        <item>Todos los martes</item>
+        <item>Todos los miércoles</item>
+        <item>Todos los jueves</item>
+        <item>Todos los viernes</item>
+        <item>Todos los sábados</item>
+        <item>Todos los domingos</item>
+    </string-array>
+    <string-array name="rh_blood_array">
+        <item>No establecido</item>
+        <item>Negativo</item>
+        <item>Positivo</item>
+    </string-array>
+    <string-array name="run_in_background_state">
+        <item>Sin restricciones</item>
+        <item>Limitar la actividad en segundo plano</item>
+        <item>Detener después de 10 minutos</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="speed_unit">
+        <item>"km/h"</item>
+        <item>"m/s"</item>
+    </string-array>
+    <string-array name="stand_guide_page_content1">
+        <item>"Sentarse no beneficia su salud. En caso de no poder reducir el tiempo que pasa sentado, es una buena idea ponerse de pie de vez en cuando."</item>
+        <item>Esta función le recordará que debe pasar al menos 1 minuto de cada hora de pie. 12 horas con descansos de pie todos los días le ayudará a evitar los riesgos de un estilo de vida sedentario.</item>
+        <item>Toca \"Continuar\" para obtener más información y activar esta función.</item>
+    </string-array>
+    <string-array name="stand_guide_page_content2">
+        <item>Xiaomi Health puede detectar y grabar cuando se pone de pie. También puede recibir recordatorios para ponerse de pie después de 1 hora de inactividad.</item>
+        <item>Esta función rastrea su movimiento y envía recordatorios basados en los resultados.</item>
+    </string-array>
+    <string-array name="temperature_unit">
+        <item>℃</item>
+        <item>° F</item>
+    </string-array>
+    <string-array name="week">
+        <item>Domingo</item>
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miércoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sábado</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>Dom</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mié</item>
+        <item>Jue</item>
+        <item>Vie</item>
+        <item>Sáb</item>
+    </string-array>
+    <string-array name="week_short">
+        <item>Dom</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mié</item>
+        <item>Jue</item>
+        <item>Vie</item>
+        <item>Sáb</item>
+    </string-array>
+    <string-array name="weight_unit">
+        <item>" gramo"</item>
+        <item>" kg"</item>
+        <item>" t"</item>
+        <item>" liang"</item>
+        <item>" jin"</item>
+        <item>" lb"</item>
+    </string-array>
+    <string-array name="yes_no_array">
+        <item>Sin indicar</item>
+        <item>Sí</item>
+        <item>No</item>
+    </string-array>
+</resources>

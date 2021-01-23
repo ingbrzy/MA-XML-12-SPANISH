@@ -5,8 +5,8 @@
         <item quantity="one">Arrastrando %1$d elemento</item>
     </plurals>
     <plurals name="announce_for_unread">
-        <item quantity="other">%2$s sin leer de %1$s</item>
         <item quantity="one">%2$s sin leer de %1$s</item>
+        <item quantity="other">%2$s no leídos de %1$s</item>
     </plurals>
     <plurals name="delete_wallpapers_message">
         <item quantity="other">¿Eliminar %1$d fondos de pantalla?</item>
@@ -16,17 +16,21 @@
         <item quantity="other">%1$d elementos seleccionados</item>
         <item quantity="one">%1$d elemento seleccionado</item>
     </plurals>
+    <plurals name="remove_dialog_title_multi_format">
+        <item quantity="other">¿Borrar %1$d aplicaciones de la Pantalla de inicio?</item>
+        <item quantity="one">¿Borrar %1$d aplicación de la Pantalla de inicio?</item>
+    </plurals>
     <plurals name="scroll_tip_format_when_announce_accessibility">
         <item quantity="other">Página %1$d, %2$d aplicaciones.</item>
         <item quantity="one">Página %1$d, %2$d aplicación.</item>
     </plurals>
     <plurals name="uninstall_dialog_title_multi_format">
-        <item quantity="other">¿Desinstalar %1$d apps?</item>
-        <item quantity="one">¿Desinstalar %1$d app?</item>
+        <item quantity="other">¿Desinstalar %1$d aplicaciones?</item>
+        <item quantity="one">¿Desinstalar %1$d aplicación?</item>
     </plurals>
     <plurals name="uninstall_result_multi_failed">
-        <item quantity="other">No se pueden desinstalar %1$d apps</item>
-        <item quantity="one">No se puede desinstalar %1$d app</item>
+        <item quantity="other">"No se puede desinstalar %1$d aplicaciones"</item>
+        <item quantity="one">"No se puede desinstalar %1$d aplicación"</item>
     </plurals>
     <plurals name="uninstall_result_multi_succeeded">
         <item quantity="other">%1$d aplicaciones desinstaladas</item>

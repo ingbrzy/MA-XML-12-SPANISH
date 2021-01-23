@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_speakerphone_enabled">El altavoz está encendido</string>
+    <string name="alert_place_outgoing_call_with_redirection">Redirigir llamada con %1$s</string>
+    <string name="alert_place_unredirect_outgoing_call">Llamar con mi número de teléfono</string>
+    <string name="alert_redirect_outgoing_call_or_not">Elige cómo quieres hacer esta llamada</string>
+    <string name="alert_redirect_outgoing_call_timeout">"%1$s no puede realizar la llamada. Prueba con otra aplicación de redirección de llamadas o ponte en contacto con el desarrollador para obtener ayuda."</string>
+    <string name="blocked_numbers_butter_bar_title">Lista negra desactivada</string>
+    <string name="cant_call_due_to_no_supported_service">"No se puede realizar una llamada porque no hay cuentas de llamadas que admitan llamadas de este tipo."</string>
+    <string name="cant_call_due_to_ongoing_call">"No se puede realizar una llamada debido a su llamada %1$s."</string>
+    <string name="cant_call_due_to_ongoing_calls">"No puedo realizar una llamada. Primero termine sus %1$s llamadas."</string>
+    <string name="cant_call_due_to_ongoing_unknown_call">"No se puede realizar una llamada debido a una llamada en otra aplicación."</string>
+    <string name="change_default_call_screening_dialog_affirmative">Establecer por defecto</string>
+    <string name="change_default_call_screening_dialog_negative">Cancelar</string>
+    <string name="change_default_call_screening_dialog_title">¿Convertir %s en tu aplicación de filtro predeterminada?</string>
+    <string name="change_default_call_screening_warning_message">%s podrá ver información sobre las llamadas que recibas de personas que no estén en tus contactos y podrá bloquearlas. Te recomendamos que solo configures una aplicación de filtro de llamadas como predeterminada si es de confianza.</string>
+    <string name="change_default_call_screening_warning_message_for_disable_old_app">%s ya no podrá filtrar llamadas.</string>
+    <string name="change_default_dialer_dialog_affirmative">Establecer por defecto</string>
+    <string name="developer_title">Menú de desarrollador de telecomunicaciones</string>
+    <string name="duplicate_video_call_not_allowed">"No puedo agregar más llamadas"</string>
+    <string name="notification_channel_call_blocking">Bloqueo de llamadas</string>
+    <string name="outgoing_call_not_allowed_no_permission">"Esta aplicación no puede realizar llamadas salientes sin los permisos necesarios."</string>
+    <string name="phone_settings_call_blocking_txt">Bloqueo de llamadas</string>
+    <string name="phone_settings_number_not_in_contact_summary_txt">"Bloquear números que no figuran en sus contactos"</string>
+    <string name="phone_settings_number_not_in_contact_txt">Números que no están en contactos</string>
+    <string name="phone_settings_payphone_summary_txt">Bloquea las llamadas de teléfonos públicos</string>
+    <string name="phone_settings_payphone_txt">Teléfono público</string>
+    <string name="phone_settings_private_num_summary_txt">"Bloquear a las personas que llaman que no revelan su número"</string>
+    <string name="phone_settings_private_num_txt">Privada</string>
+    <string name="phone_settings_unknown_summary_txt">Bloquea las llamadas de números desconocidos</string>
+    <string name="phone_settings_unknown_txt">Desconocidos</string>
+    <string name="phone_strings_call_blocking_turned_off_notification_text_txt">El bloqueo de llamadas está desactivado</string>
+    <string name="phone_strings_call_blocking_turned_off_notification_title_txt">Bloqueo de llamadas</string>
+    <string name="phone_strings_emergency_call_made_dialog_call_blocking_text_txt">El bloqueo de llamadas se desactivó para permitir que los servicios de emergencia se comuniquen con usted.</string>
+    <string name="phone_strings_emergency_call_made_dialog_title_txt">Se ha hecho una llamada de emergencia</string>
+    <string name="respond_via_sms_failure_format">"No se pudo enviar el mensaje a %s."</string>
+    <string name="telecommAppLabel">Gestionar llamadas</string>
+</resources>

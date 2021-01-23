@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_large_unread_count">
+        <item quantity="other">%1$d+ no leídos</item>
+        <item quantity="one">%1$d+ no leído</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d nuevos mensajes</item>
+        <item quantity="one">%1$d nuevo mensaje</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">¿Archivar %1$d conversaciones?</item>
+        <item quantity="one">¿Archivar %1$d conversación?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">¿Eliminar estas %1$d conversaciones?</item>
+        <item quantity="one">¿Eliminar esta conversación?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Estas conversaciones contienen elementos fusionados. ¿Eliminar de todos modos?</item>
+        <item quantity="one">Esta conversación contiene elementos fusionados. ¿Eliminar de todos modos?</item>
+    </plurals>
+    <plurals name="confirm_delete_draft">
+        <item quantity="other">¿Borrar %1$d borradores?</item>
+        <item quantity="one">¿Borrar %1$d borrador?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d seleccionados</item>
+        <item quantity="one">%d seleccionado</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">%1$d archivados.</item>
+        <item quantity="one">%1$d archivado.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">%1$d eliminados.</item>
+        <item quantity="one">%1$d eliminado.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Carpetas cambiadas.</item>
+        <item quantity="one">Carpeta cambiada.</item>
+    </plurals>
+    <plurals name="conversation_msg_header_count">
+        <item quantity="other">+%1$d personas</item>
+        <item quantity="one">+%1$d persona</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">%1$d silenciadas.</item>
+        <item quantity="one">%1$d silenciada.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">%1$d conversaciones sin marcar como importantes.</item>
+        <item quantity="one">%1$d conversación sin marcar como importante.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">%1$d conversaciones sin marcar como correo basura</item>
+        <item quantity="one">%1$d conversación sin marcar como correo basura</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">%1$d mensajes reportados cómo estafa.</item>
+        <item quantity="one">%1$d mensaje reportado cómo estafa.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">%1$d mensajes reportados cómo spam.</item>
+        <item quantity="one">%1$d mensaje reportado cómo spam.</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%d días</item>
+        <item quantity="one">%d día</item>
+    </plurals>
+    <plurals name="day_after">
+        <item quantity="other">En %d días</item>
+        <item quantity="one">En %d día</item>
+    </plurals>
+    <plurals name="day_before">
+        <item quantity="other">Hace %d días</item>
+        <item quantity="one">Hace %d día</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Borradores</item>
+        <item quantity="one">Borrador</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d mensajes se eliminarán permanentemente.</item>
+        <item quantity="one">%1$d mensaje se eliminará permanentemente.</item>
+    </plurals>
+    <plurals name="hide_atts_remaining">
+        <item quantity="other">Ocultar %1$d archivos adjuntos</item>
+        <item quantity="one">Ocultar %1$d archivo adjunto</item>
+    </plurals>
+    <plurals name="local_search_result">
+        <item quantity="other">%s resultados en mensajes sincronizados</item>
+        <item quantity="one">%s resultado en mensajes sincronizados</item>
+    </plurals>
+    <plurals name="more_atts_remaining">
+        <item quantity="other">%1$d más restantes</item>
+        <item quantity="one">%1$d más restante</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">Mostrar %1$d nuevos mensajes.</item>
+        <item quantity="one">Mostrar %1$d nuevo mensaje.</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d nuevos mensajes</item>
+        <item quantity="one">%1$d nuevo mensaje</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d seleccionados</item>
+        <item quantity="one">%d seleccionado</item>
+    </plurals>
+    <plurals name="number_of_day_after">
+        <item quantity="other">%1$d días después</item>
+        <item quantity="one">%1$d día después</item>
+    </plurals>
+    <plurals name="number_of_day_before">
+        <item quantity="other">%1$d días antes</item>
+        <item quantity="one">%1$d día antes</item>
+    </plurals>
+    <plurals name="number_of_hour_after">
+        <item quantity="other">%1$d horas después</item>
+        <item quantity="one">%1$d hora después</item>
+    </plurals>
+    <plurals name="number_of_hour_before">
+        <item quantity="other">%1$d horas antes</item>
+        <item quantity="one">%1$d hora antes</item>
+    </plurals>
+    <plurals name="number_of_minute_after">
+        <item quantity="other">%1$d minutos después</item>
+        <item quantity="one">%1$d minuto después</item>
+    </plurals>
+    <plurals name="number_of_minute_before">
+        <item quantity="other">%1$d minutos antes</item>
+        <item quantity="one">%1$d minuto antes</item>
+    </plurals>
+    <plurals name="number_of_second_after">
+        <item quantity="other">%1$d segundos después</item>
+        <item quantity="one">%1$d segundos después</item>
+    </plurals>
+    <plurals name="number_of_second_before">
+        <item quantity="other">%1$d segundos antes</item>
+        <item quantity="one">%1$d segundos antes</item>
+    </plurals>
+    <plurals name="number_of_week_after">
+        <item quantity="other">%1$d semanas después</item>
+        <item quantity="one">%1$d semana después</item>
+    </plurals>
+    <plurals name="number_of_week_before">
+        <item quantity="other">%1$d semanas antes</item>
+        <item quantity="one">%1$d semana antes</item>
+    </plurals>
+    <plurals name="remote_search_result">
+        <item quantity="other">%s resultados en el servidor</item>
+        <item quantity="one">%s resultado en el servidor</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d mensajes antiguos</item>
+        <item quantity="one">%1$d mensaje antiguo</item>
+    </plurals>
+    <plurals name="unsent_messages_in_outbox">
+        <item quantity="other">%1$s mensajes no enviados en %2$s</item>
+        <item quantity="one">%1$s mensaje no enviado en %2$s</item>
+    </plurals>
+</resources>
