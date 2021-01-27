@@ -27,6 +27,8 @@
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="access_limit">Restricciones de acceso</string>
+    <string name="access_tips">"No se puede acceder a los elementos. Intente usar Android Storage Access Framework en su lugar."</string>
     <string name="action_mode_deselect_all">Deseleccionar todos</string>
     <string name="action_mode_select_all">Seleccionar todos</string>
     <string name="actionbar_button_up_description">Atrás</string>
@@ -93,6 +95,7 @@
     <string name="click_to_switch_volume">Toca para cambiar entre el almacenamiento interno y la tarjeta SD</string>
     <string name="click_to_switch_volume_pad">Toca para cambiar entre el almacenamiento interno y la tarjeta SD</string>
     <string name="clock_in">Registrándose…</string>
+    <string name="close">Cerrar</string>
     <string name="compress_fail">"No se pudo comprimir. Ya existe un archivo con el mismo nombre."</string>
     <string name="compress_fail_unknown">"No se pudo comprimir. Almacenamiento completo o error desconocido."</string>
     <string name="compress_message">Comprimir en…</string>
@@ -230,6 +233,7 @@
     <string name="gbk_summary">Cifrado predeterminado de Windows para chino simplificado</string>
     <string name="gbk_title">GBK</string>
     <string name="gigabyteShort">GB</string>
+    <string name="go_ahead">Abrir</string>
     <string name="grid_mode">Vista en cuadrícula</string>
     <string name="group_title">%2$s de %1$s</string>
     <string name="group_title_extra_backup">Copias</string>
@@ -270,7 +274,6 @@
     <string name="make_private_msg_3">Todos los archivos en esta carpeta estarán ocultos.</string>
     <string name="material_slider_range_end">Fin del rango,</string>
     <string name="material_slider_range_start">Comienzo del rango,</string>
-    <string name="megabyteShort">Mb</string>
     <string name="menu_item_cleanup">Limpiar</string>
     <string name="menu_item_ftp">FTP</string>
     <string name="menu_item_midrop">Mi gota</string>
@@ -293,6 +296,9 @@
     <string name="mirror_can_not_drag_mask">Arrastra para usar Mi Share</string>
     <string name="mirror_new_name">Crear carpeta (%s)</string>
     <string name="mirror_new_name_first">Crear carpeta</string>
+    <string name="mirror_no_recommended_app">No hay aplicaciones recomendadas</string>
+    <string name="mirror_open_mode_error">"No se pudieron cargar los elementos"</string>
+    <string name="mirror_open_mode_loading">Solo un segundo…</string>
     <string name="mirror_paste_no_file">"Este archivo no existe"</string>
     <string name="mirror_progress_copy">Copiando…</string>
     <string name="mirror_side_bar_tab_app_name">Aplicaciones</string>
@@ -447,6 +453,7 @@
     <string name="operation_moving">Moviendo…</string>
     <string name="operation_new_folder">Crear carpeta</string>
     <string name="operation_open">Abrir</string>
+    <string name="operation_open_mode">Abrir con</string>
     <string name="operation_other_apps">Abrir en otra aplicación</string>
     <string name="operation_paste">Pegar</string>
     <string name="operation_paste_to_folder">Pegar en carpeta</string>
@@ -505,6 +512,8 @@
     <string name="private_toast_hint2">Para ocultar un archivo, mantenlo pulsado y después añádelo a una carpeta oculta.</string>
     <string name="promot_enctypt_password">Introduce la contraseña utilizada para desbloquear tu dispositivo</string>
     <string name="pull_to_enter_private">Tire hacia abajo para abrir la carpeta privada</string>
+    <string name="qq_msg">"Debido a las restricciones de Android 11, el Administrador de archivos no puede acceder ni mostrar documentos QQ."</string>
+    <string name="qq_title">"No puedo acceder a los documentos de WeChat"</string>
     <string name="refresh_success">Actualización completa</string>
     <string name="release_enter_private">Suelte para abrir la carpeta privada</string>
     <string name="rename_alert">"Si cambias la extensión de este archivo, puede que no lo consigas abrir."</string>
@@ -553,6 +562,7 @@
     <string name="select_music">Elegir canciones</string>
     <string name="select_video">Elegir vídeos</string>
     <string name="select_volume">Seleccione el volumen</string>
+    <string name="send">Enviar</string>
     <string name="server_control_advanced_settings">Ajustes FTP</string>
     <string name="server_control_charset">Codificación de transferencia</string>
     <string name="server_control_settings">Ajustes</string>
@@ -696,6 +706,8 @@
     <string name="v7_preference_off">APAGADO</string>
     <string name="v7_preference_on">ENCENDIDO</string>
     <string name="view_type">Vista</string>
+    <string name="wechat_msg">"Debido a las restricciones de Android 11, el Administrador de archivos no puede acceder ni mostrar los documentos previsualizados en WeChat. Abra y guarde documentos en WeChat para que aparezcan aquí."</string>
+    <string name="wechat_title">"No puedo acceder a los documentos de WeChat"</string>
     <string name="wechat_video">Vídeo en %s</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>

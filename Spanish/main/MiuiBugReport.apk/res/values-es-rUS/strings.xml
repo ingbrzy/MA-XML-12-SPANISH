@@ -90,7 +90,7 @@
     <string name="catch_full_log_add_photo">Añadir foto</string>
     <string name="catch_full_log_add_photo_dialog_content">"Si el problema que estás reportando está relacionado con la calidad de imagen de la cámara, añade un foto original como muestra (sin recortar) para ayudarnos a localizar el problema. ¿Añadir la foto ahora?"</string>
     <string name="catch_full_log_dialog_confirm_text">Ir a la Pantalla de inicio</string>
-    <string name="catch_full_log_dialog_content">"MIUI está generando un registro. Esto podría afectar al rendimiento general de tu dispositivo. Si no puedes reproducir el problema que quieres reportar, vuelve a los registros y pulsa \"Cancelar\"."</string>
+    <string name="catch_full_log_dialog_content">"MIUI está generando un registro. Esto podría afectar al rendimiento general de su dispositivo. Si no puede reproducir el problema que quiere reportar, vuelva a los registros y pulse \"Cancelar\"."</string>
     <string name="catch_full_log_dump_hprof_failed">"No se pudo generar registro de ralentización"</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Vuelve a la función que quieres reportar y reproducir.
 2. Vuelve a esta página y pulsa \"Finalizar y subir\"."</string>
@@ -227,7 +227,7 @@ Envíe este código al supervisor."</string>
     <string name="feedback_package_log_failed">"No se pudieron comprimir los registros"</string>
     <string name="feedback_remind_login_btn">Iniciar sesión</string>
     <string name="feedback_report_remind_login_desc">Inicia sesión en Cuenta Mi para que nuestros ingenieros puedan contactar contigo.</string>
-    <string name="feedback_report_remind_login_desc2">"También puedes ver el progreso de tus reportes en \"Mis reportes\"."</string>
+    <string name="feedback_report_remind_login_desc2">"También puede ver el progreso de sus reportes en \"Mis reportes\"."</string>
     <string name="feedback_reproductivity_everytime">Siempre</string>
     <string name="feedback_reproductivity_occasionally">De vez en cuando</string>
     <string name="feedback_reproductivity_often">A menudo</string>
@@ -342,7 +342,7 @@ Envíe este código al supervisor."</string>
     <string name="friday_shortest">Vie</string>
     <string name="get_back_pwd">Restablecer contraseña</string>
     <string name="get_ph_ticket">Obtener el código</string>
-    <string name="get_phone_bind_exceed_limit">"Puedes asociar hasta 3 Cuenta Mis con un número de teléfono. No puedes añadir nuevas cuentas."</string>
+    <string name="get_phone_bind_exceed_limit">"Puede asociar hasta 3 Cuentas Mi con un número de teléfono. No puede añadir nuevas cuentas."</string>
     <string name="get_phone_verifycode_exceed_limit">Se han enviado demasiados códigos de verificación a este número. Espera 24 horas e inténtalo de nuevo.</string>
     <string name="goon_feedback_main">Continuar</string>
     <string name="goto_sign_up">Crear cuenta</string>
@@ -609,7 +609,7 @@ Envíe este código al supervisor."</string>
     <string name="resend_email_reach_limit_title">Demasiados intentos</string>
     <string name="resend_email_success">Enviado correctamente</string>
     <string name="restart_action">Empezar de nuevo</string>
-    <string name="restart_phone_bind_message">Puedes tardar un rato en recibir el SMS. ¿Empezar de nuevo de todos modos?</string>
+    <string name="restart_phone_bind_message">Puede tardar un rato en recibir el SMS. ¿Empezar de nuevo de todos modos?</string>
     <string name="restart_phone_bind_title">Cambiar teléfono de recuperación</string>
     <string name="same_new_and_old_pwd">"No puede ser la misma que la contraseña actual"</string>
     <string name="saturday">Sábado</string>
@@ -663,7 +663,7 @@ Envíe este código al supervisor."</string>
     <string name="submit_dialog_cancel">"Rechazar"</string>
     <string name="submit_dialog_confirm">Aceptar</string>
     <string name="submit_dialog_content">&lt;Data&gt;Debes aceptar nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; y nuestro &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; para poder utilizar la función de Comentarios. Los problemas que reportes, así como los elementos que adjuntes (podrían contener información personal, sobre tu dispositivo y sobre la red) serán subidos a los servidores de MIUI. Esto nos ayudará a localizar y solucionar los problemas que reportes.&lt;/Data&gt;</string>
-    <string name="submit_dialog_content_global">&lt;Data&gt;Tus comentarios, junto con los archivos adjuntos (si los hubiese) y los registros (puedes desmarcar las casillas correspondientes de los elementos que no quieres subir), se enviarán a los servidores de MIUI. Los registros podrían contener información personal y tus datos de ubicación. Seleccionando \"Aceptar\" significa que has leído y aceptado nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="submit_dialog_content_global"><Data>\"Sus comentarios, junto con los archivos adjuntos (si los hay) y los registros (puede desmarcar las casillas correspondientes para los elementos que no desea cargar) se enviarán a los servidores de MIUI. Los registros pueden contener información personal y sus datos de ubicación. \"Aceptar\" significa que ha leído y aceptado nuestra &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Acuerdo de usuario&lt;/a&gt;\".</Data></string>
     <string name="submit_dialog_not_show_again">"No mostrar de nuevo"</string>
     <string name="submit_dialog_title">Enviar reporte</string>
     <string name="submit_feedback_info_failed">"No se pudo enviar el reporte"</string>
@@ -741,7 +741,7 @@ Envíe este código al supervisor."</string>
     <string name="title_system_app">Aplicaciones MIUI</string>
     <string name="title_user_guide">Guía de usuario</string>
     <string name="toast_app_tag_required">Seleccionar problema</string>
-    <string name="toast_catch_full_log_catching">Solo puedes generar un registro a la vez.</string>
+    <string name="toast_catch_full_log_catching">Solo puede generar un registro a la vez.</string>
     <string name="toast_catch_full_log_open_failed">"No se pudo iniciar la grabación del registro."</string>
     <string name="toast_description_required">Escribe una descripción</string>
     <string name="toast_feedback_collect_store">Recopilando registros…</string>

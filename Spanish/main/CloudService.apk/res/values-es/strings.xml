@@ -81,6 +81,14 @@
     <string name="data_merge_dialog_title">Combinar elementos</string>
     <string name="data_protection_title">Proteger datos</string>
     <string name="detect_sim_card">Buscar tarjeta SIM</string>
+    <string name="device_activation_card_cannot_get_yet">"No se pudo obtener información. Vuelva a intentarlo en 3-5 días."</string>
+    <string name="device_activation_card_description">"La primera activación se registra cuando un dispositivo se conecta a la red (incluidas, entre otras, redes Wi-Fi y móviles) por primera vez. Normalmente se tarda un poco en registrar la primera activación, por lo que es mejor esperar de 3 a 5 días después de conectarse a la red antes de verificar el estado de activación.&lt;br&gt;&lt;br&gt;Activación del dispositivo es el factor principal para determinar el período de validez de nuestra garantía extendida. Consulte nuestra &lt;a href=%1$s&gt;Política de devolución, cambio y reparación&lt;/a&gt; para obtener más detalles.&lt;br&gt;&lt;br&gt;No dude en llamar a nuestra línea directa de atención al cliente si tiene alguna pregunta: 400-100-5678."</string>
+    <string name="device_activation_card_description_china">"La primera activación se registra cuando un dispositivo se conecta a la red (incluyendo pero no limitado a Wi-Fi y redes móviles) por primera vez. Normalmente tarda un tiempo en registrar la primera activación, por lo que es mejor esperar por 3-5 días después de conectarse a la red antes de comprobar el estado de activación.&lt;br&gt;&lt;br&gt; Consulte nuestra &lt;a href=%1$s&gt;Política de devolución, Cambio y Reparación&lt;/a&gt; para más detalles.&lt;br&gt;&lt;br&gt;No dude en llamar a nuestra línea de atención al cliente si tiene alguna pregunta: 400-100-5678."</string>
+    <string name="device_activation_card_device_not_support">No compatible en este dispositivo</string>
+    <string name="device_activation_card_local_service_error">"No se pudo obtener información. Espere uno o dos minutos y vuelva a intentarlo."</string>
+    <string name="device_activation_card_no_network_error">"No se pudo conectar a la red. Compruebe sus ajustes de red y vuelva a intentarlo."</string>
+    <string name="device_activation_card_title">Primera activación</string>
+    <string name="device_activation_page_title">Activación del dispositivo</string>
     <string name="disable_find_device_error">"\"No se puede desactivar la localización del dispositivo. \"%1$s"</string>
     <string name="do_not_merge">Cancelar</string>
     <string name="enable_find_device_error">"\"No se puede activar la localización del dispositivo. \"%1$s"</string>
@@ -109,7 +117,7 @@
     <string name="expand_button_title">Avanzado</string>
     <string name="feedback_custom_hint">"Describe los problemas que has encontrado aquí. Si está dando sugerencias, le agradeceríamos más detalles."</string>
     <string name="find_device">Encontrar dispositivo</string>
-    <string name="find_device_dspt_provision">Si pierdes tu dispositivo, puedes entrar en %s para localizarlo, bloquearlo o restablecerlo. Puedes activar o desactivar esta función en cualquier momento desde Ajustes.</string>
+    <string name="find_device_dspt_provision">Si pierde su dispositivo, puede entrar en &lt;font color=#0097FF&gt;%s&lt;/font&gt; para localizarlo, bloquearlo o restablecerlo. Puede activar o desactivar esta función en cualquier momento en los Ajustes.</string>
     <string name="find_device_error_network">Compruebe su conexión de datos e inténtelo de nuevo.</string>
     <string name="find_device_error_server">Error del servidor</string>
     <string name="find_device_gdpr_prompt">Al activar Encontrar dispositivo, aceptas nuestra <a href="app://com.miui.cloudservice.gdpr.license"><u>Política de Privacidad</u></a>. Si necesitas revocar la autorización, desactiva esta función.</string>
@@ -260,7 +268,7 @@ Localiza y bloquea tu dispositivo en caso de pérdida."</string>
     <string name="micloud_find_device_guide_button">Activar Encontrar dispositivo</string>
     <string name="micloud_find_device_guide_desc_pad">Si pierdes tu dispositivo, inicia sesión en &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; en cualquier otro dispositivo para localizar, bloquear de forma remota, o borrar los datos del dispositivo perdido. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;Ver detalles&lt;/a&gt;.</string>
     <string name="micloud_find_device_guide_desc_phone">Si pierdes tu dispositivo, inicia sesión en &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; en cualquier otro dispositivo para localizar, bloquear de forma remota, o borrar los datos del dispositivo perdido. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;Ver detalles&lt;/a&gt;.</string>
-    <string name="micloud_find_device_guide_fail_reopen">Puedes activar Encontrar dispositivo en Cuenta Mi - Xiaomi Cloud</string>
+    <string name="micloud_find_device_guide_fail_reopen">Puede activar Encontrar dispositivo en su Cuenta Mi - Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_fail_sub_net">Compruebe su conexión de red e inténtelo de nuevo.</string>
     <string name="micloud_find_device_guide_micloud_sub_content">Sincronizar contactos, fotos, notas y más con Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_micloud_sub_content_v2">Sincronizar contactos, fotos, notas y más con Xiaomi Cloud</string>
@@ -273,7 +281,7 @@ Localiza y bloquea tu dispositivo en caso de pérdida."</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat recomienda activar Encontrar dispositivo</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay recomienda activar Encontrar dispositivo</string>
     <string name="micloud_find_device_guide_progress">Activando Encontrar dispositivo…</string>
-    <string name="micloud_find_device_guide_title">Inicia sesión en &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; para localizar, bloquear o borrar tu dispositivo. Esto puede ayudarte a encontrar tu dispositivo en caso de pérdida.&lt;br /&gt;Si pierdes tu dispositivo, puedes contactar el servicio de seguridad de las aplicaciones que uses normalmente (por ej., Alipay, WeChat, QQ) para proteger tus cuentas en &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.</string>
+    <string name="micloud_find_device_guide_title">Inicie sesión en &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; con su Cuenta Mi para localizar y bloquear su dispositivo, marcarlo como perdido o borrar datos de forma remota. Ver detalles &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;aquí&lt;/a&gt;.</string>
     <string name="micloud_find_device_open_fail">"No se pudo activar Encontrar dispositivo"</string>
     <string name="micloud_find_device_opened">Localización de dispositivo activada</string>
     <string name="micloud_find_device_opened_content">Encuentra tu dispositivo en %s</string>
@@ -450,7 +458,7 @@ Localiza y bloquea tu dispositivo en caso de pérdida."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar elementos"</string>
     <string name="mx_dspt">Mi mensaje</string>
-    <string name="mx_dspt_provision">"Mi Message te permite enviar mensajes a otros dispositivos MIUI sin coste alguno cuando estés conectado a una red Wi-Fi.
+    <string name="mx_dspt_provision">"Mi Mensajes le permite enviar mensajes a otros dispositivos MIUI sin coste alguno cuando esté conectado a una red Wi-Fi.
 
 Puedes activar o desactivar esta característica en cualquier momento en Ajustes."</string>
     <string name="mx_dspt_provision_privacy">"Esta característica puede requerir tu número de teléfono. Puede que se necesite enviar un SMS para activar este servicio. Tu operador te cobrará por este mensaje.
@@ -462,7 +470,7 @@ Esta característica cifra y envía el ID de tu dispositivo a los servidores Mi.
     <string name="mx_dspt_provision_privacy_no_sim">"Esta característica puede requerir tu número de teléfono. Cuando la tarjeta SIM es detectada, puede que se necesite enviar un SMS para activar este servicio. Tu operador te cobrará por este mensaje.
 
 Esta característica cifra y envía el ID de tu dispositivo a los servidores Mi."</string>
-    <string name="mx_dspt_provision_with_voip">"Llama gratis a otros dispositivos MIUI con conexión a Internet. Puedes activar o desactivar esta característica en cualquier momento en Ajustes. Weihui proporciona el servicio VoIP. Vea la Política de Privacidad de Weihui"</string>
+    <string name="mx_dspt_provision_with_voip">"Llame gratis a otros dispositivos MIUI con conexión a Internet. Puede activar o desactivar esta característica en cualquier momento en Ajustes. Weihui es compatible con VoIP. Vea la Política de Privacidad de Weihui"</string>
     <string name="mx_dspt_provision_with_voip2">Política de Privacidad</string>
     <string name="mx_sub_dspt_provision">Mi mensaje</string>
     <string name="mx_sub_dspt_provision_with_voip">Llamada por Internet</string>
@@ -509,8 +517,16 @@ Es posible que la información de ubicación no se envíe cuando la conexión de
     <string name="provision_next">Siguiente</string>
     <string name="provision_skip_underline">Omitir</string>
     <string name="provision_sync_items_loading">Preparando para sincronizar elementos</string>
+    <string name="quick_service_after_sale_policy_title">Política</string>
+    <string name="quick_service_after_sale_service_title">Servicios</string>
+    <string name="quick_service_authenticity_check_title">Autenticación</string>
+    <string name="quick_service_maintenance_price_title">Reparación</string>
+    <string name="quick_service_title">Servicio rápido</string>
     <string name="reading_status">Cargando el estado…</string>
     <string name="reading_status_failure">"No se pudo cargar el estado."</string>
+    <string name="recommend_service_cloudservice_description">Sincronice los datos de la aplicación del sistema, la configuración de copia de seguridad, el diseño de la pantalla de inicio y más</string>
+    <string name="recommend_service_sharelocation_description">Localice, bloquee y borre datos en dispositivos perdidos y comparta la ubicación con sus amigos y familiares</string>
+    <string name="recommend_service_title">Servicios recomendados</string>
     <string name="retain_data_high_quality_photo_waring_message">Las imágenes de alta calidad se eliminarán de su galería después de cerrar sesión. Los archivos originales correspondientes serán almacenados en la nube. También puede descargar archivos originales antes de salir.</string>
     <string name="retain_data_high_quality_photo_waring_title">"No estarán disponibles las imágenes de alta calidad"</string>
     <string name="search_menu_title">Buscar</string>
@@ -566,7 +582,7 @@ Es posible que la información de ubicación no se envíe cuando la conexión de
     <string name="share_sdk_error_update_sharing">Seleccione al menos 1 artículo</string>
     <string name="share_sdk_error_user_already_invited">"Ya invitaste a esta persona"</string>
     <string name="share_sdk_error_user_invalid">"Este usuario no existe"</string>
-    <string name="share_sdk_error_user_myself">"No puedes invitarte a ti mismo"</string>
+    <string name="share_sdk_error_user_myself">"No puede invitarse a si mismo"</string>
     <string name="share_sdk_error_user_not_support">"No puedo invitar a personas de esta región"</string>
     <string name="share_sdk_expire_time">Período de validez de la invitación: %1$s</string>
     <string name="share_sdk_family_member_title">Miembros de la familia</string>
@@ -671,7 +687,12 @@ Es posible que la información de ubicación no se envíe cuando la conexión de
     <string name="sync_off_confirm_content">"No podrá sincronizar nuevas contraseñas después de desactivar el Administrador de contraseñas."</string>
     <string name="sync_off_confirm_title">Atención</string>
     <string name="sync_on">Activada</string>
+    <string name="sync_page_autofill_login">Inicie sesión en su Cuenta Mi para usar el administrador de contraseñas</string>
     <string name="sync_page_autofill_title">Administrador de contraseñas</string>
+    <string name="sync_page_route_message">El administrador de contraseñas le permite cifrar sus contraseñas y almacenarlas en la nube. ¿Activar el administrador de contraseñas ahora?</string>
+    <string name="sync_page_route_not_now">No, gracias</string>
+    <string name="sync_page_route_ok">Activar</string>
+    <string name="sync_page_route_remember">"No mostrar de nuevo"</string>
     <string name="sync_setting_title">Ajustes de sincronización</string>
     <string name="sync_sub_1_intl_sms">Puede que se requiera un SMS internacional saliente para activar este servicio. Tu operador te cobrará por este mensaje.</string>
     <string name="sync_sub_1_sms">Puede que se requiera un SMS saliente para activar este servicio. Tu operador te cobrará por este mensaje.</string>

@@ -316,6 +316,8 @@ Para cambiar entre funciones, deslice 3 dedos hacia arriba y manténgalo pulsado
     <string name="activating">Activando…</string>
     <string name="active_device_admin_msg">Aplicación de administrador de dispositivos</string>
     <string name="active_input_method_subtypes">Métodos de entrada activos</string>
+    <string name="activity_check_context">"Su dispositivo está intentando conectarse a Internet. Este proceso puede tardar más de lo esperado si utiliza datos móviles. En su lugar, puede regresar y conectarse a una red Wi-Fi, o esperar hasta que se establezca la conexión de datos móviles."</string>
+    <string name="activity_check_title">Conectando a Internet</string>
     <string name="activity_not_found">La aplicación no está instalada en el teléfono.</string>
     <string name="activity_picker_label">Seleccionar actividad</string>
     <string name="activity_title_power_manager">Ahorro de batería; ahorre batería</string>
@@ -444,8 +446,8 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="alarm_ringtone_title">Sonido de alarma predeterminado</string>
     <string name="alarm_sound_dialog_title">Selecciona tono de alarma</string>
     <string name="alarm_sound_title">Tono de alarma</string>
-    <string name="alarm_stop">Desactivar modo Silencioso cuando se apague la alarma</string>
-    <string name="alarm_stop_info">Se desactivará el modo Silencioso cuando se apague la alarma</string>
+    <string name="alarm_stop">Desactivar Modo silencio cuando se apague la alarma</string>
+    <string name="alarm_stop_info">Se desactivará el modo silencio cuando se apague la alarma</string>
     <string name="alarm_template">a las %1$s</string>
     <string name="alarm_template_far">en %1$s</string>
     <string name="alarm_volume_option_title">Alarma</string>
@@ -1460,7 +1462,9 @@ Esta función puede ser desactivada en [Ajustes]</string>
     <string name="button_confirm_convert_fbe">Borrar y convertir</string>
     <string name="button_convert_fbe">Limpiar y convertir…</string>
     <string name="button_disconnect_network">Desconectarse de la red</string>
+    <string name="button_height_text">Un botón de confirmación genérico (por ejemplo, \"Aceptar\", \"Listo\")</string>
     <string name="button_light_timeout">Mantener encendidas las luces de los botones</string>
+    <string name="button_normal_text">Botón normal</string>
     <string name="button_text_accept">Aceptar</string>
     <string name="button_text_accept_timer">Aceptar (%d)</string>
     <string name="button_text_cancel">Cancelar</string>
@@ -1611,6 +1615,7 @@ Esta función puede ser desactivada en [Ajustes]</string>
     <string name="check_find_device_status_failure_confirm">Aceptar</string>
     <string name="check_update">Buscar actualizaciones</string>
     <string name="checkbox_notification_same_as_incoming_call">Utilizar volumen de llamada entrante para notificaciones</string>
+    <string name="checkbox_text">Cambiar</string>
     <string name="checking_decryption">Comprobando...</string>
     <string name="checking_find_device_status">Comprobando el estado de búsqueda del dispositivo…</string>
     <string name="checking_for_updates">Comprobando actualizaciones…</string>
@@ -1686,7 +1691,7 @@ Esta función puede ser desactivada en [Ajustes]</string>
     <string name="color_led_end_time">Hora de finalización</string>
     <string name="color_led_game_mode_summary">Mostrar efectos para juegos cuando Game Turbo está activado</string>
     <string name="color_led_game_mode_title">Juego turbo</string>
-    <string name="color_led_hint">Seleccione los escenarios cuando se debe utilizar la luz LED. La luz LED se encenderá cuando la pantalla esté hacia abajo y el DND esté apagado.</string>
+    <string name="color_led_hint">Seleccione los escenarios en los que se debe utilizar la luz LED. La luz LED se encenderá cuando la pantalla esté hacia abajo y No Molestar esté apagado.</string>
     <string name="color_led_incall_pulse_title">Usar para llamadas entrantes</string>
     <string name="color_led_lucky_dialog_message">Esta característica requiere usar el asistente de sobre rojo. ¿Activar ahora?</string>
     <string name="color_led_lucky_dialog_title">Encender el asistente de sobre rojo</string>
@@ -1828,7 +1833,7 @@ Esta información identifica si sus contactos pueden usar ciertas funciones, com
     <string name="content_capture">Contenido de la aplicación</string>
     <string name="content_capture_summary">Permite que las aplicaciones envíen contenido al sistema Android</string>
     <string name="content_description_menu_button">Menú</string>
-    <string name="content_miui_music_mute_by_user">¿Reproducir sonido multimedia cuando el modo silencioso está activado?</string>
+    <string name="content_miui_music_mute_by_user">¿Reproducir sonido multimedia cuando el Modo silencio esté activado?</string>
     <string name="contextual_card_dismiss_confirm_message">¿Eliminar esta sugerencia?</string>
     <string name="contextual_card_dismiss_keep">Conservar</string>
     <string name="contextual_card_dismiss_remove">Eliminar</string>
@@ -2150,7 +2155,7 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="day_of_week">Día de la semana</string>
     <string name="dc_light_dialog_summary">La calidad de la imagen puede verse afectada cuando el modo Anti-flicker está activado. Encender de todos modos?</string>
     <string name="dc_light_summary">Aplica DC Dimming para reducir la fatiga visual</string>
-    <string name="dc_light_summary_new">La atenuación DC reduce la fatiga visual en condiciones de poca luz. Sin embargo, la calidad de la imagen puede verse afectada cuando el modo Anti-flicker está activado.</string>
+    <string name="dc_light_summary_new">La atenuación de CC evita el parpadeo extenso y reduce la fatiga visual en condiciones de poca luz. Sin embargo, la calidad de la imagen puede verse afectada cuando esta función está activada.</string>
     <string name="dc_light_title">Modo antiparpadeo</string>
     <string name="debug_app">Seleccionar app de depuración</string>
     <string name="debug_app_not_set">"Sin app de depuración establecida"</string>
@@ -2301,6 +2306,12 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="dialog_background_check_ok">Apagar</string>
     <string name="dialog_background_check_title">Desactivar el uso del fondo y detener la aplicación?</string>
     <string name="dialog_backup_title">¿Actualizar copias de seguridad antes de realizar el restablecimiento de fábrica?</string>
+    <string name="dialog_check_button_negative">Inténtelo de nuevo</string>
+    <string name="dialog_check_button_positive">Conectarse a Wi-Fi</string>
+    <string name="dialog_check_context">"Su dispositivo no puede conectarse a Internet.
+1. Toque \"Conectar a Wi-Fi\" para seleccionar una de las redes disponibles.
+2. Si desea utilizar datos móviles, toque \"Inténtelo de nuevo\" o retire y vuelva a insertar su tarjeta SIM."</string>
+    <string name="dialog_check_title">"No se puede conectar a Internet"</string>
     <string name="dialog_chose_item">Seleccionar un elemento para mostrar</string>
     <string name="dialog_content_login">¿Iniciar sesión en Cuenta Mi para actualizar?</string>
     <string name="dialog_location_message">"Su teléfono no puede administrar la batería normalmente porque %1$s sigue solicitando su ubicación cuando no está usando la aplicación. Para solucionar este problema, puedes desactivar la ubicación de esta aplicación."</string>
@@ -2324,6 +2335,10 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="dialog_title_color_calibration">Corrección de color preestablecido</string>
     <string name="dialog_title_hdmi_color_calibration">Corrección de color preestablecido</string>
     <string name="dialog_title_login">Iniciar sesión en Cuenta Mi</string>
+    <string name="dialog_wifi_button_negative">No</string>
+    <string name="dialog_wifi_button_positive">Sí</string>
+    <string name="dialog_wifi_context">Necesita conectarse a Internet para configurar su dispositivo. A menos que se conecte a una red Wi-Fi, es posible que se utilicen datos móviles. El uso de datos móviles puede generar tarifas de operador adicionales. ¿Usas datos móviles de todos modos?</string>
+    <string name="dialog_wifi_title">Usando datos móviles</string>
     <string name="dialog_yes">Sí</string>
     <string name="direct_boot_unaware_dialog_message">"Nota: Después de reiniciar, esta aplicación no se iniciará hasta que desbloquee su dispositivo."</string>
     <string name="disableNetwork">deshabilitar la red</string>
@@ -2424,8 +2439,8 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="dndm_repeated_call_summary_3min">El teléfono sonará cuando recibas una segunda llamada del mismo número en un periodo de 3 minutos</string>
     <string name="dndm_repeated_call_summary_none">Silenciar llamadas repetidas del mismo número</string>
     <string name="dndm_special_call_setting_group">Excepciones</string>
-    <string name="dndm_summary">Las llamadas y notificaciones entrantes serán silenciadas cuando el modo No molestar esté activo.</string>
-    <string name="dndm_summary_for_pad">Las notificaciones entrantes serán silenciadas cuando el modo No molestar esté activo.</string>
+    <string name="dndm_summary">Las llamadas y notificaciones entrantes serán silenciadas cuando el modo No Molestar esté activo.</string>
+    <string name="dndm_summary_for_pad">Las notificaciones entrantes se silenciarán cuando el modo No Molestar esté activo.</string>
     <string name="dndm_vip_call_button_title">Permitir siempre llamadas de las excepciones</string>
     <string name="dndm_vip_call_setting_detal">Aceptar siempre llamadas de las excepciones</string>
     <string name="dndm_vip_call_setting_title">Excepciones</string>
@@ -2438,7 +2453,7 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="dndm_vip_list_group">Lista de excepciones</string>
     <string name="dndm_vip_list_starred_contact">Favoritos</string>
     <string name="dndm_wristband">Activar con Mi Band</string>
-    <string name="dndm_wristband_detailed">"Activar el modo No molestar si Mi Band detecta que estás durmiendo una hora antes del horario programado"</string>
+    <string name="dndm_wristband_detailed">"Activar el modo No Molestar si Mi Band detecta que estás durmiendo una hora antes del horario programado"</string>
     <string name="do_disclosure_generic">Este dispositivo está administrado por tu organización.</string>
     <string name="do_disclosure_with_name">%s administra este dispositivo.</string>
     <string name="do_not_disturb_mode">No molestar</string>
@@ -2943,6 +2958,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="font_settings_summary_cn">Fuentes y tamaño del texto</string>
     <string name="font_size_exhuge">Extra enorme</string>
     <string name="font_size_huge">Enorme</string>
+    <string name="font_size_kddi">Medio</string>
     <string name="font_size_large">Muy grande</string>
     <string name="font_size_make_larger_desc">Aumentar el tamaño</string>
     <string name="font_size_make_smaller_desc">Disminuir el tamaño</string>
@@ -3058,6 +3074,8 @@ Cuando activa la copia de seguridad automática, los datos del dispositivo y de 
     <string name="game_booster_title">Juego Turbo</string>
     <string name="game_controller_settings_category">Mandos de videojuegos</string>
     <string name="game_storage_settings">Juegos</string>
+    <string name="general_text">Campo de texto</string>
+    <string name="general_time">"Tiempo: %1$d:%2$d. Las vibraciones largas representan horas, las vibraciones cortas representan minutos. Habrá una breve pausa entre horas y minutos. Toca dos veces para probar."</string>
     <string name="gentle_notifications_also_display">Mostrar también en</string>
     <string name="gentle_notifications_display_lock">Pantalla de bloqueo</string>
     <string name="gentle_notifications_display_status">Barra de estado</string>
@@ -3159,6 +3177,8 @@ Cuando activa la copia de seguridad automática, los datos del dispositivo y de 
     <string name="handy_mode_tips_full_screen">"Cuando estás utilizando gestos a pantalla completa, puedes activar el modo con una mano usando la bola flotante. También puedes cambiar a usar botones en lugar de gestos a pantalla completa."</string>
     <string name="haptic_agent_completion_01_content_description">Tarea completada</string>
     <string name="haptic_cursor_movement_07_content_description">Ajustando brillo</string>
+    <string name="haptic_experience">Demostración</string>
+    <string name="haptic_experience_details">Retroalimentación háptica &amp; accesibilidad</string>
     <string name="haptic_feedback_enable_title">Vibrar al tocar</string>
     <string name="haptic_feedback_level">Vibración</string>
     <string name="haptic_feedback_progress">Nivel de retroalimentación háptica</string>
@@ -3176,6 +3196,8 @@ Cuando activa la copia de seguridad automática, los datos del dispositivo y de 
     <string name="haptic_return_gesture_05_content_description">Regresando</string>
     <string name="haptic_shutdown_menu_06_content_description">Menú de apagado</string>
     <string name="haptic_single_selection_02_content_description">Artículo seleccionado</string>
+    <string name="haptic_switch_summary">Reciba comentarios hápticos específicos de los elementos seleccionados cuando el lector de pantalla está encendido</string>
+    <string name="haptic_switch_title">Retroalimentación háptica</string>
     <string name="haptic_text_edit_popup_13_content_description">Menú emergente</string>
     <string name="haptic_upper_right_menu_15_content_description">Menú desplegable</string>
     <string name="haptic_volume_adjustment_14_content_description">Ajuste de volúmen</string>
@@ -3208,6 +3230,7 @@ Cuando activa la copia de seguridad automática, los datos del dispositivo y de 
     <string name="headset_unsaved_devices">no guardar, conectar en su cuenta en otro teléfono</string>
     <string name="hearing_aids_category">Herramientas de asistencia auditiva</string>
     <string name="heavy_weight_stop_description">No se puede detener la aplicación de forma segura. Si lo haces, puedes perder parte de tu trabajo.</string>
+    <string name="height_light_list_text">Una lista de elementos importantes</string>
     <string name="help_and_feedback_title">Ayuda y comentarios</string>
     <string name="help_feedback_label">Ayuda y comentarios</string>
     <string name="help_label">Ayuda y sugerencias</string>
@@ -3376,6 +3399,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="input_methods_settings_title">Introducción de texto</string>
     <string name="input_pattern_hint_text">Dibuja tu patrón de desbloqueo</string>
     <string name="input_settings">Ajustes de entrada</string>
+    <string name="input_text">Barra de entrada de texto</string>
     <string name="install_all_warning">Su teléfono y datos personales son más vulnerables a los ataques de aplicaciones desconocidas. Al instalar aplicaciones de esta fuente, acepta ser responsable de cualquier daño que sufra su teléfono o la pérdida de datos que se pueda derivar de su uso.</string>
     <string name="install_applications">Orígenes desconocidos</string>
     <string name="install_applications_title">Permitir todas las fuentes</string>
@@ -3586,7 +3610,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="keywords_wifi_display_settings">espejo</string>
     <string name="keywords_wifi_notify_open_networks">Notificación Wi‑Fi, notificación Wi‑Fi</string>
     <string name="keywords_write_settings">escribir, modificar, ajustes del sistema</string>
-    <string name="keywords_zen_mode_settings">dnd, horario, notificaciones, bloque, silencio, vibrar, dormir, trabajo, enfoque, sonido, mute, día, día de la semana, fin de semana, día de la semana, evento</string>
+    <string name="keywords_zen_mode_settings">no molestar, programar, notificaciones, bloquear, silencio, vibrar, dormir, trabajar, enfoque, sonido, silencio, día, día de la semana, fin de semana, noche de la semana, evento</string>
     <string name="kid_space_settings">Espacio para niños</string>
     <string name="label_available">Redes disponibles</string>
     <string name="label_mi_stats">Mi analítica</string>
@@ -3653,7 +3677,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="legal_written_offer">Oferta escrita</string>
     <string name="license_title">Licencia</string>
     <string name="lift_to_wake_title">Levantar el dispositivo para activarlo</string>
-    <string name="light_color_mode">Modo de luz</string>
+    <string name="light_color_mode">Modo claro</string>
     <string name="lights_title">Notificación LED</string>
     <string name="line_breaking_summary">Optimizar los saltos de línea del párrafo</string>
     <string name="line_breaking_title">Optimizar texto</string>
@@ -4100,8 +4124,6 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="media_volume_option_title">Multimedia</string>
     <string name="media_volume_summary">Establecer volumen para música y vídeos</string>
     <string name="media_volume_title">Multimedia</string>
-    <string name="megabyteShort">Mb</string>
-    <string name="megabyte_per_second">Mb/s</string>
     <string name="meid_multi_sim">MEID (slot sim %1$d)</string>
     <string name="mem_details_title">Detalles de la memoria</string>
     <string name="memory">RAM</string>
@@ -4191,6 +4213,7 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="miheadset_closeAnc">Desactivado</string>
     <string name="miheadset_connectHeadsetForFw">Conecte los auriculares para ver la versión del firmware</string>
     <string name="miheadset_connect_play_music">Iniciar la reproducción automáticamente cuando se conectan los auriculares</string>
+    <string name="miheadset_connect_toast_tips">Conecte los auriculares primero</string>
     <string name="miheadset_define_self">Personalizado</string>
     <string name="miheadset_disconnect">Desconectar</string>
     <string name="miheadset_disconnect_device">¿Desconectar este dispositivo?</string>
@@ -4240,8 +4263,7 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="miheadset_transparent">Transparencia</string>
     <string name="miheadset_triple_click_key_mode">modo de tecla de triple clic</string>
     <string name="miheadset_triple_click_key_mode_summary">mapa de teclas de triple clic</string>
-    <string name="miheadset_unpair_device">par cancelar?</string>
-    <string name="miheadset_unpair_device_text">Se eliminarán todos los dispositivos asociados con esta cuenta Xiaomi</string>
+    <string name="miheadset_unpair_device_text">%1$s se desvinculará de todos los dispositivos asociados con esta Mi Cuenta.</string>
     <string name="mipush_fake_channel_group_name">Mi empuje</string>
     <string name="misc_files">Archivos variados</string>
     <string name="misc_files_selected_count">Has seleccionado %1$d de %2$d.</string>
@@ -4495,7 +4517,7 @@ Selecciona tu sistema operativo:"</string>
     <string name="musicfx_title">Efectos de música</string>
     <string name="mute">Modo Silencio</string>
     <string name="mute_media_sound_summary">Juegos, música, videos y otras aplicaciones</string>
-    <string name="mute_media_sound_title">Silenciar medios en modo silencioso</string>
+    <string name="mute_media_sound_title">Silenciar multimedia en Modo silencio</string>
     <string name="mute_music_stream">Silenciar la transmisión de música</string>
     <string name="mute_voiceassist_stream">Mute VoiceAssist</string>
     <string name="mvno_match_data">Valor de OMV</string>
@@ -4688,7 +4710,7 @@ Selecciona tu sistema operativo:"</string>
     <string name="night_light_brightness">Brillo del modo nocturno</string>
     <string name="night_light_color">Temperatura de color del modo nocturno</string>
     <string name="night_light_color_tip">Los cambios tendrán efecto cuando el modo lectura esté activo</string>
-    <string name="night_light_summary">Para activar el modo nocturno, minimice el brillo de la pantalla en condiciones de poca luz.</string>
+    <string name="night_light_summary">Para activar el modo Noche, minimice el brillo de la pantalla en condiciones de poca luz.</string>
     <string name="night_light_tip">Los cambios tendrán efecto cuando el modo noche esté activo</string>
     <string name="no">No</string>
     <string name="no_5g_in_dsds_text">Cuando use 2 tarjetas SIM, este teléfono estará limitado a 4G. <annotation id="url">Más información</annotation>.</string>
@@ -4723,6 +4745,7 @@ Selecciona tu sistema operativo:"</string>
     <string name="none">Nada</string>
     <string name="normal">Normal</string>
     <string name="normal_info">Todos los sonidos funcionarán con normalidad</string>
+    <string name="normal_list_text">Lista</string>
     <string name="normal_smartcover_title">Fondo opaco</string>
     <string name="not_allowed">La tarjeta SIM no permite establecer conexión con esta red.</string>
     <string name="not_battery_optimizing">No se está utilizando la optimización de la batería</string>
@@ -5098,6 +5121,7 @@ Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="photo_data">Fotos y videos</string>
     <string name="physical_keyboard_title">Teclado físico</string>
     <string name="pick_up_gesture_wakeup_title">Levantar para reactivar</string>
+    <string name="picker_text">Selector de hora</string>
     <string name="picture_color_mode">Modo color de imagen</string>
     <string name="picture_color_mode_desc">Usar sRGB</string>
     <string name="picture_in_picture_app_detail_summary">"Permite que la aplicación cree una ventana imagen en imagen mientras esté abierta o después de que hayas salido de ella (por ejemplo, para seguir viendo un vídeo). La ventana se muestra sobre otras aplicaciones que estés utilizando."</string>
@@ -5851,7 +5875,7 @@ Para usar la fijación de aplicaciones: \u0009
     <string name="screen_pinning_unlock_pin">Solicitar PIN para desactivar</string>
     <string name="screen_projection">Emitir</string>
     <string name="screen_projection_characteristics">Funciones especiales</string>
-    <string name="screen_projection_characteristics_off_screen_summary">Puedes seguir emitiendo cuando la pantalla de tu dispositivo está apagada. Esta función disminuye el consumo de energía.</string>
+    <string name="screen_projection_characteristics_off_screen_summary">Puede seguir emitiendo cuando la pantalla de su dispositivo esté apagada. Esta característica disminuye el consumo de energía.</string>
     <string name="screen_projection_characteristics_off_screen_title">Emitir con la pantalla apagada</string>
     <string name="screen_projection_characteristics_privacy_protect_summary">"No mostrar notificaciones flotantes, llamadas entrantes y otros elementos privados en monitores externos."</string>
     <string name="screen_projection_characteristics_privacy_protect_title">Ocultar elementos privados</string>
@@ -5865,7 +5889,7 @@ Para usar la fijación de aplicaciones: \u0009
     <string name="screen_projection_example_game_title">Juegos</string>
     <string name="screen_projection_help">Ayuda</string>
     <string name="screen_projection_sample_summary">Emitiendo documentos, juegos, fotos y vídeos</string>
-    <string name="screen_projection_sample_title">Población</string>
+    <string name="screen_projection_sample_title">Demostraciones</string>
     <string name="screen_projection_title">Emitir</string>
     <string name="screen_reader_category_title">Lectores de pantalla</string>
     <string name="screen_resolution_dialog_title">Cambiar resolución</string>
@@ -5997,7 +6021,7 @@ Para usar la fijación de aplicaciones: \u0009
     <string name="search_display_settings">Pantalla;Pantalla;Luz ambiental;Bolsillo;Llamada en bolsillo;Temperatura de color;Color;Colores;Saturación;Rotación automática;Rotación automática;Rotación automática;Rotar pantalla;Brillo;Fuente;Fuentes;Tamaño de fuente</string>
     <string name="search_dndm_alarm_content">Excepciones</string>
     <string name="search_dndm_auto_button_title">Establecer la hora</string>
-    <string name="search_dndm_auto_time_setting">Establecer hora;DND</string>
+    <string name="search_dndm_auto_time_setting">Establecer hora;No Molestar</string>
     <string name="search_dndm_open">No molestar; DND; Activar DND</string>
     <string name="search_dndm_repeated_call_setting_title">Repetir llamadas;Llamadas repetidas</string>
     <string name="search_dndm_vip_call_setting_title">VIP;Excepciones;Lista de aprobadas;Lista de aprobadas</string>
@@ -6082,7 +6106,7 @@ Para usar la fijación de aplicaciones: \u0009
     <string name="search_security_privacy_settings_title">Privacidad;Seguridad;Fuentes desconocidas;Mostrar contraseña;Firma de la aplicación;Firmas de las aplicaciones;Eliminar credenciales;Eliminar credencial</string>
     <string name="search_security_settings">Ajustes de privacidad;Seguridad;Privacidad</string>
     <string name="search_settings">Búsqueda</string>
-    <string name="search_silent_mode_title">modo Silencio;silencio;silencioso;silenciar</string>
+    <string name="search_silent_mode_title">Modo Silencio;silencio;silencioso;silenciar</string>
     <string name="search_sim_management_title">Redes móviles;Datos móviles;Datos móviles;Datos;Itinerancia internacional;Itinerancia;Recibir MMS;Redes móviles;</string>
     <string name="search_sim_status_title">Estado de la SIM;SIM</string>
     <string name="search_slot_status_title">Información del IMEI;IMEI</string>
@@ -6298,6 +6322,7 @@ Nota: No puedes usar tu huella dactilar para desbloquear este dispositivo. Para 
     <string name="see_less">Ver menos</string>
     <string name="see_more">Ver más</string>
     <string name="seek_bar_info">Ajustar el tamaño</string>
+    <string name="seekbar_text">Deslizador</string>
     <string name="select_all">Seleccionar todo</string>
     <string name="select_application">Seleccionar aplicación</string>
     <string name="select_automatically">Seleccionar una red automáticamente</string>
@@ -6635,7 +6660,7 @@ Antes de utilizar nuestros servicios, lea y acepte nuestro %s."</string>
     <string name="sound_dashboard_summary">Volumen, vibración y No molestar</string>
     <string name="sound_effects_enable_title">Sonar al tocar</string>
     <string name="sound_haptic_settings">Sonido &amp; toque</string>
-    <string name="sound_mode">Modo silencioso &amp; DND</string>
+    <string name="sound_mode">Modo silencio &amp; No molestar</string>
     <string name="sound_settings">Sonido</string>
     <string name="sound_settings_example_summary">Volumen del timbre al 80%</string>
     <string name="sound_settings_summary">Volumen del timbre al %1$s</string>
@@ -7052,6 +7077,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="system_touch">Retroalimentación háptica</string>
     <string name="system_ui_settings">Mostrar SystemUI Tuner</string>
     <string name="system_update_settings_list_item_title">Actualizaciones del sistema</string>
+    <string name="tab_text">Pestaña</string>
     <string name="take_call_on_title">Tomar llamada en</string>
     <string name="talkback_summary">El lector de pantalla está destinado principalmente a personas ciegas y con problemas de visión</string>
     <string name="talkback_title">TalkBack</string>
@@ -7353,7 +7379,7 @@ Las huellas dactilares guardadas también se eliminarán del perfil y no podrá 
     <string name="unlock_set_unlock_pin_summary">Introduce %1$d-%2$d números para desbloquear el dispositivo</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">Establecer bloqueo de pantalla</string>
-    <string name="unlock_setup_wizard_fingerprint_details">Una vez que hayas configurado un bloqueo de pantalla, podrás configurar también la huella dactilar en Ajustes &gt; Seguridad.</string>
+    <string name="unlock_setup_wizard_fingerprint_details">Una vez que haya configurado un bloqueo de pantalla, podrá configurar también la huella dactilar en Ajustes &gt; Seguridad.</string>
     <string name="unlock_type_category_title">Método de reconocimiento</string>
     <string name="unlogin_account_summary">Todos mis servicios. Una Cuenta Mi.</string>
     <string name="unlogin_account_title">Inicia sesión en Cuenta Mi</string>
@@ -7936,7 +7962,7 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
     <string name="wfd_settings_description">Conectarse a una pantalla usando Wi-Fi</string>
     <string name="wfd_settings_title">Pantalla inalámbrica</string>
     <string name="wfd_status_dialog_disconnect">Desconectar</string>
-    <string name="wfd_status_dialog_message">Los contenidos de la pantalla se muestran en otro dispositivo de visualización a través de una conexión inalámbrica</string>
+    <string name="wfd_status_dialog_message">El contenido de la pantalla se está emitiendo a otro dispositivo de forma inalámbrica</string>
     <string name="wfd_status_dialog_title">Pantalla inalámbrica</string>
     <string name="wfd_wps_keypad">Usar teclado</string>
     <string name="wfd_wps_pbc">Introducir PIN</string>
@@ -8655,7 +8681,7 @@ Toca\" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi.</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="zen_mode_app_set_behavior">"Estas opciones no se pueden modificar en este momento. Una aplicación (%1$s) ha activado automáticamente el modo No molestar con funcionamiento personalizado."</string>
     <string name="zen_mode_apps_bypassing_list_count">%d más</string>
-    <string name="zen_mode_auto_rule">Programar sesiones DND</string>
+    <string name="zen_mode_auto_rule">Programar sesiones de No Molestar</string>
     <string name="zen_mode_automatic_rule_settings_page_title">Regla automática</string>
     <string name="zen_mode_automation_settings_page_title">Reglas automáticas</string>
     <string name="zen_mode_automation_settings_title">Activar automáticamente</string>
@@ -8762,7 +8788,7 @@ Toca\" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi.</string>
     <string name="zen_mode_messages_list">mensajes</string>
     <string name="zen_mode_messages_title">Permitir mensajes</string>
     <string name="zen_mode_miui_silent_category">Permitir</string>
-    <string name="zen_mode_more_actions">Más opciones de DND</string>
+    <string name="zen_mode_more_actions">Más opciones de No Molestar</string>
     <string name="zen_mode_no_exceptions">Nada</string>
     <string name="zen_mode_none_calls">Ninguno</string>
     <string name="zen_mode_none_messages">Ninguna</string>
@@ -8825,12 +8851,12 @@ Ten en cuenta que se seguirán mostrando las notificaciones importantes sobre el
     <string name="zen_mode_screen_on">Cuando la pantalla esté encendida</string>
     <string name="zen_mode_screen_on_summary">Permitir que las notificaciones silenciadas por el modo No molestar aparezcan en la pantalla con un icono en la barra de estado</string>
     <string name="zen_mode_settings_category">Cuando el modo No molestar esté activado</string>
-    <string name="zen_mode_settings_dnd_automatic_rule">Una regla (%s) ha activado automáticamente el modo No molestar</string>
-    <string name="zen_mode_settings_dnd_automatic_rule_app">Una aplicación (%s) ha activado automáticamente el modo No molestar</string>
+    <string name="zen_mode_settings_dnd_automatic_rule">Una regla (%s) ha activado automáticamente el modo No Molestar</string>
+    <string name="zen_mode_settings_dnd_automatic_rule_app">Una aplicación (%s) ha activado automáticamente el modo No Molestar</string>
     <string name="zen_mode_settings_dnd_custom_settings_footer">El modo No molestar está activado para %s con opciones de configuración personalizadas.</string>
     <string name="zen_mode_settings_dnd_custom_settings_footer_link">&lt;annotation id=\"link\"&gt; Ver ajustes personalizados&lt;/annotation&gt;</string>
-    <string name="zen_mode_settings_dnd_manual_end_time">El modo No molestar está activado hasta esta hora: %s</string>
-    <string name="zen_mode_settings_dnd_manual_indefinite">El modo No molestar permanecerá habilitado hasta que lo desactives</string>
+    <string name="zen_mode_settings_dnd_manual_end_time">El modo No Molestar está activado hasta esta hora: %s</string>
+    <string name="zen_mode_settings_dnd_manual_indefinite">El modo No Molestar permanecerá habilitado hasta que lo desactives</string>
     <string name="zen_mode_settings_summary">Recibe notificaciones solo de personas y aplicaciones importantes</string>
     <string name="zen_mode_settings_summary_off">Nunca</string>
     <string name="zen_mode_settings_title">No molestar</string>
@@ -8869,14 +8895,14 @@ Ten en cuenta que se seguirán mostrando las notificaciones importantes sobre el
     <string name="zen_msg_event_reminder_title">Mensajes, eventos y recordatorios</string>
     <string name="zen_onboarding_current_setting_summary">(Configuración actual)</string>
     <string name="zen_onboarding_current_setting_title">Notificaciones sin sonido</string>
-    <string name="zen_onboarding_dnd_visual_disturbances_description">"Tu teléfono puede hacer más para ayudarte a concentrarte.
+    <string name="zen_onboarding_dnd_visual_disturbances_description">"Su teléfono puede hacer más para ayudarle a concentrarse.
 
 Actualizar la configuración a:
 
 - Ocultar las notificaciones completamente
 
 - Permitir llamadas de contactos destacados y repetir llamadas"</string>
-    <string name="zen_onboarding_dnd_visual_disturbances_header">¿Quieres cambiar los ajustes de las notificaciones del modo No molestar?</string>
+    <string name="zen_onboarding_dnd_visual_disturbances_header">¿Quiere cambiar los ajustes de las notificaciones del modo No Molestar?</string>
     <string name="zen_onboarding_more_options">Puede personalizar aún más esto en Ajustes.</string>
     <string name="zen_onboarding_new_setting_summary">No verás ni escucharás notificaciones. Las llamadas de contactos destacados y de personas que insisten están permitidas.</string>
     <string name="zen_onboarding_new_setting_title">Notificaciones sin sonido ni elementos visuales</string>

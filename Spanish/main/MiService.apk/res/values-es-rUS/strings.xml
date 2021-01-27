@@ -31,11 +31,14 @@
     <string name="afternoon">Tarde</string>
     <string name="am">AM</string>
     <string name="clearable_edittext_clear_description">Claro</string>
+    <string name="copy">Copiar</string>
     <string name="date_picker_lunar">Calendario Tradicional Chino</string>
+    <string name="date_time_picker_dialog_title">Ajustar fecha y hora</string>
     <string name="early_morning">Mañana</string>
     <string name="eras_ad">DC</string>
     <string name="eras_bc">AC</string>
     <string name="evening">Tarde</string>
+    <string name="expand_button_title">Avanzado</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -105,7 +108,7 @@
     <string name="miservice_notification_open_feedback_title">Introducción a \"Servicios y comentarios\"</string>
     <string name="miservice_notification_scan_content">Usa el Escáner para traducir palabras y frases</string>
     <string name="miservice_notification_scan_title">Traduce al instante</string>
-    <string name="miui_feedback_answer_detail_community">Puedes encontrar respuestas a tus preguntas en Mi Community</string>
+    <string name="miui_feedback_answer_detail_community">Puede encontrar respuestas a sus preguntas en Mi Comunidad</string>
     <string name="miui_feedback_answer_detail_feedback_resolved">Sí</string>
     <string name="miui_feedback_answer_detail_feedback_result">¡Gracias por tu comentario!</string>
     <string name="miui_feedback_answer_detail_feedback_title">¿Te ayudó esta información?</string>
@@ -163,7 +166,7 @@
     <string name="miui_feedback_edit_submit_dialog_cancel">"Rechazar"</string>
     <string name="miui_feedback_edit_submit_dialog_confirm">Aceptar</string>
     <string name="miui_feedback_edit_submit_dialog_content">&lt;Data&gt;Debes aceptar nuestra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Política de Privacidad&lt;/a&gt; y nuestro &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;Acuerdo de Usuario&lt;/a&gt; para poder utilizar la función de Comentarios. Los problemas que reportes, así como los elementos que adjuntes (podrían contener información personal, sobre tu dispositivo y sobre la red) serán subidos a los servidores de MIUI. Esto nos ayudará a localizar y solucionar los problemas que reportes.&lt;/Data&gt;</string>
-    <string name="miui_feedback_edit_submit_dialog_content_global">&lt;Data&gt;Tus comentarios, junto con los archivos adjuntos (si los hubiese) y los registros (puedes desmarcar las casillas correspondientes de los elementos que no quieres subir), se enviarán a los servidores de MIUI. Los registros podrían contener información personal y tus datos de ubicación. Seleccionando Aceptar significa que has leído y aceptado nuestra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Política de Privacidad&lt;/a&gt; y &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;Acuerdo de Usuario&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="miui_feedback_edit_submit_dialog_content_global"><Data>\"Sus comentarios, junto con los archivos adjuntos (si los hay) y los registros (puede desmarcar las casillas correspondientes para los elementos que no desea cargar) se enviarán a los servidores de MIUI. Los registros pueden contener información personal y sus datos de ubicación. \"Aceptar\" significa que ha leído y aceptado nuestra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Política de privacidad&lt;/a&gt; y &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;Acuerdo de usuario&lt;/a&gt;\".</Data></string>
     <string name="miui_feedback_edit_submit_dialog_not_show_again">"No mostrar de nuevo"</string>
     <string name="miui_feedback_edit_submit_dialog_title">Enviar reporte</string>
     <string name="miui_feedback_edit_submit_directly">Enviar</string>
@@ -184,7 +187,7 @@
     <string name="miui_feedback_main_search_issue">Introduce palabras clave para buscar</string>
     <string name="miui_feedback_main_start_submit">Enviar comentario</string>
     <string name="miui_feedback_main_submit_dialog_confirm">Enviar</string>
-    <string name="miui_feedback_main_submit_dialog_content">"Parece que no se pudo encontrar una solución a tu problema. Puedes enviarnos tu comentario."</string>
+    <string name="miui_feedback_main_submit_dialog_content">"Parece que no hemos podido encontrar solución a su problema. Puede enviarnos sus comentarios."</string>
     <string name="miui_feedback_main_submit_dialog_title">Enviar comentario</string>
     <string name="miui_feedback_main_title">Comentarios</string>
     <string name="miui_guide_accessibility_image_desc">Imagen</string>
@@ -223,7 +226,7 @@
     <string name="miui_main_ring_arctic">El Ártico</string>
     <string name="miui_main_ring_australia">Australia</string>
     <string name="miui_main_ring_defalut">Usar sonido de notificación actual</string>
-    <string name="miui_main_ring_mute_tips">"No se pueden reproducir demostraciones en Modo silencioso"</string>
+    <string name="miui_main_ring_mute_tips">"No se pueden reproducir demostraciones en Modo silencio"</string>
     <string name="miui_main_ring_sub_title">Toque para reproducir demostraciones y seleccione el sonido de notificación</string>
     <string name="miui_main_ring_title">Sonidos de notificación inspirados en la naturaleza</string>
     <string name="miui_main_shortcut_label_submit_feedback">Enviar comentario</string>
@@ -236,9 +239,20 @@
     <string name="miui_main_update_success_title">Haz tu vida más fácil</string>
     <string name="miui_main_update_success_title_12">Solo tuyo</string>
     <string name="miui_main_update_success_title_12_5">Bienvenido a MIUI 12.5</string>
-    <string name="miuix_appcompat_cloud_state_disabled">La sincronización con la nube está desactivada</string>
-    <string name="miuix_appcompat_cloud_state_finished">Sincronizado con la nube completado</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Sincronizando con la nube…</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Más</string>
+    <string name="miuix_appcompat_cancel_description">Cancelar</string>
+    <string name="miuix_appcompat_confirm_description">Confirmar</string>
+    <string name="miuix_appcompat_delete_description">Eliminar</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all_description">Desmarcar todo</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
+    <string name="miuix_appcompat_search_input_description">Búsqueda</string>
+    <string name="miuix_appcompat_select_all">Seleccionar todo</string>
+    <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
+    <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tire hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -290,6 +304,7 @@
     <string name="morning">Mañana</string>
     <string name="night">Noche</string>
     <string name="noon">Mediodía</string>
+    <string name="not_set">No establecido</string>
     <string name="permission_agree">Aceptar</string>
     <string name="permission_china_version_msg">&lt;Data&gt;Antes de usar \"Servicios y comentarios\", debes leer y aceptar nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt;. Esta aplicación también necesita conectarse a Internet para trabajar con normalidad.&lt;/Data&gt;</string>
     <string name="permission_complete">Listo</string>
@@ -311,6 +326,7 @@
     <string name="permission_storage_introduce">Para guardar elementos en tu dispositivo</string>
     <string name="permission_user_protocol">Acuerdo de Usuario (obligatorio)</string>
     <string name="pm">PM</string>
+    <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="public_loading_text">Un momento…</string>
     <string name="public_net_error_retry">Vuelve a intentarlo</string>
     <string name="public_net_error_sub_title">Comprueba la configuración de red y vuelve a intentarlo</string>
@@ -410,6 +426,8 @@
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
+    <string name="v7_preference_off">Apagado</string>
+    <string name="v7_preference_on">Encendido</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>

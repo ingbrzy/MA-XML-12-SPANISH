@@ -309,7 +309,6 @@ y ajusta las preferencias automáticamente"</string>
     <string name="ambilight_tips_for_longtime_using_tripod">Use un trípode para capturar una exposición más prolongada</string>
     <string name="ambilight_tips_for_suggest_using_tripod">Usa un trípode</string>
     <string name="ambilight_tips_for_using_tripod">Usa un trípode</string>
-    <string name="app_name">Preferencia</string>
     <string name="audio_focus_exit_button_text">Desactivar enfoque por voz</string>
     <string name="auto_hibernation_enter_tip">A punto de apagar la pantalla…</string>
     <string name="autozoom_click_hint">"Toca un objeto para mantenerlo enfocado mientras se mueve. Manténgase al menos a 3 metros de distancia para obtener el mejor efecto."</string>
@@ -400,6 +399,8 @@ y ajusta las preferencias automáticamente"</string>
     <string name="clone_video_mode">Vídeo</string>
     <string name="close_back_flash_toast">"Su dispositivo está sobrecalentado. No se puede usar flash ahora."</string>
     <string name="close_front_flash_toast">"Su dispositivo está sobrecalentado. No se puede usar el flash ahora."</string>
+    <string name="close_night_algo_toast_low_power">Cargue su dispositivo para poder configurar la exposición</string>
+    <string name="close_night_algo_toast_thermal">Enfríe su dispositivo para poder configurar la exposición</string>
     <string name="color_effect_entry_berry">Bayas</string>
     <string name="color_effect_entry_blackgold">Vibraciones de oro</string>
     <string name="color_effect_entry_blackgold_describe">Este filtro de alto contraste retiene solo los colores amarillo y azul oscuro. Úselo en calles bien iluminadas en una ciudad de noche.</string>
@@ -471,7 +472,7 @@ y ajusta las preferencias automáticamente"</string>
     <string name="cta_mimoji_perm_type">Permisos obligatorios (utilizados para funciones y servicios básicos de esta aplicación)</string>
     <string name="cta_mimoji_user_links"><Data>Lea y acepte nuestro &lt;a href =%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href =%2$s&gt;Política de Privacidad&lt;/a&gt; antes de usar esta aplicación.</Data></string>
     <string name="cta_mimoji_user_tips">"Si no acepta otorgar permisos obligatorios o compartir y cargar su información personal, no podrá usar esta aplicación. Si no otorga permisos opcionales, no podrá utilizar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible. Siempre puede restringir los permisos o retirar su consentimiento en la Configuración."</string>
-    <string name="cta_msg">¡Bienvenido a Cámara! Puedes usar esta aplicación para tomar fotos y grabar vídeos. Esta aplicación necesita conectarse a Internet y requiere los siguientes permisos opcionales:</string>
+    <string name="cta_msg">¡Bienvenido a Cámara! Puede usar esta aplicación para tomar fotos y grabar vídeos. Esta aplicación necesita conectarse a Internet y requiere los siguientes permisos opcionales:</string>
     <string name="cta_perm_cam">Usar la cámara</string>
     <string name="cta_perm_cam_desc">Para tomar fotos</string>
     <string name="cta_perm_dec">Para añadir información de ubicación a fotos y vídeos</string>
@@ -636,7 +637,7 @@ y creará una en la que todos se vean mejor."</string>
     <string name="hint_mimovie">Haz la foto en modo paisaje para un mejor efecto</string>
     <string name="hint_slow_motion">El video grabado se reproducirá más lento.</string>
     <string name="hint_subtitle">"Dicte subtítulos mientras graba videos"</string>
-    <string name="hint_subtitle_prompt">Puedes dictar subtítulos ahora</string>
+    <string name="hint_subtitle_prompt">Puede dictar subtítulos ahora</string>
     <string name="hunt_dual_water_mark">La marca de agua dual se añadirá automáticamente.</string>
     <string name="id_card_mode_hint_back">Escanee el reverso de su identificación</string>
     <string name="id_card_mode_hint_front">Escanee el anverso de su identificación</string>
@@ -1051,7 +1052,7 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_camera_device_watermark_title">Marca de agua en fotos</string>
     <string name="pref_camera_dual_enable_title">Encienda la cámara dual</string>
     <string name="pref_camera_dual_sat_enable_title">Encienda la cámara doble SAT</string>
-    <string name="pref_camera_dynamic_frame_rate_summary">Disminuya la velocidad de fotogramas en condiciones de poca luz de %1$d a %2$d FPS para mejorar la calidad del video</string>
+    <string name="pref_camera_dynamic_frame_rate_summary">La velocidad de fotogramas se reducirá automáticamente en condiciones de poca luz para mejorar la calidad del video</string>
     <string name="pref_camera_dynamic_frame_rate_title">Ajustar la velocidad de fotogramas a poca luz</string>
     <string name="pref_camera_eis_entry_normal">Video constante</string>
     <string name="pref_camera_eis_entry_off">Desactivado</string>
@@ -1100,7 +1101,7 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_camera_heic_image_format_description2">"El formato de archivo de imagen de alta eficiencia ahorra espacio de almacenamiento, pero algunas aplicaciones de terceros no lo admiten. No puede tomar fotos en vivo y eliminar marcas de agua en HEIF."</string>
     <string name="pref_camera_heic_image_format_title">Formato HEIF</string>
     <string name="pref_camera_hfr_entry_off">Desactivado</string>
-    <string name="pref_camera_high_quality_preferred_description">Mejore la calidad de la imagen con el algoritmo inteligente. La velocidad de captura de imágenes puede disminuir cuando esta función está activada.</string>
+    <string name="pref_camera_high_quality_preferred_description">Mejore la calidad de la imagen con el algoritmo inteligente. La velocidad de captura de imágenes puede disminuir cuando esta función está activada. El modo nocturno se activará automáticamente cuando se detecten condiciones de poca luz.</string>
     <string name="pref_camera_high_quality_preferred_title">Mejora la calidad de la imagen</string>
     <string name="pref_camera_histogram_entry_disable">Desactivar</string>
     <string name="pref_camera_histogram_entry_enable">Activar</string>
@@ -1150,6 +1151,8 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_camera_portrait_mode_entry_on">Modo retrato encendido</string>
     <string name="pref_camera_portrait_mode_title">Modo retrato</string>
     <string name="pref_camera_portrait_with_facebeauty_title">Embellecer en modo vertical</string>
+    <string name="pref_camera_predictive_shutter_description">Rastrear movimiento para minimizar el desenfoque en las fotos de niños, mascotas y otros sujetos activos</string>
+    <string name="pref_camera_predictive_shutter_title">Rastrear movimiento</string>
     <string name="pref_camera_proximity_lock_summary">Bloquea la función táctil al colocarse en un bolsillo</string>
     <string name="pref_camera_proximity_lock_title">Modo bolsillo</string>
     <string name="pref_camera_quick_settings">Ajustes rápidos</string>
@@ -1288,8 +1291,8 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_n_s_a">Ajustes de audio</string>
     <string name="pref_n_s_o_l">Activar</string>
     <string name="pref_n_s_o_m">Desactivar</string>
-    <string name="pref_new_slow_motion_video_quality_240_720only">Solo puedes grabar vídeos de 720p con 240 fps</string>
-    <string name="pref_new_slow_motion_video_quality_960_720only">Solo puedes grabar vídeos de 720p con 960 fps</string>
+    <string name="pref_new_slow_motion_video_quality_240_720only">Solo puede grabar vídeos de 720p con 240 fps</string>
+    <string name="pref_new_slow_motion_video_quality_960_720only">Solo puede grabar vídeos de 720p con 960 fps</string>
     <string name="pref_p_d_e">Características pro</string>
     <string name="pref_photo_assistance_tips_off">Desactivado</string>
     <string name="pref_photo_assistance_tips_on">Activado</string>
@@ -1312,6 +1315,8 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_skin_beautify_slim_title">Adelgazar</string>
     <string name="pref_skin_beautify_smooth_title">Piel</string>
     <string name="pref_smart_guide_title">Sugerencias inteligentes</string>
+    <string name="pref_super_night_se_summary">Detecta condiciones de poca luz y mejora la calidad de la imagen automáticamente</string>
+    <string name="pref_super_night_se_title">Modo nocturno automático</string>
     <string name="pref_userdefine_watermark_title">Marca de agua personalizada</string>
     <string name="pref_video_captrue_ability_title">Capturar imagen mientras se graba</string>
     <string name="pref_video_denoise_off">Desactivado</string>
@@ -1538,7 +1543,7 @@ con mayor detalle"</string>
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">ver Política de Privacidad</string>
     <string name="vv_duartion_hint">%1$s | Segmento %2$d | %3$ss</string>
-    <string name="vv_hint">Solo puedes grabar vlogs en el modo paisaje</string>
+    <string name="vv_hint">Solo puede grabar vlogs en el modo paisaje</string>
     <string name="vv_mode_menu_item_name">VLOG</string>
     <string name="vv_stability_hint">Mantén tu dispositivo estable</string>
     <string name="vv_start">Grabar vlog</string>

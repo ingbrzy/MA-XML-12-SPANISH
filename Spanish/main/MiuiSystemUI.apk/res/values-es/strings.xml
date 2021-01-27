@@ -196,11 +196,11 @@
     <string name="accessibility_quick_settings_data_saver_changed_off">Ahorro de datos desactivado.</string>
     <string name="accessibility_quick_settings_data_saver_changed_on">Ahorro de datos activado.</string>
     <string name="accessibility_quick_settings_detail">Ajustes rápidos, %s.</string>
-    <string name="accessibility_quick_settings_dnd">No molestar.</string>
-    <string name="accessibility_quick_settings_dnd_alarms_on">No molestar activado, solo alarmas.</string>
-    <string name="accessibility_quick_settings_dnd_changed_off">No molestar desactivado.</string>
-    <string name="accessibility_quick_settings_dnd_changed_on">No molestar activado.</string>
-    <string name="accessibility_quick_settings_dnd_none_on">No molestar desactivado, todo silenciado.</string>
+    <string name="accessibility_quick_settings_dnd">No Molestar.</string>
+    <string name="accessibility_quick_settings_dnd_alarms_on">sólo alarmas</string>
+    <string name="accessibility_quick_settings_dnd_changed_off">No Molestar desactivado.</string>
+    <string name="accessibility_quick_settings_dnd_changed_on">No Molestar activado.</string>
+    <string name="accessibility_quick_settings_dnd_none_on">silencio total</string>
     <string name="accessibility_quick_settings_edit">Editar orden de los ajustes.</string>
     <string name="accessibility_quick_settings_expand">Abrir ajustes rápidos.</string>
     <string name="accessibility_quick_settings_flashlight_changed_off">Linterna apagada.</string>
@@ -707,9 +707,9 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="disabled_by_admin">Deshabilitado por el administrador</string>
     <string name="disabled_by_admin_summary_text">Controlado por el administrador</string>
     <string name="disconnect_vpn">Desconectar VPN</string>
-    <string name="dnd_is_off">No molestar desactivado</string>
-    <string name="dnd_notification_warnings_title">No molestar está activado. Las llamadas y notificaciones serán silenciadas.</string>
-    <string name="dnd_suppressing_shade_text">Notificaciones pausadas por No molestar</string>
+    <string name="dnd_is_off">No Molestar desactivado</string>
+    <string name="dnd_notification_warnings_title">No Molestar está activado. Las llamadas y notificaciones serán silenciadas.</string>
+    <string name="dnd_suppressing_shade_text">Notificaciones pausadas por modo No Molestar</string>
     <string name="do_disclosure_generic">Este dispositivo está gestionado por tu organización</string>
     <string name="do_disclosure_with_name">Este dispositivo está gestionado por %s</string>
     <string name="do_not_silence">"No silencionar"</string>
@@ -1499,7 +1499,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="priority_onboarding_appear_as_bubble_text">Aparece como una burbuja flotante en la parte superior de las aplicaciones.</string>
     <string name="priority_onboarding_behavior">Las conversaciones prioritarias:</string>
     <string name="priority_onboarding_done_button_title">De acuerdo</string>
-    <string name="priority_onboarding_ignores_dnd_text">Interrumpir No molestar</string>
+    <string name="priority_onboarding_ignores_dnd_text">Interrumpir No Molestar</string>
     <string name="priority_onboarding_settings_button_title">Ajustes</string>
     <string name="priority_onboarding_show_at_top_text">Mostrar en la parte superior de la sección de conversación</string>
     <string name="priority_onboarding_show_avatar_text">Mostrar foto de perfil en la pantalla de bloqueo</string>
@@ -1606,10 +1606,10 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="quick_settings_disclosure_named_vpn">Dispositivo conectado a %1$s</string>
     <string name="quick_settings_disclosure_personal_profile_named_vpn">Perfil personal conectado a %1$s</string>
     <string name="quick_settings_disclosure_vpns">Dispositivo conectado a VPNs</string>
-    <string name="quick_settings_dnd_alarms_label">Solo alarmas</string>
-    <string name="quick_settings_dnd_label">No molestar</string>
+    <string name="quick_settings_dnd_alarms_label">Sólo alarmas</string>
+    <string name="quick_settings_dnd_label">No Molestar</string>
     <string name="quick_settings_dnd_none_label">Silencio total</string>
-    <string name="quick_settings_dnd_priority_label">Solo prioridad</string>
+    <string name="quick_settings_dnd_priority_label">Sólo prioridad</string>
     <string name="quick_settings_done">Hecho</string>
     <string name="quick_settings_drivemode_label">Modo coche</string>
     <string name="quick_settings_edit_label">Editar</string>
@@ -1638,7 +1638,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="quick_settings_notifications_label">Notificaciones</string>
     <string name="quick_settings_papermode_label">Modo lectura</string>
     <string name="quick_settings_powermode_label">Modo rendimiento</string>
-    <string name="quick_settings_quietmode_label">No molestar</string>
+    <string name="quick_settings_quietmode_label">No Molestar</string>
     <string name="quick_settings_reset_confirmation_button">Ocultar</string>
     <string name="quick_settings_reset_confirmation_message">Volverá a aparecer la próxima vez que lo actives en Ajustes.</string>
     <string name="quick_settings_reset_confirmation_title">¿Ocultar %1$s?</string>
@@ -2048,7 +2048,7 @@ Cualquier usuario puede actualizar aplicaciones para otros."</string>
     <string name="volume_stream_content_description_unmute">%1$s. Pulsa para dejar de silenciar.</string>
     <string name="volume_stream_content_description_vibrate">%1$s. Pulsa para establecer vibración. La accesibilidad a los servicios podría ser silenciada.</string>
     <string name="volume_stream_content_description_vibrate_a11y">%1$s. Pulsa para establecer vibración.</string>
-    <string name="volume_stream_limited_dnd">%s - Solo prioridad</string>
+    <string name="volume_stream_limited_dnd">%s - Sólo prioridad</string>
     <string name="volume_stream_muted">%s silencioso</string>
     <string name="volume_stream_muted_dnd">%s silencioso - silencio total</string>
     <string name="volume_stream_suppressed">%1$s silencioso - %2$s</string>
@@ -2176,9 +2176,9 @@ Dirección Wi-Fi (BSSID)
     <string name="zen_mode_warnings_all_time_content">Se silenciarán las notificaciones y las llamadas</string>
     <string name="zen_mode_warnings_keyguard_content">Las notificaciones y llamadas se silenciarán cuando el dispositivo esté bloqueado</string>
     <string name="zen_mode_warnings_quit_immediately">Apagar</string>
-    <string name="zen_mode_warnings_title">DND está activado</string>
+    <string name="zen_mode_warnings_title">No Molestar está activado</string>
     <string name="zen_priority_customize_button">Personalizar</string>
     <string name="zen_priority_introduction">"No le molestarán los sonidos ni las vibraciones, excepto las alarmas, recordatorios, eventos y las llamadas que especifique. Seguirá escuchando el contenido que quiera reproducir, como música, vídeos y juegos."</string>
     <string name="zen_silence_introduction">Esto bloquea todos los sonidos y vibraciones, incluidos los de alarmas, música, videos y juegos.</string>
-    <string name="zen_silence_introduction_voice">"Esto bloquea todos los sonidos y vibraciones, incluidos los de alarmas, música, videos y juegos. Podrás realizar llamadas."</string>
+    <string name="zen_silence_introduction_voice">"Esto bloquea TODOS los sonidos y vibraciones, incluidos los de alarmas, música, videos y juegos. Podrá seguir realizando llamadas."</string>
 </resources>
