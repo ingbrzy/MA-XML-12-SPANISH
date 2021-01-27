@@ -774,10 +774,10 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="failed_to_open_app_settings_toast">"No se pudo abrir los ajustes para: %1$s"</string>
     <string name="fingerprint_add_text">El sistema de huella ha sido actualizado. Añade tu huella de nuevo.</string>
     <string name="fingerprint_add_title">Añadir huella</string>
-    <string name="fingerprint_again_identified_msg">Ya puedes usar tu huella dactilar. Úsala para desbloquear el dispositivo, o introduce la contraseña.</string>
+    <string name="fingerprint_again_identified_msg">Ya puede usar su huella dactilar. Úsela para desbloquear el dispositivo, o introduzca la contraseña.</string>
     <string name="fingerprint_dialog_touch_sensor">Toca el sensor de huellas dactilares</string>
     <string name="fingerprint_enter_second_psw_msg">Introduce contraseña del Segundo espacio después de reiniciar el dispositivo, para poder usar el reconocimiento de huella</string>
-    <string name="fingerprint_enter_second_psw_msg_oldman">"No puedes entrar en el Segundo espacio mientras estás en modo Lite"</string>
+    <string name="fingerprint_enter_second_psw_msg_oldman">"No puede entrar en el Segundo espacio mientras esté en modo Lite"</string>
     <string name="fingerprint_enter_second_psw_title">Introduce contraseña para el Segundo espacio</string>
     <string name="fingerprint_not_identified_msg">Demasiados intentos fallidos. Introduce la contraseña ahora o usa tu huella dactilar en unos segundos.</string>
     <string name="fingerprint_not_identified_msg_lock">Demasiados intentos fallidos. Introduce ahora la contraseña.</string>
@@ -798,7 +798,7 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="fs_gesture_back_ready_title">Volver</string>
     <string name="fs_gesture_final_over">"He terminado"</string>
     <string name="fs_gesture_final_restart">Una vez más</string>
-    <string name="fs_gesture_final_summary">Puedes volver a usar los botones en Ajustes &gt; Pantalla completa</string>
+    <string name="fs_gesture_final_summary">Puede volver a usar los botones en Ajustes &gt; Pantalla completa</string>
     <string name="fs_gesture_final_title">"¡Todo listo!"</string>
     <string name="fs_gesture_finish">¡Genial!</string>
     <string name="fs_gesture_left_back_ready_summary">Desliza hacia la derecha desde el borde</string>
@@ -869,9 +869,9 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="high_temp_alarm_help_care_steps">Ver pasos de cuidado</string>
     <string name="high_temp_alarm_notify_message">Hay un problema al cargar este dispositivo. Desenchufe el adaptador de corriente y tenga cuidado porque el cable puede estar caliente.</string>
     <string name="high_temp_alarm_title">Desenchufar el cargador</string>
-    <string name="high_temp_dialog_message">"Tu teléfono intentará enfriarse automáticamente. Todavía puedes usar tu teléfono, pero podría funcionar más lentamente.
+    <string name="high_temp_dialog_message">"Su teléfono intentará enfriarse automáticamente. Aún puede usar su teléfono, pero es posible que funcione más lento.
 
-Una vez que el teléfono se haya enfriado, funcionará normalmente."</string>
+Una vez que su teléfono se haya enfriado, funcionará con normalidad."</string>
     <string name="high_temp_notif_message">Algunas funciones están limitadas mientras el teléfono se enfria</string>
     <string name="high_temp_title">El teléfono se está calentando</string>
     <string name="home">Pantalla de Inicio de Ajustes</string>
@@ -1454,35 +1454,35 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="power_discharge_by_only_short">Hasta %1$s</string>
     <string name="power_discharging_duration">Quedan aproximadamente %1$s (%2$s)</string>
     <string name="power_discharging_duration_enhanced">Quedan aproximadamente %1$s función de su uso (%2$s)</string>
-    <string name="power_notification_controls_description">"Con los controles de notificaciones de energía puedes fijar un nivel de importancia del 0 al 5 para notificaciones de aplicaciones. 
+    <string name="power_notification_controls_description">"Con los controles de notificación de energía, puede establecer un nivel de importancia de 0 a 5 para las notificaciones de una aplicación. 
 
-\"&lt;b&gt;Nivel 5&lt;/b&gt;\" 
+\"<b>Nivel 5</b>\" 
 - Mostrar en la parte superior de la lista de notificaciones 
-- Permitir la interrupción de pantalla completa 
+- Permitir la interrupción de la pantalla completa 
 - Siempre visible 
 
-\"&lt;b&gt;Nivel 4&lt;/b&gt;\" 
-- Evitar la interrupción de pantalla completa 
+\"<b>Nivel 4</b>\" 
+- Evitar la interrupción de la pantalla completa 
 - Siempre visible 
 
-\"&lt;b&gt;Nivel 3&lt;/b&gt;\" 
-- Evitar la interrupción de pantalla completa 
+\"<b>Nivel 3</b>\" 
+- Evitar la interrupción de la pantalla completa 
 - Nunca visible 
 
-\"&lt;b&gt;Nivel 2&lt;/b&gt;\" 
-- Evitar la interrupción de pantalla completa 
+\"<b>Nivel 2</b>\" 
+- Evitar la interrupción de la pantalla completa 
 - Nunca visible 
 - Nunca reproducir sonidos o vibrar 
 
-\"&lt;b&gt;Nivel 1&lt;/b&gt;\" 
-- Evitar la interrupción de pantalla completa 
+\"<b>Nivel 1</b>\" 
+- Evitar la interrupción de la pantalla completa 
 - Nunca visible 
 - Nunca reproducir sonidos o vibrar 
-- Ocultar de la Pantalla de Bloqueo y barra de estado 
-- Mostrar al final de la lista de notificaciones 
+- Ocultar de la pantalla de bloqueo y de la barra de estado 
+- Mostrar en la parte inferior de la lista de notificaciones 
 
-\"&lt;b&gt;Nivel 0&lt;/b&gt;\" 
-- Bloquear todas las notificaciones de la aplicación"</string>
+\"<b>Nivel 0</b>\" 
+- Bloquear todas las notificaciones de la aplicación "</string>
     <string name="power_remaining_charging_duration_only">%1$s restante hasta carga completa</string>
     <string name="power_remaining_duration_only">Quedan alrededor de %1$s</string>
     <string name="power_remaining_duration_only_enhanced">Alrededor de %1$s restante en función de su uso</string>
@@ -1989,7 +1989,7 @@ No se ha concedido permiso de grabación a esta aplicación, pero podría captur
     <string name="use_mtp_button_title">Montar como reproductor multimedia (MTP)</string>
     <string name="use_ptp_button_title">Montar como cámara (PTP)</string>
     <string name="use_system_language_to_select_input_method_subtypes">Usar idioma del sistema</string>
-    <string name="user_add_profile_item_summary">Desde tu cuenta, puedes restringir el acceso a las aplicaciones y al contenido</string>
+    <string name="user_add_profile_item_summary">Desde su cuenta, puede restringir el acceso a las aplicaciones y al contenido</string>
     <string name="user_add_profile_item_title">Perfil restringido</string>
     <string name="user_add_user">Añadir usuario</string>
     <string name="user_add_user_item_summary">Los usuarios tienen contenido y aplicaciones propios</string>
