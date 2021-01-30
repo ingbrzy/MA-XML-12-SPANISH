@@ -1,4 +1,4 @@
-[![MIUI12 logo](https://i.imgur.com/qLcFcYE.png)](https://xiaomi.eu/)
+[![MIUI12 logo](https://i.imgur.com/etEBUXw.png)](https://xiaomi.eu/)
 
 # MA-XML-12-SPANISH
 
@@ -16,13 +16,3 @@ Translation xml checker (updated every 30min)
 http://translators.xiaomi.eu/XML_MIUI12-Spanish-es.html
 
 ## Para mas informacion contactar con  [@deivids84](https://github.com/deivids84)
-
-## Voluntarios que ayudaron anteriormente a la traducción:
-
-* [@Infante007](https://github.com/Infante007)
-* [@danielchc](https://github.com/danielchc)
-* [@rdgi](https://github.com/rdgi)
-* [@Muchachito](https://github.com/Muchachito)
-* [@nmercy-arg](https://github.com/nmercy-arg)
-
-*Español(América)* No se actualiza
