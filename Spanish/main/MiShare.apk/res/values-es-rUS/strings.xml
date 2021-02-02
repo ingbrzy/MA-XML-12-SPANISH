@@ -51,7 +51,7 @@
     <string name="device_status_sending">Enviando…</string>
     <string name="device_status_success">Enviado correctamente</string>
     <string name="device_status_waiting">Esperando…</string>
-    <string name="device_type_pc">Ordenadores</string>
+    <string name="device_type_pc">Computadoras</string>
     <string name="disconnect">DESCONECTAR</string>
     <string name="enable_midrop">Activar</string>
     <string name="error_ap_in_use">"No se pueden enviar archivos a otros dispositivos cuando el hotspot está activado"</string>
@@ -60,6 +60,7 @@
     <string name="error_has_occurred">Ha ocurrido un error</string>
     <string name="error_mirror_working">"No puedo compartir elementos mientras se comparte la pantalla"</string>
     <string name="error_msg_network_error">Se produjo un error de red. Vuelva a intentarlo.</string>
+    <string name="error_permission_denied">Para poder utilizar esta función, conceda a Mi Share todos los permisos necesarios en la Configuración.</string>
     <string name="error_receive_file_cannot_read">"No se pudo recibir el archivo"</string>
     <string name="error_receive_file_changed">"No puedo recibir. El artículo ha cambiado."</string>
     <string name="error_receive_file_file_opened">"No se pudo recibir este artículo. Parece que se está utilizando ahora."</string>
@@ -76,7 +77,7 @@
     <string name="error_send_file_not_found">"No se pudo encontrar el archivo. Inténtalo de nuevo."</string>
     <string name="error_send_file_service_disabled">Transferencia saliente cancelada</string>
     <string name="error_send_transfer_error">"No se pudieron transferir los elementos. Inténtalo de nuevo."</string>
-    <string name="error_send_transfer_pc_error">Transferencia agotada. Actualice la aplicación para compartir archivos en su ordenador y vuelva a intentarlo.</string>
+    <string name="error_send_transfer_pc_error">Transferencia agotada. Actualice la aplicación para compartir archivos en su computadora y vuelva a intentarlo.</string>
     <string name="error_slave_wifi_in_use">"Mi Share no funcionará cuando el Wi-Fi dual esté activado. Apague el Wi-Fi dual en la Configuración y vuelva a intentarlo."</string>
     <string name="error_slave_wifi_in_use_china">"Mi Share no funcionará cuando el Wi-Fi dual esté activado. Apague el Wi-Fi dual en la Configuración y vuelva a intentarlo."</string>
     <string name="error_timeout">Se agotó el tiempo de espera de la sesión. Espere uno o dos minutos y vuelva a intentarlo.</string>
@@ -106,9 +107,8 @@
     <string name="menu_item_privacy_title">Política de Privacidad</string>
     <string name="mishare_folder_in_file_explorer">Administrador de archivos &gt; MiShare</string>
     <string name="mishare_service_channel_desc">Notificaciones sobre los procesos de Mi Share</string>
-    <string name="mishare_settings_summary_international">"Puede usar Mi Share para enviar elementos a dispositivos cercanos.
-Mi Share es compatible con los teléfonos Mi y Redmi.
-OPPO, vivo, realme y otras marcas pronto también serán compatibles con Mi Share. Puede consultar la lista de dispositivos compatibles en nuestro sitio web."</string>
+    <string name="mishare_settings_summary_international">"Mi Share te permite enviar elementos de forma inalámbrica a otros dispositivos cercanos.
+Esta función es compatible con OPPO, Vivo, Realme y otros fabricantes de teléfonos inteligentes. Puede consultar la lista de dispositivos compatibles en el sitio web oficial de cualquier marca seleccionada."</string>
     <string name="mishare_state_protection">Encienda Mi Share automáticamente</string>
     <string name="mishare_state_protection_summary">Vuelva a activar Mi Share automáticamente cuando se vuelva a activar Bluetooth o Wi-Fi</string>
     <string name="mishare_state_protection_summary_china">Volver a activar Mi Share automáticamente cuando se encienden Bluetooth o Wi-Fi</string>
@@ -126,7 +126,7 @@ OPPO, vivo, realme y otras marcas pronto también serán compatibles con Mi Shar
     <string name="not_set">Sin definir</string>
     <string name="notification_channel_name">Transferencia de notificaciones</string>
     <string name="operate_too_fast">¡Demasiado rapido! Espere hasta que se completen las operaciones en curso.</string>
-    <string name="pc_device_model_name">Ordenador</string>
+    <string name="pc_device_model_name">Computadora</string>
     <string name="permission_denied_hint">Otorgue los permisos necesarios para poder usar Mi Share</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="purpose">"¡Bienvenido a Mi Share! Puede utilizar esta aplicación para transferir archivos entre dispositivos. Protegemos su información personal de acuerdo con las leyes, regulaciones y políticas pertinentes.

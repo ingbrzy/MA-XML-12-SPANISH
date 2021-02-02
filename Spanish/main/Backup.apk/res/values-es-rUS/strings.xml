@@ -34,7 +34,7 @@
     <string name="account_summary">Hacer copia de seguridad de tu cuenta de Google, Cuenta Mi y otros datos de usuario</string>
     <string name="alert_button_agree_and_continue">Permitir</string>
     <string name="alert_button_deny">Rechazar</string>
-    <string name="alert_message_backup_to_miasist">Mi PC Suite requiere permisos para crear una copia en el ordenador. ¿Permitir?</string>
+    <string name="alert_message_backup_to_miasist">Mi PC Suite requiere permisos para crear una copia en una computadora. ¿Permitir?</string>
     <string name="alert_message_restore_from_miasist">Mi PC Suite requiere permisos para restaurar elementos en tu teléfono. ¿Permitir?</string>
     <string name="alert_miasist_occupy_backup">Haciendo copia de los elementos usando Mi PC Suite… Espere hasta que la copia esté completada y vuelva a intentarlo.</string>
     <string name="alert_miasist_occupy_restore">Restaurando elementos usando Mi PC Suite… Espere hasta que estén restaurados y vuelva a intentarlo.</string>
@@ -106,7 +106,7 @@
     <string name="close_twice_auth_btn">Desactivar la autenticación de dos factores</string>
     <string name="close_twice_auth_note">"Nota:
 Después de crear una nueva pregunta de seguridad y confirmar su fecha de nacimiento, se desactivará la autenticación de dos factores de Apple ID. Si no ve la opción de desactivar la autenticación de dos factores en la página de la cuenta ID de Apple, no podrá desactivarla."</string>
-    <string name="close_twice_auth_step_1">1. Abra cualquier navegador web en cualquier ordenador y vaya a appleid.apple.com.</string>
+    <string name="close_twice_auth_step_1">1. Abra cualquier navegador web en cualquier computadora y vaya a appleid.apple.com.</string>
     <string name="close_twice_auth_step_2">2. Inicia sesión con el ID de Apple para la que deseas desactivar la autenticación de dos factores, ve a la sección \"Seguridad\" de los ajustes de la cuenta y elige \"Editar\".</string>
     <string name="close_twice_auth_step_3">3. Haga clic en \"Desactivar la autenticación de dos factores\". Haga clic de nuevo para confirmar.</string>
     <string name="close_twice_auth_steps">Siga estos pasos para desactivar la autenticación de dos factores para Apple ID:</string>
@@ -254,8 +254,8 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="loading_data">Cargando datos</string>
     <string name="local_app_name">Copia de seguridad</string>
     <string name="local_back_up_detail_description">"Nota:
-1. Para evitar la pérdida de datos, copia las copias de seguridad locales en tu ordenador.
-2. Copia siempre las copias de seguridad locales a tu ordenador antes de realizar un restablecimiento de fábrica; de lo contrario, se perderán las copias de seguridad locales.
+1. Para evitar la pérdida de datos, copia las copias de seguridad locales en tu computadora.
+2. Copia siempre las copias de seguridad locales a tu computadora antes de realizar un restablecimiento de fábrica; de lo contrario, se perderán las copias de seguridad locales.
 3. ¿Dónde se almacenan las copias de seguridad locales? %1$s"</string>
     <string name="local_backup_select_activity">Crea una copia de seguridad</string>
     <string name="local_backup_window_title">Datos de copia de seguridad local</string>
@@ -324,7 +324,7 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="new_local_button_restore">Restaurar</string>
     <string name="new_local_click_to_jump">Toca para ver instrucciones detalladas</string>
     <string name="new_local_detail_description">"Nota:
-%1$d. Copia las copias de seguridad en tu ordenador para evitar la pérdida de datos. %2$s.
+%1$d. Copia las copias de seguridad en tu computadora para evitar la pérdida de datos. %2$s.
 %3$d. Las copias de seguridad se guardarán en MIUI-Backup-AllBackup."</string>
     <string name="new_local_tab_backup">Respaldar</string>
     <string name="new_local_tab_restore">Restaurar</string>
@@ -333,13 +333,13 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="new_pc_backup_content1">%1$d. Abre \"%2$s\".</string>
     <string name="new_pc_backup_content2">%d. Espera hasta que todos los elementos estén respaldados.</string>
     <string name="new_pc_backup_content3">%d. Encuentra la copia de seguridad en MIUI-Backup-AllBackup.</string>
-    <string name="new_pc_backup_content4">%d. Copia el archivo a tu ordenador.</string>
+    <string name="new_pc_backup_content4">%d. Copia el archivo a tu computadora.</string>
     <string name="new_pc_backup_restore_link">Dispositivo móvil</string>
     <string name="new_pc_backup_summary1">Selecciona los elementos y toca \"Respaldar\".</string>
-    <string name="new_pc_backup_summary2">Conecta tu dispositivo móvil al ordenador mediante un cable USB.</string>
+    <string name="new_pc_backup_summary2">Conecta tu dispositivo móvil a la computadora mediante un cable USB.</string>
     <string name="new_pc_backup_summary4">Nota: también puede copiar fotos y videos de MIUI-DCIM.</string>
-    <string name="new_pc_restore_content1">%d. Conecta tu dispositivo móvil al ordenador mediante un cable USB.</string>
-    <string name="new_pc_restore_content2">%d. Copia la copia de seguridad de tu ordenador a MIUI-Backup-AllBackup.</string>
+    <string name="new_pc_restore_content1">%d. Conecta tu dispositivo móvil a una computadora mediante un cable USB.</string>
+    <string name="new_pc_restore_content2">%d. Copia la copia de seguridad de tu computadora a MIUI-Backup-AllBackup.</string>
     <string name="new_pc_restore_content3">%1$d. Abre \"%2$s\" y selecciona los elementos a restaurar.</string>
     <string name="new_pc_title">Copiar las copias de seguridad</string>
     <string name="new_select_file">Audio, videos y archivos</string>

@@ -2,7 +2,7 @@
 <resources>
     <string name="DOWNLOAD_UNIT_GB">GB</string>
     <string name="DOWNLOAD_UNIT_KB">KB</string>
-    <string name="DOWNLOAD_UNIT_MB">Mb</string>
+    <string name="DOWNLOAD_UNIT_MB">MB</string>
     <string name="DOWNLOAD_UNIT_TB">tuberculosis</string>
     <string name="Only_the_wifi">Utilizar sólo Wi-Fi</string>
     <string name="abc_action_bar_home_description">Ir a inicio</string>
@@ -169,6 +169,7 @@
     <string name="downloads_operating">Procesando…</string>
     <string name="dredge_xunlei_account">Crea una cuenta Xunlei</string>
     <string name="edit_hint"> Introducir una dirección http, torrent o eMule</string>
+    <string name="edit_hint2">Ingrese un enlace HTTP, FTP, magnet o ed2k</string>
     <string name="editmode_menu_delete">Eliminar</string>
     <string name="editmode_menu_share">Compartir</string>
     <string name="engine_open">Abrir</string>
@@ -253,6 +254,7 @@
     <string name="network_error">"No se pudo conectar a la red"</string>
     <string name="new_add">Nueva descarga</string>
     <string name="new_add_bt">Agregar torrent</string>
+    <string name="new_add_bt2">Añadir una tarea de torrent</string>
     <string name="no_downloads">No hay archivos</string>
     <string name="no_file_hint">Ya existen tareas de descarga para este archivo</string>
     <string name="no_net">"No fue posible conectarse a la red"</string>
@@ -446,6 +448,7 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="subbt_pause">En pausa</string>
     <string name="subbt_wait">Esperando…</string>
     <string name="subfile_list">Archivos</string>
+    <string name="task_add">Añadiendo tarea…</string>
     <string name="task_detail">Tareas</string>
     <string name="task_detail_notfound_confirm">Aceptar</string>
     <string name="task_fail">"No se pudo completar la operación"</string>

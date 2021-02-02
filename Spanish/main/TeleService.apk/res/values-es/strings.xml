@@ -167,7 +167,7 @@
     <string name="adb_wireless_error">error</string>
     <string name="adb_wireless_ip_addr_preference_title">Dirección IP &amp; Puerto</string>
     <string name="adb_wireless_list_empty_off">Para ver y usar los dispositivos disponibles, active la depuración inalámbrica</string>
-    <string name="adb_wireless_no_network_msg">Conéctate a una red Wi-Fi</string>
+    <string name="adb_wireless_no_network_msg">Por favor, conéctese a una red Wi-Fi</string>
     <string name="adb_wireless_qrcode_pairing_description">Vincula el dispositivo a través de Wi-Fi escaneando un código QR</string>
     <string name="adb_wireless_qrcode_pairing_title">Escanear código QR</string>
     <string name="adb_wireless_qrcode_summary">Vincula el dispositivo a través de Wi-Fi escaneando un código QR</string>
@@ -1068,10 +1068,10 @@ Póngase en contacto con su operador si el problema persiste."</string>
     <string name="incall_error_no_phone_number_supplied">Para realizar una llamada, introduce un número válido.</string>
     <string name="incall_error_out_of_service">Red móvil no disponible.</string>
     <string name="incall_error_out_of_service_kr">Llamada de emergencia disponible únicamente.</string>
-    <string name="incall_error_out_of_service_wfc">Red móvil no disponible. Conéctate a una red inalámbrica para realizar una llamada.</string>
+    <string name="incall_error_out_of_service_wfc">Red móvil no disponible. Conéctese a una red inalámbrica para realizar una llamada.</string>
     <string name="incall_error_outgoing_call_failed">"No se pudo realizar la llamada"</string>
     <string name="incall_error_power_off">Desactiva el modo avión para realizar una llamada.</string>
-    <string name="incall_error_power_off_wfc">Desactiva el modo de avión o conéctate a una red inalámbrica para realizar una llamada.</string>
+    <string name="incall_error_power_off_wfc">Desactive el modo avión o conéctese a una red inalámbrica para realizar una llamada.</string>
     <string name="incall_error_promote_wfc">Habilite las llamadas por Wi-Fi para realizar una llamada.</string>
     <string name="incall_error_supp_service_conference">No se puede realizar llamadas de conferencia.</string>
     <string name="incall_error_supp_service_hangup">"No se pueden liberar llamada(s)."</string>
@@ -1198,8 +1198,8 @@ Las llamadas de emergencia solo son posibles en áreas con cobertura celular \"<
     <string name="load_networks_progress">Buscando…</string>
     <string name="loading_injected_setting_summary">Cargando…</string>
     <string name="local_backup_password_summary_change">Toca para cambiar o quitar la contraseña de las copias de seguridad completas del escritorio</string>
-    <string name="local_backup_password_summary_none">Las copias de seguridad completas de ordenador no están protegidas</string>
-    <string name="local_backup_password_title">Contraseña para copias de ordenador</string>
+    <string name="local_backup_password_summary_none">Las copias de seguridad completas de escritorio no están protegidas actualmente</string>
+    <string name="local_backup_password_title">Contraseña de respaldo de escritorio</string>
     <string name="local_backup_password_toast_confirmation_mismatch">La nueva contraseña y la de confirmación no coinciden</string>
     <string name="local_backup_password_toast_success">Nueva contraseña de seguridad establecida</string>
     <string name="local_backup_password_toast_validation_failure">Error al establecer la contraseña de seguridad</string>

@@ -149,8 +149,8 @@
         <item quantity="one">%d vídeo</item>
     </plurals>
     <plurals name="collage_select_image_dynamic_range">
-        <item quantity="other">Los collages pueden contener 1-%d fotos</item>
-        <item quantity="one">Los collages pueden contener 1-%d foto</item>
+        <item quantity="other">Los Collages pueden contener %1$d-%2$d fotos</item>
+        <item quantity="one">Los Collages pueden contener %1$d-%2$d foto</item>
     </plurals>
     <plurals name="creation_max_image">
         <item quantity="other">Selecciona hasta %d fotos</item>
@@ -168,10 +168,6 @@
         <item quantity="other">¿Eliminar %d ráfagas de fotos?</item>
         <item quantity="one">¿Eliminar %d ráfaga de fotos?</item>
     </plurals>
-    <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">¿Eliminar %d ráfagas de fotos de Xiaomi Cloud y de este dispositivo?</item>
-        <item quantity="one">¿Eliminar %d ráfaga de fotos de Xiaomi Cloud y de este dispositivo?</item>
-    </plurals>
     <plurals name="delete_finish_format">
         <item quantity="other">%d elementos eliminados</item>
         <item quantity="one">%d elemento eliminado</item>
@@ -184,21 +180,9 @@
         <item quantity="other">¿Eliminar %d elementos?</item>
         <item quantity="one">¿Eliminar %d elemento?</item>
     </plurals>
-    <plurals name="delete_media_from_this_album_and_cloud_msg">
-        <item quantity="other">¿Eliminar %d elementos de este álbum y de Xiaomi Cloud?</item>
-        <item quantity="one">¿Eliminar %d elemento de este álbum y de Xiaomi Cloud?</item>
-    </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">¿Eliminar %d fotos de todos los dispositivos y de Xiaomi Cloud?</item>
         <item quantity="one">¿Eliminar esta foto de todos los dispositivos y de Xiaomi Cloud?</item>
-    </plurals>
-    <plurals name="delete_photo_from_local">
-        <item quantity="other">¿Eliminar %d fotos?</item>
-        <item quantity="one">¿Eliminar esta foto?</item>
-    </plurals>
-    <plurals name="delete_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">¿Eliminar %d fotos de este álbum y de Xiaomi Cloud?</item>
-        <item quantity="one">¿Eliminar esta foto de este álbum y de Xiaomi Cloud?</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">¿Eliminar %d ráfagas de fotos de tu dispositivo?</item>
@@ -207,14 +191,6 @@
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
         <item quantity="other">¿Eliminar %d vídeos de todos los dispositivos y de Xiaomi Cloud?</item>
         <item quantity="one">¿Eliminar este vídeo de todos los dispositivos y de Xiaomi Cloud?</item>
-    </plurals>
-    <plurals name="delete_video_from_local">
-        <item quantity="other">¿Eliminar %d vídeos?</item>
-        <item quantity="one">¿Eliminar este vídeo?</item>
-    </plurals>
-    <plurals name="delete_video_from_this_album_and_cloud_msg">
-        <item quantity="other">¿Eliminar %d vídeos de este álbum y de Xiaomi Cloud?</item>
-        <item quantity="one">¿Eliminar este vídeo de este álbum y de Xiaomi Cloud?</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">"No se pudieron descargar %1$d archivos"</item>
@@ -341,12 +317,12 @@
         <item quantity="one">Descargando %d archivo restante</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
-        <item quantity="other">"No se pudieron descargar %1$d fotos, conéctate a la red e inténtalo de nuevo"</item>
-        <item quantity="one">"No se pudo descargar la foto, conéctate a la red e inténtalo de nuevo"</item>
+        <item quantity="other">"No se pudieron descargar %1$d fotos, conéctese a la red e inténtelo de nuevo"</item>
+        <item quantity="one">"No se pudo descargar %1$d foto, conéctese a la red e intentelo de nuevo"</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">"No se pudieron descargar %1$d fotos (%2$dMB), conéctate a la red e inténtalo de nuevo"</item>
-        <item quantity="one">"No se pudo descargar la foto (%2$dMB), conéctate a la red e inténtalo de nuevo"</item>
+        <item quantity="other">"No se pudieron descargar %1$d archivos (%2$d MB). Conéctese a la red y vuelva a intentarlo."</item>
+        <item quantity="one">"No se pudo descargar el archivo %1$d (%2$d MB). Conéctese a la red y vuelva a intentarlo."</item>
     </plurals>
     <plurals name="picker_origin_need_to_download">
         <item quantity="other">"%1$d archivos (%2$d MB) aún no se han descargado. ¿Descargar usando datos móviles?"</item>

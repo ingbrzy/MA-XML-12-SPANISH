@@ -29,6 +29,7 @@
     <string name="Setting_lock">Ajustes</string>
     <string name="Settings_title_anti_spam">Ajustes de la lista de bloqueo</string>
     <string name="Settings_title_anti_virus">Ajustes de análisis de seguridad</string>
+    <string name="Settings_title_anti_virus_kddi">Ajustes de análisis de seguridad</string>
     <string name="Settings_title_garbage_cleanup">Ajustes del Limpiador</string>
     <string name="Settings_title_network_assistants">Ajustes de uso de datos</string>
     <string name="Settings_title_power_center">Ajustes de la batería</string>
@@ -98,6 +99,7 @@
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="activity_title_antispam">Lista de bloqueo</string>
     <string name="activity_title_antivirus">Análisis de seguridad</string>
+    <string name="activity_title_antivirus_kddi">Análisis de seguridad</string>
     <string name="activity_title_apps_manager">Aplicaciones</string>
     <string name="activity_title_auto_start_manager">Inicio automático</string>
     <string name="activity_title_create_shortcut">Gestionar accesos directos</string>
@@ -130,7 +132,7 @@
     <string name="add_done">Añadido correctamente</string>
     <string name="add_game">Añadir juego</string>
     <string name="add_game_notification_summary">Pulsa para ejecutar y acelerar la velocidad</string>
-    <string name="add_miservice_dialog_content">"%s requiere que agregues la estructura de servicios de MIUI a la lista de excepciones. Puedes recibir notificaciones de aplicaciones incorporadas de MIUI y otras aplicaciones de terceros."</string>
+    <string name="add_miservice_dialog_content">"%s requiere que agregue el marco de servicio MIUI a las excepciones. Puede recibir notificaciones de las aplicaciones integradas de MIUI y otras aplicaciones de terceros."</string>
     <string name="add_miservice_dialog_title">Estructura de servicios MIUI</string>
     <string name="add_to_whitelist_button">Excepciones en la itinerancia de datos</string>
     <string name="add_whitelist">Agregar a excepciones</string>
@@ -183,9 +185,13 @@
     <string name="antivirus_privacy_dialog_cloudscan_description">"Transferir y analizar nombres y detalles de aplicaciones usando definiciones de virus online."</string>
     <string name="antivirus_privacy_dialog_ok">Aceptar</string>
     <string name="antivirus_privacy_dialog_summary">Esta función está impulsada por un motor antivirus de terceros. Para aprender más, lee el Acuerdo de Licencia proporcionado por el servicio de terceros.</string>
+    <string name="antivirus_privacy_dialog_summary_kddi"><Data>\"Cuando se está realizando un análisis de seguridad, su modelo de dispositivo y resultados del análisis se subirán a los servidores de %1$s y serán usados de acuerdo con los correspondientes &lt;a href=\"%2$s\"&gt;términos y condiciones&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Lea y acepte 
+%3$s términos y condiciones antes de realizar análisis de seguridad.&lt;br/&gt;&lt;br/&gt;Si no acepta subir los datos en los servidores de %4$s, podrá seguir usando definiciones de virus almacenadas en su dispositivo.\"</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">Política de Privacidad</string>
     <string name="antivirus_privacy_dialog_title">Política de Privacidad</string>
+    <string name="antivirus_privacy_dialog_title_kddi">Términos y condiciones</string>
     <string name="antivirus_sec_network_unavailable">"La aplicación de Seguridad no se puede actualizar porque has restringido la conexión a Internet. ¿Permitir a Seguridad conectarse a Internet?"</string>
+    <string name="antivirus_third_privacy_title">Políticas de privacidad de terceros</string>
     <string name="antivirus_toast_already_update">Actualizado</string>
     <string name="antivirus_toast_network_unavailable">"No se pudo conectar a la red"</string>
     <string name="antivirus_toast_update_failed">"No se pudo actualizar"</string>
@@ -267,9 +273,9 @@
     <string name="app_behavior_monitor_off_content">"No podrá recibir notificaciones sobre acciones sensibles realizadas por esta aplicación. ¿Desactivar las notificaciones de todos modos?"</string>
     <string name="app_behavior_monitor_off_positive">Desactivar</string>
     <string name="app_behavior_monitor_off_select">"No mostrar de nuevo"</string>
-    <string name="app_behavior_monitor_tips_if_trust">Puedes desactivar las notificaciones sobre acciones delicadas si confias en esta aplicación</string>
+    <string name="app_behavior_monitor_tips_if_trust">Puede desactivar las notificaciones sobre acciones delicadas si confia en esta aplicación</string>
     <string name="app_behavior_monitor_tips_key">Notificaciones sobre acciones delicadas</string>
-    <string name="app_behavior_monitor_tips_summary">Puedes recibir notificaciones cuando las aplicaciones graben audio, accedan a tu ubicación o realicen otras acciones delicadas en segundo plano.</string>
+    <string name="app_behavior_monitor_tips_summary">Puede recibir notificaciones cuando las aplicaciones graben audio, accedan a su ubicación o realicen otras acciones delicadas en segundo plano.</string>
     <string name="app_behavior_no_recorder">"No se encontraron resultados"</string>
     <string name="app_behavior_notification_audio_now_one">%1s está grabando audio</string>
     <string name="app_behavior_notification_audio_now_two" formatted="false">%1s y %2s están grabando audio</string>
@@ -712,7 +718,7 @@
     <string name="bill_limit_notification_title">Saldo insuficiente</string>
     <string name="bind_xiaomi_account_cancel">Cancelar</string>
     <string name="bind_xiaomi_account_confirm">Añadir</string>
-    <string name="bind_xiaomi_account_dialog_summery">"Estás a punto de añadir Cuenta Mi %s. Si olvidas tu contraseña, puedes utilizar esta cuenta para reiniciarla. La cuenta se eliminará automáticamente si se desconecta."</string>
+    <string name="bind_xiaomi_account_dialog_summery">"Está a punto de añadir una Cuenta Mi %s. Si olvida su contraseña, puede utilizar esta cuenta para reiniciarla. La cuenta se eliminará automáticamente si se desconecta."</string>
     <string name="bind_xiaomi_account_success">Cuenta Mi añadida con éxito</string>
     <string name="bind_xiaomi_account_summary">Utiliza Cuenta Mi para reiniciar tu contraseña</string>
     <string name="bind_xiaomi_account_title">Añadir Cuenta Mi</string>
@@ -896,7 +902,7 @@
     <string name="cta_dialog_negative">Salir</string>
     <string name="cta_dialog_positive">Aceptar</string>
     <string name="cta_dialog_title">Conexión a Internet</string>
-    <string name="cta_main_purpose">¡Bienvenido a Seguridad! Puedes usar esta aplicación para liberar espacio de almacenamiento, escanear tu dispositivo en busca de virus, controlar el uso de la batería, optimizar tu dispositivo para jugar, administrar aplicaciones, recibir alertas tempranas de terremotos y más.</string>
+    <string name="cta_main_purpose">¡Bienvenido a Seguridad! Puede usar esta aplicación para liberar espacio de almacenamiento, escanear su dispositivo en busca de virus, controlar el uso de la batería, optimizar su dispositivo para jugar, administrar aplicaciones, recibir alertas tempranas de terremotos y más.</string>
     <string name="cta_settings">Permitir conexión a Internet</string>
     <string name="current_network_state_not_need_diagnose">La conexión a Internet es correcta.</string>
     <string name="customize_limit_pkg">%s (personalizado)</string>
@@ -937,6 +943,7 @@ Su operadora puede cobrarle cargos adicionales si vuelve a activar los datos mó
     <string name="databooster_tips_message">Active esta opción para restringir todas las tarjetas SIM, excepto la tarjeta de datos. Desactive esta función si se producen errores en los juegos que elija.</string>
     <string name="databooster_tips_title">Atención</string>
     <string name="date_picker_lunar">Calendario Tradicional Chino</string>
+    <string name="date_time_picker_dialog_title">Ajustar fecha y hora</string>
     <string name="day_overflow_tips">Advertencia de uso diario de datos</string>
     <string name="debug_open_final_tip">¿Activar depuración USB?</string>
     <string name="debug_open_title">Esta función está destinada a desarrolladores y puede que no sea conveniente para usuarios generales. La activación de la depuración de USB puede provocar los siguientes cambios:</string>
@@ -1153,10 +1160,10 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="ew_guide_start_find_area">Buscar áreas</string>
     <string name="ew_guide_start_warning_range">Se proporcionan alertas tempranas para las áreas cubiertas por la Red de Alerta de Terremotos del Continente del Instituto de Reducción de Desastres de Alta Tecnología de Chengdu. Puede encontrar áreas de cobertura específicas en Ajustes.</string>
     <string name="ew_guide_statement_text_new">"Esta renuncia de responsabilidad se aplica a todos los usuarios (en lo sucesivo denominado \"usted\") que activan la función de advertencia del terremoto. Al aceptar esta renuncia de responsabilidad, usted firma un contrato legalmente vinculante con Xiaomi Inc. y sus filiales (en adelante denominado \"Xiaomi\"). Usted reconoce que ha leído todos los contenidos de esta renuncia, y usted entiende y acepta plenamente todos los términos y condiciones de esta exoneración; de otra manera, debería apagar la advertencia del terremoto inmediatamente.
-De acuerdo con las leyes y reglamentos pertinentes, Xiaomi le proporcionará servicios de alerta temprana basados en el alcance de la zona de vigilancia temprana de alerta que cubren las agencias pertinentes. Es decir, cuando se enciende la función de advertencia de terremotos, se podrán emitir advertencias de terremotos para zonas específicas. Puedes encontrar áreas de cobertura específicas en Configuración.
+De acuerdo con las leyes y reglamentos pertinentes, Xiaomi le proporcionará servicios de alerta temprana basados en el alcance de la zona de vigilancia temprana de alerta que cubren las agencias pertinentes. Es decir, cuando se enciende la función de advertencia de terremotos, se podrán emitir advertencias de terremotos para zonas específicas. Puede encontrar áreas de cobertura específicas en Ajustes.
 Esta función le proporciona una función de advertencia de terremoto. Debe entender que la información de advertencia de terremotos la proporciona el Instituto de Reducción de Desastres Chengdu Hi-tech. Xiaomi no supervisa esta organización y no tiene ningún control sobre ella.
 Xiaomi no promete ni garantiza la exactitud, validez y actualidad de la información de advertencia de terremoto, tampoco garantiza que el servicio de alerta de terremotos satisfaga todas sus necesidades.
-La recepción de información de advertencia de terremotos requiere que mantenga su dispositivo conectado a la red móvil. Fallos de la línea de comunicación de terceros, problemas técnicos, fallos de red o terminal, inestabilidad del sistema, y otros eventos de fuerza mayor podrían impedir que reciba información de advertencia de terremotos. Xiaomi no asumirá ninguna responsabilidad por las pérdidas causadas por tales sucesos.
+La recepción de información de advertencia de terremotos requiere que mantenga su dispositivo conectado a la red móvil. Fallos de la línea de comunicación de terceros, problemas técnicos, fallos de red o del terminal, inestabilidad del sistema, y otros eventos de fuerza mayor podrían impedir que reciba información de advertencia de terremotos. Xiaomi no asumirá ninguna responsabilidad por las pérdidas causadas por tales sucesos.
 Debe entender que esta característica se proporciona únicamente para su referencia. Las advertencias que reciba pueden llegar segundos antes del inicio de un terremoto. Usted es el único responsable de los riesgos y consecuencias de cualquier acción que realice basándose en la información proporcionada por esta función."</string>
     <string name="ew_guide_tips_1">"Serás notificado sobre los próximos terremotos y escucharás un sonido de advertencia"</string>
     <string name="ew_guide_tips_2">La información y el sonido de advertencia se actualizarán durante el terremoto.</string>
@@ -1663,7 +1670,7 @@ de sus sesiones de juego"</string>
     <string name="gdpr_msg"><Data>\"Para poder detectar riesgos de seguridad y proteger sus datos, necesitamos recopilar la cantidad necesaria de información sobre su dispositivo. Lea y acepte nuestra &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Política de Privacidad&lt;/a&gt; antes de usar nuestros servicios. En caso de que no nos permita recopilar dicha información, aún podrá usar esta aplicación, pero algunas funciones no estarán disponibles.\"</Data></string>
     <string name="get_detail_by_click">Pulsa para ver detalles</string>
     <string name="get_sys_info">Obteniendo info…</string>
-    <string name="global_wa_setting_alert_dialog_content">Puedes liberar %s</string>
+    <string name="global_wa_setting_alert_dialog_content">Puede liberar %s</string>
     <string name="global_wa_setting_alert_dialog_title">Limpiador de WhatsApp</string>
     <string name="gmscore_support_remind">Active esta función si tiene problemas con el uso de Gmail, Google Maps y otras aplicaciones de Google. Reducirá ligeramente la duración de la batería.</string>
     <string name="gmscore_support_service">Servicios de Google</string>
@@ -1691,12 +1698,11 @@ de sus sesiones de juego"</string>
     <string name="gs_dialog_confirm_close_title">Desactivar</string>
     <string name="gs_forbid_autosync">Restringir sincronización en segundo plano</string>
     <string name="gs_game_ai_record">Grabar usando IA</string>
-    <string name="gs_game_ai_record_subtitle">Puedes comenzar a grabar en la caja de herramientas mientras juegas. Los vídeos con momentos clave se generarán automáticamente y se eliminarán por defecto después de 7 días. También puedes elegir guardar vídeos de forma permanente.</string>
+    <string name="gs_game_ai_record_subtitle">Grabe momentos clave automáticamente y genere videos con momentos destacados de la sesión. Los videos se eliminarán automáticamente después de 7 días. Puede optar por guardarlos de forma permanente después de cada sesión de juego.</string>
     <string name="gs_game_disturb_msg">No Molestar</string>
     <string name="gs_game_duration">Duración</string>
     <string name="gs_game_manual_record">Grabar manualmente</string>
-    <string name="gs_game_manual_record_subtitle">Puedes comenzar a grabar en la caja de herramientas mientras juegas. Se pueden grabar hasta 30 segundos de vídeo después de tocar el botón Grabar. 
-Los vídeos se guardarán en Game Turbo y Momentos clave.</string>
+    <string name="gs_game_manual_record_subtitle">Utilice el atajo flotante para grabar hasta 30 segundos de video a la vez. Los videos se eliminarán automáticamente después de 7 días.</string>
     <string name="gs_game_manual_record_subtitle_child">Podrías encontrar algunos problemas al usar esta función:</string>
     <string name="gs_game_manual_record_subtitle_child_carton">La grabación de tus sesiones de juego requiere un mayor consumo de energía, lo que puede provocar lag.</string>
     <string name="gs_game_manual_record_subtitle_child_conflict">Es posible que otras funciones de grabación de pantalla no funcionen correctamente.</string>
@@ -1729,7 +1735,19 @@ Los vídeos se guardarán en Game Turbo y Momentos clave.</string>
     <string name="gtb_setting_item_title_smart_5g">Optimización de la red 5G</string>
     <string name="gtb_setting_item_title_smart_wlan_speed">Aumento de velocidad de Mi WiFi</string>
     <string name="gtb_spring_festival_back_game">Volver al juego</string>
+    <string name="gtb_spring_festival_egg_obtain_fail">"No se pudo conectarse a la red"</string>
     <string name="gtb_spring_festival_goto_gameturbo">Ver</string>
+    <string name="gtb_spring_festival_guide">"¡Cambia al modo horizontal
+para unirte a nuestra búsqueda de huevos!"</string>
+    <string name="gtb_spring_festival_guide_know">Entendido</string>
+    <string name="gtb_spring_festival_push_active_desc">Gana teléfonos, dispositivos inteligentes y cupones</string>
+    <string name="gtb_spring_festival_push_active_title">¡La búsqueda de huevos de Pascua está en marcha!</string>
+    <string name="gtb_spring_festival_push_desc">Únete a nuestra búsqueda de huevos para ganar premios</string>
+    <string name="gtb_spring_festival_push_egg_title">¡Recibiste un huevo de Pascua!</string>
+    <string name="gtb_spring_festival_push_gift_title">¡Se acercan los premios de la búsqueda de huevos!</string>
+    <string name="gtb_spring_festival_push_join">Unirse</string>
+    <string name="gtb_spring_festival_push_see">Ver</string>
+    <string name="gtb_spring_festival_shortcut_create">Crear acceso directo en la Pantalla de inicio</string>
     <string name="gtb_wlan_speed_tips">Usando Mi WiFi…</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;¿Compañía telefónica equivocada?&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="guide_operator_text">"Tu compañía telefónica actual: "</string>
@@ -2025,6 +2043,7 @@ Su dispositivo es %d%% más rápido ahora."</string>
     <string name="menu_summary_power_manager_4">%s para terminar</string>
     <string name="menu_text_antispam">Lista de bloqueo</string>
     <string name="menu_text_antivirus">Análisis de seguridad</string>
+    <string name="menu_text_antivirus_kddi">Análisis de seguridad</string>
     <string name="menu_text_deepclean_summary">%1$s/%2$s ocupada</string>
     <string name="menu_text_garbage_cleanup">Limpiador</string>
     <string name="menu_text_garbage_cleanup_danger">%s de basura</string>
@@ -2183,13 +2202,13 @@ Lee las instrucciones que vienen con el router y restaura los ajuntes de fábric
 
 \"&lt;b&gt;5. Asegúrate de que tu router está bien conectado&lt;/b&gt;\"
 Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problemas con la conexión de casa, contacta con el proveedor de servicios de Internet."</string>
-    <string name="network_sim_exception_detail">"Podría haber un problema con tu tarjeta SIM:
+    <string name="network_sim_exception_detail">"Puede haber un problema con su tarjeta SIM:
 
- 1. Asegúrate de que la cuenta con tu operador es correcta. Intenta usar la tarjeta SIM de un amigo para ver si puedes conectarte con normalidad.
+1. Asegúrese de que su cuenta esté al corriente con su operador. Intente usar la tarjeta SIM de un amigo y vea si puede conectarse con normalidad.
 
- 2. Si estás usando dos tarjetas SIM, prueba con la otra tarjeta y comprueba si puedes conectarte con normalidad.
+2. Si está usando dos tarjetas SIM, intente cambiar a la otra tarjeta y vea si puede conectarse.
 
- 3. Asegúrate de que tu tarjeta SIM y la ranura SIM del dispositivo no están dañadas. Confirma que la tarjeta SIM que estás usando está debidamente insertada en la ranura SIM de tu dispositivo."</string>
+3. Asegúrese de que su tarjeta SIM y la ranura SIM de su dispositivo no estén dañadas. Compruebe que la tarjeta SIM que está usando esté correctamente insertada en la bandeja SIM de su dispositivo."</string>
     <string name="network_speed_for_apps_close">Forzar detención</string>
     <string name="network_speed_for_apps_close_app_dlg_msg">¿Forzar el cierre de esta aplicación?</string>
     <string name="network_speed_for_apps_close_system_app_dlg_msg">"No se pudo forzar el cierre de aplicaciones del sistema."</string>
@@ -2392,8 +2411,8 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="packages_subtitle">Paquetes incluidos</string>
     <string name="passwordIncorrect">Usuario o contraseña incorrectos</string>
     <string name="password_forget_pattern_confirm">Entendido</string>
-    <string name="password_forget_pattern_message">Por razones de seguridad, solo puedes restablecer tu contraseña después de restaurar los datos de fábrica. Toca para restaurar.</string>
-    <string name="password_forget_pattern_message_none">"Las aplicaciones no están bloqueadas. Puedes restablecer tu contraseña."</string>
+    <string name="password_forget_pattern_message">Por razones de seguridad, solo puede restablecer su contraseña después de restaurar los datos de fábrica. Pulse para restaurar.</string>
+    <string name="password_forget_pattern_message_none">"Las aplicaciones no están bloqueadas. Puede restablecer su contraseña."</string>
     <string name="password_forget_pattern_reset">Restablecer</string>
     <string name="password_forget_pattern_title">Atención</string>
     <string name="password_promotion_not_login_xiaomi_account_message">Añadir Cuenta Mi para restablecer la contraseña en caso de que la olvide.</string>
@@ -2598,8 +2617,8 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="power_center_battery_detail">Detalles</string>
     <string name="power_center_battery_duration">Tiempo restante</string>
     <string name="power_center_battery_hardware">Hardware %s</string>
-    <string name="power_center_battery_health_poor_tip">Parece que el estado de la batería es bajo. Revise su batería en un centro de servicio autorizado</string>
-    <string name="power_center_battery_health_summary">Cargue y descargue completamente su dispositivo de %1$d%2$d veces para mejorar la precisión de las estadísticas de salud de la batería</string>
+    <string name="power_center_battery_health_poor_tip">Parece que el estado de la batería es bajo. Revise su batería en un centro de servicio autorizado.</string>
+    <string name="power_center_battery_health_summary">Cargue y descargue completamente su dispositivo de %1$d a %2$d veces para mejorar la precisión de las estadísticas de salud de la batería</string>
     <string name="power_center_battery_last">%s</string>
     <string name="power_center_battery_level">%s cargado</string>
     <string name="power_center_battery_level_general">Texto normal</string>
@@ -2617,7 +2636,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="power_center_dialog_msg_bottom">Puede aumentar la duración de la batería hasta %1$d h %2$d m. ¿Activar ahorro de batería?</string>
     <string name="power_center_dialog_msg_title">Enciéndalo para obtener %1$s de tiempo extra. Se realizarán las siguientes acciones para ahorrar batería:</string>
     <string name="power_center_dialog_msg_top">Cuando el ahorro de batería está activado, MIUI realizará las siguientes optimizaciones:</string>
-    <string name="power_center_hints_scan_danger_result">Puedes solucionar los problemas de batería ahora</string>
+    <string name="power_center_hints_scan_danger_result">Puede solucionar los problemas de batería</string>
     <string name="power_center_list_item_auto_brightness">Ajustar el brillo de la pantalla automáticamente</string>
     <string name="power_center_list_item_close_bluetooth">Desactivar Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Ajustes avanzados</string>
@@ -2920,6 +2939,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="pref_warning_values">Nivel de aviso del uso de datos</string>
     <string name="pref_whitelist_setting">Excepciones en itinerancia de datos</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
+    <string name="preference_key_antivirus_third_paryty_privacy">clave_antivirus_politica_privacidad_terceros</string>
     <string name="preferred_app_entries_browser">Navegador</string>
     <string name="preferred_app_entries_camera">Cámara</string>
     <string name="preferred_app_entries_dial">Marcar</string>
@@ -2992,8 +3012,8 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="privacy_empty_location">"No ha accedido a la ubicación hoy"</string>
     <string name="privacy_empty_record">"No ha grabado audio hoy"</string>
     <string name="privacy_empty_storage">"No ha accedido al almacenamiento hoy"</string>
-    <string name="privacy_guide_permission_guide_text">Puedes recibir una alerta en la barra de estado cuando las aplicaciones acceden a tu ubicación, graben audio o tomen fotos.</string>
-    <string name="privacy_guide_permission_use_text">MIUI contará y mostrará la cantidad de veces que una aplicación use permisos delicados, incluyendo ubicación, contactos, historial de llamadas y acceso al almacenamiento, así como grabación de audio. Puedes saber cuántas veces utiliza estos permisos cada aplicación y determinar si necesitas ajustar la configuración de los permisos.</string>
+    <string name="privacy_guide_permission_guide_text">Puede recibir una alerta en la barra de estado cuando las aplicaciones acceden a tu ubicación, graben audio o tomen fotos.</string>
+    <string name="privacy_guide_permission_use_text">MIUI contará y mostrará la cantidad de veces que una aplicación use permisos delicados, incluyendo ubicación, contactos, historial de llamadas y acceso al almacenamiento, así como grabación de audio. Puede saber cuántas veces utilizan estos permisos cada aplicación y determinar si necesita ajustar la configuración de los permisos.</string>
     <string name="privacy_informed_title">Estadísticas</string>
     <string name="privacy_location_info_summary">Administrar acceso a tu ubicación</string>
     <string name="privacy_location_info_title">Información de ubicación</string>
@@ -3290,6 +3310,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="see_detail">Detalles</string>
     <string name="see_more_content">Actualizar juegos para ver más destacados</string>
     <string name="select_province_and_city">Elegir ubicación</string>
+    <string name="send">Enviar</string>
     <string name="send_msg_to_query">Envía un mensaje de texto para comprobar</string>
     <string name="set_applock_password">Establecer contraseña</string>
     <string name="set_complete">Establecido con éxito</string>
@@ -3326,7 +3347,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="shortcut_title_scan">Escanear</string>
     <string name="shortcut_title_whatsapp_clean">Limpiador de WhatsApp</string>
     <string name="show_system_app">Mostrar aplicaciones del sistema</string>
-    <string name="show_traffic_dialog_message">La información del consumo de datos se mostrará en la barra de notificaciones. Puedes desactivar esta característica en cualquier momento en Consumo de datos &gt; Ajustes.</string>
+    <string name="show_traffic_dialog_message">La información del consumo de datos se mostrará en la Barra de notificaciones. Puede desactivar esta característica en cualquier momento en Consumo de datos &gt; Ajustes.</string>
     <string name="show_traffic_dialog_title">Mostrar consumo en la barra de notificaciones</string>
     <string name="showpattern">Mostrar patrón</string>
     <string name="shutdown_cancel_reminder">"No se apagó"</string>
@@ -3339,7 +3360,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="signed_rule">Reglas</string>
     <string name="signed_rule_one">1. Regístrate 10, 20 o 28 días seguidos cada mes para obtener aceleración Xunyou 1, 2, o 3 días respectivamente.</string>
     <string name="signed_rule_three">"3. Cada inicio de mes se eliminan los días que te has registrado previamente. Los días restantes no se vuelven a contar."</string>
-    <string name="signed_rule_two">2. Solo puedes obtener 1 aceleración Xunyou por mes.</string>
+    <string name="signed_rule_two">2. Solo puede obtener 1 aceleración Xunyou por mes.</string>
     <string name="sim_location_error_dialog_message">"La SIM que estás usando es de %1$s. Esta ubicación es diferente a la que estableciste manualmente (%2$s). ¿Quieres cambiar la ubicación de la SIM a %3$s?"</string>
     <string name="sim_location_error_notify_message">Toca para cambiar la ubicación de la SIM.</string>
     <string name="sim_location_error_notify_title">Error de tarjeta SIM</string>
@@ -3796,7 +3817,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="system_permission_declare_privacy_no_network">Esta aplicación necesita los siguientes permisos para poder funcionar con normalidad:</string>
     <string name="system_permission_declare_privacy_no_permission">Ten en cuenta que Seguridad necesita conectarse a Internet y recopilar la información personal requerida para poder brindarle servicios. Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.</string>
     <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Para entender completamente tus derechos como usuario, así como las formas en las que usamos tus datos, lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
-    <string name="system_permission_declare_revoke_system">Puedes salir de esta aplicación.</string>
+    <string name="system_permission_declare_revoke_system">Puede salir de esta aplicación.</string>
     <string name="system_permission_declare_revoke_uninstallable">Puede cerrar sesión, desinstalar esta aplicación o revocar su autorización en Seguridad&gt; Administrar aplicaciones&gt; Permisos&gt; Permisos.</string>
     <string name="system_permission_declare_title">Atención</string>
     <string name="system_permission_declare_use_network">Conectarse a la red</string>
@@ -3926,7 +3947,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="title_app_lock_disable">Bloquear aplicaciones</string>
     <string name="title_app_update">Actualizaciones disponibles</string>
     <string name="title_auto_update">Actualizar automáticamente</string>
-    <string name="title_background_connection">"¿No puedes usar %s en segundo plano?"</string>
+    <string name="title_background_connection">"¿No puede usar %s en segundo plano?"</string>
     <string name="title_block_calls_from_cantacts">¿Llamadas perdidas de tus contactos?</string>
     <string name="title_block_calls_from_strangers">¿Lllamadas perdidas importantes?</string>
     <string name="title_chain_start">Restringir inicio en cadena</string>
@@ -3943,7 +3964,7 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="title_dev_no">Opciones de desarrollador activadas</string>
     <string name="title_dev_yes">Opciones de desarrollador desactivadas</string>
     <string name="title_device_not_root">"Acceso root denegado"</string>
-    <string name="title_do_not_disturb">"¿No puedes oír el tono de llamada?"</string>
+    <string name="title_do_not_disturb">"¿No puede oír el tono de llamada?"</string>
     <string name="title_eye_shield">"¿El color de la pantalla no parece el correcto?"</string>
     <string name="title_find_device">Encontrar dispositivo</string>
     <string name="title_first_aid_kit">Solucionar problemas</string>
@@ -4129,7 +4150,7 @@ Los datos restantes incluyen datos excedentes del mes anterior."</string>
     <string name="usb_mount">Montar dispositivo USB</string>
     <string name="usbsharenet_exception_summary">"No se pudo conectar a Internet usando la conexión compartida por USB. Comprueba la conexión USB del dispositivo y reinicia Mi PC Suite."</string>
     <string name="usbsharenet_exception_title">Comprobar conexión compartida por USB</string>
-    <string name="usbsharenet_pc_exception_summary">"No se pudo conectar a Internet usando la conexión compartida por USB. Comprueba la conexión a Internet del ordenador."</string>
+    <string name="usbsharenet_pc_exception_summary">"No se pudo conectar a Internet usando la conexión compartida por USB. Comprueba la conexión a Internet de su computadora."</string>
     <string name="use_immediately">Usar</string>
     <string name="user_define_title">Añadir reglas</string>
     <string name="user_guide">Desliza hacia arriba para descubrir más juegos nuevos</string>

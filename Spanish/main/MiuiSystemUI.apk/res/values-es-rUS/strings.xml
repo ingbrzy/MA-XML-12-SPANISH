@@ -291,7 +291,7 @@
     <string name="activity_not_found">La aplicación no está instalada en tu dispositivo</string>
     <string name="adb_device_fingerprint_title_format">Huella digital del dispositivo: %1$s</string>
     <string name="adb_device_forget">Olvidar</string>
-    <string name="adb_keys_warning_message">"¿Revocar acceso a depuración USB desde todos los ordenadores autorizados?"</string>
+    <string name="adb_keys_warning_message">"¿Revocar acceso a depuración USB desde todas las computadoras autorizadas?"</string>
     <string name="adb_pair_method_code_summary">Emparejar nuevos dispositivos usando un código de seis dígitos</string>
     <string name="adb_pair_method_code_title">Vincular dispositivo con código de vinculación</string>
     <string name="adb_pair_method_qrcode_summary">Emparejar nuevos dispositivos usando un escáner de código QR</string>
@@ -302,7 +302,7 @@
     <string name="adb_pairing_device_dialog_pairing_code_label">Código de sincronización de Wi-Fi</string>
     <string name="adb_pairing_device_dialog_title">Emparejar con dispositivo</string>
     <string name="adb_qrcode_pairing_device_failed_msg">No se pudo emparejar el dispositivo. O el código QR era incorrecto o el dispositivo no está conectado a la misma red.</string>
-    <string name="adb_warning_message">Depuración USB está diseñada solo para fines de desarrollo. Úsala para copiar datos entre tu ordenador y tu dispositivo, instalar apps en tu dispositivo sin notificación y ver datos de registro.</string>
+    <string name="adb_warning_message">Depuración USB está diseñada solo para fines de desarrollo. Úsala para copiar datos entre tu computadora y tu dispositivo, instalar apps en tu dispositivo sin notificación y ver datos de registro.</string>
     <string name="adb_warning_title">¿Permitir la depuración USB?</string>
     <string name="adb_wireless_connection_failed_message">Asegúrese de que %1$s esté conectado a la red correcta</string>
     <string name="adb_wireless_connection_failed_title">Conexión fallida</string>
@@ -311,7 +311,7 @@
     <string name="adb_wireless_error">error</string>
     <string name="adb_wireless_ip_addr_preference_title">Dirección IP &amp; Puerto</string>
     <string name="adb_wireless_list_empty_off">Para ver y usar los dispositivos disponibles, active la depuración inalámbrica</string>
-    <string name="adb_wireless_no_network_msg">Conéctate a una red Wi-Fi</string>
+    <string name="adb_wireless_no_network_msg">Conéctese a una red Wi-Fi</string>
     <string name="adb_wireless_qrcode_pairing_description">Vincula el dispositivo a través de Wi-Fi escaneando un código QR</string>
     <string name="adb_wireless_qrcode_pairing_title">Escanear código QR</string>
     <string name="adb_wireless_qrcode_summary">Vincula el dispositivo a través de Wi-Fi escaneando un código QR</string>
@@ -594,6 +594,7 @@ Vuelva a intentarlo en %d segundo."</string>
     <string name="connected_via_network_scorer_default">Conectado automáticamente vía proveedor de clasificaciones de redes</string>
     <string name="connected_via_passpoint">Conectado vía %1$s</string>
     <string name="content_description_menu_button">Menú</string>
+    <string name="control_center_notification_switch_guide">Deslice el dedo para cambiar entre el Centro de control y el Panel de notificaciones</string>
     <string name="controls_added_tooltip">Mantenga presionado el botón de encendido para ver nuevos controles</string>
     <string name="controls_confirmation_confirming">Confirmando…</string>
     <string name="controls_confirmation_message">Confirmar cambio por %s</string>
@@ -774,10 +775,10 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="failed_to_open_app_settings_toast">"No se pudo abrir los ajustes para: %1$s"</string>
     <string name="fingerprint_add_text">El sistema de huella ha sido actualizado. Añade tu huella de nuevo.</string>
     <string name="fingerprint_add_title">Añadir huella</string>
-    <string name="fingerprint_again_identified_msg">Ya puedes usar tu huella dactilar. Úsala para desbloquear el dispositivo, o introduce la contraseña.</string>
+    <string name="fingerprint_again_identified_msg">Ya puede usar su huella dactilar. Úsela para desbloquear el dispositivo, o introduzca la contraseña.</string>
     <string name="fingerprint_dialog_touch_sensor">Toca el sensor de huellas dactilares</string>
     <string name="fingerprint_enter_second_psw_msg">Introduce contraseña del Segundo espacio después de reiniciar el dispositivo, para poder usar el reconocimiento de huella</string>
-    <string name="fingerprint_enter_second_psw_msg_oldman">"No puedes entrar en el Segundo espacio mientras estás en modo Lite"</string>
+    <string name="fingerprint_enter_second_psw_msg_oldman">"No puede entrar en el Segundo espacio mientras esté en modo Lite"</string>
     <string name="fingerprint_enter_second_psw_title">Introduce contraseña para el Segundo espacio</string>
     <string name="fingerprint_not_identified_msg">Demasiados intentos fallidos. Introduce la contraseña ahora o usa tu huella dactilar en unos segundos.</string>
     <string name="fingerprint_not_identified_msg_lock">Demasiados intentos fallidos. Introduce ahora la contraseña.</string>
@@ -798,7 +799,7 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="fs_gesture_back_ready_title">Volver</string>
     <string name="fs_gesture_final_over">"He terminado"</string>
     <string name="fs_gesture_final_restart">Una vez más</string>
-    <string name="fs_gesture_final_summary">Puedes volver a usar los botones en Ajustes &gt; Pantalla completa</string>
+    <string name="fs_gesture_final_summary">Puede volver a usar los botones en Ajustes &gt; Pantalla completa</string>
     <string name="fs_gesture_final_title">"¡Todo listo!"</string>
     <string name="fs_gesture_finish">¡Genial!</string>
     <string name="fs_gesture_left_back_ready_summary">Desliza hacia la derecha desde el borde</string>
@@ -869,16 +870,16 @@ Si reanudas la conexión de datos móviles, podrían generarse cargos."</string>
     <string name="high_temp_alarm_help_care_steps">Ver pasos de cuidado</string>
     <string name="high_temp_alarm_notify_message">Hay un problema al cargar este dispositivo. Desenchufe el adaptador de corriente y tenga cuidado porque el cable puede estar caliente.</string>
     <string name="high_temp_alarm_title">Desenchufar el cargador</string>
-    <string name="high_temp_dialog_message">"Tu teléfono intentará enfriarse automáticamente. Todavía puedes usar tu teléfono, pero podría funcionar más lentamente.
+    <string name="high_temp_dialog_message">"Su teléfono intentará enfriarse automáticamente. Aún puede usar su teléfono, pero es posible que funcione más lento.
 
-Una vez que el teléfono se haya enfriado, funcionará normalmente."</string>
+Una vez que su teléfono se haya enfriado, funcionará con normalidad."</string>
     <string name="high_temp_notif_message">Algunas funciones están limitadas mientras el teléfono se enfria</string>
     <string name="high_temp_title">El teléfono se está calentando</string>
     <string name="home">Pantalla de Inicio de Ajustes</string>
     <string name="how_to_back_home">Ir a la pantalla de Inicio</string>
     <string name="how_to_switch_recents">Abrir Recientes</string>
     <string name="how_to_use_app_quick">Cómo cambiar entre aplicaciones</string>
-    <string name="how_to_use_app_quick_hide_line_summary">Desliza hacia arriba desde la parte inferior de la pantalla, luego desliza hacia la izquierda o hacia la derecha</string>
+    <string name="how_to_use_app_quick_hide_line_summary">Deslice hacia arriba desde la parte inferior de la pantalla, luego deslice hacia la izquierda o hacia la derecha</string>
     <string name="how_to_use_app_quick_summary">Desliza hacia la izquierda o hacia la derecha desde el indicador de pantalla completa o la parte inferior de la pantalla</string>
     <string name="how_to_use_drawer">Cómo abrir el menú deslizable</string>
     <string name="how_to_use_drawer_summary">Desliza hacia la derecha en la parte superior de la pantalla</string>
@@ -1454,35 +1455,35 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="power_discharge_by_only_short">Hasta %1$s</string>
     <string name="power_discharging_duration">Quedan aproximadamente %1$s (%2$s)</string>
     <string name="power_discharging_duration_enhanced">Quedan aproximadamente %1$s función de su uso (%2$s)</string>
-    <string name="power_notification_controls_description">"Con los controles de notificaciones de energía puedes fijar un nivel de importancia del 0 al 5 para notificaciones de aplicaciones. 
+    <string name="power_notification_controls_description">"Con los controles de notificación de energía, puede establecer un nivel de importancia de 0 a 5 para las notificaciones de una aplicación. 
 
-\"&lt;b&gt;Nivel 5&lt;/b&gt;\" 
+\"<b>Nivel 5</b>\" 
 - Mostrar en la parte superior de la lista de notificaciones 
-- Permitir la interrupción de pantalla completa 
+- Permitir la interrupción de la pantalla completa 
 - Siempre visible 
 
-\"&lt;b&gt;Nivel 4&lt;/b&gt;\" 
-- Evitar la interrupción de pantalla completa 
+\"<b>Nivel 4</b>\" 
+- Evitar la interrupción de la pantalla completa 
 - Siempre visible 
 
-\"&lt;b&gt;Nivel 3&lt;/b&gt;\" 
-- Evitar la interrupción de pantalla completa 
+\"<b>Nivel 3</b>\" 
+- Evitar la interrupción de la pantalla completa 
 - Nunca visible 
 
-\"&lt;b&gt;Nivel 2&lt;/b&gt;\" 
-- Evitar la interrupción de pantalla completa 
+\"<b>Nivel 2</b>\" 
+- Evitar la interrupción de la pantalla completa 
 - Nunca visible 
 - Nunca reproducir sonidos o vibrar 
 
-\"&lt;b&gt;Nivel 1&lt;/b&gt;\" 
-- Evitar la interrupción de pantalla completa 
+\"<b>Nivel 1</b>\" 
+- Evitar la interrupción de la pantalla completa 
 - Nunca visible 
 - Nunca reproducir sonidos o vibrar 
-- Ocultar de la Pantalla de Bloqueo y barra de estado 
-- Mostrar al final de la lista de notificaciones 
+- Ocultar de la pantalla de bloqueo y de la barra de estado 
+- Mostrar en la parte inferior de la lista de notificaciones 
 
-\"&lt;b&gt;Nivel 0&lt;/b&gt;\" 
-- Bloquear todas las notificaciones de la aplicación"</string>
+\"<b>Nivel 0</b>\" 
+- Bloquear todas las notificaciones de la aplicación "</string>
     <string name="power_remaining_charging_duration_only">%1$s restante hasta carga completa</string>
     <string name="power_remaining_duration_only">Quedan alrededor de %1$s</string>
     <string name="power_remaining_duration_only_enhanced">Alrededor de %1$s restante en función de su uso</string>
@@ -1971,8 +1972,8 @@ Tu teléfono podría calentarse de más si:
 Se le notificará cuando pueda volver a utilizar el puerto USB."</string>
     <string name="usb_contaminant_title">Puerto USB desactivado</string>
     <string name="usb_debugging_allow">Permitir</string>
-    <string name="usb_debugging_always">Permitir siempre desde este ordenador</string>
-    <string name="usb_debugging_message">"La huella de la clave del RSA del ordenador es:
+    <string name="usb_debugging_always">Permitir siempre desde esta computadora</string>
+    <string name="usb_debugging_message">"La huella de la clave del RSA de la computadora es:
 %1$s"</string>
     <string name="usb_debugging_secondary_user_message">"El usuario que actualmente inició sesión en este dispositivo no puede activar la depuración USB. Para usar esta función inicia sesión con una cuenta de administrador."</string>
     <string name="usb_debugging_secondary_user_title">Depuración USB no permitida</string>
@@ -1989,7 +1990,7 @@ No se ha concedido permiso de grabación a esta aplicación, pero podría captur
     <string name="use_mtp_button_title">Montar como reproductor multimedia (MTP)</string>
     <string name="use_ptp_button_title">Montar como cámara (PTP)</string>
     <string name="use_system_language_to_select_input_method_subtypes">Usar idioma del sistema</string>
-    <string name="user_add_profile_item_summary">Desde tu cuenta, puedes restringir el acceso a las aplicaciones y al contenido</string>
+    <string name="user_add_profile_item_summary">Desde su cuenta, puede restringir el acceso a las aplicaciones y al contenido</string>
     <string name="user_add_profile_item_title">Perfil restringido</string>
     <string name="user_add_user">Añadir usuario</string>
     <string name="user_add_user_item_summary">Los usuarios tienen contenido y aplicaciones propios</string>

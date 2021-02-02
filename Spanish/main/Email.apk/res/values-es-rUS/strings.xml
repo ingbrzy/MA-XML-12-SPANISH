@@ -301,6 +301,7 @@
     <string name="chat_item_msg_user_etc">etc.</string>
     <string name="check_setup_data">"    Validando configuración del servidor…"</string>
     <string name="choose_an_office365_international">Edición internacional</string>
+    <string name="choose_an_office365_provider">Elija un proveedor de servicios office365</string>
     <string name="choosertitle_sharevia">Compartir usando</string>
     <string name="clear">Limpiar</string>
     <string name="clear_display_images_whitelist_dialog_message">Dejar de mostrar imágenes de remitentes que haya autorizado previamente.</string>
@@ -378,6 +379,7 @@
     <string name="conversation_quick_button_disapprove">Cancelar</string>
     <string name="conversation_quick_button_received">Recibido</string>
     <string name="conversation_report_spam">Notificar spam</string>
+    <string name="conversation_report_un_spam">No spam</string>
     <string name="conversation_spam_dig_msg">¿Marcar este mensaje como spam? El mensaje se moverá a la carpeta \"Spam\" y su remitente se agregará a la lista de bloqueo.</string>
     <string name="conversation_spam_tips">¿Marcar este mensaje como spam?</string>
     <string name="copied">Copiado</string>
@@ -454,6 +456,7 @@
     <string name="edit_quick_response_dialog">Respuesta rápida</string>
     <string name="edit_signature">Editar firma</string>
     <string name="editor_max_length_limit_hint">El mensaje que ingresaste es demasiado largo</string>
+    <string name="email_no_snippet">[Este mensaje no tiene cuerpo de texto]</string>
     <string name="email_sync_failed">"No se pudo sincronizar el correo"</string>
     <string name="eml_parse_message">Abrir archivo EML…</string>
     <string name="empty_account_tip">"No se pudo encontrar la cuenta"</string>
@@ -575,6 +578,8 @@
     <string name="general_preference_text_zoom_normal">Texto normal</string>
     <string name="general_preference_text_zoom_small">Pequeño</string>
     <string name="general_preference_text_zoom_tiny">Diminuto</string>
+    <string name="general_preference_trash_contact">Detección de spam</string>
+    <string name="general_preference_trash_contact_sum">Manejo de cartas de remitentes que han sido reportados en grandes cantidades</string>
     <string name="generic_attachment_problem">"No se puede adjuntar archivo."</string>
     <string name="get_database_exception">"Borre los datos de esta aplicación en Ajustes &gt; Aplicaciones del sistema y vuelva a intentarlo."</string>
     <string name="get_oauth_code">Obtener código</string>
@@ -689,12 +694,27 @@ Confirme si la contraseña de la aplicación está activada; si está activada, 
     <string name="meeting_accepted">"
         Aceptado:
 %s"</string>
+    <string name="meeting_allday">"
+        Cuando:
+        %s
+        (todo el día)
+    "</string>
+    <string name="meeting_allday_recurring">"
+        Cuando:
+        %s
+        (todo el día, recurrente)
+    "</string>
     <string name="meeting_canceled">"
         Cancelado:
 %s "</string>
     <string name="meeting_declined">"
 Declinado:
 %s "</string>
+    <string name="meeting_recurring">"
+        Cuando:
+        %s
+        (recurrente)
+    "</string>
     <string name="meeting_responded_failed">Sin respuesta</string>
     <string name="meeting_tentative">"
         Provisional:
@@ -702,6 +722,14 @@ Declinado:
     <string name="meeting_updated">"
         Actualizado:
 %s "</string>
+    <string name="meeting_when">"
+        Cuando:
+        %s
+    "</string>
+    <string name="meeting_where">"
+        Donde:
+        %s
+    "</string>
     <string name="menu_att_mgr">Adjuntos</string>
     <string name="menu_att_mgr_order_default">Vistos Recientemente</string>
     <string name="menu_att_mgr_order_mime">Formato</string>
@@ -783,6 +811,7 @@ Prueba cambiando a una cuenta de correo diferente."</string>
     <string name="notification_action_undo_archive">Archivado</string>
     <string name="notification_action_undo_delete">Eliminado</string>
     <string name="notification_action_undo_remove_label">Etiqueta eliminada</string>
+    <string name="notification_exchange_calendar_added">Calendario Exchange añadido</string>
     <string name="notify_channel_new_mail">Notificar sobre nuevos mensajes</string>
     <string name="notify_channel_no_disterb">Modo No molestar</string>
     <string name="notify_channel_permission_notice">Permisos requeridos</string>
@@ -1010,7 +1039,7 @@ para recibir recordatorios sobre pagos y viajes"</string>
     <string name="reminder">Recordatorio</string>
     <string name="reminder_picker_title">Recordatorio</string>
     <string name="remote_search_body_too_large_prompt">"Este correo electrónico es demasiado largo.
-Espera hasta que esté completamente sincronizado o veas el mensaje en tu ordenador."</string>
+Espera hasta que esté completamente sincronizado o veas el mensaje en tu computadora."</string>
     <string name="remove_account">Eliminar cuenta</string>
     <string name="remove_folder">Quitar de %1$s</string>
     <string name="remove_star">No favorito</string>
@@ -1229,6 +1258,7 @@ Pulse \"&lt;b&gt;Sincronizar ahora&lt;/b&gt; para sincronizar el correo una vez,
     <string name="wait_for_sync_title">Esperando sincronización</string>
     <string name="wait_help_context">esperar</string>
     <string name="wait_while_update_db">Actualizando base de datos…</string>
+    <string name="web_view_load_error_tip">Se han producido algunos problemas y el cuerpo de este correo electrónico no se puede mostrar correctamente. Si encuentra este problema, agregue el grupo QQ 952315061 para darnos su opinión.</string>
     <string name="webview_logout">Puede volver a intentar iniciar sesión</string>
     <string name="webview_logout_cancel">No volveré a probar más</string>
     <string name="webview_logout_sure">Reintentar</string>

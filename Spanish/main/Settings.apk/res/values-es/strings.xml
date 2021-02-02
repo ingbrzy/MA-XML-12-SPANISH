@@ -192,12 +192,12 @@ No se puede ampliar el teclado ni la barra de navegación.\"</string>
     <string name="accessibility_shortcut_edit_dialog_summary_software">"Toque el botón de accesibilidad %s en la parte inferior de la pantalla.
 
 Para cambiar entre funciones, toque &amp; mantenga presionado el botón de accesibilidad."</string>
-    <string name="accessibility_shortcut_edit_dialog_summary_software_gesture">"Desliza 2 dedos hacia arriba desde la parte inferior de la pantalla.
+    <string name="accessibility_shortcut_edit_dialog_summary_software_gesture">"Deslice 2 dedos hacia arriba desde la parte inferior de la pantalla.
 
-Para cambiar entre funciones, deslice 2 dedos hacia arriba y manténgalo pulsado."</string>
-    <string name="accessibility_shortcut_edit_dialog_summary_software_gesture_talkback">"Desliza 3 dedos hacia arriba desde la parte inferior de la pantalla.
+Para cambiar entre funciones, deslice 2 dedos hacia arriba y mantenga pulsado."</string>
+    <string name="accessibility_shortcut_edit_dialog_summary_software_gesture_talkback">"Deslice 3 dedos hacia arriba desde la parte inferior de la pantalla.
 
-Para cambiar entre funciones, deslice 3 dedos hacia arriba y manténgalo pulsado."</string>
+Para cambiar entre funciones, deslice 3 dedos hacia arriba y mantenga pulsado."</string>
     <string name="accessibility_shortcut_edit_dialog_summary_triple_tap">Toque rápidamente la pantalla 3 veces. Este acceso directo puede ralentizar su dispositivo.</string>
     <string name="accessibility_shortcut_edit_dialog_title_advance">Avanzado</string>
     <string name="accessibility_shortcut_edit_dialog_title_hardware">Mantenga presionadas las teclas de volumen</string>
@@ -355,7 +355,7 @@ Para cambiar entre funciones, deslice 3 dedos hacia arriba y manténgalo pulsado
     <string name="adb_wireless_error">error</string>
     <string name="adb_wireless_ip_addr_preference_title">Dirección IP &amp; Puerto</string>
     <string name="adb_wireless_list_empty_off">Para ver y usar los dispositivos disponibles, active la depuración inalámbrica</string>
-    <string name="adb_wireless_no_network_msg">Conéctate a una red Wi-Fi</string>
+    <string name="adb_wireless_no_network_msg">Por favor, conéctese a una red Wi-Fi</string>
     <string name="adb_wireless_qrcode_pairing_description">Vincula el dispositivo a través de Wi-Fi escaneando un código QR</string>
     <string name="adb_wireless_qrcode_pairing_title">Escanear código QR</string>
     <string name="adb_wireless_qrcode_summary">Vincula el dispositivo a través de Wi-Fi escaneando un código QR</string>
@@ -1138,6 +1138,8 @@ Aplicaciones principales por uso de batería:"</string>
     <string name="bluetooth_enter_passkey_msg">Escriba el código de emparejamiento y luego presione Intro o Entrar</string>
     <string name="bluetooth_enter_passkey_other_device">Es posible que tengas que introducir la clave de acceso en el otro dispositivo.</string>
     <string name="bluetooth_enter_pin_other_device">Es posible que tengas que introducir este PIN en el otro dispositivo.</string>
+    <string name="bluetooth_fastConnect_key_device_id">ID del dispositivo</string>
+    <string name="bluetooth_fastConnect_resource_load">Carga de recursos Bluetooth fastConnect</string>
     <string name="bluetooth_footer_mac_message">"Dirección Bluetooth del teléfono: %1$s"</string>
     <string name="bluetooth_headset_profile_summary_connected">Conectado a audio del teléfono</string>
     <string name="bluetooth_headset_profile_summary_use_for">Usar para audio del teléfono</string>
@@ -1357,7 +1359,7 @@ Calidad de reproducción"</string>
     <string name="bootloader_device_bind_msg">Preparándose para añadir cuenta y dispositivo…</string>
     <string name="bootloader_device_bind_no_account">Primero inicia sesión en tu Cuenta Mi</string>
     <string name="bootloader_device_bind_no_data_network">Apague Wi-Fi y agregue su cuenta y dispositivo usando datos móviles.</string>
-    <string name="bootloader_device_bind_no_network">Conéctate a la red e inténtalo de nuevo</string>
+    <string name="bootloader_device_bind_no_network">Conéctese a la red e inténtelo de nuevo</string>
     <string name="bootloader_device_bind_no_sim">Inserta tarjeta SIM y vuelve a intentarlo.</string>
     <string name="bootloader_device_bind_server_code">"No se pudo añadir. Código de error:"</string>
     <string name="bootloader_device_bind_server_token_expired_1">"No se pudo verificar. Intente agregar su cuenta y dispositivo de nuevo."</string>
@@ -1851,7 +1853,7 @@ Esta información identifica si sus contactos pueden usar ciertas funciones, com
     <string name="controls_subtitle">Cómo reducir el uso de la batería</string>
     <string name="convenience_key_category_title">Control del sistema</string>
     <string name="conversation_category_title">Conversacion</string>
-    <string name="conversation_onboarding_summary">"Una vez que marques una conversación como prioridad o realices cualquier otro cambio en las conversaciones, aparecerán aquí. 
+    <string name="conversation_onboarding_summary">"Una vez que marque una conversación como prioritaria o realice cualquier otro cambio en las conversaciones, aparecerán aquí. 
 
 Para cambiar la configuración de la conversación: 
 Deslice el dedo hacia abajo desde la parte superior de la pantalla para abrir la pantalla desplegable, luego toque &amp; mantenga una conversación."</string>
@@ -1871,7 +1873,7 @@ Deslice el dedo hacia abajo desde la parte superior de la pantalla para abrir la
     <string name="copy">Copiar</string>
     <string name="copyable_slice_toast">%1$s se ha copiado en el portapapeles.</string>
     <string name="copyright_title">Derechos de autor</string>
-    <string name="corner_assistant_gesture_summary">Desliza hacia arriba desde la esquina inferior izquierda o inferior derecha para activar el Asistente de Google</string>
+    <string name="corner_assistant_gesture_summary">Deslice hacia arriba desde la esquina inferior izquierda o inferior derecha para activar el Asistente de Google</string>
     <string name="corner_assistant_gesture_title">Deslizar desde una esquina para abrir el Asistente de Google</string>
     <string name="country_name">%s (sistema)</string>
     <string name="create">Crear</string>
@@ -1894,7 +1896,7 @@ Deslice el dedo hacia abajo desde la parte superior de la pantalla para abrir la
     <string name="credentials_title">Almacenamiento de credenciales</string>
     <string name="credentials_title_verification">Verificación</string>
     <string name="crisp_text">Las altas frecuencias añaden claridad a los detalles de cada acción</string>
-    <string name="critical_feedback">Retroalimentación crítica</string>
+    <string name="critical_feedback">Retroalimentación extrema</string>
     <string name="cross_profile_calendar_summary">Mostrar eventos de trabajo en tu calendario personal</string>
     <string name="cross_profile_calendar_title">Calendario con varios perfiles</string>
     <string name="crypt_keeper_button_text">Cifrar teléfono</string>
@@ -2554,7 +2556,7 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="edge_mode_screenshot_summary">Toca dos veces en ambos bordes para hacer una captura de pantalla</string>
     <string name="edge_mode_state_summary">"El área alrededor de los bordes curvos no responderá al tacto"</string>
     <string name="edge_mode_state_title">Ignora el toque accidental en los bordes</string>
-    <string name="edge_to_edge_navigation_summary">Para ir a la pantalla de inicio, desliza el dedo hacia arriba desde la parte inferior de la pantalla. Para cambiar de aplicación, desliza el dedo hacia arriba desde la parte inferior de la pantalla, mantenla pulsada y levanta el dedo. Para ir atrás, desliza el dedo desde el borde izquierdo o el derecho.</string>
+    <string name="edge_to_edge_navigation_summary">Para ir a Inicio, deslice el dedo hacia arriba desde la parte inferior de la pantalla. Para cambiar de aplicación, deslice el dedo hacia arriba desde la parte inferior, mantenga presionado y luego suelte. Para volver, deslice el dedo desde el borde izquierdo o derecho.</string>
     <string name="edge_to_edge_navigation_title">Navegación por gestos</string>
     <string name="edit_rule">Editar reglas</string>
     <string name="edit_rules">Editar</string>
@@ -3049,7 +3051,7 @@ No parecía que en aquel lugar hubiese caballos ni animales de ningún tipo, pue
     <string name="freeform_guide_notification_drop_down_summary">Mantén pulsado y luego despliega la barra de acción de una notificación</string>
     <string name="freeform_guide_notification_drop_down_title">Abrir ventanas flotantes</string>
     <string name="freeform_guide_settings">Ventana flotante</string>
-    <string name="freeform_guide_slide_up_to_close_summary">Desliza hacia arriba desde la barra de acción de una ventana flotante</string>
+    <string name="freeform_guide_slide_up_to_close_summary">Deslice hacia arriba desde la barra de acción de una ventana flotante</string>
     <string name="freeform_guide_slide_up_to_close_title">Cerrar ventanas flotantes</string>
     <string name="freeform_vedio_description">"·Mantén pulsado y luego despliega una notificación para abrirla en una ventana flotante.
 ·Toca \"Ventanas flotantes\" en Recientes para seleccionar aplicaciones."</string>
@@ -3200,6 +3202,7 @@ Cuando activa la copia de seguridad automática, los datos del dispositivo y de 
     <string name="haptic_switch_title">Retroalimentación háptica</string>
     <string name="haptic_text_edit_popup_13_content_description">Menú emergente</string>
     <string name="haptic_upper_right_menu_15_content_description">Menú desplegable</string>
+    <string name="haptic_video_content_description">Vídeo demostración de retroalimentación háptica</string>
     <string name="haptic_volume_adjustment_14_content_description">Ajuste de volúmen</string>
     <string name="hardkeyboard_category">Ajustes del teclado físico</string>
     <string name="hardware_info">Modelo &amp; hardware</string>
@@ -4199,13 +4202,13 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="miheadset_LeftEar">Izquierda</string>
     <string name="miheadset_RightEar">Derecha</string>
     <string name="miheadset_active">Energético</string>
-    <string name="miheadset_audio_mode">modo audio</string>
-    <string name="miheadset_audio_mode_high">alta calidad</string>
-    <string name="miheadset_audio_mode_listen">escuche</string>
-    <string name="miheadset_audio_mode_normal">modo normal</string>
-    <string name="miheadset_audio_mode_summary">cambiar modo audio</string>
-    <string name="miheadset_auto_ack_mode">modo de reconocimiento automático</string>
-    <string name="miheadset_auto_ack_mode_summary">teléfono en modo escucha automático</string>
+    <string name="miheadset_anc_indicate">Conectar y emparejar auriculares</string>
+    <string name="miheadset_audio_mode">Calidad de audio</string>
+    <string name="miheadset_audio_mode_high">Alto</string>
+    <string name="miheadset_audio_mode_listen">Bajo</string>
+    <string name="miheadset_audio_mode_normal">Estándar</string>
+    <string name="miheadset_auto_ack_mode">"Responde llamadas automáticamente cuando llevas puestos los auriculares"</string>
+    <string name="miheadset_auto_ack_mode_summary">Responde las llamadas automáticamente</string>
     <string name="miheadset_bright">Brillante</string>
     <string name="miheadset_call_assist">Mi IA</string>
     <string name="miheadset_cancel_device">Cancelar</string>
@@ -4217,10 +4220,9 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="miheadset_define_self">Personalizado</string>
     <string name="miheadset_disconnect">Desconectar</string>
     <string name="miheadset_disconnect_device">¿Desconectar este dispositivo?</string>
-    <string name="miheadset_double_click_key_mode">modo de tecla de doble clic</string>
-    <string name="miheadset_double_click_key_mode_summary">cambiar mapa de teclas de doble clic</string>
+    <string name="miheadset_double_click_key_mode">Doble toque</string>
     <string name="miheadset_double_click_left">Toca dos veces el auricular izquierdo</string>
-    <string name="miheadset_double_click_right">Toca dos veces el auricular izquierdo</string>
+    <string name="miheadset_double_click_right">Toque dos veces el auricular derecho</string>
     <string name="miheadset_enhence_high">Agudos mejorados</string>
     <string name="miheadset_enhence_low">Graves mejorados</string>
     <string name="miheadset_equalizer">Ecualizador</string>
@@ -4248,21 +4250,20 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="miheadset_in_ear_check_summary">Pausar y reanudar la reproducción automáticamente mientras usa o se quita los auriculares</string>
     <string name="miheadset_last_version">El firmware está actualizado</string>
     <string name="miheadset_local_ota">Actualizar</string>
-    <string name="miheadset_minus">menos</string>
+    <string name="miheadset_minus">Bajar volumen</string>
     <string name="miheadset_moreSettingsInAi">Ajustes adicionales</string>
-    <string name="miheadset_multi_connect_mode">modo de conexión múltiple</string>
-    <string name="miheadset_multi_connect_mode_summary">conectar más de un dispositivo al mismo tiempo</string>
+    <string name="miheadset_multi_connect_mode">Multipunto</string>
+    <string name="miheadset_multi_connect_mode_summary">Conéctese a varios dispositivos al mismo tiempo</string>
     <string name="miheadset_next">Siguiente pista</string>
     <string name="miheadset_ok_device">Aceptar</string>
     <string name="miheadset_openAnc">Supresión de ruido</string>
     <string name="miheadset_play_pause">Reproducir/Pausar</string>
-    <string name="miheadset_plus">más</string>
+    <string name="miheadset_plus">Subir el volumen</string>
     <string name="miheadset_rename">Cambiar nombre</string>
     <string name="miheadset_rename_device">Renombrar</string>
     <string name="miheadset_soft">Suave</string>
     <string name="miheadset_transparent">Transparencia</string>
-    <string name="miheadset_triple_click_key_mode">modo de tecla de triple clic</string>
-    <string name="miheadset_triple_click_key_mode_summary">mapa de teclas de triple clic</string>
+    <string name="miheadset_triple_click_key_mode">Triple toque</string>
     <string name="miheadset_unpair_device_text">%1$s se desvinculará de todos los dispositivos asociados con esta Mi Cuenta.</string>
     <string name="mipush_fake_channel_group_name">Mi empuje</string>
     <string name="misc_files">Archivos variados</string>
@@ -4530,7 +4531,7 @@ Selecciona tu sistema operativo:"</string>
     <string name="natural_haptic">Toque natural</string>
     <string name="natural_haptic_summary">Los nuevos patrones de retroalimentación háptica aportan una dimensión adicional a todo lo que ve y toca en la pantalla.</string>
     <string name="nature_color">Predeterminado</string>
-    <string name="navigation_guide_app_quick_switch_hide_line_summary">Desliza hacia arriba desde la parte inferior de la pantalla, luego desliza hacia la izquierda o hacia la derecha</string>
+    <string name="navigation_guide_app_quick_switch_hide_line_summary">Deslice hacia arriba desde la parte inferior de la pantalla, luego deslice hacia la izquierda o hacia la derecha</string>
     <string name="navigation_guide_app_quick_switch_summary">Desliza el dedo hacia la izquierda o hacia la derecha desde el indicador de pantalla completa o la parte inferior de la pantalla</string>
     <string name="navigation_guide_app_quick_switch_title">Cambiar entre aplicaciones</string>
     <string name="navigation_guide_app_summary">Desliza a la izquierda o derecha desde el borde de la pantalla en la parte superior</string>
@@ -4545,15 +4546,15 @@ Selecciona tu sistema operativo:"</string>
     <string name="navigation_guide_dialog_dont_show_again">"No mostrar de nuevo"</string>
     <string name="navigation_guide_dialog_ok">Aprender</string>
     <string name="navigation_guide_dialog_skip">Ahora no</string>
-    <string name="navigation_guide_dialog_summary">Aprende qué gestos puedes usar para navegar por el sistema.</string>
+    <string name="navigation_guide_dialog_summary">Aprenda qué gestos puede usar para la navegación del sistema.</string>
     <string name="navigation_guide_dialog_title">Aprender gestos</string>
     <string name="navigation_guide_gesture_line_dialog_summary">Se usará un nuevo gesto para cambiar entre aplicaciones después de ocultar el indicador de pantalla completa. Aprende este gesto ahora?</string>
     <string name="navigation_guide_gesture_line_dialog_title">Aprende un nuevo gesto</string>
     <string name="navigation_guide_hide_gesture_line_summary">"No mostrar el indicador de pantalla completa al usar gestos a pantalla completa"</string>
     <string name="navigation_guide_hide_gesture_line_title">Ocultar indicador de pantalla completa</string>
-    <string name="navigation_guide_home_summary">Desliza hacia arriba desde la parte inferior de la pantalla</string>
+    <string name="navigation_guide_home_summary">Deslice hacia arriba desde la parte inferior de la pantalla</string>
     <string name="navigation_guide_home_title">Ir a la pantalla de inicio</string>
-    <string name="navigation_guide_recent_summary">Desliza hacia arriba desde la parte inferior de la pantalla y pausar</string>
+    <string name="navigation_guide_recent_summary">Deslice hacia arriba desde la parte inferior de la pantalla y haga una pausa</string>
     <string name="navigation_guide_recent_title">Abrir Recientes</string>
     <string name="navigation_guide_settings">Demo de gestos</string>
     <string name="navigation_type_radio_text_full_screen">Gestos a pantalla completa</string>
@@ -4924,7 +4925,7 @@ También concede a la aplicación la capacidad de activar o desactivar el modo N
     <string name="oem_unlock_enable">Desbloqueo de OEM</string>
     <string name="oem_unlock_enable_disabled_summary_bootloader_unlocked">El gestor de arranque ya está desbloqueado</string>
     <string name="oem_unlock_enable_disabled_summary_connectivity">Conectarse a Internet primero</string>
-    <string name="oem_unlock_enable_disabled_summary_connectivity_or_locked">Conéctate a Internet o ponte en contacto con el operador</string>
+    <string name="oem_unlock_enable_disabled_summary_connectivity_or_locked">Conéctese a Internet o pongase en contacto con su operador</string>
     <string name="oem_unlock_enable_disabled_summary_sim_locked_device">No disponible en dispositivos bloqueados por operadores</string>
     <string name="oem_unlock_enable_summary">Permitir el desbloqueo de bootloader</string>
     <string name="off">Desactivado</string>
@@ -7017,7 +7018,7 @@ Considera usar una ^1 para mejorar el rendimiento."</string>
     <string name="swipe_direction_title">Acciones al deslizar el dedo</string>
     <string name="swipe_up_to_switch_apps_suggestion_summary">Enciende el nuevo gesto para cambiar de aplicación.</string>
     <string name="swipe_up_to_switch_apps_suggestion_title">Prueba el nuevo botón de inicio</string>
-    <string name="swipe_up_to_switch_apps_summary">Para cambiar de aplicación, desliza hacia arriba el botón de Inicio. Desliza hacia arriba de nuevo para ver todas las aplicaciones. Funciona desde cualquier pantalla. Ya no tendrás un botón de Información general en la parte inferior derecha de tu pantalla.</string>
+    <string name="swipe_up_to_switch_apps_summary">Para cambiar de aplicación, deslice el dedo hacia arriba en el botón Inicio. Para ver todas las aplicaciones, vuelva a deslizar hacia arriba. Para volver, pulse el botón atrás.</string>
     <string name="swipe_up_to_switch_apps_title">Desliza el botón de inicio hacia arriba</string>
     <string name="switchNetworkToast">La conexión a redes móviles puede generar tarifas adicionales</string>
     <string name="switch_access_service_on">Cambio de acceso</string>
@@ -7510,7 +7511,7 @@ Las huellas dactilares guardadas también se eliminarán del perfil y no podrá 
     <string name="usb_control_device">Este dispositivo</string>
     <string name="usb_control_host">Dispositivo conectado</string>
     <string name="usb_control_title">USB controlado por</string>
-    <string name="usb_default_info">Cuando otro dispositivo esté conectado y su teléfono esté desbloqueado, se aplicarán estas configuraciones. Solo conéctate a dispositivos de confianza.</string>
+    <string name="usb_default_info">Cuando otro dispositivo esté conectado y su teléfono esté desbloqueado, se aplicarán estas configuraciones. Conéctese únicamente a dispositivos en los que confie.</string>
     <string name="usb_default_label">Configuración USB predeterminada</string>
     <string name="usb_eject">Expulsar almacenamiento USB</string>
     <string name="usb_eject_summary">Expulsar almacenamiento USB para extraerlo con seguridad</string>
@@ -7697,6 +7698,7 @@ Toca en más para añadir palabras."</string>
     <string name="users_summary">Has iniciado sesión como %1$s</string>
     <string name="v7_preference_off">APAGADO</string>
     <string name="v7_preference_on">ENCENDIDO</string>
+    <string name="var_font_switch_title">Fuente variable de todo el sistema</string>
     <string name="verify_apps_over_usb_summary">Verificar comportamiento dañino de apps instaladas via ADB/ADT.</string>
     <string name="verify_apps_over_usb_title">Verificar apps a través de USB</string>
     <string name="version_text">versión %1$s</string>
@@ -8495,7 +8497,9 @@ Toca\" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi.</string>
     <string name="wifi_switch_to_gsm_message">Conexión a Wi-Fi perdida. ¿Usar la conexión de datos móviles en su lugar?</string>
     <string name="wifi_switch_to_gsm_title">¿Usar GSM?</string>
     <string name="wifi_tap_to_sign_in">Toca aquí para iniciar sesión en la red</string>
+    <string name="wifi_tether_checkbox_kddi_text">Anclaje a red Wi-Fi</string>
     <string name="wifi_tether_checkbox_text">Zona Wi-Fi portátil</string>
+    <string name="wifi_tether_configure_ap_kddi_text">Configurar anclaje a red Wi-Fi</string>
     <string name="wifi_tether_configure_ap_text">Configurar zona Wi-Fi portátil</string>
     <string name="wifi_tether_configure_subtext">%1$s %2$s portátil</string>
     <string name="wifi_tether_enabled_subtext">%1$s está activa</string>
@@ -8581,6 +8585,7 @@ Toca\" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi.</string>
     <string name="wizard_back">Volver</string>
     <string name="wizard_finish">Finalizar</string>
     <string name="wizard_next">Siguiente</string>
+    <string name="wlan_scanner_unresizeble">"No se pueden mostrar los ajustes del Wi-Fi en el modo de pantalla dividida"</string>
     <string name="words_title">Texto</string>
     <string name="work_alarm_ringtone_title">Sonido de alarma de trabajo predeterminado</string>
     <string name="work_mode_label">Modo de trabajo</string>

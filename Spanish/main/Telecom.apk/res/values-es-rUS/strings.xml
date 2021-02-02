@@ -48,7 +48,7 @@
     <string name="active_input_method_subtypes">Métodos de introducción activos</string>
     <string name="adb_device_fingerprint_title_format">Huella digital del dispositivo: %1$s</string>
     <string name="adb_device_forget">Olvidar</string>
-    <string name="adb_keys_warning_message">¿Quieres revocar el acceso a la depuración por USB de todos los ordenadores que has autorizado?</string>
+    <string name="adb_keys_warning_message">¿Quieres revocar el acceso a la depuración por USB de todos las computadoras que has autorizado?</string>
     <string name="adb_pair_method_code_summary">Emparejar nuevos dispositivos usando un código de seis dígitos</string>
     <string name="adb_pair_method_code_title">Vincular dispositivo con código de vinculación</string>
     <string name="adb_pair_method_qrcode_summary">Emparejar nuevos dispositivos usando un escáner de código QR</string>
@@ -59,7 +59,7 @@
     <string name="adb_pairing_device_dialog_pairing_code_label">Código de sincronización de Wi-Fi</string>
     <string name="adb_pairing_device_dialog_title">Emparejar con dispositivo</string>
     <string name="adb_qrcode_pairing_device_failed_msg">No se pudo emparejar el dispositivo. O el código QR era incorrecto o el dispositivo no está conectado a la misma red.</string>
-    <string name="adb_warning_message">La depuración por USB solo está indicada para actividades de desarrollo. Puedes utilizarla para intercambiar datos entre el ordenador y el dispositivo, para instalar aplicaciones en el dispositivo sin recibir notificaciones y para leer datos de registro.</string>
+    <string name="adb_warning_message">La depuración por USB solo está indicada para actividades de desarrollo. Puedes utilizarla para intercambiar datos entre la computadora y el dispositivo, para instalar aplicaciones en el dispositivo sin recibir notificaciones y para leer datos de registro.</string>
     <string name="adb_warning_title">¿Permitir depuración por USB?</string>
     <string name="adb_wireless_connection_failed_message">Asegúrese de que %1$s esté conectado a la red correcta</string>
     <string name="adb_wireless_connection_failed_title">Conexión fallida</string>
@@ -68,7 +68,7 @@
     <string name="adb_wireless_error">error</string>
     <string name="adb_wireless_ip_addr_preference_title">Dirección IP &amp; Puerto</string>
     <string name="adb_wireless_list_empty_off">Para ver y usar los dispositivos disponibles, active la depuración inalámbrica</string>
-    <string name="adb_wireless_no_network_msg">Conéctate a una red Wi-Fi</string>
+    <string name="adb_wireless_no_network_msg">Por favor, conéctese a una red Wi-Fi</string>
     <string name="adb_wireless_qrcode_pairing_description">Vincula el dispositivo a través de Wi-Fi escaneando un código QR</string>
     <string name="adb_wireless_qrcode_pairing_title">Escanear código QR</string>
     <string name="adb_wireless_qrcode_summary">Vincula el dispositivo a través de Wi-Fi escaneando un código QR</string>
@@ -214,7 +214,7 @@ Frecuencia de muestreo"</string>
     <string name="bluetooth_show_devices_without_names">Mostrar dispositivos Bluetooth sin nombre</string>
     <string name="bluetooth_show_devices_without_names_summary">Se mostrarán dispositivos Bluetooth sin nombre (solo direcciones MAC)</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
-    <string name="bluetooth_talkback_computer">Ordenador</string>
+    <string name="bluetooth_talkback_computer">Computadora</string>
     <string name="bluetooth_talkback_headphone">Auriculares</string>
     <string name="bluetooth_talkback_headset">Cascos</string>
     <string name="bluetooth_talkback_imaging">Escáner</string>
@@ -374,8 +374,8 @@ Frecuencia de muestreo"</string>
     <string name="launch_defaults_some">Se han establecido algunos valores predeterminados</string>
     <string name="loading_injected_setting_summary">Cargando…</string>
     <string name="local_backup_password_summary_change">Toca para cambiar o quitar la contraseña de las copias de seguridad completas del escritorio</string>
-    <string name="local_backup_password_summary_none">Las copias de seguridad completas de ordenador no están protegidas</string>
-    <string name="local_backup_password_title">Contraseña para copias de ordenador</string>
+    <string name="local_backup_password_summary_none">Las copias de seguridad completas de escritorio no están protegidas actualmente</string>
+    <string name="local_backup_password_title">Contraseña de respaldo de escritorio</string>
     <string name="local_backup_password_toast_confirmation_mismatch">La nueva contraseña y la de confirmación no coinciden</string>
     <string name="local_backup_password_toast_success">Nueva contraseña de seguridad establecida</string>
     <string name="local_backup_password_toast_validation_failure">Error al establecer la contraseña de seguridad</string>
