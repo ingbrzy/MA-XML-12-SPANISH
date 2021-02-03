@@ -197,8 +197,8 @@ Después de crear una nueva pregunta de seguridad y confirmar su fecha de nacimi
     <string name="findlost_contact">Restaurar contactos</string>
     <string name="findlost_contact_online">Restaurar contactos desde Xiaomi Cloud</string>
     <string name="flash_drive_backup_btn">Copiar en una unidad USB</string>
-    <string name="flash_drive_backup_note">"Copia las aplicaciones en una unidad USB.
-Asegúrate de que la unidad USB tiene espacio suficiente antes de iniciar."</string>
+    <string name="flash_drive_backup_note">"Copie las aplicaciones en una unidad USB.
+Asegúrese de que la unidad USB tiene espacio suficiente antes de iniciar."</string>
     <string name="flash_drive_backup_restore">Copias de seguridad USB</string>
     <string name="flash_drive_connection_failed">Unidad USB desconectada</string>
     <string name="flash_drive_restore_btn">Restaurar desde una unidad USB</string>
@@ -355,7 +355,7 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="new_task_finished">Hecho</string>
     <string name="new_usb_detail_description">"Nota:
 %1$d. Este método permite hacer copias de seguridad de aplicaciones y datos de aplicaciones de terceros.
-%2$d. Asegúrate de que haya suficiente espacio de almacenamiento en tu unidad USB para guardar las copias de seguridad."</string>
+%2$d. Asegúrese de que haya suficiente espacio de almacenamiento en su unidad USB para guardar las copias de seguridad."</string>
     <string name="new_usb_disconnect_dialog_message">Conecta primero una unidad USB.</string>
     <string name="new_usb_disconnect_dialog_title">"No se pudo encontrar una unidad USB"</string>
     <string name="new_usb_select_data_no_space">Solo hay disponible %s de almacenamiento en tu unidad USB. Libera espacio de almacenamiento.</string>
@@ -492,7 +492,7 @@ Libere al menos %s."</string>
     <string name="succeed">Completado</string>
     <string name="summary_err_backup_encrypting">Iniciar sesión en Cuenta Mi.</string>
     <string name="summary_err_backup_no_network">"No se pudo conectar a la red"</string>
-    <string name="summary_err_restore_encrypting">"No se pudo restaurar. Asegúrate de que esta copia se realizó utilizando Cuenta Mi."</string>
+    <string name="summary_err_restore_encrypting">"No se pudo restaurar. Asegúrese de que esta copia se realizó utilizando su Cuenta Mi."</string>
     <string name="summary_err_restore_no_network">"No se pudo conectar a la red"</string>
     <string name="system_backup">Copia de seguridad</string>
     <string name="system_backup_info">Ajustes de sistema y disposición de escritorio</string>
@@ -591,7 +591,7 @@ para descargar e instalar Mi Mover."</string>
     <string name="trans_intro_desc_3">Cancela la transferencia, sal de Mi Mover y vuelve a empezar. Los archivos duplicados se sobrescribirán en la nueva transferencia.</string>
     <string name="trans_intro_desc_4">"Mi Mover usa Wi-Fi para transferir archivos, por eso, no puede conectarse a internet con Wi-Fi durante la transferencia pero sí puede utilizar datos móviles. Algunos nuevos dispositivos (Mi 6, por ej.) sí podrían conectarse a internet con Wi-Fi durante las transferencias."</string>
     <string name="trans_intro_desc_4_market">"Mi Mover usa la red Wi-Fi para transferir archivos. Es por eso que no se puede conectarse a internet usando Wi-Fi mientras se realiza una transferencia. Aún así, puede usar los datos móviles."</string>
-    <string name="trans_intro_desc_5">Se utiliza espacio de almacenamiento del dispositivo antiguo para crear paquetes de transferencia. Asegúrate de que tienes entre 500MB - 1GB de espacio disponible en tu teléfono antiguo antes de empezar.</string>
+    <string name="trans_intro_desc_5">El espacio de almacenamiento de los dispositivos antiguos se utiliza para crear paquetes de transferencia. Asegúrese de tener al menos 500 Mb - 1 Gb de almacenamiento disponible en su anterior teléfono antes de iniciar una transferencia.</string>
     <string name="trans_intro_desc_6">Razones posibles son: problemas de compatibilidad de sistema y versión de la aplicación, problemas de red, problemas de compatibilidad específicos de un dispositivo particular, etc.</string>
     <string name="trans_intro_desc_7">Algunos perfiles de aplicaciones (e-banking, finanzas, etc) están asociados a un dispositivo específico por razones de seguridad. Prueba a borrar los datos de la aplicación o a reinstalarla en un nuevo dispositivo.</string>
     <string name="trans_intro_desc_8">"Los datos de WeChat y el historial de chat podrían no transferirse completamente con Mi Mover. Ve a los ajustes de WeChat y cierra sesión para tener más oportunidades de éxito."</string>
@@ -691,8 +691,8 @@ Selecciona solo elementos importantes para acelerar la transferencia."</string>
     <string name="trans_sender">"Soy el remitente"</string>
     <string name="trans_sender_connectting">Confirmar el nuevo dispositivo</string>
     <string name="trans_sender_searching">Buscando nuevos dispositivos</string>
-    <string name="trans_sender_searching_ensurance">"Asegúrate de que el antiguo dispositivo esté encendido
-Esperando al antiguo dispositivo para conectarse…"</string>
+    <string name="trans_sender_searching_ensurance">"Asegúrese de que el anterior dispositivo esté encendido
+Esperando que el anterior dispositivo se conecte…"</string>
     <string name="trans_sender_time_remained">"%s restante.
 No apague el Wi-Fi.
 Mantenga los dispositivos cerca el uno del otro."</string>
@@ -714,13 +714,13 @@ Mantenga los dispositivos cerca el uno del otro."</string>
     <string name="trans_time_spent">Tiempo utilizado: %s</string>
     <string name="trans_wait_trans_data">"Conectado al dispositivo antiguo.
 Esperando la transferencia…"</string>
-    <string name="trans_waiting_ensurance">"Asegúrate de que el dispositivo antiguo esté encendido
+    <string name="trans_waiting_ensurance">"Asegúrese de que el dispositivo antiguo esté encendido
 y Mi Mover esté activado"</string>
     <string name="trans_waiting_for_sender">Esperando al dispositivo antiguo para conectar…</string>
     <string name="trans_wlan_tips_message">"No apague el Wi-Fi ni cambie a otras redes Wi-Fi durante la transferencia. De lo contrario, Mi Mover no podrá transferir datos."</string>
     <string name="trans_wlan_tips_title">"No apague el Wi-Fi"</string>
     <string name="unknown_hint">Desconocido</string>
-    <string name="usb_backup_select_data_too_large">"Los archivos seleccionados son grandes. Asegúrate de que la unidad USB tiene suficiente espacio.
+    <string name="usb_backup_select_data_too_large">"Los archivos seleccionados son grandes. Asegúrese de que la unidad USB tiene suficiente espacio.
 Transferir solo elementos importantes."</string>
     <string name="usb_restore_select_data_too_large">"Los archivos copiados son grandes. Llevará tiempo restaurarlos.
 Restaurar solo los elementos importantes será más rápido."</string>
@@ -744,7 +744,7 @@ pulse \"Soy un emisor\" y seleccione un punto de acceso para conectar.
 No cierre la página antes de establecer la conexión."</string>
     <string name="waiting">Un momento…</string>
     <string name="wifi_title">Ajustes de Wi-Fi</string>
-    <string name="xiaomi_connect_download_manager_fail">"No se pudo iniciar la descarga. Asegúrate de que el Administrador de Descargas funciona con normalidad."</string>
+    <string name="xiaomi_connect_download_manager_fail">"No se pudo iniciar la descarga. Asegúrese de que el Administrador de Descargas funciona con normalidad."</string>
     <string name="xiaomi_external_storage_unavailable">"Almacenamiento no disponible, comprueba tu tarjeta SD."</string>
     <string name="xiaomi_update_dialog_message">"Presentando la versión %1$s
 Tamaño:%2$s"</string>
