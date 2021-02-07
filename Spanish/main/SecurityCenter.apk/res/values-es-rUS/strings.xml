@@ -29,7 +29,7 @@
     <string name="Setting_lock">Ajustes</string>
     <string name="Settings_title_anti_spam">Ajustes de la lista de bloqueo</string>
     <string name="Settings_title_anti_virus">Ajustes de análisis de seguridad</string>
-    <string name="Settings_title_anti_virus_kddi">Ajustes de análisis de seguridad</string>
+    <string name="Settings_title_anti_virus_kddi">Ajustes del análisis de seguridad</string>
     <string name="Settings_title_garbage_cleanup">Ajustes del Limpiador</string>
     <string name="Settings_title_network_assistants">Ajustes de uso de datos</string>
     <string name="Settings_title_power_center">Ajustes de la batería</string>
@@ -186,7 +186,7 @@
     <string name="antivirus_privacy_dialog_ok">Aceptar</string>
     <string name="antivirus_privacy_dialog_summary">Esta función está impulsada por un motor antivirus de terceros. Para aprender más, lee el Acuerdo de Licencia proporcionado por el servicio de terceros.</string>
     <string name="antivirus_privacy_dialog_summary_kddi"><Data>\"Cuando se está realizando un análisis de seguridad, su modelo de dispositivo y resultados del análisis se subirán a los servidores de %1$s y serán usados de acuerdo con los correspondientes &lt;a href=\"%2$s\"&gt;términos y condiciones&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Lea y acepte 
-%3$s términos y condiciones antes de realizar análisis de seguridad.&lt;br/&gt;&lt;br/&gt;Si no acepta subir los datos en los servidores de %4$s, podrá seguir usando definiciones de virus almacenadas en su dispositivo.\"</Data></string>
+%3$s los correspondientes términos y condiciones antes de realizar el análisis de seguridad.&lt;br/&gt;&lt;br/&gt;Si no acepta subir los datos en los servidores de %4$s, podrá seguir usando definiciones de virus almacenadas en su dispositivo.\"</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">Política de Privacidad</string>
     <string name="antivirus_privacy_dialog_title">Política de Privacidad</string>
     <string name="antivirus_privacy_dialog_title_kddi">Términos y condiciones</string>
@@ -2617,7 +2617,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="power_center_battery_detail">Detalles</string>
     <string name="power_center_battery_duration">Tiempo restante</string>
     <string name="power_center_battery_hardware">Hardware %s</string>
-    <string name="power_center_battery_health_poor_tip">Parece que el estado de la batería es bajo. Revise su batería en un centro de servicio autorizado.</string>
+    <string name="power_center_battery_health_poor_tip">Parece que la salud de la batería esta baja. Revise su batería en un centro de servicio autorizado.</string>
     <string name="power_center_battery_health_summary">Cargue y descargue completamente su dispositivo de %1$d a %2$d veces para mejorar la precisión de las estadísticas de salud de la batería</string>
     <string name="power_center_battery_last">%s</string>
     <string name="power_center_battery_level">%s cargado</string>
@@ -2939,7 +2939,6 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="pref_warning_values">Nivel de aviso del uso de datos</string>
     <string name="pref_whitelist_setting">Excepciones en itinerancia de datos</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
-    <string name="preference_key_antivirus_third_paryty_privacy">clave_antivirus_politica_privacidad_terceros</string>
     <string name="preferred_app_entries_browser">Navegador</string>
     <string name="preferred_app_entries_camera">Cámara</string>
     <string name="preferred_app_entries_dial">Marcar</string>

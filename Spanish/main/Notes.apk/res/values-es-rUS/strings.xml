@@ -689,10 +689,10 @@ Permitir a Notas grabar audio."</string>
     <string name="todo_edit_btn_today">Hoy</string>
     <string name="todo_edit_btn_tomorrow">Mañana</string>
     <string name="todo_edit_text_hint">Introduce la descripción de la tarea</string>
-    <string name="todo_event_description_a_week_ago">Hace 1 semana</string>
-    <string name="todo_event_description_a_week_later">En 1 semana</string>
-    <string name="todo_event_description_day_after_tomorrow">En 2 días</string>
-    <string name="todo_event_description_day_before_yesterday">Hace 2 días</string>
+    <string name="todo_event_description_a_week_ago">Hace %1$d semana</string>
+    <string name="todo_event_description_a_week_later">En %1$d semana</string>
+    <string name="todo_event_description_day_after_tomorrow">En %1$d días</string>
+    <string name="todo_event_description_day_before_yesterday">Hace %1$d días</string>
     <string name="todo_event_description_today">Hoy</string>
     <string name="todo_event_description_tomorrow">Mañana</string>
     <string name="todo_event_description_yesterday">Ayer</string>
@@ -750,7 +750,7 @@ Permitir a Notas grabar audio."</string>
     <string name="toolbar_undo_description">Deshacer</string>
     <string name="toolbar_voice_description">Voz</string>
     <string name="trash_folder_name">Papelera</string>
-    <string name="trash_folder_reminder">Las notas que elimines se borrarán permanentemente en 30 días.</string>
+    <string name="trash_folder_reminder">Las notas que elimines se eliminarán de forma permanente en %1$d días.</string>
     <string name="trash_folder_reminder_new">Las notas se guardan en la papelera durante %d días antes de eliminarse de forma permanente</string>
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>

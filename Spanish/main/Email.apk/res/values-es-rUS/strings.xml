@@ -85,6 +85,7 @@
     <string name="account_settings_preference_notify">Notificar</string>
     <string name="account_settings_ringtone">Sonido de notificación</string>
     <string name="account_settings_servers">Configuración del servidor</string>
+    <string name="account_settings_smime_title">S/MIME (Extensiones seguras/multipropósito de correo de Internet)</string>
     <string name="account_settings_summary">Frecuencia de sincronización, notificaciones, etc.</string>
     <string name="account_settings_sync_calendar_enable">Sincronizar calendario</string>
     <string name="account_settings_sync_calendar_summary">Sincronizar eventos del calendario para esta cuenta</string>
@@ -282,7 +283,9 @@
     <string name="cancel_action">Cancelar</string>
     <string name="cancel_pop3_attchemt_downloading">"No se puede cancelar descargas en curso de adjuntos en cuentas POP3"</string>
     <string name="cant_move_or_change_labels">"No se puede mover los elementos de varias cuentas."</string>
+    <string name="cc">Cc</string>
     <string name="cc_bcc">CC BCC</string>
+    <string name="cc_heading">"Cc: "</string>
     <string name="certificate_add_failed">"No se pudo agregar el certificado \"%s\""</string>
     <string name="certificate_added">Certificado \"%s\" agregado correctamente</string>
     <string name="certificate_alias_prompt_certificate_name">Nombre</string>
@@ -730,6 +733,7 @@ Declinado:
         Donde:
         %s
     "</string>
+    <string name="megabytes">%s MB</string>
     <string name="menu_att_mgr">Adjuntos</string>
     <string name="menu_att_mgr_order_default">Vistos Recientemente</string>
     <string name="menu_att_mgr_order_mime">Formato</string>
@@ -1212,6 +1216,7 @@ Espera hasta que esté completamente sincronizado o veas el mensaje en tu comput
     <string name="translation_loading">Un segundo…</string>
     <string name="translation_no_result">No hay resultados</string>
     <string name="translation_pronunciation_am">AmE</string>
+    <string name="translation_pronunciation_cn">Pinyin</string>
     <string name="translation_pronunciation_other">Máquina</string>
     <string name="translation_query_failure">"No se encontraron resultados"</string>
     <string name="translation_technology_support">Soporte técnico por iciba.com</string>
