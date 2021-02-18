@@ -524,8 +524,6 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="apn_auth_type">Tipo de autenticación</string>
     <string name="apn_auth_type_none">Ninguno</string>
     <string name="apn_auth_type_pap_chap">PAP o CHAP</string>
-    <string name="apn_chinaunicom_3gnet_general">沃 3G 连接 互联网</string>
-    <string name="apn_chinaunicom_3gwap_general">沃 3G 手机 上网</string>
     <string name="apn_edit">Editar punto de acceso</string>
     <string name="apn_general">General</string>
     <string name="apn_http_port">Puerto</string>
@@ -1038,13 +1036,13 @@ Aplicaciones principales por uso de batería:"</string>
     <string name="bluetooth_ask_enablement_and_discovery">%1$s quiere activar el Bluetooth y hacer visible tu teléfono para otros dispositivos durante %2$d segundos.</string>
     <string name="bluetooth_ask_enablement_and_discovery_detected">" quiere activar el Bluetooth y hacer tu teléfono visible para otros dispositivos durante %1$d segundos."</string>
     <string name="bluetooth_ask_enablement_and_discovery_no_name">Una aplicación quiere activar el Bluetooth y hacer visible tu teléfono para otros dispositivos durante %1$d segundos.</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery">%1$s quiere activar el Bluetooth y hacer visible tu teléfono para otros dispositivos. Puedes cambiar esta opción más tarde en los ajustes de Bluetooth.</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" quiere activar el Bluetooth y hacer tu teléfono visible para otros dispositivos. Puedes cambiar esto más tarde en los ajustes del Bluetooth."</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">Una aplicación quiere activar el Bluetooth y hacer visible tu teléfono para otros dispositivos. Puedes cambiar esta opción más tarde en los ajustes de Bluetooth.</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery">%1$s quiere activar el Bluetooth y hacer visible su teléfono para otros dispositivos. Puede cambiar esta opción más tarde en los ajustes de Bluetooth.</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" quiere activar el Bluetooth y hacer su teléfono visible para otros dispositivos. Puede cambiar esto más tarde en los ajustes de Bluetooth."</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">Una aplicación quiere activar el Bluetooth y hacer visible su teléfono para otros dispositivos. Puede cambiar esta opción más tarde en los ajustes de Bluetooth.</string>
     <string name="bluetooth_ask_enablement_detected">" quiere activar el Bluetooth."</string>
     <string name="bluetooth_ask_enablement_no_name">Una aplicación quiere activar el Bluetooth</string>
-    <string name="bluetooth_ask_lasting_discovery">%1$s quiere hacer visible tu teléfono para otros dispositivos Bluetooth. Puedes cambiar esta opción más tarde en los ajustes de Bluetooth.</string>
-    <string name="bluetooth_ask_lasting_discovery_no_name">Una aplicación quiere hacer visible tu teléfono para otros dispositivos Bluetooth. Puedes cambiar esta opción más tarde en los ajustes de Bluetooth.</string>
+    <string name="bluetooth_ask_lasting_discovery">%1$s quiere hacer visible su teléfono para otros dispositivos Bluetooth. Puede cambiar esta opción más tarde en los ajustes de Bluetooth.</string>
+    <string name="bluetooth_ask_lasting_discovery_no_name">Una aplicación quiere hacer visible su teléfono para otros dispositivos Bluetooth. Puede cambiar esta opción más tarde en los ajustes de Bluetooth.</string>
     <string name="bluetooth_audio_share_feature_notice_summary">¿Compartir audio con otros dispositivos conectados?</string>
     <string name="bluetooth_audio_share_feature_notice_title">Compartir audio</string>
     <string name="bluetooth_battery_level">%1$s batería</string>
@@ -1365,7 +1363,7 @@ Calidad de reproducción"</string>
     <string name="bootloader_device_bind_server_token_expired_1">"No se pudo verificar. Intente agregar su cuenta y dispositivo de nuevo."</string>
     <string name="bootloader_device_bind_server_token_expired_2">"No se pudo verificar. Vuelve a iniciar sesión en tu cuenta y comienza de nuevo."</string>
     <string name="bootloader_device_bind_sim_invalid">Tarjeta SIM inválida. Reemplázala y vuelve a intentarlo.</string>
-    <string name="bootloader_locked_answer_1">"Bloqueamos los dispositivos para asegurarnos de que son seguros y de que tu información personal no es compartida con terceros. Si necesitas entrar al modo Fastboot para flashear el dispositivo, puedes desbloquearlo."</string>
+    <string name="bootloader_locked_answer_1">"Bloqueamos los dispositivos para asegurarnos de que son seguros y de que su información personal no se comparta con terceros. Si necesita entrar al modo Fastboot para flashear el dispositivo, desbloquéelo primero."</string>
     <string name="bootloader_locked_answer_1_warning">"Recuerde: no podrá utilizar \"Buscar dispositivo\" después de desbloquear el teléfono."</string>
     <string name="bootloader_locked_answer_2">"1. Asegúrese de haber insertado la tarjeta SIM en su dispositivo.
 2. Pulse \"Agregar cuenta\" para asociar su Cuenta Mi a este dispositivo.
@@ -1400,7 +1398,7 @@ Calidad de reproducción"</string>
     <string name="brightness_auto_adjust_on">El brillo de la pantalla se optimizará según la luz ambiental.</string>
     <string name="brightness_summary">Ajustar el brillo de la pantalla</string>
     <string name="brightness_title">Brillo</string>
-    <string name="bt_aac_dialog_summary">"El dispositivo actual admite codec AAC. Sin embargo, AAC puede no reproducir sonido debido a problemas de compatibilidad. Su dispositivo cambió a codec SBC automáticamente. Puedes cambiar esto en la configuración."</string>
+    <string name="bt_aac_dialog_summary">"El dispositivo actual admite codec AAC. Sin embargo, AAC puede no reproducir sonido debido a problemas de compatibilidad. Su dispositivo cambió a codec SBC automáticamente. Puede cambiar esto en los Ajustes."</string>
     <string name="bt_aac_dialog_title">Conexión bluetooth</string>
     <string name="bt_aac_open_dialog_summary">"AAC puede no reproducir el sonido debido a problemas de compatibilidad. Puede desactivar esta función en Configuración&gt; Bluetooth&gt; Dispositivos emparejados."</string>
     <string name="bt_aac_open_dialog_title">Cambio a codec AAC</string>
@@ -1552,6 +1550,7 @@ Esta función puede ser desactivada en [Ajustes]</string>
     <string name="captioning_locale">Idioma</string>
     <string name="captioning_more_options_title">Mas opciones</string>
     <string name="captioning_preset">Estilo de los subtítulos</string>
+    <string name="captioning_preview_characters">Aa</string>
     <string name="captioning_preview_text">Así aparecerán los subtítulos</string>
     <string name="captioning_preview_title">Vista previa</string>
     <string name="captioning_standard_options_title">Opciones estándar</string>
@@ -1702,7 +1701,7 @@ Esta función puede ser desactivada en [Ajustes]</string>
     <string name="color_lamp_notification_pulse_title">Parpadear para notificaciones cuando la pantalla esté apagada</string>
     <string name="color_lamp_title">Luz LED</string>
     <string name="color_led_applications_title">Seleccionar aplicaciones</string>
-    <string name="color_led_applications_title_summary">Puedes restringir el uso de la luz LED para cada aplicación</string>
+    <string name="color_led_applications_title_summary">Puede restringir el uso de la luz led para cada aplicación</string>
     <string name="color_led_battery_title">Seguir mientras se carga</string>
     <string name="color_led_charging_summary">Se apagará cuando la batería esté cargada</string>
     <string name="color_led_end_time">Hora de finalización</string>
@@ -1748,7 +1747,7 @@ Esta función puede ser desactivada en [Ajustes]</string>
     <string name="computer_backup_summary">Haz una copia de seguridad y restaura elementos usando un ordenador</string>
     <string name="computer_backup_title">Ordenador</string>
     <string name="computing_size">Calculando…</string>
-    <string name="condition_airplane_summary">La red móvil, la conexión Wi-Fi y el Bluetooth están desactivados. No puedes hacer llamadas ni conectarte a Internet.</string>
+    <string name="condition_airplane_summary">Redes no disponibles</string>
     <string name="condition_airplane_title">Modo avión activado</string>
     <string name="condition_battery_summary">Ha disminuido el rendimiento. Las conexiones automáticas y los servicios de ubicación están desactivados.</string>
     <string name="condition_battery_title">Ahorro de batería activado</string>
@@ -1793,7 +1792,7 @@ Esta función puede ser desactivada en [Ajustes]</string>
     <string name="confirm_erase">Eliminar</string>
     <string name="confirm_fingerprint">Verifica su huella dactilar</string>
     <string name="confirm_fingerprint_msg">Coloca el dedo en el sensor</string>
-    <string name="confirm_frp_credential_message">Tu dispositivo fue restablecido de fábrica. Puedes desbloquearlo con tu contraseña anterior.</string>
+    <string name="confirm_frp_credential_message">Su dispositivo fue restablecido de fábrica. Puede desbloquearlo con su contraseña previa.</string>
     <string name="confirm_frp_credential_skip_txt">Usar cuenta de Google en su lugar</string>
     <string name="confirm_frp_credential_title">Desbloquear después del Reseteo de fábrica</string>
     <string name="confirm_lock_pattern_header_text">Dibuja tu patrón</string>
@@ -1918,7 +1917,7 @@ Deslice el dedo hacia abajo desde la parte superior de la pantalla para abrir la
     <string name="crypt_keeper_conditions">"La encriptación puede tardar una hora o más. Debes comenzar con la batería cargada y mantener tu teléfono enchufado durante el proceso. Si lo interrumpes, perderás algunos o todos tus datos."</string>
     <string name="crypt_keeper_conditions_title">Acerca del cifrado de tu dispositivo</string>
     <string name="crypt_keeper_confirm_title">¿Cifrar dispositivo?</string>
-    <string name="crypt_keeper_content">Puedes cifrar tus cuentas, configuraciones, aplicaciones descargadas y tus datos, contenido multimedia y otros archivos.</string>
+    <string name="crypt_keeper_content">Puede cifrar sus cuentas, configuraciones, aplicaciones descargadas y sus datos, contenido multimedia y otros archivos.</string>
     <string name="crypt_keeper_content_title">Cifrar dispositivo</string>
     <string name="crypt_keeper_data_corrupt_summary">"La contraseña que ha introducido es correcta, pero desafortunadamente sus datos están corruptos. 
 
@@ -1927,9 +1926,9 @@ Para seguir utilizando el teléfono, debe restablecer los datos de fábrica. Cua
     <string name="crypt_keeper_decrypt_methods">"Después de encriptar tu teléfono, suponiendo que has configurado un bloqueo de pantalla (es decir, un patrón o PIN numérico o contraseña), deberás desbloquear la pantalla para desencriptar el teléfono cada vez que lo enciendas. La única manera diferente de desencriptar es realizar un restablecimiento de datos de fábrica, se eliminarán todos tus datos."</string>
     <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"Si has cifrado tu teléfono, deberás introducir tu contraseña, PIN o patrón cada vez que reinicies el dispositivo para desbloquearlo."</string>
     <string name="crypt_keeper_decrypt_methods_title">Descifrando el dispositivo</string>
-    <string name="crypt_keeper_desc">"Puedes cifrar tus cuentas, los ajustes, las aplicaciones descargadas y sus datos, archivos multimedia y otros archivos. Después de cifrar el teléfono, siempre que hayas configurado una pantalla de bloqueo (es decir, un patrón, una contraseña o un PIN numérico), tendrás que desbloquear la pantalla para descifrar el teléfono cada vez que lo enciendas. También puedes descifrar el dispositivo restableciendo los datos de fábrica, pero se borrarán todos tus datos.
+    <string name="crypt_keeper_desc">"Puede cifrar sus cuentas, los ajustes, las aplicaciones descargadas y sus datos, archivos multimedia y otros archivos. Después de cifrar el teléfono, siempre que haya configurado una pantalla de bloqueo (es decir, un patrón, una contraseña o un PIN numérico), cada vez que encienda el teléfono tendrá que desbloquear la pantalla para descifrarlo. También puede descifrar el dispositivo restableciendo los datos de fábrica, pero se borrarán todos sus datos.
 
-El proceso de cifrar tarda 1 hora o más. Debes iniciar el proceso con la batería cargada y mantener el teléfono enchufado. Si se interrumpe el proceso, perderás tus datos de forma total o parcial."</string>
+El proceso de cifrar tarda 1 hora o más. Debe iniciar el proceso con la batería cargada y mantener el teléfono enchufado. Si se interrumpe el proceso, perderá sus datos de forma parcial o total."</string>
     <string name="crypt_keeper_dialog_need_password_message">Debes establecer una contraseña o un PIN para la pantalla de bloqueo para poder iniciar el proceso de cifrado.</string>
     <string name="crypt_keeper_dialog_need_password_title">Falta la contraseña o el PIN de la pantalla de bloqueo</string>
     <string name="crypt_keeper_encrypt_title">Cifrar teléfono</string>
@@ -2053,9 +2052,9 @@ Debe restablecer los datos de fábrica para volver a usar el teléfono. Cuando c
     <string name="data_usage_app_restrict_background">Conexiones automáticas</string>
     <string name="data_usage_app_restrict_background_summary">Habilitar el uso de datos móviles en segundo plano</string>
     <string name="data_usage_app_restrict_background_summary_disabled">Para restringir las conexiones automáticas, establece un límite de datos móviles.</string>
-    <string name="data_usage_app_restrict_dialog">"Esta función puede hacer que deje de funcionar una aplicación que tenga que utilizar conexiones automáticas cuando solo haya disponibles redes móviles.
+    <string name="data_usage_app_restrict_dialog">"Esta función puede hacer que una aplicación que dependa de los datos en segundo plano deje de funcionar cuando solo esté disponible la red de datos móviles.
 
-Puedes encontrar controles de uso de datos más adecuados en las opciones de configuración disponibles en la aplicación."</string>
+Puede encontrar controles de uso de datos más apropiados en la configuración disponible dentro de la aplicación."</string>
     <string name="data_usage_app_restrict_dialog_title">¿Restringir conexiones automáticas?</string>
     <string name="data_usage_app_restricted">con restricción</string>
     <string name="data_usage_app_settings">Ajustes de la aplicación</string>
@@ -2125,7 +2124,7 @@ Se tiene en cuenta el uso de datos medido por el teléfono, aunque tu operador p
 
 Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="data_usage_restrict_background_title">¿Restringir conexiones automáticas?</string>
-    <string name="data_usage_restrict_denied_dialog">Solo puedes restringir el uso de datos en segundo plano si estableces un límite de datos móviles.</string>
+    <string name="data_usage_restrict_denied_dialog">La restricción de datos en segundo plano solo es posible cuando ha establecido un límite de datos móviles.</string>
     <string name="data_usage_summary_format">%1$s de datos usados</string>
     <string name="data_usage_summary_title">Uso de datos</string>
     <string name="data_usage_sweep_limit">&lt;font size=\"18\"&gt;^1&lt;/font&gt; &lt;font size=\"9\"&gt;^2&lt;/font&gt;\"
@@ -2272,6 +2271,7 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="device_controls_sentence">Controles de dispositivo</string>
     <string name="device_controls_setting_subtitle">Para acceder a los controles de los dispositivos conectados, mantenga presionado el botón de encendido</string>
     <string name="device_controls_setting_toggle">Mostrar controles de dispositivo</string>
+    <string name="device_cpu">CPU</string>
     <string name="device_cpu10_info">Deca-core</string>
     <string name="device_cpu2_info">Doble núcleo</string>
     <string name="device_cpu4_info">Cuatro nucleos</string>
@@ -2302,6 +2302,7 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="device_oaid">ID del dispositivo</string>
     <string name="device_oaid_desc">En lugar de su identificador real, MIUI proporcionará una identificación virtual (OAID) a aplicaciones de terceros. Impide que las aplicaciones rastreen su comportamiento y preferencias, y protege su privacidad.</string>
     <string name="device_oaid_title">ID virtual</string>
+    <string name="device_of_someone">"%2$s de %1$s"</string>
     <string name="device_opcust_version">Versión del operador</string>
     <string name="device_picker">Seleccionar dispositivo Bluetooth</string>
     <string name="device_rear_camera">Cámara trasera</string>
@@ -2331,7 +2332,7 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="dialog_check_title">"No se puede conectar a Internet"</string>
     <string name="dialog_chose_item">Seleccionar un elemento para mostrar</string>
     <string name="dialog_content_login">¿Iniciar sesión en Cuenta Mi para actualizar?</string>
-    <string name="dialog_location_message">"Su teléfono no puede administrar la batería normalmente porque %1$s sigue solicitando su ubicación cuando no está usando la aplicación. Para solucionar este problema, puedes desactivar la ubicación de esta aplicación."</string>
+    <string name="dialog_location_message">"Su teléfono no puede administrar la batería con normalidad porque %1$s sigue solicitando su ubicación cuando no está usando la aplicación. Para solucionar este problema, puede desactivar la ubicación de esta aplicación."</string>
     <string name="dialog_location_ok">Apagar</string>
     <string name="dialog_location_title">¿Desea desactivar la ubicación?</string>
     <string name="dialog_network_priority_title">Prioridad</string>
@@ -2428,7 +2429,7 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="dlg_error_unmount_text">No se ha podido desactivar la tarjeta SD. Inténtalo de nuevo más tarde.</string>
     <string name="dlg_ok">Aceptar</string>
     <string name="dlg_remove_locales_error_message">Guarda al menos un idioma preferido</string>
-    <string name="dlg_remove_locales_error_title">No puedes quitar todos los idiomas</string>
+    <string name="dlg_remove_locales_error_title">No se pueden quitar todos los idiomas</string>
     <string name="dlg_remove_locales_message">El texto se mostrará en otro idioma.</string>
     <string name="dndm_alarm_content">Sonidos</string>
     <string name="dndm_alarm_content_all">Permitir todo</string>
@@ -2644,30 +2645,30 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="encryption_interstitial_message_password">"Para proteger aún más tu dispositivo, haz que solicite la contraseña antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicia. 
 
 Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Pedir contraseña al iniciar el dispositivo?"</string>
-    <string name="encryption_interstitial_message_password_for_face">"Además de utilizar tu cara para desbloquear el dispositivo, puedes protegerlo aún más si lo configuras para solicitar la contraseña antes de iniciarse. El dispositivo no recibe llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que se inicia.
+    <string name="encryption_interstitial_message_password_for_face">"Además de usar su rostro para desbloquear el dispositivo, puede protegerlo aún más solicitando su contraseña antes de que se inicie. Hasta que el dispositivo se inicie, no podrá recibir llamadas, mensajes o notificaciones, incluidas las alarmas.
 
-Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Quieres que el dispositivo pida la contraseña para iniciarse?"</string>
-    <string name="encryption_interstitial_message_password_for_fingerprint">"Además de utilizar la huella dactilar para desbloquear el dispositivo, puedes protegerlo aún más si haces que solicite la contraseña antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicia.
+Esto ayuda a proteger los datos de dispositivos perdidos o robados. ¿Quiere que el dispositivo pida contraseña al iniciarse?"</string>
+    <string name="encryption_interstitial_message_password_for_fingerprint">"Además de usar su huella dactilar para desbloquear el dispositivo, puede protegerlo aún más solicitando su contraseña antes de que se inicie. Hasta que el dispositivo se inicie, no podrá recibir llamadas, mensajes o notificaciones, incluidas las alarmas.
 
-Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Pedir contraseña al iniciar el dispositivo?"</string>
+Esto ayuda a proteger los datos de dispositivos perdidos o robados. ¿Quiere que el dispositivo pida contraseña al iniciarse?"</string>
     <string name="encryption_interstitial_message_pattern">"Para proteger aún más tu dispositivo, haz que solicite el patrón antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicia. 
 
 Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Pedir patrón al iniciar el dispositivo?"</string>
-    <string name="encryption_interstitial_message_pattern_for_face">"Además de utilizar tu cara para desbloquear el dispositivo, puedes protegerlo aún más si lo configuras para solicitar el patrón antes de iniciarse. El dispositivo no recibe llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que se inicia.
+    <string name="encryption_interstitial_message_pattern_for_face">"Además de utilizar su rostro para desbloquear el dispositivo, puede protegerlo aún más si lo configura para solicitar el patrón antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes o notificaciones (incluidas alarmas) hasta que se inicie.
 
-Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Quieres que el dispositivo pida el patrón para iniciarse?"</string>
-    <string name="encryption_interstitial_message_pattern_for_fingerprint">"Además de utilizar la huella dactilar para desbloquear el dispositivo, puedes protegerlo aún más si haces que solicite el patrón antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicia.
+Esto es útil para proteger sus datos si pierde el dispositivo o se lo roban. ¿Quiere que el dispositivo pida el patrón al iniciarse?"</string>
+    <string name="encryption_interstitial_message_pattern_for_fingerprint">"Además de utilizar la huella dactilar para desbloquear el dispositivo, puede protegerlo aún más si lo configura para solicitar el patrón antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes o notificaciones (incluidas alarmas) hasta que se inicie.
 
-Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Pedir patrón al iniciar el dispositivo?"</string>
+Esto es útil para proteger sus datos si pierdes el dispositivo o se lo roban. ¿Quiere que el dispositivo pida patrón al iniciarse?"</string>
     <string name="encryption_interstitial_message_pin">"Para proteger aún más tu dispositivo, haz que solicite tu PIN antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicia. 
 
 Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Pedir PIN al iniciar el dispositivo?"</string>
-    <string name="encryption_interstitial_message_pin_for_face">"Además de utilizar tu cara para desbloquear el dispositivo, puedes protegerlo aún más si lo configuras para solicitar el PIN antes de iniciarse. El dispositivo no recibe llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que se inicia.
+    <string name="encryption_interstitial_message_pin_for_face">"Además de utilizar su cara para desbloquear el dispositivo, puede protegerlo aún más si lo configura para solicitar el PIN antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes o notificaciones (incluidas alarmas) hasta que se inicie.
 
-Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Quieres que el dispositivo pida el PIN para iniciarse?"</string>
-    <string name="encryption_interstitial_message_pin_for_fingerprint">"Además de utilizar la huella dactilar para desbloquear el dispositivo, puedes protegerlo aún más si haces que solicite tu PIN antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicia.
+Esto es útil para proteger sus datos si pierde el dispositivo o se lo roban. ¿Quiere que el dispositivo pida el PIN para iniciarse?"</string>
+    <string name="encryption_interstitial_message_pin_for_fingerprint">"Además de utilizar la huella dactilar para desbloquear el dispositivo, puede protegerlo aún más si hace que solicite el PIN antes de iniciarse. El dispositivo no puede recibir llamadas, mensajes ni notificaciones (incluidas alarmas) hasta que no se inicie.
 
-Esto es útil para proteger tus datos si pierdes el dispositivo o te lo roban. ¿Pedir PIN al iniciar el dispositivo?"</string>
+Esto es útil para proteger sus datos si pierde el dispositivo o se lo roban. ¿Quiere que el dispositivo pida el PIN para iniciarse?"</string>
     <string name="encryption_interstitial_no">No</string>
     <string name="encryption_interstitial_yes">Sí</string>
     <string name="encryption_progress_summary">"Encriptando, no reinicies el dispositivo."</string>
@@ -2763,7 +2764,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="external_source_untrusted">No permitido</string>
     <string name="extreme_threats_summary">Recibe alertas de amenazas graves contra la vida y propiedad</string>
     <string name="extreme_threats_title">Amenazas extremas</string>
-    <string name="face_add_max">Puedes añadir hasta %d caras</string>
+    <string name="face_add_max">Puede añadir hasta %d caras</string>
     <string name="face_data_apply_for_category_title">Desbloquear usando datos faciales</string>
     <string name="face_data_apply_for_keyguard_title">Bloquear pantalla</string>
     <string name="face_data_input_camera_fail">"No se pudo cargar la cámara"</string>
@@ -2828,7 +2829,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="face_unlock_success_show_message_toast">Las notificaciones se mostrarán en la pantalla de bloqueo</string>
     <string name="face_unlock_success_stay_screen_msg">Permanezca en la pantalla de bloqueo después de verificar su rostro. Desliza hacia arriba para abrir la pantalla de inicio.</string>
     <string name="face_unlock_success_stay_screen_title">Permanezca en la pantalla de bloqueo después de desbloquear</string>
-    <string name="face_unlock_title">Puedes desbloquear el teléfono con tu cara. Por motivos de seguridad, para utilizar esta opción necesitas un método de bloqueo de pantalla alternativo.</string>
+    <string name="face_unlock_title">Se puede desbloquear el teléfono con el rostro. Por motivos de seguridad, para utilizar esta opción necesita un método de bloqueo de pantalla alternativo.</string>
     <string name="factory_reset_summary">Eliminar todos los datos de la memoria interna del teléfono</string>
     <string name="failed_to_check_find_device_status_content">"No se pudo verificar el estado de Encontrar dispositivo. Espera un par de minutos e inténtalo de nuevo."</string>
     <string name="failed_to_check_find_device_status_title">"No se pudo comprobar el estado"</string>
@@ -2869,7 +2870,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="find_my_device_disable">Desactivado</string>
     <string name="find_my_device_enable">Activado</string>
     <string name="find_my_device_summary">Esta función requiere iniciar sesión en Mi cuenta</string>
-    <string name="fingerprint_add_max">Puedes añadir hasta %d huellas dactilares</string>
+    <string name="fingerprint_add_max">Puede añadir hasta %d huellas dactilares</string>
     <string name="fingerprint_add_title">Añadir huella dactilar</string>
     <string name="fingerprint_and_password_entrance_title">Bloqueo de pantalla y huella dactilar</string>
     <string name="fingerprint_apply_to_privacy_password">Contraseña de protección de privacidad</string>
@@ -2891,7 +2892,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="fingerprint_intro_error_unknown">No se pueden añadir más huellas dactilares</string>
     <string name="fingerprint_last_delete_confirm">Sí, borrar</string>
     <string name="fingerprint_last_delete_message">"No podrá usar sus huellas digitales para desbloquear su teléfono, autorizar compras o iniciar sesión en aplicaciones con ellos"</string>
-    <string name="fingerprint_last_delete_message_profile_challenge">"No puedes utilizar tus huellas dactilares para desbloquear el perfil de trabajo, autorizar compras o iniciar sesión en aplicaciones de trabajo"</string>
+    <string name="fingerprint_last_delete_message_profile_challenge">"No podrá usar sus huellas dactilares para desbloquear el perfil de trabajo, autorizar compras o iniciar sesión en aplicaciones de trabajo"</string>
     <string name="fingerprint_last_delete_title">¿Borrar todas las huellas?</string>
     <string name="fingerprint_list_title">Huella</string>
     <string name="fingerprint_lock_first">Desbloquear Primer espacio</string>
@@ -2906,14 +2907,14 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="fingerprint_payment">Pagos con huella dactilar</string>
     <string name="fingerprint_removal_failed">"No se pudo eliminar la huella, inténtalo de nuevo más tarde"</string>
     <string name="fingerprint_swipe_for_notifications_suggestion_title">Ver notificaciones rápidamente</string>
-    <string name="fingerprint_swipe_for_notifications_summary">Para ver tus notificaciones, desliza el dedo hacia abajo en el sensor de huellas dactilares situado en la parte trasera del teléfono.</string>
+    <string name="fingerprint_swipe_for_notifications_summary">Para ver sus notificaciones, deslice el dedo hacia abajo en el sensor de huellas dactilares situado en la parte trasera del teléfono.</string>
     <string name="fingerprint_swipe_for_notifications_title">Deslizar por el sensor de huellas para abrir notificaciones</string>
     <string name="fingerprint_unlock_press_type">Presiona</string>
     <string name="fingerprint_unlock_set_unlock_password">Huella dactilar + contraseña</string>
     <string name="fingerprint_unlock_set_unlock_pattern">Huella dactilar + patrón</string>
     <string name="fingerprint_unlock_set_unlock_pin">Huella dactilar + PIN</string>
     <string name="fingerprint_unlock_skip_fingerprint">Continuar sin huella dactilar</string>
-    <string name="fingerprint_unlock_title">Puedes desbloquear el teléfono con tu huella dactilar. Por motivos de seguridad, para utilizar esta opción necesitas un método de bloqueo de pantalla alternativo.</string>
+    <string name="fingerprint_unlock_title">Puede desbloquear el teléfono con su huella dactilar. Por motivos de seguridad, para utilizar esta opción necesita un método de bloqueo de pantalla alternativo.</string>
     <string name="fingerprint_unlock_touch_type">Toca</string>
     <string name="fingerprint_unlock_type">Método de reconocimiento de huellas dactilares</string>
     <string name="fingerprint_usage_category_title">Usar huella para</string>
@@ -3114,7 +3115,7 @@ Cuando activa la copia de seguridad automática, los datos del dispositivo y de 
     <string name="gesture_setting_on">Activado</string>
     <string name="gesture_settings_activity_title">Configuración de gestos</string>
     <string name="gesture_settings_title">Gestos de acceso rápido</string>
-    <string name="gesture_wakeup_summary">Puedes tocar dos veces para apagar la pantalla cuando esté aplicado el tema Predeterminado o Clásico</string>
+    <string name="gesture_wakeup_summary">Puede tocar dos veces para apagar la pantalla cuando esté aplicado el tema predeterminado o clásico</string>
     <string name="gesture_wakeup_title">Tocar dos veces para encender o apagar la pantalla</string>
     <string name="getConfiguredNetworks">getConfiguredNetworks</string>
     <string name="getConnectionInfo">getConnectionInfo</string>
@@ -3191,7 +3192,7 @@ Cuando activa la copia de seguridad automática, los datos del dispositivo y de 
     <string name="handy_mode_enable">Modo a una mano</string>
     <string name="handy_mode_size">Tamaño de pantalla</string>
     <string name="handy_mode_tips">Desliza a la izquierda o a la derecha desde el botón Inicio para poner la pantalla más cerca de un lado.</string>
-    <string name="handy_mode_tips_full_screen">"Cuando estás utilizando gestos a pantalla completa, puedes activar el modo con una mano usando la bola flotante. También puedes cambiar a usar botones en lugar de gestos a pantalla completa."</string>
+    <string name="handy_mode_tips_full_screen">"Cuando esté utilizando gestos a pantalla completa, puede activar el modo con una mano usando la bola flotante. También puede cambiar al uso de botones en lugar de los gestos a pantalla completa."</string>
     <string name="haptic_agent_completion_01_content_description">Tarea completada</string>
     <string name="haptic_cursor_movement_07_content_description">Ajustando brillo</string>
     <string name="haptic_experience">Demostración</string>
@@ -3246,7 +3247,7 @@ Cuando activa la copia de seguridad automática, los datos del dispositivo y de 
     <string name="headset_settings_title">Auriculares</string>
     <string name="headset_unsaved_devices">Usado en otros dispositivos</string>
     <string name="hearing_aids_category">Herramientas de asistencia auditiva</string>
-    <string name="heavy_weight_stop_description">No se puede detener la aplicación de forma segura. Si lo haces, puedes perder parte de tu trabajo.</string>
+    <string name="heavy_weight_stop_description">No se puede detener la aplicación de forma segura. Si lo hace, puede perder parte de su trabajo.</string>
     <string name="height_light_list_text">Una lista de elementos importantes</string>
     <string name="help_and_feedback_title">Ayuda y comentarios</string>
     <string name="help_feedback_label">Ayuda y comentarios</string>
@@ -3264,9 +3265,9 @@ Cuando activa la copia de seguridad automática, los datos del dispositivo y de 
     <string name="high_power_filter_on">Sin optimizar</string>
     <string name="high_power_off">Optimizando el uso de la batería</string>
     <string name="high_power_on">No optimizada</string>
-    <string name="high_power_prompt_body">"Si permites que %1$s se ejecute siempre en segundo plano, es posible que se reduzca la duración de la batería. 
+    <string name="high_power_prompt_body">"Si permite que %1$s se ejecute siempre en segundo plano, es posible que se reduzca la duración de la batería. 
 
-Puedes cambiar esta opción en cualquier momento en Ajustes &gt; Aplicaciones y notificaciones."</string>
+Puede cambiar esta opción en cualquier momento en Ajustes &gt; Aplicaciones y notificaciones."</string>
     <string name="high_power_prompt_title">¿Permitir que la aplicación se ejecute siempre en segundo plano?</string>
     <string name="high_power_system">Optimización de la batería no disponible</string>
     <string name="hint_unadjustable_text">"No se puede ajustar manualmente. La temperatura de color se ajusta automáticamente ahora."</string>
@@ -3282,19 +3283,19 @@ Puedes cambiar esta opción en cualquier momento en Ajustes &gt; Aplicaciones y 
     <string name="homepage_condition_footer_content_description">Ocultar</string>
     <string name="homepage_personal_settings">Sugerencias</string>
     <string name="how_adjust_font_size">¿Cómo ajusto el tamaño del texto?</string>
-    <string name="how_backup_content">"Puedes guardar copias de seguridad localmente o en la nube. Las copias de seguridad locales se pueden almacenar en tu dispositivo móvil, computadora o unidad USB.
+    <string name="how_backup_content">"Puede guardar copias de seguridad localmente o en la nube. Las copias de seguridad locales se pueden almacenar en su dispositivo móvil, ordenador o unidad USB.
 
 Dispositivo móvil
-Guarda la configuración del sistema, las cuentas, los datos de la aplicación y otros elementos en un archivo separado almacenado en su dispositivo (MIUI-backup-AllBackup). Nota: Realizar un restablecimiento de fábrica eliminará tales copias de seguridad de forma permanente. Recuerda copiar las copias de seguridad a tu ordenador.
+Guarde la configuración del sistema, las cuentas, los datos de la aplicación y otros elementos en un archivo separado almacenado en su dispositivo (MIUI-copia de seguridad-Todas las copias). Nota: Realizar un restablecimiento de fábrica eliminará las copias de seguridad de forma permanente. Recuerde respaldar las copias de seguridad en su ordenador.
 
 Ordenador
-Crea una copia de seguridad en este dispositivo, luego ve a MIUI-backup-AllBackup y copia la copia de seguridad en tu ordenador mediante un cable USB.
+Cree una copia de seguridad en el dispositivo, luego vaya a MIUI-copia de seguridad-Todas las copias y respalde la copia de seguridad en su ordenador mediante un cable USB.
 
 Unidad USB
-Guarda la configuración del sistema, las cuentas, los datos de la aplicación y otros elementos en una unidad USB.
+Guarde la configuración del sistema, las cuentas, los datos de la aplicación y otros elementos en una unidad USB.
 
-Xiaomi Cloud
-Sincroniza tus contactos, fotos, videos, la lista de sus aplicaciones, la configuración del sistema y el diseño de la pantalla de inicio con la nube."</string>
+Nube de Xiaomi
+Sincronice sus contactos, fotos, videos, la lista de sus aplicaciones, la configuración del sistema y el diseño de la pantalla de inicio con la nube."</string>
     <string name="how_backup_title">¿Cómo puedo hacer una copia de seguridad de los artículos?</string>
     <string name="how_encrypt_content">"Solo puede cifrar copias de seguridad locales. Estos son algunos métodos de encriptación que puede usar:
 a) Vaya a Ajustes &gt; Ajustes adicionales en la página con sus copias de seguridad locales, toque el botón para activar la encriptación e inicie sesión en su Cuenta Mi. Las copias de seguridad se cifrarán automáticamente. Recuerde que deberá iniciar sesión en su Cuenta Mi para restaurar el contenido de las copias de seguridad cifradas.
@@ -3302,19 +3303,19 @@ b) Si está usando Mi PC Suite para hacer una copia de seguridad de su contenido
 
 Nota: Recuerde la contraseña que estableció para las copias de seguridad cifradas. No podrá descifrar sus copias de seguridad si las olvida."</string>
     <string name="how_encrypt_title">¿Cómo cifro mis copias de seguridad?</string>
-    <string name="how_restore_backup_content">"A continuación, te mostramos cómo puedes restaurar elementos de los que se realizó una copia de seguridad utilizando diferentes métodos:
+    <string name="how_restore_backup_content">"A continuación, le mostramos cómo puede restaurar elementos de los que se realizó una copia de seguridad utilizando diferentes métodos:
 
 Dispositivo móvil
-Toca \"Dispositivo móvil\", encuentra la opción para restaurar elementos y selecciona la copia de seguridad para continuar.
+Pulse \"Dispositivo móvil\", encuentre la opción para restaurar elementos y seleccione la copia de seguridad para continuar.
 
 Ordenador
-Copia la copia de seguridad de tu ordenador a MIUI-backup-AllBackup a través del cable USB y restaura elementos desde tu dispositivo móvil.
+Pase la copia de seguridad de su ordenador a MIUI-copia de seguridad-Todas las copias mediante el cable USB y restaure los elementos desde su dispositivo móvil.
 
 Unidad USB
-Copia la copia de seguridad de tu unidad USB a MIUI-backup-AllBackup y selecciona la opción para restaurar elementos desde una unidad USB para continuar.
+Pase la copia de seguridad de su unidad USB a MIUI-copia de seguridad-Todas las copias y seleccione la opción para restaurar elementos desde una unidad USB para continuar.
 
-Xiaomi Cloud
-Abre Xiaomi Cloud y restaura elementos desde allí."</string>
+Nube de Xiaomi
+Abra Nube de Xiaomi y restaure elementos desde allí."</string>
     <string name="how_restore_backup_title">¿Cómo restauro los elementos respaldados?</string>
     <string name="http_invoke_app">Aplicaciones web</string>
     <string name="http_invoke_app_summary">Abrir aplicaciones más rápido sin instalarlas</string>
@@ -3629,6 +3630,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="keywords_write_settings">escribir, modificar, ajustes del sistema</string>
     <string name="keywords_zen_mode_settings">no molestar, programar, notificaciones, bloquear, silencio, vibrar, dormir, trabajar, enfoque, sonido, silencio, día, día de la semana, fin de semana, noche de la semana, evento</string>
     <string name="kid_space_settings">Espacio para niños</string>
+    <string name="kilobyte_per_second">KB/s</string>
     <string name="label_available">Redes disponibles</string>
     <string name="label_mi_stats">Mi analítica</string>
     <string name="language_and_input_for_work_category_title">Perfiles de trabajo y herramientas</string>
@@ -3684,7 +3686,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="left_function_key">Acceso directo derecho</string>
     <string name="legacy_control_center_desc">Deslice la barra de estado hacia abajo para ver los conmutadores y las notificaciones</string>
     <string name="legacy_control_center_title">Versión antigua</string>
-    <string name="legacy_navigation_summary">Para volver, ir a la pantalla de inicio o cambiar de aplicación, puedes usar los botones de la parte inferior de la pantalla.</string>
+    <string name="legacy_navigation_summary">Regresar, inicio, y cambio de aplicaciónes con botones en la parte inferior de su pantalla.</string>
     <string name="legacy_navigation_title">Navegación con 3 botones</string>
     <string name="legal_information">Información legal</string>
     <string name="legal_workday">Días laborables</string>
@@ -3700,7 +3702,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="line_breaking_title">Optimizar texto</string>
     <string name="link_turbo_prompt">"\"Las estadísticas en esta página muestran solo la cantidad de datos utilizados para aumentar la velocidad de conexión Wi-Fi. Estas estadísticas no reflejan el uso real de datos móviles\"."</string>
     <string name="link_turbo_settings_all_app_display_loading">Un momento…</string>
-    <string name="link_turbo_settings_all_app_reach_max">Puedes seleccionar hasta 15 aplicaciones</string>
+    <string name="link_turbo_settings_all_app_reach_max">Puede seleccionar hasta 15 aplicaciones</string>
     <string name="link_turbo_usage_state_month">Este mes</string>
     <string name="link_turbo_usage_state_month_total">Este mes</string>
     <string name="link_turbo_usage_state_today">Hoy</string>
@@ -3857,7 +3859,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="lock_settings_profile_unification_dialog_body">El dispositivo utilizará el bloqueo de pantalla de tu perfil de trabajo. Las políticas de trabajo se aplicarán a ambos bloqueos.</string>
     <string name="lock_settings_profile_unification_dialog_confirm">Utilizar un único bloqueo</string>
     <string name="lock_settings_profile_unification_dialog_title">¿Utilizar un único bloqueo?</string>
-    <string name="lock_settings_profile_unification_dialog_uncompliant_body">"El bloqueo de tu perfil de trabajo no cumple los requisitos de seguridad de tu organización. Puedes utilizar el mismo bloqueo para la pantalla del dispositivo y el perfil de trabajo, pero se aplicarán las políticas del bloqueo de trabajo."</string>
+    <string name="lock_settings_profile_unification_dialog_uncompliant_body">"El bloqueo de su perfil de trabajo no cumple los requisitos de seguridad de su organización. Puede utilizar el mismo bloqueo para la pantalla del dispositivo y el perfil de trabajo, pero se aplicarán las políticas del bloqueo de trabajo."</string>
     <string name="lock_settings_profile_unification_dialog_uncompliant_confirm">Utilizar un único bloqueo</string>
     <string name="lock_settings_profile_unification_summary">Utilizar un único bloqueo para el perfil de trabajo y la pantalla del dispositivo</string>
     <string name="lock_settings_profile_unification_title">Utilizar un único bloqueo</string>
@@ -4017,7 +4019,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="lost_internet_access_cancel">Mantener conexión Wi-Fi</string>
     <string name="lost_internet_access_persist">No volver a mostrar</string>
     <string name="lost_internet_access_switch">Cambiar a datos móviles</string>
-    <string name="lost_internet_access_text">Puedes cambiarte a la red móvil cuando la conexión Wi-Fi no sea buena. Podrían aplicarse cargos por el uso de datos.</string>
+    <string name="lost_internet_access_text">Puede cambiarse a la red móvil cuando la conexión Wi-Fi no sea buena. Podrían aplicarse costes por el uso de datos.</string>
     <string name="lost_internet_access_title">La red Wi‑Fi no está conectada a Internet</string>
     <string name="low_label">Baja</string>
     <string name="low_storage_summary">Queda poco espacio de almacenamiento. %1$s usado (disponible: %2$s)</string>
@@ -4115,7 +4117,7 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="max_cpu6_info">Hexa-core Max </string>
     <string name="max_cpu8_info">Octa-core Max </string>
     <string name="max_fingerprint_number_reached">"No se pueden añadir más de 5 huellas. Para añadir una nueva, elimina una huella existente primero."</string>
-    <string name="max_fingerprint_reached_toast">Puedes agregar hasta 5 huellas dactilares</string>
+    <string name="max_fingerprint_reached_toast">Puede añadir hasta 5 huellas dactilares</string>
     <string name="maximum_memory_use">Uso máximo de memoria</string>
     <string name="media_button">Botón multimedia</string>
     <string name="media_category">Multimedia</string>
@@ -4142,6 +4144,7 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="media_volume_option_title">Multimedia</string>
     <string name="media_volume_summary">Establecer volumen para música y vídeos</string>
     <string name="media_volume_title">Multimedia</string>
+    <string name="megabyte_per_second">MB/s</string>
     <string name="meid_multi_sim">MEID (slot sim %1$d)</string>
     <string name="mem_details_title">Detalles de la memoria</string>
     <string name="memory">RAM</string>
@@ -4324,6 +4327,7 @@ Continúe para acceder a ajustes adicionales."</string>
     <string name="miui_sos_call_log_none">No tengo ninguna llamada en la última hora</string>
     <string name="miui_sos_call_log_stranger">Estraño</string>
     <string name="miui_sos_call_log_summary">Enviar el historial de llamadas de la última hora a su contacto de emergencia</string>
+    <string name="miui_sos_call_log_time_unit">%1$dm %2$ds</string>
     <string name="miui_sos_call_log_title">Enviar historial de llamada</string>
     <string name="miui_sos_call_warning_sim_unable">"Sin señal. No se puede enviar SMS."</string>
     <string name="miui_sos_calling_summary">Su dispositivo realizará llamadas automáticas a sus contactos de emergencia que reproducen el mensaje de voz SOS que grabó. La llamada finalizará después de que su mensaje haya terminado de reproducirse. La llamada automática se detendrá después del primer intento exitoso.</string>
@@ -4360,8 +4364,8 @@ Continúe para acceder a ajustes adicionales."</string>
     <string name="miui_sos_remind_sendinfo">"No olvide decirles a estas personas que son sus contactos de emergencia ahora. Por lo tanto, podrán ayudarlo más rápido en caso de emergencia."</string>
     <string name="miui_sos_remind_sendnow">Enviar ahora</string>
     <string name="miui_sos_remind_title">Atención</string>
-    <string name="miui_sos_settings_alert_contacts_repeat">"No puedes añadir contactos duplicados."</string>
-    <string name="miui_sos_settings_alert_contacts_too_many">Puedes agregar hasta 3 contactos de emergencia..</string>
+    <string name="miui_sos_settings_alert_contacts_repeat">"No puede añadir contactos duplicados."</string>
+    <string name="miui_sos_settings_alert_contacts_too_many">Puede agregar hasta 3 contactos de emergencia.</string>
     <string name="miui_sos_settings_category">Opciones de SOS</string>
     <string name="miui_sos_statusbar_summary">Pulse para desactivarlo</string>
     <string name="miui_sos_statusbar_title">SOS de Emergencia está activo</string>
@@ -4484,8 +4488,8 @@ Cambiar a %1$s no cancelará tu servicio de %2$s."</string>
     <string name="msd_driver_download_mac_url">Obtén el controlador en http://www.android.com/filetransfer/</string>
     <string name="msd_driver_download_xp">Windows: Descarga Mi Phone Manager para usar el teléfono como un dispositivo de almacenamiento USB.</string>
     <string name="msd_driver_download_xp_url">Obtén el controlador en http://zhushou.mi.com/</string>
-    <string name="msd_help_summary">"¿No puedes conectar tu dispositivo?
-Selecciona tu sistema operativo:"</string>
+    <string name="msd_help_summary">"¿No puede conectarse a su dispositivo?
+Seleccione su sistema operativo:"</string>
     <string name="msd_help_title">Ayuda</string>
     <string name="msd_install">¿Reinstalar controlador?</string>
     <string name="msd_install_download_zhushou">"He descargado Mi Phone Manager"</string>
@@ -4547,16 +4551,16 @@ Selecciona tu sistema operativo:"</string>
     <string name="natural_haptic_summary">Los nuevos patrones de retroalimentación háptica aportan una dimensión adicional a todo lo que ve y toca en la pantalla.</string>
     <string name="nature_color">Predeterminado</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Deslice hacia arriba desde la parte inferior de la pantalla, luego deslice hacia la izquierda o hacia la derecha</string>
-    <string name="navigation_guide_app_quick_switch_summary">Desliza el dedo hacia la izquierda o hacia la derecha desde el indicador de pantalla completa o la parte inferior de la pantalla</string>
+    <string name="navigation_guide_app_quick_switch_summary">Deslice el dedo hacia la izquierda o la derecha desde el indicador de pantalla completa o desde la parte inferior de la pantalla</string>
     <string name="navigation_guide_app_quick_switch_title">Cambiar entre aplicaciones</string>
     <string name="navigation_guide_app_summary">Desliza a la izquierda o derecha desde el borde de la pantalla en la parte superior</string>
     <string name="navigation_guide_app_title">"Activar la acción de la aplicación"</string>
-    <string name="navigation_guide_appswitch_anim_summary">Desliza el dedo por la pantalla desde el borde para volver a la aplicación anterior</string>
+    <string name="navigation_guide_appswitch_anim_summary">Deslice el dedo por la pantalla desde el borde para volver a la aplicación anterior</string>
     <string name="navigation_guide_appswitch_anim_title">Volver a la aplicación anterior</string>
     <string name="navigation_guide_appswitch_click">Activar \"Volver a la aplicación anterior\" primero</string>
     <string name="navigation_guide_appswitch_summary">Desliza a izquierda o derecha desde el borde de la pantalla y mantén pulsado por un momento</string>
     <string name="navigation_guide_appswitch_title">Cambiar a la aplicación previa</string>
-    <string name="navigation_guide_back_summary">Desliza el dedo hacia la izquierda o hacia la derecha desde el borde de la pantalla</string>
+    <string name="navigation_guide_back_summary">Deslice el dedo hacia la izquierda o hacia la derecha desde el borde de la pantalla</string>
     <string name="navigation_guide_back_title">Volver</string>
     <string name="navigation_guide_dialog_dont_show_again">"No mostrar de nuevo"</string>
     <string name="navigation_guide_dialog_ok">Aprender</string>
@@ -4950,7 +4954,7 @@ También concede a la aplicación la capacidad de activar o desactivar el modo N
     <string name="oldman_installed_current_btn">Reestablecer Pantalla de inicio original</string>
     <string name="oldman_installed_current_des">"Has establecido el modo Lite como tu Pantalla de inicio por defecto. Pulsa el botón inferior para volver a la Pantalla de inicio original."</string>
     <string name="oldman_installed_not_current_btn">Establecer como Pantalla de inicio por defecto</string>
-    <string name="oldman_installed_not_current_des">El modo Lite está instalado en tu dispositivo. Puedes usarlo como tu Pantalla de inicio por defecto.</string>
+    <string name="oldman_installed_not_current_des">El modo lite está instalado en su dispositivo. Puede usarlo como su pantalla de inicio por defecto.</string>
     <string name="oldman_mode_entry_name">Modo Lite</string>
     <string name="oldman_mode_settings">Modo Lite</string>
     <string name="oldman_uninstalled_btn">Instalar</string>
@@ -4961,9 +4965,10 @@ También concede a la aplicación la capacidad de activar o desactivar el modo N
     <string name="one_usercrt">un certificado de usuario</string>
     <string name="one_userkey">una clave de usuario</string>
     <string name="onehour">30 minutos</string>
+    <string name="onekey_migrate">Mi Mover</string>
     <string name="onscreen_keyboard_settings_summary">Ajustes de teclado en pantalla</string>
     <string name="open_demo_mode">Activar</string>
-    <string name="open_demo_mode_warning_message">Cuando el modo Demo esté activo, el reloj en la barra de estados se detendrá y la batería y el icono de señal aparecerán como completos. Puedes desactivar el modo Demo o reiniciar el dispositivo para cambiarlo.</string>
+    <string name="open_demo_mode_warning_message">Cuando el modo de demostración está activado, el reloj de la barra de estado se detendrá y los iconos de batería y señal se mostrarán llenos. Puede desactivar el modo de demostración o reiniciar el dispositivo para cambiarlo.</string>
     <string name="open_game_accelerate">Activar Game Turbo</string>
     <string name="open_haptic_feedback">Retroalimentación háptica</string>
     <string name="open_miui_optimization_title">Activar optimización MIUI</string>
@@ -5339,7 +5344,7 @@ Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="preferred_sms_warning_use_system">"No usar"</string>
     <string name="premium_sms_access">Acceso a SMS premium</string>
     <string name="premium_sms_none">Ninguna aplicación instalada ha solicitado acceso SMS premium</string>
-    <string name="premium_sms_warning">Es posible que el envío de SMS premium te cueste dinero y el importe correspondiente se sume a las facturas de tu operador. Si habilitas el permiso para una aplicación, puedes enviar SMS premium con ella.</string>
+    <string name="premium_sms_warning">Es posible que el envío de SMS premium le suponga costes adicionales y el importe se sume a las facturas de su operador. Si habilita el permiso para una aplicación, puede enviar SMS premium con ella.</string>
     <string name="prevent_ringing_option_mute">Mudo</string>
     <string name="prevent_ringing_option_mute_summary">Activado (mudo)</string>
     <string name="prevent_ringing_option_none">Hacer nada</string>
@@ -5449,7 +5454,7 @@ Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="privacy_password_settings_titles_second_space">La contraseña de protección de privacidad protege tus mensajes, fotos y notas.</string>
     <string name="privacy_password_title">Contraseña de protección de privacidad</string>
     <string name="privacy_password_toggle_summary">Requerir una contraseña cada vez que se accede a elementos privados.</string>
-    <string name="privacy_password_use_finger_dialog_mess">También puedes utilizar tu huella dactilar con contraseña de protección de Privacidad.</string>
+    <string name="privacy_password_use_finger_dialog_mess">También puede utilizar su huella digital con la contraseña de protección de privacidad.</string>
     <string name="privacy_password_use_finger_dialog_open">Ajustes</string>
     <string name="privacy_password_use_finger_dialog_title">Desbloqueo con huella dactilar</string>
     <string name="privacy_password_use_finger_success">Activado</string>
@@ -5769,10 +5774,10 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="screen_color_temperature">Colores</string>
     <string name="screen_color_temperature_and_saturation">Colores y saturación</string>
     <string name="screen_compatibility_label">Compatibilidad de la pantalla</string>
-    <string name="screen_compatibility_text">Es posible que esta aplicación no se haya diseñado para tu pantalla. Aquí puedes controlar cómo se ajusta a la pantalla.</string>
+    <string name="screen_compatibility_text">Es posible que esta aplicación no se haya diseñado para su pantalla. Aquí puede controlar cómo se ajusta a la pantalla.</string>
     <string name="screen_confirm">Encender</string>
     <string name="screen_dark_mode_select_time_error_summary">"La hora de inicio y la hora de fin no pueden ser iguales"</string>
-    <string name="screen_dark_mode_smart_dark_apps_setting_summary">Algunas aplicaciones pueden mostrarse incorrectamente en modo oscuro. Aquí puedes restringir el uso del modo oscuro en cada aplicación.</string>
+    <string name="screen_dark_mode_smart_dark_apps_setting_summary">Algunas aplicaciones pueden mostrarse incorrectamente en modo oscuro. Aquí puede restringir el uso del modo oscuro en cada aplicación.</string>
     <string name="screen_dark_mode_smart_dark_title">Modo oscuro general</string>
     <string name="screen_dark_mode_time_title">Programar</string>
     <string name="screen_effect">Contraste y colores</string>
@@ -5857,17 +5862,14 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="screen_paper_mode_update_white_pkg_list_summary">Actualizar la lista de aplicaciones que usan el modo lectura automáticamente</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">Actualizar automáticamente</string>
     <string name="screen_paper_texture">Textura</string>
-    <string name="screen_pinning_description">"Si esta opción está activada, puedes utilizar el bloqueo de pantalla para mantener visible la pantalla actual hasta que dejes de fijarla.
+    <string name="screen_pinning_description">"La fijación de aplicaciones le permite mantener la aplicación actual a la vista hasta que la desvincule. Esta función se puede utilizar, por ejemplo, para permitir que un amigo de confianza juegue un juego específico. 
 
-Para ello, sigue estos pasos:
+Cuando una aplicación está anclada, la aplicación anclada puede abrir otras aplicaciones y los datos personales pueden ser accesibles. 
 
-1. Comprueba que el bloqueo de pantalla esté activado.
-
-2. Abre la pantalla que quieras fijar.
-
-3. Toca Aplicaciones recientes.
-
-4. Desliza el dedo hacia arriba y, a continuación, toca el icono para fijarla."</string>
+Para usar la fijación de aplicaciones: \u0009
+1.\u0009Active la fijación de aplicaciones \u0009
+2.\u0009Abra la descripción general \u0009
+3.\u0009Pulse el icono de la aplicación en la parte superior de la pantalla y luego pulse Anclar"</string>
     <string name="screen_pinning_dialog_message">"Cuando la aplicación está anclada: 
 
 •\u0009\u0009posible que se pueda acceder a datos personales 
@@ -5922,6 +5924,8 @@ Para usar la fijación de aplicaciones: \u0009
     <string name="screen_timeout_summary">Después de %1$s de inactividad</string>
     <string name="screen_timeout_title">Modo suspensión</string>
     <string name="screen_usage_summary">Cantidad de tiempo que la pantalla ha estado encendida desde la carga completa</string>
+    <string name="screen_zoom_conversation_icon_alex">A</string>
+    <string name="screen_zoom_conversation_icon_pete">P</string>
     <string name="screen_zoom_conversation_message_1">¡Hola, Pablo!</string>
     <string name="screen_zoom_conversation_message_2">¿Nos tomamos un café y nos ponemos al día?</string>
     <string name="screen_zoom_conversation_message_3">¡Claro! Conozco un sitio que no está muy lejos.</string>
@@ -6203,7 +6207,7 @@ Para usar la fijación de aplicaciones: \u0009
     <string name="security_encryption_attention_2">"Deberás introducir la contraseña de bloqueo de pantalla después de cada reinicio para desbloquear el dispositivo. Los reinicios tardarán más tiempo de lo habitual."</string>
     <string name="security_encryption_attention_3">"Deberás establecer una nueva contraseña de pantalla de bloqueo."</string>
     <string name="security_encryption_attention_4">"Asegúrate de recordar la contraseña de la pantalla de bloqueo, o deberás restaurar el dispositivo al estado de fábrica."</string>
-    <string name="security_encryption_attention_info">Puedes cifrar cuentas, ajustes, aplicaciones descargadas y tus datos, contenido multimedia y otros archivos.</string>
+    <string name="security_encryption_attention_info">Puede cifrar cuentas, ajustes, aplicaciones descargadas y sus datos, contenido multimedia y otros archivos.</string>
     <string name="security_encryption_attention_title">Importante</string>
     <string name="security_encryption_close_dialog_info">Elegir no cifrar el dispositivo utilizando la contraseña de pantalla de bloqueo podría hacer que algunos servicios de Google dejen de funcionar.</string>
     <string name="security_encryption_close_dialog_title">Volver a la protección de contraseña predeterminada</string>
@@ -6245,9 +6249,9 @@ Los datos faciales utilizados por el desbloqueo facial se eliminarán de forma p
     <string name="security_settings_face_enroll_introduction_cancel">Cancelar</string>
     <string name="security_settings_face_enroll_introduction_message">Usa tu cara para desbloquear el teléfono, autorizar compras o iniciar sesión en aplicaciones.</string>
     <string name="security_settings_face_enroll_introduction_message_setup">Usa tu cara para desbloquear el teléfono, autorizar compras o iniciar sesión en aplicaciones</string>
-    <string name="security_settings_face_enroll_introduction_message_unlock_disabled">"Utiliza tu cara para desbloquear el teléfono o aprobar compras.
+    <string name="security_settings_face_enroll_introduction_message_unlock_disabled">"Utilice su cara para desbloquear el teléfono o aprobar compras.
 
-Nota: No puedes utilizar tu cara para desbloquear este dispositivo. Si quieres consultar más información, ponte en contacto con el administrador de tu organización."</string>
+Nota: No puede usar su cara para desbloquear este dispositivo. Si quiere consultar más información, pongase en contacto con el administrador de su organización."</string>
     <string name="security_settings_face_enroll_introduction_more">Más</string>
     <string name="security_settings_face_enroll_introduction_no_thanks">No, gracias</string>
     <string name="security_settings_face_enroll_introduction_title">Desbloquea con tu cara</string>
@@ -6293,10 +6297,10 @@ Su teléfono puede ser desbloqueado por alguien que se parezca mucho a usted, di
     <string name="security_settings_fingerprint_enroll_dialog_delete">Eliminar</string>
     <string name="security_settings_fingerprint_enroll_dialog_name_label">Nombre</string>
     <string name="security_settings_fingerprint_enroll_dialog_ok">Aceptar</string>
-    <string name="security_settings_fingerprint_enroll_disclaimer">Además de desbloquear el teléfono, también puedes utilizar tu huella dactilar para autorizar acceso a aplicaciones y compras. <annotation id="url">Más información</annotation></string>
-    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">\" La opción de bloqueo de pantalla está inhabilitada. Para obtener más información, ponte en contacto con el administrador de la organización. \"<annotation id="admin_details">Más detalles</annotation>\"
+    <string name="security_settings_fingerprint_enroll_disclaimer">Además de desbloquear el teléfono, también puede utilizar su huella dactilar para autorizar acceso a aplicaciones y compras. <annotation id="url">Más información</annotation></string>
+    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">\" La opción de bloqueo de pantalla está inhabilitada. Para obtener más información, pongase en contacto con el administrador de la organización. \"<annotation id="admin_details">Más detalles</annotation>\"
 
-Puedes seguir utilizando tu huella dactilar para autorizar compras y acceder a las aplicaciones. \"<annotation id="url">Más información</annotation></string>
+Puede seguir utilizando su huella dactilar para autorizar compras y acceder a las aplicaciones. \"<annotation id="url">Más información</annotation></string>
     <string name="security_settings_fingerprint_enroll_done">Listo</string>
     <string name="security_settings_fingerprint_enroll_enrolling_skip">Hazlo después</string>
     <string name="security_settings_fingerprint_enroll_error_dialog_title">Registro no completado</string>
@@ -6305,7 +6309,7 @@ Puedes seguir utilizando tu huella dactilar para autorizar compras y acceder a l
     <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Ilustración con la ubicación del sensor de huellas dactilares y dispositivo</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message">Localiza el sensor de huellas dactilares situado en la parte trasera del teléfono.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_title">Localiza el sensor</string>
-    <string name="security_settings_fingerprint_enroll_finish_message">Cuando aparezca este icono, puedes usar tu huella dactilar para identificarte o autorizar una compra.</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">Cuando aparezca este icono, puede usar su huella dactilar para identificarse o autorizar una compra</string>
     <string name="security_settings_fingerprint_enroll_finish_title">Huella dactilar añadida</string>
     <string name="security_settings_fingerprint_enroll_introduction_cancel">Cancelar</string>
     <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Saltar</string>
@@ -6317,9 +6321,9 @@ Nota: Es posible que tu huella dactilar sea menos segura que un buen patrón o P
     <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Solo tienes que tocar el sensor de huellas dactilares para desbloquear el teléfono, autorizar compras o iniciar sesión en aplicaciones. Cualquier huella dactilar que añadas podrá realizar estas acciones, por lo que debes tener cuidado con las huellas que incluyas.
 
 Nota: Es posible que tu huella dactilar sea menos segura que un buen patrón o PIN."</string>
-    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Solo tienes que tocar el sensor de huellas dactilares para autorizar compras o iniciar sesión en aplicaciones. Cualquier huella dactilar que añadas podrá realizar estas acciones, por lo que debes tener cuidado con las huellas que incluyas.
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Use su huella dactilar para desbloquear el teléfono o autorizar compras.
 
-Nota: No puedes usar tu huella dactilar para desbloquear este dispositivo. Para obtener más información, ponte en contacto con el administrador de tu organización."</string>
+Nota: no puede usar su huella dactilar para desbloquear este dispositivo. Para obtener más información, comuníquese con el administrador de su organización."</string>
     <string name="security_settings_fingerprint_enroll_introduction_title">Desbloqueo con huella dactilar</string>
     <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Usar tu huella dactilar</string>
     <string name="security_settings_fingerprint_enroll_lift_touch_again">Levanta el dedo y vuelve a tocar el sensor</string>
@@ -6643,15 +6647,15 @@ Es posible que el PIN no sea correcto."</string>
     <string name="sort_order_frequent_notification">Más frecuente</string>
     <string name="sort_order_recent_notification">Más reciente</string>
     <string name="sort_order_size">Ordenar por tamaño</string>
-    <string name="sos_phone_call_privacy_dialog_message">"Para llamar a sus contactos de emergencia y reproducir grabación SOS, esta aplicación necesita los siguientes permisos:
+    <string name="sos_phone_call_privacy_dialog_message">"Para llamar a sus contactos de emergencia y reproducir una grabación SOS, esta aplicación necesita los siguientes permisos:
 • Hacer llamadas
 Para hacer llamadas a sus contactos de emergencia
 • Monitorizar el estado del dispositivo
-Para reproducir la grabación SOS cuando sus contactos de emergencia recogen
-Si no acepta otorgar tales permisos, no podrá usar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible para usted. Siempre puedes elegir desactivar esta función."</string>
+Para reproducir la grabación SOS a sus contactos de emergencia 
+Si no acepta otorgar estos permisos, no podrá usar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible. Siempre puede elegir desactivar esta función."</string>
     <string name="sos_phone_call_privacy_dialog_message_confirm">Permitir</string>
     <string name="sos_phone_log_privacy_dialog_message">"Esta aplicación necesita permiso para acceder a su historial de llamadas para poder compartirlo con sus contactos de emergencia.
-Si no acepta otorgar tales permisos, no podrá usar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible para usted. Siempre puedes elegir desactivar esta función."</string>
+Si no acepta otorgar estos permisos, no podrá usar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible. Puede desactivar esta función."</string>
     <string name="sos_privacy_and_content_policy">Acuerdo de Usuario y Política de Privacidad</string>
     <string name="sos_privacy_dialog_button_cancel">Cancelar</string>
     <string name="sos_privacy_dialog_button_ok">Aceptar</string>
@@ -6801,22 +6805,22 @@ Para utilizar el dispositivo de almacenamiento (^1) con este dispositivo, debes 
     <string name="storage_games">Juegos</string>
     <string name="storage_internal_forget_confirm">Las aplicaciones, las fotos y los datos almacenados en este dispositivo de almacenamiento (^1) se perderán de forma permanente.</string>
     <string name="storage_internal_forget_confirm_title">¿Borrar ^1?</string>
-    <string name="storage_internal_forget_details">"Para utilizar las aplicaciones, fotos o datos incluidos en tu ^1, vuelve a insertarla. 
+    <string name="storage_internal_forget_details">"Para usar las aplicaciones, fotos o datos que contiene este ^ 1, vuelva a insertar. 
 
-También puedes olvidar el almacenamiento si el dispositivo no está disponible. 
+También puede optar por olvidar este almacenamiento si el dispositivo no está disponible. 
 
-Si lo haces, los datos del dispositivo se perderán para siempre. 
+Se perderán todos los datos del dispositivo para siempre si escoge esta opción. 
 
-Puedes volver a instalar las aplicaciones más tarde, pero se perderán sus datos almacenados en este dispositivo."</string>
-    <string name="storage_internal_format_details">"Después de formatear la unidad, puedes utilizar tu ^1 en otros dispositivos. 
+Puede reinstalar las aplicaciones más tarde, pero los datos almacenados en este dispositivo se perderán."</string>
+    <string name="storage_internal_format_details">"Después de formatear, puede usar este ^ 1 en otros dispositivos. 
 
-Te recomendamos que hagas una copia de seguridad de los datos de tu ^1, ya que se borrarán cuando se formatee. 
+Se borrarán todos los datos de este ^ 1. Considere realizar copia de seguridad primero. 
 
-\"&lt;b&gt;Copia de seguridad de fotos y de otro contenido multimedia&lt;/b&gt;\" 
-Mueve tus archivos multimedia a otro espacio de almacenamiento del dispositivo o transfiérelos a un ordenador con un cable USB. 
+\"<b>Copia de seguridad de fotos y multimedia</b>\" 
+Pase sus archivos multimedia a un almacenamiento alternativo a este dispositivo o transfiéralos a un ordenador con un cable USB. 
 
-\"&lt;b&gt;Copia de seguridad de aplicaciones&lt;/b&gt;\" 
-Se desinstalarán todas las aplicaciones almacenadas en tu ^1 y se borrarán sus datos. Para conservarlas, muévelas a otro espacio de almacenamiento del dispositivo."</string>
+\"<b>Hacer copia de seguridad de las aplicaciones</b>\" 
+Todas las aplicaciones almacenadas en este ^ 1 se desinstalarán y sus datos se borrarán. Para conservar estas aplicaciones, páselas a un almacenamiento alternativo a este dispositivo."</string>
     <string name="storage_internal_title">Almacenamiento interno</string>
     <string name="storage_internal_unmount_details">&lt;b&gt;Al extraer tu ^1, las aplicaciones almacenadas en esta unidad dejarán de funcionar y los archivos multimedia guardados en ella no estarán disponibles hasta que se vuelva a insertar.&lt;/b&gt;\" 
 
@@ -6900,7 +6904,7 @@ Una vez que se formatee, tu ^1 solo funcionará en este dispositivo.
     <string name="storage_wizard_init_v2_later">Configurar mas tarde</string>
     <string name="storage_wizard_init_v2_or">O</string>
     <string name="storage_wizard_init_v2_title">¿Cómo vas a utilizar este ^1?</string>
-    <string name="storage_wizard_migrate_body">"Puedes mover tus fotos, archivos y algunas aplicaciones a ^1. 
+    <string name="storage_wizard_migrate_body">"Puede mover sus fotos, archivos y algunas aplicaciones a ^1. 
 Tardará ^2 y liberará ^3 de almacenamiento interno. Algunas aplicaciones no funcionarán durante el proceso."</string>
     <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;La migración durará ^1 y permitirá liberar ^2 de espacio de almacenamiento en ^3.&lt;/b&gt;</string>
     <string name="storage_wizard_migrate_confirm_next">Mover</string>
@@ -6937,15 +6941,19 @@ La aplicación ^2 de este dispositivo no estará disponible hasta que finalice e
 
 Para mover fotos, archivos y datos de aplicaciones a este dispositivo, accede a Ajustes &gt; Almacenamiento."</string>
     <string name="storage_wizard_ready_title">^1 está listo</string>
-    <string name="storage_wizard_ready_v2_external_body">Puedes mover contenido a ^1</string>
+    <string name="storage_wizard_ready_v2_external_body">Puede mover contenido a ^1</string>
     <string name="storage_wizard_ready_v2_internal_body">Para mover contenido a ^1, vaya a &lt;b&gt; Configuración &amp; gt; Almacenamiento &lt;/b&gt;</string>
     <string name="storage_wizard_ready_v2_internal_moved_body">\"Su contenido se movió a ^1. Para administrar este ^2, vaya a\" &lt;b&gt; Configuración &amp; gt; Almacenamiento &lt;/b&gt;.</string>
     <string name="storage_wizard_slow_body">"Esta ^1 no parece ser muy rápida. 
 
-Puedes seguir, pero puede que las aplicaciones movidas a esta ubicación no funcionen de forma fluida y las transferencias de datos tarden bastante. 
+Puede seguir, pero puede que las aplicaciones movidas a esta ubicación no funcionen de forma fluida y las transferencias de datos tarden bastante. 
 
-Considera usar una ^1 para mejorar el rendimiento."</string>
-    <string name="storage_wizard_slow_v2_body">"Aún puedes usar este ^1, pero puede ser lento. Las aplicaciones almacenadas en este ^2 pueden no funcionar correctamente y las transferencias de contenido pueden llevar mucho tiempo. Intente usar un ^ 3 más rápido, o use este ^ 4 para el almacenamiento portátil."</string>
+Considere usar una ^1 para mejorar el rendimiento."</string>
+    <string name="storage_wizard_slow_v2_body">"Aún puede usar este ^ 1, pero puede que sea lento. 
+
+Las aplicaciones almacenadas en este ^ 2 pueden no funcionar correctamente y que la transferencia de contenido lleve mucho tiempo. 
+
+Intente usar un ^ 3 más rápido, o use este ^ 4 para el almacenamiento portátil."</string>
     <string name="storage_wizard_slow_v2_continue">Continuar</string>
     <string name="storage_wizard_slow_v2_start_over">Empezar de nuevo</string>
     <string name="storage_wizard_slow_v2_title">Lento ^1</string>
@@ -7030,8 +7038,8 @@ Considera usar una ^1 para mejorar el rendimiento."</string>
     <string name="supplicant_state_label">Estado suplicante:</string>
     <string name="support_summary">Artículos de ayuda, asistencia por teléfono y chat</string>
     <string name="sure_sync_now">¿Sincronizar elementos ahora?</string>
-    <string name="swipe_direction_ltr">Desliza el dedo a la derecha para ignorar la notificación y a la izquierda para mostrar el menú</string>
-    <string name="swipe_direction_rtl">Desliza el dedo a la izquierda para ignorar la notificación y a la derecha para mostrar el menú</string>
+    <string name="swipe_direction_ltr">Deslice el dedo a la derecha para ignorar la notificación y a la izquierda para mostrar el menú</string>
+    <string name="swipe_direction_rtl">Deslice el dedo a la izquierda para ignorar la notificación y a la derecha para mostrar el menú</string>
     <string name="swipe_direction_title">Acciones al deslizar el dedo</string>
     <string name="swipe_up_to_switch_apps_suggestion_summary">Enciende el nuevo gesto para cambiar de aplicación.</string>
     <string name="swipe_up_to_switch_apps_suggestion_title">Prueba el nuevo botón de inicio</string>
@@ -7449,6 +7457,7 @@ Las huellas dactilares guardadas también se eliminarán del perfil y no podrá 
     <string name="usage_state_device_unlock_today_tip_title">Dispositivo desbloqueado entre %1$d:00 y %2$d:00</string>
     <string name="usage_state_friday">Vie</string>
     <string name="usage_state_go_more">Más aplicaciones</string>
+    <string name="usage_state_hour_minute">%1$dh %2$dm</string>
     <string name="usage_state_less_one_minute">Menos de 1 minuto</string>
     <string name="usage_state_monday">Lun</string>
     <string name="usage_state_mourth_day">\'Tiempo de uso en\' d MMM</string>
@@ -7609,9 +7618,9 @@ Las huellas dactilares guardadas también se eliminarán del perfil y no podrá 
     <string name="use_system_language_to_select_input_method_subtypes">Usar idioma del sistema</string>
     <string name="use_this_wlan">Permanecer conectado</string>
     <string name="user_account_title">Cuenta para contenido</string>
-    <string name="user_add_max_count">Puedes añadir hasta %1$d usuarios</string>
+    <string name="user_add_max_count">Puede añadir hasta %1$d usuarios</string>
     <string name="user_add_on_lockscreen_menu">Añadir usuarios desde la pantalla de bloqueo</string>
-    <string name="user_add_profile_item_summary">Desde tu cuenta, puedes restringir el acceso a las aplicaciones y al contenido</string>
+    <string name="user_add_profile_item_summary">Desde su cuenta, puede restringir el acceso a las aplicaciones y contenido</string>
     <string name="user_add_profile_item_title">Perfil restringido</string>
     <string name="user_add_user_item_summary">Los usuarios tienen contenido y aplicaciones propios</string>
     <string name="user_add_user_item_title">Usuario</string>
@@ -7955,7 +7964,7 @@ Durante una llamada de voz, no puede utilizar Internet y es posible que algunas 
     <string name="wechat">WeChat</string>
     <string name="weight_heavy">Negrita</string>
     <string name="weight_light">Delgado</string>
-    <string name="weight_setting_toast">Solo puedes cambiar el grosor de la fuente en la fuente del sistema por defecto</string>
+    <string name="weight_setting_toast">Solo se puede cambiar el grosor de la fuente del sistema que viene por defecto</string>
     <string name="welcome">Bienvenido</string>
     <string name="wellbing_title">Bienestar digital y control parental</string>
     <string name="wfc_disclaimer_agree_button_text">CONTINUAR</string>
@@ -8374,7 +8383,7 @@ Revisa la Política de Privacidad de tu proveedor de servicios."</string>
 
 Permitir esto para todas las aplicaciones que quieran escanear?"</string>
     <string name="wifi_scan_notify_remember_choice">No volver a mostrar</string>
-    <string name="wifi_scan_notify_text">Para mejorar la precisión de la ubicación, los servicios y las aplicaciones del sistema pueden buscar redes Wi-Fi aunque esté desactivada la conexión Wi-Fi. Puedes cambiar esta opción en los LINK_BEGINajustes de búsquedaLINK_END.</string>
+    <string name="wifi_scan_notify_text">Para mejorar la precisión de la ubicación, los servicios y las aplicaciones pueden buscar redes Wi-Fi aunque esté desactivada. Puede cambiar esta opción en los LINK_BEGINajustes de búsquedaLINK_END.</string>
     <string name="wifi_scan_notify_text_scanning_off">Para mejorar la precisión de la ubicación, active la búsqueda de Wi-Fi en LINK_BEGINscanning settingsLINK_END.</string>
     <string name="wifi_scan_throttling">Aceleración de escaneo de Wi-Fi</string>
     <string name="wifi_scan_throttling_summary">Reduce el uso de batería y mejora el rendimiento de la red</string>
@@ -8454,8 +8463,8 @@ Toca\" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi.</string>
     <string name="wifi_share_action_turn_on">Compartir Wi-Fi</string>
     <string name="wifi_share_action_turn_on_summary">Para compartir, inicia sesión en Cuenta Mi</string>
     <string name="wifi_share_add">Compartir mis redes Wi-Fi públicas</string>
-    <string name="wifi_share_add_summary">"Cuando compartas tus redes públicas,
- puedes utilizar también las redes de otros usuarios"</string>
+    <string name="wifi_share_add_summary">"Cuando comparta sus redes públicas,
+puede utilizar también las redes de otros usuarios."</string>
     <string name="wifi_share_connect">Conectar</string>
     <string name="wifi_share_connected_summary">"Estás conectado a una red Wi-Fi pública que ha sido compartida por otro usuario."</string>
     <string name="wifi_share_connected_title">Wi-Fi compartido MIUI</string>
@@ -8463,7 +8472,7 @@ Toca\" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi.</string>
     <string name="wifi_share_know">Aceptar</string>
     <string name="wifi_share_list_empty">No se han encontrado redes compartidas.</string>
     <string name="wifi_share_login">Compartir red Wi-Fi</string>
-    <string name="wifi_share_login_summary">Esta es una red pública, puedes compartirla con otros usuarios de MIUI.</string>
+    <string name="wifi_share_login_summary">Si se trata de una red pública, puede compartirla con otros usuarios de MIUI.</string>
     <string name="wifi_share_notification_summary">MIUI lo ha conectado a una red Wi-Fi pública.</string>
     <string name="wifi_share_other_network">Otras redes</string>
     <string name="wifi_share_qrcode_finish">Aceptar</string>
@@ -8471,7 +8480,7 @@ Toca\" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi.</string>
     <string name="wifi_share_qrcode_title">Compartir red Wi-Fi</string>
     <string name="wifi_share_show_network">Mostrar redes</string>
     <string name="wifi_share_summary1">Los usuarios de MIUI pueden compartir redes Wi-Fi públicas (cafés, restaurantes, hoteles, etc.) entre sí.</string>
-    <string name="wifi_share_summary2">Cuando otro usuario de MIUI comparte una red, puedes conectarte directamente a la red sin necesidad de utilizar una contraseña.</string>
+    <string name="wifi_share_summary2">Cuando otro usuario de MIUI comparta una red, puede conectarse directamente sin necesidad de contraseña.</string>
     <string name="wifi_share_summary3">También puede compartir sus redes Wi-Fi públicas con otros usuarios de MIUI.</string>
     <string name="wifi_share_turn_off">Desactivado</string>
     <string name="wifi_share_turn_on">Activado</string>
@@ -8619,7 +8628,7 @@ Toca\" &lt;b&gt;Atrás&lt;/b&gt; para conectarte a otra red Wi-Fi.</string>
     <string name="work_ringtone_title">Tono de llamada del teléfono de trabajo</string>
     <string name="work_sim_title">SIM de trabajo</string>
     <string name="work_sound_permission_dialog_button_text_known">Lo tengo</string>
-    <string name="work_sound_permission_dialog_message">"No puedes usar Temas en el modo Enterprise. Póngase en contacto con su supervisor para obtener acceso."</string>
+    <string name="work_sound_permission_dialog_message">"No puede usar Temas en el modo empresa. Póngase en contacto con su supervisor para obtener acceso."</string>
     <string name="work_sound_permission_dialog_title">Restricciones de modo empresarial</string>
     <string name="work_sound_same_as_personal">Igual que el perfil personal</string>
     <string name="work_space_delete">Eliminar Espacio de trabajo</string>

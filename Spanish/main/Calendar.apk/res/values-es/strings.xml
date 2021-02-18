@@ -39,7 +39,7 @@
     <string name="accessibility_repeats">Repetir</string>
     <string name="accessibility_sync_cal">Sincronizar calendario</string>
     <string name="accessibility_year_item_selected">Mes seleccionado: %d. Toque para abrir la vista de mes.</string>
-    <string name="accessibility_year_page_selected">Vista de año para %d. Desliza el dedo hacia la izquierda o la derecha para cambiar entre años, toca para seleccionar meses.</string>
+    <string name="accessibility_year_page_selected">Vista de año para %d. Deslice el dedo hacia la izquierda o la derecha para cambiar entre años, toque para seleccionar meses.</string>
     <string name="account_and_calendar">Cuentas</string>
     <string name="account_import_calendar">Importar calendario</string>
     <string name="account_manager_delete">Eliminar cuenta</string>
@@ -156,6 +156,7 @@
     <string name="date_interval_description">Averigua cuántos días hay entre 2 fechas</string>
     <string name="date_interval_end">A</string>
     <string name="date_interval_start">Desde</string>
+    <string name="date_interval_tab">Intervalo</string>
     <string name="date_interval_text_to">Al %1$s</string>
     <string name="date_jump_title">Ir a la fecha</string>
     <string name="date_picker_lunar">Calendario Lunar</string>
@@ -344,6 +345,7 @@
     <string name="import_help">Ayuda</string>
     <string name="import_text">Importar</string>
     <string name="imported">Importado</string>
+    <string name="insert_event_dialog_btn_negative">No</string>
     <string name="insert_event_dialog_btn_positive">Sí</string>
     <string name="insert_event_dialog_message">¿Añadir este evento al calendario?</string>
     <string name="insert_event_dialog_title">Atención</string>
@@ -371,6 +373,7 @@
     <string name="lunar_date">Fecha lunar</string>
     <string name="lunar_date_content_desc">Fecha según el calendario chino tradicional</string>
     <string name="lunar_to_solar_chinese_calendar">Chino a Gregoriano</string>
+    <string name="menu_general_preferences">General</string>
     <string name="menu_reminder_preferences">Recordatorios</string>
     <string name="midnight">Noche</string>
     <string name="missing_name">(Sin nombre)</string>
@@ -622,6 +625,7 @@ Compruebe los ajustes de red e inténtelo de nuevo."</string>
     <string name="repeat_label_week">Semana</string>
     <string name="repeats_label">Repetir</string>
     <string name="response_maybe">Quizá</string>
+    <string name="response_no">No</string>
     <string name="response_yes">Sí</string>
     <string name="rest_day_indication">:)</string>
     <string name="saturday">Sábado</string>
@@ -809,6 +813,7 @@ Compruebe los ajustes de red e inténtelo de nuevo."</string>
     <string name="train_event_station_header_depart_time">Salidas</string>
     <string name="train_event_station_header_name">Estación</string>
     <string name="train_event_station_header_stay_time">Hora parada</string>
+    <string name="train_event_station_stay_time">%1$s minuto</string>
     <string name="travel_carriage_number_text">Coche</string>
     <string name="travel_event_add_successfully">Evento creado</string>
     <string name="travel_event_title_flight">Vuelo: %1$s-%2$s %3$s</string>

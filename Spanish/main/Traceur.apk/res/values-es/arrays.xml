@@ -154,6 +154,12 @@
         <item>4K (mejorado, seguro)</item>
         <item>720p, 1080p (pantalla doble)</item>
     </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Apagado</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desactivado</item>
         <item>64 K/búfer registro</item>
@@ -190,7 +196,7 @@
     <string-array name="track_frame_time_entries">
         <item>Desactivado</item>
         <item>En pantalla como barras</item>
-        <item>In adb shell dumpsys gfxinfo</item>
+        <item>En adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animación desactivada</item>

@@ -594,6 +594,7 @@
     <string name="auto_clean_close">Las limpiezas automáticas están desactivadas</string>
     <string name="auto_data_back_booster">El acelerador de velocidad del juego está apagado. Se restablecen las funciones de comunicación.</string>
     <string name="auto_data_booster_suc">El acelerador de velocidad del juego está activado. Cambió al modo inmersivo.</string>
+    <string name="auto_handle_title">GENERAL</string>
     <string name="auto_import_games">Pon todos tus juegos en el mismo lugar</string>
     <string name="auto_send_correcting_msg">Déjelo en blanco para verificar automáticamente a través de un SMS gratuito</string>
     <string name="auto_set_by_brand">Sincronice los detalles del plan de datos con su operador</string>
@@ -648,6 +649,7 @@
     <string name="auto_task_operation_no_op">No seleccionar esta acción</string>
     <string name="auto_task_operation_open">Activada</string>
     <string name="auto_task_operation_open_string">Activar %s</string>
+    <string name="auto_task_operation_string_etc">, etc.</string>
     <string name="auto_task_operation_sync">Sincronización</string>
     <string name="auto_task_operation_vibration">Vibración</string>
     <string name="auto_task_operation_wifi">Wifi</string>
@@ -689,6 +691,10 @@
     <string name="battery_health_title_text">Salud de la batería</string>
     <string name="battery_health_voltage_text">Voltaje de la batería</string>
     <string name="battery_history_activity_title">Historial</string>
+    <string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>
+    <string name="battery_history_hours">%1$dh %2$dm %3$ds</string>
+    <string name="battery_history_minutes">%1$dm %2$ds</string>
+    <string name="battery_history_seconds">%1$ds</string>
     <string name="battery_low_button_not_open_power_save">Ahora no</string>
     <string name="battery_low_button_open_power_save">Activar</string>
     <string name="battery_low_percent_format_save_mode_closed">"Queda menos del %s de batería. No olvides cargar tu dispositivo."</string>
@@ -1270,6 +1276,8 @@ Debe entender que esta característica se proporciona únicamente para su refere
     <string name="exo_download_failed">Descarga fracasó</string>
     <string name="exo_download_notification_channel_name">Descargas</string>
     <string name="exo_download_removing">Eliminar descargas</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Ninguna</string>
     <string name="exo_track_selection_title_audio">Disparador por voz</string>
     <string name="exo_track_selection_title_text">Texto</string>
@@ -1779,6 +1787,7 @@ para unirte a nuestra búsqueda de huevos!"</string>
     <string name="hints_scan_result_safe">Seguro</string>
     <string name="hints_scanning">Escaneando…</string>
     <string name="hints_scanning_text">Escaneando…</string>
+    <string name="hints_virus_app_list_item_summary">aplicación</string>
     <string name="hints_virus_lib_update_default_summary">Hora de última actualización: desconocida</string>
     <string name="hot">Popular</string>
     <string name="hot_today">Popular hoy</string>
@@ -1845,6 +1854,7 @@ para unirte a nuestra búsqueda de huevos!"</string>
     <string name="item_system_auto_download">Descargar actualizaciones automáticamente</string>
     <string name="item_usb_debug">Depuración USB</string>
     <string name="item_virus_lib">Actualizar definiciones de virus automáticamente</string>
+    <string name="kilobyte_per_second">Kb/s</string>
     <string name="label_callwait">Notificación de llamada en espera</string>
     <string name="label_mi_stats">Mi analítica</string>
     <string name="last_check_canceled">El análisis anterior fue cancelado</string>
@@ -1983,6 +1993,7 @@ responda"</string>
     <string name="mark_sell_time_setting">Bloquear números que han sido denunciados como vendedores telefónicos un número determinado de veces</string>
     <string name="mark_time_setting_dialog_title">Denunciar número</string>
     <string name="marked_by_user">"Lo has marcado como "</string>
+    <string name="megabyte_per_second">MB/s</string>
     <string name="memory_check_content">%s liberado(s)</string>
     <string name="memory_clean_memory_size_tip">Caché</string>
     <string name="memory_clean_no_need_clean">Todo parece estar en orden</string>
@@ -3933,12 +3944,16 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="third_application">Aplicaciones instaladas</string>
     <string name="third_desktop_dialog_content">Como las aplicaciones de inicio de terceros pueden provocar problemas como pérdida de datos, agotamiento y retraso anormal de la batería, etc., solo las verificadas por MIUI se pueden configurar como su iniciador predeterminado.</string>
     <string name="third_desktop_dialog_ok">Entendido</string>
+    <string name="third_desktop_dialog_title">Error</string>
     <string name="three_percent_total_pkg">%s (3%% de datos mensuales)</string>
     <string name="thursday">Jueves</string>
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>
     <string name="time_picker_dialog_title">Establecer la hora</string>
+    <string name="timeshow_h">%.1fh</string>
+    <string name="timeshow_h_int">%dh</string>
     <string name="timeshow_m">%d min</string>
+    <string name="timeshow_s">%ds</string>
     <string name="tips_dialog_title">"¿No conoce su límite?"</string>
     <string name="tips_message">"Para ver los detalles de su plan de datos, marque %2$s (%1$s)."</string>
     <string name="tips_of_app_manage">Eliminar las aplicaciones que se usan poco para ahorrar almacenamiento</string>

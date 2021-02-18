@@ -106,6 +106,8 @@
     <string name="close_twice_auth_btn">Desactivar la autenticación de dos factores</string>
     <string name="close_twice_auth_note">"Nota:
 Después de crear una nueva pregunta de seguridad y confirmar su fecha de nacimiento, se desactivará la autenticación de dos factores de Apple ID. Si no ve la opción de desactivar la autenticación de dos factores en la página de la cuenta ID de Apple, no podrá desactivarla."</string>
+    <string name="close_twice_auth_operation">"URL:
+https://appleid.apple.com/#!&amp;page=signin para cerrar"</string>
     <string name="close_twice_auth_step_1">1. Abra cualquier navegador web en cualquier ordenador y vaya a appleid.apple.com.</string>
     <string name="close_twice_auth_step_2">2. Inicia sesión con el ID de Apple para la que deseas desactivar la autenticación de dos factores, ve a la sección \"Seguridad\" de los ajustes de la cuenta y elige \"Editar\".</string>
     <string name="close_twice_auth_step_3">3. Haga clic en \"Desactivar la autenticación de dos factores\". Haga clic de nuevo para confirmar.</string>
@@ -156,6 +158,7 @@ Después de crear una nueva pregunta de seguridad y confirmar su fecha de nacimi
     <string name="dialog_backup_password_change_machine_tips">"No podrá transferir copias de seguridad protegidas por contraseña. Desactive la contraseña de la copia de seguridad antes de usar Mi Mover."</string>
     <string name="dialog_backup_password_restore_tips">"No puede usar restaurar elementos mientras la contraseña de seguridad esté activada. Desactiva la contraseña de seguridad primero."</string>
     <string name="dialog_backup_password_to_settings">Ajustes</string>
+    <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="disable_encrypt_description">No cifrar</string>
     <string name="disable_encrypt_title">Desactivar el cifrado</string>
     <string name="enable_encrypt">Activar el cifrado</string>

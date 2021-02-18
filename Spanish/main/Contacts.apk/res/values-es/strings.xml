@@ -255,6 +255,7 @@
     <string name="calllog_menu_send_sms">Enviar mensaje</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$dm %2$ds</string>
     <string name="callrecordview_item_op_time_missed">"No contestó"</string>
+    <string name="callrecordview_item_op_time_only_minutes">%d minuto</string>
     <string name="callrecordview_item_op_time_only_seconds">%d seg</string>
     <string name="callrecordview_item_op_time_rejected">Rechazada</string>
     <string name="callrecordview_item_op_time_short_incoming">"Entrante: "</string>
@@ -330,6 +331,7 @@
     <string name="contact_clear_search_history">Limpiar historial</string>
     <string name="contact_delete_toast">Contacto eliminado correctamente</string>
     <string name="contact_detail_action_item_calllog">Registro de llamadas</string>
+    <string name="contact_detail_calllog_call_note_tips">Notas</string>
     <string name="contact_detail_calllog_call_record_tips">Llamada grabada</string>
     <string name="contact_detail_calllog_correct_yellow_page">Corregir o notificar</string>
     <string name="contact_detail_calllog_empty">Sin historial</string>
@@ -435,6 +437,7 @@ Mi Roaming necesita conectarse a Internet y acceder a la información de su ubic
     <string name="description_image_button_star">estrella</string>
     <string name="description_image_button_three">tres</string>
     <string name="description_image_button_two">dos</string>
+    <string name="description_image_button_zero">cero</string>
     <string name="description_minus_button">Menos</string>
     <string name="description_quick_contact_for">Contacto rápido de %1$s</string>
     <string name="description_quick_dial_button">Marcación rápida</string>
@@ -466,6 +469,7 @@ Mi Roaming necesita conectarse a Internet y acceder a la información de su ubic
 2. Abre Ajustes en la aplicación de Contactos y ve a “Importar/Exportar contactos” -- “Importar desde tarjeta SIM”, mantén pulsado cualquier contacto SIM para seleccionarlo, selecciona todos los contactos que desees y pulsa “Importar”.”"</string>
     <string name="device_version_header_bluetooth">Importar vía Bluetooth</string>
     <string name="device_version_header_no_bluetooth">Importar vía tarjeta SIM</string>
+    <string name="dialerIconLabel">Recientes</string>
     <string name="dialer_copy_view_delete_description">Borrar número copiado</string>
     <string name="dialer_digits_copy_number_label">Número copiado</string>
     <string name="dialer_empty_text_no_call_log">Sin contactos recientes</string>
@@ -500,6 +504,7 @@ Mi Roaming necesita conectarse a Internet y acceder a la información de su ubic
     <string name="editContactNameExpandOpenDescription">Expandir nombre</string>
     <string name="edit_contact_card_title">Selecciona elementos para compartir</string>
     <string name="edit_contact_photo">Editar foto de contacto</string>
+    <string name="eight_letter">TUV</string>
     <string name="email">Correo electrónico</string>
     <string name="emailLabelsGroup">Correo electrónico</string>
     <string name="email_custom">Enviar correo electrónico a %s</string>
@@ -548,6 +553,7 @@ Motivo: \"%s\""</string>
     <string name="favorites_list_empty">No hay favoritos</string>
     <string name="feedback">Realimentación</string>
     <string name="firewall_setting">Lista de bloqueo</string>
+    <string name="five_letter">JKL</string>
     <string name="flow_use_analyse">Estadísticas de uso</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
@@ -600,6 +606,7 @@ Motivo: \"%s\""</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
+    <string name="four_letter">GHI</string>
     <string name="frequentList">Frecuentes</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
@@ -672,6 +679,7 @@ Motivo: \"%s\""</string>
     <string name="keep_local_btn">"Usar la memoría interna del dispositivo"</string>
     <string name="label_custom_type">Personalizado</string>
     <string name="label_no_duplicate_contacts">No se han encontrado duplicados</string>
+    <string name="label_notes">Notas</string>
     <string name="label_sip_address">Llamada a través de Internet</string>
     <string name="launcherDialer">Teléfono</string>
     <string name="listCustomView">Contactos en vista personalizada</string>
@@ -721,6 +729,7 @@ Motivo: \"%s\""</string>
     <string name="menu_settings">Ajustes</string>
     <string name="menu_share">Compartir</string>
     <string name="menu_share_qrcode">Código QR</string>
+    <string name="menu_share_text">Texto</string>
     <string name="menu_share_vcard_file">Archivo</string>
     <string name="menu_sync_remove">Eliminar sincronización de grupo</string>
     <string name="midnight">Noche</string>
@@ -821,6 +830,7 @@ Motivo: \"%s\""</string>
     <string name="nickname_picker_name_column">Nombre de contacto</string>
     <string name="nickname_picker_nickname_column">Título</string>
     <string name="night">Noche</string>
+    <string name="nine_letter">WXYZ</string>
     <string name="noAccounts">Para crear grupos necesitas una cuenta.</string>
     <string name="no_contacts_dialog_message">"Los contactos pueden almacenarse en su tarjeta SIM. Intente importarlos al almacenamiento interno de su dispositivo e inténtelo de nuevo."</string>
     <string name="no_contacts_dialog_title">"No se pueden encontrar contactos"</string>
@@ -919,6 +929,7 @@ Motivo: \"%s\""</string>
     <string name="preference_smart_group_company_summary">Agrupar por compañía</string>
     <string name="preference_smart_group_company_title">Compañías</string>
     <string name="preference_smart_group_frequency_summary">Agrupar por más recientes</string>
+    <string name="preference_smart_group_frequency_title">Recientes</string>
     <string name="preference_smart_group_location_summary">Agrupar por código de área</string>
     <string name="preference_smart_group_location_title">Ubicaciones</string>
     <string name="preference_smart_group_title">Grupos inteligentes</string>
@@ -956,6 +967,7 @@ Motivo: \"%s\""</string>
     <string name="reading_vcard_failed_title">"No se pudieron leer los datos de vCard"</string>
     <string name="rebuild_t9_index_dialog_message">Reconstruyendo…</string>
     <string name="recentCallsIconLabel">Registro de llamadas</string>
+    <string name="recent_contacts_label">Recientes</string>
     <string name="recent_number">Reciente</string>
     <string name="redirect_calls_to_vm_confirm_message">Antes de configurar el buzón de voz, comprueba los términos y condiciones del contrato con tu operador de red.</string>
     <string name="redirect_calls_to_vm_confirm_text">Aceptar</string>
@@ -1015,6 +1027,7 @@ Motivo: \"%s\""</string>
     <string name="service_provider">Directorio</string>
     <string name="service_provider_detail">Detalles del directorio</string>
     <string name="set_default">Establecer como predeterminado</string>
+    <string name="seven_letter">PQRS</string>
     <string name="share_contact_as">Compartir contacto como</string>
     <string name="share_error">"Este contacto no puede compartirse"</string>
     <string name="share_over_limit">"No puede compartir más de 1000 contactos"</string>
@@ -1053,19 +1066,23 @@ Motivo: \"%s\""</string>
     <string name="sim_no_contact">No hay contactos en la tarjeta SIM</string>
     <string name="sim_unloaded">"Tarjeta SIM no instalada"</string>
     <string name="single_group_list_empty">No hay miembros en el grupo</string>
+    <string name="six_letter">MNO</string>
     <string name="smart_group_company_label">Compañías</string>
     <string name="smart_group_company_unavailable">No hay información de la compañía</string>
     <string name="smart_group_frequency_1">En el mes pasado</string>
     <string name="smart_group_frequency_2">De 1 a 3 meses</string>
     <string name="smart_group_frequency_3">De 3 a 6 meses</string>
     <string name="smart_group_frequency_4">Hace más de 6 meses</string>
+    <string name="smart_group_frequency_label">Recientes</string>
     <string name="smart_group_label">Grupos inteligentes</string>
     <string name="smart_group_location_label">Ubicaciones</string>
     <string name="smart_group_location_unavailable">No hay información de ubicación</string>
     <string name="sms">Mensaje de texto</string>
+    <string name="sms_assistant">Texto %s</string>
     <string name="sms_callback">Enviar SMS a una llamada recibida</string>
     <string name="sms_car">SMS al coche</string>
     <string name="sms_company_main">SMS al teléfono principal de la empresa</string>
+    <string name="sms_custom">Texto %s</string>
     <string name="sms_disambig_title">Seleccionar número</string>
     <string name="sms_fax_home">SMS al fax de casa</string>
     <string name="sms_fax_work">SMS al fax del trabajo</string>
@@ -1074,10 +1091,12 @@ Motivo: \"%s\""</string>
     <string name="sms_main">SMS al número de teléfono principal</string>
     <string name="sms_mms">SMS a MMS</string>
     <string name="sms_mobile">SMS al móvil</string>
+    <string name="sms_other">Texto</string>
     <string name="sms_other_fax">SMS al fax</string>
     <string name="sms_pager">SMS al buscapersonas</string>
     <string name="sms_radio">SMS a la radio</string>
     <string name="sms_telex">SMS al télex</string>
+    <string name="sms_tty_tdd">Texto TTY/TDD</string>
     <string name="sms_work">SMS al trabajo</string>
     <string name="sms_work_mobile">SMS al móvil del trabajo</string>
     <string name="sms_work_pager">SMS al buscapersonas del trabajo</string>
@@ -1170,6 +1189,7 @@ Motivo: \"%s\""</string>
     <string name="the_united_nations_day">Día de las Naciones Unidas</string>
     <string name="the_valentines_day">"Día de San Valentín"</string>
     <string name="the_water_lantern_festival">Festival de las Luces de Agua</string>
+    <string name="three_letter">DEF</string>
     <string name="thursday">Jueves</string>
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>
@@ -1193,6 +1213,7 @@ Motivo: \"%s\""</string>
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
+    <string name="two_letter">ABC</string>
     <string name="type_mx_msg">Mi mensaje</string>
     <string name="unable_get_device_id">No se pudo obtener el IMEI</string>
     <string name="undefined">Sin definir</string>

@@ -71,6 +71,8 @@
     <string name="close_twice_auth_btn">Desactiva la autenticación de dos pasos</string>
     <string name="close_twice_auth_note">"Nota:
 Después de crear una nueva pregunta de seguridad y confirmar tu fecha de nacimiento, tu autenticación de dos pasos de Apple ID será desactivado. Si no encuentras la opción para desactivar la autenticación de dos pasos en la página de tu cuenta de Apple ID, no puedes desactivarla."</string>
+    <string name="close_twice_auth_operation">"URL:
+https://appleid.apple.com/#!&amp;page=signin para apagar"</string>
     <string name="close_twice_auth_step_1">1. Abre cualquier navegador web en cualquier computador y ve a appleid.apple.com.</string>
     <string name="close_twice_auth_step_2">2. Inicia sesión con el Apple ID al que quieras desactivar la autenticación de dos pasos, ve a la sección \"Seguridad\" en los ajustes de cuenta y selecciona \"Editar\".</string>
     <string name="close_twice_auth_step_3">3. Elige \"Desactivar Autenticación de Dos Pasos\". Selecciona otra vez para confirmar.</string>
@@ -188,8 +190,6 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="fmt_time_12hour_minute">h: mm</string>
     <string name="fmt_time_12hour_minute_pm">h: mm a</string>
     <string name="fmt_time_12hour_minute_second">h: mm: ms</string>
-    <string name="fmt_time_12hour_minute_second_millis">h: mm: ss. S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">h: mm: ss. S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h: mm: ss a</string>
     <string name="fmt_time_12hour_pm">decir ah</string>
     <string name="fmt_time_24hour">"H 'o''clock'"</string>

@@ -41,6 +41,7 @@
     <string name="activity_title_main">Limpiador</string>
     <string name="activity_title_news">Noticias</string>
     <string name="activity_title_privacy_cache">Caché de privacidad</string>
+    <string name="activity_title_residual">Residuos</string>
     <string name="activity_title_scanfinish">Análisis finalizado</string>
     <string name="activity_title_screenshot">Capturas de pantalla</string>
     <string name="activity_title_settings">Ajustes</string>
@@ -401,7 +402,7 @@
     <string name="hints_ad_header_left">Archivos obsoletos</string>
     <string name="hints_apk_header_left">Paquetes</string>
     <string name="hints_apk_version">Versión %s</string>
-    <string name="hints_app_uninstall_residual">¿Borrar archivos de desinstalación residuales?</string>
+    <string name="hints_app_uninstall_residual">¿Limpiar archivos residuales de desintalación?</string>
     <string name="hints_cache_header_left">Archivos en caché</string>
     <string name="hints_cache_msd_desc">"Eliminar las actualizaciones delta no afecta al uso de las aplicaciones"</string>
     <string name="hints_cache_msd_title">Actualización Delta</string>
@@ -440,6 +441,7 @@
     <string name="hints_quick_deep_uninstall">Eliminar ahora</string>
     <string name="hints_quick_prepare">Preparando…</string>
     <string name="hints_quick_scanning">Analizando…</string>
+    <string name="hints_residual_header_left">Residuos</string>
     <string name="hints_scan_has_finish">Limpieza terminada</string>
     <string name="hints_scanfinish">Sin basura</string>
     <string name="hints_storage_clean_size">Liberados %s de la memoria interna</string>
@@ -554,7 +556,7 @@
     <string name="notification_uninstall_clean_hint">Limpia la basura para liberar espacio de almacenamiento</string>
     <string name="notification_uninstall_clean_text">Las aplicaciones desinstaladas dejan la basura en su dispositivo</string>
     <string name="notification_uninstalled_clean_button_text">Ver</string>
-    <string name="notification_uninstalled_clean_with_name">Partidas residuales de %s</string>
+    <string name="notification_uninstalled_clean_with_name">Elementos residuales de %s</string>
     <string name="notification_uninstalled_clean_without_name">Las aplicaciones desinstaladas dejan elementos residuales</string>
     <string name="notification_wechat_clean_high_level_hint">Limpia la basura para acelerar tu dispositivo</string>
     <string name="notification_wechat_clean_high_level_text_a">WeChat generó muchos archivos basura</string>
@@ -837,6 +839,7 @@
     <string name="white_list_apk_header">Paquetes de instalación: %d</string>
     <string name="white_list_cache_header">Archivos en caché: %d</string>
     <string name="white_list_large_file_header">Archivos grandes y vídeos: %d</string>
+    <string name="white_list_residual_header">Residuos: %d</string>
     <string name="white_list_title">Excepciones</string>
     <string name="wq_deep_clean_filter_all">Todos</string>
     <string name="wq_deep_clean_filter_month_ago">Hace 1 mes</string>

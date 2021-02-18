@@ -992,6 +992,7 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_ai_detect">Detección con IA</string>
     <string name="pref_audio_denoise_title">Reducción de ruido de audio</string>
     <string name="pref_audio_focus_entry_front">Frontal</string>
+    <string name="pref_audio_focus_entry_general">Normal</string>
     <string name="pref_audio_focus_entry_rear">Trasero</string>
     <string name="pref_audio_focus_title">Enfoque por voz</string>
     <string name="pref_burst_shoot_title">Ráfaga</string>
@@ -1015,6 +1016,7 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Cuadro medio</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Medición por puntos</string>
     <string name="pref_camera_autoexposure_title">Ajustes de auto exposición</string>
+    <string name="pref_camera_auxiliary_close">Desactivado</string>
     <string name="pref_camera_auxiliary_exposure_feedback">Verificación de exposición</string>
     <string name="pref_camera_auxiliary_focus_peak">Pico de enfoque</string>
     <string name="pref_camera_auxiliary_title">Auxiliar</string>
@@ -1083,6 +1085,7 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_camera_focus_shoot_title">Enfocar y disparar</string>
     <string name="pref_camera_focusmode_entry_auto">AUTO</string>
     <string name="pref_camera_focusmode_entry_infinity">Infinito</string>
+    <string name="pref_camera_focusmode_entry_manual">Manual</string>
     <string name="pref_camera_focusmode_entry_normal">Estándar</string>
     <string name="pref_camera_focusmode_title">Modo de enfoque</string>
     <string name="pref_camera_front_ai_scene_entry_off">La cámara con IA está desactivada</string>
@@ -1105,6 +1108,7 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_camera_high_quality_preferred_title">Mejora la calidad de la imagen</string>
     <string name="pref_camera_histogram_entry_disable">Desactivar</string>
     <string name="pref_camera_histogram_entry_enable">Activar</string>
+    <string name="pref_camera_iso_entry_auto">Automático</string>
     <string name="pref_camera_jpegquality_entry_high">Alta</string>
     <string name="pref_camera_jpegquality_entry_low">Baja</string>
     <string name="pref_camera_jpegquality_entry_normal">Estándar</string>
@@ -1135,6 +1139,7 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_camera_multilevel_entry_lower">Más bajo</string>
     <string name="pref_camera_multilevel_entry_lowest">Bajísimo</string>
     <string name="pref_camera_multilevel_entry_middle">Medio (predeterminado)</string>
+    <string name="pref_camera_multilevel_entry_normal">Normal</string>
     <string name="pref_camera_new_coloreffect_title">Filtros de película</string>
     <string name="pref_camera_normal_wide_ldc_description">Corrija las caras distorsionadas de las personas que están cerca del borde del marco</string>
     <string name="pref_camera_normal_wide_ldc_title">Corregir distorsiones faciales en fotos grupales</string>
@@ -1239,6 +1244,7 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_camera_whitebalance_entry_daylight">Luz natural</string>
     <string name="pref_camera_whitebalance_entry_fluorescent">Fluorescente</string>
     <string name="pref_camera_whitebalance_entry_incandescent">Incandescente</string>
+    <string name="pref_camera_whitebalance_entry_manual">Manual</string>
     <string name="pref_camera_whitebalance_entry_measure">Medida</string>
     <string name="pref_camera_whitebalance_title">Balance de blancos</string>
     <string name="pref_camera_zoom_mode_entry_high_pixel">LUZ BAJA</string>
@@ -1301,6 +1307,7 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_popup_camera_title">Cámara emergente</string>
     <string name="pref_priority_storage_title">Guardar en la tarjeta SD</string>
     <string name="pref_privacy_title">Política de Privacidad</string>
+    <string name="pref_qc_focus_position_title">F</string>
     <string name="pref_retain_camera_common_mode_summary">Abrir Cámara en el modo usado anteriormente en lugar de cambiar a \"Foto\"</string>
     <string name="pref_retain_camera_mode_summary">Cambiar cámara al modo usado anteriormente al abrir la aplicación.</string>
     <string name="pref_retain_camera_mode_title">Guardar modo anterior</string>
@@ -1329,6 +1336,8 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="pref_video_focusmode_entry_continuous">AF-C</string>
     <string name="pref_video_focusmode_title">Modo de enfoque</string>
     <string name="pref_video_hfr_title">Video HFR</string>
+    <string name="pref_video_quality_entry_1080p">FHD 1080P, 30fps</string>
+    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080P, 60fps</string>
     <string name="pref_video_quality_hfr_title">Velocidad de fotogramas &amp; calidad de imagen</string>
     <string name="pref_video_quality_sub_120fps">120 fps</string>
     <string name="pref_video_quality_sub_24fps">24 fps</string>
@@ -1415,6 +1424,7 @@ Mantén el sujeto nítido mientras se difumina el fondo."</string>
     <string name="snap_confirmed">Reemplazar</string>
     <string name="spaceIsLow_content_external_storage_priority">La tarjeta SD se está quedando sin espacio</string>
     <string name="spaceIsLow_content_primary_storage_priority">Poco espacio en el almacenamiento USB</string>
+    <string name="speech_shutter_open_tip">Di \"拍照\" o \"茄子\" para tomar una foto</string>
     <string name="speech_shutter_tip">Obturador de voz</string>
     <string name="start_capture">Aceptar</string>
     <string name="sticker_tab1">Adorable</string>

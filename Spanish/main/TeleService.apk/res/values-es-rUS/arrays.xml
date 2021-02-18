@@ -208,6 +208,11 @@
         <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
         <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
     </string-array>
+    <string-array name="preferred_network_mode_choices_world_mode">
+        <item>Global</item>
+        <item>LTE / CDMA</item>
+        <item>LTE / GSM / UMTS</item>
+    </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desactivado</item>
         <item>64 K/búfer registro</item>

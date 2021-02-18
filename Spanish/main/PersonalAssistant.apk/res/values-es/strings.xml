@@ -100,6 +100,7 @@
     <string name="alipay_sdk_payed_success">Pagado con éxito</string>
     <string name="alipay_sdk_tiemout">Sesión caducada. Vuelve a iniciar sesión.</string>
     <string name="all_function_title">Todos los atajos</string>
+    <string name="alphabet_and_number">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
     <string name="already">Completado:</string>
     <string name="am">AM</string>
     <string name="announce_for_drag">Arrastrando un elemento</string>
@@ -292,6 +293,8 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="app_pa_setting_private_policy">Política de Privacidad</string>
     <string name="app_pa_setting_service_commute">Conmutar</string>
     <string name="app_pa_setting_service_commute_summary">Para la construcción de rutas de navegación y prestación de servicios de transporte de vehículos</string>
+    <string name="app_pa_setting_service_covid">Información de COVID-19</string>
+    <string name="app_pa_setting_service_covid_summry">Ver la información más reciente relacionada con COVID-19</string>
     <string name="app_pa_setting_service_forecast">Sugerencias inteligentes</string>
     <string name="app_pa_setting_service_forecast_summary">"Reciba sugerencias de aplicaciones y funciones que es más probable que utilice"</string>
     <string name="app_pa_setting_service_management">Gestionar servicios</string>
@@ -409,7 +412,7 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="app_suggest_setting_title">Sugerencias inteligentes</string>
     <string name="app_surround_avg_price">￥%1$s por persona</string>
     <string name="app_surround_card_dislike_tip">Desliza hacia la izquierda para ignorar</string>
-    <string name="app_surround_card_favorite_tip">Desliza el dedo hacia la derecha para agregar a favoritos</string>
+    <string name="app_surround_card_favorite_tip">Deslice el dedo hacia la derecha para agregar a favoritos</string>
     <string name="app_surround_card_first_favorite_tip_content">La tarjeta volverá a aparecer cuando te acerques a este lugar.</string>
     <string name="app_surround_card_first_favorite_tip_title">Marcado como favorito</string>
     <string name="app_surround_card_nearby">Cercano</string>
@@ -467,7 +470,6 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="ball_dialog_title">Instala la aplicación primero.</string>
     <string name="ball_football_recent_ing">En curso</string>
     <string name="ball_hupu">HuPu</string>
-    <string name="base_hour12_format_en">hh:mm</string>
     <string name="base_hour24_format_en">H:mm</string>
     <string name="base_search_empty">"No se encontraron resultados"</string>
     <string name="base_time_just_now">Justo ahora</string>
@@ -1247,7 +1249,7 @@ Bóveda de aplicaciones</string>
     <string name="miot_device_edit_device">Reorganizar dispositivos</string>
     <string name="miot_device_empty_text">Añade purificadores de aire, cámaras, robots aspiradores y otros dispositivos inteligentes para controlarlos cuando quieras.</string>
     <string name="miot_device_install_mijia">Descargar</string>
-    <string name="miot_device_introduction">Desliza el dedo hacia abajo en la Bóveda de aplicaciones para ver los controles de hogar inteligente disponibles</string>
+    <string name="miot_device_introduction">Deslice el dedo hacia abajo en la Bóveda de aplicaciones para ver los controles de hogar inteligente disponibles</string>
     <string name="miot_device_loading">Cargando...</string>
     <string name="miot_device_login">Iniciar sesión</string>
     <string name="miot_device_mijia_logout_message">Antes de añadir o usar cualquier dispositivo, debes iniciar sesión en tu Cuenta Mi. ¿Quieres iniciar sesión ahora?</string>
@@ -1856,6 +1858,7 @@ Bóveda de aplicaciones</string>
     <string name="wx_scan">Escáner</string>
     <string name="xiaomi_search_label">Buscar</string>
     <string name="xspace_resolver_activity_title">Seleccionar app</string>
+    <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
     <string name="year_month_day_format">dd/MM/yyyy</string>
     <string name="yesterday">Ayer</string>
 </resources>
