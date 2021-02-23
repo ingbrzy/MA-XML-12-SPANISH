@@ -41,8 +41,12 @@
     <string name="action_example">Ejemplo de Acción</string>
     <string name="action_nothing">esperar a la prueba</string>
     <string name="add">Agregar</string>
+    <string name="afdcalibration_test">PRUEBA DE CALIBRACIÓN AFD</string>
+    <string name="afdcalibrationrubberstamp_test">PRUEBA DE SELLO DE GOMA DE CALIBRACIÓN AFD</string>
+    <string name="afdrubberstamp_test">PRUEBA DE SELLO DE GOMA AFD</string>
     <string name="allow_gpu_maxfreq_summary">El modo experimental del incremento de frecuencia de la GPU podría introducir problemas de energía o incluso problemas más graves. Sin embargo, se restaurarán una vez que desactive este modo. ¿Activar el modo maxfreq de GPU?</string>
     <string name="ant_setting">ant</string>
+    <string name="audio_rule">Analizador xml de audio</string>
     <string name="audio_spk_cal_wait">Calibración, por favor...</string>
     <string name="audio_spk_def">Calibre los altavoces, por favor</string>
     <string name="back_mic_check_record_tip">Grabando, por favor diga algo al MIC en la parte trasera del teléfono</string>
@@ -54,6 +58,10 @@
     <string name="battery_plug_wirelee_title">Prueba de carga inalámbrica</string>
     <string name="battery_plugin_wirelee">La carga inalámbrica está conectada</string>
     <string name="battery_plugout_wirelee">Por favor conecte la carga inalámbrica</string>
+    <string name="battery_reverse_wireless_charge_success">carga inalámbrica inversa exitosa</string>
+    <string name="battery_reverse_wireless_charge_summary">prueba de carga inalámbrica inversa</string>
+    <string name="battery_reverse_wireless_charge_time_out">tiempo de espera de carga inalámbrica inversa</string>
+    <string name="battery_reverse_wireless_charge_title">carga inalámbrica inversa</string>
     <string name="battery_value">Electricidad</string>
     <string name="begin_to_save_finger_data">Comience a guardar los datos de la huella</string>
     <string name="bt_address">Dirección:</string>
@@ -414,11 +422,13 @@ Al calibrar, asegúrese de que no haya nada entre el sensor y su mano (por ejemp
     <string name="cit_reset_check_title">Prueba de reinicio</string>
     <string name="cit_reset_ese_summary">Restablezca eSE, se eliminarán todas sus tarjetas bancarias y transferencias NFC.</string>
     <string name="cit_reset_test">Probar</string>
+    <string name="cit_reverse_charge_check_summary">Inserte el teléfono OTG a cargar</string>
     <string name="cit_rgb_check_blue_light">RGB azul</string>
     <string name="cit_rgb_check_green_light">Verde RGB</string>
     <string name="cit_rgb_check_red_light">RGB rojo</string>
     <string name="cit_sar_get_status_title">OBTENGA EL VALOR DE DSI</string>
     <string name="cit_sar_sensor_check_summary">Los valores para los canales del sensor sar deben aparecer a continuación, cubra el botón del teléfono, si los datos cambiaron, la función es buena, tenga cuidado de no sostener el dispositivo y mantenga la parte inferior limpia del teléfono celular.</string>
+    <string name="cit_sar_sensor_check_title">Sensor SAR</string>
     <string name="cit_sar_setting_config_title">AJUSTE DE PRUEBA SAR</string>
     <string name="cit_sd_fail">Ha ocurrido un error.</string>
     <string name="cit_sd_mount">Montar SD</string>
@@ -452,8 +462,12 @@ Después de colocar \"music.mp3\" en el directorio de la tarjeta SD, toque la pa
     <string name="cit_sim_state_unkown">Desconocido</string>
     <string name="cit_slider_hall_miui_test_summary">Ejecute una operación completa de deslizamiento hacia arriba y hacia abajo del teléfono.</string>
     <string name="cit_slider_hall_test_summary">Ejecute una operación completa de deslizamiento hacia arriba y hacia abajo del teléfono.</string>
+    <string name="cit_soft_torch">led flash frontal tenue</string>
+    <string name="cit_soft_torch_on">Encienda la luz del flash tenue</string>
+    <string name="cit_splash_check_summary">Asegúrese de que el fenómeno de pantalla negra dure más de 5 segundos.</string>
     <string name="cit_start_calibration">Calibrar</string>
     <string name="cit_stop_calibration">Dejar de calibrar</string>
+    <string name="cit_tele_camera_check_title">Tele cámara</string>
     <string name="cit_tfcard_no_support">No es compatible con la tarjeta TF en este dispositivo.</string>
     <string name="cit_tfcard_support">La tarjeta TF es compatible con este dispositivo.</string>
     <string name="cit_tfcard_support_summary">Compruebe si TFCard es compatible con este dispositivo</string>
@@ -589,6 +603,8 @@ Después de colocar \"music.mp3\" en el directorio de la tarjeta SD, toque la pa
     <string name="cit_tool_bluetooth_tx_burst_run">CORRER</string>
     <string name="cit_tool_bluetooth_tx_chain">antena:</string>
     <string name="cit_tool_bluetooth_tx_channel">canal:</string>
+    <string name="cit_tool_bluetooth_tx_h">Ingrese al modo de prueba de frecuencia de 2.480GHz del operador Bluetooth</string>
+    <string name="cit_tool_bluetooth_tx_l">Ingrese al modo de prueba de frecuencia de 2.402GHz del operador de Bluetooth</string>
     <string name="cit_tool_bluetooth_tx_level">Pwr / Lv:</string>
     <string name="cit_tool_bluetooth_tx_power">Pwr / dBm:</string>
     <string name="cit_tool_bluetooth_tx_rse_run">CORRER</string>
@@ -712,6 +728,7 @@ La segunda línea muestra el nombre y el número de versión del MBN predetermin
 prueba falla!"</string>
     <string name="cit_usb_OTG_in">El dispositivo USB_OTG se ha conectado, conéctelo y vuelva a conectarlo</string>
     <string name="cit_usb_OTG_in_charge">Dispositivo USB OTG detectado</string>
+    <string name="cit_usb_OTG_in_need_plugout">USB_OTG se ha conectado, conéctelo primero</string>
     <string name="cit_usb_OTG_out">El dispositivo USB_OTG se ha desconectado, por favor, invierta el enchufe</string>
     <string name="cit_usb_OTG_plug_in_start_test">Conecte el dispositivo USB_OTG y comience la prueba</string>
     <string name="cit_usb_OTG_plug_out_test_complete">USB_OTG se ha desconectado, prueba completa</string>
@@ -757,8 +774,10 @@ prueba falla!"</string>
     <string name="copyright">Copyright © 2015 Goodix Todos los derechos reservados.</string>
     <string name="current_angle">Ángulo actual:</string>
     <string name="delete">Borrar</string>
+    <string name="description_info">Información</string>
     <string name="display_test_finish">Prueba de pantalla completada</string>
     <string name="dsi_sar_on_off_tips">Interruptor de encendido / apagado Dsi Sar</string>
+    <string name="enrol">Inscribirse</string>
     <string name="error">error</string>
     <string name="error_app_internal">Error interno de la aplicación</string>
     <string name="error_app_unsupported">Formato no compatible</string>
@@ -770,6 +789,9 @@ prueba falla!"</string>
     <string name="error_unknown_error">Error desconocido</string>
     <string name="fail">Fallar</string>
     <string name="failed_to_test">NO HIZO LA PRUEBA</string>
+    <string name="far">FAR (tasa de aceptación falsa):</string>
+    <string name="far_count">FAC (recuento de aceptación falsa):</string>
+    <string name="far_total_count">FATC (recuento total de aceptación falsa):</string>
     <string name="fingerprint">Huella dactilar:</string>
     <string name="fingerprint_input_title">prueba de entrada de huellas dactilares</string>
     <string name="firstplug_mic_check_record_tip">Detener grabación, después de conectar los auriculares, confirme el resultado</string>
@@ -799,7 +821,13 @@ la posición especificada"</string>
     <string name="fpc_app_name">Herramienta de prueba de sensor</string>
     <string name="fpc_pn_calibration">Capturar y almacenar imágenes de PN</string>
     <string name="front_mic_check_record_tip">Grabando, dile algo a MIC en la parte frontal del teléfono</string>
+    <string name="frr">FRR (tasa de rechazo falso):</string>
+    <string name="frr_count">FRC (Recuento de falsos rechazos):</string>
+    <string name="frr_total_count">FRTC (Recuento total de rechazos falsos):</string>
     <string name="get_DSI_result">Resultado DSI</string>
+    <string name="get_base_finger">Extraer imagen:obtener el dedo base</string>
+    <string name="get_finger_data">Extraer imagen:muestreo de datos de dedos</string>
+    <string name="get_sample_finger">Extraer imagen:obtener un dedo de muestra</string>
     <string name="get_sensor_info">OBTENER INFORMACIÓN DEL SENSOR</string>
     <string name="get_template_finger">Extraer imagen: obtener el dedo de la plantilla</string>
     <string name="gpu_maxfreq_title">Modo GPU Overfreq para Experimental</string>
@@ -898,10 +926,12 @@ Haga clic en el botón de cámara para ver si la cámara entra"</string>
     <string name="radio_info_data_disconnected">Desconectado</string>
     <string name="radio_info_data_network_type_label">Tipo de red de datos:</string>
     <string name="radio_info_data_suspended">Suspendida</string>
+    <string name="radio_info_display_dbm">dBm</string>
     <string name="radio_info_entry">Información de la red móvil</string>
     <string name="radio_info_gprs_service_label">Servicio de datos:</string>
     <string name="radio_info_gsm_service_label">Servicio de voz:</string>
     <string name="radio_info_neighboring_location_label">Información de la celda vecina:</string>
+    <string name="radio_info_phone_idle">Inactivo</string>
     <string name="radio_info_phone_number_label">Número de teléfono:</string>
     <string name="radio_info_phone_offhook">Llamada en progreso</string>
     <string name="radio_info_phone_ringing">El sonar</string>

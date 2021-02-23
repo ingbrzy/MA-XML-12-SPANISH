@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="account_user_gender_name">
+        <item>Hombre</item>
+        <item>Mujer</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
         <item>B</item>
@@ -59,15 +63,10 @@
         <item>Z</item>
         <item>\#</item>
     </string-array>
-    <string-array name="prefEntries_max_bytes_limit">
-        <item>Ilimitado</item>
-        <item>100 MB</item>
-        <item>20 MB</item>
-        <item>10 MB</item>
-        <item>5 MB</item>
-        <item>2 MB</item>
-        <item>1 MB</item>
-        <item>512 KB</item>
-        <item>Esperar siempre a estar conectado por Wi-Fi</item>
+    <string-array name="sleep_duration_values">
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>45 minutos</item>
+        <item>1 hora</item>
     </string-array>
 </resources>

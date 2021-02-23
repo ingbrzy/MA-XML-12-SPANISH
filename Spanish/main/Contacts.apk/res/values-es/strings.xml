@@ -456,17 +456,17 @@ Mi Roaming necesita conectarse a Internet y acceder a la información de su ubic
     <string name="device_other_title">Importar desde otros dispositivos</string>
     <string name="device_paired_dialog_message">Obteniendo contactos…</string>
     <string name="device_pairing_dialog_message">Vinculando…</string>
-    <string name="device_transfer_by_bluetooth_message">"1. Activa Bluetooth en el otro dispositivo. 
+    <string name="device_transfer_by_bluetooth_message">"%1$d. Activar Bluetooth en el otro dispositivo.
 
-- Bluetooth se encuentra en los ajustes de red de Dispositivos Android. 
-- En dispositivos iOs, Bluetooth está en Ajustes. 
+- Bluetooth se puede encontrar en la configuración de red en dispositivos Android.
+- En dispositivos iOS, Bluetooth está en Configuración.
 
-2. En Dispositivos Android el modo Visible debería estar activado. 
+%2$d. El modo de detección también debe estar activado en dispositivos Android.
 
-3. Pulsa \"Siguiente\", y da a Contactos los permisos necesarios."</string>
-    <string name="device_transfer_by_sim_message">"“1. Guarda los contactos del otro dispositivo a la tarjeta SIM; 
+%3$d. Pulse \"Siguiente\" y dé a los Contactos los permisos necesarios."</string>
+    <string name="device_transfer_by_sim_message">"%1$d. Guarda los contactos del otro dispositivo en la tarjeta SIM;
 
-2. Abre Ajustes en la aplicación de Contactos y ve a “Importar/Exportar contactos” -- “Importar desde tarjeta SIM”, mantén pulsado cualquier contacto SIM para seleccionarlo, selecciona todos los contactos que desees y pulsa “Importar”.”"</string>
+%2$d. Abre la configuración en la aplicación Contactos, y luego ve a \"Importar/Exportar contactos\" -- \"Importar desde tarjeta SIM\", mantenga cualquier contacto SIM para seleccionarlo, seleccione todos los contactos necesarios y pulse \"Importar\"."</string>
     <string name="device_version_header_bluetooth">Importar vía Bluetooth</string>
     <string name="device_version_header_no_bluetooth">Importar vía tarjeta SIM</string>
     <string name="dialerIconLabel">Recientes</string>
@@ -658,7 +658,7 @@ Motivo: \"%s\""</string>
     <string name="import_from_sim1">Importar desde tarjeta SIM 1</string>
     <string name="import_from_sim2">Importar desde tarjeta SIM 2</string>
     <string name="import_multiple_vcard_string">Importar múltiples archivos vCard</string>
-    <string name="import_one_vcard_string">Importar 1 archivo vCard</string>
+    <string name="import_one_vcard_string">Importar %d archivo vCard</string>
     <string name="import_selected_sim_entries_miui">Importar contactos seleccionados</string>
     <string name="import_sim_contacts_hint_title">Importar contactos SIM</string>
     <string name="import_sim_entries_finish">Contactos importados desde la tarjeta SIM</string>
@@ -1030,7 +1030,7 @@ Motivo: \"%s\""</string>
     <string name="seven_letter">PQRS</string>
     <string name="share_contact_as">Compartir contacto como</string>
     <string name="share_error">"Este contacto no puede compartirse"</string>
-    <string name="share_over_limit">"No puede compartir más de 1000 contactos"</string>
+    <string name="share_over_limit">"No se pueden compartir más de %d contactos"</string>
     <string name="share_qrcode">Compartir código QR</string>
     <string name="share_via">Enviar usando</string>
     <string name="share_visible_contacts">Compartir contactos</string>
@@ -1070,9 +1070,9 @@ Motivo: \"%s\""</string>
     <string name="smart_group_company_label">Compañías</string>
     <string name="smart_group_company_unavailable">No hay información de la compañía</string>
     <string name="smart_group_frequency_1">En el mes pasado</string>
-    <string name="smart_group_frequency_2">De 1 a 3 meses</string>
-    <string name="smart_group_frequency_3">De 3 a 6 meses</string>
-    <string name="smart_group_frequency_4">Hace más de 6 meses</string>
+    <string name="smart_group_frequency_2">De %1$d a %2$d meses</string>
+    <string name="smart_group_frequency_3">De %1$d a %2$d meses</string>
+    <string name="smart_group_frequency_4">Hace más de %d meses</string>
     <string name="smart_group_frequency_label">Recientes</string>
     <string name="smart_group_label">Grupos inteligentes</string>
     <string name="smart_group_location_label">Ubicaciones</string>

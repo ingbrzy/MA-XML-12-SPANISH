@@ -455,6 +455,8 @@ Vuelva a intentarlo en %d segundo."</string>
     <string name="bluetooth_hearingaid_right_pairing_message">Emparejando audífono derecho ...</string>
     <string name="bluetooth_hid_profile_summary_connected">Conectado a la entrada del dispositivo</string>
     <string name="bluetooth_hid_profile_summary_use_for">Usar para entrada</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Conectado a LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Utilizar para LE_AUDIO</string>
     <string name="bluetooth_map_profile_summary_connected">Conectado a MAP</string>
     <string name="bluetooth_map_profile_summary_use_for">Usar para MAP</string>
     <string name="bluetooth_opp_profile_summary_connected">Conectado al servidor de transferencia de archivos</string>
@@ -480,6 +482,7 @@ Vuelva a intentarlo en %d segundo."</string>
     <string name="bluetooth_profile_headset">Audio del teléfono</string>
     <string name="bluetooth_profile_hearing_aid">Auricular</string>
     <string name="bluetooth_profile_hid">Salida del dispositivo</string>
+    <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
     <string name="bluetooth_profile_map">Usado para acceder a mensajes</string>
     <string name="bluetooth_profile_opp">Transferencia de archivos</string>
     <string name="bluetooth_profile_pan">Acceso a Internet</string>
@@ -1044,8 +1047,8 @@ Utilice solo el cargador proporcionado."</string>
  Contacta con tu proveedor de servicio para conseguir otra."</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Tarjeta SIM inutilizable.</string>
     <string name="keyguard_plugged_in">Cargando</string>
-    <string name="keyguard_plugged_in_charging_fast">Carga rápida</string>
-    <string name="keyguard_plugged_in_charging_slowly">Carga lenta</string>
+    <string name="keyguard_plugged_in_charging_fast">%s • Carga rápida</string>
+    <string name="keyguard_plugged_in_charging_slowly">%s • Carga lenta</string>
     <string name="keyguard_plugged_in_wireless">%s • Carga de forma inalámbrica</string>
     <string name="keyguard_quick_charging_info_click_to_detail">Carga rápida. Pulsa para ver detalles.</string>
     <string name="keyguard_retry">Desliza hacia arriba para volver a intentarlo</string>
@@ -1658,6 +1661,7 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
     <string name="quick_settings_screenshot_label">Captura de pantalla</string>
     <string name="quick_settings_secondary_label_until">Hasta %s</string>
     <string name="quick_settings_settings_label">Ajustes</string>
+    <string name="quick_settings_sim_disabled">" (Deshabilitado)"</string>
     <string name="quick_settings_sync_label">Sincronizar</string>
     <string name="quick_settings_tethering_label">Compartiendo Internet</string>
     <string name="quick_settings_time_label">Tiempo</string>
