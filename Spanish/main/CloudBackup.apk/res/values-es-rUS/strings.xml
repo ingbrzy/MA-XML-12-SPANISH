@@ -66,6 +66,7 @@ Inténtelo de nuevo"</string>
     <string name="btn_continue">Continuar</string>
     <string name="btn_restore_abort">Cancelar</string>
     <string name="btn_restore_cancel">Cancelar</string>
+    <string name="btn_restore_cancel_app_app">"No restaure los datos de WeChat"</string>
     <string name="btn_restore_continue">Restaurar de todos modos</string>
     <string name="btn_restore_resume">Reanudar</string>
     <string name="btn_restore_retry">Reintentar</string>
@@ -117,6 +118,8 @@ Nota: Los datos de las aplicaciones que ha instalado no se guardarán en Xiaomi 
     <string name="cloud_back_up_task">Realizando copia de seguridad…</string>
     <string name="cloud_backup">Copias de seguridad de Xiaomi Cloud</string>
     <string name="cloud_backup_derail_size_summary">Tamaño: %s</string>
+    <string name="cloud_backup_detail_app_data">Hacer una copia de seguridad de los datos de WeChat</string>
+    <string name="cloud_backup_detail_app_data_summary">Realice una copia de seguridad del historial de chat, archivos y otros elementos</string>
     <string name="cloud_backup_detail_frequence">Programar copia de seguridad</string>
     <string name="cloud_backup_detail_frequence_every_7_day">Copia de seguridad cada %d días</string>
     <string name="cloud_backup_detail_frequence_every_day">Copia de seguridad todos los días</string>
@@ -137,6 +140,8 @@ Nota: Los datos de las aplicaciones que ha instalado no se guardarán en Xiaomi 
     <string name="confirm_cancel_restore_positive">Continuar</string>
     <string name="confirm_cancel_restore_title">Cancelar la restauración?</string>
     <string name="confirm_restore">Restaurar</string>
+    <string name="confirm_restore_app_data">Sobrescribir datos de la aplicación</string>
+    <string name="confirm_restore_app_data_summary">La restauración de los datos de WeChat sobrescribirá la versión actual de los datos de la aplicación en este dispositivo. ¿Restaurar de todos modos?</string>
     <string name="confirm_restore_summary">La Pantalla de inicio se reiniciará y las aplicaciones se descargarán automáticamente cuando estés conectado a una red Wi-Fi</string>
     <string name="confirm_restore_title">Restaurar</string>
     <string name="copy">Copiar</string>
@@ -149,14 +154,17 @@ Nota: Los datos de las aplicaciones que ha instalado no se guardarán en Xiaomi 
     <string name="desktop_wait_network">Esperando…</string>
     <string name="desktop_waiting">Esperando</string>
     <string name="device_delete_prompt">¿Eliminar la copia de seguridad de %s?</string>
+    <string name="dialog_backup_failed">"No se pudo realizar la copia de seguridad"</string>
     <string name="dialog_btn_cancel_backup">Cancelar</string>
     <string name="dialog_btn_next">Siguiente</string>
     <string name="dialog_btn_overwrite_backup">Sobreescribir</string>
     <string name="dialog_btn_restore_skip">Restaurar más tarde</string>
+    <string name="dialog_buy_cloud_space">Actualizar</string>
     <string name="dialog_cancel_backup_cancel">Cancelar</string>
     <string name="dialog_cancel_backup_confirm">Aceptar</string>
     <string name="dialog_cancel_backup_msg">Alternar el interruptor terminará las copias de seguridad en curso.</string>
     <string name="dialog_cancel_backup_title">¿Cancelar la copia de seguridad en curso?</string>
+    <string name="dialog_cloud_space_not_enough">Esta copia de seguridad requiere %1$s de espacio libre de almacenamiento en la nube. Actualice su plan de almacenamiento para realizar copias de seguridad de los elementos.</string>
     <string name="dialog_msg_overwrite_backup">La copia de seguridad local es diferente a la realizada en Xiaomi Cloud. Si continúas, la copia actual borrará la anterior.</string>
     <string name="dialog_msg_restore_require_wlan">Restaurar copias de seguridad requiere conectarse a Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">Restaurar copias de seguridad requiere conectarse a Wi-Fi.</string>
@@ -176,7 +184,7 @@ Nota: Los datos de las aplicaciones que ha instalado no se guardarán en Xiaomi 
     <string name="expand_button_title">Avanzado</string>
     <string name="get_device_id_error">"No se pudo obtener ID del dispositivo"</string>
     <string name="help_and_feedback">Ayuda y comentarios</string>
-    <string name="hint_restore_cross_space">El diseño de la Pantalla de inicio podría ser mostrado de forma incorrecta si transfieres elementos entre espacios.</string>
+    <string name="hint_restore_wechat_data">Nota: Es posible que los datos de WeChat no se restauren debido a problemas de compatibilidad en algunos casos.</string>
     <string name="home_hint_global_launcher">Pantalla de inicio Poco</string>
     <string name="home_hint_other_launcher">Otro launcher</string>
     <string name="home_restore_error">"No se pudo restaurar la pantalla de inicio"</string>
@@ -199,7 +207,7 @@ Nota: Los datos de las aplicaciones que ha instalado no se guardarán en Xiaomi 
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar elementos"</string>
-    <string name="msg_alert_cancel_restore">Restaurando elementos. ¿Detener ahora?</string>
+    <string name="msg_alert_cancel_restore">Los elementos se están restaurando desde Xiaomi Cloud. ¿Cancelar ahora?</string>
     <string name="msg_alert_restore_error">"Error al restaurar la copia de seguridad en la nube, volver a intentarlo por favor."</string>
     <string name="msg_restore_start_with_metered_network">"Tu Pantalla de inicio será relanzada. Las aplicaciones copiadas serán descargadas automáticamente. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s de archivos serán descargados.&lt;/font&gt;&lt;/b&gt;"</string>
     <string name="msg_restore_with_metered_network_hint">Si procedes a restaurar estos elementos, se usarán datos móviles para descargar.</string>
@@ -244,6 +252,8 @@ Compruebe sus ajustes de red y vuelva a intentarlo."</string>
     <string name="restore_app_order_title">Priorizar elementos restaurados</string>
     <string name="restore_cloud_backup_to_phone">Restaurar elementos de Xiaomi Cloud</string>
     <string name="restore_data_title">Restaurar datos</string>
+    <string name="restore_detail_category_app_data">Datos de WeChat</string>
+    <string name="restore_detail_category_app_data_summary">Historial de chat, archivos y otros elementos (%s)</string>
     <string name="restore_detail_category_apps">Diseños de la Pantalla de inicio y aplicaciones</string>
     <string name="restore_detail_category_settings">Ajustes</string>
     <string name="restore_detail_more">Más</string>
@@ -258,14 +268,15 @@ Compruebe sus ajustes de red y vuelva a intentarlo."</string>
     <string name="restore_home_failed">"No se pudo restaurar la pantalla de inicio."</string>
     <string name="restore_home_screen_apps">Restaurar desde la copia de seguridad de Xiaomi Cloud</string>
     <string name="restore_init_description">Comenzar la restauración</string>
-    <string name="restore_network_pause">%s (pulsa para resumir)</string>
+    <string name="restore_network_pause">Detenido para guardar datos móviles. Toque para reanudar.</string>
     <string name="restore_network_unconnect">%s (esperando la conexión)</string>
     <string name="restore_task_cancelling">Cancelando…</string>
     <string name="restore_task_in_process">Restaurando…</string>
     <string name="restore_task_unfinished">"No se pudo restaurar"</string>
     <string name="restore_unfinished">Restaurando, vuelva a intentarlo</string>
+    <string name="restoring_app_data_title_no_progress">Restaurar datos de WeChat…</string>
     <string name="restoring_data">Restaurando datos…</string>
-    <string name="restoring_file_title_no_progress">Restaurando archivos…</string>
+    <string name="restoring_file_title_no_progress">Restaurando aplicaciones…</string>
     <string name="restoring_home_screen_apps">Restaurando desde Xiaomi Cloud…</string>
     <string name="restoring_settings">Restaurando ajustes…</string>
     <string name="retry">Reintentar</string>

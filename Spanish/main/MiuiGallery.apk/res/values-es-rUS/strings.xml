@@ -167,7 +167,7 @@
     <string name="album_share_subtitle_requesting">Descargando información del álbum…</string>
     <string name="album_share_title_new_album">Compartir nuevo álbum</string>
     <string name="album_show_local_only">Mostrar solo álbumes locales</string>
-    <string name="album_show_local_only_summary">Activar para ver y eliminar fotos solamente en tu dispositivo</string>
+    <string name="album_show_local_only_summary">Una opción para eliminar solo álbumes locales estará disponible cuando esta función esté activada</string>
     <string name="album_sort_type">Orden de clasificación</string>
     <string name="album_sort_type_create_time_asc">De antiguas a nuevas</string>
     <string name="album_sort_type_create_time_desc">De nuevas a antiguas</string>
@@ -221,7 +221,8 @@
     <string name="authorize_to_device_failed">"No se pudo autorizar"</string>
     <string name="authorize_watch_on_tv_failed">"No se pudo autorizar para ver en la TV"</string>
     <string name="auto_backup_introduce">Respaldar fotos y vídeos automáticamente (se requiere Cuenta Mi)</string>
-    <string name="auto_download_media_title">Descargar fotos de Xiaomi Cloud automáticamente</string>
+    <string name="auto_download_media_title">Descargar automáticamente</string>
+    <string name="auto_download_title">Seleccionar calidad de imagen</string>
     <string name="auto_update_face">Añadir fotos automáticamente</string>
     <string name="auto_update_face_summary">Localizar y añadir fotos automáticamente al álbum del bebé</string>
     <string name="auto_update_off">Desactivado</string>
@@ -291,6 +292,8 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="backup_pause_dialog_title">Pausar sincronización</string>
     <string name="backup_pause_title">La sincronización está pausada</string>
     <string name="backup_pending">Se copiará automáticamente</string>
+    <string name="backup_settings">Sincronizar con la nube</string>
+    <string name="backup_settings_more">Ajustes adicionales</string>
     <string name="backup_stop">Detener copia de seguridad</string>
     <string name="backup_sync_dialog_confirm">Activar</string>
     <string name="backup_sync_dialog_tips">Activar sincronización con Xiaomi Cloud para cambiar los ajustes de copia de seguridad.</string>
@@ -441,13 +444,23 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="close_dialog_desc">Cerrar caja de diálogo</string>
     <string name="cloud_authorize_to_share_to_device">Autoriza la visualización de elementos en televisores asociados con tu Cuenta Mi</string>
     <string name="cloud_authorizing_to_device">Autorizando…</string>
+    <string name="cloud_backup_enable_title">Sincronizar</string>
+    <string name="cloud_backup_open_button">Encender</string>
+    <string name="cloud_backup_space">Almacenamiento en la nube</string>
+    <string name="cloud_backup_status_disable">Desactivado</string>
+    <string name="cloud_backup_status_eneble">Activado</string>
+    <string name="cloud_backup_title">Sincronizar con la nube</string>
+    <string name="cloud_bacup_disable_button">Desactivar sincronización</string>
+    <string name="cloud_bacup_disable_processing">Procesando…</string>
     <string name="cloud_camera_display_name">Fotos de la cámara</string>
     <string name="cloud_cancel_authorizing_to_device">Cancelando autorización…</string>
     <string name="cloud_guide_auto_backup_title">Selecciona álbumes para respaldar</string>
     <string name="cloud_guide_login_title">Copiar fotos y vídeos automáticamente</string>
     <string name="cloud_guide_welcome_title">Xiaomi nube</string>
-    <string name="cloud_privacy_with_ai_album">Declaración de privacidad acerca de la sincronización automática y procesado de imagen</string>
-    <string name="cloud_privacy_with_face">Declaración de privacidad acerca de la sincronización automática y reconocimiento facial</string>
+    <string name="cloud_login_ok">Entendido</string>
+    <string name="cloud_login_settings_title">Configuraciones de sincronización</string>
+    <string name="cloud_privacy_with_ai_album">Características y privacidad</string>
+    <string name="cloud_privacy_with_face">Características y privacidad</string>
     <string name="cloud_screenshots_display_name">Capturas de pantalla</string>
     <string name="cloud_settings">Sincronización</string>
     <string name="cloud_storage_extend">Aumentar espacio en la nube</string>
@@ -633,7 +646,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="enable_face_album_summary">Ordenar automáticamente las fotos por las personas que aparecen en ellas</string>
     <string name="enable_face_album_title">Ordenar por personas</string>
     <string name="enable_midrop">Activar</string>
-    <string name="enter_choice_mode">Has entrado al diálogo para compartir</string>
+    <string name="enter_choice_mode">Ingresó al cuadro de diálogo Compartir</string>
     <string name="enter_email_hint">Introduce dirección de correo electrónico</string>
     <string name="eras_ad">DC</string>
     <string name="eras_bc">AC</string>
@@ -700,7 +713,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="error_unknown_tip">Ha ocurrido un error.</string>
     <string name="evening">Tarde</string>
     <string name="exit">Salir</string>
-    <string name="exit_choice_mode">Has salido del diálogo para compartir</string>
+    <string name="exit_choice_mode">Diálogo de uso compartido izquierdo</string>
     <string name="exit_share">Salir del álbum</string>
     <string name="exit_share_failed">"Fallo al salir %1$s"</string>
     <string name="exit_share_in_process">Saliendo del álbum \"%s\"…</string>
@@ -1203,7 +1216,8 @@ para personalizar la Galería"</string>
     <string name="merge_album">Combinar</string>
     <string name="merge_album_title">Combinar con una persona</string>
     <string name="messagelist_sender_self">Yo</string>
-    <string name="mi_drop">Mi Compartir</string>
+    <string name="mi_drop">Mi Share</string>
+    <string name="mi_mover_working_desc">Mi Mover está transfiriendo elementos…</string>
     <string name="micloud_introduce">Respalda fotos y vídeos automáticamente (se necesitará Cuenta Mi)</string>
     <string name="midnight">Noche</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
@@ -1501,7 +1515,7 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="photo_editor_common_download_sdk_without_wifi_title">Descargar complemento</string>
     <string name="photo_editor_compare_tip">Mantén pulsado para ver la imagen original</string>
     <string name="photo_editor_crop_and_rotate">Cortar</string>
-    <string name="photo_editor_crop_auto">Automático</string>
+    <string name="photo_editor_crop_auto">Auto</string>
     <string name="photo_editor_crop_auto_tips">Recortada automáticamente</string>
     <string name="photo_editor_crop_reset">Restablecer</string>
     <string name="photo_editor_doodle">Garabato</string>
@@ -1613,6 +1627,7 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="photo_purge_dialog_message_image">"No podrá restaurar elementos si los elimina. ¿Eliminar de todos modos?"</string>
     <string name="photo_purge_dialog_message_video">"No podrá restaurar elementos si los elimina. ¿Eliminar de todos modos?"</string>
     <string name="photo_save_to_msg">Guardado en %s</string>
+    <string name="photo_size_not_support">"Esta resolución de imagen no es compatible"</string>
     <string name="photo_vlog_module_finish">Editor de video descargado correctamente</string>
     <string name="photo_vlog_module_loading">Descargando editor de video…</string>
     <string name="photodetail_failed_already_exist">Este archivo ya existe</string>
@@ -1855,6 +1870,7 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="security_share_subtitle_hide">La información de ubicación fue eliminada</string>
     <string name="security_share_subtitle_no_hide">Contiene información de ubicación</string>
     <string name="see_ignore_faces">"Ver las personas ignoradas"</string>
+    <string name="see_more_settings">Ajustes adicionales</string>
     <string name="select_all">Seleccionar todo</string>
     <string name="select_image_operation">Añadiendo fotos</string>
     <string name="select_item_face">"¿Es esta persona '%s'?"</string>
@@ -1896,7 +1912,7 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="share_public_url_text">"He compartido el álbum %1$s contigo. Puedes verlo en %2$s"</string>
     <string name="share_with_family">Compartir con la familia</string>
     <string name="sharer_quota_fulfiled">"Ya has compartido este álbum con el máximo número de personas posible."</string>
-    <string name="show_cloud_albumlist_summary">Gestionar los álbumes que sincronizas con la nube</string>
+    <string name="show_cloud_albumlist_summary">"Los elementos nuevos de los álbumes seleccionados no se cargarán en la nube después de desactivar la sincronización."</string>
     <string name="show_hidden_album_summary">Ver y gestionar álbumes ocultos</string>
     <string name="show_hidden_album_title">Mostrar álbumes ocultos</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Movido con éxito, ir a Otros álbumes para ver</string>
@@ -2015,6 +2031,11 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="support_single_image">Seleccione una imagen</string>
     <string name="support_single_video">Seleccione un vídeo</string>
     <string name="sync_album_in_proecess">Sincronizando álbum…</string>
+    <string name="sync_backup_disable_confirm_message_downloading">Si desactiva la sincronización ahora, se interrumpirán las descargas en curso de los archivos originales almacenados en la nube. Las imágenes de alta calidad almacenadas en este dispositivo ya no estarán disponibles. ¿Apagar de todos modos?</string>
+    <string name="sync_backup_disable_confirm_message_wait">Las imágenes de alta calidad almacenadas en este dispositivo ya no estarán disponibles después de que desactive la sincronización. Puede descargar archivos originales de la nube y desactivar la sincronización después de eso.</string>
+    <string name="sync_backup_disable_confirm_title">Desactivar sincronización</string>
+    <string name="sync_backup_enable_confirm_message">Cuando la sincronización con la nube está activada, los elementos de este dispositivo se cargarán y combinarán con los elementos almacenados en la nube.</string>
+    <string name="sync_backup_enable_confirm_title">Combinar elementos sincronizados</string>
     <string name="sync_battery_low">Batería baja</string>
     <string name="sync_cloud_space_full">No hay espacio suficiente en Xiaomi Cloud</string>
     <string name="sync_diabled_toast">La sincronización está desactivada</string>
@@ -2127,7 +2148,7 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="tip_file_path">Ruta local:</string>
     <string name="tip_not_download">No se encuentra en el dispositivo. Se descargará de Xiaomi Cloud mientras se reproduce.</string>
     <string name="tip_screenshot_package_info">Nombre de la aplicación:</string>
-    <string name="tips_prompt_enable_midrop">Mi Compartir</string>
+    <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="title_set_name">Introducir nombre</string>
     <string name="title_tip">Consejo</string>
     <string name="title_warn">Atención</string>
@@ -2419,6 +2440,8 @@ transcodificación puede llevar algún tiempo cuando utilice esta función por p
     <string name="vlog_filter_lanmei">Arándano</string>
     <string name="vlog_filter_liulan">Niebla</string>
     <string name="vlog_filter_luoma">Roma</string>
+    <string name="vlog_filter_master_close">Efectos de video eliminados</string>
+    <string name="vlog_filter_master_open">Efectos de video aplicados</string>
     <string name="vlog_filter_no_support_nums">"Vídeos omitidos que no admiten la edición (%1$d)"</string>
     <string name="vlog_filter_nuanyang">Brillo Solar</string>
     <string name="vlog_filter_origin">Ninguno</string>
