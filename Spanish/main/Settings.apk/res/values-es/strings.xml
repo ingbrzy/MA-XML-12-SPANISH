@@ -4228,10 +4228,10 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="miheadset_LeftEar">Izquierda</string>
     <string name="miheadset_RightEar">Derecha</string>
     <string name="miheadset_active">Energético</string>
-    <string name="miheadset_ancBalance">Medio</string>
-    <string name="miheadset_ancClosed">Desactivado</string>
-    <string name="miheadset_ancDecrease">Bajo</string>
-    <string name="miheadset_ancIncrease">Alto</string>
+    <string name="miheadset_ancClosed">Apagado</string>
+    <string name="miheadset_ancHigh">Alto</string>
+    <string name="miheadset_ancLow">Bajo</string>
+    <string name="miheadset_ancMedium">Medio</string>
     <string name="miheadset_anc_indicate">Conectar y emparejar auriculares</string>
     <string name="miheadset_audio_mode">Calidad de audio</string>
     <string name="miheadset_audio_mode_high">Alto</string>
@@ -4253,6 +4253,7 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="miheadset_double_click_key_mode">Doble toque</string>
     <string name="miheadset_double_click_left">Toca dos veces el auricular izquierdo</string>
     <string name="miheadset_double_click_right">Toque dos veces el auricular derecho</string>
+    <string name="miheadset_enhanceVoice">Mejorar la voz</string>
     <string name="miheadset_enhence_high">Agudos mejorados</string>
     <string name="miheadset_enhence_low">Graves mejorados</string>
     <string name="miheadset_equalizer">Ecualizador</string>
@@ -4283,8 +4284,8 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="miheadset_key_config_close_summary">Desactivar cancelación de ruido y transparencia</string>
     <string name="miheadset_key_config_gesture_control">Gestos</string>
     <string name="miheadset_key_config_next_music">Próxima canción</string>
-    <string name="miheadset_key_config_noise_control">Control activo de ruido</string>
-    <string name="miheadset_key_config_noise_control_summary">Mantenga pulsado para cambiar entre dos modos de control de ruido activo seleccionados</string>
+    <string name="miheadset_key_config_noise_control">Control de ruido</string>
+    <string name="miheadset_key_config_noise_control_summary">Mantenga pulsado para cambiar entre dos modos de control de ruido seleccionados</string>
     <string name="miheadset_key_config_noise_summary">Bloquear sonidos externos</string>
     <string name="miheadset_key_config_press_left">Mantenga pulsado el auricular izquierdo</string>
     <string name="miheadset_key_config_press_right">Mantenga pulsado el auricular derecho</string>
@@ -4311,7 +4312,6 @@ Hay otros usuarios presentes en este dispositivo.
     <string name="miheadset_transparentMode">Transparencia</string>
     <string name="miheadset_triple_click_key_mode">Triple toque</string>
     <string name="miheadset_unpair_device_text">%1$s se desvinculará de todos los dispositivos asociados con esta Mi Cuenta.</string>
-    <string name="miheadset_voiceIncrease">Mejorar la voz</string>
     <string name="mipush_fake_channel_group_name">Mi empuje</string>
     <string name="misc_files">Archivos variados</string>
     <string name="misc_files_selected_count">Has seleccionado %1$d de %2$d.</string>
@@ -7232,6 +7232,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="title_layout_current2_weight">Tamaño del texto y grosor de la fuente</string>
     <string name="title_miui_music_mute_by_user">Modo Silencio</string>
     <string name="title_of_auto_launch_manage">Autoencendido</string>
+    <string name="title_special_features_health_global">Ritmo cardíaco</string>
     <string name="to_close">Apagar</string>
     <string name="toast_apply_font_fail">"No se puede establecer la fuente"</string>
     <string name="toast_lockscreen_glogin_empty_password">Introduce la contraseña</string>

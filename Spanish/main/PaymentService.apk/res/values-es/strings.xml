@@ -8,6 +8,16 @@
     <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
     <string name="abc_capital_off">NO</string>
     <string name="abc_capital_on">SÍ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">eliminar</string>
+    <string name="abc_menu_enter_shortcut_label">ingresar</string>
+    <string name="abc_menu_function_shortcut_label">Funcion+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">espacio</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Buscar…</string>
     <string name="abc_searchview_description_clear">Borrar consulta</string>
     <string name="abc_searchview_description_query">Consulta</string>
@@ -58,6 +68,7 @@
     <string name="bind_sign_in_title">Añadir cuenta</string>
     <string name="change_activate_email">Cambiar dirección de correo electrónico</string>
     <string name="change_password">Cambiar contraseña</string>
+    <string name="character_counter_content_description">Límite de caracteres excedido %1$d de %2$d</string>
     <string name="choose_to_signin">Sí</string>
     <string name="choose_to_signup">"No, crearé una"</string>
     <string name="collect_diagnosis_log">Recoger registros</string>
@@ -306,6 +317,8 @@ Compruebe su fecha local y vuelva a intentarlo."</string>
     <string name="mibi_permanently_denied_perm_send_sms">Permita enviar mensajes SMS en Configuración para usar las funciones.</string>
     <string name="mibi_prepaid_card_order_info">%1$s tarjeta de recarga: CNY %2$s</string>
     <string name="mibi_prepaid_carriers_picker_hint">Seleccionar operador</string>
+    <string name="mibi_prepaid_dialog_content">Cualquier pérdida causada por la discrepancia entre el número de tarjeta, el valor nominal, la contraseña y la información real correrá a cargo de usted. Verifique la información que proporciona antes de continuar.</string>
+    <string name="mibi_prepaid_dialog_title">Atención</string>
     <string name="mibi_prepaid_edit_limit">dígitos</string>
     <string name="mibi_prepaid_error_card_length">Número de tarjeta o contraseña no válidos.</string>
     <string name="mibi_prepaid_error_card_number">Número de tarjeta no válido.</string>
@@ -317,6 +330,7 @@ Compruebe su fecha local y vuelva a intentarlo."</string>
     <string name="mibi_prepaid_picker_hint_1_2">Solo admite carga única;</string>
     <string name="mibi_prepaid_picker_hint_2_2_a">"El valor nominal seleccionado debe ser coherente con el de la tarjeta prepago. Elegir otro valor anulará la tarjeta. Esta acción no se puede deshacer."</string>
     <string name="mibi_prepaid_picker_hint_2_2_b">Si el valor nominal de la tarjeta prepago no es &lt;font color=red&gt;￥%1$s&lt;/font&gt;, la tarjeta se anulará. Xiaomi no es responsable de ninguna pérdida monetaria que se produzca como resultado de un error del usuario.</string>
+    <string name="mibi_prepaid_picker_hint_3_2">Ingrese su número de tarjeta, valor nominal y contraseña. <b>Cualquier pérdida causada por la discrepancia entre la información que proporciona y la información real correrá a cargo de usted.</b></string>
     <string name="mibi_prepaid_picker_title_default">Seleccionar monto</string>
     <string name="mibi_prepaid_picker_title_selected">cantidad</string>
     <string name="mibi_privacy_license_name">Política de Privacidad</string>
@@ -411,6 +425,7 @@ centro de servicio al cliente：400-100-3399"</string>
     <string name="mibi_web_login_description">Iniciar sesión</string>
     <string name="mibi_web_login_waiting">Espera…</string>
     <string name="mibi_web_sso_login_fail">Debes iniciar la sesión de nuevo</string>
+    <string name="mtrl_chip_close_icon_content_description">Quitar %1$s</string>
     <string name="nick_name">Nombre</string>
     <string name="no_account">No has iniciado sesión</string>
     <string name="no_network">"No se pudo conectar a la red"</string>
@@ -507,7 +522,7 @@ centro de servicio al cliente：400-100-3399"</string>
     <string name="passport_wrong_phone_number_format">El formato de número de teléfono introducido no es válido</string>
     <string name="passport_wrong_vcode">El código introducido es incorrecto</string>
     <string name="passport_wrong_voice">El código que has introducido es incorrecto</string>
-    <string name="password_toggle_content_description">Alternar visibilidad de contraseña</string>
+    <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="phone_bind_too_many">Este teléfono ha sido asociado con varias cuentas Mi en un corto periodo de tiempo. Intenta usar otro número de teléfono.</string>
     <string name="phone_hint">Número de teléfono</string>
     <string name="phone_num_use_for">El número de teléfono se usa para:</string>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="app_usage_day">
-        <item quantity="other">"No se ha usado en %d días"</item>
-        <item quantity="one">"No se ha usado en %d día"</item>
+        <item quantity="other">"No se ha usado por %d días"</item>
+        <item quantity="one">"No se ha usado por %d día"</item>
     </plurals>
     <plurals name="app_usage_month">
-        <item quantity="other">"No se ha usado en %d meses"</item>
-        <item quantity="one">"No se ha usado en %d mes"</item>
+        <item quantity="other">"No se ha usado por %d meses"</item>
+        <item quantity="one">"No se ha usado por %d mes"</item>
     </plurals>
     <plurals name="app_usage_year">
-        <item quantity="other">"No se ha usado en %d años"</item>
-        <item quantity="one">"No se ha usado en %d año"</item>
+        <item quantity="other">"No se ha usado por %d años"</item>
+        <item quantity="one">"No se ha usado por %d año"</item>
     </plurals>
     <plurals name="clean_long_msg_p1">
         <item quantity="other">"Limpiando %1$d archivos (%2$d%%)
@@ -23,8 +23,8 @@
         <item quantity="one">%1$d elemento por segundo | Tiempo restante: %2$s</item>
     </plurals>
     <plurals name="dc_group_title_normal">
-        <item quantity="other">Da %1$d pasos para liberar %2$s</item>
-        <item quantity="one">Da %1$d paso para liberar %2$s</item>
+        <item quantity="other">%1$d pasos para liberar %2$s</item>
+        <item quantity="one">%1$d paso para liberar %2$s</item>
     </plurals>
     <plurals name="dc_item_summary_apk">
         <item quantity="other">&lt;Data&gt;Puede eliminar &lt;font color=#0097FF&gt;%d&lt;/font&gt; paquetes de instalación&lt;/Data&gt;</item>
@@ -43,40 +43,40 @@
         <item quantity="one">&lt;Data&gt;Puede eliminar &lt;font color=#0097FF&gt;%d&lt;/font&gt; archivo grande&lt;/Data&gt;</item>
     </plurals>
     <plurals name="dc_item_summary_uninstall_app">
-        <item quantity="other">&lt;Data&gt;Puede desinstalar &lt;font color=#0097FF&gt;%d&lt;/font&gt; aplicaciones raramente usadas&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Puede desinstalar &lt;font color=#0097FF&gt;%d&lt;/font&gt; aplicación raramente usada&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data&gt;Puede desinstalar &lt;font color=#0097FF&gt;%d&lt;/font&gt; aplicaciones poco usadas&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Puede desinstalar &lt;font color=#0097FF&gt;%d&lt;/font&gt; aplicación poco usada&lt;/Data&gt;</item>
     </plurals>
     <plurals name="dc_item_summary_video">
-        <item quantity="other">&lt;Data&gt;Puede eliminar &lt;font color=#0097FF&gt;%d&lt;/font&gt; vídeos&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Puede eliminar &lt;font color=#0097FF&gt;%d&lt;/font&gt; vídeo&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data&gt;Puede eliminar &lt;font color=#0097FF&gt;%d&lt;/font&gt; videos&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Puede eliminar &lt;font color=#0097FF&gt;%d&lt;/font&gt; video&lt;/Data&gt;</item>
     </plurals>
     <plurals name="deepclean_apk_summary">
-        <item quantity="other">Se han encontrado %d APK, puede eliminar las innecesarias.</item>
-        <item quantity="one">Se ha encontrado %d APK, puede eliminarla.</item>
+        <item quantity="other">Se encontraron %d APK, puede eliminar las que no sean necesarias.</item>
+        <item quantity="one">Se encontró %d APK, puede eliminarla.</item>
     </plurals>
     <plurals name="deepclean_app_summary">
-        <item quantity="other">%d aplicaciones instaladas, puede eliminar las poco utilizadas</item>
+        <item quantity="other">%d aplicaciones instaladas, puede eliminar aplicaciones poco usadas</item>
         <item quantity="one">%d aplicación instalada, puede eliminarla</item>
     </plurals>
     <plurals name="deepclean_cache_summary">
-        <item quantity="other">Puede borrar los datos sin importancia para %d aplicaciones</item>
-        <item quantity="one">Puede borrar los datos sin importancia para %d aplicacion</item>
+        <item quantity="other">Puede eliminar los datos no importantes para %d aplicaciones</item>
+        <item quantity="one">Puede eliminar los datos no importantes para %d aplicación</item>
     </plurals>
     <plurals name="deepclean_install_info_desc1">
         <item quantity="other">%d aplicaciones instaladas</item>
         <item quantity="one">%d aplicación instalada</item>
     </plurals>
     <plurals name="deepclean_large_summary">
-        <item quantity="other">Encontrados %d archivos grandes; puede eliminar los de menor importancia</item>
-        <item quantity="one">Encontrado %d archivo grande; puede eliminarlo</item>
+        <item quantity="other">Se encontraron %d archivos grandes, puede eliminar los que no sean importantes</item>
+        <item quantity="one">Se encontró %d archivo grande, puede eliminarlo</item>
     </plurals>
     <plurals name="deepclean_similar_summary">
-        <item quantity="other">Encontradas %d fotos, puede eliminar imágenes duplicadas o innecesarias</item>
-        <item quantity="one">Encontrada %d foto, puede eliminar imágenes duplicadas o innecesarias</item>
+        <item quantity="other">Se encontraron %d fotos, puede eliminar las imágenes duplicadas o redundantes</item>
+        <item quantity="one">Se encontró %d foto, puede eliminar imágenes duplicadas o redundantes</item>
     </plurals>
     <plurals name="deepclean_video_summary">
-        <item quantity="other">Se han encontrado %d vídeos, puede eliminar los innecesarios.​</item>
-        <item quantity="one">Se ha encontrado %d video, puede eliminarlo.</item>
+        <item quantity="other">Se encontraron %d videos, puede eliminar los que no sean necesarios.</item>
+        <item quantity="one">Se encontró %d video, puede eliminarlo.</item>
     </plurals>
     <plurals name="dialog_content_delete_image_confirm">
         <item quantity="other">¿Eliminar %d fotos?</item>
@@ -87,12 +87,12 @@
         <item quantity="one">¿Eliminar %1$s foto de todos los dispositivos?</item>
     </plurals>
     <plurals name="global_wa_clean_finish_audio">
-        <item quantity="other">&lt;Data&gt;&lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; liberados (suficiente para &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; canciones)&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;&lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; liberados (suficiente para &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; canción)&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data&gt;Liberó &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (suficiente para &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; canciones)&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Liberó &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (suficiente para &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; canción)&lt;/Data&gt;</item>
     </plurals>
     <plurals name="global_wa_clean_finish_picture">
-        <item quantity="other">&lt;Data&gt;&lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; liberados (suficiente para &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; fotos)&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;&lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; liberados (suficiente para &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; foto)&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data&gt;Liberó &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (suficiente para &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; fotos)&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Liberó &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (suficiente para &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; foto)&lt;/Data&gt;</item>
     </plurals>
     <plurals name="global_wa_image">
         <item quantity="other">%1$d elementos</item>
@@ -103,8 +103,8 @@
         <item quantity="one">%1$d elemento</item>
     </plurals>
     <plurals name="global_wa_voice">
-        <item quantity="other"><Data>Se encontraron &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; mensajes de voz</Data></item>
-        <item quantity="one"><Data>Se encontró &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; mensaje de voz</Data></item>
+        <item quantity="other">&lt;Data&gt;Se encontraron &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; mensajes de voz&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Se encontró &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; mensaje de voz&lt;/Data&gt;</item>
     </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d grupos</item>
@@ -119,7 +119,7 @@
         <item quantity="one">Buscar entre %d aplicación</item>
     </plurals>
     <plurals name="install_find_application_num">
-        <item quantity="other">Encontradas %d aplicaciones</item>
+        <item quantity="other">Se encontraron %d aplicaciones</item>
         <item quantity="one">Se encontró %d aplicación</item>
     </plurals>
     <plurals name="minute">
@@ -139,8 +139,8 @@
         <item quantity="one">Descargado por %1$d persona</item>
     </plurals>
     <plurals name="resutl_function_install_app_summary">
-        <item quantity="other">&lt;Data&gt;&lt;font color=#ff0000 &gt;%d&lt;/font&gt; apps no han sido utilizadas en mucho tiempo, echa un vistazo.;&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;&lt;font color=#ff0000 &gt;%d&lt;/font&gt; app no ha sido utilizada en mucho tiempo, echa un vistazo.;&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data&gt;&lt;font color=#ff0000 &gt;%d&lt;/font&gt; aplicaciones no han sido usadas en mucho tiempo, eche un vistazo.&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;&lt;font color=#ff0000 &gt;%d&lt;/font&gt; aplicación no ha sido usada en mucho tiempo, eche un vistazo.&lt;/Data&gt;</item>
     </plurals>
     <plurals name="rs_clean_size_hint_image">
         <item quantity="other">Suficiente para %d fotos</item>
@@ -159,12 +159,12 @@
         <item quantity="one">%d aplicación con vídeos almacenados en caché</item>
     </plurals>
     <plurals name="view_num">
-        <item quantity="other">%1$s visualizaciones</item>
-        <item quantity="one">%1$s visualización</item>
+        <item quantity="other">%1$s vistas</item>
+        <item quantity="one">%1$s vista</item>
     </plurals>
     <plurals name="wechat_copy_video_failed_dialog_msg">
-        <item quantity="other">"No se pudieron exportar %d vídeos. Libere espacio e inténtelo de nuevo"</item>
-        <item quantity="one">"No se pudo exportar %d vídeo. Libere espacio e inténtelo de nuevo."</item>
+        <item quantity="other">"No se pudieron exportar %d videos. Libere espacio y vuelva a intentarlo."</item>
+        <item quantity="one">"No se pudo exportar %d video. Libere espacio y vuelva a intentarlo."</item>
     </plurals>
     <plurals name="wechat_empty_files">
         <item quantity="other">(%1$d archivos vacíos)</item>

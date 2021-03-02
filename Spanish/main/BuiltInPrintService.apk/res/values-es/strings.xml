@@ -10,18 +10,18 @@
     <string name="connecting_to">Conectando con %1$s</string>
     <string name="connections">Conexiones</string>
     <string name="connects_via_network">Conectar vía red actual en %1$s</string>
-    <string name="connects_via_wifi_direct">Conectar a través de Wi-Fi Direct</string>
+    <string name="connects_via_wifi_direct">Conectar vía Wi-Fi Direct</string>
     <string name="failed_connection">No se pudo conectar con %1$s</string>
     <string name="failed_printer_connection">No se pudo conectar con la impresora</string>
     <string name="find_wifi_direct">Encontrar impresoras con Wi-Fi Direct</string>
     <string name="fix">Revisar permisos</string>
     <string name="forget">Olvidar</string>
     <string name="hostname_or_ip">Nombre de host o dirección IP</string>
-    <string name="media_size_4x6in">4x6 pulgadas</string>
+    <string name="media_size_4x6in">4x6 in</string>
     <string name="media_size_54x86mm">54x86 mm</string>
     <string name="media_size_5x7in">5x7 pulgadas</string>
     <string name="media_size_89x119mm">89x119 mm</string>
-    <string name="media_size_8x10in">8x10 pulgadas</string>
+    <string name="media_size_8x10in">8x10 in</string>
     <string name="no_printer_found">No se encontró ninguna impresora en esta dirección</string>
     <string name="not_encrypted_request">Esta impresora ya no acepta trabajos encriptados. ¿Continuar imprimiendo?</string>
     <string name="print">Imprimir</string>
@@ -38,10 +38,10 @@
     <string name="printer_out_of_ink">Sin tinta</string>
     <string name="printer_out_of_paper">Sin papel</string>
     <string name="printer_out_of_toner">Sin tóner</string>
-    <string name="recommendation_enable_summary">Selecciona para habilitar</string>
-    <string name="recommendation_install_summary">Seleccionar para instalar</string>
+    <string name="recommendation_enable_summary">Selecciona lo que quieras habilitar</string>
+    <string name="recommendation_install_summary">Selecciona lo que quieras instalar</string>
     <string name="recommendation_manage">Gestionar servicios</string>
-    <string name="recommendation_summary">El servicio de impresión predeterminado ofrece opciones básicas. Otras opciones para esta impresora pueden estar disponibles en otro servicio de impresión.</string>
+    <string name="recommendation_summary">El servicio de impresión predeterminado solo tiene opciones básicas. Es posible que en otro servicio de impresión haya más opciones disponibles para esta impresora.</string>
     <string name="recommendations_heading">Servicios recomendados</string>
     <string name="reject">Rechazar</string>
     <string name="saved_printers">Impresoras guardadas</string>
@@ -52,6 +52,6 @@
     <string name="waiting_to_send">Esperando para enviar</string>
     <string name="wifi_direct">Wi-Fi Direct</string>
     <string name="wifi_direct_permission_rationale">El Servicio de impresión por defecto necesita permisos de ubicación para encontrar dispositivos cercanos.</string>
-    <string name="wifi_direct_printers">Impresoras Wi-Fi Direct</string>
-    <string name="wifi_direct_printing">Impresión por Wi-Fi Direct</string>
+    <string name="wifi_direct_printers">Impresoras con Wi-Fi Direct</string>
+    <string name="wifi_direct_printing">Impresión con Wi-Fi Direct</string>
 </resources>

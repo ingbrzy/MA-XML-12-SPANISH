@@ -104,6 +104,14 @@
         <item quantity="other">%d veces</item>
         <item quantity="one">%d vez</item>
     </plurals>
+    <plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="other">%d aplicaciones desinstaladas</item>
+        <item quantity="one">%d aplicación desinstalada</item>
+    </plurals>
+    <plurals name="app_manager_updater_notify_title">
+        <item quantity="other">Hay actualizaciones disponibles para las aplicaciones %d</item>
+        <item quantity="one">Hay actualizaciones disponibles para la aplicación %d</item>
+    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Usado hace %d días</item>
         <item quantity="one">Usado hace %d día</item>
@@ -139,6 +147,10 @@
     <plurals name="cache_check_content">
         <item quantity="other">Protegiendo %d aplicaciones</item>
         <item quantity="one">Protegiendo %d aplicación</item>
+    </plurals>
+    <plurals name="card_uninstall_title">
+        <item quantity="other">&lt;Data&gt;Puede desinstalar &lt;font color=#F22424&gt;%d&lt;/font&gt; aplicaciones&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Puede desinstalar &lt;font color=#F22424&gt;%d&lt;/font&gt; aplicación&lt;/Data&gt;</item>
     </plurals>
     <plurals name="daily_sim_over_limit_dialog_message">
         <item quantity="other">"Ya has usado %s de tu límite de datos diario. 
@@ -775,6 +787,10 @@ para obtener una prueba gratuita de %ddía!"</item>
     <plurals name="system_check_content">
         <item quantity="other">%1$d elementos seguros</item>
         <item quantity="one">%1$d elemento seguro</item>
+    </plurals>
+    <plurals name="title_app_update_cn">
+        <item quantity="other">&lt;Data&gt;Actualización &lt;font color=#F22424&gt;%d&lt;/font&gt; aplicaciones&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Actualización &lt;font color=#F22424&gt;%d&lt;/font&gt; aplicación&lt;/Data&gt;</item>
     </plurals>
     <plurals name="title_virus_clean">
         <item quantity="other">%d virus borrados</item>

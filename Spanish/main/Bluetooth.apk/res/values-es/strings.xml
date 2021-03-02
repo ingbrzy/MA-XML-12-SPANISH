@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="ErrorTooManyRequests">Se están procesando demasiadas solicitudes. Vuelva a intentarlo más tarde.</string>
+    <string name="ErrorTooManyRequests">Se están procesando demasiadas solicitudes. Vuelve a intentarlo más tarde.</string>
     <string name="a2dp_sink_mbs_label">Audio por Bluetooth</string>
     <string name="ack_record">Confirmar grabación</string>
     <string name="airplane_error_msg">"No puede utilizar Bluetooth en el modo avión."</string>
     <string name="airplane_error_title">Modo avión</string>
     <string name="auth_notif_message">Introducir clave de sesión para %1$s</string>
-    <string name="auth_notif_ticker">Solicitud de autenticidad de Obex</string>
+    <string name="auth_notif_ticker">Solicitud de autenticación de Obex</string>
     <string name="auth_notif_title">Clave de sesión</string>
     <string name="bluetooth_a2dp_sink_queue_name">Está Sonando</string>
     <string name="bluetooth_advanced_feat_description">Función de navegación avanzada por Bluetooth</string>
@@ -50,7 +50,7 @@
     <string name="bt_toast_5">Enviando %1$s archivos a \"%2$s\"</string>
     <string name="bt_toast_6">Se ha detenido el envío del archivo a \"%1$s\"</string>
     <string name="btopp_live_folder">Recibido por Bluetooth</string>
-    <string name="defaultname">Kit de automóvil</string>
+    <string name="defaultname">Carkit</string>
     <string name="deleteAll_record">Eliminar todas las grabaciones</string>
     <string name="delete_record">Eliminar grabación</string>
     <string name="download_cancel">Detener</string>
@@ -102,7 +102,7 @@
     <string name="notification_sent_fail">Bluetooth: archivo %1$s no enviado</string>
     <string name="notify_server">Informar al servidor TCP</string>
     <string name="ok_button">Aceptar</string>
-    <string name="opp_notification_group">Compartir por Bluetooth</string>
+    <string name="opp_notification_group">Bluetooth Share</string>
     <string name="outbound_history_title">Transferencias salientes</string>
     <string name="outbound_noti_title">Bluetooth: archivos enviados</string>
     <string name="pbap_acceptance_timeout_message">Se ha agotado el tiempo para aceptar la conexión con %1$s.</string>
@@ -142,12 +142,12 @@
     <string name="switch_audio_device_bt_hfp_summary">Reproducir audio de llamadas en un dispositivo conectado. Esta función debe desactivarse manualmente.</string>
     <string name="switch_audio_device_default">Predeterminado</string>
     <string name="switch_audio_device_default_summary">Dispositivo utilizado actualmente</string>
-    <string name="switch_audio_device_hfp_hint">Volver a la salida predeterminada</string>
-    <string name="switch_audio_device_hfp_toast_hint">Seleccione la salida de audio predeterminada para comenzar a reproducir audio de nuevo en este dispositivo.</string>
+    <string name="switch_audio_device_hfp_hint">Cambiar de nuevo a la salida predeterminada</string>
+    <string name="switch_audio_device_hfp_toast_hint">Seleccionar la salida de audio predeterminada para comenzar a reproducir audio de nuevo en este dispositivo.</string>
     <string name="switch_audio_device_phone">Este dispositivo</string>
     <string name="switch_audio_device_phone_summary">Reproducir audio en este dispositivo</string>
-    <string name="switch_audio_device_switch_hint">Puede desactivar las notificaciones de los dispositivos conectados en Configuración&gt; Bluetooth&gt; Configuración adicional.</string>
-    <string name="switch_audio_dialog_title">Seleccione salida de audio</string>
+    <string name="switch_audio_device_switch_hint">Puedes desactivar las notificaciones sobre dispositivos conectados en Ajustes &gt; Bluetooth &gt; Ajustes adicionales.</string>
+    <string name="switch_audio_dialog_title">Seleccionar salida de audio</string>
     <string name="switch_audio_notification_content">"Dispositivo de salida de audio actual:"</string>
     <string name="switch_audio_notification_title">Conectividad del dispositivo</string>
     <string name="transfer_clear_dlg_msg">Se borrarán todos los elementos de la lista.</string>

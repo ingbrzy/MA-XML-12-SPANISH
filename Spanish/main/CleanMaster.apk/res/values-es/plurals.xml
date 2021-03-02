@@ -103,8 +103,8 @@
         <item quantity="one">%1$d elemento</item>
     </plurals>
     <plurals name="global_wa_voice">
-        <item quantity="other"><Data>Se encontraron &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; mensajes de voz</Data></item>
-        <item quantity="one"><Data>Se encontró &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; mensaje de voz</Data></item>
+        <item quantity="other">&lt;Data&gt;Se encontró &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; mensajes de voz&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Se encontró &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; mensaje de voz&lt;/Data&gt;</item>
     </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d grupos</item>
@@ -119,7 +119,7 @@
         <item quantity="one">Buscar entre %d aplicación</item>
     </plurals>
     <plurals name="install_find_application_num">
-        <item quantity="other">Encontradas %d aplicaciones</item>
+        <item quantity="other">Se encontraron %d aplicaciones</item>
         <item quantity="one">Se encontró %d aplicación</item>
     </plurals>
     <plurals name="minute">
@@ -139,8 +139,8 @@
         <item quantity="one">Descargado por %1$d persona</item>
     </plurals>
     <plurals name="resutl_function_install_app_summary">
-        <item quantity="other">&lt;Data&gt;&lt;font color=#ff0000 &gt;%d&lt;/font&gt; apps no han sido utilizadas en mucho tiempo, echa un vistazo.;&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;&lt;font color=#ff0000 &gt;%d&lt;/font&gt; app no ha sido utilizada en mucho tiempo, echa un vistazo.;&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data&gt;&lt;font color=#ff0000 &gt;%d&lt;/font&gt; apps no han sido utilizadas en mucho tiempo, echa un vistazo.&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;&lt;font color=#ff0000 &gt;%d&lt;/font&gt; app no ha sido utilizada en mucho tiempo, echa un vistazo.&lt;/Data&gt;</item>
     </plurals>
     <plurals name="rs_clean_size_hint_image">
         <item quantity="other">Suficiente para %d fotos</item>

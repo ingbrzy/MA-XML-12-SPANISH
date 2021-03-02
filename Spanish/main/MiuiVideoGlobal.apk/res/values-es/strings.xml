@@ -99,6 +99,8 @@
     <string name="alert_dialog_download_prepare">Iniciando descarga…</string>
     <string name="alert_dialog_download_progress">"Descargando aplicación: "</string>
     <string name="all">Mostrar todo</string>
+    <string name="app_description_content">"Mi Video es una aplicación de sistema que contiene un reproductor de video local. Aún podrá reproducir archivos de video después de eliminar el acceso directo de la pantalla de inicio."</string>
+    <string name="app_description_title">¿Eliminar \"Mi Video\" de la pantalla de inicio?</string>
     <string name="app_name">Vídeo</string>
     <string name="auth_again">Aceptar</string>
     <string name="auth_fail_warning">Sesión caducada. Vuelve a iniciar sesión.</string>
@@ -107,6 +109,7 @@
     <string name="back_to_mainpage">Descubrir</string>
     <string name="before_yestoday">Hace 2 días</string>
     <string name="bind_sign_in_title">Añadir cuenta</string>
+    <string name="brvah_app_name">Biblioteca</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_choose">Deseleccionar</string>
     <string name="cancel_subscribe_tips">¿Dejar de seguir ahora?</string>
@@ -261,6 +264,13 @@ ID:%s
 Envíe este código al supervisor."</string>
     <string name="dialog_privacy_info_new2">"Para poder usar sus servicios, debe aceptar que %1$s recoja, procese y use su información personal. Se considerará que ha leido y aceptado nuestra &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt; cuando pulse Aceptar."</string>
     <string name="dialog_privacy_info_new3">"Para poder utilizar este servicio, debe permitir que %1$s recopile, procese y use su información personal de acuerdo con la Política de privacidad. Al tocar \"Aceptar\" a continuación, acepta la &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt; Xiaomi y el Acuerdo de usuario &lt;a href=%3$s&gt;&lt;/a&gt;. &lt;br/&gt;&lt;br/&gt;tocar \"Aceptar\" también le permite a Mi Video acceder a la lista de aplicaciones instaladas en su dispositivo. Con este permiso, Mi Video podrá compartir elementos, comprender si una aplicación está instalada en su dispositivo, qué versión de una aplicación está instalada y si una aplicación es segura."</string>
+    <string name="dialog_privacy_revoke_cancel">Cancelar</string>
+    <string name="dialog_privacy_revoke_count_down">Retirar (%1$ds)</string>
+    <string name="dialog_privacy_revoke_description">Al desactivar el interruptor, retira su consentimiento a la Política de privacidad de Mi Video. Dejaremos de recopilar su información personal. La información personal ya recopilada y retenida se eliminará dentro del período específico según lo requieran las leyes aplicables. Su retiro de consentimiento a la Política de privacidad se considerará como negarse a aceptar servicios en línea basados en la información personal recopilada.</string>
+    <string name="dialog_privacy_revoke_fail">Su dispositivo debe conectarse a la red para que pueda retirar el consentimiento. Verifique la configuración de su red y vuelva a intentarlo.</string>
+    <string name="dialog_privacy_revoke_ok">Retirar</string>
+    <string name="dialog_privacy_revoke_success">Se retiró con éxito</string>
+    <string name="dialog_privacy_revoking">Retirar el consentimiento…</string>
     <string name="dialog_privacy_title">Autorización</string>
     <string name="dialog_revoke_privacy_info_new2">Después de revocar la autorización, la aplicación dejará de recopilar datos y todos los datos relacionados se eliminarán de nuestros servidores. Esto podría hacer que la aplicación sea virtualmente inutilizable. ¿Revocar la autorización de todas formas?</string>
     <string name="dialog_revoke_privacy_title">Revocando autorización</string>
@@ -685,6 +695,7 @@ para videos"</string>
     <string name="next_step">Siguiente</string>
     <string name="nick_name">Nombre</string>
     <string name="no_account">No has iniciado sesión</string>
+    <string name="no_history">No hay elementos</string>
     <string name="no_longer_prompt">"No mostrar de nuevo"</string>
     <string name="no_more_content">"Todo por ahora"</string>
     <string name="no_network_tips">"No puede usar esta función por ahora. Acceso a la red restringido."</string>
@@ -1049,6 +1060,8 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="plus_sort_type_time">Hora</string>
     <string name="plus_tab_gallery">Carpetas</string>
     <string name="plus_tab_time">Línea de tiempo</string>
+    <string name="privacy_revoke_setting">Al desactivar el interruptor, retira su consentimiento a la Política de privacidad de Mi Video.</string>
+    <string name="privacy_revoke_title">Retiro del consentimiento</string>
     <string name="progressbar_title">Comprobando problemas de seguridad…</string>
     <string name="psw_hint">Contraseña</string>
     <string name="psw_sign_in">Iniciar sesión usando contraseña</string>
@@ -1114,6 +1127,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="screenrecord_cancel">Problemas de compatibilidad</string>
     <string name="screenrecord_nosupport_record">"La grabadora de pantalla no es soportada por este dispositivo."</string>
     <string name="search">Buscar</string>
+    <string name="search_bar_hint">Buscar videos</string>
     <string name="search_choose_language">Seleccionar idioma</string>
     <string name="search_choose_voice_language">Selecciona el idioma usado para la búsqueda por voz</string>
     <string name="search_hot_words">Popular</string>
@@ -1300,4 +1314,12 @@ Tamaño de actualización: %2$s"</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Almacenamiento no disponible, Por favor revisa la tarjeta SD.</string>
     <string name="year">año</string>
     <string name="yesterday">Ayer</string>
+    <string name="ytb_account">Cuentas</string>
+    <string name="ytb_author_video">Videos</string>
+    <string name="ytb_login">Iniciar sesión</string>
+    <string name="ytb_login_btn">Iniciar sesión</string>
+    <string name="ytb_login_hint">Inicie sesión para ver sus suscripciones de YouTube</string>
+    <string name="ytb_logout">Cerrar sesión</string>
+    <string name="ytb_play_next">Siguiente</string>
+    <string name="ytb_subscribed">Subscripciones</string>
 </resources>
