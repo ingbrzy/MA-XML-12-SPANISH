@@ -37,8 +37,8 @@
         <item quantity="one">Hace 1 min</item>
     </plurals>
     <plurals name="add_secret_ensure_message">
-        <item quantity="other">¿Ocultar estos archivos?</item>
-        <item quantity="one">¿Ocultar este archivo?</item>
+        <item quantity="other">¿Añadir estos elementos al álbum privado?</item>
+        <item quantity="one">¿Añadir este elemento al álbum privado?</item>
     </plurals>
     <plurals name="add_to_album_cloud_photo_count_tip">
         <item quantity="other">Añadidas %d fotos en la nube, desactiva \"Mostrar solo álbumes locales\" para ver.</item>
@@ -49,8 +49,8 @@
         <item quantity="one">"%2$d elemento no puede ser agregado al álbum. %1$s."</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
-        <item quantity="other">"%2$d elementos no se pueden agregar al álbum oculto. %1$s."</item>
-        <item quantity="one">"%2$d elemento no se puede agregar al álbum oculto. %1$s."</item>
+        <item quantity="other">"%2$d elementos no pueden ser añadidos al álbum privado. %1$s."</item>
+        <item quantity="one">"%2$d elemento no puede ser añadido al álbum privado. %1$s."</item>
     </plurals>
     <plurals name="age_day">
         <item quantity="other">%d días</item>
@@ -105,12 +105,12 @@
         <item quantity="one">Reanudar copia de seguridad en %d hora</item>
     </plurals>
     <plurals name="backup_file_over_size_title">
-        <item quantity="other">%d elementos son demasiado grandes para hacer una copia de seguridad</item>
-        <item quantity="one">%d elemento son demasiado grandes para hacer una copia de seguridad</item>
+        <item quantity="other">%d elementos son demasiado grandes para ser copiados</item>
+        <item quantity="one">%d elemento es demasiado grande para ser copiado</item>
     </plurals>
     <plurals name="backup_pause_desc">
-        <item quantity="other">%d fotos o vídeos| En pausa</item>
-        <item quantity="one">%d foto o vídeo| En pausa</item>
+        <item quantity="other">Se reanudará en %d min</item>
+        <item quantity="one">Se reanudará en %d min</item>
     </plurals>
     <plurals name="backup_pause_dialog_message">
         <item quantity="other">Pausar sincronización de fotos, vídeos, contactos, notas y otros elementos con la nube durante %d minutos.</item>
@@ -129,16 +129,16 @@
         <item quantity="one">%d foto</item>
     </plurals>
     <plurals name="burst_save_confirm_dialog_message">
-        <item quantity="other">"¿Guardar %d fotos seleccionadas y eliminar el resto?"</item>
-        <item quantity="one">"¿Guardar la foto seleccionada y eliminar el resto?"</item>
+        <item quantity="other">"¿Eliminar %d fotos que no seleccionaste?"</item>
+        <item quantity="one">"¿Eliminar %d foto que no seleccionaste?"</item>
     </plurals>
     <plurals name="burst_save_confirm_dialog_title">
         <item quantity="other">Eliminar %d fotos</item>
         <item quantity="one">Eliminar %d foto</item>
     </plurals>
     <plurals name="burst_save_selected">
-        <item quantity="other">Guardar %d fotos seleccionada</item>
-        <item quantity="one">Guardar foto seleccionada</item>
+        <item quantity="other">Mantener %d fotos seleccionadas</item>
+        <item quantity="one">Mantener %d foto seleccionada</item>
     </plurals>
     <plurals name="cloud_storage_photo_num">
         <item quantity="other">%d fotos</item>
@@ -182,7 +182,7 @@
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">¿Eliminar %d fotos de todos los dispositivos y de Xiaomi Cloud?</item>
-        <item quantity="one">¿Eliminar esta foto de todos los dispositivos y de Xiaomi Cloud?</item>
+        <item quantity="one">¿Eliminar %d foto de todos los dispositivos y de Xiaomi Cloud?</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">¿Eliminar %d ráfagas de fotos de tu dispositivo?</item>
@@ -190,7 +190,7 @@
     </plurals>
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
         <item quantity="other">¿Eliminar %d vídeos de todos los dispositivos y de Xiaomi Cloud?</item>
-        <item quantity="one">¿Eliminar este vídeo de todos los dispositivos y de Xiaomi Cloud?</item>
+        <item quantity="one">¿Eliminar %d vídeo de todos los dispositivos y de Xiaomi Cloud?</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">"No se pudieron descargar %1$d archivos"</item>
@@ -210,7 +210,7 @@
     </plurals>
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">"Se han omitido %1$d fotos que no se han podido mostrar."</item>
-        <item quantity="one">"Se ha omitido una foto que no se ha podido mostrar."</item>
+        <item quantity="one">"Se ha omitido %1$d foto que no se ha podido mostrar."</item>
     </plurals>
     <plurals name="file_type_detail_count">
         <item quantity="other">%1$d archivos</item>
@@ -245,40 +245,40 @@
         <item quantity="one">Hace 1 minuto</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d elementos esperando a ser copiados</item>
-        <item quantity="one">1 elemento esperando a ser copiado</item>
+        <item quantity="other">%1$d elementos esperando para ser sincronizado</item>
+        <item quantity="one">%1$d elemento esperando para ser sincronizado</item>
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d fotos</item>
-        <item quantity="one">1 foto</item>
+        <item quantity="one">%1$d foto</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">%1$d fotos a la espera de ser copiadas</item>
-        <item quantity="one">1 foto a la espera de ser copiada</item>
+        <item quantity="other">%1$d fotos esperando para ser sincronizadas</item>
+        <item quantity="one">%1$d foto esperando para ser sincronizada</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">Copiando %1$d fotos…</item>
-        <item quantity="one">Copiando foto…</item>
+        <item quantity="other">Sincronizando %1$d fotos…</item>
+        <item quantity="one">Sincronizando %1$d foto…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">Copiando %1$d elementos…</item>
-        <item quantity="one">Copiando 1 elemento…</item>
+        <item quantity="other">Sincronizando %1$d elementos…</item>
+        <item quantity="one">Sincronizando %1$d elemento…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">Copiando %1$d vídeos…</item>
-        <item quantity="one">Copiando vídeo…</item>
+        <item quantity="other">Sincronizando %1$d vídeos…</item>
+        <item quantity="one">Sincronizando %1$d vídeo…</item>
     </plurals>
     <plurals name="number_of_videos_synced">
         <item quantity="other">%1$d vídeos</item>
-        <item quantity="one">1 vídeo</item>
+        <item quantity="one">%1$d vídeo</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">%1$d vídeos a la espera de ser copiados</item>
-        <item quantity="one">1 vídeo a la espera de ser copiado</item>
+        <item quantity="other">%1$d vídeos esperando a ser sincronizados</item>
+        <item quantity="one">%1$d vídeo esperando para ser sincronizado</item>
     </plurals>
     <plurals name="photo_count_format">
-        <item quantity="other">%1$d elementos</item>
-        <item quantity="one">%1$d elemento</item>
+        <item quantity="other">%1$d elementos en total</item>
+        <item quantity="one">%1$d elemento en total</item>
     </plurals>
     <plurals name="photo_remain_days">
         <item quantity="other">%d días</item>
@@ -289,12 +289,12 @@
         <item quantity="one">%d h</item>
     </plurals>
     <plurals name="pic_to_pdf_filter_count">
-        <item quantity="other">%d elementos no admitidos filtrados</item>
-        <item quantity="one">Elemento no admitido filtrado %d</item>
+        <item quantity="other">%d elementos no soportados filtrados</item>
+        <item quantity="one">%d elemento no soportado filtrado</item>
     </plurals>
     <plurals name="pic_to_pdf_support_max_count">
         <item quantity="other">Los archivos PDF pueden contener hasta %d imágenes</item>
-        <item quantity="one">Los archivos PDF pueden contener hasta %d imágenes</item>
+        <item quantity="one">Los archivos PDF pueden contener hasta %d imagen</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">"Las fotos seleccionadas no se encuentran en el dispositivo. ¿Deseas descargarlas usando datos móviles?"</item>
@@ -305,12 +305,12 @@
         <item quantity="one">"La foto seleccionada no está en el dispositivo. Se descargará."</item>
     </plurals>
     <plurals name="picker_all_origin_need_download">
-        <item quantity="other">"Las fotos seleccionadas (%dMB) no se encuentran en el dispositivo. ¿Deseas descargarlas usando datos móviles?"</item>
-        <item quantity="one">"La foto seleccionada (%dMB) no se encuentra en el dispositivo. ¿Deseas descargarla usando datos móviles?"</item>
+        <item quantity="other">"Las fotos seleccionadas (%d MB) no se encuentran en el dispositivo. ¿Deseas descargarlas usando datos móviles?"</item>
+        <item quantity="one">"La foto seleccionada (%d MB) no se encuentra en el dispositivo. ¿Deseas descargarla usando datos móviles?"</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
-        <item quantity="other">"¿Cancelar la descarga de las %d fotos restantes?"</item>
-        <item quantity="one">"¿Cancelar la descarga de la foto restante?"</item>
+        <item quantity="other">"Todavía no se ha descargado %d archivos. ¿Cancelar de todas formas?"</item>
+        <item quantity="one">"Todavía no se ha descargado %d archivo. ¿Cancelar de todas formas?"</item>
     </plurals>
     <plurals name="picker_file_will_download">
         <item quantity="other">Descargando %d archivos restantes</item>
@@ -325,32 +325,32 @@
         <item quantity="one">"No se pudo descargar el archivo %1$d (%2$d MB). Conéctese a la red y vuelva a intentarlo."</item>
     </plurals>
     <plurals name="picker_origin_need_to_download">
-        <item quantity="other">"%1$d archivos (%2$d MB) aún no se han descargado. ¿Descargar usando datos móviles?"</item>
-        <item quantity="one">"%1$d archivo (%2$d MB) aún no descargado. ¿Descargar usando datos móviles?"</item>
+        <item quantity="other">"Todavía no se han descargado %1$d archivos (%2$d MB). ¿Descargar usando datos móviles?"</item>
+        <item quantity="one">"Todavía no se ha descargado %1$d archivo (%2$d MB). ¿Descargar usando datos móviles?"</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">"No se pudieron descargar %1$d fotos, ¿intentar de nuevo?"</item>
-        <item quantity="one">"No se pudo descargar la foto, ¿intentar de nuevo?"</item>
+        <item quantity="other">"No se pudo descargar %1$d fotos, ¿intentar de nuevo?"</item>
+        <item quantity="one">"No se pudo descargar %1$d foto, ¿intentar de nuevo?"</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">"No se pudieron descargar %1$d fotos (%2$dMB), ¿intentar de nuevo?"</item>
-        <item quantity="one">"No se pudo descargar la foto (%2$dMB), ¿intentar de nuevo?"</item>
+        <item quantity="other">"No se pudo descargar %1$d fotos (%2$d MB), ¿intentar de nuevo?"</item>
+        <item quantity="one">"No se pudo descargar %1$d foto (%2$d MB), ¿intentar de nuevo?"</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">"Se han omitido %d fotos que no están en el dispositivo."</item>
-        <item quantity="one">"Se ha omitido una foto que no está en el dispositivo."</item>
+        <item quantity="one">"Se ha omitido %d foto que no está en el dispositivo."</item>
     </plurals>
     <plurals name="quickly_discovery_message_format">
-        <item quantity="other">Se encontraron %1$d nuevas fotos</item>
-        <item quantity="one">Se encontró una nueva foto</item>
+        <item quantity="other">Se encontraron %1$d fotos</item>
+        <item quantity="one">Se encontró %1$d foto</item>
     </plurals>
     <plurals name="remind_face_recommend_confirm_text">
         <item quantity="other">%d fotos en total</item>
         <item quantity="one">%d foto en total</item>
     </plurals>
     <plurals name="remove_from_secret_failed_with_reason_and_count">
-        <item quantity="other">"%2$d elementos no pueden eliminarse del álbum oculto. %1$s."</item>
-        <item quantity="one">"%2$d elemento no puede eliminarse del álbum oculto. %1$s."</item>
+        <item quantity="other">"%2$d elementos no pueden ser eliminados del álbum privado. %1$s."</item>
+        <item quantity="one">"%2$d elemento no puede ser eliminado del álbum privado. %1$s."</item>
     </plurals>
     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">%1$d fotos añadidas a \"%2$s\" y añadidas a la base de datos.</item>
@@ -373,8 +373,8 @@
         <item quantity="one">%2$d paquete de instalación (%3$s) de %1$s</item>
     </plurals>
     <plurals name="send_apk_dialog_desc_received">
-        <item quantity="other">Recibió %2$d paquetes de instalación (%3$s) de %1$s</item>
-        <item quantity="one">Se recibió %2$d paquete de instalación (%3$s) de %1$s</item>
+        <item quantity="other">%2$d paquetes de instalación recibidos (%3$s) de %1$s</item>
+        <item quantity="one">%2$d paquete de instalación recibido (%3$s) de %1$s</item>
     </plurals>
     <plurals name="send_apk_dialog_desc_receiving">
         <item quantity="other">Recibiendo %2$d paquetes de instalación (%3$s) de %1$s…</item>
@@ -385,84 +385,84 @@
         <item quantity="one">%2$d archivo de audio (%3$s) de %1$s</item>
     </plurals>
     <plurals name="send_audio_dialog_desc_received">
-        <item quantity="other">Recibió %2$d archivos de audio (%3$s) de %1$s</item>
-        <item quantity="one">Se recibió %2$d archivo de audio (%3$s) de %1$s</item>
+        <item quantity="other">%2$d archivos de audio recibidos (%3$s) de %1$s</item>
+        <item quantity="one">%2$d archivo de audio recibido (%3$s) de %1$s</item>
     </plurals>
     <plurals name="send_audio_dialog_desc_receiving">
         <item quantity="other">Recibiendo %2$d archivos de audio (%3$s) de %1$s…</item>
         <item quantity="one">Recibiendo %2$d archivo de audio (%3$s) de %1$s…</item>
     </plurals>
     <plurals name="send_file_dialog_desc">
-        <item quantity="other">%2$d %3$s archivos (%4$s) de %1$s</item>
-        <item quantity="one">%2$d %3$s archivo (%4$s) de %1$s</item>
+        <item quantity="other">%2$d %3$s documentos (%4$s) de %1$s</item>
+        <item quantity="one">%2$d %3$s documento (%4$s) de %1$s</item>
     </plurals>
     <plurals name="send_file_dialog_desc_received">
-        <item quantity="other">Recibió %2$d %3$s archivos (%4$s) de %1$s</item>
-        <item quantity="one">Recibido %2$d %3$s archivo (%4$s) de %1$s</item>
+        <item quantity="other">%2$d %3$s documentos recibidos (%4$s) de %1$s</item>
+        <item quantity="one">%2$d %3$s documento recibido (%4$s) de %1$s</item>
     </plurals>
     <plurals name="send_file_dialog_desc_receiving">
-        <item quantity="other">Recibiendo %2$d %3$s archivos (%4$s) de %1$s…</item>
-        <item quantity="one">Recibiendo %2$d %3$s archivo (%4$s) de %1$s…</item>
+        <item quantity="other">Recibiendo %2$d %3$s documentos (%4$s) de %1$s…</item>
+        <item quantity="one">Recibiendo %2$d %3$s documento (%4$s) de %1$s…</item>
     </plurals>
     <plurals name="send_image_dialog_desc">
         <item quantity="other">%2$d imágenes de %1$s</item>
         <item quantity="one">%2$d imagen de %1$s</item>
     </plurals>
     <plurals name="send_image_dialog_desc_received">
-        <item quantity="other">Recibió %2$d imágenes de %1$s</item>
-        <item quantity="one">Recibió %2$d imagen de %1$s</item>
+        <item quantity="other">%2$d imágenes recibidas de %1$s</item>
+        <item quantity="one">%2$d imagen recibida de %1$s</item>
     </plurals>
     <plurals name="send_image_dialog_desc_receiving">
         <item quantity="other">Recibiendo %2$d imágenes de %1$s…</item>
         <item quantity="one">Recibiendo %2$d imagen de %1$s…</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc">
-        <item quantity="other">%2$d imágenes y videos de %1$s</item>
-        <item quantity="one">%2$d imagen o video de %1$s</item>
+        <item quantity="other">%2$d imágenes y vídeos de %1$s</item>
+        <item quantity="one">%2$d imagen y vídeo de %1$s</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc_received">
-        <item quantity="other">Recibió %2$d imágenes y videos de %1$s</item>
-        <item quantity="one">Recibió %2$d imagen o video de %1$s</item>
+        <item quantity="other">%2$d imágenes y vídeos recibidos de %1$s</item>
+        <item quantity="one">%2$d imagen y vídeo recibido de %1$s</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc_receiving">
-        <item quantity="other">Recibiendo %2$d imágenes y videos de %1$s…</item>
-        <item quantity="one">Recibiendo %2$d imagen o video de %1$s…</item>
+        <item quantity="other">Recibiendo %2$d imágenes o vídeos de %1$s…</item>
+        <item quantity="one">Recibiendo %2$d imagen o vídeo de %1$s…</item>
     </plurals>
     <plurals name="send_more_type_file_dialog_desc">
-        <item quantity="other">%2$d archivos de %1$s</item>
-        <item quantity="one">%2$d archivo de %1$s</item>
+        <item quantity="other">%2$d documentos de %1$s</item>
+        <item quantity="one">%2$d documento de %1$s</item>
     </plurals>
     <plurals name="send_more_type_file_dialog_desc_received">
-        <item quantity="other">Recibió %2$d archivos de %1$s</item>
-        <item quantity="one">Recibió %2$d archivo de %1$s</item>
+        <item quantity="other">%2$d documentos recibidos de %1$s</item>
+        <item quantity="one">%2$d documento recibido de %1$s</item>
     </plurals>
     <plurals name="send_more_type_file_dialog_desc_receiving">
-        <item quantity="other">Recibiendo %2$d archivos de %1$s…</item>
-        <item quantity="one">Recibiendo %2$d archivo de %1$s…</item>
+        <item quantity="other">Recibiendo %2$d documentos de %1$s…</item>
+        <item quantity="one">Recibiendo %2$d documento de %1$s…</item>
     </plurals>
     <plurals name="send_processing_files_error">
         <item quantity="other">"No se pudo compartir. Todavía se están procesando %d fotos…"</item>
         <item quantity="one">"No se pudo compartir. Todavía se está procesando %d foto…"</item>
     </plurals>
     <plurals name="send_video_dialog_desc">
-        <item quantity="other">%2$d videos de %1$s</item>
-        <item quantity="one">%2$d video de %1$s</item>
+        <item quantity="other">%2$d vídeos de %1$s</item>
+        <item quantity="one">%2$d vídeo de %1$s</item>
     </plurals>
     <plurals name="send_video_dialog_desc_received">
-        <item quantity="other">Recibió %2$d videos de %1$s</item>
-        <item quantity="one">Recibió %2$d video de %1$s</item>
+        <item quantity="other">%2$d vídeos recibidos de %1$s</item>
+        <item quantity="one">%2$d vídeo recibido de %1$s</item>
     </plurals>
     <plurals name="send_video_dialog_desc_receiving">
-        <item quantity="other">Recibiendo %2$d videos de %1$s…</item>
-        <item quantity="one">Recibiendo %2$d video de %1$s…</item>
+        <item quantity="other">Recibiendo %2$d vídeos de %1$s…</item>
+        <item quantity="one">Recibiendo %2$d vídeo de %1$s…</item>
     </plurals>
     <plurals name="send_zip_dialog_desc">
         <item quantity="other">%2$d archivos (%3$s) de %1$s</item>
         <item quantity="one">%2$d archivo (%3$s) de %1$s</item>
     </plurals>
     <plurals name="send_zip_dialog_desc_received">
-        <item quantity="other">Recibidos %2$d archivos (%3$s) de %1$s</item>
-        <item quantity="one">Recibido %2$d archivo (%3$s) de %1$s</item>
+        <item quantity="other">%2$d archivos recibidos (%3$s) de %1$s</item>
+        <item quantity="one">%2$d archivo recibido (%3$s) de %1$s</item>
     </plurals>
     <plurals name="send_zip_dialog_desc_receiving">
         <item quantity="other">Recibiendo %2$d archivos (%3$s) de %1$s…</item>

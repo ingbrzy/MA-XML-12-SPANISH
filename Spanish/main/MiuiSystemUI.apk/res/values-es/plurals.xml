@@ -29,8 +29,8 @@
         <item quantity="one">Introduce tu contraseña al menos una vez cada %d hora para recordarla siempre</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">Introduce tu patrón al menos una vez cada %d horas para recordarlo siempre</item>
-        <item quantity="one">Introduce tu patrón al menos una vez cada %d hora para recordarlo siempre</item>
+        <item quantity="other">Introduce tu contraseña al menos una vez cada %d horas para recordarla siempre</item>
+        <item quantity="one">Introduce tu contraseña al menos una vez cada %d hora para recordarla siempre</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Queda alrededor de %d horas</item>
@@ -65,11 +65,11 @@
         <item quantity="one">%d minuto restante</item>
     </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_time_text">
-        <item quantity="other">%1$d h %2$d m restantes</item>
-        <item quantity="one">%1$d h %2$d m restante</item>
+        <item quantity="other">%1$d horas %2$d minutos restantes</item>
+        <item quantity="one">%1$d hora %2$d minuto restante</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
-        <item quantity="other">Introduce el PIN de la SIM, tienes %d intentos restantes.</item>
+        <item quantity="other">Introduce el PIN de la SIM, tienes %d intentos restantes antes de que debas contactar con tu operador para desbloquear el dispositivo.</item>
         <item quantity="one">Introduce el PIN de la SIM, tienes %d intento restante antes de que debas contactar con tu operador para desbloquear el dispositivo.</item>
     </plurals>
     <plurals name="kg_password_default_pin_message_multi_sim">
@@ -81,8 +81,8 @@
         <item quantity="one">La SIM fue deshabilitada. Introduce el código PUK para continuar. Tienes %d intento restante antes de que la SIM se vuelva inutilizable. Contacta con tu operador para más detalles.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">PIN incorrecto. Tiene %d intentos restantes antes de que debas contactar con tu operador para desbloquear tu dispositivo.</item>
-        <item quantity="one">PIN incorrecto. Tiene %d intento restante antes de que debas contactar con tu operador para desbloquear tu dispositivo.</item>
+        <item quantity="other">PIN de la SIM incorrecto. Tienes %d intentos restantes.</item>
+        <item quantity="one">PIN de la SIM incorrecto. Tienes %d intento restante antes de que debas contactar con tu operador para desbloquear tu dispositivo.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code_multi_sim">
         <item quantity="other">Código PIN%1$d de la tarjeta SIM incorrecto, te quedan %2$d intentos restantes.</item>

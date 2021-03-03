@@ -5,8 +5,8 @@
         <item quantity="one">Total %d canción</item>
     </plurals>
     <plurals name="Nassociate_songs">
-        <item quantity="other">Buscando carátulas de álbum y letras(%1$d/%2$d)</item>
-        <item quantity="one">Buscando carátula de álbum y letras(%1$d/%2$d)</item>
+        <item quantity="other">Buscando cubiertas de álbum y letras(%1$d/%2$d)</item>
+        <item quantity="one">Buscando cubierta de álbum y letras(%1$d/%2$d)</item>
     </plurals>
     <plurals name="Ndialog_renew_content">
         <item quantity="other">"Tu suscripción expirará en %d días.
@@ -23,8 +23,10 @@
         <item quantity="one">El reproductor se detendrá en %d minuto</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">"Creado en %1$s | total %2$d canciones"</item>
-        <item quantity="one">"Creado en %1$s | total %2$d canción"</item>
+        <item quantity="other">"Creado en %1$s
+%2$d canciones en total"</item>
+        <item quantity="one">"Creado en %1$s
+%2$d canción en total"</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d canciones añadidas a la lista de reproducción</item>
@@ -88,7 +90,7 @@
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">¿Borrar %d elementos?</item>
-        <item quantity="one">¿Borrar %d elemento?</item>
+        <item quantity="one">¿Eliminar %d elemento?</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message_with_file">
         <item quantity="other">"¿Eliminar elemento %d?
@@ -189,8 +191,8 @@ Nota: El archivo también será eliminado de este dispositivo."</item>
         <item quantity="one">%d canción</item>
     </plurals>
     <plurals name="sound_fade_duration_in_seconds">
-        <item quantity="other">Fundido cruzado entre canciones: %d segundos</item>
-        <item quantity="one">Fundido cruzado entre canciones: %d segundos</item>
+        <item quantity="other">Crossfade entre canciones: %d segundos</item>
+        <item quantity="one">Crossfade entre canciones: %d segundo</item>
     </plurals>
     <plurals name="video_count">
         <item quantity="other">Vídeos</item>

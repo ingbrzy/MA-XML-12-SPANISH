@@ -71,7 +71,7 @@
     <string name="am">AM</string>
     <string name="analog_gadget">Reloj analógico</string>
     <string name="app_label">Reloj</string>
-    <string name="app_name">Preferencia</string>
+    <string name="app_name">desenfoque</string>
     <string name="auto_silence_never">Nunca</string>
     <string name="auto_silence_summary">Establecer tiempo después del cual se silenciarán las alarmas y los temporizadores</string>
     <string name="auto_silence_title">Autosilenciar</string>
@@ -132,6 +132,7 @@
     <string name="copy">Copiar</string>
     <string name="current_stopwatch_time">Tiempo actual</string>
     <string name="date_picker_lunar">Calendario Lunar</string>
+    <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="day_concat">", "</string>
     <string name="default_alarm_alert">Sonido de alarma por defecto</string>
     <string name="default_alarm_title">Tono de alarma predeterminado</string>
@@ -283,10 +284,13 @@
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Borrar</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Buscar</string>
+    <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
+    <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tire hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -427,6 +431,7 @@
     <string name="search_stopwatch_keywords">Cronómetro</string>
     <string name="search_timer_keywords">Temporizador</string>
     <string name="search_worldclock_keywords">Hora;Reloj mundial;Reloj</string>
+    <string name="send">Enviar</string>
     <string name="set_alarm">Seleccionar hora</string>
     <string name="set_alarm_choose_ringtone">Establecer sonido</string>
     <string name="set_alarm_done">Hecho</string>
