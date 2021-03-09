@@ -111,7 +111,7 @@
         <item>Volumen de la voz</item>
         <item>Volumen del tono</item>
         <item>Volumen de multimedia</item>
-        <item>Volumen de la alarma</item>
+        <item>Volumen de alarma</item>
         <item>Volumen de notificaciones</item>
         <item>Volumen de Bluetooth</item>
         <item>Mantener activo</item>
@@ -178,7 +178,7 @@
         <item>volumen de la voz</item>
         <item>volumen del tono</item>
         <item>volumen de multimedia</item>
-        <item>volumen de la alarma</item>
+        <item>volumen de alarma</item>
         <item>volumen de las notificaciones</item>
         <item>volumen de Bluetooth</item>
         <item>mantener activo</item>
@@ -221,9 +221,9 @@
         <item>Detallado</item>
     </string-array>
     <string-array name="automatic_storage_management_days">
-        <item>Más de 30 días de antigüedad</item>
-        <item>Más de 60 días de antigüedad</item>
-        <item>Más de 90 días de antigüedad</item>
+        <item>De más de 30 días de antigüedad</item>
+        <item>De más de 60 días de antigüedad</item>
+        <item>De más de 90 días de antigüedad</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Gráfico</item>
@@ -259,7 +259,7 @@
         <item>Modo baja latencia</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Usar Selección del Sistema (Por defecto)</item>
+        <item>Usar preferencia del sistema (Por defecto)</item>
         <item>16 bits/muestra</item>
         <item>24 bits/muestra</item>
         <item>32 bits/muestra</item>
@@ -271,20 +271,20 @@
         <item>32 bits/muestra</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Usar Selección del Sistema (Por defecto)</item>
+        <item>Usar preferencia del sistema (Por defecto)</item>
         <item>Mono</item>
         <item>Estéreo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Usar Selección del Sistema (Por defecto)</item>
+        <item>Usar preferencia del sistema (Por defecto)</item>
         <item>Mono</item>
         <item>Estéreo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Calidad de audio optimizada</item>
+        <item>Optimizado para calidad de audio</item>
         <item>Audio y calidad de conexión balanceados</item>
-        <item>Calidad de conexión optimizada</item>
-        <item>Mejor esfuerzo (tasa de bits ajustable)</item>
+        <item>Optimizado para calidad de conexión</item>
+        <item>Mejor esfuerzo (Bit rate automático)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Optimizado para calidad de audio (990kbps/909kbps)</item>
@@ -317,27 +317,27 @@
         <item>Mejor esfuerzo (Bit rate automático)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Usar Selección del Sistema (Por defecto)</item>
+        <item>Usar preferencia del sistema (Por defecto)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Usar Selección del Sistema (Por defecto)</item>
+        <item>Usar preferencia del sistema (Por defecto)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Usar preferencia de sistema (Por defecto)</item>
+        <item>Usar preferencia del sistema (Por defecto)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ Adaptativo audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
         <item>LHDC_V3</item>
         <item>LHDC_V2</item>
@@ -373,9 +373,9 @@
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
-        <item>MAPA 1.2 (Predeterminado)</item>
-        <item>MAPA 1.3</item>
-        <item>MAPA 1.4</item>
+        <item>MAP 1.2 (Por defecto)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
     </string-array>
     <string-array name="bluetooth_max_connected_audio_devices">
         <item>Usar opción predeterminada del sistema: %1$d</item>
@@ -393,10 +393,10 @@
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Deshabilitado</item>
-        <item>Filtro habilitado</item>
+        <item>Filtrado</item>
         <item>Habilitado</item>
-        <item>\"Cabezales filtrados\" habilitado</item>
-        <item>\"Paquetes multimedia filtrados\" habilitado</item>
+        <item>Encabezados filtrados</item>
+        <item>Paquetes multimedia filtrados</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segundo</item>
@@ -417,19 +417,19 @@
     <string-array name="captioning_font_size_selector_summaries">
         <item>Tamaño de texto muy pequeño</item>
         <item>Tamaño de texto pequeño</item>
-        <item>Tamaño del texto por defecto</item>
+        <item>Tamaño de texto predeterminado</item>
         <item>Tamaño de texto grande</item>
         <item>Tamaño de texto muy grande</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Muy pequeña</item>
         <item>Pequeña</item>
-        <item>Mediana</item>
+        <item>Predeterminado</item>
         <item>Grande</item>
         <item>Muy grande</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>Predeterminado</item>
+        <item>Definido por la aplicación</item>
         <item>Blanco sobre negro</item>
         <item>Negro sobre blanco</item>
         <item>Amarillo sobre negro</item>
@@ -543,12 +543,12 @@
         <item>Beulah</item>
         <item>New Salem</item>
         <item>Panamá</item>
-        <item>Phoenix</item>
+        <item>Fénix</item>
         <item>Puerto España</item>
         <item>Puerto Príncipe</item>
         <item>Puerto Rico</item>
         <item>Santo Domingo</item>
-        <item>São Paulo</item>
+        <item>San Paulo</item>
         <item>St. Johns</item>
         <item>San Cristóbal</item>
         <item>Santa Lucía</item>
@@ -614,7 +614,7 @@
         <item>Sídney</item>
         <item>Victoria</item>
         <item>Terranova</item>
-        <item>Saskatchewan</item>
+        <item>Saskátchewan</item>
         <item>Isla de Pascua</item>
         <item>Ámsterdam</item>
         <item>Andorra</item>
@@ -768,7 +768,7 @@
         <item>Verde azulado</item>
         <item>Azul</item>
         <item>Índigo</item>
-        <item>Violeta</item>
+        <item>Morado</item>
         <item>Rosa</item>
         <item>Rojo</item>
     </string-array>
@@ -839,9 +839,9 @@
     </string-array>
     <string-array name="eap_ocsp_type">
         <item>No validar</item>
-        <item>Solicitar estado del certificado</item>
-        <item>Requerir estado del certificado</item>
-        <item>Requerir todos los estados de certificado que no sean de confianza</item>
+        <item>Solicitar estado de certificado</item>
+        <item>Pedir estado de certificado</item>
+        <item>Pedir todos los estados de certificado no fiables</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Nada</item>
@@ -1206,11 +1206,11 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desactivado</item>
-        <item>64KB por búfer de registro</item>
-        <item>256KB por búfer de registro</item>
-        <item>1MB por búfer de registro</item>
-        <item>4MB por búfer de registro</item>
-        <item>16MB por búfer de registro</item>
+        <item>64 KB por buffer de registro</item>
+        <item>256 KB por buffer de registro</item>
+        <item>1 MB por buffer de registro</item>
+        <item>4 MB por buffer de registro</item>
+        <item>16 MB por buffer de registro</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Desactivado</item>
@@ -1232,7 +1232,7 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
         <item>Desactivado</item>
         <item>Todos los búfers del registro</item>
         <item>Todo excepto los registros de búfer de la radio</item>
-        <item>solo los búfer de registro del kernel</item>
+        <item>Solo los búfer de registro del kernel</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Desactivado</item>
@@ -1331,7 +1331,7 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
         <item>Rapidísimo</item>
     </string-array>
     <string-array name="tts_rate_xunfei_entries">
-        <item>Very slow</item>
+        <item>Muy lento</item>
         <item>Slow</item>
         <item>Normal</item>
         <item>Fast</item>
@@ -1387,9 +1387,9 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
         <item>Red privada virtual IPSec con claves precompartidas y autenticación XAuth</item>
         <item>Red privada virtual IPSec con certificados y autenticación XAuth</item>
         <item>Red privada virtual IPSec con certificados y autenticación híbrida</item>
-        <item>VPN IKEv2 / IPSec con certificados y autenticación de nombre de usuario / contraseña</item>
-        <item>VPN IKEv2 / IPSec con claves previamente compartidas</item>
-        <item>VPN IKEv2 / IPSec con certificados</item>
+        <item>VPN IKEv2/IPSec con certificados y autenticación de nombres de usuario y contraseñas</item>
+        <item>VPN IKEv2/IPSec con claves precompartidas</item>
+        <item>VPN IKEv2/IPSec con certificados</item>
     </string-array>
     <string-array name="wfd_status">
         <item>Iniciando sesión…</item>
@@ -1475,7 +1475,7 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
     <string-array name="wifi_proxy_settings">
         <item>Ninguno</item>
         <item>Manual</item>
-        <item>Proxy autoconfigurado</item>
+        <item>Proxy configurado automáticamente</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>Mala</item>

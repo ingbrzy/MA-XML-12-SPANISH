@@ -778,6 +778,7 @@ Si reanuda la conexión de datos móviles, podría generarle cargos."</string>
     <string name="face_unlock_reveal_mouth">Sus labios deben estar visibles</string>
     <string name="face_unlock_success">Desbloqueado con éxito</string>
     <string name="failed_to_open_app_settings_toast">"No se pudieron abrir los ajustes de %1$s"</string>
+    <string name="finger_error_single_mode">"No se puede usar el escáner de huellas digitales en el modo de una mano. Salga del modo con una mano y vuelva a intentarlo."</string>
     <string name="fingerprint_add_text">El interfaz de huella digital fue actualizado. Vuelva a agregar su huella digital.</string>
     <string name="fingerprint_add_title">Agregar huella digital</string>
     <string name="fingerprint_again_identified_msg">Su huella digital está activada. Úsela para desbloquear el dispositivo o ingrese la contraseña.</string>
@@ -1589,6 +1590,7 @@ También está conectado a una red VPN, la cual puede monitorear su actividad en
     <string name="quick_settings_cellular_detail_over_limit">Sobre el límite</string>
     <string name="quick_settings_cellular_detail_remaining_data">Datos restantes</string>
     <string name="quick_settings_cellular_detail_title">Datos móviles</string>
+    <string name="quick_settings_cellular_detail_unable_change">"No se puede configurar durante la llamada"</string>
     <string name="quick_settings_color_space_label">Modo de corrección de color</string>
     <string name="quick_settings_connected">Conectado</string>
     <string name="quick_settings_connected_battery_level">Conectado, batería %1$s</string>

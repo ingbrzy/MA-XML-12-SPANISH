@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="cloud_space_full_gallery_notification_content_title">
-        <item quantity="other">"No se pueden sincronizar %s elementos"</item>
-        <item quantity="one">"No se puede sincronizar %s elemento"</item>
+        <item quantity="other">"No se puede sincronizar %s ítems"</item>
+        <item quantity="one">"No se puede sincronizar %s ítem"</item>
     </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d entradas en la lista de bloqueo</item>
@@ -45,8 +45,8 @@
         <item quantity="one">%d nota</item>
     </plurals>
     <plurals name="dirty_personalAssistant_count">
-        <item quantity="other">%d entradas en Bóveda de aplicaciones</item>
-        <item quantity="one">%d entrada en Bóveda de aplicaciones</item>
+        <item quantity="other">%d entradas en la Bóveda de aplicaciones</item>
+        <item quantity="one">%d entrada en la Bóveda de aplicaciones</item>
     </plurals>
     <plurals name="dirty_phrase_count">
         <item quantity="other">%d frases frecuentes</item>
@@ -65,8 +65,8 @@
         <item quantity="one">%d red Wi-Fi</item>
     </plurals>
     <plurals name="dirty_wlan_count_china">
-        <item quantity="other">%d redes Wi-Fi</item>
-        <item quantity="one">%d red Wi-Fi</item>
+        <item quantity="other">%d WLAN networks</item>
+        <item quantity="one">%d WLAN network</item>
     </plurals>
     <plurals name="error_screen_pwd_next_retry_time">
         <item quantity="other">Vuelva a intentarlo en %d segundos</item>
@@ -81,7 +81,7 @@
         <item quantity="one">Hace %s hora</item>
     </plurals>
     <plurals name="last_sync_time_mins_ago">
-        <item quantity="other">Hace %s min</item>
+        <item quantity="other">Hace %s mins</item>
         <item quantity="one">Hace %s min</item>
     </plurals>
     <plurals name="micloud_manual_pause_and_resume">
@@ -93,8 +93,8 @@
         <item quantity="one">%s servicio será sincronizado con Xiaomi Cloud</item>
     </plurals>
     <plurals name="select_no_more_than">
-        <item quantity="other">"No se pueden seleccionar más de %d elementos"</item>
-        <item quantity="one">"No se pueden seleccionar más de %d elementos"</item>
+        <item quantity="other">"No se puede seleccionar más de %d elementos"</item>
+        <item quantity="one">"No se puede seleccionar más de %d elemento"</item>
     </plurals>
     <plurals name="share_sdk_invitation_some_people_accepted">
         <item quantity="other">Invitación aceptada por %d personas</item>

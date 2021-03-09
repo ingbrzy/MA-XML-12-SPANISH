@@ -41,13 +41,13 @@
     <string name="mobile_recommended_title">Uso de datos móviles</string>
     <string name="notif_text_engine_off">El acelerador Xunlei está apagado.</string>
     <string name="notif_text_engine_on">Acelerando...</string>
-    <string name="notif_title_file_size">%1$d en total</string>
+    <string name="notif_title_file_size">%1$d total</string>
     <string name="notif_title_multiple_downloading">Descargando %1$d archivos</string>
     <string name="notif_title_single_downloading">Descargando %1$s</string>
-    <string name="notification_download_complete">Descarga completada.</string>
-    <string name="notification_download_failed">Descarga fallida.</string>
+    <string name="notification_download_complete">Descargado con éxito.</string>
+    <string name="notification_download_failed">No se pudieron descargar elementos.</string>
     <string name="notification_download_success_more">%1$d descargado(s)</string>
-    <string name="notification_need_wifi_for_size">El tamaño de la descarga requiere el uso de una red Wi-Fi.</string>
+    <string name="notification_need_wifi_for_size">El tamaño de la descarga requiere Wi-Fi.</string>
     <string name="notification_paused_in_background">Pausado en segundo plano.</string>
     <string name="notify_disabled_net_by_app">La conexión a Internet está restringida por la aplicación de Seguridad</string>
     <string name="notify_install_guide_forward_text">Abrir</string>
@@ -68,7 +68,7 @@
     <string name="permlab_downloadManager">Acceso a Descargas.</string>
     <string name="permlab_downloadManagerAdvanced">Funciones avanzadas de Descargas.</string>
     <string name="permlab_downloadWithoutNotification">Descargar archivos sin notificación</string>
-    <string name="permlab_seeAllExternal">Ver todas las descargas en tarjeta SD</string>
+    <string name="permlab_seeAllExternal">Ver todas las descargas en almacenamiento USB</string>
     <string name="privacy_notif_content">Toca para ver los detalles.</string>
     <string name="privacy_notif_title">Xunlei Download Accelerator está activado</string>
     <string name="privacy_tip_cancel">Cancelar</string>
@@ -83,11 +83,11 @@
     <string name="warning_tip_content">"Ya no está conectado al Wi-Fi. El uso de su conexión de datos móviles para completar esta descarga aumentará su uso de datos. Si supera el límite de datos de su plan, su proveedor podría cobrarle tarifas adicionales."</string>
     <string name="warning_tip_ok">PausaR</string>
     <string name="warning_tip_title">Advertencia de uso de datos</string>
-    <string name="wifi_recommended_body">"Iniciar esta descarga de %1$s ahora puede resultar en un uso excesivo de su conexión de datos móviles, lo que puede generar cargos por parte de su operador de telefonía móvil según su plan de datos.
+    <string name="wifi_recommended_body">"Iniciar la descarga de %1$s ahora podría reducir la vida de su batería y podría consumir muchos datos de su plan contratado.
 
-Toque %2$s para iniciar esta descarga la próxima vez que se conecte a una red Wi-Fi."</string>
+ Pulse %2$s para iniciar esta descarga la próxima vez que esté bajo una conexión Wi-Fi."</string>
     <string name="wifi_recommended_title">¿Poner en cola para descargar luego?</string>
-    <string name="wifi_required_body">"Conéctese a Wi-Fi para completar esta %1$s descarga. 
+    <string name="wifi_required_body">"Conéctese a Wi-Fi para completar ésta %1$s descarga. 
 
 Toque %2$s para iniciar esta descarga la próxima vez que se conecte a una red Wi-Fi."</string>
     <string name="wifi_required_title">El archivo es demasiado grande para descargarlo con datos móviles</string>

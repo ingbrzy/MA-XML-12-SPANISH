@@ -2,26 +2,26 @@
 <resources>
     <string-array name="alarm_in_furture">
         <item>La alarma sonará en menos de 1 minuto</item>
-        <item>La alarma sonará en %1$s</item>
-        <item>La alarma sonará en %2$s</item>
-        <item>La alarma sonará en %1$s %2$s</item>
-        <item>La alarma sonará en %3$s</item>
-        <item>La alarma sonará en %1$s %3$s</item>
-        <item>La alarma sonará en %2$s %3$s</item>
-        <item>La alarma sonará en %1$s %2$s %3$s</item>
+        <item>Sonará en %1$s</item>
+        <item>Sonará en %2$s</item>
+        <item>Sonará en %1$s y %2$s</item>
+        <item>Sonará en %3$s</item>
+        <item>Sonará en %1$s y %3$s</item>
+        <item>Sonará en %2$s y %3$s</item>
+        <item>Sonará en %1$s, %2$s y %3$s</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Una vez</item>
         <item>Diariamente</item>
         <item>Días laborables</item>
         <item>Días libres</item>
-        <item>Lun a Vie</item>
+        <item>De lun a vie</item>
         <item>Personalizado</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Una vez</item>
         <item>Diariamente</item>
-        <item>Lun a Vie</item>
+        <item>De lun a vie</item>
         <item>Personalizado</item>
     </string-array>
     <string-array name="alarm_set">
@@ -32,7 +32,7 @@
         <item>La alarma sonará en %3$s.</item>
         <item>La alarma sonará en %1$s y %3$s.</item>
         <item>La alarma sonará en %2$s y %3$s.</item>
-        <item>La alarma sonará en %1$s %2$s y %3$s.</item>
+        <item>La alarma sonará en %1$s, %2$s y %3$s.</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
@@ -95,7 +95,7 @@
     </string-array>
     <string-array name="aqi_value">
         <item>Bueno</item>
-        <item>Aceptable</item>
+        <item>Satisfactorio</item>
         <item>Moderadamente contaminado</item>
         <item>Malo</item>
         <item>Muy malo</item>
@@ -113,14 +113,14 @@
     </string-array>
     <string-array name="bedtime_guide_repeat_type">
         <item>Lunes a viernes</item>
-        <item>Cada día</item>
+        <item>Todos los días</item>
         <item>Días laborables</item>
     </string-array>
     <string-array name="bedtime_repeat_entries">
-        <item>Cada día</item>
+        <item>Todos los días</item>
         <item>Lunes a viernes</item>
         <item>Días laborables</item>
-        <item>Personalizado</item>
+        <item>Personalizada</item>
     </string-array>
     <string-array name="cities_names_miui">
         <item>Abiyán</item>
@@ -170,7 +170,7 @@
         <item>Edmonton</item>
         <item>El Salvador</item>
         <item>Fortaleza</item>
-        <item>"St. George's"</item>
+        <item>"Saint George"</item>
         <item>Guatemala</item>
         <item>Georgetown</item>
         <item>Halifax</item>
@@ -184,7 +184,7 @@
         <item>Vincennes</item>
         <item>Winamac</item>
         <item>Kingston</item>
-        <item>Nuestra Señora de La Paz</item>
+        <item>La Paz</item>
         <item>Lima</item>
         <item>Los Ángeles</item>
         <item>Louisville</item>
@@ -198,15 +198,15 @@
         <item>Nasáu</item>
         <item>Nueva York</item>
         <item>Beulah</item>
-        <item>Centro</item>
+        <item>Center</item>
         <item>New Salem</item>
         <item>Panamá</item>
         <item>Phoenix</item>
         <item>Puerto España</item>
         <item>Puerto Príncipe</item>
         <item>San Paulo</item>
-        <item>St. Johns</item>
-        <item>Isla de San Cristóbal</item>
+        <item>Saint Johns</item>
+        <item>San Cristóbal</item>
         <item>Castries</item>
         <item>Santo Tomás</item>
         <item>Tijuana</item>
@@ -233,14 +233,14 @@
         <item>Hong Kong</item>
         <item>Yakarta</item>
         <item>Jerusalén</item>
-        <item>Kabúl</item>
+        <item>Kabul</item>
         <item>Karachi</item>
         <item>Katmandú</item>
         <item>Kuala Lumpur</item>
         <item>Kuwait</item>
         <item>Macao</item>
         <item>Manila</item>
-        <item>Mascat</item>
+        <item>Mascate</item>
         <item>Phnom Penh</item>
         <item>Pyongyang</item>
         <item>Doha</item>
@@ -309,7 +309,7 @@
         <item>Sofía</item>
         <item>Estocolmo</item>
         <item>Tallin</item>
-        <item>Ciudad del Vaticano</item>
+        <item>El Vaticano</item>
         <item>Viena</item>
         <item>Vilna</item>
         <item>Varsovia</item>
@@ -339,18 +339,18 @@
         <item>San Diego</item>
         <item>San Francisco</item>
         <item>Salt Lake City</item>
-        <item>San José</item>
+        <item>San Jose</item>
         <item>San Salvador</item>
         <item>Seattle</item>
-        <item>San Louis</item>
-        <item>Washington DC</item>
+        <item>San Luis</item>
+        <item>Washington D.C.</item>
         <item>Houston</item>
         <item>San Antonio</item>
         <item>Jacksonville</item>
         <item>Baltimore</item>
         <item>Nashville</item>
         <item>Milwaukee</item>
-        <item>Ciudad de Oklahoma</item>
+        <item>Oklahoma</item>
         <item>Las Vegas</item>
         <item>Albuquerque</item>
         <item>Tucson</item>
@@ -363,7 +363,7 @@
         <item>Cincinnati</item>
         <item>Mountain View</item>
         <item>Reno</item>
-        <item>Black Rock City</item>
+        <item>Black Rock</item>
         <item>Doha</item>
         <item>Pekín</item>
         <item>Bombay</item>
@@ -421,7 +421,7 @@
         <item>Etiopía</item>
         <item>Argelia</item>
         <item>Malawi</item>
-        <item>República del Congo</item>
+        <item>Congo</item>
         <item>Egipto</item>
         <item>Marruecos</item>
         <item>Guinea</item>
@@ -465,7 +465,7 @@
         <item>Brasil</item>
         <item>Granada</item>
         <item>Guatemala</item>
-        <item>Guayana</item>
+        <item>Guyana</item>
         <item>Canadá</item>
         <item>Cuba</item>
         <item>Estados Unidos</item>
@@ -537,7 +537,7 @@
         <item>Camboya</item>
         <item>Corea del Norte</item>
         <item>Catar</item>
-        <item>Myanmar</item>
+        <item>Birmania</item>
         <item>Arabia Saudita</item>
         <item>Corea del Sur</item>
         <item>China</item>
@@ -573,7 +573,7 @@
         <item>Alemania</item>
         <item>Eslovaquia</item>
         <item>Bélgica</item>
-        <item>Rumanía</item>
+        <item>Rumania</item>
         <item>Hungría</item>
         <item>Moldavia</item>
         <item>Dinamarca</item>
@@ -710,13 +710,13 @@
         <item>Mié</item>
         <item>Jue</item>
         <item>Vie</item>
-        <item>Sáb</item>
+        <item>Sab</item>
     </string-array>
     <string-array name="notification_adv_time_entries">
         <item>A la hora establecida</item>
-        <item>15 minutos antes</item>
-        <item>30 minutos antes</item>
-        <item>1 hora antes</item>
+        <item>15 minutos de anticipación</item>
+        <item>30 minutos de anticipación</item>
+        <item>1 hora de anticipación</item>
         <item>Ninguno</item>
     </string-array>
     <string-array name="snooze_duration_entries">
@@ -729,13 +729,13 @@
         <item>30 minutos</item>
     </string-array>
     <string-array name="timer_duration">
-        <item>Total %1$s</item>
-        <item>Total %2$s</item>
-        <item>Total %1$s %2$s</item>
-        <item>Total %3$s</item>
-        <item>Total %1$s %3$s</item>
-        <item>Total %2$s %3$s</item>
-        <item>Total %1$s %2$s%3$s</item>
+        <item>%1$s en total</item>
+        <item>%2$s en total</item>
+        <item>%1$s y %2$s en total</item>
+        <item>%3$s en total</item>
+        <item>%1$s y %3$s en total</item>
+        <item>%2$s y %3$s en total</item>
+        <item>%1$s, %2$s y %3$s en total</item>
     </string-array>
     <string-array name="timezone_alphabet_table">
         <item>A</item>
@@ -768,6 +768,6 @@
     <string-array name="volume_button_setting_entries">
         <item>No hacer nada</item>
         <item>Posponer</item>
-        <item>Apagar</item>
+        <item>Descartar</item>
     </string-array>
 </resources>

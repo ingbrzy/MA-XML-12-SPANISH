@@ -25,7 +25,7 @@
         <item quantity="other">Inmediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">en %d min</item>
+        <item quantity="other">en %d mins</item>
         <item quantity="one">en 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
@@ -33,8 +33,8 @@
         <item quantity="other">Justo ahora</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Hace %d min</item>
-        <item quantity="one">Hace 1 min</item>
+        <item quantity="other">Hace %d mins</item>
+        <item quantity="one">Hace 1 minuto</item>
     </plurals>
     <plurals name="batch_delete_msg">
         <item quantity="other">¿Eliminar %1$d contactos?</item>
@@ -65,12 +65,12 @@
         <item quantity="one">%d número de teléfono</item>
     </plurals>
     <plurals name="call_remove_exception_numbers_confirm">
-        <item quantity="other">¿Eliminar %d números de teléfono?</item>
-        <item quantity="one">¿Eliminar %d número de teléfono?</item>
+        <item quantity="other">¿Eliminar %d números telefónicos?</item>
+        <item quantity="one">¿Eliminar %d número telefónico?</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"%1$d contactos o fotos no se han sincronizado"</item>
-        <item quantity="one">"%1$d contacto o foto no se ha sincronizado"</item>
+        <item quantity="other">"%1$d contactos o fotos han sido sincronizados"</item>
+        <item quantity="one">"%1$d contacto o foto ha sido sincronizado"</item>
     </plurals>
     <plurals name="confirm_delete_sim_entry_miui">
         <item quantity="other">¿Eliminar %1$d contactos de la tarjeta SIM?</item>
@@ -81,8 +81,8 @@
         <item quantity="one">%1$d contacto</item>
     </plurals>
     <plurals name="contacts_trash_delete_dialog_respond">
-        <item quantity="other">%d contactos eliminados de forma permanente</item>
-        <item quantity="one">%d contacto eliminado de forma permanente</item>
+        <item quantity="other">%d contactos eliminados permanentemente</item>
+        <item quantity="one">%d contacto eliminado permanentemente</item>
     </plurals>
     <plurals name="contacts_trash_restore_respond">
         <item quantity="other">%d contactos restaurados con éxito</item>
@@ -97,12 +97,12 @@
         <item quantity="one">%1$d contacto importado</item>
     </plurals>
     <plurals name="dlg_add_blacklist">
-        <item quantity="other">¿Bloquear %1$d números de teléfono?</item>
-        <item quantity="one">¿Bloquear %1$d número de teléfono?</item>
+        <item quantity="other">¿Bloquear %1$d números telefónicos?</item>
+        <item quantity="one">¿Bloquear %1$d número telefónico?</item>
     </plurals>
     <plurals name="dlg_remove_blacklist">
-        <item quantity="other">¿Desbloquear %1$d números de teléfono?</item>
-        <item quantity="one">¿Desbloquear %1$d número de teléfono?</item>
+        <item quantity="other">¿Desbloquear %1$d números telefónicos?</item>
+        <item quantity="one">¿Desbloquear %1$d número telefónico?</item>
     </plurals>
     <plurals name="export_sim_contacts_dialog_message">
         <item quantity="other">La tarjeta SIM puede guardar %1$d contactos.</item>
@@ -129,16 +129,16 @@
         <item quantity="other">Hace media hora</item>
     </plurals>
     <plurals name="hint_account_contacts">
-        <item quantity="other">Se encontraron %1$d elementos</item>
-        <item quantity="one">Se encontró %1$d elemento</item>
+        <item quantity="other">%1$d elementos</item>
+        <item quantity="one">%1$d elemento</item>
     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d contactos</item>
         <item quantity="one">%1$d contacto</item>
     </plurals>
     <plurals name="hint_search_emails">
-        <item quantity="other">%1$d correos electrónicos</item>
-        <item quantity="one">%1$d correo electrónico</item>
+        <item quantity="other">%1$d emails</item>
+        <item quantity="one">%1$d email</item>
     </plurals>
     <plurals name="hint_search_phone_numbers">
         <item quantity="other">%1$d números</item>
@@ -162,26 +162,26 @@
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
-        <item quantity="other">Ahora</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">%d contactos</item>
-        <item quantity="one">1 contacto</item>
+        <item quantity="one">%d contacto</item>
     </plurals>
     <plurals name="merge_contact_message_plurals">
-        <item quantity="other">%1$d contactos con datos parcialmente duplicados</item>
-        <item quantity="one">%1$d contactos con datos parcialmente duplicados</item>
+        <item quantity="other">%1$d contactos con información casi idéntica</item>
+        <item quantity="one">%1$d contacto con información casi idéntica</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d seleccionados</item>
-        <item quantity="one">%1$d seleccionado</item>
+        <item quantity="one">%1$d seleccionados</item>
     </plurals>
     <plurals name="num_contacts_in_group">
         <item quantity="other">%1$d personas de %2$s</item>
         <item quantity="one">%1$d persona de %2$s</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">hace %d minutos</item>
+        <item quantity="other">Hace %d minutos</item>
         <item quantity="one">Hace 1 minuto</item>
     </plurals>
     <plurals name="number_of_items_selected">
@@ -206,19 +206,19 @@
     </plurals>
     <plurals name="searchFoundContacts">
         <item quantity="other">%d encontrados</item>
-        <item quantity="one">1 encontrado</item>
+        <item quantity="one">%d encontrado</item>
     </plurals>
     <plurals name="search_group_contacts_result">
         <item quantity="other">%s resultados</item>
         <item quantity="one">%s resultado</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
-        <item quantity="other">"No seleccione más de %1$d, no se puede seleccionar todo"</item>
-        <item quantity="one">"No seleccione más de %1$d, no se puede seleccionar todo"</item>
+        <item quantity="other">"Seleccione hasta %1$d, no puede seleccionar todo"</item>
+        <item quantity="one">"Seleccione hasta %1$d, no puede seleccionar todo"</item>
     </plurals>
     <plurals name="select_exceed_plurals">
-        <item quantity="other">Selecciona no más de %1$d</item>
-        <item quantity="one">Selecciona no más de %1$d</item>
+        <item quantity="other">Seleccione hasta %1$d</item>
+        <item quantity="one">Seleccione hasta %1$d</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%1$d personas</item>

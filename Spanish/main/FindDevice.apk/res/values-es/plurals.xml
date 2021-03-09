@@ -9,8 +9,8 @@
         <item quantity="other">1 hora antes</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="one">Hace media hora</item>
-        <item quantity="other">Hace media hora</item>
+        <item quantity="one">Hace una hora y media</item>
+        <item quantity="other">Hace una hora y media</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="one">En 1 hora</item>
@@ -33,7 +33,7 @@
         <item quantity="other">Justo ahora</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Hace %d mins</item>
+        <item quantity="other">hace %d mins</item>
         <item quantity="one">hace 1 minuto</item>
     </plurals>
     <plurals name="half_hour_ago">
@@ -63,14 +63,6 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elementos seleccionados</item>
         <item quantity="one">%d elemento seleccionado</item>
-    </plurals>
-    <plurals name="noti_caption_success">
-        <item quantity="other">%1$d correctamente, %2$s</item>
-        <item quantity="one">%1$d correctamente, %2$s</item>
-    </plurals>
-    <plurals name="noti_caption_unsuccessful">
-        <item quantity="other">%1$d incorrectamente.</item>
-        <item quantity="one">%1$d incorrectamente.</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">hace %d minutos</item>

@@ -32,7 +32,7 @@
         <item>La alarma sonará en %3$s.</item>
         <item>La alarma sonará en %1$s y %3$s.</item>
         <item>La alarma sonará en %2$s y %3$s.</item>
-        <item>La alarma sonará en %1$s %2$s y %3$s.</item>
+        <item>La alarma sonará en %1$s, %2$s y %3$s.</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
@@ -95,7 +95,7 @@
     </string-array>
     <string-array name="aqi_value">
         <item>Bueno</item>
-        <item>Aceptable</item>
+        <item>Satisfactorio</item>
         <item>Moderadamente contaminado</item>
         <item>Malo</item>
         <item>Muy malo</item>
@@ -170,7 +170,7 @@
         <item>Edmonton</item>
         <item>El Salvador</item>
         <item>Fortaleza</item>
-        <item>"St. George's"</item>
+        <item>"San Jorge"</item>
         <item>Guatemala</item>
         <item>Georgetown</item>
         <item>Halifax</item>
@@ -342,15 +342,15 @@
         <item>San José</item>
         <item>San Salvador</item>
         <item>Seattle</item>
-        <item>San Louis</item>
-        <item>Washington DC</item>
+        <item>St. Louis</item>
+        <item>Washington D.C.</item>
         <item>Houston</item>
         <item>San Antonio</item>
         <item>Jacksonville</item>
         <item>Baltimore</item>
         <item>Nashville</item>
         <item>Milwaukee</item>
-        <item>Ciudad de Oklahoma</item>
+        <item>Oklahoma City</item>
         <item>Las Vegas</item>
         <item>Albuquerque</item>
         <item>Tucson</item>
@@ -465,7 +465,7 @@
         <item>Brasil</item>
         <item>Granada</item>
         <item>Guatemala</item>
-        <item>Guayana</item>
+        <item>Guyana</item>
         <item>Canadá</item>
         <item>Cuba</item>
         <item>Estados Unidos</item>
@@ -768,6 +768,6 @@
     <string-array name="volume_button_setting_entries">
         <item>No hacer nada</item>
         <item>Posponer</item>
-        <item>Apagar</item>
+        <item>Descartar</item>
     </string-array>
 </resources>

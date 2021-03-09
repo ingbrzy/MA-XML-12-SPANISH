@@ -29,12 +29,12 @@
         <item quantity="one">en 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">Ahora mismo</item>
-        <item quantity="other">Ahora</item>
+        <item quantity="one">Justo ahora</item>
+        <item quantity="other">Justo ahora</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Hace %d min</item>
-        <item quantity="one">Hace 1 min</item>
+        <item quantity="other">Hace %d minutos</item>
+        <item quantity="one">Hace 1 minuto</item>
     </plurals>
     <plurals name="alarm_alert_snooze_set">
         <item quantity="other">Pospuesta %d minutos.</item>
@@ -77,8 +77,8 @@
         <item quantity="one">en 1 minuto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Ahora mismo</item>
-        <item quantity="other">Ahora</item>
+        <item quantity="one">Justo ahora</item>
+        <item quantity="other">Justo ahora</item>
     </plurals>
     <plurals name="life_post_wake_up_item_acumu_day">
         <item quantity="other">%1$d días</item>
@@ -97,7 +97,7 @@
         <item quantity="one">%d elemento seleccionado</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">hace %d minutos</item>
+        <item quantity="other">Hace %d minutos</item>
         <item quantity="one">Hace 1 minuto</item>
     </plurals>
     <plurals name="second">
@@ -137,20 +137,20 @@
         <item quantity="one">Cada %1$s min</item>
     </plurals>
     <plurals name="snooze_duration_summary">
-        <item quantity="other">La alarma se apagará %2$s veces (%1$s min. cada una)</item>
-        <item quantity="one">La alarma se apagará %2$s vez (%1$s min.)</item>
+        <item quantity="other">La alarma sonará %2$s veces (%1$s min. cada vez)</item>
+        <item quantity="one">La alarma sonará %2$s vez (%1$s min.)</item>
     </plurals>
     <plurals name="snooze_message">
         <item quantity="other">Posponer %d minutos</item>
         <item quantity="one">Posponer %d minuto</item>
     </plurals>
     <plurals name="stopwatch_running_notification_day">
-        <item quantity="other">El cronómetro ha estado funcionando durante %s días. Toque para ver.</item>
-        <item quantity="one">El cronómetro ha estado funcionando durante %s días. Toque para ver.</item>
+        <item quantity="other">El cronómetro ha sido usado durante %s días. Pulsa para ver.</item>
+        <item quantity="one">El cronómetro ha sido usado durante %s día. Pulsa para ver.</item>
     </plurals>
     <plurals name="stopwatch_running_notification_hour">
-        <item quantity="other">El cronómetro ha estado funcionando durante %s horas. Toque para ver.</item>
-        <item quantity="one">El cronómetro ha estado funcionando durante %s horas. Toque para ver.</item>
+        <item quantity="other">El cronómetro ha sido usado durante %s horas. Pulsa para ver.</item>
+        <item quantity="one">El cronómetro ha sido usado durante %s hora. Pulsa para ver.</item>
     </plurals>
     <plurals name="timer_message_hour">
         <item quantity="other">"%1$d horas "</item>

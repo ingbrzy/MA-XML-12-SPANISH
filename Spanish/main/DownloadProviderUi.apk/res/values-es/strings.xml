@@ -3,7 +3,7 @@
     <string name="DOWNLOAD_UNIT_GB">GB</string>
     <string name="DOWNLOAD_UNIT_KB">KB</string>
     <string name="DOWNLOAD_UNIT_MB">Mb</string>
-    <string name="DOWNLOAD_UNIT_TB">tuberculosis</string>
+    <string name="DOWNLOAD_UNIT_TB">TB</string>
     <string name="Only_the_wifi">Utilizar sólo Wi-Fi</string>
     <string name="abc_action_bar_home_description">Ir a inicio</string>
     <string name="abc_action_bar_up_description">Ir arriba</string>
@@ -77,7 +77,7 @@
     <string name="close">Cerrar</string>
     <string name="close_ad">Anuncio cerrado</string>
     <string name="complete_time">Completado:</string>
-    <string name="confirm">Aceptar</string>
+    <string name="confirm">OK</string>
     <string name="confirm_delete_downloads_message">Se eliminarán %d descargas.</string>
     <string name="confirm_delete_the_download_item_message">¿Desea eliminar estas descargas?</string>
     <string name="continue_download">Continuar</string>
@@ -95,7 +95,7 @@
     <string name="deselect_subfile_all">Desmarcar todos</string>
     <string name="determine">Aceptar</string>
     <string name="dialog_btn_cancel">Cancelar</string>
-    <string name="dialog_btn_ok">Aceptar</string>
+    <string name="dialog_btn_ok">OK</string>
     <string name="dialog_btn_ok_disabled_net">Ajustes de red</string>
     <string name="dialog_cannot_resume">Descarga interrumpida, comenzar de nuevo.</string>
     <string name="dialog_confirm_delete_checkbox_message">Eliminar también archivos locales</string>
@@ -110,14 +110,14 @@
     <string name="dialog_insufficient_space_on_cache">"No se puede completar la descarga, no hay suficiente espacio interno."</string>
     <string name="dialog_insufficient_space_on_external">"No se puede completar la descarga, no hay suficiente espacio externo."</string>
     <string name="dialog_media_not_found">Conectar el almacenamiento externo para descargar.</string>
-    <string name="dialog_msg_disabled_net">%1$s descargas restringidas para la red actual. Toca en Ajustes de red para abrir la aplicación Seguridad.</string>
+    <string name="dialog_msg_disabled_net">%1$s descargas restringidas para la red actual. Toque en Ajustes de red para abrir la aplicación Seguridad.</string>
     <string name="dialog_msg_recommend">"No podrá ver las fuentes recomendadas después de desactivarlas. Puede seleccionar \"Cargar solo al estar conectado a una red Wi-Fi\" para ahorrar datos móviles."</string>
     <string name="dialog_queued_body">El archivo se añadió a la cola y se descargará en breve.</string>
     <string name="dialog_speed_cancel">Cancelar</string>
     <string name="dialog_speed_msg">El uso de datos móviles para probar la red puede consumir grandes cantidades de datos móviles. ¿Continuar de todos modos?</string>
     <string name="dialog_speed_ok">Continuar</string>
     <string name="dialog_speed_title">Advertencia de uso de datos</string>
-    <string name="dialog_title_disabled_net">Acceso a Internet</string>
+    <string name="dialog_title_disabled_net">Acceso a internet</string>
     <string name="dialog_title_not_available">"No se pudo descargar"</string>
     <string name="dialog_title_queued_body">El archivo no se encuentra disponible</string>
     <string name="dialog_title_recommend">Desactivar fuentes recomendadas</string>
@@ -147,7 +147,7 @@
     <string name="download_list_intoAuthAlert">Un momento…</string>
     <string name="download_list_open_xl_cancel">Cancelar</string>
     <string name="download_list_open_xl_message">El acelerador Xunlei ayudará a acelerar las descargas.</string>
-    <string name="download_list_open_xl_ok">Aceptar</string>
+    <string name="download_list_open_xl_ok">OK</string>
     <string name="download_list_open_xl_title">Acelerador de descargas Xunlei</string>
     <string name="download_list_title_browser">Descargas</string>
     <string name="download_no_application">No hay aplicaciones que admitan este formato</string>
@@ -161,7 +161,7 @@
     <string name="download_speed">Velocidad de descarga:</string>
     <string name="download_spend_time">Tiempo</string>
     <string name="download_status_continue">Reanudar</string>
-    <string name="download_status_fail">Reintentar</string>
+    <string name="download_status_fail">Inténtalo de nuevo</string>
     <string name="download_status_paused">Pausa</string>
     <string name="download_success">Descarga finalizada</string>
     <string name="download_title_sorted_by_date">Ordenar por fecha</string>
@@ -229,7 +229,7 @@
     <string name="hint">Atención</string>
     <string name="home_page_new_download_guide">Las nuevas descargas van aquí</string>
     <string name="immediately_a_renewal">Renovar ahora</string>
-    <string name="info_flow_only_load_wifi">Cargar contenido solo mediante Wi-Fi</string>
+    <string name="info_flow_only_load_wifi">Solo cargar contenido mediante Wi-Fi</string>
     <string name="info_flow_setting">Ajustes de contenido</string>
     <string name="info_flow_show">Mostrar contenido recomendado</string>
     <string name="info_rank_show">Recomendar artículos populares</string>
@@ -344,7 +344,7 @@
 en todos tus dispositivos con Xunlei"</string>
     <string name="noon">Mediodía</string>
     <string name="not_set">Sin definir</string>
-    <string name="notify_disabled_net_by_app">Acceso a Internet restringido</string>
+    <string name="notify_disabled_net_by_app">Acceso a internet restringido</string>
     <string name="notify_install_guide_forward_text">Abrir</string>
     <string name="notify_install_guide_msg">Instalada correctamente</string>
     <string name="notify_install_guide_title">Instaladas %s correctamente</string>
@@ -376,10 +376,10 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="petabyteShort">PB</string>
     <string name="pm">PM</string>
     <string name="pref_download_revert_default">Guardar en la ubicación predeterminada</string>
-    <string name="pref_download_settings_title">Máximo descarga con datos</string>
+    <string name="pref_download_settings_title">Las descargas usando datos móviles están restringidas</string>
     <string name="pref_download_storage_path">Guardar en una localización personalizada</string>
     <string name="pref_sniff_shortcut">Crear acceso directo a la pantalla de inicio para búsquedas web</string>
-    <string name="pref_summary_any_bytes_popup">Descargar archivos sólo mediante conexión Wi-Fi</string>
+    <string name="pref_summary_any_bytes_popup">Esperar siempre a una conexión Wi-Fi para descargar archivos</string>
     <string name="pref_summary_enable_max_bytes_popup">Mostrar notificación emergente cuando se utilice la conexión de datos móviles para descargar el contenido</string>
     <string name="pref_summary_max_bytes_limit_format">Descargar por Wi-Fi si el tamaño excede de %s</string>
     <string name="pref_summary_no_limit_popup">Ilimitado</string>
@@ -389,7 +389,7 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="privacy_policy">Política de Privacidad</string>
     <string name="privacy_tip_cancel">Cancelar</string>
     <string name="privacy_tip_content">"¿Usar Xunlei Accelerator para acelerar descargas? La URL del host de la descarga se cargará en los servidores de Xunlei. Los detalles de tu Cuenta Mi también se cargarán para verificar si tienes suscripciones activas a este servicio."</string>
-    <string name="privacy_tip_ok">Aceptar</string>
+    <string name="privacy_tip_ok">OK</string>
     <string name="privacy_tip_title">¿Usar Xunlei Accelerator?</string>
     <string name="quit_btn">Salir</string>
     <string name="rank">Clasificación</string>
@@ -457,9 +457,9 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="select_subfile_all">Seleccionar todo</string>
     <string name="selected_count">Seleccionado %1$d de %2$d</string>
     <string name="send">Enviar</string>
-    <string name="setting_close_debug">Modo depuración desactivado</string>
-    <string name="setting_debug_fail">"No se ha podido entrar en modo depuración"</string>
-    <string name="setting_open_debug">Modo depuración activado. Pulsa aquí 6 veces para desactivarlo.</string>
+    <string name="setting_close_debug">Modo Depuración desactivado</string>
+    <string name="setting_debug_fail">"No se ha podido entrar en Modo Depuración"</string>
+    <string name="setting_open_debug">Modo Depuración activado. Pulsa aquí 6 veces para desactivarlo.</string>
     <string name="shortcut_dialog_content">Agregue un acceso directo a la pantalla de inicio para encontrar fuentes más rápido.</string>
     <string name="shortcut_dialog_create">Crear</string>
     <string name="shortcut_dialog_title">Crear acceso directo en la Pantalla de inicio?</string>
@@ -565,7 +565,7 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="sunday_shortest">Dom</string>
     <string name="task_add">Añadiendo tarea…</string>
     <string name="task_detail">Tareas</string>
-    <string name="task_detail_notfound_confirm">Aceptar</string>
+    <string name="task_detail_notfound_confirm">OK</string>
     <string name="task_fail">"No se pudo completar la operación"</string>
     <string name="terabyteShort">tuberculosis</string>
     <string name="test_speed">Comprobar</string>
