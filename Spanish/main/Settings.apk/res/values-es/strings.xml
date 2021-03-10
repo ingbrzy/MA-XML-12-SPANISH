@@ -470,6 +470,7 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="allow_sound_title">Permitir sonido</string>
     <string name="allow_vibrate_title">Permitir vibración</string>
     <string name="alpha_build">Alfa</string>
+    <string name="already_delete_system_app">Desinstala aplicaciones del sistema</string>
     <string name="always">Siempre</string>
     <string name="always_allow_bind_appwidgets_text">Has permitido que esta aplicación pueda crear widgets y acceder a sus datos.</string>
     <string name="always_running">Siempre en ejecución (%s)</string>
@@ -1694,6 +1695,7 @@ El cambio afectará a otras aplicaciones y conversaciones que pueden mostrarse c
     <string name="cmcc_hardware_version">Versión de hardware</string>
     <string name="codec_low_latency_summary">Minimizar latencia durante la sincronización de audio y vídeo de juegos</string>
     <string name="codec_low_latency_title">Latencia baja</string>
+    <string name="codec_low_latency_video_summary">Proporciona una experiencia de audio de baja latencia para juegos y videos, lo que hace que la sincronización de sonido e imagen sea más natural.</string>
     <string name="color_black">Negro</string>
     <string name="color_blue">Azul</string>
     <string name="color_calibration_none">Este dispositivo</string>
@@ -2810,6 +2812,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="face_data_input_ok_title">Añadido con éxito</string>
     <string name="face_data_input_structure_title">Datos faciales 3D</string>
     <string name="face_data_input_title">Añadir datos faciales</string>
+    <string name="face_data_introduction_add">Inicio</string>
     <string name="face_data_introduction_msg">Los datos faciales pueden ser usados para desbloquear tu dispositivo o verificar tu identidad. Añade una contraseña en la pantalla de bloqueo antes de añadir datos faciales.</string>
     <string name="face_data_introduction_next">Siguiente</string>
     <string name="face_data_introduction_title">Reconocimiento facial</string>
@@ -2822,7 +2825,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="face_data_manage_unlock_title">Desbloquear con datos faciales</string>
     <string name="face_data_siggesstion_next">Siguiente</string>
     <string name="face_data_siggesstion_next_time">Siguiente (%ds)</string>
-    <string name="face_data_suggesstion_first">Problema de seguridad: El reconocimiento facial es menos seguro que un código PIN, contraseña o patrón. Tu dispositivo puede ser desbloqueado con tu foto u otras personas y objetos con un parecido similar.</string>
+    <string name="face_data_suggesstion_first">El desbloqueo facial es menos seguro que un PIN, una contraseña o un patrón. Su dispositivo puede ser desbloqueado con su foto, así como por personas u objetos con una apariencia similar.</string>
     <string name="face_data_suggesstion_second">"Asegúrate de tener toda la cara descubierta y visible. También debería estar bien iluminada."</string>
     <string name="face_intro_error_max">Has añadido el número máximo de caras</string>
     <string name="face_intro_error_unknown">No se pueden añadir más caras</string>
@@ -3119,7 +3122,6 @@ No parecía que en aquel lugar hubiese caballos ni animales de ningún tipo, pue
 
 Al activar la copia de seguridad automática, los datos del dispositivo y de las aplicaciones se guardan periódicamente de forma remota. Los datos de las aplicaciones pueden ser cualquier tipo de información que guarden (en función de los ajustes de los desarrolladores), incluidos los datos que pueden ser confidenciales (como contactos, mensajes y fotos)."</string>
     <string name="fullbackup_erase_dialog_message">¿Quieres detener la copia de seguridad de los datos del dispositivo (como las contraseñas de redes Wi-Fi y el historial de llamadas) y de las aplicaciones (como la configuración y los archivos guardados) y borrar todas las copias de los servidores remotos?</string>
-    <string name="function_description">Acerca de esta función</string>
     <string name="gadget_picker_title">Seleccionar gadget</string>
     <string name="gadget_toggle_wifi">Actualizando ajustes Wi-Fi</string>
     <string name="gadget_wifi">Wi-Fi</string>
@@ -3278,6 +3280,8 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
     <string name="header_category_wireless_networks">Wi-Fi y redes</string>
     <string name="header_data_and_synchronization">Datos y sincronización</string>
     <string name="headset_connectiong">Conectando…</string>
+    <string name="headset_notification_switch_summary">Muestra el estado del widget en la barra de notificaciones cuando los auriculares están conectados</string>
+    <string name="headset_notification_switch_title">Widget en la barra de notificaciones</string>
     <string name="headset_remove_message">Desvincular dispositivo?</string>
     <string name="headset_remove_message_indicate">%1$s se desvinculará de todos los dispositivos asociados con esta Cuenta Mi.</string>
     <string name="headset_settings_title">Efectos de sonido</string>
@@ -3547,6 +3551,7 @@ Abra Nube de Xiaomi y restaure elementos desde allí."</string>
     <string name="keyboard_settings_title">Teclado de Android</string>
     <string name="keyboard_shortcuts_helper">Combinaciones de teclas</string>
     <string name="keyboard_shortcuts_helper_summary">Muestra combinaciones de teclas disponibles</string>
+    <string name="keyboard_skin_follow_system_enable">Cambiar al modo Oscuro junto con el sistema</string>
     <string name="keyguard_advance_setting_title">Ajustes avanzados</string>
     <string name="keyguard_security_setting_others">Otros</string>
     <string name="keyguard_security_setting_privacy_policy">Política de Privacidad</string>
@@ -4360,6 +4365,8 @@ No podrás revertir esta acción."</string>
     <string name="miui_allow_vibrate">Vibraciones</string>
     <string name="miui_data_usage_menu_metered">Puntos de acceso móviles</string>
     <string name="miui_experience_optimization">Activar optimización MIUI</string>
+    <string name="miui_face_enroll_risk_warning_btn_cancel">Cancelar</string>
+    <string name="miui_face_enroll_risk_warning_title_text">Atención</string>
     <string name="miui_face_enroll_success">"Puedes desbloquear este dispositivo usando tus datos faciales.
 Continua para acceder a los ajustes adicionales."</string>
     <string name="miui_input_method_settings">Ajustes del método de entrada</string>
@@ -4896,11 +4903,6 @@ Además, podrá activar o desactivar el modo No molestar y modificar ajustes rel
     <string name="notification_conversation_summary">%1$s • %2$s</string>
     <string name="notification_conversation_summary_low">Sin sonido ni vibración y se muestra más abajo en la sección de conversaciones</string>
     <string name="notification_display_settings">Barra de notificaciones</string>
-    <string name="notification_fold_description1">La Carpeta de notificaciones fue introducida en MIUI 9. Esta función filtra notificaciones no importantes y los coloca en una carpeta separada.</string>
-    <string name="notification_fold_description2">MIUI recordará las notificaciones que pulsas y después utiliza múltiples criterios para determinar si son importantes.</string>
-    <string name="notification_fold_description3">"Si las notificaciones que consideras importantes siguen yendo a la Carpeta de notificaciones, asegúrate de reportarnos problemas como este. Apreciaríamos tus comentarios."</string>
-    <string name="notification_fold_footer_icon_summary">Mostrar iconos de aplicaciones cuando las notificaciones importantes están agrupadas</string>
-    <string name="notification_fold_footer_icon_title">Mostrar iconos de aplicaciones</string>
     <string name="notification_fold_summary">Todas las notificaciones no importantes aparecerán en otra carpeta</string>
     <string name="notification_fold_title">Carpeta de notificaciones</string>
     <string name="notification_group_title">Grupo de categoría de notificaciones</string>
