@@ -15,8 +15,8 @@
         <item quantity="one">"La acción seleccionada no está disponible durante el modo de devolución de llamada de emergencia. El teléfono permanecerá en este modo durante %s minuto. ¿Quiere salir ahora?"</item>
     </plurals>
     <plurals name="auto_answer_summary_delay">
-        <item quantity="other">retraso: %s segundos</item>
-        <item quantity="one">retraso: %s segundo</item>
+        <item quantity="other">retraso: %d segundos</item>
+        <item quantity="one">retraso: %d segundo</item>
     </plurals>
     <plurals name="call_record_add_white_list_over_reminder">
         <item quantity="other">Puede añadir hasta %s personas, seleccione otra vez.</item>

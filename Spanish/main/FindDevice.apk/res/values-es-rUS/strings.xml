@@ -29,7 +29,7 @@
     <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="activate_xiaomi_account">Activar este dispositivo</string>
-    <string name="adding_or_updating_account">Actualizando la cuenta…</string>
+    <string name="adding_or_updating_account">Actualizando cuenta…</string>
     <string name="afternoon">Tarde</string>
     <string name="am">AM</string>
     <string name="app_name">Encontrar dispositivo</string>
@@ -39,19 +39,19 @@
     <string name="copy">Copiar</string>
     <string name="date_picker_lunar">Calendario Chino Tradicional</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
-    <string name="default_debt_msg_words">"Este dispositivo está bloqueado por un pago de instalación retrasado.
-Contacta tu agente de ventas para más detalles."</string>
-    <string name="default_lock_msg_words">Este dispositivo está asociado con un Id de Cuenta Mi existente. Por razones de seguridad, introduce la contraseña para verificar el dispositivo.</string>
-    <string name="default_lock_msg_words_with_phone">¡Hola! Perdí mi teléfono. ¿Podría por favor ponerse en contacto conmigo? ¡Gracias!</string>
+    <string name="default_debt_msg_words">"Este dispositivo está bloqueado por un pago de instalación atrasado.
+Contacte a su agente de ventas para más detalles."</string>
+    <string name="default_lock_msg_words">Este dispositivo está asociado a una Cuenta Mi existente. Por razones de seguridad, necesita ingresar su contraseña de nuevo para verificar el dispositivo.</string>
+    <string name="default_lock_msg_words_with_phone">¡Hola! Perdí mi teléfono. ¿Podría ponerse en contacto conmigo? ¡Gracias!</string>
     <string name="device_locked">Este dispositivo está bloqueado</string>
-    <string name="device_lost">Este dispositivo se ha perdido</string>
-    <string name="disable_find_device_error">"No se puede desactivar la localización del dispositivo. %1$s"</string>
-    <string name="disable_find_device_success">Localización del dispositivo desactivada</string>
-    <string name="doing_extra_login_steps">Comprobando el inicio de sesión…</string>
+    <string name="device_lost">Este dispositivo está perdido</string>
+    <string name="disable_find_device_error">"No se puede desactivar Encontrar dispositivo. %1$s"</string>
+    <string name="disable_find_device_success">Encontrar dispositivo desactivado</string>
+    <string name="doing_extra_login_steps">Verificando inicio de sesión…</string>
     <string name="early_morning">Mañana</string>
     <string name="emergency_call">Llamada de emergencia</string>
-    <string name="enable_find_device_error">"No se puede activar la localización del dispositivo. %1$s"</string>
-    <string name="enable_find_device_success">Localización del dispositivo activada</string>
+    <string name="enable_find_device_error">"No se puede activar Encontrar dispositivo. %1$s"</string>
+    <string name="enable_find_device_success">Encontrar dispositivo activado</string>
     <string name="eras_ad">DC</string>
     <string name="eras_bc">AC</string>
     <string name="evening">Tarde</string>
@@ -61,18 +61,18 @@ Contacta tu agente de ventas para más detalles."</string>
     <string name="find_device_error_access_denied">Acceso denegado.</string>
     <string name="find_device_error_account_sys_timeout">"No se pudo conectar a Cuenta Mi. "</string>
     <string name="find_device_error_account_unknown_error">Error de Cuenta Mi (%s).</string>
-    <string name="find_device_error_custom">%s restante</string>
+    <string name="find_device_error_custom">%s</string>
     <string name="find_device_error_network">Error de red.</string>
-    <string name="find_device_error_password_changed">La contraseña se ha cambiado recientemente.</string>
-    <string name="find_device_error_server">Error del servidor (%s)</string>
-    <string name="find_device_error_unknown">Error desconocido (%s)</string>
+    <string name="find_device_error_password_changed">Su contraseña ha sido cambiada recientemente.</string>
+    <string name="find_device_error_server">Error del servidor (%s).</string>
+    <string name="find_device_error_unknown">Error desconocido (%s).</string>
     <string name="find_device_noise_title">Alarma de Encontrar dispositivo</string>
-    <string name="find_device_notice">Ve a&lt;br /&gt;&lt;b&gt;&lt;font color=#e84700&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;&lt;br /&gt;para localizar, bloquear o restaurar tu dispositivo.</string>
-    <string name="find_device_notice_sms_alert">Si cambias las tarjetas SIM, se enviará automáticamente un SMS para reactivar esta característica.</string>
-    <string name="find_device_stop_noise">Pulsa Aceptar para silenciar</string>
-    <string name="find_device_storage_corrupted">El almacenamiento de Encontrar dispositivo está dañado. Tu dispositivo no es seguro ahora.</string>
+    <string name="find_device_notice">Vaya a &lt;b&gt;&lt;font color=#0099FF&gt;i.mi.com&lt;/font&gt;&lt;/b&gt; para localizar, bloquear o restaurar su dispositivo.</string>
+    <string name="find_device_notice_sms_alert">Si cambia de tarjeta SIM, otro mensaje SMS será enviado automáticamente para reactivar esta función.</string>
+    <string name="find_device_stop_noise">Toque Aceptar para silenciar</string>
+    <string name="find_device_storage_corrupted">El almacenamiento de Encontrar dispositivo está dañado. Su dispositivo no es seguro.</string>
     <string name="find_device_success_title">Encontrar dispositivo</string>
-    <string name="find_device_telephony_fault">Encontrar dispositivo: Error de telefonía (%s).</string>
+    <string name="find_device_telephony_fault">Encontrar dispositivo: error de telefonía (%s).</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
@@ -153,17 +153,17 @@ Contacta tu agente de ventas para más detalles."</string>
     <string name="night">Tarde</string>
     <string name="noon">Mediodía</string>
     <string name="not_set">Sin establecer</string>
-    <string name="open_wifi_settings">Abrir ajustes Wi-Fi</string>
+    <string name="open_wifi_settings">Abrir ajustes de Wi-Fi</string>
     <string name="passport_checking_vcode">Comprobando contraseña…</string>
-    <string name="passport_error_empty_vcode">Introduce el código de verificación</string>
-    <string name="passport_notification_need_unlock_again">Trate de desbloquear de nuevo</string>
+    <string name="passport_error_empty_vcode">Ingrese código de verificación</string>
+    <string name="passport_notification_need_unlock_again">Intente desbloquear de nuevo</string>
     <string name="passport_notification_processing">Procesando…</string>
     <string name="passport_trust_device">Confiar en este dispositivo</string>
-    <string name="passport_vcode_prompt_long">Introduce el código de verificación</string>
-    <string name="passport_verify">Comprobar</string>
-    <string name="password">Contraseña</string>
-    <string name="phone_locked">Este dispositivo puede estar asociado con una Cuenta Mi existente (%s). Inicia sesión para activar este dispositivo.</string>
-    <string name="phone_locked_account_email">, correo electrónico asociado: %s</string>
+    <string name="passport_vcode_prompt_long">Ingrese código de verificación</string>
+    <string name="passport_verify">Verificar</string>
+    <string name="password">Ingresar contraseña</string>
+    <string name="phone_locked">Este dispositivo está asociado con una cuenta Mi (%s). Ingrese la contraseña para activar el dispositivo.</string>
+    <string name="phone_locked_account_email">, correo asociado: %s</string>
     <string name="phone_locked_account_phone">, número de teléfono asociado: %s</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
@@ -201,7 +201,7 @@ Contacta tu agente de ventas para más detalles."</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
-    <string name="sys_notification_async_open_failed_content">Pulse para volver a intentarlo o cancelar.</string>
+    <string name="sys_notification_async_open_failed_content">Toque para reintentar o cancelar.</string>
     <string name="sys_notification_async_open_failed_title">"No se pudo activar Encontrar dispositivo"</string>
     <string name="sys_notification_async_verify_content">Nuestra Política de Seguridad actualizada requiere que Encontrar dispositivo sea reactivado.</string>
     <string name="sys_notification_async_verify_title">Reactivar Encontrar dispositivo</string>
@@ -248,7 +248,7 @@ Contacta tu agente de ventas para más detalles."</string>
     <string name="thursday">Jueves</string>
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>
-    <string name="time_correction_failure">"No se pudo corregir la hora (%s)"</string>
+    <string name="time_correction_failure">"No se puede corregir la hora. %s"</string>
     <string name="time_correction_success">Hora corregida</string>
     <string name="time_picker_dialog_title">Establecer hora</string>
     <string name="today">Hoy</string>
@@ -258,34 +258,34 @@ Contacta tu agente de ventas para más detalles."</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="unlock">Activar</string>
     <string name="unlock_access_denied">Acceso denegado</string>
-    <string name="unlock_bad_authentication">Nombre de usuario o contraseña no válidos</string>
+    <string name="unlock_bad_authentication">Nombre de usuario o contraseña incorrectos</string>
     <string name="unlock_error_abort">Cancelado por el usuario</string>
-    <string name="unlock_error_device_id">"No se puede obtener la ID de dispositivo"</string>
+    <string name="unlock_error_device_id">"No se obtuvo el ID del dispositivo"</string>
     <string name="unlock_error_interrupted">Interrumpido</string>
     <string name="unlock_error_network">"No se puede conectar a la red"</string>
-    <string name="unlock_error_passport_sdk_timeout">"El SDK de Cuenta Mi no está respondiendo"</string>
-    <string name="unlock_error_rpc">Error RPC</string>
+    <string name="unlock_error_passport_sdk_timeout">"El SDK de Cuenta Mi no responde"</string>
+    <string name="unlock_error_rpc">Error de RPC</string>
     <string name="unlock_error_server">Error del servidor</string>
-    <string name="unlock_error_ssl_hand_shake">"No se pudo conectar con el servidor, intenta ajustar la fecha y la hora manualmente."</string>
+    <string name="unlock_error_ssl_hand_shake">"No se pudo conectar con el servidor, intente ajustar la fecha y hora manualmente."</string>
     <string name="unlock_error_unknown">"No se puede iniciar sesión"</string>
-    <string name="unlock_error_user_name">Nombre de usuario no válido</string>
-    <string name="unlock_error_wrong_vcode">El código introducido es incorrecto</string>
+    <string name="unlock_error_user_name">Nombre de usuario inválido</string>
+    <string name="unlock_error_wrong_vcode">El código ingresado es incorrecto</string>
     <string name="unlock_help">"Conéctese a la red.
 Inserte una tarjeta SIM que funcione y no se conecte a redes Wi-Fi no válidas.
 
-¿Olvidó su contraseña?
+¿Ha olvidado la contraseña?
 Vaya a id.mi.com, seleccione \"¿Olvidó su contraseña?\" Y siga las instrucciones.
 
-¿No se puede activar el dispositivo?
+¿No puede activar el dispositivo?
 Vaya a i.mi.com/ss y envíe su solicitud para desbloquear el dispositivo."</string>
     <string name="unlock_help_title">Ayuda de desbloqueo:</string>
     <string name="unlock_number">Código de desbloqueo: %s</string>
-    <string name="unlock_wrong_captcha">El código introducido es incorrecto</string>
+    <string name="unlock_wrong_captcha">El código ingresado es incorrecto</string>
     <string name="unlocking">Activando…</string>
     <string name="v7_preference_off">APAGADO</string>
     <string name="v7_preference_on">ENCENDIDO</string>
-    <string name="verifing_account">Comprobando contraseña…</string>
-    <string name="verify_password_failed">"No se pudo verificar el ID de la cuenta Mi. %s."</string>
+    <string name="verifing_account">Verificando contraseña…</string>
+    <string name="verify_password_failed">"No se pudo verificar el ID de Cuenta Mi. %s."</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>

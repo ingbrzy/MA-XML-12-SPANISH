@@ -142,7 +142,7 @@
     <string name="app_commute_run_the_meter">Medido</string>
     <string name="app_commute_taking_code">Código</string>
     <string name="app_commute_taxi_button">Llama un taxi</string>
-    <string name="app_commute_time_taking">Alcanza %3$s en ≈%1$s (viaje de%2$dminutos)</string>
+    <string name="app_commute_time_taking">Llegará a %3$s en ≈%1$s (viaje de %2$d minutos)</string>
     <string name="app_commute_transit_code_dialog_checkbox_text">Recuerda la elección</string>
     <string name="app_commute_transit_code_dialog_item_alipay">Alipay</string>
     <string name="app_commute_transit_code_dialog_item_wechat">WeChat</string>
@@ -417,7 +417,7 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="app_surround_card_first_favorite_tip_title">Marcado como favorito</string>
     <string name="app_surround_card_nearby">Cercano</string>
     <string name="app_surround_discover_more_text">Descubrir más</string>
-    <string name="app_surround_distance">%1$skilometros</string>
+    <string name="app_surround_distance">%1$skm</string>
     <string name="app_surround_empty_result">No hay elementos aquí todavía</string>
     <string name="app_surround_favorite_network_error_toast">"No se pudo conectar a la red. Comprueba tus ajustes de red y vuelve a intentarlo."</string>
     <string name="app_surround_feature_menus">Artículos recomendados: %1$s</string>
@@ -465,7 +465,7 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="authorize_button">Permitir</string>
     <string name="baidu_map">Mapas de Baidu</string>
     <string name="ball_dialog_confirm">Instalar</string>
-    <string name="ball_dialog_content">Instala HuPu Sports para utilizar esta función. ¿Instalar ahora?</string>
+    <string name="ball_dialog_content">Instale %s para utilizar esta función. ¿Instalar ahora?</string>
     <string name="ball_dialog_tip">"No mostrar de nuevo"</string>
     <string name="ball_dialog_title">Instala la aplicación primero.</string>
     <string name="ball_football_recent_ing">En curso</string>
@@ -1590,7 +1590,7 @@ Bóveda de aplicaciones</string>
     <string name="shopping_setting_notification">Notificar sobre nuevos artículos</string>
     <string name="shopping_setting_pinduoduo">Pinduoduo</string>
     <string name="shopping_setting_remove">Después de revocar la autorización, Bóveda de aplicaciones dejará de recopilar la información sobre tus compras y se eliminará la tarjeta de compra. ¿revocar de todos modos?</string>
-    <string name="shopping_source">De</string>
+    <string name="shopping_source">Desde %s</string>
     <string name="shopping_support">Aplicaciones soportadas</string>
     <string name="shortcut">Atajos</string>
     <string name="shortcuts_download_dialog_text_install">Instalar</string>

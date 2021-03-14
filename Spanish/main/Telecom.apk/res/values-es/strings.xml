@@ -130,7 +130,7 @@
     <string name="bluetooth_active_no_battery_level">Activo</string>
     <string name="bluetooth_battery_level">%1$s de batería</string>
     <string name="bluetooth_battery_level_untethered">L: %1$s de batería R: %2$s de batería</string>
-    <string name="bluetooth_connected">Conectado</string>
+    <string name="bluetooth_connected">Conectado%1$s</string>
     <string name="bluetooth_connected_battery_level">Conectado (%1$s de batería)</string>
     <string name="bluetooth_connected_no_a2dp">Conectado (sin audio multimedia)</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">Conectado sin audio multimedia (%1$s de batería)</string>
@@ -480,9 +480,9 @@ Frecuencia de muestreo"</string>
     <string name="power_discharge_by_only_short">Hasta: %1$s</string>
     <string name="power_discharging_duration">Tiempo restante aproximado: %1$s (%2$s)</string>
     <string name="power_discharging_duration_enhanced">Tiempo restante aproximado según tu uso: %1$s (%2$s)</string>
-    <string name="power_remaining_charging_duration_only">Tiempo restante hasta carga completa: ^1</string>
-    <string name="power_remaining_duration_only">Tiempo restante aproximado: ^1</string>
-    <string name="power_remaining_duration_only_enhanced">Tiempo restante aproximado según tu uso: ^1</string>
+    <string name="power_remaining_charging_duration_only">%1$s restante hasta la carga completa</string>
+    <string name="power_remaining_duration_only">Quedan aproximadamente %1$s</string>
+    <string name="power_remaining_duration_only_enhanced">Quedan aproximadamente %1$s según su uso</string>
     <string name="power_remaining_duration_only_short">%1$s</string>
     <string name="power_remaining_duration_only_shutdown_imminent">Es posible que el teléfono se apague pronto</string>
     <string name="power_remaining_duration_shutdown_imminent">Es posible que el teléfono se apague pronto (%1$s)</string>

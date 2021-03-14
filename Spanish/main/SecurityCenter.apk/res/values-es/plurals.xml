@@ -235,16 +235,16 @@ para obtener una prueba gratuita de %d-días!"</item>
 para obtener una prueba gratuita de %ddía!"</item>
     </plurals>
     <plurals name="gb_voice_changer_trial_gain_fail">
-        <item quantity="other">"No se pudo recibir una prueba gratuita de %ddías"</item>
-        <item quantity="one">"No se pudo recibir una prueba gratuita de %ddías"</item>
+        <item quantity="other">"No se pudo recibir una prueba gratuita de %d días"</item>
+        <item quantity="one">"No se pudo recibir una prueba gratuita de %d día"</item>
     </plurals>
     <plurals name="gb_voice_changer_trial_gain_success">
-        <item quantity="other">Recibió una prueba gratuita de %ddías con éxito</item>
-        <item quantity="one">Recibió una prueba gratuita de %ddías con éxito</item>
+        <item quantity="other">Recibió una prueba gratuita de %d días con éxito</item>
+        <item quantity="one">Recibió una prueba gratuita de %d día con éxito</item>
     </plurals>
     <plurals name="gb_voice_changer_user_status_get_trial_card">
-        <item quantity="other">Obtenga una prueba gratuita de %ddías</item>
-        <item quantity="one">Obtenga una prueba gratuita de %ddías</item>
+        <item quantity="other">Obtenga una prueba gratuita de %d días</item>
+        <item quantity="one">Obtenga una prueba gratuita de %d día</item>
     </plurals>
     <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
         <item quantity="other">"Su suscripción ha caducado.
@@ -253,8 +253,8 @@ para obtener una prueba gratuita de %ddía!"</item>
 ¡Puede obtener una prueba gratuita de %d días!"</item>
     </plurals>
     <plurals name="gb_voice_changer_user_tips_info">
-        <item quantity="other">Obtenga una prueba gratuita de %ddías</item>
-        <item quantity="one">Obtenga una prueba gratuita de %ddías</item>
+        <item quantity="other">Obtenga una prueba gratuita de %d días</item>
+        <item quantity="one">Obtenga una prueba gratuita de %d día</item>
     </plurals>
     <plurals name="gtb_spring_festival_colored_egg">
         <item quantity="other">"¡Felicidades! Has desbloqueado %s huevos de Pascua."</item>
@@ -430,7 +430,7 @@ para obtener una prueba gratuita de %ddía!"</item>
     </plurals>
     <plurals name="notification_battery_consume_abnormal_summary">
         <item quantity="other">Descargado %2$d%% de batería durante los últimos %1$d minutos</item>
-        <item quantity="one">Descargado %2$d%% de batería durante el último minuto</item>
+        <item quantity="one">Descargado %2$d%% de batería durante el último %1$d minuto</item>
     </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
         <item quantity="other">%2$d aplicaciones, incluyendo %1$s, están drenando la batería</item>
@@ -653,12 +653,12 @@ para obtener una prueba gratuita de %ddía!"</item>
         <item quantity="one">%s vez</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
-        <item quantity="other">%d aplicaciones están ocultas</item>
-        <item quantity="one">Una aplicación está oculta</item>
+        <item quantity="other">%d iconos de aplicación ocultos</item>
+        <item quantity="one">%d icono de aplicación oculto</item>
     </plurals>
     <plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">"Se pueden ocultar %d aplicaciones"</item>
-        <item quantity="one">"Se pueden ocultar una aplicación"</item>
+        <item quantity="other">"%d íconos de aplicación no están ocultos"</item>
+        <item quantity="one">"%d icono de aplicación no está oculto"</item>
     </plurals>
     <plurals name="privacy_permission_summary">
         <item quantity="other">%s apps tienen acceso permanente</item>
