@@ -81,16 +81,16 @@
         <item quantity="one">%d min</item>
     </plurals>
     <plurals name="trend_from_last_several_day_equal">
-        <item quantity="other">El tiempo de pantalla de hoy es equivalente a tu media de %d días</item>
-        <item quantity="one">El tiempo de pantalla de hoy es equivalente a tu media de %d día</item>
+        <item quantity="other">Las horas de pantalla de hoy son equivalentes a tu media %d días</item>
+        <item quantity="one">Las horas de pantalla de hoy son equivalentes a tu media %d día</item>
     </plurals>
     <plurals name="trend_from_last_several_day_less">
-        <item quantity="other">%2$s más tiempo de pantalla hoy que tu media de %1$d días</item>
-        <item quantity="one">%2$s menos tiempo de pantalla hoy que tu media de %1$d días</item>
+        <item quantity="other">%2$s más horas de pantalla hoy que tu media de %1$d días</item>
+        <item quantity="one">%2$s menos horas de pantalla hoy que tu media de %1$d días</item>
     </plurals>
     <plurals name="trend_from_last_several_day_more">
-        <item quantity="other">%2$s más tiempo de pantalla hoy que tu media de %1$d días</item>
-        <item quantity="one">%2$s más tiempo de pantalla hoy que tu media de %1$d día</item>
+        <item quantity="other">%2$s más horas de pantalla hoy que tu media de %1$d días</item>
+        <item quantity="one">%2$s más horas de pantalla hoy que tu media de %1$d día</item>
     </plurals>
     <plurals name="unlock_times">
         <item quantity="other">%.2f veces</item>
@@ -109,8 +109,8 @@
         <item quantity="one">Desbloqueado %d vez</item>
     </plurals>
     <plurals name="usage_new_home_total_unlocks_new">
-        <item quantity="other">Desbloqueado %1$d veces en %2$s</item>
-        <item quantity="one">Desbloqueado %1$d vez en %2$s</item>
+        <item quantity="other">Desbloqueado %1$d veces el %2$s</item>
+        <item quantity="one">Desbloqueado %1$d vez el %2$s</item>
     </plurals>
     <plurals name="usage_new_home_total_week_unlocks">
         <item quantity="other">Desbloqueado %d veces</item>
@@ -173,8 +173,8 @@
         <item quantity="one">%d vez</item>
     </plurals>
     <plurals name="usage_state_unlock_count_new">
-        <item quantity="other">Promedio %.2f veces</item>
-        <item quantity="one">Promedio %.2f tiempo</item>
+        <item quantity="other">%.2f veces de media</item>
+        <item quantity="one">%.2f vez de media</item>
     </plurals>
     <plurals name="usage_state_week_day_hour">
         <item quantity="other">Fines de semana: %d horas</item>

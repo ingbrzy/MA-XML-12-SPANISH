@@ -326,8 +326,8 @@
     <string name="alarm_template_far">el %1$s</string>
     <string name="allow_mock_location">Permitir simular ubicación</string>
     <string name="allow_mock_location_summary">Permitir simular ubicación</string>
-    <string name="always_use_accessory">Abrir siempre %1$s cuando %2$s esté conectado</string>
-    <string name="always_use_device">Abrir siempre %1$s cuando %2$s esté conectado</string>
+    <string name="always_use_accessory">Usar de manera predeterminada para este accesorio USB</string>
+    <string name="always_use_device">Usar de manera predeterminada para este dispositivo USB</string>
     <string name="animator_duration_scale_title">Escala de duración del animador</string>
     <string name="apn_settings_not_available">"Los ajustes del nombre del punto de acceso no están disponibles para este usuario"</string>
     <string name="app_accessed_mic">%1$s accedió a su micrófono</string>
@@ -369,7 +369,7 @@
     <string name="battery_info_status_full">Cargado</string>
     <string name="battery_info_status_not_charging">"Conectado, no puede cargar ahora"</string>
     <string name="battery_info_status_unknown">Desconocido</string>
-    <string name="battery_low_percent_format">%s restante</string>
+    <string name="battery_low_percent_format">%d%% restante</string>
     <string name="battery_low_percent_format_hybrid">%1$s restante, aproximadamente %2$s restante según su uso</string>
     <string name="battery_low_percent_format_hybrid_short">%1$s restante, aproximadamente %2$s restante</string>
     <string name="battery_low_percent_format_saver_started">%s restante. Ahorro de batería activado.</string>
@@ -1018,9 +1018,9 @@ Solo utilice el cargador proporcionado."</string>
     <string name="keyguard_enter_your_password">Introduce tu contraseña</string>
     <string name="keyguard_enter_your_pattern">Ingrese su patrón</string>
     <string name="keyguard_enter_your_pin">Introduce tu PIN</string>
-    <string name="keyguard_indication_charging_time">%2$s • Cargando (%1$s hasta llenarse)</string>
-    <string name="keyguard_indication_charging_time_fast">%2$s • Cargando rápidamente (%1$s hasta que esté lleno)</string>
-    <string name="keyguard_indication_charging_time_slowly">%2$s • Cargando lentamente (%1$s hasta que esté lleno)</string>
+    <string name="keyguard_indication_charging_time">Cargando (%s para carga total)</string>
+    <string name="keyguard_indication_charging_time_fast">Carga rápida (%s para carga total)</string>
+    <string name="keyguard_indication_charging_time_slowly">Carga lenta (%s para carga total)</string>
     <string name="keyguard_indication_charging_time_wireless">%2$s • Carga inalámbrica (%1$s hasta que esté llena)</string>
     <string name="keyguard_indication_trust_disabled">El dispositivo permanecerá bloqueado hasta que lo desbloquee manualmente</string>
     <string name="keyguard_indication_trust_unlocked">Mantenido desbloqueado por TrustAgent</string>
@@ -1049,9 +1049,9 @@ Solo utilice el cargador proporcionado."</string>
     <string name="keyguard_permanent_disabled_sim_instructions">"Su tarjeta SIM ha sido deshabilitada permanentemente.
  Contacte a su proveedor de servicio para conseguir otra."</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Tarjeta SIM inutilizable.</string>
-    <string name="keyguard_plugged_in">%s • Cargando</string>
-    <string name="keyguard_plugged_in_charging_fast">%s • Carga rápida</string>
-    <string name="keyguard_plugged_in_charging_slowly">%s • Carga lenta</string>
+    <string name="keyguard_plugged_in">Cargando</string>
+    <string name="keyguard_plugged_in_charging_fast">Cargando rápido</string>
+    <string name="keyguard_plugged_in_charging_slowly">Carga lenta</string>
     <string name="keyguard_plugged_in_wireless">%s • Carga de forma inalámbrica</string>
     <string name="keyguard_quick_charging_info_click_to_detail">Carga rápida. Toque para ver detalles.</string>
     <string name="keyguard_retry">Desliza hacia arriba para volver a intentarlo</string>
@@ -1590,7 +1590,7 @@ También está conectado a una red VPN, la cual puede monitorear su actividad en
     <string name="quick_settings_cellular_detail_over_limit">Sobre el límite</string>
     <string name="quick_settings_cellular_detail_remaining_data">Datos restantes</string>
     <string name="quick_settings_cellular_detail_title">Datos móviles</string>
-    <string name="quick_settings_cellular_detail_unable_change">"No se puede configurar durante la llamada"</string>
+    <string name="quick_settings_cellular_detail_unable_change">"No se puede establecer durante una llamada"</string>
     <string name="quick_settings_color_space_label">Modo de corrección de color</string>
     <string name="quick_settings_connected">Conectado</string>
     <string name="quick_settings_connected_battery_level">Conectado, batería %1$s</string>
@@ -1971,8 +1971,8 @@ Su teléfono podría calentarse de más si:
     <string name="unlockscreen_low_battery">Conecte el cargador ahora</string>
     <string name="unlockscreen_recharge_completed">Batería cargada</string>
     <string name="unlockscreen_recharging_message">Cargando%d%%</string>
-    <string name="usb_accessory_confirm_prompt">¿Abrir %1$s para manejar %2$s?</string>
-    <string name="usb_accessory_permission_prompt">¿Permitir a %1$s acceder a %2$s?</string>
+    <string name="usb_accessory_confirm_prompt">¿Abrir %1$s cuando este accesorio USB esté conectado?</string>
+    <string name="usb_accessory_permission_prompt">¿Permitir a %1$s acceder al accesorio USB?</string>
     <string name="usb_accessory_uri_prompt">Ninguna de las aplicaciones instaladas es compatible con este accesorio USB. Saber más de este accesorio en %1$s</string>
     <string name="usb_audio_disable_routing">Desactivar routing de audio USB</string>
     <string name="usb_audio_disable_routing_summary">Desactivar routing automático para periféricos USB de audio</string>
@@ -1987,10 +1987,10 @@ Se le notificará cuando pueda volver a utilizar el puerto USB."</string>
     <string name="usb_debugging_secondary_user_message">"El usuario que actualmente inició sesión en este dispositivo no puede activar la depuración USB. Para usar esta función inicie sesión con una cuenta de administrador."</string>
     <string name="usb_debugging_secondary_user_title">Depuración USB no permitida</string>
     <string name="usb_debugging_title">¿Permitir la depuración USB?</string>
-    <string name="usb_device_confirm_prompt">¿Abrir %1$s para manejar %2$s?</string>
+    <string name="usb_device_confirm_prompt">¿Abrir %1$s cuando el dispositivo USB esté conectado?</string>
     <string name="usb_device_confirm_prompt_warn">"¿Abrir %1$s para manejar %2$s?
 No se ha concedido permiso de grabación a esta aplicación, pero podría capturar audio a través de este dispositivo USB."</string>
-    <string name="usb_device_permission_prompt">¿Permitir que %1$s acceda a %2$s?</string>
+    <string name="usb_device_permission_prompt">¿Permitir a %1$s acceder al dispositivo USB?</string>
     <string name="usb_device_permission_prompt_warn">"¿Permitir que %1$s acceda a %2$s?
 No se ha concedido permiso de grabación a esta aplicación, pero podría capturar audio a través de este dispositivo USB."</string>
     <string name="usb_disable_contaminant_detection">Habilitar USB</string>

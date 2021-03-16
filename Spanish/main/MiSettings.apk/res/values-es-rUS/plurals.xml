@@ -73,24 +73,24 @@
         <item quantity="one">Hace 1 minuto</item>
     </plurals>
     <plurals name="steady_on_screen_notification_summary">
-        <item quantity="other">"Has usado tu dispositivo durante %d minutos sin interrupciones"</item>
-        <item quantity="one">"Has usado tu dispositivo durante %d minuto sin interrupciones"</item>
+        <item quantity="other">"Has usado su dispositivo durante %d minutos sin interrupciones"</item>
+        <item quantity="one">"Has usado su dispositivo durante %d minuto sin interrupciones"</item>
     </plurals>
     <plurals name="steady_on_screen_time_pick">
-        <item quantity="other">%d min</item>
+        <item quantity="other">%d mins</item>
         <item quantity="one">%d min</item>
     </plurals>
     <plurals name="trend_from_last_several_day_equal">
-        <item quantity="other">El tiempo de pantalla de hoy es equivalente a tu media de %d días</item>
-        <item quantity="one">El tiempo de pantalla de hoy es equivalente a tu media de %d día</item>
+        <item quantity="other">El tiempo en pantalla es igual a su promedio de %d días</item>
+        <item quantity="one">El tiempo en pantalla es igual a su promedio de %d día</item>
     </plurals>
     <plurals name="trend_from_last_several_day_less">
-        <item quantity="other">%2$s más tiempo de pantalla hoy que tu media de %1$d días</item>
-        <item quantity="one">%2$s menos tiempo de pantalla hoy que tu media de %1$d días</item>
+        <item quantity="other">%2$s menos tiempo en pantalla que su promedio de %1$d días</item>
+        <item quantity="one">%2$s menos tiempo en pantalla que su promedio de %1$d día</item>
     </plurals>
     <plurals name="trend_from_last_several_day_more">
-        <item quantity="other">%2$s más tiempo de pantalla hoy que tu media de %1$d días</item>
-        <item quantity="one">%2$s más tiempo de pantalla hoy que tu media de %1$d día</item>
+        <item quantity="other">%2$s más tiempo en pantalla hoy que su promedio de %1$d días</item>
+        <item quantity="one">%2$s más tiempo en pantalla hoy que su promedio de %1$d día</item>
     </plurals>
     <plurals name="unlock_times">
         <item quantity="other">%.2f veces</item>
@@ -101,24 +101,24 @@
         <item quantity="one">%d día</item>
     </plurals>
     <plurals name="usage_new_home_avg_unlockc">
-        <item quantity="other">%.2f veces al día de media</item>
-        <item quantity="one">%.2f vez al día de media</item>
+        <item quantity="other">%.2f veces por día en promedio</item>
+        <item quantity="one">%.2f vez por día en promedio</item>
     </plurals>
     <plurals name="usage_new_home_total_unlocks">
         <item quantity="other">Desbloqueado %d veces</item>
         <item quantity="one">Desbloqueado %d vez</item>
     </plurals>
     <plurals name="usage_new_home_total_unlocks_new">
-        <item quantity="other">Desbloqueado %1$d veces en %2$s</item>
-        <item quantity="one">Desbloqueado %1$d vez en %2$s</item>
+        <item quantity="other">Desbloqueado %1$d veces el %2$s</item>
+        <item quantity="one">Desbloqueado %1$d vez el %2$s</item>
     </plurals>
     <plurals name="usage_new_home_total_week_unlocks">
         <item quantity="other">Desbloqueado %d veces</item>
         <item quantity="one">Desbloqueado %d vez</item>
     </plurals>
     <plurals name="usage_remain_about_hour">
-        <item quantity="other">≈%s h</item>
-        <item quantity="one">≈%s h</item>
+        <item quantity="other">≈%s hrs</item>
+        <item quantity="one">≈%s hr</item>
     </plurals>
     <plurals name="usage_remain_about_miunte">
         <item quantity="other">≈%s min</item>
@@ -133,12 +133,12 @@
         <item quantity="one">Desbloqueado %d vez</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_today">
-        <item quantity="other">Recibiste %d notificaciones</item>
-        <item quantity="one">Recibiste %d notificación</item>
+        <item quantity="other">%d notificaciones recibidas</item>
+        <item quantity="one">%d notificación recibida</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_week">
-        <item quantity="other">Recibiste %d notificaciones</item>
-        <item quantity="one">Recibiste %d notificación</item>
+        <item quantity="other">%d notificaciones recibidas</item>
+        <item quantity="one">%d notificación recibida</item>
     </plurals>
     <plurals name="usage_state_focus_usage_summary">
         <item quantity="other">%d minutos es un gran paso hacia la atención plena y la concentración.</item>
@@ -174,7 +174,7 @@
     </plurals>
     <plurals name="usage_state_unlock_count_new">
         <item quantity="other">Promedio %.2f veces</item>
-        <item quantity="one">Promedio %.2f tiempo</item>
+        <item quantity="one">Promedio %.2f vez</item>
     </plurals>
     <plurals name="usage_state_week_day_hour">
         <item quantity="other">Fines de semana: %d horas</item>
@@ -193,11 +193,11 @@
         <item quantity="one">Entre semana: %d minuto</item>
     </plurals>
     <plurals name="usage_stats_remain_hour">
-        <item quantity="other">%s h</item>
-        <item quantity="one">%s h</item>
+        <item quantity="other">%s hrs</item>
+        <item quantity="one">%s hr</item>
     </plurals>
     <plurals name="usage_stats_remain_miunte">
-        <item quantity="other">%s min</item>
+        <item quantity="other">%s mins</item>
         <item quantity="one">%s min</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">

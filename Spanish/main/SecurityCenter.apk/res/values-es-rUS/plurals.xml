@@ -176,6 +176,14 @@ Si activas los datos móviles otra vez, tu compañia telefónica puede cargar ga
         <item quantity="other">hace %d días</item>
         <item quantity="one">Hace %d día</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avance rápido %d segundos</item>
+        <item quantity="one">Avance rápido %d segundos</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Retroceder %d segundos</item>
+        <item quantity="one">Retroceder %d segundos</item>
+    </plurals>
     <plurals name="find_applications">
         <item quantity="other">Buscar entre %d aplicaciones</item>
         <item quantity="one">Buscar entre %d aplicación</item>
@@ -563,6 +571,10 @@ para obtener una prueba gratuita de %ddía!"</item>
     <plurals name="people_million">
         <item quantity="other">Descargado por %1$d personas</item>
         <item quantity="one">Descargado por %1$d personas</item>
+    </plurals>
+    <plurals name="power_20s_shutdown">
+        <item quantity="other">Su dispositivo se apagará en %d segundos</item>
+        <item quantity="one">Su dispositivo se apagará en %d segundos</item>
     </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">veces</item>

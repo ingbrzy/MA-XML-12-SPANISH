@@ -262,8 +262,13 @@
     <string name="diagnosis_log_sent_format">"Registros enviados con éxito.
 ID: %s
 Envíe este código al supervisor."</string>
+    <string name="dialog_disagree_privacychange_info">"No podrá utilizar los servicios de transmisión en línea de Mi Video si no está de acuerdo con nuestra Política de privacidad. Toca \"Cancelar\" para volver atrás o \"No estoy de acuerdo\" para continuar y usar Mi Video solo como reproductor local."</string>
+    <string name="dialog_disagree_privacychange_title">"¿No estás de acuerdo?"</string>
+    <string name="dialog_privacy_change_info">"Hemos actualizado la Política de privacidad de Mi Video debido a los ajustes en los servicios que ofrecemos. Para comprender completamente sus derechos como usuario, así como las formas en que usamos sus datos, lea y acepte nuestro &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt; antes de usar la aplicación."</string>
+    <string name="dialog_privacy_change_title">Actualización de la política de privacidad</string>
     <string name="dialog_privacy_info_new2">"Para poder utilizar sus servicios, debe aceptar que %1$s recolecte, procese y utilice su información personal. Al tocar \"Aceptar\", se considerará que usted ha leído y acepta nuestra &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt;."</string>
     <string name="dialog_privacy_info_new3">"Para poder utilizar este servicio, debe permitir que %1$s recopile, procese y utilice su información personal de acuerdo con la Política de privacidad. Al presionar Acepto a continuación, está aceptando la &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt; y el &lt;a href=%3$s&gt;Acuerdo de usuario&lt;/a&gt; de Xiaomi. &lt;br/&gt;&lt;br/&gt;Al presionar Acepto también le permite a Mi Video acceder a la lista de aplicaciones instaladas en su dispositivo. Con este permiso, Mi Video podrá compartir elementos, comprender si una aplicación está instalada en su dispositivo, qué versión de una aplicación está instalada y si una aplicación es segura."</string>
+    <string name="dialog_privacy_info_new4">"¡Bienvenido a Mi Video! Esta aplicación proporciona los siguientes servicios:&lt;br&gt;&lt;/br&gt; - Servicios de transmisión en línea&lt;br&gt;&lt;/br&gt;- Un reproductor de video local&lt;br&gt;&lt;/br&gt;Mi Video necesita recopilar la información personal necesaria para brindarle los servicios básicos. Puede aprender cómo manejamos la información que recopilamos en nuestra Política de privacidad. Podrá cambiar la configuración relacionada en Configuración &gt; Contraseñas &amp;amp; seguridad.&lt;br&gt;&lt;/br&gt;Lea y acepte nuestro &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt; antes de usar Mi Video."</string>
     <string name="dialog_privacy_revoke_cancel">Cancelar</string>
     <string name="dialog_privacy_revoke_count_down">Retirar (%1$ds)</string>
     <string name="dialog_privacy_revoke_description">Al desactivar el interruptor, retira su consentimiento a la Política de privacidad de Mi Video. Dejaremos de recopilar su información personal. La información personal ya recopilada y retenida se eliminará dentro del período específico según lo requieran las leyes aplicables. Su retiro de consentimiento a la Política de privacidad se considerará como negarse a aceptar servicios en línea basados en la información personal recopilada.</string>
@@ -274,6 +279,7 @@ Envíe este código al supervisor."</string>
     <string name="dialog_privacy_title">Autorización</string>
     <string name="dialog_revoke_privacy_info_new2">Después de revocar la autorización, la aplicación dejará de recopilar datos y toda la información relacionada se eliminará de nuestros servidores. Esto podría hacer que la aplicación sea virtualmente inutilizable. ¿Revocar autorización?</string>
     <string name="dialog_revoke_privacy_title">Revocando autorización</string>
+    <string name="disagree">"No estoy de acuerdo"</string>
     <string name="diy_channels_tips">Ahora puede personalizar la lista de sus canales.</string>
     <string name="do_not_show_again">"No mostrar de nuevo"</string>
     <string name="download">Descargar</string>
