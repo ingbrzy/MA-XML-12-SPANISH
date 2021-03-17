@@ -5,7 +5,7 @@
     <string name="This_week">Esta semana</string>
     <string name="Today">Hoy</string>
     <string name="Yesterday">Ayer</string>
-    <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
+    <string name="abc_action_bar_home_description">Ir a inicio</string>
     <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
     <string name="abc_action_menu_overflow_description">Más opciones</string>
     <string name="abc_action_mode_done">Listo</string>
@@ -15,7 +15,7 @@
     <string name="abc_capital_on">ACTIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt +</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
-    <string name="abc_menu_delete_shortcut_label">Eliminar</string>
+    <string name="abc_menu_delete_shortcut_label">Suprimir</string>
     <string name="abc_menu_enter_shortcut_label">Intro</string>
     <string name="abc_menu_function_shortcut_label">Función +</string>
     <string name="abc_menu_meta_shortcut_label">Meta +</string>
@@ -25,13 +25,13 @@
     <string name="abc_prepend_shortcut_label">Menú +</string>
     <string name="abc_search_hint">Buscar…</string>
     <string name="abc_searchview_description_clear">Borrar consulta</string>
-    <string name="abc_searchview_description_query">Consulta</string>
+    <string name="abc_searchview_description_query">Consulta de búsqueda</string>
     <string name="abc_searchview_description_search">Buscar</string>
     <string name="abc_searchview_description_submit">Enviar consulta</string>
     <string name="abc_searchview_description_voice">Búsqueda por voz</string>
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
-    <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="abc_toolbar_collapse_description">Ocultar</string>
     <string name="access_denied_info">Demasiados intentos. Espera un minuto o dos y vuelve a intentarlo.</string>
     <string name="account_bind_secure_email_title">Añadir correo electrónico de recuperación</string>
     <string name="account_bind_secure_phone_title">Añadir número de teléfono de recuperación</string>
@@ -69,7 +69,7 @@
     <string name="activate_email_notice">Asegúrese de activar su cuenta antes de 24 horas</string>
     <string name="activity_not_found_notice">"No se pudo encontrar la aplicación"</string>
     <string name="ad">Anuncio</string>
-    <string name="ad_bar_notification_setting_sub_title">Mostrar eventos en el panel de notificaciones</string>
+    <string name="ad_bar_notification_setting_sub_title">Mostrar eventos en la Barra de notificaciones</string>
     <string name="ad_bar_notification_setting_title">Eventos</string>
     <string name="ad_buy">Comprar</string>
     <string name="ad_download">Descargar</string>
@@ -77,9 +77,9 @@
     <string name="ad_more">Más</string>
     <string name="add_search_channel_link">URL</string>
     <string name="add_search_channel_name">Nombre</string>
-    <string name="add_search_channel_tip">Busque \"%s\" en el sitio web de destino, luego copie y pegue la URL aquí.</string>
+    <string name="add_search_channel_tip">Busca \"%s\" en el sitio web de destino, después copia y pega la URL aquí.</string>
     <string name="add_to_trust_device">Este es un dispositivo de confianza</string>
-    <string name="add_website">Agregar un sitio web</string>
+    <string name="add_website">Añadir un sitio web</string>
     <string name="agree">Aceptar</string>
     <string name="agree_and_continue">Aceptar</string>
     <string name="ai_animation_music_text">Banda sonora IA</string>
@@ -165,8 +165,8 @@
     <string name="choose_to_signup">"No, crearé una"</string>
     <string name="click_to_reload_more">Toca para cargar más</string>
     <string name="click_to_retry">Vuelve a intentarlo</string>
-    <string name="cloud_auto_pip_play_switch">Usar imagen en imagen automáticamente</string>
-    <string name="cloud_online_player">Jugador</string>
+    <string name="cloud_auto_pip_play_switch">Usar picture-in-picture automáticamente</string>
+    <string name="cloud_online_player">Reproductor</string>
     <string name="cloud_online_switch">Recomendaciones personalizadas</string>
     <string name="cloud_online_switch_close_time">Puede activar las recomendaciones de contenido personalizadas en %s</string>
     <string name="cloud_online_switch_open_time">Mostrar recomendaciones de contenido personalizado</string>
@@ -362,10 +362,10 @@ Envía este código al supervisor."</string>
     <string name="feedback_tag_title">Categoría</string>
     <string name="feedback_text_empty_toast">Introduce tus comentarios primero.</string>
     <string name="file_cant_rename">File with %1$s name already exists. Please rename</string>
-    <string name="file_space_not_enough_tip">No hay suficiente espacio de almacenamiento. Libere al menos %d MB y vuelva a iniciar la aplicación.</string>
+    <string name="file_space_not_enough_tip">No hay suficiente espacio de almacenamiento. Libera al menos %d MB y vuelve a iniciar la aplicación.</string>
     <string name="find_psw">Contraseña olvidada</string>
     <string name="finish">Listo</string>
-    <string name="firework_privacy">Política de privacidad de Firework</string>
+    <string name="firework_privacy">Política de Privacidad de Firework</string>
     <string name="for_diagnosis_usage_only">Los registros son solo usados para diagnósticos.</string>
     <string name="for_you">PARA TI</string>
     <string name="friday">Viernes</string>
@@ -393,14 +393,14 @@ Envía este código al supervisor."</string>
     <string name="galleryplus_already_cloud_member">Using VIP membership to play</string>
     <string name="galleryplus_check_network">Ajustes</string>
     <string name="galleryplus_chose_play_speed">Reproduciendo a velocidad %1$.1fX</string>
-    <string name="galleryplus_chose_play_speed_2">Jugando a velocidad %1$.2fX</string>
+    <string name="galleryplus_chose_play_speed_2">Reproduciendo a velocidad %1$.2fX</string>
     <string name="galleryplus_chose_play_speed_failure">"No se pudo ajustar la velocidad de reproducción"</string>
     <string name="galleryplus_click_to_higher_definition">Pulsa dos veces para abrir la previsualización en HD</string>
     <string name="galleryplus_copyright_unsported_audio">"No se puede reproducir el vídeo con pista de audio debido a restricciones de derechos de autor"</string>
     <string name="galleryplus_copyright_unsported_video">"No se puede reproducir este vídeo debido a restricciones de derechos de autor"</string>
     <string name="galleryplus_cta_tips">Puedes ayudarnos a mejorar nuestros servicios uniéndote al Programa de Experiencia de Usuario y permitiendo a Mi Vídeo conectarse a internet. ¿Aceptar?</string>
     <string name="galleryplus_double_tap_to_higher_definition">Pulsa dos veces otra vez para abrir la previsualización en HD</string>
-    <string name="galleryplus_fr_unsupport_restore_speed">Ratio de fotogramas no soportado. Se cambió a la velocidad normal.</string>
+    <string name="galleryplus_fr_unsupport_restore_speed">Tasa de fotogramas no soportada. Se cambió a la velocidad normal.</string>
     <string name="galleryplus_gallery_fold_tags">Ocultar etiquetas</string>
     <string name="galleryplus_gallery_video_adjust_hint">Solo los vídeos a 960fps son soportados</string>
     <string name="galleryplus_gallery_video_adjust_text">Ajustar</string>
@@ -419,7 +419,7 @@ Envía este código al supervisor."</string>
     <string name="galleryplus_gallery_video_save_video">Creando vídeo…</string>
     <string name="galleryplus_gallery_video_slow_edit">Cámara lenta</string>
     <string name="galleryplus_gallery_view_tags">Mostrar etiquetas</string>
-    <string name="galleryplus_is_higher_definition">Previsualización en HD abierta</string>
+    <string name="galleryplus_is_higher_definition">Previsualización HD</string>
     <string name="galleryplus_network_connect_check">"No se pudo conectar a la red"</string>
     <string name="galleryplus_network_connect_confirm">Conéctate al Wi-Fi o activa los datos móviles en los ajustes de red.</string>
     <string name="galleryplus_network_error">"No se pudo conectar a la red"</string>
@@ -430,7 +430,7 @@ Envía este código al supervisor."</string>
     <string name="galleryplus_online_cta_title">Términos y Condiciones</string>
     <string name="galleryplus_online_video_loading">Un momento…</string>
     <string name="galleryplus_orientation_lock">Orientación bloqueada con éxito</string>
-    <string name="galleryplus_orientation_unlock">La orientación de la pantalla está desbloqueada</string>
+    <string name="galleryplus_orientation_unlock">La orientación de pantalla está desbloqueada</string>
     <string name="galleryplus_permission_content">Concede a Mi Vídeo los permisos requeridos para poder usar esta función.</string>
     <string name="galleryplus_permission_content2">"Para poder usar esta función, ve a Ajustes &gt; Aplicaciones &gt; Mi Vídeo &gt; Permisos de la aplicación y permite a Mi Vídeo hacer lo siguiente:
 
@@ -453,7 +453,7 @@ Envía este código al supervisor."</string>
     <string name="galleryplus_subtitle_edit_edit">Editar subtítulos</string>
     <string name="galleryplus_subtitle_edit_hide">Ocultar subtítulos</string>
     <string name="galleryplus_subtitle_edit_literal_edit">Editar texto</string>
-    <string name="galleryplus_subtitle_edit_reminder">El texto que ingresaste es demasiado largo</string>
+    <string name="galleryplus_subtitle_edit_reminder">El texto que has introducido es demasiado largo</string>
     <string name="galleryplus_subtitle_recognized_empty_subtitles">"No se pudo reconocer la voz mientras estabas grabando"</string>
     <string name="galleryplus_v_agree">Aceptar</string>
     <string name="galleryplus_v_cancel">Cancelar</string>
@@ -497,10 +497,10 @@ Envía este código al supervisor."</string>
     <string name="issue">Problema</string>
     <string name="item_card_all_replies">Todas las respuestas</string>
     <string name="item_card_continue_play">Reproducción automática</string>
-    <string name="item_card_more_trailers">Más remolques</string>
+    <string name="item_card_more_trailers">Más trailers</string>
     <string name="item_card_open_in">"Abrir en "</string>
-    <string name="item_card_related">Relacionado</string>
-    <string name="item_setting_go_back">Concediendo y revocando autorización</string>
+    <string name="item_card_related">Relacionados</string>
+    <string name="item_setting_go_back">Retirada del consentimiento</string>
     <string name="just_a_second">Un momento…</string>
     <string name="language_later_setting_tips">Puedes cambiar tus preferencias de idioma en Perfil e Idioma.</string>
     <string name="language_select_tips">"Seleccione su idioma preferido
@@ -692,9 +692,9 @@ para videos"</string>
     <string name="my_feedback_title">Mis comentarios</string>
     <string name="need_update_app">Actualiza Mi Vídeo para usar todas sus funciones</string>
     <string name="network_connect_info">"No se pudo conectar a la red. Comprueba tus ajustes de red y vuelve a intentarlo."</string>
-    <string name="network_error_info">Ocurrió un error de red. Verifique la configuración de su red y vuelva a intentarlo.</string>
+    <string name="network_error_info">Se ha producido un error de red. Comprueba tus ajustes de red e inténtalo de nuevo.</string>
     <string name="network_failed">"No se pudo conectar a la red"</string>
-    <string name="network_timeout_info">"No se pudo conectar a la red. Inténtalo de nuevo."</string>
+    <string name="network_timeout_info">"No se pudo conectar a la red. Vuelve a intentarlo."</string>
     <string name="neverthink_player_loading">Cargando vídeo Neverthink …</string>
     <string name="new_channel_tip">¡Echa un vistazo a los nuevos canales!</string>
     <string name="next">Siguiente</string>
@@ -725,9 +725,9 @@ para videos"</string>
     <string name="notification_recall_desc">Mi Video puede notificarte sobre vídeos populares y tus suscripciones.</string>
     <string name="notification_recall_title">Activar notificaciones</string>
     <string name="notify_apk_installed">Descargado con éxito</string>
-    <string name="off_tip_firework_recommend">"No recibirás recomendaciones de contenido personalizadas de Firework"</string>
+    <string name="off_tip_firework_recommend">"No recibirás recomendaciones personalizadas de contenido de Firework"</string>
     <string name="ok">OK</string>
-    <string name="on_tip_firework_recommend">"Recibirás recomendaciones de contenido personalizadas de Firework"</string>
+    <string name="on_tip_firework_recommend">"Recibirás recomendaciones personalizadas de contenido de Firework"</string>
     <string name="open_settings">Ajustes</string>
     <string name="order_recently_subscribe">Suscripciones recientes</string>
     <string name="order_recently_updated">Subido recientemente</string>
@@ -829,7 +829,7 @@ Primero actualiza Mi Vídeo a la última versión."</string>
     <string name="passport_area_code_title">Código de área</string>
     <string name="passport_bad_authentication">Nombre de usuario o contraseña no válidos</string>
     <string name="passport_barcode_add_account_prompt">Apara añadir una cuenta, escanea el código QR después de registrarte.</string>
-    <string name="passport_can_not_receive_verification_code">"¿No puede recibir el código de verificación?"</string>
+    <string name="passport_can_not_receive_verification_code">"¿No puedes recibir el código de verificación?"</string>
     <string name="passport_captcha_title">Captcha</string>
     <string name="passport_checking_account">Comprobando contraseña…</string>
     <string name="passport_close">Cerrar</string>
@@ -935,9 +935,9 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="pip">PiP</string>
     <string name="playlist_create">Crear</string>
     <string name="playlist_detail_recomm_title">Listas de reproducción recomendadas</string>
-    <string name="playlist_finish">Aceptar</string>
+    <string name="playlist_finish">Listo</string>
     <string name="playlist_hot">Popular</string>
-    <string name="playlist_name">Ingresa el título de la lista de reproducción</string>
+    <string name="playlist_name">Introducir título de la lista de reproducción</string>
     <string name="playlist_new">Nuevo</string>
     <string name="playlist_no_more">No hay más vídeos aquí</string>
     <string name="playlist_no_videos">No hay vídeos</string>
@@ -970,7 +970,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="plus_menu_delete_popup_text">¿Eliminar ahora?</string>
     <string name="plus_menu_properties">Propiedades</string>
     <string name="plus_menu_rename">Renombrar</string>
-    <string name="plus_menu_rename_cant_empty">"El nombre de archivo no puede estar vacío"</string>
+    <string name="plus_menu_rename_cant_empty">"El nombre del archivo no puede estar vacío"</string>
     <string name="plus_menu_rename_fail">"El nombre del archivo no puede contener \"/\""</string>
     <string name="plus_menu_share">Compartir</string>
     <string name="plus_mine_gallery">Mis álbumes</string>
@@ -1030,7 +1030,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="plus_properties_file_name">Nombre del archivo</string>
     <string name="plus_properties_finished">Finalizado</string>
     <string name="plus_properties_format">Formato</string>
-    <string name="plus_properties_frame_rate">Ratio de fotogramas</string>
+    <string name="plus_properties_frame_rate">Tasa de fotogramas</string>
     <string name="plus_properties_last_playback_position">Última posición</string>
     <string name="plus_properties_last_playback_time">Última reproducción</string>
     <string name="plus_properties_length">Duración</string>
@@ -1068,7 +1068,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="plus_tab_time">Línea de tiempo</string>
     <string name="privacy_revoke_setting">Al desactivar el interruptor, retira su consentimiento a la Política de privacidad de Mi Video.</string>
     <string name="privacy_revoke_title">Retiro del consentimiento</string>
-    <string name="progressbar_title">Comprobando problemas de seguridad…</string>
+    <string name="progressbar_title">Buscando problemas de seguridad…</string>
     <string name="psw_hint">Contraseña</string>
     <string name="psw_sign_in">Iniciar sesión usando contraseña</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Desliza hacia arriba para actualizar…</string>
@@ -1106,7 +1106,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="report_content_violence">Discurso de odio</string>
     <string name="report_fail">"No se pudo reportar. Inténtalo de nuevo."</string>
     <string name="report_success">Reportado con éxito</string>
-    <string name="request_camera_permission_message">"Protegeremos su información personal de acuerdo con las leyes y regulaciones pertinentes. Esta aplicación necesita los siguientes permisos para funcionar normalmente:&lt;br&gt;&lt;br&gt;&lt;b&gt;Uso de la cámara (para configurar su foto de perfil)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Si no está de acuerdo con otorgar dichos permisos, no podrá utilizar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible. Siempre puede restringir los permisos o revocar su autorización en la Configuración."</string>
+    <string name="request_camera_permission_message">"Protegeremos tu información personal de acuerdo con las leyes y regulaciones pertinentes. Esta aplicación necesita los siguientes permisos para funcionar con normalidad:&lt;br&gt;&lt;br&gt;&lt;b&gt;Uso de la cámara (para configurar tu foto de perfil)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Si no estás de acuerdo con otorgar dichos permisos, no podrás utilizar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible. Siempre puedes restringir los permisos o revocar tu autorización en los Ajustes."</string>
     <string name="resend_active_email">Reenviar</string>
     <string name="resend_email_reach_limit_message">"Ha solicitado demasiados correos de verificación. Asegúrese de que el mensaje de verificación no está en la carpeta de correo no deseado."</string>
     <string name="resend_email_reach_limit_title">Demasiados intentos</string>
@@ -1204,7 +1204,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="sync_favorites_limit">"Hay más de 500 vídeos entre tus favoritos. Tendremos que eliminar algunos de los vídeos recientes para continuar sincronizando."</string>
     <string name="sync_favorites_message">¿Sincronizar favoritos desde este dispositivo a tu cuenta? Los elementos que ya no están disponibles serán eliminados.</string>
     <string name="sync_favorites_title">Sincronizar favoritos</string>
-    <string name="system_error_info">El sistema está ocupado. Espere uno o dos minutos y vuelva a intentarlo.</string>
+    <string name="system_error_info">El sistema está ocupado. Espera un minuto o dos y vuelve a intentarlo.</string>
     <string name="t_check_hide_file">Seleccionar elementos para ocultar</string>
     <string name="t_check_unhide_file">Seleccionar elementos para mostrar</string>
     <string name="t_downloading">Descargando:</string>
@@ -1235,19 +1235,19 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="ticket_hint">Código de verificación</string>
     <string name="ticket_invalid">El código que ha introducido es incorrecto</string>
     <string name="ticket_sign_in">Iniciar sesión vía SMS</string>
-    <string name="tip_auth_again">"Dado que no ha aceptado previamente los términos de la Política de privacidad correspondiente del proveedor de contenido de terceros, no podemos mostrar contenido de video en Moments. Toque el botón a continuación para aceptar la Política de privacidad y acceder a esta función."</string>
+    <string name="tip_auth_again">"Dado que no has aceptado previamente los términos de la Política de Privacidad correspondiente del proveedor de contenido de terceros, no podemos mostrar contenido de vídeo en Momentos. Pulsa el botón a continuación para aceptar la Política de Privacidad y acceder a esta función."</string>
     <string name="tip_author_click">Pulsa para ver más vídeos de esta cuenta</string>
-    <string name="tip_pop"><Data>contenido de Moments es proporcionado por Firework. Para mejorar su experiencia de visualización y recibir recomendaciones de contenido más relevantes, permita que Firework recopile, procese y use su información personal de acuerdo con su Política de privacidad. Lea y acepte &lt;a href=\"%1$s\"&gt;Política de privacidad de Firework&lt;/a&gt; antes de utilizar sus servicios.</Data></string>
+    <string name="tip_pop">&lt;Data&gt;El contenido de Momentos es proporcionado por Firework. Para mejorar tu experiencia de visualización y recibir recomendaciones de contenido más relevantes, permite que Firework recopile, procese y use tu información personal de acuerdo con su Política de Privacidad. Lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad de Firework&lt;/a&gt; antes de utilizar sus servicios&lt;/Data&gt;</string>
     <string name="tip_topic_click">Pulsa para encontrar más vídeos sobre este tema</string>
-    <string name="title_firework_recommend">Recomendaciones de fuegos artificiales</string>
+    <string name="title_firework_recommend">Recomendaciones de Firework</string>
     <string name="title_publisher">Creadores</string>
     <string name="title_subscribe">Suscripciones</string>
     <string name="toast_no_data">"Este elemento ahora no está disponible. Vuelve más tarde."</string>
     <string name="toast_request_too_frequently">¡No tan rápido!</string>
     <string name="toast_share_failed">"No se pudo compartir. Espera un minuto o dos y vuelve a intentarlo."</string>
     <string name="today">Hoy</string>
-    <string name="tool_bar_notification_setting_sub_title">Mostrar la barra de herramientas en el tono de Notificación</string>
-    <string name="tool_bar_notification_setting_title">Barra de herramientas de sombra de notificación</string>
+    <string name="tool_bar_notification_setting_sub_title">Mostrar la barra de herramientas en la Barra de notificaciones</string>
+    <string name="tool_bar_notification_setting_title">Barra de herramientas de la Barra de notificaciones</string>
     <string name="top_bar_game_desc">Descubre multitud de nuevos juegos</string>
     <string name="top_bar_game_title">Canal de juegos</string>
     <string name="tuesday">Martes</string>
