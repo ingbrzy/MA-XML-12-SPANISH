@@ -525,6 +525,7 @@ y ajustar las preferencias automáticamente"</string>
     <string name="dialog_button_connect">Conectar</string>
     <string name="dialog_button_disconnect">Salir</string>
     <string name="dialog_button_exit">Apagar</string>
+    <string name="dialog_button_goto">Ajustes</string>
     <string name="dialog_button_ok">OK</string>
     <string name="dialog_button_reject">Rechazar</string>
     <string name="dialog_button_scan">Buscar dispositivos</string>
@@ -568,10 +569,13 @@ los documentos escaneados automáticamente"</string>
     <string name="dual_camera_too_close_toast">La cámara está demasiado cerca del objeto.</string>
     <string name="dual_camera_use_hint">"Asegúrese de que el objeto no esté a más de 2 metros."</string>
     <string name="dual_video_record_merged">Combinado</string>
+    <string name="dual_video_record_remote">Grabación de teléfono dual</string>
     <string name="dual_video_record_standalone">Separado</string>
     <string name="dual_video_user_guide_main_content">Para crear videos multicámara, seleccione dos cámaras en su dispositivo y grabe simultáneamente. Las grabaciones pueden almacenarse por separado o combinarse en una vista dividida o en un video de imagen en imagen.</string>
     <string name="dual_video_user_guide_main_title">Vídeo multicámara</string>
     <string name="dual_video_user_guide_merge_content">Dispare con dos cámaras simultáneamente y combine grabaciones en una vista dividida o video de imagen en imagen.</string>
+    <string name="dual_video_user_guide_remote_content">"La grabación de teléfono dual permite combinar las fuentes de dos dispositivos diferentes en un solo video. Podrá obtener una vista previa de ambos feeds y el video final en este dispositivo. Tenga en cuenta que solo este dispositivo grabará audio."</string>
+    <string name="dual_video_user_guide_remote_p">Teléfono %d</string>
     <string name="dual_video_user_guide_standalone_content">Dispare con dos cámaras simultáneamente y guarde ambas grabaciones como videos separados.</string>
     <string name="edit_blusher">Rubor</string>
     <string name="edit_chin">Barbilla</string>
@@ -1326,7 +1330,7 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="pref_hdr10plus_video_mode_description">Optimice los colores y ajuste el contraste para videos 4K y 8K. Esta función solo funciona en dispositivos compatibles con HDR10 +.</string>
     <string name="pref_i_n_r_b">Reducción de ruido inteligente</string>
     <string name="pref_k_h">Monitor en directo en el oído</string>
-    <string name="pref_k_s_i">Reproduzca el sonido grabado en los auriculares cuando estén conectados</string>
+    <string name="pref_k_s_i">Monitoree el sonido grabado con los auriculares cuando estén conectados</string>
     <string name="pref_lens_dirty_detect_summary">Recibir una notificación cuando el lente esté sucio</string>
     <string name="pref_lens_dirty_detect_title">Notificar sobre lente sucio</string>
     <string name="pref_live_duration_title">Duración en directo</string>
@@ -1366,6 +1370,7 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="pref_super_night_se_summary">Detecta condiciones de poca luz y mejora la calidad de la imagen automáticamente</string>
     <string name="pref_super_night_se_title">Modo nocturno automático</string>
     <string name="pref_userdefine_watermark_title">Personalizar marca de agua</string>
+    <string name="pref_video_ai_audio_single">Sonido frontal</string>
     <string name="pref_video_captrue_ability_title">Captura de imágenes mientras graba video</string>
     <string name="pref_video_cast_setting_summary">Actívelo para poder grabar un video con múltiples dispositivos</string>
     <string name="pref_video_cast_setting_title">Grabación de teléfono dual</string>
@@ -1415,6 +1420,11 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="pref_watermark_title">Marca de agua</string>
     <string name="pref_wind_denoise_title">Filtro de viento</string>
     <string name="preference_copied">Se copió \"%1$s\" en el portapapeles.</string>
+    <string name="prek_b_j_o">Recrea el efecto envolvente estéreo</string>
+    <string name="prek_b_j_p">Reducir el impacto del viento en la grabación de sonido</string>
+    <string name="prep_video_ai_audio_new_desc_tip">Se mejoran los sonidos del sujeto enfocado</string>
+    <string name="prep_video_ai_audio_single_desc_tip">Los sonidos de detrás de la pantalla se filtran</string>
+    <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"El zoom de audio no funciona con el monitor interno en vivo y el micrófono externo"</string>
     <string name="preparing_sd">Comprobando tarjeta SD…</string>
     <string name="preview_back_pressed_hint">Vuelva a tocar para volver a la previsualización</string>
     <string name="pro_color_mode">Color pro</string>
@@ -1432,6 +1442,7 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="remote_online_interrupted">Desconectado. Conéctate de nuevo para continuar.</string>
     <string name="remote_online_introduction_i">"La grabación de teléfono dual permite combinar las fuentes de dos dispositivos diferentes en un solo video. Podrá obtener una vista previa de ambos feeds y el video final en este dispositivo. Tenga en cuenta que solo este dispositivo grabará audio."</string>
     <string name="remote_online_introduction_ii">Para que esta función funcione, el otro dispositivo Mi o Redmi debe admitir la grabación de teléfono dual. Se puede encender usando el conmutador del Centro de control.</string>
+    <string name="remote_online_permission">"Cambie el permiso de ubicación de la cámara a \"Permitir solo mientras usa la aplicación\" para poder usar la grabación de teléfono dual."</string>
     <string name="remote_online_searching">Buscando dispositivos…</string>
     <string name="remote_online_service_name">Grabación de teléfono dual</string>
     <string name="remote_online_unavailable">"No se pudieron encontrar dispositivos cercanos"</string>

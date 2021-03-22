@@ -2,15 +2,15 @@
 <resources>
     <string-array name="alarm_repeat_type">
         <item>Una vez</item>
-        <item>Cada día</item>
-        <item>Días laborables</item>
-        <item>Días laborables</item>
+        <item>Todos los días</item>
+        <item>Días laborales</item>
+        <item>Entre semana</item>
         <item>Personalizado</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Una vez</item>
-        <item>Cada día</item>
-        <item>Días laborables</item>
+        <item>Todos los días</item>
+        <item>Entre semana</item>
         <item>Personalizado</item>
     </string-array>
     <string-array name="alphabet_table">
@@ -95,9 +95,9 @@
     </string-array>
     <string-array name="daily_brand">
         <item>Personalizar</item>
-        <item>Mi tarjeta Fan</item>
+        <item>Tarjeta Fan Mi</item>
         <item>Tarjeta Xiao Tiansheng</item>
-        <item>Tarjeta de Tencent King</item>
+        <item>Tarjeta Tencent King</item>
     </string-array>
     <string-array name="daily_rent_card_brands">
         <item>Personalizada</item>
@@ -107,10 +107,10 @@
         <item>Tarjeta Tencent</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>"Ayer (datos)"</item>
-        <item>"Hoy (datos)"</item>
-        <item>"Mes pasado (datos)"</item>
-        <item>"Este mes (datos)"</item>
+        <item>"Ayer (datos móviles) "</item>
+        <item>"Hoy (datos móviles) "</item>
+        <item>"Mes pasado (datos móviles) "</item>
+        <item>"Este mes (datos móviles) "</item>
         <item>"Ayer (Wi-Fi)"</item>
         <item>"Hoy (Wi-Fi)"</item>
         <item>"Mes pasado (Wi-Fi)"</item>
@@ -149,11 +149,11 @@
         <item>No</item>
     </string-array>
     <string-array name="gb_adv_touch_custom_level">
-        <item>Más bajo</item>
+        <item>Mínimo</item>
         <item>Bajo</item>
         <item>Regular</item>
         <item>Alto</item>
-        <item>Más alto</item>
+        <item>Máximo</item>
     </string-array>
     <string-array name="lock_mode">
         <item>Cuando el dispositivo esté bloqueado</item>
@@ -161,38 +161,38 @@
         <item>Cuando el dispositivo esté bloqueado o 1 minuto después de salir de la aplicación</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
-        <item>"Uso de datos "</item>
+        <item>"Uso de datos móviles "</item>
         <item>"Uso de Wi-Fi "</item>
     </string-array>
     <string-array name="miui_optimization_close_intercept">
-        <item>Importante: Es posible que varias aplicaciones del sistema dejen de funcionar correctamente.</item>
+        <item>Importante: varias aplicaciones del sistema pueden dejar de funcionar correctamente.</item>
         <item>Es posible que los diseños de texto, las cuentas y el contenido no se muestren correctamente.</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
-        <item>Mostrar aviso</item>
+        <item>Mostrar advertencia</item>
         <item>Advertir y desactivar los datos móviles</item>
     </string-array>
     <string-array name="pc_settings_thermal_entries">
-        <item>Predeterminado</item>
-        <item>Priorizar el rendimiento</item>
+        <item>Por defecto</item>
+        <item>Priorizar rendimiento</item>
     </string-array>
     <string-array name="pc_settings_thermal_summaries">
-        <item>Usando el modo de control de temperatura predeterminado</item>
-        <item>Priorizando el rendimiento</item>
+        <item>Usando modo control de temperatura por defecto</item>
+        <item>Priorizando rendimiento</item>
     </string-array>
     <string-array name="perm_intercept_notification">
-        <item>Leer todas tus notificaciones, incluyendo el contenido de tus mensajes de texto y otros elementos que pudieran contener información personal</item>
-        <item>Restringir permisos de notificación a ciertas aplicaciones</item>
-        <item>Simular notificaciones táctiles y abrir aplicaciones</item>
-        <item>Activar y desactivar el modo No Molestar</item>
+        <item>Lea todas sus notificaciones, incluido el contenido de sus mensajes de texto y otros elementos que pueden contener información personal.</item>
+        <item>Restringir los permisos de notificaciones para algunas aplicaciones</item>
+        <item>Simule tocando las notificaciones y abriendo las aplicaciones</item>
+        <item>Active y desactive el modo no molestar</item>
     </string-array>
     <string-array name="perm_intercept_statitics">
-        <item>Recolectar datos sobre tus intereses y comportamiento aprendiendo qué aplicaciones usas y con qué frecuencia las usas</item>
-        <item>Acceder a los ajustes relacionados con tu operador y ajustes de idioma, así como otros detalles</item>
+        <item>Recopile datos sobre sus intereses y comportamientos aprendiendo qué aplicaciones usa y con qué frecuencia las usa.</item>
+        <item>Acceda a su configuración de idioma y relacionada con el operador, así como a otros detalles</item>
     </string-array>
     <string-array name="perm_intercept_unknown_source">
-        <item>"Las aplicaciones de terceros que no hayan sido verificadas podrían causar múltiples problemas y reducir la estabilidad del sistema."</item>
-        <item>Algunas aplicaciones de terceros pueden contener malware que pondría tus datos personales en peligro.</item>
+        <item>"Las aplicaciones de terceros que no son verificadas pueden causar múltiples problemas y disminuir la estabilidad del sistema."</item>
+        <item>Algunas aplicaciones de terceros pueden contener malware que pone en riesgo sus datos personales.</item>
     </string-array>
     <string-array name="priority_storage_entries">
         <item>Almacenamiento interno</item>
@@ -200,7 +200,7 @@
     </string-array>
     <string-array name="roaming_network_type">
         <item>Siempre</item>
-        <item>Solo para las excepciones</item>
+        <item>Sólo para las excepciones</item>
         <item>Nunca</item>
     </string-array>
     <string-array name="sms_report_type">
@@ -209,14 +209,14 @@
     </string-array>
     <string-array name="sort_title">
         <item>Ordenar por estado</item>
-        <item>Ordenar por nombre de app</item>
+        <item>Ordenar por nombre de aplicación</item>
         <item>Ordenar por frecuencia de uso</item>
         <item>Ordenar por almacenamiento usado</item>
         <item>Ordenar por fecha de instalación</item>
     </string-array>
     <string-array name="sort_type">
         <item>Estado</item>
-        <item>Nombre de la app</item>
+        <item>Nombre de la aplicación</item>
         <item>Frecuencia de uso</item>
         <item>Almacenamiento usado</item>
         <item>Hora de instalación</item>
@@ -228,16 +228,16 @@
     <string-array name="title_app_info">
         <item>Fuente de instalación</item>
         <item>Hora de instalación</item>
-        <item>Última fuente de actualización</item>
-        <item>Última hora de actualización</item>
+        <item>Fuente de la última actualización</item>
+        <item>Fecha de última actualización</item>
     </string-array>
     <string-array name="traffic_package_type">
         <item>Plan de datos mensual</item>
         <item>Plan de datos diario</item>
-        <item>Plan de datos ilimitado</item>
+        <item>Plan de datos ilimitados</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>"Uso de datos "</item>
+        <item>"Uso de datos móviles "</item>
         <item>"Uso de Wi-Fi "</item>
     </string-array>
 </resources>

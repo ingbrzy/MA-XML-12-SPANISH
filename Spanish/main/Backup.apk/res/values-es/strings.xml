@@ -644,6 +644,7 @@ para descargar e instalar Mi Mover."</string>
 Liberar espacio de almacenamiento o transferir solo elementos importantes."</string>
     <string name="trans_old_phone_low_space_msg">"Mi Mover necesita espacio de almacenamiento para almacenar los datos transferidos, pero parece que no hay espacio suficiente en el dispositivo antiguo. Libera espacio en \"Seguridad\" o transfiere solo elementos importantes."</string>
     <string name="trans_old_phone_low_space_title">No hay suficiente espacio de almacenamiento</string>
+    <string name="trans_one_key_migrate">Mi Mover</string>
     <string name="trans_open_camera_failed_message">Reinicia tu dispositivo o comprueba si Mi Mover puede acceder a &lt;b&gt;Cámara&lt;/b&gt;.</string>
     <string name="trans_open_camera_failed_title">"No se pudo conectar con la cámara"</string>
     <string name="trans_open_location_button">Activar</string>
@@ -756,8 +757,12 @@ pulse \"Soy un emisor\" y seleccione un punto de acceso para conectar.
 No cierre la página antes de establecer la conexión."</string>
     <string name="waiting">Un momento…</string>
     <string name="wifi_title">Ajustes de Wi-Fi</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">"No se pudo iniciar la descarga. Asegúrate de que el Administrador de Descargas funciona normalmente."</string>
     <string name="xiaomi_external_storage_unavailable">"Almacenamiento no disponible, comprueba tu tarjeta SD."</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
+    <string name="xiaomi_router">Mi Router</string>
     <string name="xiaomi_router_location">Router Mi %s</string>
     <string name="xiaomi_update_dialog_message">"Presentando la versión %1$s
 Tamaño:%2$s"</string>

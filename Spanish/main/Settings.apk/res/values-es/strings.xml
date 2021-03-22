@@ -542,7 +542,7 @@ El administrador puede supervisar y administrar los ajustes, el acceso, las apli
     <string name="app_and_notification_dashboard_summary">Aplicaciones recientes y aplicaciones predeterminadas</string>
     <string name="app_and_notification_dashboard_title">Aplicaciones y notificaciones</string>
     <string name="app_backup">Copia de seguridad</string>
-    <string name="app_bluetooth_device_blacklist">Lista de bloqueo de Bluetooth</string>
+    <string name="app_bluetooth_device_blacklist">Lista de bloqueos Bluetooth</string>
     <string name="app_cellular_data_usage">Uso de datos de las aplicaciones</string>
     <string name="app_default_dashboard_title">Aplicaciones predeterminadas</string>
     <string name="app_detail">Detalles</string>
@@ -1085,8 +1085,8 @@ Aplicaciones:
     <string name="bluetooth_device_advanced_profile_header_title">Usar para</string>
     <string name="bluetooth_device_advanced_rename_device">Cambiar nombre</string>
     <string name="bluetooth_device_advanced_title">Dispositivo Bluetooth sincronizado</string>
-    <string name="bluetooth_device_blacklist_summary">Administrar dispositivos Bluetooth bloqueados</string>
-    <string name="bluetooth_device_blacklist_tital">Lista de bloqueo de Bluetooth</string>
+    <string name="bluetooth_device_blacklist_summary">Gestiona los dispositivos Bluetooth bloqueados</string>
+    <string name="bluetooth_device_blacklist_tital">Lista de bloqueos Bluetooth</string>
     <string name="bluetooth_device_context_connect">Conectar</string>
     <string name="bluetooth_device_context_connect_advanced">Opciones…</string>
     <string name="bluetooth_device_context_disconnect">Desconectar</string>
@@ -1216,7 +1216,7 @@ Estas podrían ser las razones:
     <string name="bluetooth_pairing_rejected_error_message">Vinculación rechazada por %1$s.</string>
     <string name="bluetooth_pairing_request">¿Vincular con %1$s?</string>
     <string name="bluetooth_pairing_shares_phonebook">Permitir acceso a tus contactos y al historial de llamadas</string>
-    <string name="bluetooth_pairing_toast_add_to_blackfile">Bloqueado con éxito. Puede administrar los elementos bloqueados en \"Configuración adicional\".</string>
+    <string name="bluetooth_pairing_toast_add_to_blackfile">Bloqueado con éxito. Puedes administrar los elementos bloqueados en \"Ajustes adicionales\".</string>
     <string name="bluetooth_pairing_will_share_phonebook">Vincular da acceso a tus contactos y al historial de llamadas cuando están conectados.</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Compartiendo conexión local con dispositivo</string>
     <string name="bluetooth_pan_profile_summary_use_for">Usado para acceder a internet</string>
@@ -1299,7 +1299,7 @@ Selección"</string>
     <string name="bluetooth_select_a2dp_codec_type_help_info">En gris significa que no es compatible con el teléfono o auriculares</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Seleccionar versión Bluetooth AVRCP</string>
     <string name="bluetooth_select_avrcp_version_string">Versión Bluetooth AVRCP</string>
-    <string name="bluetooth_select_map_version_dialog_title">Seleccione la versión de Bluetooth MAP</string>
+    <string name="bluetooth_select_map_version_dialog_title">Seleccionar versión Bluetooth MAP</string>
     <string name="bluetooth_select_map_version_string">Versión Bluetooth MAP</string>
     <string name="bluetooth_settings">Bluetooth</string>
     <string name="bluetooth_settings_summary">Administrar conexiones, establecer el nombre del dispositivo y la visibilidad</string>
@@ -1696,6 +1696,8 @@ El cambio afectará a otras aplicaciones y conversaciones que pueden mostrarse c
     <string name="codec_low_latency_summary">Minimizar latencia durante la sincronización de audio y vídeo de juegos</string>
     <string name="codec_low_latency_title">Latencia baja</string>
     <string name="codec_low_latency_video_summary">Proporciona una experiencia de audio de baja latencia para juegos y videos, lo que hace que la sincronización de sonido e imagen sea más natural.</string>
+    <string name="codec_low_latency_zmi_summary">Reduce el retraso de audio y mejora los efectos de sonido de los juegos automáticamente</string>
+    <string name="codec_low_latency_zmi_title">Baja latencia para juegos</string>
     <string name="color_black">Negro</string>
     <string name="color_blue">Azul</string>
     <string name="color_calibration_none">Este dispositivo</string>
@@ -2552,14 +2554,14 @@ Si el problema persiste, desinstala la aplicación para mejorar el rendimiento d
     <string name="doze_summary">Cuando la pantalla está apagada, se activa si hay notificaciones nuevas</string>
     <string name="doze_title">Activar pantalla si hay notificaciones</string>
     <string name="dpp_before_share_summary">¿Compartir la red Wi-Fi \"%1$s\" con otra persona?</string>
-    <string name="dpp_cannot_connect_target">"No se puede conectar a la red de destino"</string>
+    <string name="dpp_cannot_connect_target">"No se puede conectar a la red deseada"</string>
     <string name="dpp_connect_success">Conectado con éxito</string>
-    <string name="dpp_not_support">"No puedo compartir esta red"</string>
-    <string name="dpp_qr_code_summary">Pídale a la otra persona que escanee este código QR usando el escáner en su configuración de Wi-Fi</string>
+    <string name="dpp_not_support">"No se puede compartir esta red"</string>
+    <string name="dpp_qr_code_summary">Conéctate a una red Wi-Fi escaneando este código QR.</string>
     <string name="dpp_qrcode_generator_summary">Escanea este código QR con un dispositivo que soporte Easy Connect</string>
-    <string name="dpp_scanner_summary">Coloque el código QR dentro del marco</string>
+    <string name="dpp_scanner_summary">Coloca el código QR dentro del recuadro</string>
     <string name="dpp_shared_fail">"No se pudo compartir Wi-Fi"</string>
-    <string name="dpp_shared_success">Wi-Fi compartido con éxito</string>
+    <string name="dpp_shared_success">WI-Fi compartido con éxito</string>
     <string name="dpp_sharing_wifi_summary">Compartiendo Wi-Fi…</string>
     <string name="dpp_theme_title">Wi-Fi compartido</string>
     <string name="draw_overlay">Mostrar sobre otras apps</string>
@@ -2825,7 +2827,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="face_data_manage_unlock_title">Desbloquear con datos faciales</string>
     <string name="face_data_siggesstion_next">Siguiente</string>
     <string name="face_data_siggesstion_next_time">Siguiente (%ds)</string>
-    <string name="face_data_suggesstion_first">El desbloqueo facial es menos seguro que un PIN, una contraseña o un patrón. Su dispositivo puede ser desbloqueado con su foto, así como por personas u objetos con una apariencia similar.</string>
+    <string name="face_data_suggesstion_first">Problema de seguridad: El reconocimiento facial es menos seguro que un código PIN, contraseña o patrón. Tu dispositivo puede ser desbloqueado con tu foto u otras personas y objetos con un parecido similar.</string>
     <string name="face_data_suggesstion_second">"Asegúrate de tener toda la cara descubierta y visible. También debería estar bien iluminada."</string>
     <string name="face_intro_error_max">Has añadido el número máximo de caras</string>
     <string name="face_intro_error_unknown">No se pueden añadir más caras</string>
@@ -2916,7 +2918,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="fingerprint_apply_to_privacy_password_scenarios">La contraseña de Protección de la privacidad protege tus mensajes, fotos, archivos, notas y aplicaciones.</string>
     <string name="fingerprint_delete_message">¿Quieres eliminar esta huella digital?</string>
     <string name="fingerprint_delete_title">"Quitar \"%1$s\""</string>
-    <string name="fingerprint_double_tap">Senseor de huellas de doble toque</string>
+    <string name="fingerprint_double_tap">Toca dos veces el sensor de huella dactilar</string>
     <string name="fingerprint_enable_keyguard_toggle_title">bloqueo de pantalla</string>
     <string name="fingerprint_enroll_button_add">Añadir otra</string>
     <string name="fingerprint_enroll_button_next">Siguiente</string>
@@ -3476,7 +3478,7 @@ Abra Nube de Xiaomi y restaure elementos desde allí."</string>
     <string name="instruction_title">Información de seguridad importante</string>
     <string name="insufficient_storage">No hay suficiente espacio de almacenamiento.</string>
     <string name="intelligence_suppression_summary">Ajuste de manera dinámica el tamaño del área cerca de los bordes donde se ignorará según su agarre las pulsaciones accidentales</string>
-    <string name="intelligence_suppression_title">Auto (Recommended)</string>
+    <string name="intelligence_suppression_title">Automático (Recomendado)</string>
     <string name="intent_sender_account_label">Cuenta:</string>
     <string name="intent_sender_action_label">Action:</string>
     <string name="intent_sender_data_label">Datos:</string>
@@ -5733,8 +5735,8 @@ Reinicia el dispositivo y vuelve a intentarlo."</string>
     <string name="resetting_second_space_passwd">Restableciendo la contraseña del Segundo espacio</string>
     <string name="resident_timezone_summary">Segundo reloj</string>
     <string name="resolution_fhd_summary" formatted="false">%d×%d (ahorra batería)</string>
-    <string name="resolution_qhd_summary" formatted="false">%d×%d (agrega claridad)</string>
-    <string name="resolution_sub_title">MIUI puede cerrar las aplicaciones que se ejecutan en segundo plano mientras cambia la resolución</string>
+    <string name="resolution_qhd_summary" formatted="false">%d×%d (añade claridad)</string>
+    <string name="resolution_sub_title">MIUI podría cerrar las aplicaciones que se ejecutan en segundo plano mientras cambias la resolución</string>
     <string name="resolver_settings_label">Ordenar</string>
     <string name="restore_default_apn">Restaurando la configuración de APN predeterminada</string>
     <string name="restore_default_apn_completed">Se ha restablecido la configuración predeterminada de APN.</string>
@@ -5834,8 +5836,8 @@ Este ajuste afecta a todos los usuarios de este teléfono."</string>
     <string name="rx_wifi_speed">Velocidad de enlace de recepción</string>
     <string name="safety_and_regulatory_info">Manual de seguridad y normativas</string>
     <string name="save">Guardar</string>
-    <string name="save_battery_mode">Ahorre batería con WQHD +</string>
-    <string name="save_battery_mode_summary">Cambie la resolución automáticamente para ahorrar energía</string>
+    <string name="save_battery_mode">Ahorra batería con WQHD+</string>
+    <string name="save_battery_mode_summary">Cambia la resolución automáticamente para ahorrar energía</string>
     <string name="saved_network">Guardado por %1$s</string>
     <string name="saved_wifi">Gestionar redes guardadas</string>
     <string name="saved_wifi_delete">Eliminar</string>
@@ -5858,27 +5860,27 @@ Este ajuste afecta a todos los usuarios de este teléfono."</string>
     <string name="screen_dark_mode_smart_dark_title">Modo oscuro general</string>
     <string name="screen_dark_mode_time_title">Programar Modo oscuro</string>
     <string name="screen_effect">Esquema de colores</string>
-    <string name="screen_enhance_engine_ai_note">%d. Esta característica aumenta ligeramente el consumo de energía.</string>
+    <string name="screen_enhance_engine_ai_note">%d. Esta función aumenta ligeramente el consumo de energía.</string>
     <string name="screen_enhance_engine_ai_note_2">%d. Solo se pueden mejorar las imágenes de la aplicación Galería.</string>
-    <string name="screen_enhance_engine_ai_note_3">"%d. Esta función no funcionará si elige mostrar los colores originales o aplicar ajustes avanzados."</string>
+    <string name="screen_enhance_engine_ai_note_3">"%d. Esta función no funcionará si eliges mostrar los colores originales o aplicar ajustes avanzados."</string>
     <string name="screen_enhance_engine_ai_open">Mejorar imágenes</string>
-    <string name="screen_enhance_engine_ai_pic_summary">"Identifica objetos (por ejemplo, plantas, animales, edificios) y ajusta dinámicamente los efectos de visualización. Esta característica aumenta ligeramente el consumo de energía."</string>
+    <string name="screen_enhance_engine_ai_pic_summary">"Identifica objetos (por ejemplo, plantas, animales, edificios) y ajusta dinámicamente los efectos de visualización. "</string>
     <string name="screen_enhance_engine_ai_title">Mejora de imagen IA</string>
-    <string name="screen_enhance_engine_memc_note">"No se pueden mejorar los videos cuando la súper resolución está activada. Al activar los videos mejorados, desactivará la súper resolución."</string>
+    <string name="screen_enhance_engine_memc_note">"No se puede mejorar los vídeos cuando la superresolución está activada. Al activar los vídeos mejorados, desactivarás la superresolución."</string>
     <string name="screen_enhance_engine_memc_note_1">%d. Esta característica aumenta ligeramente el consumo de energía.</string>
     <string name="screen_enhance_engine_memc_note_2">%d. Esta función solo funciona cuando la caja de herramientas de video está activada.</string>
     <string name="screen_enhance_engine_memc_open">MEMC</string>
     <string name="screen_enhance_engine_memc_pic_summary">"Añade fotogramas adicionales a los vídeos para que el contenido parezca fluido y las transiciones sean rápidas."</string>
     <string name="screen_enhance_engine_memc_title">MEMC</string>
     <string name="screen_enhance_engine_s2h_open">Mejora IA HDR</string>
-    <string name="screen_enhance_engine_s2h_pic_summary">"Procesa vídeos usando efectos HDR para resaltar más detalles en las áreas más claras y más oscuras y hacer que los colores sean más vibrantes. Esta función es compatible con aplicaciones seleccionadas."</string>
+    <string name="screen_enhance_engine_s2h_pic_summary">"Procesa vídeos con efectos HDR para resaltar más detalles en las áreas más claras y más oscuras. "</string>
     <string name="screen_enhance_engine_s2h_title">Mejora IA HDR</string>
     <string name="screen_enhance_engine_sr_for_pic">Mejorar imágenes</string>
     <string name="screen_enhance_engine_sr_for_video">Mejorar vídeos</string>
-    <string name="screen_enhance_engine_sr_for_video_note">"La súper resolución no funciona con videos mejorados. Al activar la súper resolución, desactivará los videos mejorados."</string>
-    <string name="screen_enhance_engine_sr_note">Esta característica aumenta ligeramente el consumo de energía.</string>
-    <string name="screen_enhance_engine_sr_pic_summary">"Mejora la resolución de imágenes o vídeos hasta 1440p. Esta función es compatible con aplicaciones seleccionadas y aumenta ligeramente el consumo de energía."</string>
-    <string name="screen_enhance_engine_sr_pic_summary_video_only">"Mejora la resolución de los videos. "</string>
+    <string name="screen_enhance_engine_sr_for_video_note">"La superresolución no funciona con vídeos mejorados. Al activar la superresolución, desactivarás los vídeos mejorados."</string>
+    <string name="screen_enhance_engine_sr_note">Esta función aumenta ligeramente el consumo de energía.</string>
+    <string name="screen_enhance_engine_sr_pic_summary">"Reescala la resolución de las imágenes y vídeos. "</string>
+    <string name="screen_enhance_engine_sr_pic_summary_video_only">"Reescala la resolución de los vídeos. "</string>
     <string name="screen_enhance_engine_sr_title">Súper resolución</string>
     <string name="screen_enhance_engine_title">Motor de imágenes IA</string>
     <string name="screen_enhance_status_disable">Desactivado</string>
@@ -7320,8 +7322,8 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="traffic_none">Nada</string>
     <string name="transition_animation_scale_title">Nivel de animación de las transiciones</string>
     <string name="trigger_carrier_provisioning">Activar servicios del operador</string>
-    <string name="truetone_summary">Ajusta los colores a la luz ambiental</string>
-    <string name="truetone_title">Colores adaptables</string>
+    <string name="truetone_summary">Ajustar los colores a la luz ambiental</string>
+    <string name="truetone_title">Colores adaptativos</string>
     <string name="trust_lost_locks_screen_summary">Si se habilita esta opción, el dispositivo se bloqueará cuando el último agente de confianza pierda la confianza</string>
     <string name="trust_lost_locks_screen_title">Bloquear pantalla si no hay confianza</string>
     <string name="trusted_credentials">Credenciales de confianza</string>
@@ -8130,7 +8132,7 @@ Revisa la política de privacidad de tu proveedor de servicios."</string>
     <string name="wifi_assistant_auto_confirm_data_message">"Usar redes de datos móviles cuando tu dispositivo no pueda conectarse a internet mediante Wi-Fi."</string>
     <string name="wifi_assistant_confirm_always">"No mostrar de nuevo"</string>
     <string name="wifi_assistant_confirm_connection_title">"Seleccionar las mejores redes automáticamente"</string>
-    <string name="wifi_assistant_data_prompt">Atención</string>
+    <string name="wifi_assistant_data_prompt">Mostrar advertencia de uso de datos</string>
     <string name="wifi_assistant_data_prompt_summary">Mostrar alerta de uso de datos al cambiar a datos móviles</string>
     <string name="wifi_assistant_description">"Así es como funciona esta función:
 1. Cuando la conexión Wi-Fi es deficiente, tu dispositivo intentará conectarse a otras redes Wi-Fi disponibles automáticamente.
@@ -8383,12 +8385,13 @@ Configurar la red como oculta no cambiará la configuración del router."</strin
     <string name="wifi_link_turbo_customize">Aplicaciones personalizadas</string>
     <string name="wifi_link_turbo_customize_summary">Seleccionar aplicaciones que funcionarán con el asistente Wi-Fi de acuerdo a tus preferencias</string>
     <string name="wifi_link_turbo_list">Aplicaciones</string>
+    <string name="wifi_link_turbo_mode">Modo de aumento de velocidad</string>
     <string name="wifi_link_turbo_no_app">No hay aplicaciones todavía.</string>
     <string name="wifi_link_turbo_off">Desactivar</string>
     <string name="wifi_link_turbo_on">Activar</string>
     <string name="wifi_link_turbo_recommendation">Aplicaciones recomendadas</string>
     <string name="wifi_link_turbo_recommendation_summary">Recibir recomendaciones basadas en las estadísticas de uso de datos</string>
-    <string name="wifi_link_turbo_summary">Aumentar la velocidad de conexión para las aplicaciones seleccionadas usando datos móviles cuando la conexión Wi-Fi es pobre</string>
+    <string name="wifi_link_turbo_summary">Utilice datos móviles para aumentar la velocidad de conexión. El uso de esta función puede generar tarifas de operador adicionales.</string>
     <string name="wifi_menu_advanced">Avanzado</string>
     <string name="wifi_menu_configure">Configurar</string>
     <string name="wifi_menu_connect">Conectarse a la red</string>

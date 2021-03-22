@@ -85,11 +85,11 @@
         <item>Excede el índice</item>
     </string-array>
     <string-array name="hot_city">
-        <item>Pekín</item>
-        <item>Shanghái</item>
+        <item>Beijing</item>
+        <item>Shanghai</item>
         <item>Hong Kong</item>
-        <item>la ciudad de Taipei</item>
-        <item>Yakarta</item>
+        <item>Taipei City</item>
+        <item>Jakarta</item>
         <item>Delhi</item>
         <item>Bombay</item>
         <item>Moscú</item>
@@ -117,11 +117,11 @@
         <item>Despejado</item>
         <item>Nublado</item>
         <item>Cubierto</item>
-        <item>Niebla</item>
+        <item>Con niebla</item>
         <item>Lluvia torrencial</item>
         <item>Chaparrón</item>
         <item>Aguacero</item>
-        <item>Tormenta</item>
+        <item>Tormenta eléctrica</item>
         <item>Lluvia</item>
         <item>Lluvia intensa</item>
         <item>Lluvia moderada</item>
@@ -132,12 +132,12 @@
         <item>Nieve intensa</item>
         <item>Nieve moderada</item>
         <item>Nieve ligera</item>
-        <item>Tormenta de arena fuerte</item>
+        <item>Fuerte tormenta de arena</item>
         <item>Tormenta de arena</item>
         <item>Tormenta de arena</item>
         <item>Ventoso</item>
         <item>Granizo</item>
-        <item>Calina</item>
+        <item>Polvo</item>
         <item>Neblina</item>
         <item>Aguanieve</item>
         <item></item>
@@ -153,11 +153,11 @@
         <item>Noroeste</item>
     </string-array>
     <string-array name="wind_direction_simple">
-        <item>norte</item>
-        <item>nordeste</item>
+        <item>N</item>
+        <item>NE</item>
         <item>E</item>
         <item>SE</item>
-        <item>D</item>
+        <item>S</item>
         <item>SO</item>
         <item>O</item>
         <item>NO</item>
@@ -171,8 +171,8 @@
     </string-array>
     <string-array name="wind_unit_replace">
         <item>Fuerza %1$s</item>
-        <item>%1$skm / h</item>
-        <item>%1$sm / s</item>
+        <item>%1$skm/h</item>
+        <item>%1$sm/s</item>
         <item>%1$smph</item>
         <item>%1$skn</item>
     </string-array>

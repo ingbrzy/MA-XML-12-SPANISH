@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="activity_convert_pdf_alert_message">La conversión de archivos es proporcionada por WPS Office</string>
-    <string name="activity_convert_pdf_alert_title">Convirtiendo archivos antes de imprimir…</string>
-    <string name="activity_jump_market_alert_install_message">"Instale WPS Office para convertir este archivo y prepararlo para imprimir. Deberá comenzar a imprimir nuevamente una vez que se complete la instalación. ¿Instalar ahora?"</string>
+    <string name="activity_convert_pdf_alert_title">Convirtiendo archivo antes de imprimirlo…</string>
+    <string name="activity_jump_market_alert_install_message">"Instala WPS Office para convertir este archivo y prepararlo para imprimir. Deberás comenzar a imprimir nuevamente una vez que se complete la instalación. ¿Instalar ahora?"</string>
     <string name="activity_jump_market_alert_install_positive_button">Instalar</string>
     <string name="activity_jump_market_alert_title">Atención</string>
-    <string name="activity_jump_market_alert_update_message">"Actualice WPS Office para convertir este archivo y prepárelo para imprimir. Deberá comenzar a imprimir nuevamente después de instalar la nueva versión. ¿Actualizar ahora?"</string>
+    <string name="activity_jump_market_alert_update_message">"Actualiza WPS Office para convertir este archivo y prepáralo para imprimir. Deberás empezar a imprimir nuevamente después de instalar la nueva versión. ¿Actualizar ahora?"</string>
     <string name="activity_jump_market_alert_update_positive_button">Actualizar</string>
     <string name="add_print_service_label">Añadir servicio</string>
     <string name="all_printers">Todas las impresoras…</string>
@@ -15,7 +15,7 @@
     <string name="app_label">Cola de impresión</string>
     <string name="blocked_notification_title_template">La impresora ha bloqueado %1$s</string>
     <string name="button_delete">Eliminar</string>
-    <string name="button_ok">Aceptar</string>
+    <string name="button_ok">OK</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_print">Cancelar tarea</string>
     <string name="cancelling_notification_title_template">Cancelando %1$s</string>
@@ -23,8 +23,8 @@
     <string name="collapse_handle">Controlador para contraer</string>
     <string name="connectio_delay_content">Podrías necesitar confirmar la conexión de tu impresora.</string>
     <string name="connectio_help_title">Conectando a una impresora</string>
-    <string name="copies_decrease">Menos una copia</string>
-    <string name="copies_increase">Más una copia</string>
+    <string name="copies_decrease">Quitar una copia</string>
+    <string name="copies_increase">Añadir una copia</string>
     <string name="could_not_create_file">No se ha podido crear el archivo</string>
     <string name="delete_saved_printer_content">¿Eliminar ahora las impresoras seleccionadas?</string>
     <string name="destination_default_text">Elige una impresora</string>
@@ -42,9 +42,9 @@
     <string name="label_copies_summary">Copias:</string>
     <string name="label_destination">Destino</string>
     <string name="label_duplex">Dos caras</string>
-    <string name="label_orientation">Orientación</string>
+    <string name="label_orientation">Diseño</string>
     <string name="label_pages">Páginas</string>
-    <string name="label_paper_size">Tamaño del papel</string>
+    <string name="label_paper_size">Papel</string>
     <string name="label_paper_size_summary">Tamaño del papel:</string>
     <string name="more_options_button">Más opciones</string>
     <string name="no_connection_to_printer">No hay conexión con la impresora</string>
@@ -54,7 +54,7 @@
     <string name="open_print_service">Habilitar impresión</string>
     <string name="open_print_service_tips">Para usar esta función, primero habilite la impresión en Ajustes.</string>
     <string name="open_wlan">Activar Wi-Fi</string>
-    <string name="open_wlan_tips">Activar Wi-Fi para encontrar impresoras</string>
+    <string name="open_wlan_tips">Activar Wi-Fi para encontrar las impresoras</string>
     <string name="other_printer">Otras impresoras</string>
     <string name="page_description_template">Página %1$d de %2$d</string>
     <string name="pages_range_example">p. ej.: 1-5, 8, 11-13</string>
@@ -71,7 +71,7 @@
     <string name="print_fail_network_error">"No se pudo imprimir. Comprueba los ajustes de red y vuelve a intentarlo."</string>
     <string name="print_forget_printer">Olvidar impresora</string>
     <string name="print_help_label">Ayuda</string>
-    <string name="print_help_tip">Asegúrese de que tanto la impresora como su teléfono estén conectados a la misma red Wi-Fi o que Wi-Fi Direct esté encendido. %1$s.</string>
+    <string name="print_help_tip">Asegúrate de que tu la impresora y tu teléfono están conectados a la misma red Wi-Fi o que Wi-Fi Direct está activado. %1$s.</string>
     <string name="print_help_tip_reg">Ver \"Ayuda\"</string>
     <string name="print_no_print_services">No hay servicios de impresión habilitados</string>
     <string name="print_no_printers">No se encontraron impresoras</string>
@@ -118,5 +118,5 @@
     <string name="template_page_range">Intervalo de %1$s</string>
     <string name="wifi_direct">Wi-Fi Direct</string>
     <string name="wps_convert_error_toast_text">"No se pudo convertir el archivo debido a un error de formato"</string>
-    <string name="wps_convert_too_large_and_wait_toast_text">La conversión puede llevar más tiempo debido al tamaño de archivo más grande. Convirtiendo…</string>
+    <string name="wps_convert_too_large_and_wait_toast_text">La conversión podría llevar más tiempo debido a un tamaño de archivo más grande. Convirtiendo…</string>
 </resources>

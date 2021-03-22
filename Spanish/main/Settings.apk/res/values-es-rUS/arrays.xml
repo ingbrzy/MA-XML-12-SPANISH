@@ -1451,6 +1451,14 @@ Nota: solo para Ubuntu 8.04"</item>
         <item>DHCP</item>
         <item>Estático</item>
     </string-array>
+    <string-array name="wifi_link_turbo_mode_entries">
+        <item>Auxiliar</item>
+        <item>Completo</item>
+    </string-array>
+    <string-array name="wifi_link_turbo_mode_summary_entries">
+        <item>Aumente la velocidad utilizando datos móviles solo cuando la señal de Wi-Fi sea deficiente</item>
+        <item>Combine Wi-Fi y datos móviles para aumentar la velocidad de conexión</item>
+    </string-array>
     <string-array name="wifi_metered_entries">
         <item>Detectar automáticamente</item>
         <item>Tratar como red de uso medido</item>

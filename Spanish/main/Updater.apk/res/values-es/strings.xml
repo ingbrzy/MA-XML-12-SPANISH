@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Actualizador</string>
+    <string name="app_name">Actualizar</string>
     <string name="battery_islow"><font color="#f37981">Conecta el cargador</font></string>
     <string name="battery_islow_desc">El nivel de la batería es demasiado bajo para instalar el archivo zip de forma segura, conecta el cargador y vuelve a intentarlo más tarde.</string>
     <string name="btn_changelog">Registro de cambios</string>
@@ -35,9 +35,9 @@
     <string name="install_desc">El dispositivo se reiniciará al modo Recovery e instalará el archivo: %1$s\"
 Los datos no serán borrados.\"</string>
     <string name="install_title">¿Estás seguro de querer continuar?</string>
-    <string name="menu_title_current_version_log">¿Qué hay nuevo?</string>
-    <string name="menu_title_pick_rom_file">Elegir el paquete de actualización</string>
-    <string name="menu_title_recovery">Reiniciar al modo Recovery</string>
+    <string name="menu_title_current_version_log">Novedades</string>
+    <string name="menu_title_pick_rom_file">Selecciona paquete de actualización</string>
+    <string name="menu_title_recovery">Reiniciar en Modo de recuperación</string>
     <string name="message_checkbox">Ocultar futuros mensajes del equipo de Xiaomi.eu</string>
     <string name="message_checkbox_device">No mostrar de nuevo</string>
     <string name="message_title">¡NOTA!</string>

@@ -45,8 +45,8 @@
         <item quantity="one">%d elemento</item>
     </plurals>
     <plurals name="confirm_delete_cloud_records">
-        <item quantity="other">¿Eliminar %d registros de la nube?</item>
-        <item quantity="one">¿Eliminar %d registro de la nube?</item>
+        <item quantity="other">¿Eliminar %d grabaciones de la nube?</item>
+        <item quantity="one">¿Eliminar %d grabación de la nube?</item>
     </plurals>
     <plurals name="confirm_delete_records">
         <item quantity="other">¿Eliminar %d grabaciones?</item>
@@ -97,7 +97,7 @@
         <item quantity="one">%d grabación descargada</item>
     </plurals>
     <plurals name="recovery_failed_dialog_message">
-        <item quantity="other">"No se pudieron restaurar %d elementos debido a un error desconocido."</item>
+        <item quantity="other">"No se pudo restaurar %d elementos debido a un error desconocido."</item>
         <item quantity="one">"No se pudo restaurar %d elemento debido a un error desconocido."</item>
     </plurals>
     <plurals name="search_alll_records_hint">
@@ -109,7 +109,7 @@
         <item quantity="one">Buscar entre %d grabación</item>
     </plurals>
     <plurals name="search_call_records_hint">
-        <item quantity="other">Buscar entre %d grabaciones de llamadas</item>
+        <item quantity="other">Buscar entre %d grabaciones de llamada</item>
         <item quantity="one">Buscar entre %d grabación de llamada</item>
     </plurals>
     <plurals name="search_result">
@@ -121,12 +121,12 @@
         <item quantity="one">%d día restante</item>
     </plurals>
     <plurals name="trash_box_delete_items">
-        <item quantity="other">¿Eliminar %d grabaciones seleccionadas de forma permanente?</item>
-        <item quantity="one">¿Eliminar %d grabaciones seleccionadas de forma permanente?</item>
+        <item quantity="other">¿Eliminar permanentemente %d grabaciones?</item>
+        <item quantity="one">¿Eliminar permanentemente %d grabación?</item>
     </plurals>
     <plurals name="trash_box_tip">
-        <item quantity="other">Los elementos eliminados se pueden almacenar en la papelera hasta por %d días</item>
-        <item quantity="one">Los elementos eliminados se pueden almacenar en la papelera hasta por %d días</item>
+        <item quantity="other">Los elementos eliminados pueden ser almacenados en la basura durante hasta %d días</item>
+        <item quantity="one">Los elementos eliminados pueden ser almacenados en la basura durante hasta %d día</item>
     </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">%d no sincronizadas</item>

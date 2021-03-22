@@ -1216,7 +1216,7 @@ Estas podrían ser las razones:
     <string name="bluetooth_pairing_rejected_error_message">Vinculación rechazada por %1$s.</string>
     <string name="bluetooth_pairing_request">¿Vincular con %1$s?</string>
     <string name="bluetooth_pairing_shares_phonebook">Permitir el acceso a tus contactos y al historial de llamadas</string>
-    <string name="bluetooth_pairing_toast_add_to_blackfile">Bloqueado con éxito. Puede administrar los elementos bloqueados en \"Configuración adicional\".</string>
+    <string name="bluetooth_pairing_toast_add_to_blackfile">Bloqueado con éxito. Puede administrar los elementos bloqueados en \"Ajustes adicionales\".</string>
     <string name="bluetooth_pairing_will_share_phonebook">Al vincular permite el acceso a su historial de llamadas y contactos mientras está conectado.</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Compartiendo conexión</string>
     <string name="bluetooth_pan_profile_summary_use_for">Usado para acceso a internet</string>
@@ -1299,7 +1299,7 @@ Selección"</string>
     <string name="bluetooth_select_a2dp_codec_type_help_info">En gris significa que no es compatible con el teléfono o audífonos</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Seleccionar versión Bluetooth AVRCP</string>
     <string name="bluetooth_select_avrcp_version_string">Versión Bluetooth AVRCP</string>
-    <string name="bluetooth_select_map_version_dialog_title">Seleccione la versión de Bluetooth MAP</string>
+    <string name="bluetooth_select_map_version_dialog_title">Seleccionar versión Bluetooth MAP</string>
     <string name="bluetooth_select_map_version_string">Versión Bluetooth MAP</string>
     <string name="bluetooth_settings">Bluetooth</string>
     <string name="bluetooth_settings_summary">Administrar conexiones, establecer nombre y detección del dispositivo</string>
@@ -1696,6 +1696,8 @@ Esto afecta otras apps o conversaciones que pueden crear burbujas."</string>
     <string name="codec_low_latency_summary">Minimizar latencia durante la sincronización de audio y vídeo de juegos</string>
     <string name="codec_low_latency_title">Latencia baja</string>
     <string name="codec_low_latency_video_summary">Proporciona una experiencia de audio de baja latencia para juegos y videos, lo que hace que la sincronización de sonido e imagen sea más natural.</string>
+    <string name="codec_low_latency_zmi_summary">Reduce el retraso de audio y mejora los efectos de sonido de los juegos automáticamente</string>
+    <string name="codec_low_latency_zmi_title">Baja latencia para juegos</string>
     <string name="color_black">Negro</string>
     <string name="color_blue">Azul</string>
     <string name="color_calibration_none">Este dispositivo</string>
@@ -2554,12 +2556,12 @@ Si el problema persiste, es posible que debas desinstalar la app para mejorar el
     <string name="dpp_before_share_summary">¿Compartir la red Wi-Fi \"%1$s\" con otra persona?</string>
     <string name="dpp_cannot_connect_target">"No se puede conectar a la red de destino"</string>
     <string name="dpp_connect_success">Conectado con éxito</string>
-    <string name="dpp_not_support">"No puedo compartir esta red"</string>
-    <string name="dpp_qr_code_summary">Pídale a la otra persona que escanee este código QR usando el escáner en su configuración de Wi-Fi</string>
+    <string name="dpp_not_support">"Esta red no se puede compartir"</string>
+    <string name="dpp_qr_code_summary">Conéctese a una red Wi-Fi escaneando este código QR.</string>
     <string name="dpp_qrcode_generator_summary">Escanee este código QR con un dispositivo que soporte Easy Connect</string>
-    <string name="dpp_scanner_summary">Coloque el código QR dentro del marco</string>
+    <string name="dpp_scanner_summary">Coloque el código QR adentro del recuadro</string>
     <string name="dpp_shared_fail">"No se pudo compartir Wi-Fi"</string>
-    <string name="dpp_shared_success">Wi-Fi compartido con éxito</string>
+    <string name="dpp_shared_success">WI-Fi compartido con éxito</string>
     <string name="dpp_sharing_wifi_summary">Compartiendo Wi-Fi…</string>
     <string name="dpp_theme_title">Wi-Fi compartido</string>
     <string name="draw_overlay">Mostrar sobre otras apps</string>
@@ -2592,7 +2594,7 @@ Si el problema persiste, es posible que debas desinstalar la app para mejorar el
     <string name="dual_wifi_switching_prompt">Cambiando entre redes</string>
     <string name="dual_wifi_switching_summary">El aumento de velocidad de Wi-Fi de doble banda debe usar dos bandas de Wi-Fi diferentes. Si se conecta a una red principal diferente, se perderá la conexión auxiliar.</string>
     <string name="dump_log">Obtener registros relacionados al problema</string>
-    <string name="dump_log_summary">"Esta función está diseñada para generar el registro 284 en la versión Beta de MIUI. Úselo con precaución. 
+    <string name="dump_log_summary">"Esta función está diseñada para generar el %s en la versión Beta de MIUI. Úselo con precaución.
 Puede ver los registros generados en el Administrador de archivos."</string>
     <string name="dump_log_title">Acerca de esta función</string>
     <string name="easymode_hint">Toque para desactivar el Modo lite</string>
@@ -2825,7 +2827,7 @@ Para obtener más información, comunícate con el administrador de tu organizac
     <string name="face_data_manage_unlock_title">Desbloquear usando datos faciales</string>
     <string name="face_data_siggesstion_next">Siguiente</string>
     <string name="face_data_siggesstion_next_time">Siguiente (%d s)</string>
-    <string name="face_data_suggesstion_first">El desbloqueo facial es menos seguro que un PIN, una contraseña o un patrón. Su dispositivo puede ser desbloqueado con su foto, así como por personas u objetos con una apariencia similar.</string>
+    <string name="face_data_suggesstion_first">Problemas de seguridad: el reconocimiento facial es menos seguro que un PIN, contraseña o patrón. Su dispositivo podría ser desbloqueado con una foto, así como por personas u objetos con apariencia similar.</string>
     <string name="face_data_suggesstion_second">"Asegúrese de no tener cubierta ninguna parte de su cara y que es completamente visible. Su cara debe estar bien iluminada."</string>
     <string name="face_intro_error_max">Agregaste la cantidad máxima permitida de rostros</string>
     <string name="face_intro_error_unknown">No se pueden agregar más rostros</string>
@@ -2916,7 +2918,7 @@ Para obtener más información, comunícate con el administrador de tu organizac
     <string name="fingerprint_apply_to_privacy_password_scenarios">La contraseña de protección de privacidad protege sus mensajes, fotos, archivos, notas y aplicaciones.</string>
     <string name="fingerprint_delete_message">¿Quieres borrar esta huella digital?</string>
     <string name="fingerprint_delete_title">"Quitar \"%1$s\""</string>
-    <string name="fingerprint_double_tap">Senseor de huellas de doble toque</string>
+    <string name="fingerprint_double_tap">Toque dos veces el sensor de huella dactilar</string>
     <string name="fingerprint_enable_keyguard_toggle_title">bloqueo de pantalla</string>
     <string name="fingerprint_enroll_button_add">Agregar otra huella digital</string>
     <string name="fingerprint_enroll_button_next">Siguiente</string>
@@ -3476,7 +3478,7 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="instruction_title">Información importante de seguridad</string>
     <string name="insufficient_storage">No hay suficiente espacio de almacenamiento.</string>
     <string name="intelligence_suppression_summary">Ajuste de manera dinámica el tamaño del área cerca de los bordes donde se ignorará según su agarre las pulsaciones accidentales</string>
-    <string name="intelligence_suppression_title">Auto (Recommended)</string>
+    <string name="intelligence_suppression_title">Auto (Recomendado)</string>
     <string name="intent_sender_account_label">Cuenta:</string>
     <string name="intent_sender_action_label">Action:</string>
     <string name="intent_sender_data_label">Datos:</string>
@@ -4595,7 +4597,7 @@ Seleccione su sistema operativo:"</string>
     <string name="mtrl_chip_close_icon_content_description">Eliminar %1$s</string>
     <string name="mtrl_picker_cancel">Cancelar</string>
     <string name="mtrl_picker_confirm">Guardar</string>
-    <string name="mtrl_picker_date_format">dd MMM aaaa</string>
+    <string name="mtrl_picker_date_format">dd MMM yyyy</string>
     <string name="mtrl_picker_header_prompt">Seleccione una fecha</string>
     <string name="mtrl_picker_range_header_prompt">Elija un rango de fechas</string>
     <string name="muffled_text">Las frecuencias bajas acentúan suavemente las transiciones visuales y hacen que los gestos se sientan más naturales</string>
@@ -5678,7 +5680,7 @@ Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="remove_managed_profile_label">Eliminar perfil de trabajo</string>
     <string name="repeat">Repetir</string>
     <string name="repeat_call">Notificar llamadas repetidas</string>
-    <string name="repeat_call_info">Permitir sonido para llamadas repetidas en un lapso de 15 minutos en modo silencio</string>
+    <string name="repeat_call_info">Suena o vibra mientras recibe la segunda llamada del mismo número de teléfono en %d minutos</string>
     <string name="repeat_days_in_week">Repetir</string>
     <string name="repeat_never">Nunca</string>
     <string name="repeat_title">Repetir</string>
@@ -5836,7 +5838,7 @@ Esa configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="rx_wifi_speed">Velocidad enlace de recepción</string>
     <string name="safety_and_regulatory_info">Manual sobre reglamentación y seguridad</string>
     <string name="save">Guardar</string>
-    <string name="save_battery_mode">Ahorre batería con WQHD +</string>
+    <string name="save_battery_mode">Ahorre batería con WQHD+</string>
     <string name="save_battery_mode_summary">Cambie la resolución automáticamente para ahorrar energía</string>
     <string name="saved_network">Guardado por %1$s</string>
     <string name="saved_wifi">Administrar redes guardadas</string>
@@ -5860,7 +5862,7 @@ Esa configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="screen_dark_mode_smart_dark_title">Modo oscuro general</string>
     <string name="screen_dark_mode_time_title">Programar Modo oscuro</string>
     <string name="screen_effect">Paleta de colores</string>
-    <string name="screen_enhance_engine_ai_note">Para asegurarse de que su experiencia de visualización sea natural, esta función no funcionará si la imagen consta de colores primarios o contiene ajustes avanzados.</string>
+    <string name="screen_enhance_engine_ai_note">%d. Esta función aumenta ligeramente el consumo de energía.</string>
     <string name="screen_enhance_engine_ai_note_2">%d. Solo se pueden mejorar las imágenes de la aplicación Galería.</string>
     <string name="screen_enhance_engine_ai_note_3">"%d. Esta función no funcionará si elige mostrar los colores originales o aplicar ajustes avanzados."</string>
     <string name="screen_enhance_engine_ai_open">Mejorar imágenes</string>
@@ -5878,9 +5880,9 @@ Esa configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="screen_enhance_engine_sr_for_pic">Mejorar imágenes</string>
     <string name="screen_enhance_engine_sr_for_video">Mejorar videos</string>
     <string name="screen_enhance_engine_sr_for_video_note">"La súper resolución no funciona con videos mejorados. Al activar la súper resolución, desactivará los videos mejorados."</string>
-    <string name="screen_enhance_engine_sr_note">Esta característica aumenta ligeramente el consumo de energía.</string>
-    <string name="screen_enhance_engine_sr_pic_summary">"Mejora la resolución de imágenes o videos hasta 1440p. Esta función es compatible con aplicaciones seleccionadas y aumenta ligeramente el consumo de energía."</string>
-    <string name="screen_enhance_engine_sr_pic_summary_video_only">"Mejora la resolución de los videos. "</string>
+    <string name="screen_enhance_engine_sr_note">Esta función aumenta ligeramente el consumo de energía.</string>
+    <string name="screen_enhance_engine_sr_pic_summary">"Mejore la resolución de imágenes y videos. "</string>
+    <string name="screen_enhance_engine_sr_pic_summary_video_only">"Mejore la resolución de videos. "</string>
     <string name="screen_enhance_engine_sr_title">Súper resolución</string>
     <string name="screen_enhance_engine_title">Motor de imágenes AI</string>
     <string name="screen_enhance_status_disable">Desactivado</string>
@@ -7323,8 +7325,8 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
     <string name="traffic_none">Ninguno</string>
     <string name="transition_animation_scale_title">Escala de transición de animación</string>
     <string name="trigger_carrier_provisioning">Activar aprovisionamiento del proveedor</string>
-    <string name="truetone_summary">Ajusta los colores a la luz ambiental</string>
-    <string name="truetone_title">Colores adaptables</string>
+    <string name="truetone_summary">Ajustar los colores a la luz ambiental</string>
+    <string name="truetone_title">Colores adaptativos</string>
     <string name="trust_lost_locks_screen_summary">Si habilitas la opción, el dispositivo se bloqueará cuando el último agente de confianza pierda este privilegio</string>
     <string name="trust_lost_locks_screen_title">Bloquear pantalla al perder confianza</string>
     <string name="trusted_credentials">Credenciales de confianza</string>
@@ -8133,7 +8135,7 @@ Revisa su política de privacidad."</string>
     <string name="wifi_assistant_auto_confirm_data_message">"Usar redes de datos móviles cuando su dispositivo no pueda conectarse a Internet mediante Wi-Fi."</string>
     <string name="wifi_assistant_confirm_always">"No volver a mostrar"</string>
     <string name="wifi_assistant_confirm_connection_title">"Seleccionar las mejores redes automáticamente"</string>
-    <string name="wifi_assistant_data_prompt">Atención</string>
+    <string name="wifi_assistant_data_prompt">Mostrar advertencia de uso de datos</string>
     <string name="wifi_assistant_data_prompt_summary">Mostrar alerta de uso de datos al cambiar a datos móviles</string>
     <string name="wifi_assistant_description">"Así es como funciona esta función:
 1. Cuando la conexión Wi-Fi es deficiente, su dispositivo intentará conectarse a otras redes Wi-Fi disponibles automáticamente.
@@ -8386,12 +8388,13 @@ Si configuras la red para que esté oculta, no se modificarán los ajustes del r
     <string name="wifi_link_turbo_customize">Aplicaciones personalizadas</string>
     <string name="wifi_link_turbo_customize_summary">Seleccionar aplicaciones que funcionarán con el asistente Wi-Fi de acuerdo a sus preferencias</string>
     <string name="wifi_link_turbo_list">Aplicaciones</string>
+    <string name="wifi_link_turbo_mode">Modo de aumento de velocidad</string>
     <string name="wifi_link_turbo_no_app">No hay aplicaciones todavía.</string>
     <string name="wifi_link_turbo_off">Desactivado</string>
     <string name="wifi_link_turbo_on">Activado</string>
     <string name="wifi_link_turbo_recommendation">Aplicaciones recomendadas</string>
     <string name="wifi_link_turbo_recommendation_summary">Recibir recomendaciones basadas en las estadísticas de uso de datos</string>
-    <string name="wifi_link_turbo_summary">Aumentar la velocidad de conexión para las aplicaciones seleccionadas que usan datos móviles cuando la conexión Wi-Fi es débil</string>
+    <string name="wifi_link_turbo_summary">Utilice datos móviles para aumentar la velocidad de conexión. El uso de esta función puede generar tarifas de operador adicionales.</string>
     <string name="wifi_menu_advanced">Config. avanzada</string>
     <string name="wifi_menu_configure">Configurar</string>
     <string name="wifi_menu_connect">Conectar a la red</string>
