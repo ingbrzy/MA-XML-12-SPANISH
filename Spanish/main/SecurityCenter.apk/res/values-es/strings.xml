@@ -1509,6 +1509,7 @@ Debe entender que esta característica se proporciona únicamente para su refere
     <string name="gamebooster_network_dialog_title">"Algunas funciones no están disponibles"</string>
     <string name="gamebox_app_not_find">Instala la aplicación primero.</string>
     <string name="gamebox_browser_not_find">Instalar el Navegador Mi primero</string>
+    <string name="gamebox_collimator">Vista</string>
     <string name="gamebox_display_1">Ninguno</string>
     <string name="gamebox_display_2">Saturado</string>
     <string name="gamebox_display_3">Brillante</string>
@@ -1537,6 +1538,7 @@ Debe entender que esta característica se proporciona únicamente para su refere
     <string name="gamebox_qq_not_find">Instala QQ y vuelve a intentarlo.</string>
     <string name="gamebox_recent_task_expand_fail">"Las aplicaciones que funcionan con accesos directos no están instaladas"</string>
     <string name="gamebox_simcard">Cambiar tarjetas SIM</string>
+    <string name="gamebox_time">Temporizador</string>
     <string name="gamebox_type_close">"No mostrar"</string>
     <string name="gamebox_type_float">Acceso directo arreglado</string>
     <string name="gamebox_type_gesture">Desliza para mostrar</string>
@@ -1587,6 +1589,10 @@ Debe entender que esta característica se proporciona únicamente para su refere
     <string name="gb_advance_settings_vibration_4d_summary2">Vibrar durante las muertes en el juego.</string>
     <string name="gb_audition_instruction">Mantén pulsado para grabar (%1$s-%2$ss)</string>
     <string name="gb_audition_play_instruction">Usa auriculares para un mejor efecto</string>
+    <string name="gb_collimator_color">Color</string>
+    <string name="gb_collimator_size">Tamaño</string>
+    <string name="gb_collimator_style">Tipo</string>
+    <string name="gb_collimator_toast">Una vista hace que apuntar sea mucho más conveniente</string>
     <string name="gb_create_icon_summary">Crear acceso directo en la Pantalla de inicio</string>
     <string name="gb_description_image_button_answer">Contestar</string>
     <string name="gb_description_image_button_reject">Rechazar</string>
@@ -1621,6 +1627,7 @@ Debe entender que esta característica se proporciona únicamente para su refere
     <string name="gb_game_macro_bubble_tips">Prueba combos</string>
     <string name="gb_game_macro_toast_tips">"¡Prueba combos!
 Grabe secuencias y utilícelas en cualquier momento!"</string>
+    <string name="gb_game_time_toast">¡El temporizador ya está disponible!</string>
     <string name="gb_game_video_bottom_tips">Mira las grabaciones de tus sesiones en la caja de juego. Los vídeos se almacenan ahí durante 7 días por defecto.</string>
     <string name="gb_game_video_item_tag">Momento clave</string>
     <string name="gb_game_video_page_delete_success">Eliminado con éxito</string>
@@ -1647,6 +1654,7 @@ Grabe secuencias y utilícelas en cualquier momento!"</string>
     <string name="gb_msg_transparent_dispaly_summary">Transparente</string>
     <string name="gb_network_status_bad">Ha ocurrido un error de conexión.</string>
     <string name="gb_new_feature">Nueva función</string>
+    <string name="gb_not_support_on_device">"Esta aplicación no se puede utilizar en la pantalla externa"</string>
     <string name="gb_operat_frequently">¡No tan rápido!</string>
     <string name="gb_shortcut_pref_title">Acceso directo en la Pantalla de inicio</string>
     <string name="gb_sign_gift">Regístrate para obtener recompensas</string>
@@ -4130,7 +4138,7 @@ Los datos restantes incluyen datos excedentes del mes anterior."</string>
     <string name="traffic_limit_error_alert_title">Recordatorio de límite de datos %s</string>
     <string name="traffic_limit_input">Límite de datos (obligatorio)</string>
     <string name="traffic_none">Ninguno</string>
-    <string name="traffic_over_purchase_link">"Has alcanzado el límite de uso de datos de tu plan.&lt;br/&gt;Si lo superas, tu operador podría cobrar gastos adicionales.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Toca para recargar.&lt;/U&gt;&lt;/font&gt;"</string>
+    <string name="traffic_over_purchase_link">"Ha alcanzado el límite de uso de datos de su plan móvil.&lt;br/&gt;Si excede el límite de uso de datos de su plan, su proveedor puede cobrarle tarifas adicionales.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Toque para recargar su saldo.&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="traffic_provider_no_sim">"Tarjeta SIM no instalada"</string>
     <string name="traffic_purchase_body">Toque para recargar su saldo.</string>
     <string name="traffic_setting_fragment_area">Ubicación</string>
@@ -4229,6 +4237,7 @@ Los datos restantes incluyen datos excedentes del mes anterior."</string>
     <string name="vb_quick_func_screen_record">Grabar</string>
     <string name="vb_quick_func_screening">Emitir</string>
     <string name="vb_settings">Ajustes</string>
+    <string name="vb_ve_settings_ai_stronger">AI</string>
     <string name="vb_ve_settings_display_style_tips">* Estos efectos se aplican a toda la pantalla</string>
     <string name="vb_ve_settings_pic_border_stronger">Mejora de contornos</string>
     <string name="vb_ve_settings_picture_stronger">Animaciones mejoradas</string>
@@ -4285,6 +4294,7 @@ Activar una de las funciones desactivará la otra."</string>
     <string name="virus_update_tips_title">Atención</string>
     <string name="virus_wait_network_dialog_message">"Su teléfono no está conectado a Wi-Fi ahora. ¿Usar la conexión de datos móviles?"</string>
     <string name="vtb_func_desc">Acerca de esta función</string>
+    <string name="vtb_func_display_style_desc0">La IA puede reconocer personas, animales, plantas, cielo, edificios y otros objetos que aparecen en videos y mejorarlos dinámicamente.</string>
     <string name="vtb_func_display_style_desc1">"Los efectos seleccionados no serán aplicados a los vídeos HDR en los dispositivos seleccionados."</string>
     <string name="vtb_func_display_style_desc2">"Estos efectos no pueden ser aplicados a las capturas de pantalla."</string>
     <string name="vtb_func_frc_desc0">El Suavizado de movimiento reduce el desenfoque y añade detalles a los objetos en movimiento. El uso de esta función aumenta el consumo de energía.</string>
