@@ -515,8 +515,10 @@
     <string name="welcome_app_title">¡Bienvenido a Tiempo!</string>
     <string name="wind_direction_no_data">Viento</string>
     <string name="wind_unit">%1$skm/h</string>
-    <string name="xiaomi_weather_description_content">"El Tiempo te provee de información precisa. Sin esta app, los widgets del Tiempo de la barra de estado y la pantalla de Inicio no funcionarán. Asegúrate de no necesitar estas funciones antes de desinstalar la aplicación."</string>
-    <string name="xiaomi_weather_description_title">Acerca de Tiempo</string>
+    <string name="xiaomi_weather_description_content">"Tiempo es una aplicación del sistema. No podrá ver la información meteorológica ni utilizar widgets relacionados después de desinstalar la aplicación."</string>
+    <string name="xiaomi_weather_description_content_remove">"Tiempo es una aplicación del sistema. No podrá ver la información meteorológica ni utilizar widgets relacionados después de eliminar el acceso directo de la pantalla de inicio."</string>
+    <string name="xiaomi_weather_description_title">Desinstalar \"Tiempo\"?</string>
+    <string name="xiaomi_weather_description_title_remove">¿Eliminar \"Tiempo\" de la pantalla de inicio?</string>
     <string name="yes_vote_ratio">A favor %1$s%%</string>
     <string name="yesterday">Ayer</string>
 </resources>
