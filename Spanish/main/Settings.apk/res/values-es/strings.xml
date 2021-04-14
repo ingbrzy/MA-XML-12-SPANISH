@@ -2930,6 +2930,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="fingerprint_and_password_entrance_title">Bloqueo de pantalla y huella dactilar</string>
     <string name="fingerprint_apply_to_privacy_password">Contraseña de protección de la privacidad</string>
     <string name="fingerprint_apply_to_privacy_password_scenarios">La contraseña de Protección de la privacidad protege tus mensajes, fotos, archivos, notas y aplicaciones.</string>
+    <string name="fingerprint_base_title">Huella digital %s</string>
     <string name="fingerprint_delete_message">¿Quieres eliminar esta huella digital?</string>
     <string name="fingerprint_delete_title">"Quitar \"%1$s\""</string>
     <string name="fingerprint_double_tap">Toca dos veces el sensor de huella dactilar</string>
@@ -2940,6 +2941,7 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="fingerprint_first_open_screen_password_tittle">Huella (establece primero contraseña de bloqueo de pantalla)</string>
     <string name="fingerprint_for_keyguard_disabled">Se desactivó la huella dactilar por razones de seguridad.</string>
     <string name="fingerprint_gesture_screen_title">Deslizar por sensor de huella digital</string>
+    <string name="fingerprint_gxzw_add_fingerprint_finish">Guardado como \"%s\"</string>
     <string name="fingerprint_identify_input_password_msg">Introducir contraseña</string>
     <string name="fingerprint_identify_msg">Leyendo huella…</string>
     <string name="fingerprint_identify_try_again_msg">"No se pudo leer la huella, inténtalo de nuevo"</string>
@@ -3296,6 +3298,22 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
     <string name="header_category_wireless_networks">Wi-Fi y redes</string>
     <string name="header_data_and_synchronization">Datos y sincronización</string>
     <string name="headset_connectiong">Conectando…</string>
+    <string name="headset_find_both">Ambos</string>
+    <string name="headset_find_cancel">Cancelar</string>
+    <string name="headset_find_connected">Conectado</string>
+    <string name="headset_find_disconnect">No conectado</string>
+    <string name="headset_find_handle_tip">Toque para reproducir la alarma</string>
+    <string name="headset_find_left">Izquierda</string>
+    <string name="headset_find_notify_connected">Conectado</string>
+    <string name="headset_find_notify_disconnect">Desconectado. Conéctese y vuelva a intentarlo.</string>
+    <string name="headset_find_play_warning">Parece que al menos uno de los auriculares está en tu oído. Hacer sonar la alarma ahora puede dañar su audición. Quítese los auriculares de los oídos antes de continuar.</string>
+    <string name="headset_find_playing">Reproduciendo…</string>
+    <string name="headset_find_query_play">Reproducir</string>
+    <string name="headset_find_right">Derecha</string>
+    <string name="headset_find_tip">Sus auriculares deben estar cerca y conectados a este dispositivo para que los encuentre. Hacer sonar la alarma mientras al menos uno de los auriculares está en su oído puede dañar su audición.</string>
+    <string name="headset_find_tip_title">Atención</string>
+    <string name="headset_find_title">Encuentre sus auriculares</string>
+    <string name="headset_find_voice_warning">Advertencia de volumen alto</string>
     <string name="headset_notification_switch_summary">Muestra el estado del widget en la barra de notificaciones cuando los auriculares están conectados</string>
     <string name="headset_notification_switch_title">Widget en la barra de notificaciones</string>
     <string name="headset_remove_message">Desvincular dispositivo?</string>
@@ -4289,9 +4307,12 @@ No podrás revertir esta acción."</string>
     <string name="miheadset_active">Energético</string>
     <string name="miheadset_adaptive">Adaptado</string>
     <string name="miheadset_ancClosed">Apagado</string>
+    <string name="miheadset_ancDepth">Profundo</string>
+    <string name="miheadset_ancEquilibrium">Equilibrado</string>
     <string name="miheadset_ancHigh">Avión</string>
     <string name="miheadset_ancLow">Oficina</string>
     <string name="miheadset_ancMedium">Diario</string>
+    <string name="miheadset_ancMild">Claro</string>
     <string name="miheadset_anc_indicate">Conectar y emparejar auriculares</string>
     <string name="miheadset_audio_mode">Calidad de audio</string>
     <string name="miheadset_audio_mode_high">Alto</string>
@@ -4325,8 +4346,10 @@ No podrás revertir esta acción."</string>
     <string name="miheadset_fitness_check_result_dialog1">Coloque los auriculares en ambos oídos antes de comenzar la prueba.</string>
     <string name="miheadset_fitness_check_result_dialog2">Finalice su llamada actual antes de comenzar la prueba.</string>
     <string name="miheadset_fitness_check_result_dialog_title">Atención</string>
+    <string name="miheadset_fitness_check_result_l_not_ok">Reajuste el auricular</string>
     <string name="miheadset_fitness_check_result_not_ok">Mal ajuste</string>
     <string name="miheadset_fitness_check_result_ok">Buen ajuste</string>
+    <string name="miheadset_fitness_check_result_r_not_ok">Reajuste el auricular</string>
     <string name="miheadset_fitness_check_result_summary1">¡Este ajuste funciona muy bien para ti!</string>
     <string name="miheadset_fitness_check_result_summary2">Ajuste o pruebe con unas almohadillas diferentes y vuelva a realizar la prueba.</string>
     <string name="miheadset_fitness_check_start">Iniciar</string>
@@ -4337,8 +4360,8 @@ No podrás revertir esta acción."</string>
     <string name="miheadset_game_mode">Modo de juego</string>
     <string name="miheadset_game_mode_summary">Reducir la demora de audio mientras juega</string>
     <string name="miheadset_ignore">Desvincular</string>
-    <string name="miheadset_in_ear_check">Detecta la presencia del oído</string>
-    <string name="miheadset_in_ear_check_summary">Pausar y reanudar la reproducción automáticamente mientras usa o se quita los auriculares</string>
+    <string name="miheadset_in_ear_check">Detección en el oído</string>
+    <string name="miheadset_in_ear_check_summary">"Pausar el audio cuando se quitan los auriculares y reanudar automáticamente cuando se vuelven a colocar"</string>
     <string name="miheadset_key_config_ANC_list_title">Control de ruido</string>
     <string name="miheadset_key_config_call_ai">Asistente de voz</string>
     <string name="miheadset_key_config_close">Desactivado</string>
@@ -7909,6 +7932,7 @@ Toca sobre el \"más\" para añadir palabras."</string>
     <string name="voice_search_settings_title">Búsqueda por voz</string>
     <string name="voice_service_preference_section_title">Servicios de entrada de voz</string>
     <string name="voicemail_number_not_set">&lt;No definido&gt;</string>
+    <string name="voip_assistant_settings">Asistente VoIP</string>
     <string name="volte_5G_limited_text">"También se desactivará tu conexión 5G.
 Durante las llamadas de voz, no podrás utilizar Internet y es posible que algunas aplicaciones no funcionen."</string>
     <string name="volte_5G_limited_title">¿Quieres desactivar VoLTE?</string>
@@ -8781,8 +8805,8 @@ Parece que los credenciales de almacenamiento no están habilitados."</string>
     <string name="xiaomi_cloud_service_disabled">Desactivado</string>
     <string name="xiaomi_cloud_service_unknown">Desconocido</string>
     <string name="xiaomi_custom_input_method">Personalizado para Xiaomi</string>
-    <string name="xiaomi_hp_location">permiten una ubicación de alta precisión</string>
-    <string name="xiaomi_hp_location_description">mejorar la precisión GNSS accediendo a la red de alta precisión</string>
+    <string name="xiaomi_hp_location">Acceso reciente a la ubicación</string>
+    <string name="xiaomi_hp_location_description">La información de ubicación precisa permite una navegación más exacta</string>
     <string name="xiaomi_money_service">Monedas Mi</string>
     <string name="xiaomi_router_available_notif_summary">Pulsa para obtener más información.</string>
     <string name="xiaomi_router_available_notif_title">Mi Router disponible</string>

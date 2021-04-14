@@ -530,6 +530,8 @@ Selección"</string>
     <string name="call_barring_sum">Configuración de restricción de llamadas de voz</string>
     <string name="call_category">Llamando</string>
     <string name="call_description_recording">Grabando…</string>
+    <string name="call_fold_setting">Plegado y desplegado</string>
+    <string name="call_fold_setting_title">Plegado y desplegado</string>
     <string name="call_forward_option">Desvío de llamadas</string>
     <string name="call_forwarding_number_hint">Desviar llamadas a</string>
     <string name="call_forwarding_settings">Desvío de llamadas</string>
@@ -1011,6 +1013,8 @@ Selección"</string>
     <string name="fiveg_upperlayer_indication1">Estado de indicación de la capa superior:</string>
     <string name="flash_when_ring_summary">Usar el flash para notificar sobre llamadas entrantes</string>
     <string name="flash_when_ring_title">Led parpadeante cuando suene llamada</string>
+    <string name="fold_answer_pref_summary">Plegar el dispositivo para aceptar una llamada entrante automáticamente</string>
+    <string name="fold_answer_pref_title">Plegar para aceptar llamadas</string>
     <string name="forbidden_network">(prohibido)</string>
     <string name="force_allow_on_external">Forzar permisos en almacenamiento externo</string>
     <string name="force_allow_on_external_summary">Cualquier app puede escribirse en un almacenamiento externo, sin importar los valores del manifiesto</string>
@@ -1020,6 +1024,8 @@ Selección"</string>
     <string name="force_resizable_activities_summary">Permitir que todas las actividades puedan cambiar de tamaño para el modo multiventana, sin importar los valores del manifiesto.</string>
     <string name="force_rtl_layout_all_locales">Forzar diseño der. a izq.</string>
     <string name="force_rtl_layout_all_locales_summary">Forzar diseño de pantalla de derecha a izquierda para todos los idiomas</string>
+    <string name="four_point_five_switch_summary">Utilice 4.5G para mejorar la velocidad de acceso a los datos y la calidad de la voz.</string>
+    <string name="four_point_five_switch_title">4.5G</string>
     <string name="frequecy_num">lte canal núm</string>
     <string name="fw_change_failed">"No se pudo cambiar el número de desvío.
 Si el problema continua, ponte en contacto con tu proveedor."</string>
@@ -2245,6 +2251,10 @@ El siguiente período comienza en %2$d días (%3$s)."</string>
     <string name="turnover_mute_summary">Si el teléfono está sobre una superficie horizontal y con la pantalla hacia arriba, colóquelo con la pantalla hacia abajo para silenciarlo, desactivar la vibración y apagar la luz de notificación.</string>
     <string name="turnover_mute_title">Girar para silenciar la llamada</string>
     <string name="undefined">Ninguno</string>
+    <string name="unfold_close_camera_pref_summary">Despliegue el dispositivo durante una videollamada para apagar la cámara</string>
+    <string name="unfold_close_camera_pref_title">Despliegue para apagar la cámara</string>
+    <string name="unfold_speaker_pref_summary">Despliegue el dispositivo durante una llamada para encender el altavoz</string>
+    <string name="unfold_speaker_pref_title">Despliegue para usar el altavoz</string>
     <string name="unknown">Desconocido</string>
     <string name="unlock_failed">Solicitud de desbloqueo de red incorrecta.</string>
     <string name="unlock_success">Desbloqueo de red correcto.</string>

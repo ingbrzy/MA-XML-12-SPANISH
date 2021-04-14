@@ -154,6 +154,10 @@
     <string name="blur_location_is_on_tip">%1$s usa su ubicación aproximada. ¿Seguir usándolo en lugar de la ubicación precisa?</string>
     <string name="blur_location_now_tip">Ubicación aproximada activada</string>
     <string name="blur_location_title">Ubicacion Aproximada</string>
+    <string name="cetus_invisible_mode_notice_audio">"Estás incógnito. No puedes usar el micrófono ahora."</string>
+    <string name="cetus_invisible_mode_notice_camera">"Estás incógnito. No puedes usar la cámara ahora."</string>
+    <string name="cetus_invisible_mode_notice_location">"Estás incógnito. No puedes usar los servicios de ubicación ahora."</string>
+    <string name="cetus_invisible_mode_notice_tip">Toque para desactivar el modo de incógnito en la configuración</string>
     <string name="clearable_edittext_clear_description">Limpiar</string>
     <string name="clipboard_ai_allow_once">Permitido %1$s para acceder a elementos en el portapapeles automáticamente</string>
     <string name="clipboard_data">"Contenido: "</string>
@@ -165,7 +169,6 @@
     <string name="clipboard_read_ai_deny_once">Acceso restringido al portapapeles para %1$s</string>
     <string name="clipboard_read_allow_once">%1$sacceder a elementos en el portapapeles</string>
     <string name="clipboard_read_deny_dialog_title">Acceso restringido al portapapeles para %1$s</string>
-    <string name="close">Cerrar</string>
     <string name="date_picker_lunar">Calendario Tradicional Chino</string>
     <string name="date_time_picker_dialog_title">Ajustar fecha y hora</string>
     <string name="default_permission_description">realizar acciones desconocidas</string>
@@ -324,7 +327,12 @@
     <string name="screen_overlay_message">Para cambiar este permiso, debe desactivar la superposición de pantalla en Configuración&gt; de aplicaciones.</string>
     <string name="screen_overlay_title">Superposición de pantalla detectada</string>
     <string name="search_menu_title">Buscar</string>
-    <string name="send">Enviar</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_tera_byte">TB</string>
     <string name="solar_term_autumn_begins">Comienzo del Otoño</string>
     <string name="solar_term_autumn_equinox">Equinocio de otoño</string>
     <string name="solar_term_clear_and_bright">Claro y brillante</string>

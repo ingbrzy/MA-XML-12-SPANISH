@@ -276,7 +276,7 @@ Envía este código al supervisor."</string>
     <string name="dialog_privacy_revoke_ok">Retirar</string>
     <string name="dialog_privacy_revoke_success">Se retiró con éxito</string>
     <string name="dialog_privacy_revoking">Retirar el consentimiento…</string>
-    <string name="dialog_privacy_title">Autorización</string>
+    <string name="dialog_privacy_title">Términos y condiciones</string>
     <string name="dialog_revoke_privacy_info_new2">Después de revocar la autorización, la aplicación dejará de recopilar datos y todos los datos relacionados se eliminarán de nuestros servidores. Esto podría hacer que la aplicación sea virtualmente inutilizable. ¿Revocar la autorización de todas formas?</string>
     <string name="dialog_revoke_privacy_title">Revocando autorización</string>
     <string name="disagree">"No estoy de acuerdo"</string>
@@ -1134,6 +1134,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="screenrecord_nosupport_record">"La Grabadora de pantalla no es compatible actualmente con este dispositivo."</string>
     <string name="search">Buscar</string>
     <string name="search_bar_hint">Buscar videos</string>
+    <string name="search_bar_video_download_hint">Buscar o ingresar URL</string>
     <string name="search_choose_language">Seleccionar idioma</string>
     <string name="search_choose_voice_language">Selecciona el idioma usado para la búsqueda por voz</string>
     <string name="search_hot_words">Popular</string>
@@ -1294,7 +1295,19 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="v_txt_login">Inicia sesión para sincronizar tus favoritos</string>
     <string name="v_update">Actualizar</string>
     <string name="video_already_download_tip">"Ya has descargado este elemento"</string>
+    <string name="video_download_btn">Descargar</string>
     <string name="video_download_fail">"No se pudo descargar el vídeo"</string>
+    <string name="video_download_fail_hint">"No se pudo descargar"</string>
+    <string name="video_download_floating_guide">Descarga videos gratis</string>
+    <string name="video_download_forbidden">"No se puede descargar de este sitio web"</string>
+    <string name="video_download_network_error">Error de red</string>
+    <string name="video_download_play_video_guide">Primero, reproduzca el video.</string>
+    <string name="video_download_play_video_guide2">Luego toque el botón para descargar.</string>
+    <string name="video_download_site_search">URL</string>
+    <string name="video_download_source">Descarga web</string>
+    <string name="video_download_start">Descargando…</string>
+    <string name="video_download_storage_error">No hay suficiente espacio de almacenamiento</string>
+    <string name="video_downloading">Descargando…</string>
     <string name="video_live_over">Esta sesión ha terminado</string>
     <string name="video_noyet_download_tip">Este vídeo todavía está siendo descargado</string>
     <string name="video_offline">Este elemento ya no está disponible</string>
