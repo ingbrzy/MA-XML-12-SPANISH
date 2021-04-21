@@ -42,6 +42,7 @@
     <string name="atrace_saving">Guardando registro de ATrace…</string>
     <string name="atrace_start">Grabando registro de ATrace…</string>
     <string name="base_info">Info básica</string>
+    <string name="checking_intranet">Comprobando la conexión con la intranet, por favor espere...</string>
     <string name="cloud_addr_info">Información de la nube</string>
     <string name="cloud_china_addr">Actualizar datos del servidor chino</string>
     <string name="cloud_international_addr">Actualizar datos de servidor internacional</string>
@@ -62,8 +63,10 @@
 El economizador de batería tratará de forma selectiva las aplicaciones importantes."</string>
     <string name="config_suggest_suffix_title">Ahorro de batería (recomendado)</string>
     <string name="confirm">OK</string>
+    <string name="connect_intranet_hint">Por favor, conéctese a la intranet</string>
     <string name="copy">Copiar</string>
     <string name="current_cloud_addr_is">La dirección del servidor de control en la nube es:</string>
+    <string name="delete_data_confirm">Confirmar para eliminar estos datos</string>
     <string name="empty_title_apps_container_list">Sin aplicaciones</string>
     <string name="enable_sleep_mode">Activa el Modo suspensión para optimizar el uso de la batería por las noches</string>
     <string name="error_filename_too_long">Nombre de archivo demasiado largo.</string>
@@ -86,6 +89,7 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
     <string name="high_temp_state_message">Tu dispositivo se está sobrecalentando. Datos móviles, puntos de acceso Wi-Fi, GPS y cámara serán restringidos.</string>
     <string name="hints_loading_text">Un momento…</string>
     <string name="important_warning">Atención</string>
+    <string name="insert_data">Insertar datos</string>
     <string name="lasttime_applist_cloud">Aplicaciones actualizadas:</string>
     <string name="lasttime_feature_cloud">Funciones actualizadas:</string>
     <string name="message_i_know">Entendido</string>
@@ -97,6 +101,7 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudo cargar los elementos"</string>
+    <string name="modify_data">Modificar datos</string>
     <string name="nonui_mode_config_description">"No encender la pantalla para las notificaciones, apagar la luz LED, el sensor de huellas dactilares y los controles táctiles para ahorrar batería cuando MIUI detecte que no estás usando tu dispositivo."</string>
     <string name="nonui_mode_config_title">Modo no interactivo</string>
     <string name="not_set">Sin definir</string>
@@ -132,6 +137,7 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
     <string name="pref_config_title">Optimización del Rendimiento</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="privacy">Política de Privacidad</string>
+    <string name="save_data">Guardar datos</string>
     <string name="scenario_policies_summary">Aplicar diferentes estrategias de ahorro de energía para las diferentes escenas.</string>
     <string name="scenario_policies_title">Escenas inteligentes</string>
     <string name="scenario_policies_warmcontrol">Control de temperatura</string>
@@ -147,6 +153,8 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
     <string name="sleepmode_privacy_link">Aprende más sobre privacidad y seguridad</string>
     <string name="sleepmode_privacy_title">Modo suspensión</string>
     <string name="sucess">Hecho</string>
+    <string name="thermal_cancel">NO</string>
+    <string name="thermal_confirm">SÍ</string>
     <string name="update_profile_failture_not_connect_wifi">"No se pudo actualizar. Conéctese a Wi-Fi y vuelva a intentarlo."</string>
     <string name="update_profile_sucess">Actualizado desde el servidor con éxito</string>
     <string name="v7_preference_off">DESACTIVADA</string>
