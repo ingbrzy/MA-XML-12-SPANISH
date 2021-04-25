@@ -2011,6 +2011,7 @@ Para reanudar el uso de tu dispositivo, debes restablecer los datos de fábrica.
     <string name="custom_color">Personalizar</string>
     <string name="custom_gesture_title">Gestos personalizados</string>
     <string name="custom_wifi_name_title">Editar nombre de red Wi-Fi</string>
+    <string name="customize_knock_gesture">Gestos de nudillos personalizados</string>
     <string name="cutout_mode_always">Siempre mostrar notch</string>
     <string name="cutout_mode_default">Automático</string>
     <string name="cutout_mode_settings_title">Algunas aplicaciones podrían mostrarse de manera incorrecta si personaliza la manera en que se muestra el notch.</string>
@@ -2556,6 +2557,7 @@ Si el problema persiste, es posible que debas desinstalar la app para mejorar el
     <string name="done_button">Listo</string>
     <string name="double_click_power_key">Tocar dos veces el botón de encendido</string>
     <string name="double_click_volume_down_when_lock">Presione dos veces para bajar el volumen cuando la pantalla esté bloqueada</string>
+    <string name="double_knock">Doble toque de nudillos</string>
     <string name="double_tap_power_for_camera_suggestion_title">Abre la cámara rápidamente</string>
     <string name="double_tap_power_for_camera_summary">Para abrir la cámara rápidamente, presiona dos veces el botón de encendido. Funciona desde cualquier pantalla.</string>
     <string name="double_tap_power_for_camera_title">Abrir cámara rápidamente</string>
@@ -3124,8 +3126,6 @@ Parecía no haber caballos ni animales de ningún tipo. Los hombres cargaban obj
     <string name="freeform_guide_notification_drop_down_summary">Mantenga presionado y luego deslice hacia abajo la barra de acción de una notificación</string>
     <string name="freeform_guide_notification_drop_down_title">Abrir una ventana flotante</string>
     <string name="freeform_guide_settings">Ventanas flotantes</string>
-    <string name="freeform_guide_slide_to_small_freeform_summary">Deslice el dedo desde la parte inferior de la pantalla hasta la esquina superior derecha de la pantalla</string>
-    <string name="freeform_guide_slide_to_small_freeform_title">Deslizándose a ventanas flotantes</string>
     <string name="freeform_guide_slide_up_to_close_summary">Deslice hacia arriba en la barra de acción de una ventana flotante</string>
     <string name="freeform_guide_slide_up_to_close_title">Cerrar ventanas flotantes</string>
     <string name="freeform_vedio_description">"· Mantenga presionado y luego deslice hacia abajo una notificación para abrirla en una ventana flotante.
@@ -3709,6 +3709,17 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="keywords_zen_mode_settings">no interrumpir, programar, notificaciones, bloquear, silenciar, vibrar, suspender, trabajar, enfocar, sonido, silencio, día, día de la semana, fin de semana, noche de la semana, evento</string>
     <string name="kid_space_settings">Espacio infantil</string>
     <string name="kilobyte_per_second">kB/s</string>
+    <string name="knock_edge_area_invalid">"Este gesto no funciona cerca de los bordes de la pantalla"</string>
+    <string name="knock_guide_dialog_title">Seleccione una acción para este gesto. Puede cambiarlo más tarde en Ajustes &gt; Ajustes adicionales &gt; Atajos de botón.</string>
+    <string name="knock_guide_drive_desc">Tome capturas de pantalla mientras conduce</string>
+    <string name="knock_guide_launch_desc">Active Mi AI cuando su teléfono esté sobre la mesa</string>
+    <string name="knock_guide_set_screenshot">Captura de pantalla</string>
+    <string name="knock_guide_set_voiceassist">Mi AI</string>
+    <string name="knock_guide_sub_title">Puede activar Mi AI o tomar capturas de pantalla tocando la pantalla con los nudillos</string>
+    <string name="knock_guide_title">Doble toque de nudillos</string>
+    <string name="knock_long_press_horizontal_slid">Presione y deslice horizontalmente con un nudillo</string>
+    <string name="knock_slide_shape">Dibuje un círculo con un nudillo</string>
+    <string name="knock_slide_v">Dibuje una V con un nudillo</string>
     <string name="label_available">Redes disponibles</string>
     <string name="label_mi_stats">Mi análisis</string>
     <string name="language_and_input_for_work_category_title">Teclados y herramientas del perfil de trabajo</string>
@@ -4337,8 +4348,6 @@ No podrá deshacer esta acción"</string>
     <string name="miheadset_double_click_key_mode">Doble toque</string>
     <string name="miheadset_double_click_left">Toca dos veces el auricular izquierdo</string>
     <string name="miheadset_double_click_right">Toque dos veces el auricular derecho</string>
-    <string name="miheadset_double_press_left">Presione dos veces el auricular izquierdo</string>
-    <string name="miheadset_double_press_right">Presione dos veces el auricular derecho</string>
     <string name="miheadset_enhanceVoice">Mejorar la voz</string>
     <string name="miheadset_enhence_high">Agudos mejorados</string>
     <string name="miheadset_enhence_low">Graves mejorados</string>
@@ -4400,8 +4409,6 @@ No podrá deshacer esta acción"</string>
     <string name="miheadset_transparent">Transparencia</string>
     <string name="miheadset_transparentMode">Transparencia</string>
     <string name="miheadset_triple_click_key_mode">Triple toque</string>
-    <string name="miheadset_triple_press_left">Presione tres veces el auricular izquierdo</string>
-    <string name="miheadset_triple_press_right">Presione tres veces el auricular derecho</string>
     <string name="miheadset_unpair_device_text">%1$s se desvinculará de todos los dispositivos asociados con esta Mi Cuenta.</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Archivos variados</string>
@@ -5834,7 +5841,7 @@ Reinicia el dispositivo y vuelve a intentarlo."</string>
     <string name="ringer_mode_setting_summary">Silenciar llamadas entrantes y notificaciones</string>
     <string name="ringer_mode_setting_title">Modo silencio</string>
     <string name="ringtone_slot_setting_title">Ajustes de SIM individual</string>
-    <string name="ringtone_title">Tono</string>
+    <string name="ringtone_title">Tono de llamada</string>
     <string name="ringtone_uniform_setting_title">Ajustes de SIM dual</string>
     <string name="ringtones_category_preference_title">Tonos</string>
     <string name="ringtones_install_custom_sound_content">Se copiará este archivo a la carpeta %s</string>
@@ -6038,7 +6045,6 @@ Para fijar una app, sigue estos pasos: \u0009
     <string name="screen_projection_sample_title">Demos</string>
     <string name="screen_projection_title">Emitir</string>
     <string name="screen_reader_category_title">Lectores de pantalla</string>
-    <string name="screen_recorder_title">Grabadora de pantalla</string>
     <string name="screen_resolution_dialog_title">Cambiar resolución</string>
     <string name="screen_resolution_high_format">Alta (%1$s)</string>
     <string name="screen_resolution_normal_format">Normal (%1$s)</string>

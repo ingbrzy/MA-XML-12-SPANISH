@@ -1258,8 +1258,6 @@ Las llamadas de emergencia solo son posibles en áreas con cobertura celular \"<
     <string name="message_decode_error">Se ha producido un error al decodificar el mensaje.</string>
     <string name="mhh_disable">Servicios médicos, sanitarios y hospitalarios inhabilitados</string>
     <string name="mhh_enable">Servicios médicos, sanitarios y hospitalarios habilitados</string>
-    <string name="mi_mobile_settings_summary">Planes de datos proporcionados por Xiaomi</string>
-    <string name="mi_mobile_settings_title">Mi Móvil</string>
     <string name="mi_mobile_sim_activate_message">Active SIM %d para poder usar Mi Mobile. Esto puede tardar hasta 5 minutos.</string>
     <string name="mi_mobile_sim_activate_ok">Activar</string>
     <string name="mi_mobile_sim_activate_title">¡Bienvenido a Mi Mobile!</string>
@@ -2060,6 +2058,10 @@ Interfaz UT: %5$s"</string>
     <string name="smart_forwarding_settings_menu_summary">"Cuando no se puede contactar con un número, las llamadas se desvían siempre a otro número"</string>
     <string name="sms_messages_title">SMS</string>
     <string name="smsc_dialog_message">"Asegúrese de que el número que ingrese sea correcto. De lo contrario, no podrá enviar ni recibir SMS. Contacte con su operador para confirmar su número SMSC."</string>
+    <string name="softap_beacon_protection">Habilitar la protección de baliza de SoftAp</string>
+    <string name="softap_beacon_protection_summary">Habilite la protección de baliza de SoftAp usando Hotspot</string>
+    <string name="softap_ocv">Habilitar SoftAp OCV</string>
+    <string name="softap_ocv_summary">Habilite SoftAp OCV usando Hotspot</string>
     <string name="speed_label_fast">Rápida</string>
     <string name="speed_label_medium">Media</string>
     <string name="speed_label_okay">Aceptable</string>
@@ -2459,6 +2461,8 @@ Si eliges preferir redes móviles, estas se usarán por defecto para hacer llama
     <string name="wifi_hand_sel_wapi_cert">Certificado WAPI</string>
     <string name="wifi_limited_connection">Conexión limitada</string>
     <string name="wifi_metered_label">Medida</string>
+    <string name="wifi_new_network_auto_connection">Puente SSID - Conexión automática</string>
+    <string name="wifi_new_network_auto_connection_summary">Habilite los intentos de conexión automática a un nuevo SSID WPA / WPA2 ‑ PSK de 5 GHz con las credenciales SSID WPA / WPA2 ‑ PSK de 2 GHz actualmente conectadas en la coincidencia parcial de SSID y BSSID</string>
     <string name="wifi_no_internet">No se ha detectado ningún acceso a Internet</string>
     <string name="wifi_no_internet_no_reconnect">"No se establecerá conexión automáticamente"</string>
     <string name="wifi_not_in_range">Fuera de rango</string>
@@ -2490,6 +2494,8 @@ Compruebe la validez de los certificados"</string>
 posible que el almacenamiento de credenciales no esté habilitado"</string>
     <string name="wifi_wapi_psk_type">Tipo de contraseña</string>
     <string name="wifi_wapi_user_certificate">Certificado de usuario</string>
+    <string name="wifi_whitelist_roaming">Puente SSID: transferencia rápida</string>
+    <string name="wifi_whitelist_roaming_summary">Habilite la itinerancia entre diferentes AP SSID WPA / WPA2 ‑ PSK con la misma dirección MAC de puerta de enlace</string>
     <string name="wificall_switch_summary">Utiliza Wi-Fi para realizar y recibir llamadas cuando sea posible</string>
     <string name="wificall_switch_title">Hacer llamadas usando Wi-Fi</string>
     <string name="wild_prompt_str">Reemplazar el carácter comodín por</string>
