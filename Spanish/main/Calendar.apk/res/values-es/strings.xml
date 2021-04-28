@@ -105,7 +105,9 @@
     <string name="birthday_term_chinese_calendar">"Cumpleaños de %1$s(Calendario Tradicional Chino)"</string>
     <string name="calendar_account_settings">Configuración de cuenta</string>
     <string name="calendar_import_source">Fuente</string>
+    <string name="calendar_privacy_policy">Política de privacidad</string>
     <string name="calendar_subscription_group_title">Suscripción de calendario</string>
+    <string name="calendar_user_agreement">Acuerdo de Usuario</string>
     <string name="can_not_create_long_event">El nombre del evento es demasiado largo</string>
     <string name="can_not_modify_allday_event">"No se puede modificar un evento de todo el día"</string>
     <string name="can_not_modify_event">"No se puede modificar el evento"</string>
@@ -133,6 +135,7 @@
     <string name="click_paste">Haga click para pegar</string>
     <string name="close_alarm">Desactivar</string>
     <string name="content_confirm_close_chinese_calendar">Todos tus eventos basados en el calendario tradicional chino se convertirán al calendario gregoriano después de desactivar esta función. Años y meses del calendario gregoriano se utilizarán para eventos repetidos.</string>
+    <string name="copy">Copiar</string>
     <string name="copy_email">Copiar dirección de correo electrónico</string>
     <string name="copy_number">Copiar número de teléfono</string>
     <string name="countdown_event_title">Cuenta atrás: %1$s</string>
@@ -249,6 +252,7 @@
     <string name="event_title">Título</string>
     <string name="event_view">Ver evento</string>
     <string name="every_weekday">De lunes a viernes</string>
+    <string name="expand_button_title">Avanzado</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
     <string name="festival_detail_title">Festival</string>
     <string name="flight_check_in">Registrarse</string>
@@ -355,10 +359,13 @@
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Borrar</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Buscar</string>
+    <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
+    <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado correctamente</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando...</string>
@@ -479,6 +486,7 @@ Compruebe los ajustes de red e inténtelo de nuevo."</string>
     <string name="no_visiable_calendar_select_account">Añadir cuenta</string>
     <string name="no_visiable_calendar_title">Añadir cuenta</string>
     <string name="noon">Mediodía</string>
+    <string name="not_set">Sin establecer</string>
     <string name="notification_channel_name">Recordatorios de calendario</string>
     <string name="notification_channel_name_no_sound">Recordatorios silenciados</string>
     <string name="notification_channel_name_no_vibration">Recordatorios sin vibración</string>
@@ -504,6 +512,7 @@ Compruebe los ajustes de red e inténtelo de nuevo."</string>
     <string name="pref_reminder_time">Hora del recordatorio</string>
     <string name="pref_title_alarm_remind">Recordatorios con alarma</string>
     <string name="pref_title_no_remind">No hay recordatorios</string>
+    <string name="preference_copied">\"%1$s\" copiado al portapapeles.</string>
     <string name="preferences_alarms_category_title">Recordatorios con alarma</string>
     <string name="preferences_alarms_default_event">Seleccionar eventos</string>
     <string name="preferences_alarms_sound">Sonido</string>
@@ -523,6 +532,7 @@ Compruebe los ajustes de red e inténtelo de nuevo."</string>
     <string name="preferences_use_home_tz_title">Usar zona horaria de casa</string>
     <string name="preferences_week_start_day_dialog">Inicio de la semana</string>
     <string name="preferences_week_start_day_title">Inicio de la semana</string>
+    <string name="prefsx_notify_sound_none">Silencio</string>
     <string name="premission_description_agree">Permitir a esta app conectarse a Internet y otorgar los permisos obligatorios listados arriba.</string>
     <string name="premission_description_calendar">Para agregar y mostrar sus eventos</string>
     <string name="premission_description_contact">Para mostrar los cumpleaños de tus contactos</string>
@@ -811,6 +821,8 @@ Compruebe los ajustes de red e inténtelo de nuevo."</string>
     <string name="user_notice_button_ok">Aceptar</string>
     <string name="user_notice_message">Al utilizar este producto, aceptas las %1$s y %2$s de Xiaomi. Algunas características requieren conexión a Internet, acceso a la ubicación, a los contactos y SMS para funcionar con normalidad.</string>
     <string name="user_notice_title">Atención</string>
+    <string name="v7_preference_off">APAGADO</string>
+    <string name="v7_preference_on">ENCENDIDO</string>
     <string name="view_event_calendar_label">Calendario:</string>
     <string name="view_event_organizer_label">Organizador:</string>
     <string name="view_event_response_label">¿Asistirás?</string>
