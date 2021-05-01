@@ -281,7 +281,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="backup_no_wifi_btn_text">Usar datos</string>
     <string name="backup_no_wifi_desc">Puede reanudar la sincronización mientras usa datos móviles</string>
     <string name="backup_no_wifi_title">La sincronización se reanudará después de que se conecte a una red Wi-Fi</string>
-    <string name="backup_only_in_wifi">Solo usar Wi‑Fi para sincronizar fotos y vídeos</string>
+    <string name="backup_only_in_wifi">Utilice únicamente Wi-Fi para sincronizar fotos y vídeos</string>
     <string name="backup_only_in_wifi_summary">Nunca usar datos móviles para sincronizar fotos o vídeos</string>
     <string name="backup_only_wifi_dialog_message">¿Utilizar datos móviles para sincronizar fotos y vídeos?</string>
     <string name="backup_pause">Pausar copia de seguridad</string>
@@ -450,6 +450,10 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="cloud_bacup_disable_processing">Procesando…</string>
     <string name="cloud_camera_display_name">Fotos de la cámara</string>
     <string name="cloud_cancel_authorizing_to_device">Cancelando autorización…</string>
+    <string name="cloud_full_space_tip_message">Actualiza tu plan de almacenamiento en la nube para poder sincronizar todas tus fotos y vídeos con la nube.</string>
+    <string name="cloud_full_space_tip_negative">Ahora no</string>
+    <string name="cloud_full_space_tip_positive">Actualizar</string>
+    <string name="cloud_full_space_tip_title">Almacenamiento en la nube insuficiente</string>
     <string name="cloud_guide_auto_backup_title">Elige álbumes para sincronizar</string>
     <string name="cloud_guide_login_title">Copiar fotos y vídeos automáticamente</string>
     <string name="cloud_guide_welcome_title">Xiaomi Cloud</string>
@@ -773,6 +777,7 @@ disponibles"</string>
     <string name="filter_category_texture">Canción rítmica</string>
     <string name="filter_category_travel">Viaje</string>
     <string name="filter_food_caramel">Caramelo</string>
+    <string name="filter_food_orangeflavor">Mandarina</string>
     <string name="filter_general_blackice">Hielo negro</string>
     <string name="filter_general_blackwhite">B/N</string>
     <string name="filter_general_delicious">Comida</string>
@@ -783,6 +788,7 @@ disponibles"</string>
     <string name="filter_general_lilt">Melodía</string>
     <string name="filter_general_movie">Cine</string>
     <string name="filter_general_nature">Naturaleza</string>
+    <string name="filter_general_past">Antaño</string>
     <string name="filter_general_pink">Rosa</string>
     <string name="filter_general_portrait">Retrato</string>
     <string name="filter_general_rise">Subida</string>
@@ -826,15 +832,18 @@ disponibles"</string>
     <string name="filter_popular_coldsmoke">Neblina fría</string>
     <string name="filter_popular_comic">Anime</string>
     <string name="filter_popular_dream">Ensueño</string>
+    <string name="filter_popular_gingertea">Jengibre</string>
     <string name="filter_popular_hill">Colinas</string>
     <string name="filter_popular_humanity">Documental</string>
     <string name="filter_popular_icesnow">Nevada</string>
     <string name="filter_popular_kamakura">Kamakura</string>
     <string name="filter_popular_lnk">Tinta</string>
+    <string name="filter_popular_mango">Mango</string>
     <string name="filter_popular_purple">Púrpura</string>
     <string name="filter_popular_shallow_summer">Junio</string>
     <string name="filter_popular_smokegreen">Salvia</string>
     <string name="filter_popular_watergreen">Esmeralda</string>
+    <string name="filter_popular_windchime">Carillón</string>
     <string name="filter_popular_wintersun">Pleno invierno</string>
     <string name="filter_portrait_greyish">Ceniza</string>
     <string name="filter_portrait_hint">Foco de color</string>
@@ -913,6 +922,7 @@ disponibles"</string>
     <string name="filter_sky_yunmeng">Fantasía</string>
     <string name="filter_sky_yunxu">Cirrus</string>
     <string name="filter_texture_shadow">Oscuridad</string>
+    <string name="filter_travel_charlotte">Charlotte</string>
     <string name="finish_create_baby_album_toast">Álbum creado para \"%s\" en Xiaomi Cloud</string>
     <string name="finish_fill_baby">Crear</string>
     <string name="first_time_add_video_to_secret_tips">Actualiza la Galería para poder añadir vídeos a un álbum privado</string>
@@ -1182,6 +1192,7 @@ para personalizar la Galería"</string>
     <string name="mi_mover_working_desc">Mi Mover está transfiriendo elementos…</string>
     <string name="micloud_introduce">Sincronizar fotos y vídeos automáticamente (se requiere Cuenta Mi)</string>
     <string name="midnight">AM</string>
+    <string name="mishare_all_devices">Todos los dispositivos</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -1761,7 +1772,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="search_backup_now">Activar</string>
     <string name="search_backup_sub_title">Activar para encontrar más imágenes</string>
     <string name="search_backup_title">Sincronar con la nube</string>
-    <string name="search_clear_histories">Limpiar</string>
+    <string name="search_clear_histories">Limpiar historial de búsqueda</string>
     <string name="search_connection_error">"No es posible conectarse a la red"</string>
     <string name="search_connection_error_and_set">Toca para revisar los ajustes de red</string>
     <string name="search_empty_title">Encuentra fotos con personas, lugares y objetos específicos en la Galería</string>
@@ -2016,6 +2027,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="sync_off_title">Activar sincronización con la nube para hacer copias de fotos y vídeos automáticamente</string>
     <string name="sync_pending_title">Se sincronizará automáticamente</string>
     <string name="sync_state_unknow">Obteniendo información</string>
+    <string name="synced_photo_video_count">Sincronizado %1$s y %2$s</string>
     <string name="synced_title">Fotos y vídeos copiados con éxito</string>
     <string name="syncing_gprs_title">Usando datos móviles para hacer copias de elementos</string>
     <string name="syncing_metadata_title">Sincronizando datos de Xiaomi Cloud</string>

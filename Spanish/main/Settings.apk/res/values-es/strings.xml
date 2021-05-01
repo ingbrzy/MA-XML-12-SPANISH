@@ -1183,9 +1183,9 @@ Estas podrían ser las razones:
     <string name="bluetooth_max_connected_audio_devices_dialog_title">Selecciona el número máximo de dispositivos de audio conectados por Bluetooth</string>
     <string name="bluetooth_max_connected_audio_devices_string">Máximo de dispositivos de audio conectados por Bluetooth</string>
     <string name="bluetooth_menu_advanced">Avanzado</string>
-    <string name="bluetooth_message_access_dialog_content">"Un dispositivo Bluetooth que no es de confianza, %1$s, quiere acceder a sus mensajes.
+    <string name="bluetooth_message_access_dialog_content">"Un dispositivo Bluetooth que no es de confianza, %1$s, desea acceder a sus mensajes.
 
-No se ha conectado a %2$s antes."</string>
+No te has conectado a %2$s antes."</string>
     <string name="bluetooth_message_access_dialog_title">¿Permitir el acceso a los mensajes?</string>
     <string name="bluetooth_message_access_notification_content">El dispositivo que no es de confianza quiere acceder a sus mensajes. Toque para obtener detalles.</string>
     <string name="bluetooth_message_move_out_of_blacklist">¿Desbloquear %1$s ahora?</string>
@@ -1232,9 +1232,9 @@ No se ha conectado a %2$s antes."</string>
     <string name="bluetooth_pan_user_profile_summary_connected">Conectado para acceder a Internet</string>
     <string name="bluetooth_pb_acceptance_dialog_text">%1$s quiere acceder a los contactos y al historial de llamadas. ¿Quieres conceder acceso a %2$s?</string>
     <string name="bluetooth_pb_remember_choice">No volver a preguntar</string>
-    <string name="bluetooth_phonebook_access_dialog_content">"Un dispositivo Bluetooth que no es de confianza, %1$s, desea acceder a sus contactos y al registro de llamadas. Esto incluye datos sobre llamadas entrantes y salientes.
+    <string name="bluetooth_phonebook_access_dialog_content">"Un dispositivo Bluetooth que no es de confianza, %1$s, desea acceder a sus contactos y registro de llamadas. Esto incluye datos sobre las llamadas entrantes y salientes.
 
-No se ha conectado a %2$s antes."</string>
+No te has conectado a %2$s antes."</string>
     <string name="bluetooth_phonebook_access_dialog_title">¿Permitir el acceso a los contactos y al registro de llamadas?</string>
     <string name="bluetooth_phonebook_access_notification_content">El dispositivo que no es de confianza desea acceder a sus contactos y al registro de llamadas. Toque para obtener detalles.</string>
     <string name="bluetooth_phonebook_request">Solicitud de acceso a agenda teléfonica</string>
@@ -2815,6 +2815,13 @@ Para obtener más información, ponte en contacto con el administrador de tu org
     <string name="exterior">Esquema de colores</string>
     <string name="external_code_size_label">En almacenamiento USB</string>
     <string name="external_data_size_label">Datos en USB</string>
+    <string name="external_ram_dialog_btn_cancel">Más tarde</string>
+    <string name="external_ram_dialog_btn_ok">Reiniciar</string>
+    <string name="external_ram_dialog_message">Reinicie el dispositivo para aplicar cambios.</string>
+    <string name="external_ram_dialog_title">Reiniciar el dispositivo</string>
+    <string name="external_ram_summary">"Agregue %1$s %2$s de RAM ocupando almacenamiento. Utilice esta función solo cuando haya suficiente espacio de almacenamiento disponible en el dispositivo."</string>
+    <string name="external_ram_title">Extensión de memoria</string>
+    <string name="external_ram_toast">"No se puede usar la extensión de memoria debido a la falta de espacio de almacenamiento"</string>
     <string name="external_source_switch_title">Autorizar descargas de esta fuente</string>
     <string name="external_source_trusted">Permitido</string>
     <string name="external_source_untrusted">No permitido</string>
@@ -3301,6 +3308,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
     <string name="header_category_system">Sistema</string>
     <string name="header_category_wireless_networks">Wi-Fi y redes</string>
     <string name="header_data_and_synchronization">Datos y sincronización</string>
+    <string name="headset_aptx-adapter">Qualcomm® aptX™ Adaptive</string>
     <string name="headset_connectiong">Conectando…</string>
     <string name="headset_find_both">Ambos</string>
     <string name="headset_find_cancel">Cancelar</string>
@@ -3712,16 +3720,15 @@ Abra Nube de Xiaomi y restaure elementos desde allí."</string>
     <string name="kid_space_settings">Espacio para niños</string>
     <string name="kilobyte_per_second">KB/s</string>
     <string name="knock_edge_area_invalid">"Este gesto no funciona cerca de los bordes de la pantalla"</string>
-    <string name="knock_guide_dialog_title">Seleccione una acción para este gesto. Puede cambiarlo más tarde en Ajustes &gt; Ajustes adicionales &gt; Atajos de botón.</string>
+    <string name="knock_guide_dialog_title">Seleccione una acción para este gesto. Puede cambiarlo más tarde en Configuración &gt; Configuración adicional &gt; Atajos de botón.</string>
     <string name="knock_guide_drive_desc">Tome capturas de pantalla mientras conduce</string>
     <string name="knock_guide_launch_desc">Active Mi AI cuando su teléfono esté sobre la mesa</string>
     <string name="knock_guide_set_screenshot">Captura de pantalla</string>
-    <string name="knock_guide_set_voiceassist">Mi AI</string>
     <string name="knock_guide_sub_title">Puede activar Mi AI o tomar capturas de pantalla tocando la pantalla con los nudillos</string>
     <string name="knock_guide_title">Doble toque de nudillos</string>
     <string name="knock_long_press_horizontal_slid">Presione y deslice horizontalmente con un nudillo</string>
-    <string name="knock_slide_shape">Dibuje un círculo con un nudillo</string>
-    <string name="knock_slide_v">Dibuje una V con un nudillo</string>
+    <string name="knock_slide_shape">Dibuja un círculo con un nudillo</string>
+    <string name="knock_slide_v">Dibuja V con un nudillo</string>
     <string name="label_available">Redes disponibles</string>
     <string name="label_mi_stats">Mi analytics</string>
     <string name="language_and_input_for_work_category_title">Perfiles de trabajo y herramientas</string>
@@ -4401,6 +4408,7 @@ No podrás revertir esta acción."</string>
     <string name="miheadset_moreSettingsInAi">Ajustes adicionales</string>
     <string name="miheadset_multi_connect_mode">Multipunto</string>
     <string name="miheadset_multi_connect_mode_summary">Conéctese a varios dispositivos al mismo tiempo</string>
+    <string name="miheadset_network_not_available">Verifique su configuración de red e intente nuevamente</string>
     <string name="miheadset_next">Siguiente pista</string>
     <string name="miheadset_ok_device">Aceptar</string>
     <string name="miheadset_openAnc">Supresión de ruido</string>
@@ -5258,6 +5266,8 @@ Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="permission_manage_title">%s permisos</string>
     <string name="permission_manager">Permisos</string>
     <string name="permission_mgr">Permisos</string>
+    <string name="permission_records">Uso de permisos</string>
+    <string name="permission_records_summary">Resumen de cómo las aplicaciones usan los permisos</string>
     <string name="permission_settings_summary">Administrar permisos relacionados con la ubicación, almacenamiento, mensajes y contactos.</string>
     <string name="permission_settings_title">Permisos de aplicaciones</string>
     <string name="permissions_label">Permisos</string>
