@@ -533,6 +533,7 @@ y ajustar las preferencias automáticamente"</string>
     <string name="custom_watermark_words_save_success">Guardado con éxito</string>
     <string name="date_picker_lunar">Calendario Chino Tradicional</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
+    <string name="dd_frn_f_t">Dobla tu dispositivo para usar la cámara frontal</string>
     <string name="dialog_button_accept">Aceptar</string>
     <string name="dialog_button_back">Atrás</string>
     <string name="dialog_button_cancel">Cancelar</string>
@@ -616,6 +617,7 @@ los documentos escaneados automáticamente"</string>
     <string name="eras_ad">DC</string>
     <string name="eras_bc">AC</string>
     <string name="error_fail_to_start_audio_capture">"No se pudo iniciar la captura por sonido"</string>
+    <string name="esp_tip">Vista previa de pantalla externa</string>
     <string name="evening">Tarde</string>
     <string name="expand_button_title">Opciones avanzadas</string>
     <string name="extend_time_watermark_2_logo_text">GRAN LUNA</string>
@@ -951,6 +953,7 @@ se vean más grandes en las fotos"</string>
     <string name="module_name_panorama">Panorámica</string>
     <string name="module_name_portrait">Retrato</string>
     <string name="module_name_professional">Pro</string>
+    <string name="module_name_scanner">Escáner</string>
     <string name="module_name_square">Cuadrado</string>
     <string name="module_name_super_moon">Superluna</string>
     <string name="module_name_video">Video</string>
@@ -1189,6 +1192,7 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="pref_camera_eis_entry_off">Desactivado</string>
     <string name="pref_camera_eis_entry_pro">Video constante PRO</string>
     <string name="pref_camera_eis_title">EIS</string>
+    <string name="pref_camera_esp">Vista previa de la pantalla trasera</string>
     <string name="pref_camera_exposuretime_entry_auto">AUTO</string>
     <string name="pref_camera_face_info_watermark_title">Agregar marca de edad en la foto</string>
     <string name="pref_camera_facedetection_auto_hidden_title">Ocultar el marco de detección de rostros automáticamente</string>
@@ -1349,6 +1353,8 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="pref_camera_tip_id_card">Escáner de identificación</string>
     <string name="pref_camera_touchafaec_entry_off">Desactivado</string>
     <string name="pref_camera_touchafaec_entry_on">Activado</string>
+    <string name="pref_camera_track_focus_preferred_description">"Actívelo para mantener el enfoque en personas y animales automáticamente. También podrá seleccionar sujetos para realizar un seguimiento manualmente."</string>
+    <string name="pref_camera_track_focus_preferred_title">Seguimiento de enfoque</string>
     <string name="pref_camera_ubifocus_title">Reenfocar</string>
     <string name="pref_camera_ultra_wide_ldc_description">Corrige la distorsión de objetos automáticamente</string>
     <string name="pref_camera_ultra_wide_ldc_title">Corregir distorsión en tomas ultra amplias</string>
@@ -1509,11 +1515,15 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="prek_b_j_o">Recrea el efecto envolvente estéreo</string>
     <string name="prek_b_j_p">Reducir el impacto del viento en la grabación de sonido</string>
     <string name="prep_video_ai_audio_new_desc_tip">Se mejoran los sonidos del sujeto enfocado</string>
+    <string name="prep_video_ai_audio_new_desc_tip_alone">Los sonidos del sujeto enfocado se mejoran en el modo paisaje</string>
     <string name="prep_video_ai_audio_single_desc_tip">Los sonidos de detrás de la pantalla se filtran</string>
+    <string name="prep_video_ai_audio_single_desc_tip_alone">Los sonidos de detrás de la pantalla se filtran en modo horizontal</string>
     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"El zoom de audio no funciona con el monitor interno en vivo y el micrófono externo"</string>
     <string name="preparing_sd">Comprobando tarjeta SD…</string>
     <string name="preview_back_pressed_hint">Vuelva a tocar para volver a la previsualización</string>
     <string name="pro_color_mode">Color pro</string>
+    <string name="process_tips_1">"No doble el dispositivo hasta que se guarde el video"</string>
+    <string name="process_tips_2">"No despliegue el dispositivo hasta que se guarde el video"</string>
     <string name="professional_shortcut_short">Pro</string>
     <string name="recommend_macro_mode">Pruebe el modo macro</string>
     <string name="recommend_portrait">Pruebe el modo retrato</string>
@@ -1540,6 +1550,9 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
+    <string name="scan_install_prompt_header">Instalar Escáner</string>
+    <string name="scan_install_prompt_loading">Instalando Escáner…</string>
+    <string name="scan_install_prompt_message">Instale Escáner y vuelva a intentarlo.</string>
     <string name="screen_on_proximity_sensor_hint">Para desactivar esta función presione los botones de subir volumen y Atrás al mismo tiempo.</string>
     <string name="screen_on_proximity_sensor_summary">"No cubrir la zona del auricular"</string>
     <string name="search_menu_title">Buscar</string>

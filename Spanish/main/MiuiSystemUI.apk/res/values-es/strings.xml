@@ -1080,7 +1080,7 @@ Utilice sólo el cargador proporcionado."</string>
     <string name="kg_invalid_confirm_pin_hint">Los códigos PIN no coinciden</string>
     <string name="kg_invalid_puk">Vuelve a introducir el PUK correcto. Realizar muchos intentos deshabilitará permanentemente tu tarjeta SIM.</string>
     <string name="kg_invalid_sim_pin_hint">Introduce un PIN que contenga de 4 a 8 dígitos.</string>
-    <string name="kg_invalid_sim_puk_hint">El código PUK debe tener 8 dígitos.</string>
+    <string name="kg_invalid_sim_puk_hint">El código PUK debe contener %1$d dígitos.</string>
     <string name="kg_login_too_many_attempts">Demasiados intentos de patrón</string>
     <string name="kg_password_instructions">Introducir contraseña</string>
     <string name="kg_password_pin_failed">No se pudo desbloquear utilizando el PIN de la SIM</string>

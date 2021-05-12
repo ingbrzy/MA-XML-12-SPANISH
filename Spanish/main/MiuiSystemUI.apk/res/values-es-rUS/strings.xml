@@ -777,7 +777,7 @@ Si reanuda la conexión de datos móviles, podría generarle cargos."</string>
     <string name="face_unlock_pin_and_fingerprint">Ingrese el PIN o use la huella digital para desbloquear</string>
     <string name="face_unlock_reveal_eye">Sus ojos deben estar visibles</string>
     <string name="face_unlock_reveal_mouth">Sus labios deben estar visibles</string>
-    <string name="face_unlock_success">Desbloqueado con éxito</string>
+    <string name="face_unlock_success">Desbloqueado exitosamente</string>
     <string name="failed_to_open_app_settings_toast">"No se pudieron abrir los ajustes de %1$s"</string>
     <string name="finger_error_single_mode">"No se puede usar el escáner de huellas digitales en el modo de una mano. Salga del modo con una mano y vuelva a intentarlo."</string>
     <string name="fingerprint_add_text">El interfaz de huella digital fue actualizado. Vuelva a agregar su huella digital.</string>
@@ -1080,7 +1080,7 @@ Solo utilice el cargador proporcionado."</string>
     <string name="kg_invalid_confirm_pin_hint">Los códigos PIN no coinciden</string>
     <string name="kg_invalid_puk">Vuelva a ingresar el código PUK correcto. Realizar muchos intentos deshabilitará permanentemente su tarjeta SIM.</string>
     <string name="kg_invalid_sim_pin_hint">Ingrese un PIN de entre 4 y 8 números.</string>
-    <string name="kg_invalid_sim_puk_hint">El código PUK debe tener 8 números.</string>
+    <string name="kg_invalid_sim_puk_hint">El código PUK debe contener %1$d dígitos.</string>
     <string name="kg_login_too_many_attempts">Demasiados intentos de patrón</string>
     <string name="kg_password_instructions">Ingrese la contraseña</string>
     <string name="kg_password_pin_failed">No se pudo desbloquear utilizando el PIN de la SIM</string>
@@ -1235,7 +1235,7 @@ d 'de' MMMM"</string>
     <string name="miui_snooze_always_float">"No ocultar"</string>
     <string name="miui_snooze_cancel">Cancelar</string>
     <string name="miui_snooze_default_time">Por %d minuto</string>
-    <string name="miui_snooze_to_settings">Ajustes</string>
+    <string name="miui_snooze_to_settings">Configuración</string>
     <string name="miui_snooze_toast_hint_default">"Las próximas notificaciones se ocultarán durante %d minutos. "</string>
     <string name="miui_snooze_toast_hint_until_unlock_screen">"Las próximas notificaciones se ocultarán hasta que se bloquee el dispositivo. "</string>
     <string name="miui_snooze_until_unlock_screen">Hasta que se bloquee</string>
@@ -1845,7 +1845,7 @@ También está conectado a una red VPN, la cual puede monitorear su actividad en
     <string name="speed_label_very_slow">Muy lento</string>
     <string name="ssl_ca_cert_warning">"La red podría estar monitoreada"</string>
     <string name="standby_bucket_summary">Aplicación en estado de espera: %s</string>
-    <string name="start_camera_error_try_again">"No se pudo iniciar la cámara. Inténtelo otra vez."</string>
+    <string name="start_camera_error_try_again">"No se pudo iniciar la cámara. Inténtelo de nuevo."</string>
     <string name="start_dreams">Protector de pantalla</string>
     <string name="status_bar">Barra de estado</string>
     <string name="status_bar_airplane">Modo avión</string>

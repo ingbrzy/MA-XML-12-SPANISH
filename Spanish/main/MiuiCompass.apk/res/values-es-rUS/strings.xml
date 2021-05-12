@@ -78,6 +78,7 @@
     <string name="evening">Tarde</string>
     <string name="expand_button_title">Opciones avanzadas</string>
     <string name="first_using_dialog_message">"La brújula necesita utilizar la conexión a red de su dispositivo, la cámara y los servicios de localización para funcionar normalmente."</string>
+    <string name="first_using_dialog_message_no_camera">Brújula necesita conectarse a Internet y acceder a la información de ubicación para poder funcionar con normalidad. ¿Esta de acuerdo?</string>
     <string name="first_using_dialog_title">Permisos de acceso</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
@@ -173,6 +174,7 @@
     <string name="noon">Mediodía</string>
     <string name="not_set">Sin definir</string>
     <string name="open_perm_msg">La brújula necesita acceder a su ubicación y a la cámara. Esto es para determinar las coordenadas y brindar previsualizaciones en vivo. ¿Permitir?</string>
+    <string name="open_perm_msg_no_camera">Brújula necesita acceder a la información de ubicación para poder determinar las coordenadas. ¿Permitir?</string>
     <string name="open_perm_title">Se necesitan permisos</string>
     <string name="permission_camera_desc">Para mostrar azimut en la vista previa en vivo</string>
     <string name="permission_location_desc">Para mostrar coordenadas</string>

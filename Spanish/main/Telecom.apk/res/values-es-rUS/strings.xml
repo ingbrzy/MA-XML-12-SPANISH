@@ -315,6 +315,7 @@ Selección"</string>
     <string name="disabled">Inhabilitada</string>
     <string name="disabled_by_admin">El administrador inhabilitó la opción</string>
     <string name="disabled_by_admin_summary_text">Controlada por el administrador</string>
+    <string name="do_not_show_again">"No mostrar de nuevo"</string>
     <string name="duplicate_video_call_not_allowed">No se puede agregar la llamada en este momento.</string>
     <string name="enable_account_preference_title">Cuentas telefónicas</string>
     <string name="enable_adb">Depuración por USB</string>
@@ -518,6 +519,11 @@ Selección"</string>
     <string name="runningservices_settings_summary">Ver y controlar servicios actuales en ejecución</string>
     <string name="runningservices_settings_title">En ejecución</string>
     <string name="saved_network">Guardada por %1$s</string>
+    <string name="scam_cancle">Cancelar</string>
+    <string name="scam_message">"Estás configurando el reenvío de llamadas. Después de esto, todas sus llamadas entrantes serán respondidas por el número de teléfono %1$s. Si no posee este número de reenvío, es posible que esté en riesgo de exponer su información personal o comprometer la seguridad de su propiedad. Utilice esta función con precaución."</string>
+    <string name="scam_message_2">**21*El número de reenvío# es el código de reenvío de llamadas. Póngase en contacto con su operador si tiene alguna pregunta.</string>
+    <string name="scam_ok">Marcar</string>
+    <string name="scam_title">Recordatorio de riesgo de fraude</string>
     <string name="screen_zoom_summary_custom">Personalizado (%d)</string>
     <string name="screen_zoom_summary_default">Predeterminado</string>
     <string name="screen_zoom_summary_extremely_large">Máximo</string>
@@ -558,10 +564,6 @@ Selección"</string>
     <string name="show_touches">Mostrar presiones</string>
     <string name="show_touches_summary">Mostrar información visual para presiones</string>
     <string name="simulate_color_space">Simular espacio de color</string>
-    <string name="softap_beacon_protection">Habilitar la protección de baliza de SoftAp</string>
-    <string name="softap_beacon_protection_summary">Habilite la protección de baliza de SoftAp usando Hotspot</string>
-    <string name="softap_ocv">Habilitar SoftAp OCV</string>
-    <string name="softap_ocv_summary">Habilite SoftAp OCV usando Hotspot</string>
     <string name="speed_label_fast">Rápida</string>
     <string name="speed_label_medium">Media</string>
     <string name="speed_label_okay">Aceptar</string>
@@ -706,8 +708,6 @@ Cualquier usuario puede actualizar las aplicaciones del resto de los usuarios."<
     <string name="wifi_hand_sel_wapi_cert">Certificado WAPI</string>
     <string name="wifi_limited_connection">Conexión limitada</string>
     <string name="wifi_metered_label">De uso medido</string>
-    <string name="wifi_new_network_auto_connection">Puente SSID - Conexión automática</string>
-    <string name="wifi_new_network_auto_connection_summary">Habilite los intentos de conexión automática a un nuevo SSID WPA / WPA2 ‑ PSK de 5 GHz con las credenciales SSID WPA / WPA2 ‑ PSK de 2 GHz actualmente conectadas en la coincidencia parcial de SSID y BSSID</string>
     <string name="wifi_no_internet">No hay acceso a Internet</string>
     <string name="wifi_no_internet_no_reconnect">"No se conectará automáticamente"</string>
     <string name="wifi_not_in_range">Fuera de alcance</string>
@@ -739,8 +739,6 @@ Compruebe la validez de los certificados"</string>
 posible que el almacenamiento de credenciales no esté habilitado"</string>
     <string name="wifi_wapi_psk_type">Tipo de contraseña</string>
     <string name="wifi_wapi_user_certificate">Certificado de usuario</string>
-    <string name="wifi_whitelist_roaming">Puente SSID: transferencia rápida</string>
-    <string name="wifi_whitelist_roaming_summary">Habilite la itinerancia entre diferentes AP SSID WPA / WPA2 ‑ PSK con la misma dirección MAC de puerta de enlace</string>
     <string name="window_animation_scale_title">Escala de animación de ventana</string>
     <string name="zen_alarm_warning">"No oirás la próxima alarma (%1$s)"</string>
     <string name="zen_alarm_warning_indef">"Solo oirás la próxima alarma (%1$s) si primero desactivas esta opción"</string>

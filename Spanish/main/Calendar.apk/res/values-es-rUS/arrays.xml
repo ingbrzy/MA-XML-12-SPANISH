@@ -1,70 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="account_sync_frequency">
-    <item>Manual</item>
-    <item>Cada 15 minutos</item>
-    <item>Cada hora</item>
-    <item>Cada 4 horas</item>
-    <item>Cada 12 horas</item>
-  </string-array>
-  <string-array name="alphabet_table">
-    <item>A</item>
-    <item>B</item>
-    <item>C</item>
-    <item>D</item>
-    <item>E</item>
-    <item>F</item>
-    <item>G</item>
-    <item>H</item>
-    <item>I</item>
-    <item>J</item>
-    <item>K</item>
-    <item>L</item>
-    <item>M</item>
-    <item>N</item>
-    <item>O</item>
-    <item>P</item>
-    <item>Q</item>
-    <item>R</item>
-    <item>S</item>
-    <item>T</item>
-    <item>U</item>
-    <item>V</item>
-    <item>W</item>
-    <item>X</item>
-    <item>Y</item>
-    <item>Z</item>
-    <item>\#</item>
-  </string-array>
-  <string-array name="alphabet_table_with_starred">
-    <item>!</item>
-    <item>A</item>
-    <item>B</item>
-    <item>C</item>
-    <item>D</item>
-    <item>E</item>
-    <item>F</item>
-    <item>G</item>
-    <item>H</item>
-    <item>I</item>
-    <item>J</item>
-    <item>K</item>
-    <item>L</item>
-    <item>M</item>
-    <item>N</item>
-    <item>O</item>
-    <item>P</item>
-    <item>Q</item>
-    <item>R</item>
-    <item>S</item>
-    <item>T</item>
-    <item>U</item>
-    <item>V</item>
-    <item>W</item>
-    <item>X</item>
-    <item>Y</item>
-    <item>Z</item>
-    <item>\#</item>
+  <string-array name="additional_cal_dialog_labels">
+    <item>Ninguna</item>
+    <item>Hijri Samvat</item>
+    <item>Shaka Samvat</item>
+    <item>Vikrami Samvat</item>
   </string-array>
   <string-array name="aquarius_info">
     <item>acuario</item>
@@ -90,10 +30,6 @@
     <item>Solo este evento</item>
     <item>Todos los eventos de la serie</item>
   </string-array>
-  <string-array name="close_alarm_repeating_labels">
-    <item>Solo por esta vez</item>
-    <item>Desactivar recordatorio repetido</item>
-  </string-array>
   <string-array name="date_calculate_spinner">
     <item>Adelante</item>
     <item>Atrás</item>
@@ -101,25 +37,32 @@
   <string-array name="default_reminder_labels">
     <item>A la hora del evento</item>
     <item>5 minutos antes</item>
-    <item>10 minutos antes</item>
     <item>15 minutos antes</item>
     <item>30 minutos antes</item>
     <item>1 hora antes</item>
+    <item>4 horas antes</item>
     <item>1 día antes</item>
     <item>2 días antes</item>
     <item>1 semana antes</item>
-  </string-array>
-  <string-array name="default_reminder_later_time_labels">
-    <item>5 minutos</item>
-    <item>10 minutos</item>
-    <item>15 minutos</item>
-    <item>30 minutos</item>
-    <item>1 hora</item>
   </string-array>
   <string-array name="delete_repeating_labels">
     <item>Solo este evento</item>
     <item>Este y eventos futuros</item>
     <item>Todos los eventos</item>
+  </string-array>
+  <string-array name="english_complete_months">
+    <item>Enero</item>
+    <item>Febrero</item>
+    <item>Marzo</item>
+    <item>Abril</item>
+    <item>Mayo</item>
+    <item>Junio</item>
+    <item>Julio</item>
+    <item>Agosto</item>
+    <item>Septiembre</item>
+    <item>Octubre</item>
+    <item>Noviembre</item>
+    <item>Diciembre</item>
   </string-array>
   <string-array name="fortune_random_birthday">
     <item>1992-01-01</item>
@@ -139,6 +82,12 @@
     <item>Géminis</item>
     <item>21/5 - 21/6</item>
   </string-array>
+  <string-array name="global_criket_match">
+    <item>Internacional</item>
+    <item>IPL</item>
+    <item>Doméstico</item>
+    <item>Ligas T20</item>
+  </string-array>
   <string-array name="leo_info">
     <item>León</item>
     <item>León</item>
@@ -149,19 +98,19 @@
     <item>Libra</item>
     <item>23/9 - 23/10</item>
   </string-array>
-  <string-array name="open_alarm_repeating_labels">
-    <item>Solo por esta vez</item>
-    <item>Establecer recordatorio repetido</item>
+  <string-array name="panchang_weeks">
+    <item>Domingo</item>
+    <item>Lunes</item>
+    <item>Martes</item>
+    <item>Miércoles</item>
+    <item>Jueves</item>
+    <item>Viernes</item>
+    <item>Sábado</item>
   </string-array>
   <string-array name="pisces_info">
     <item>piscis</item>
     <item>Pisces</item>
     <item>19/2 - 20/3</item>
-  </string-array>
-  <string-array name="prefEntries_alerts_popup_new">
-    <item>Desactivado</item>
-    <item>Para todos los eventos</item>
-    <item>Para eventos urgentes</item>
   </string-array>
   <string-array name="prefEntries_alerts_vibrateWhen">
     <item>Siempre</item>
@@ -301,12 +250,6 @@
     <item>Quizá</item>
     <item>No</item>
   </string-array>
-  <string-array name="response_labels2">
-    <item>"No respondas"</item>
-    <item>Aceptar</item>
-    <item>Decide después</item>
-    <item>Rechazar</item>
-  </string-array>
   <string-array name="sagittarius_info">
     <item>sagitario</item>
     <item>Sagitario</item>
@@ -316,6 +259,10 @@
     <item>escorpio</item>
     <item>Escorpio</item>
     <item>24/10 - 22/11</item>
+  </string-array>
+  <string-array name="serie_a">
+    <item>1</item>
+    <item>Serie A</item>
   </string-array>
   <string-array name="taurus_info">
     <item>tauro</item>
@@ -333,6 +280,34 @@
     <item>Virgo</item>
     <item>Virgo</item>
     <item>23/8 - 22/9</item>
+  </string-array>
+  <string-array name="weather_forecasts">
+    <item>Limpiar</item>
+    <item>Nublado</item>
+    <item>Cielo cubierto</item>
+    <item>Niebla</item>
+    <item>Tormenta fuerte</item>
+    <item>Tormenta</item>
+    <item>Tormenta ligera</item>
+    <item>Tormenta eléctrica</item>
+    <item>Chubascos</item>
+    <item>Lluvia fuerte</item>
+    <item>Lluvia</item>
+    <item>Lluvia ligera</item>
+    <item>Lluvia y nieve</item>
+    <item>Ventisca</item>
+    <item>Lluvias de nieve</item>
+    <item>Fuertes nevadas</item>
+    <item>Nieve</item>
+    <item>Nieve ligera</item>
+    <item>Fuerte tormenta de arena</item>
+    <item>Tormenta de arena</item>
+    <item>Polvo</item>
+    <item>Tormenta de arena ligera</item>
+    <item>Granizo</item>
+    <item>Polvo en suspensión</item>
+    <item>Neblina</item>
+    <item>Aguanieve</item>
   </string-array>
   <string-array name="week_header_name">
     <item>DOM</item>

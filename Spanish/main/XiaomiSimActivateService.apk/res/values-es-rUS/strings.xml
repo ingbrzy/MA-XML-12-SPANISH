@@ -92,7 +92,7 @@ Ingrese el número de teléfono asociado a su nueva tarjeta SIM para reactivar %
     <string name="activate_popup_desc_find_device_postfix">Un SMS de activación será enviado después de cambiar las tarjetas SIM.</string>
     <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Para activar %3$s, ingrese el número de teléfono de la SIM %2$d. Si reemplaza esta tarjeta SIM, se enviará otro SMS de activación.</string>
     <string name="activate_popup_desc_intl_sim_card">Se enviará un SMS internacional para activar %s. Su operador le cobrará por el.</string>
-    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Para activar %2$s, se enviarán &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;&lt;/b&gt;pago internacional. Su operador le cobrará por este mensaje.</string>
+    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Para activar %2$s, se enviará &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;&lt;/b&gt; sms de pago internacional. Su operador le cobrará por este mensaje.</string>
     <string name="activate_popup_desc_mi_account_user_manual">%1$s. &lt;Data&gt;Consulte el &lt;a href=https://account.xiaomi.com/helpcenter/faq&gt;Manual de usuario de Cuenta Mi&lt;/a&gt; si tiene alguna pregunta&lt;/Data&gt;</string>
     <string name="activate_popup_desc_mixed_sim_cards">Se enviará 2 mensajes (convencional y internacional) para activar %s. Su operador le cobrará por ellos.</string>
     <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Para activar %3$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;se enviarán SMS nacionales pagados&lt;/b&gt; y &lt;xliff:g id=number_sms refersto=1&gt;%2$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;internacionales pagados SMS&lt;/b&gt; Su operador le cobrará por estos mensajes.</string>
@@ -169,6 +169,7 @@ Ingrese el número de teléfono asociado a su nueva tarjeta SIM para reactivar %
     <string name="app_name">Servicio de activación SIM de Xiaomi</string>
     <string name="checking_client">Comprobando el entorno de activación</string>
     <string name="clearable_edittext_clear_description">Limpiar</string>
+    <string name="close">Cerrar</string>
     <string name="date_picker_lunar">Calendario chino Tradicional</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="early_morning">Mañana</string>
@@ -278,6 +279,7 @@ Ingrese el número de teléfono asociado a su nueva tarjeta SIM para reactivar %
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
     <string name="search_menu_title">Buscar</string>
+    <string name="send">Enviar</string>
     <string name="sim_activated_failed_msg">"No se pudo activar el servicio. Toque para volver a intentarlo."</string>
     <string name="sim_unactivated_feature_title">"%s no estaba activada"</string>
     <string name="sim_unactivated_msg">"Este servicio no está activado. Toque para volver a intentarlo."</string>

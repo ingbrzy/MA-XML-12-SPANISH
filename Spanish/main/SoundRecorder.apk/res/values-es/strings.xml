@@ -34,6 +34,7 @@
     <string name="alert_message_delete_local_record">¿Eliminar esta grabación?</string>
     <string name="alert_message_delete_record">Al eliminar la grabación de tu dispositivo, también se eliminará de Xiaomi Cloud. ¿Eliminarla ahora?</string>
     <string name="alert_message_delete_record_title">¿Eliminar grabación?</string>
+    <string name="all_record">Todas las grabaciones</string>
     <string name="am">AM</string>
     <string name="app_name">Grabadora</string>
     <string name="app_record">Grabaciones de aplicaciones</string>
@@ -107,6 +108,7 @@
     <string name="evening">Tarde</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="export_to_note">Exportar</string>
+    <string name="fm_record">Radio</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
@@ -216,9 +218,12 @@
     <string name="network_unavailable_tip">Conéctese a la red e inténtelo de nuevo.</string>
     <string name="new_record_name">Nueva grabación</string>
     <string name="night">Tarde</string>
+    <string name="no_content">No hay elementos aquí todavía</string>
     <string name="no_file">Vacío</string>
     <string name="no_network">"No se pudo conectar a la red"</string>
+    <string name="no_playback_file">Seleccione una grabación para ver los detalles</string>
     <string name="noon">Mediodía</string>
+    <string name="normal_settings_pref_title">Configuración general</string>
     <string name="not_set">Sin definir</string>
     <string name="notification_message_all_paused">Esperando a una conexión Wi-Fi.</string>
     <string name="notification_playback">Reproduciendo…</string>
@@ -255,6 +260,7 @@
     <string name="order_item_duration">Duración： %s</string>
     <string name="order_item_number">Número del pedido: %s</string>
     <string name="order_item_price">%s CNY</string>
+    <string name="other_settings_pref_title">Ajustes adicionales</string>
     <string name="path_soundrecorder_setting">Aplicaciones del sistema/Grabadora</string>
     <string name="pause">Pausa</string>
     <string name="pay_error_cancel">El pago fue cancelado</string>
@@ -265,19 +271,19 @@
     <string name="pm">PM</string>
     <string name="preference_clear_data">Borrar datos</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
-    <string name="preference_enable_earpiece_summary">Usar el altavoz del receptor para la reproducción externa</string>
-    <string name="preference_enable_earpiece_title">Usar receptor para reproducir audio</string>
+    <string name="preference_enable_earpiece_summary">Reproducir audio con el altavoz del auricular</string>
+    <string name="preference_enable_earpiece_title">Modo auricular</string>
     <string name="preference_led_indicator">Notificaciones en la pantalla de bloqueo</string>
-    <string name="preference_led_indicator_prompt">Mostrar acceso directo en la barra de estado y encender luz de notificaciones al grabar</string>
+    <string name="preference_led_indicator_prompt">Muestra un indicador azul en la pantalla de bloqueo y parpadea la luz LED durante la grabación</string>
     <string name="preference_online_orders">Pedidos online</string>
     <string name="preference_recog_faqs">Transcribiendo preguntas frecuentes online</string>
     <string name="preference_recog_terms">Términos de Servicio</string>
-    <string name="preference_record_desktop_indicator_summary">Mostrar un indicador azul en la Pantalla de inicio cuando la Grabadora se ejecute en segundo plano</string>
+    <string name="preference_record_desktop_indicator_summary">Muestra un indicador azul en la pantalla de inicio durante la grabación</string>
     <string name="preference_record_desktop_indicator_title">Indicador de la Pantalla de inicio</string>
     <string name="preference_record_scenes_dialog_title">Selecciona el tipo de grabación</string>
     <string name="preference_scenes">Tipo de grabación</string>
     <string name="preference_silent_mode">Silenciar el tono de llamada mientras se graba</string>
-    <string name="preference_status_bar_indicator_prompt">Mostrar acceso directo en la barra de estado al grabar</string>
+    <string name="preference_status_bar_indicator_prompt">Muestra un indicador azul en la pantalla de bloqueo durante la grabación</string>
     <string name="preference_tip_rename">Nombrar grabaciones manualmente</string>
     <string name="privacy_policy_title">Política de Privacidad</string>
     <string name="recognition_button_add_to_queue">Añadir a la cola</string>
@@ -344,6 +350,7 @@
     <string name="record_mark_point">Marcar %s</string>
     <string name="record_quliaty_preference_title">Calidad de grabación</string>
     <string name="record_resotre">Recuperar grabaciones</string>
+    <string name="recorder_record">Audio</string>
     <string name="recording">Grabando</string>
     <string name="recording_quality_high">Alta calidad</string>
     <string name="recording_quality_low">Baja calidad</string>
@@ -363,6 +370,7 @@
     <string name="reg_error_server">Ha ocurrido un error de servidor. Repórtalo y vuelve a intentarlo.</string>
     <string name="reg_error_upload_audio">"No se pudo subir el archivo, inténtalo de nuevo."</string>
     <string name="reg_error_upload_order">"No se pudo subir, inténtalo de nuevo."</string>
+    <string name="remind_settings_pref_title">Notificaciones</string>
     <string name="remove_icon_description_content">"Grabadora es una aplicación de sistema. No podrá administrar las grabaciones después de eliminar el acceso directo de la pantalla de inicio."</string>
     <string name="remove_icon_description_title">¿Eliminar \"Grabadora\" de la pantalla de inicio?</string>
     <string name="rename">Renombrar</string>
@@ -379,7 +387,7 @@
     <string name="save_record_dialog_title">Guardar la grabación</string>
     <string name="search_app">Grabadora</string>
     <string name="search_empty">"No se pudo encontrar resultados"</string>
-    <string name="search_enable_earpiece_title">Usar receptor para reproducir audio</string>
+    <string name="search_enable_earpiece_title">Modo auricular</string>
     <string name="search_hint">Buscar</string>
     <string name="search_led_indicator">Notificaciones en la pantalla de bloqueo</string>
     <string name="search_led_indicator_prompt">Mientras se graba, mostrar atajo en la barra de estado y encender la luz de notificación en la Pantalla de bloqueo</string>
@@ -429,6 +437,7 @@
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="tap_to_record">Toque el botón para comenzar a grabar</string>
     <string name="text_btn_backward_3_seconds">3 segundos atrás</string>
     <string name="text_btn_complete">Detener</string>
     <string name="text_btn_forward_3_seconds">3 segundos adelante</string>

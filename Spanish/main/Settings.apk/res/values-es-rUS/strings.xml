@@ -2815,6 +2815,13 @@ Para obtener más información, comunícate con el administrador de tu organizac
     <string name="exterior">Esquema de colores</string>
     <string name="external_code_size_label">Aplicación en el almacenamiento USB</string>
     <string name="external_data_size_label">Datos en el almacenamiento USB</string>
+    <string name="external_ram_dialog_btn_cancel">Después</string>
+    <string name="external_ram_dialog_btn_ok">Reiniciar</string>
+    <string name="external_ram_dialog_message">Reinicie el dispositivo para aplicar cambios.</string>
+    <string name="external_ram_dialog_title">Reiniciar dispositivo</string>
+    <string name="external_ram_summary">"Agregue %1$s %2$s de RAM ocupando espacio de almacenamiento. Utilice esta función solo cuando haya suficiente espacio de almacenamiento disponible en su dispositivo."</string>
+    <string name="external_ram_title">Extensión de memoria</string>
+    <string name="external_ram_toast">"No se puede usar la extensión de memoria debido a la falta de espacio de almacenamiento"</string>
     <string name="external_source_switch_title">Confiar en esta fuente</string>
     <string name="external_source_trusted">Permitido</string>
     <string name="external_source_untrusted">No permitido</string>
@@ -3301,6 +3308,7 @@ Cuando activas la copia de seguridad automática, los datos del dispositivo y la
     <string name="header_category_system">Sistema</string>
     <string name="header_category_wireless_networks">Inalámbrico y redes</string>
     <string name="header_data_and_synchronization">Sincronización y datos</string>
+    <string name="headset_aptx-adapter">Qualcomm® aptX™ Adaptive</string>
     <string name="headset_connectiong">Conectando…</string>
     <string name="headset_find_both">Ambos</string>
     <string name="headset_find_cancel">Cancelar</string>
@@ -4402,6 +4410,7 @@ No podrá deshacer esta acción"</string>
     <string name="miheadset_moreSettingsInAi">Ajustes adicionales</string>
     <string name="miheadset_multi_connect_mode">Multipunto</string>
     <string name="miheadset_multi_connect_mode_summary">Conéctese a varios dispositivos al mismo tiempo</string>
+    <string name="miheadset_network_not_available">Verifique su configuración de red e intente nuevamente</string>
     <string name="miheadset_next">Siguiente pista</string>
     <string name="miheadset_ok_device">Aceptar</string>
     <string name="miheadset_openAnc">Supresión de ruido</string>
@@ -5260,6 +5269,8 @@ Lea y acepte %s antes de utilizar este servicio."</string>
     <string name="permission_manage_title">%s permisos</string>
     <string name="permission_manager">Permisos</string>
     <string name="permission_mgr">Permisos</string>
+    <string name="permission_records">Uso de permisos</string>
+    <string name="permission_records_summary">Resumen de cómo las aplicaciones usan los permisos</string>
     <string name="permission_settings_summary">Administrar permisos relacionados a ubicación, almacenamiento, teléfono, mensajes y contactos.</string>
     <string name="permission_settings_title">Permisos de aplicaciones</string>
     <string name="permissions_label">Permisos</string>

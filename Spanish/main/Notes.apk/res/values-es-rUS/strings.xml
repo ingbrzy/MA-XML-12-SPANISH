@@ -310,7 +310,7 @@
     <string name="miuix_appcompat_cloud_state_syncing">Sincronizando con la nube…</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Deseleccionar</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleccionar todo</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Buscar</string>
@@ -457,6 +457,7 @@
     <string name="pref_quick_note_desc">Utilice el acceso directo en el borde de la pantalla para crear notas y tareas, así como para guardar URL, texto e imágenes copiados en Notas.</string>
     <string name="pref_remind_type_summary">Reproducir sonido de recordatorio en modo silencio</string>
     <string name="pref_remind_type_summary_new">Ignorar el Modo silencio y seguir reproduciendo sonido hasta que la alarma se apague</string>
+    <string name="pref_remind_type_summary_new_2">Reproducir sonido incluso cuando el modo Silencio o DND está activado</string>
     <string name="pref_remind_type_title">Ignorar modo silencio</string>
     <string name="pref_remind_type_title_new">Recordatorios de alta prioridad</string>
     <string name="pref_title_cloud_trash_bin">Notas eliminadas en la nube</string>
@@ -491,10 +492,8 @@
     <string name="repeat_mode_set_item_none">Nunca</string>
     <string name="repeat_mode_set_item_normal_workday">Lunes a viernes</string>
     <string name="repeat_mode_set_item_week">Cada semana(%s)</string>
-    <string name="repeat_mode_set_item_week_detail">Cada semana(%s)</string>
     <string name="repeat_mode_set_item_year">Todos los años (%s)</string>
-    <string name="repeat_mode_set_item_year_detail">Todos los años (%s)</string>
-    <string name="repeat_mode_set_item_year_detail_day">dd/MM</string>
+    <string name="repeat_mode_set_item_year_detail_day">dd MMM</string>
     <string name="repeat_mode_set_title">Repetir</string>
     <string name="repeat_mode_week">Cada semana</string>
     <string name="repeat_mode_year">Cada año</string>

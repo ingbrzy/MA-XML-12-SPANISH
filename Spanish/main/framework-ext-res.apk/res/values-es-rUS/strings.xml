@@ -9,6 +9,7 @@
     <string name="application_cannot_open_alipay_health_code">"No se pudo abrir el código de salud de Alipay"</string>
     <string name="application_cannot_open_alipay_payment_code">"No se pudo abrir el código de pago de Alipay"</string>
     <string name="application_cannot_open_alipay_scanner">"No se pudo abrir el escáner de Alipay"</string>
+    <string name="application_cannot_open_au_pay">Instale au PAY primero</string>
     <string name="application_cannot_open_weixin_health_code">"No se pudo abrir el código de salud de WeChat"</string>
     <string name="application_cannot_open_weixin_payment_code">"No se pudo abrir el código de pago de WeChat"</string>
     <string name="application_cannot_open_weixin_scanner">"No se pudo abrir el escáner de WeChat"</string>
@@ -77,6 +78,11 @@
     <string name="device_type_pc">Computadora</string>
     <string name="disable_nfc">Apagado NFC para carga inalámbrica</string>
     <string name="disable_nfc_reverse">NFC desactivado para carga inalámbrica inversa</string>
+    <string name="dock_tip_floatwindow">Mantenga presionada la barra y arrástrela hasta el borde de la pantalla para ingresar a la vista de pantalla dividida.</string>
+    <string name="dock_tip_splitscreen_landscape_drag">Arrastre la barra horizontalmente para intercambiar las posiciones de las dos ventanas de la aplicación.</string>
+    <string name="dock_tip_splitscreen_landscape_float">Mantenga pulsado y arrastre hacia abajo para cambiar a una ventana flotante.</string>
+    <string name="dock_tip_splitscreen_portrait_drag">Arrastre la barra verticalmente para intercambiar las posiciones de las dos ventanas de la aplicación.</string>
+    <string name="dock_tip_splitscreen_portrait_float">Mantenga presionado y arrastre hacia el lado izquierdo o derecho de la pantalla para cambiar a una ventana flotante.</string>
     <string name="eighthours">8 horas</string>
     <string name="enable_livetalk_summary">Ahorre hasta un 70% en sus llamadas</string>
     <string name="enable_livetalk_title">Activar paquete de recarga</string>
@@ -143,6 +149,8 @@
     <string name="miaudiovisual_notification_title">Efectos visuales y de audio</string>
     <string name="miui">miui</string>
     <string name="miui_forbid_poweroff_when_device_locked">"No se puede apagar, el dispositivo está bloqueado."</string>
+    <string name="miui_multiwindow_not_support_small_window">"%1$s no admite ventanas flotantes"</string>
+    <string name="miui_multiwindow_not_support_split">"%1$s no admite pantalla dividida"</string>
     <string name="miui_screen_ratio_hint">Problemas de proporción de pantalla</string>
     <string name="miui_screen_ratio_hint_dont_show_again">"No volver a mostrar"</string>
     <string name="miui_screen_ratio_hint_go_to_settings">Ir a los Ajustes</string>
@@ -274,7 +282,7 @@
     <string name="status_bar_toggle_paper_mode">Modo lectura</string>
     <string name="status_bar_toggle_power_mode">Rendimiento</string>
     <string name="status_bar_toggle_quiet_mode">No molestar</string>
-    <string name="status_bar_toggle_rotate">Bloquear orientación</string>
+    <string name="status_bar_toggle_rotate">Orientación de bloqueo</string>
     <string name="status_bar_toggle_screen_button">Botones</string>
     <string name="status_bar_toggle_screenshot">Captura</string>
     <string name="status_bar_toggle_sync">Sincronización</string>
