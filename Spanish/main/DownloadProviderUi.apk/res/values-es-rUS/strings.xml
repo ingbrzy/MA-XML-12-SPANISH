@@ -70,12 +70,14 @@
     <string name="cancel">Cancelar</string>
     <string name="cancel_running_download">Cancelar</string>
     <string name="cancle">Cancelar</string>
+    <string name="character_counter_content_description">Límite de caracteres excedido %1$d de %2$d</string>
     <string name="choose_open_picture">Seleccionar acción</string>
     <string name="choose_open_time">"Elija cuando le gustaría comenzar"</string>
     <string name="clear_data">Limpiar</string>
     <string name="clearable_edittext_clear_description">Claro</string>
     <string name="close">Cerrar</string>
     <string name="close_ad">Anuncio cerrado</string>
+    <string name="collect_diagnosis_log">Recopilar registro de diagnóstico</string>
     <string name="complete_time">Completado:</string>
     <string name="confirm">Aceptar</string>
     <string name="confirm_delete_downloads_message">Se eliminarán %d descargas.</string>
@@ -94,6 +96,10 @@
     <string name="deselect_all">Deseleccionar todo</string>
     <string name="deselect_subfile_all">Desmarcar todos</string>
     <string name="determine">Aceptar</string>
+    <string name="diagnosis_log_send_failed">Error en el registro de diagnóstico enviado.</string>
+    <string name="diagnosis_log_sent_format">"Se ha enviado el registro de diagnóstico.
+ID:%s
+Envíe este código al técnico."</string>
     <string name="dialog_btn_cancel">Cancelar</string>
     <string name="dialog_btn_ok">Aceptar</string>
     <string name="dialog_btn_ok_disabled_net">Ajustes de red</string>
@@ -205,6 +211,7 @@
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="for_diagnosis_usage_only">Utilice esta información solo para el diagnóstico.</string>
     <string name="force_touch_newdownload">Nueva descarga</string>
     <string name="force_touch_rank">Clasificación</string>
     <string name="force_touch_search">Buscar en Internet</string>
@@ -327,6 +334,7 @@
     <string name="month_september_shortest">Sep</string>
     <string name="more">Más</string>
     <string name="morning">Mañana</string>
+    <string name="mtrl_chip_close_icon_content_description">Quitar %1$s</string>
     <string name="net_error">"Conéctese a la red y vuelva a intentarlo"</string>
     <string name="network_error">"No se pudo conectar a la red"</string>
     <string name="new_add">Nueva descarga</string>
@@ -352,6 +360,7 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="notify_install_guide_title">Instaladas %s correctamente</string>
     <string name="notify_not_support">"Tales notificaciones no son compatibles, actualice ahora"</string>
     <string name="notify_only_wifi_download">Esperando por Wi-Fi</string>
+    <string name="ok">OK</string>
     <string name="one_month">1 mes</string>
     <string name="only_support_torrent">Solo los archivos torrent son compatibles</string>
     <string name="open">Abrir</string>
@@ -364,6 +373,9 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="other">Otros</string>
     <string name="other_filter">Otros</string>
     <string name="package_filter">Paquetes</string>
+    <string name="passport_oauth_actionbar_title">Mi Cuenta</string>
+    <string name="passport_oauth_sucess_tip">Autorizado con éxito</string>
+    <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="path_no_available">"Esta ruta no está disponible"</string>
     <string name="pause_download">Pausar</string>
     <string name="paused">Pausado</string>
@@ -459,6 +471,8 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="select_subfile_all">Seleccionar todo</string>
     <string name="selected_count">Seleccionado %1$d out of %2$d</string>
     <string name="send">Enviar</string>
+    <string name="send_diagnosis_log">Enviar registro de diagnóstico</string>
+    <string name="sending">Enviando…</string>
     <string name="setting_close_debug">Modo Depuración desactivado</string>
     <string name="setting_debug_fail">"No se pudo entrar en modo Depuración"</string>
     <string name="setting_open_debug">Modo Depuración activado. Toque aquí seis veces para apagar el modo Depuración.</string>
@@ -569,6 +583,7 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="task_detail">Tareas</string>
     <string name="task_detail_notfound_confirm">Aceptar</string>
     <string name="task_fail">"Ha fallado"</string>
+    <string name="temporary_not_available">no disponible temporalmente</string>
     <string name="terabyteShort">tuberculosis</string>
     <string name="test_speed">Comprobar</string>
     <string name="test_speed_detail">Detalles</string>
