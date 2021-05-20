@@ -103,7 +103,7 @@
     <string name="currency_update_support">Tasas de cambio proporcionadas por Webull.</string>
     <string name="currency_update_time_format">Tasas de cambio proporcionadas por Webull (%s)</string>
     <string name="currency_update_updating">Actualizando tasas…</string>
-    <string name="date_format">dd MMM yyyy</string>
+    <string name="date_format">dd \'de\' MMM. yyyy</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="dateformat">dd/MM/yyyy</string>
     <string name="day">día</string>
@@ -115,9 +115,9 @@
     <string name="deselect_all">Desmarcar</string>
     <string name="devided_by_zero_reminder_message">"No se puede dividir entre cero"</string>
     <string name="dialog_privacy_content">&lt;Data&gt;Además de las funciones básicas de una calculadora, nuestra aplicación también cuenta con una calculadora científica y un convertidor de unidades. Algunas funciones necesitan conexión a internet para funcionar correctamente. Debe leer y aceptar nuestro &lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt; antes de utilizar la aplicación Calculadora.&lt;/Data&gt;</string>
-    <string name="dialog_privacy_disagree_msg">Al desactivar el interruptor, retira su consentimiento a la Política de privacidad de Calculadora. Dejaremos de recopilar su información personal. La información personal ya recopilada y retenida se eliminará dentro del período específico requerido por las leyes aplicables. La calculadora necesita recopilar la información personal necesaria para brindarle los servicios básicos. Su retiro del consentimiento a su Política de privacidad se considerará como negarse a aceptar sus servicios en función de la información personal recopilada.</string>
-    <string name="dialog_privacy_revoke_btn_ok">Revocar</string>
-    <string name="dialog_privacy_revoke_title">Concediendo y revocando autorización</string>
+    <string name="dialog_privacy_disagree_msg">Al desactivar el interruptor, retira su consentimiento a la Política de Privacidad de Calculadora. Dejaremos de recopilar su información personal. La información personal ya recopilada y retenida se eliminará dentro de un período específico según lo requieran las leyes aplicables. Calculadora necesita recopilar la información personal necesaria para brindarte los servicios básicos. Su retirada del consentimiento a su Política de Privacidad se considerará como una negativa a aceptar sus servicios en función de la información personal recopilada.</string>
+    <string name="dialog_privacy_revoke_btn_ok">Retirar</string>
+    <string name="dialog_privacy_revoke_title">Retirada del consentimiento</string>
     <string name="dialog_privacy_title">Términos y Condiciones</string>
     <string name="dialog_rating_desc_ask">¿Qué opina de la aplicación Calculadora?</string>
     <string name="dialog_rating_desc_less">¿Podría dejarnos sus comentarios?</string>
@@ -214,7 +214,7 @@
     <string name="item_title_vel_conversion">Velocidad</string>
     <string name="item_title_volume_conversion">Volumen</string>
     <string name="item_title_weight_conversion">Masa</string>
-    <string name="l_name_discount">Descuento (%s descuento)</string>
+    <string name="l_name_discount">Descuento (%s de descuento)</string>
     <string name="label_about">Acerca de</string>
     <string name="label_clear_history">Borrar todo</string>
     <string name="label_date_difference">Diferencia</string>
@@ -368,7 +368,7 @@ LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden produc
     <string name="network_confirm_content">El convertidor de divisas y la calculadora de impuestos e hipotecas necesitan conectarse a internet y acceder a los servicios de localización para funcionar.</string>
     <string name="network_confirm_title">Se necesitan permisos</string>
     <string name="network_purpose">¡Bienvenido a Calculadora! La calculadora le permite convertir divisas, calcular pagos de hipotecas y más.</string>
-    <string name="new_privacy_string"><Data>\"¡Bienvenido a Calculadora!&lt;br/&gt;Esta aplicación contiene las siguientes características:&lt;br/&gt;• Calculadora básica&lt;br/&gt;• Calculadora científica&lt;br/&gt;• Convertidor universal (por ejemplo, moneda, unidades de medida, etc.)&lt;br/&gt;• Plantillas de cálculo para préstamos, inversiones, EMI y más&lt;br/&gt;Calculadora necesita recopilar la información personal necesaria para brindarle los servicios básicos. Puede aprender cómo manejamos la información que recopilamos en nuestra &lt;a href= \"%1$s\"&gt;Política de privacidad&lt;/a&gt;Lea y acepte nuestro &lt;a href=\"%2$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%3$s\"&gt;Política de privacidad&lt;/a&gt; antes de usar Calculadora. Puede retirar su consentimiento a la Política de privacidad de Calculadora en la Configuración en cualquier momento. Si no está de acuerdo con nuestra Política de privacidad, no podrá utilizar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá siendo estar disponible para usted \".</Data></string>
+    <string name="new_privacy_string">&lt;Data&gt;Bienvenido a Calculadora!&lt;br/&gt;Esta aplicación contiene las siguientes características: &lt;br/&gt;• Calculadora básica &lt;br/&gt;• Calculadora científica &lt;br/&gt;• Conversor universal (por ejemplo, moneda, unidades de medida, etc.)&lt;br/&gt;• Plantillas de cálculo para préstamos, inversiones, EMI y más&lt;br/&gt;Calculadora necesita recopilar la información personal necesaria para brindarle los servicios básicos. Puede aprender cómo manejamos la información que recopilamos en nuestra &lt;a href= \"%1$s\"&gt;Política de Privacidad&lt;/a&gt;. Lea y acepte nuestro &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=\"%3$s\"&gt;Política de Privacidad&lt;/a&gt; antes de usar Calculadora. Puede retirar su consentimiento a la Política de Privacidad de Calculadora en los Ajustes en cualquier momento. Si no está de acuerdo con nuestra Política de privacidad, no podrá utilizar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible para usted.&lt;/Data&gt;</string>
     <string name="none">Ninguno</string>
     <string name="not_supported_due_to_language">Esta función solo está disponible en chino</string>
     <string name="ok">Aceptar</string>
@@ -400,9 +400,9 @@ LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden produc
     <string name="preference_user_feedback_title">Comentarios</string>
     <string name="privacy_dialog_title">Privacidad</string>
     <string name="privacy_policy">Política de Privacidad</string>
-    <string name="privacy_revoke_error">"No se pudo retirar. Inténtelo de nuevo."</string>
-    <string name="privacy_revoke_progress">Retirar…</string>
-    <string name="privacy_switch">Concediendo y revocando autorización</string>
+    <string name="privacy_revoke_error">"No ha sido posible efectuar el retiro. Inténtalo otra vez."</string>
+    <string name="privacy_revoke_progress">Retirada…</string>
+    <string name="privacy_switch">Retirada del consentimiento</string>
     <string name="radDesc">Radianes</string>
     <string name="rate_data_provider">Tasas de interés proporcionadas por hexun.com</string>
     <string name="reciprocalDesc">Recíproco</string>

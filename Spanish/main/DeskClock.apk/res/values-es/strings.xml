@@ -62,7 +62,7 @@
     <string name="alarm_volume_title">Volumen de la alarma</string>
     <string name="alarmclock_empty_text">No hay alarmas</string>
     <string name="alarmclock_silent_hint">La alarma está silenciada</string>
-    <string name="alert">Tono de llamada</string>
+    <string name="alert">Tono de alarma</string>
     <string name="alert_ringtone">Tono de alarma</string>
     <string name="alert_vibrate_enable_summary">Vibrar cuando la alarma suene</string>
     <string name="alert_volume">Volumen del tono de llamada</string>
@@ -400,6 +400,7 @@
     <string name="search_stopwatch_keywords">Cronómetro</string>
     <string name="search_timer_keywords">Temporizador</string>
     <string name="search_worldclock_keywords">Hora;Reloj mundial;Reloj</string>
+    <string name="select_operation">Seleccionar</string>
     <string name="send">Enviar</string>
     <string name="set_alarm">Seleccionar hora</string>
     <string name="set_alarm_choose_ringtone">Seleccionar tono de llamada</string>
@@ -415,10 +416,11 @@
     <string name="shortcut_stop_watch">Iniciar cronómetro</string>
     <string name="shut_down_keep_screen">"La pantalla no se mantendrá encendida"</string>
     <string name="shutdown_alarm_alert_enable_summary">Las alarmas sonarán si fueron programadas para hacerlo al menos 10 minutos después de apagar tu dispositivo</string>
+    <string name="shutdown_alarm_alert_enable_summary_new">Enciéndalo para que las alarmas configuradas se apaguen cuando su dispositivo esté apagado. Solo se apagarán las alarmas configuradas durante al menos %d minutos después de apagar el dispositivo.</string>
     <string name="shutdown_alarm_alert_title">Alarmas con teléfono apagado</string>
     <string name="shutdown_alarm_disable_summary">"La alarma no sonará después de que el dispositivo se apague"</string>
     <string name="shutdown_alarm_enable_summary">"La alarma sonará si se establece para al menos 10 minutos después de que apagues tu dispositivo"</string>
-    <string name="shutdown_alarm_title">Apagado de alarma</string>
+    <string name="shutdown_alarm_title">Alarma con teléfono apagado</string>
     <string name="silent_alarm_summary">Silencio</string>
     <string name="skip_alarm_once_hint">Desactivar una vez el %s</string>
     <string name="sleep_analysis">Estadísticas</string>
@@ -604,7 +606,7 @@
     <string name="version_update_dialog_title">Hay una actualización disponible</string>
     <string name="vibrate_pref_summary">Vibrar cuando suene la alarma</string>
     <string name="vibrate_when_ringing">Vibrar al sonar</string>
-    <string name="voice_add_alarm">Agregar alarma usando un comando de voz</string>
+    <string name="voice_add_alarm">Añadir alarma usando un comando de voz</string>
     <string name="volume_button_setting_desc">Asignar funciones a los botones de encendido y ajuste de volumen</string>
     <string name="volume_button_setting_summary">"Establecer función para los botones de volumen durante la alarma"</string>
     <string name="volume_button_setting_title">Botones de volumen</string>

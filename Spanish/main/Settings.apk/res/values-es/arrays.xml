@@ -258,7 +258,7 @@
         <item>32 bits/muestra</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Usar Selección del Sistema (Por defecto)</item>
+        <item>Usar preferencia de sistema (Por defecto)</item>
         <item>16 bits/muestra</item>
         <item>24 bits/muestra</item>
         <item>32 bits/muestra</item>
@@ -476,7 +476,7 @@
         <item>Kampala</item>
         <item>Jartum</item>
         <item>Kigali</item>
-        <item>Kinshasa</item>
+        <item>Kinsasa</item>
         <item>Lagos</item>
         <item>Maseru</item>
         <item>Mogadiscio</item>
@@ -500,7 +500,7 @@
         <item>Costa Rica</item>
         <item>Curazao</item>
         <item>Dawson Creek</item>
-        <item>Denver</item>
+        <item>Dénver</item>
         <item>Detroit</item>
         <item>Dominica</item>
         <item>Edmonton</item>
@@ -543,7 +543,7 @@
         <item>Santo Domingo</item>
         <item>San Paulo</item>
         <item>St. Johns</item>
-        <item>San Cristóbal</item>
+        <item>Isla de San Cristóbal</item>
         <item>Santa Lucía</item>
         <item>Santo Tomás</item>
         <item>Tijuana</item>
@@ -553,7 +553,7 @@
         <item>Polo Sur</item>
         <item>Longyearbyen</item>
         <item>Almaty</item>
-        <item>Amman</item>
+        <item>Amán</item>
         <item>Anádyr</item>
         <item>Aktau</item>
         <item>Bagdad</item>
@@ -564,14 +564,14 @@
         <item>Calcuta</item>
         <item>Damasco</item>
         <item>Daca</item>
-        <item>Dubai</item>
+        <item>Dubái</item>
         <item>Gaza</item>
         <item>Hebrón</item>
         <item>Ho Chi Minh</item>
         <item>Hong Kong</item>
         <item>Yakarta</item>
         <item>Jerusalén</item>
-        <item>Kabul</item>
+        <item>Kabúl</item>
         <item>Karachi</item>
         <item>Katmandú</item>
         <item>Kuala Lumpur</item>
@@ -581,13 +581,13 @@
         <item>Mascate</item>
         <item>Nom Pen</item>
         <item>Pyongyang</item>
-        <item>Qatar</item>
+        <item>Catar</item>
         <item>Rangún</item>
         <item>Riad</item>
         <item>Seúl</item>
         <item>Shanghái</item>
         <item>Singapur</item>
-        <item>Taipei</item>
+        <item>Taipéi</item>
         <item>Teherán</item>
         <item>Tel Aviv</item>
         <item>Tokio</item>
@@ -672,7 +672,7 @@
         <item>Knoxville</item>
         <item>Memphis</item>
         <item>Miami</item>
-        <item>Minneapolis</item>
+        <item>Mineápolis</item>
         <item>Ottawa</item>
         <item>Filadelfia</item>
         <item>Portland</item>
@@ -703,8 +703,8 @@
         <item>Mountain View</item>
         <item>Reno</item>
         <item>Doha</item>
-        <item>Beijing</item>
-        <item>Mumbai</item>
+        <item>Pekín</item>
+        <item>Bombay</item>
         <item>Delhi</item>
         <item>Osaka</item>
         <item>Lahore</item>
@@ -837,10 +837,10 @@
         <item>Pedir todos los estados de certificado no fiables</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>Nada</item>
+        <item>Ninguno</item>
         <item>Logcat</item>
         <item>Systrace (Gráficos)</item>
-        <item>Pila de llamadas en gIGetError</item>
+        <item>Grupo de llamadas en gIGetError</item>
     </string-array>
     <string-array name="enabled_networks_subsidy_locked_choices">
         <item>Solo LTE</item>
@@ -875,7 +875,7 @@
     </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>Desactivado</item>
-        <item>Suave</item>
+        <item>Bajo</item>
         <item>Medio</item>
         <item>Alto</item>
     </string-array>
@@ -990,7 +990,7 @@
         <item>Iniciar sesión de nuevo</item>
         <item>Accede al dispositivo montado: mtpfs /media/mtp por medio del Gestor de archivos; lo mismo para la carpeta local.</item>
         <item>"Desinstalar dispositivo: fusermount -u /media/mtp
-Nota: ¡Sólo para Ubuntu 8.04!"</item>
+Nota: ¡Solo para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
@@ -1018,7 +1018,7 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
         <item>Ajustes</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>Nada</item>
+        <item>Ninguno</item>
         <item>480p</item>
         <item>480p (seguro)</item>
         <item>720p</item>
@@ -1050,7 +1050,7 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
         <item>Equilibrado</item>
     </string-array>
     <string-array name="preferred_app_entries">
-        <item>Launcher</item>
+        <item>Lanzador</item>
         <item>Marcador</item>
         <item>Mensajería</item>
         <item>Navegador</item>
@@ -1085,16 +1085,16 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
         <item>TD-SCDMA, CDMA, EvDo, GSM o WCDMA</item>
         <item>LTE, TD-SCDMA, CDMA, EvDo, GSM o WCDMA</item>
         <item>Solo NR</item>
-        <item>NR/LTE</item>
-        <item>NR/LTE/CDMA/EvDo</item>
-        <item>NR/LTE/GSM/WCDMA</item>
-        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
-        <item>NR/LTE/WCDMA</item>
-        <item>NR/LTE/TDSCDMA</item>
-        <item>NR/LTE/TDSCDMA/GSM</item>
-        <item>NR/LTE/TDSCDMA/WCDMA</item>
-        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
-        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
+        <item>NR o LTE</item>
+        <item>NR, LTE, CDMA o EvDo</item>
+        <item>NR, LTE, GSM o WCDMA</item>
+        <item>NR, LTE, CDMA, EvDo, GSM o WCDMA</item>
+        <item>NR, LTE o WCDMA</item>
+        <item>NR, LTE o TDSCDMA</item>
+        <item>NR, LTE, TDSCDMA o GSM</item>
+        <item>NR, LTE, TDSCDMA o WCDMA</item>
+        <item>NR, LTE, TDSCDMA, GSM o WCDMA</item>
+        <item>NR, LTE, TDSCDMA, CDMA, EvDo, GSM o WCDMA</item>
     </string-array>
     <string-array name="preferred_network_mode_gsm_wcdma_choices">
         <item>Solo GSM</item>
@@ -1199,11 +1199,11 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desactivado</item>
-        <item>64 KB por buffer de registro</item>
-        <item>256 KB por buffer de registro</item>
-        <item>1 MB por buffer de registro</item>
-        <item>4 MB por buffer de registro</item>
-        <item>16 MB por buffer de registro</item>
+        <item>64 KB por búfer de registro</item>
+        <item>256 KB por búfer de registro</item>
+        <item>1 MB por búfer de registro</item>
+        <item>4 MB por búfer de registro</item>
+        <item>16 MB por búfer de registro</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Desactivado</item>
@@ -1223,19 +1223,19 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Desactivado</item>
-        <item>Todos los búfers del registro</item>
+        <item>Todos los búferes del registro</item>
         <item>Todo excepto los registros de búfer de la radio</item>
-        <item>Solo los búfer de registro del kernel</item>
+        <item>Solo el búfer de registro del kernel</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Desactivado</item>
         <item>Todo</item>
         <item>Todo excepto la radio</item>
-        <item>solo el kernel</item>
+        <item>Solo el kernel</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Desactivado</item>
-        <item>Diseña un área azul no rectangular</item>
+        <item>Dibuja un área azul no rectangular</item>
         <item>Destacar comandos del diseño en verde</item>
     </string-array>
     <string-array name="silent_mode_duration_text">
@@ -1325,9 +1325,9 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="tts_rate_xunfei_entries">
         <item>Muy lento</item>
-        <item>Slow</item>
+        <item>Lento</item>
         <item>Normal</item>
-        <item>Fast</item>
+        <item>Rápido</item>
         <item>Más rápido</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
@@ -1495,7 +1495,7 @@ Nota: ¡Sólo para Ubuntu 8.04!"</item>
         <item>Estableciendo conexión...</item>
         <item>Autenticando...</item>
         <item>Obteniendo dirección IP…</item>
-        <item>Conexión establecida</item>
+        <item>Conectado</item>
         <item>Suspendida</item>
         <item>Desconectando...</item>
         <item>Desconectado</item>

@@ -576,6 +576,8 @@ No perderá ningún dato de aplicación."</string>
     <string name="applock_header_text_less_than_half">Demasiado corto. Arrastre un poco más.</string>
     <string name="applock_lock_all">Bloquear todas</string>
     <string name="applock_login_and_add_account">Iniciar sesión y agregar</string>
+    <string name="applock_mixtype_hidepwd_icon">Ocultar</string>
+    <string name="applock_mixtype_showpwd_icon">Mostrar</string>
     <string name="applock_no_account_login">"No ha iniciado sesión en su Cuenta Mi"</string>
     <string name="applock_not_add_account"><u>Ahora no</u></string>
     <string name="applock_not_login_account">"No ha iniciado sesión"</string>
@@ -1276,6 +1278,7 @@ Debe entender que esta característica se proporciona únicamente para su refere
     <string name="examination_score_80_100">Algunos elementos pueden optimizarse</string>
     <string name="examination_score_80_60">Algunos elementos pueden optimizarse</string>
     <string name="examination_score_has_virus">Se detectaron algunas aplicaciones sospechosas.</string>
+    <string name="exception_checking">Comprobando…</string>
     <string name="exception_dialog_message">"No se pudieron calcular las estadísticas del uso de datos debido a un error. Sin estadísticas precisas Seguridad no será capaz de monitorear el uso de datos. ¿Reiniciar para restaurar esta función?"</string>
     <string name="exception_dialog_ok_button">Reiniciar</string>
     <string name="exception_notify_message">"No se pudieron calcular las estadísticas de datos debido a un error. Reiniciar para restaurar."</string>
@@ -1528,6 +1531,7 @@ Debe entender que esta característica se proporciona únicamente para su refere
     <string name="gamebooster_lowbattery_notification_summary">Cargue su dispositivo antes de que se apague.</string>
     <string name="gamebooster_lowbattery_notification_title">La batería está a menos del 5%%</string>
     <string name="gamebooster_main_activity_back">Atrás</string>
+    <string name="gamebooster_network_dialog_cn_message">"No puede usar Game Turbo cuando Seguridad no tiene permiso para conectarse a Internet y acceder a su ubicación. ¿Permitir ahora?"</string>
     <string name="gamebooster_network_dialog_message">¿Permitir a Seguridad conectarse a la red para usar todas las funciones de Game Turbo?</string>
     <string name="gamebooster_network_dialog_title">"Algunas funciones no están disponibles"</string>
     <string name="gamebox_app_not_find">Primero instale la aplicación.</string>
@@ -1680,6 +1684,24 @@ Grabe secuencias y utilícelas en cualquier momento!"</string>
     <string name="gb_not_support_on_device">"Esta aplicación no se puede utilizar en la pantalla externa"</string>
     <string name="gb_operat_frequently">¡No tan rápido!</string>
     <string name="gb_shortcut_pref_title">Acceso directo en la pantalla de inicio</string>
+    <string name="gb_shoulder_key">Botones gatillo</string>
+    <string name="gb_shoulder_key_add_show_btn">Mostrar botones virtuales durante los juegos</string>
+    <string name="gb_shoulder_key_add_tips">Mueva los botones [L] y [R] a cualquier posición funcional y utilícelos a través de los botones gatillo</string>
+    <string name="gb_shoulder_key_btn_cancel">Cancelar</string>
+    <string name="gb_shoulder_key_btn_save_exit">Guardar</string>
+    <string name="gb_shoulder_key_circle_left">L</string>
+    <string name="gb_shoulder_key_circle_right">R</string>
+    <string name="gb_shoulder_key_dialog_message">"Puede usar ambos botones gatillos simultáneamente para iniciar Game Turbo cuando no esté jugando."</string>
+    <string name="gb_shoulder_key_dialog_txt">Puede activar Game Turbo usando los botones gatillo.</string>
+    <string name="gb_shoulder_key_guide_btn_done">Entendido</string>
+    <string name="gb_shoulder_key_guide_btn_next">Siguiente</string>
+    <string name="gb_shoulder_key_guide_tips">¡Configure los botones gatillo para jugar como un profesional!</string>
+    <string name="gb_shoulder_key_guide_tips1">Abra la caja de herramientas y configure los botones gatillo</string>
+    <string name="gb_shoulder_key_settings_guide_tips1">Mueva los botones [L] y [R] a cualquier posición funcional para finalizar la configuración</string>
+    <string name="gb_shoulder_key_settings_guide_tips2">Use los botones gatillo para las funciones que les asignó durante los juegos</string>
+    <string name="gb_shoulder_key_settings_summary">"Use ambos botones gatillo para iniciar Game Turbo cuando no esté jugando"</string>
+    <string name="gb_shoulder_key_settings_title">Use botones gatillo para Game Turbo</string>
+    <string name="gb_shoulder_key_settings_title_new">Inicio rápido de Game Turbo</string>
     <string name="gb_sign_gift">Regístrese para obtener recompensas</string>
     <string name="gb_sign_gift_button_text">Recibir</string>
     <string name="gb_sign_notification_summary">Regístrese diariamente para recibir Aceleración Xunyou</string>
@@ -1688,6 +1710,7 @@ Grabe secuencias y utilícelas en cualquier momento!"</string>
     <string name="gb_signed_gift_loading_summary">Un momento…</string>
     <string name="gb_signed_title">Registrado este mes</string>
     <string name="gb_sound_audition">Intentar</string>
+    <string name="gb_storage_game_dialog_message">"Puede almacenar juegos en Game Turbo automáticamente. No aparecerán en la pantalla de inicio si activa esta función. ¿Activar ahora?"</string>
     <string name="gb_storage_game_uninstall">Desinstalar juegos</string>
     <string name="gb_storage_summary">"No mostrar los juegos que se añadieron a la caja de juegos en la Pantalla de inicio"</string>
     <string name="gb_storage_title">Eliminar juegos añadidos de la Pantalla de inicio</string>
@@ -4068,6 +4091,7 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="timeshow_h_int">%dh</string>
     <string name="timeshow_m">%dm</string>
     <string name="timeshow_s">%ds</string>
+    <string name="tips">Atención</string>
     <string name="tips_dialog_title">"¿No conoce su límite?"</string>
     <string name="tips_message">"Para ver los detalles de su plan de datos, marque %2$s (%1$s)."</string>
     <string name="tips_of_app_manage">Eliminar aplicaciones poco usadas para ahorrar almacenamiento</string>
@@ -4497,6 +4521,9 @@ Activar una de las funciones desactivará la otra."</string>
     <string name="write_clipboard_tip_title">Guardar elementos en el portapapeles</string>
     <string name="wrong_password">Contraseña incorrecta</string>
     <string name="xiaomi_privacy_protection_measures">Medidas de protección de la privacidad</string>
+    <string name="xspace_warning_dialog_button">Entendido</string>
+    <string name="xspace_warning_dialog_message">Debido a las restricciones introducidas en Android %d, todas las aplicaciones duales solo podrán acceder a las fotos y videos generados y guardados dentro de la aplicación dual correspondiente.</string>
+    <string name="xspace_warning_dialog_title">Atención</string>
     <string name="xunyou_net_booster">Aumento de velocidad de la red</string>
     <string name="xunyou_net_booster_detail">Usar los servicios de aumento de velocidad Xunyou para juegos</string>
     <string name="xunyou_pay_webview">Servicios Xunyou</string>

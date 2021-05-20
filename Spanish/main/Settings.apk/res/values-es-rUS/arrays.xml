@@ -282,7 +282,7 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
         <item>Optimizado para calidad de audio</item>
-        <item>Calidad de audio y conexión balanceadas</item>
+        <item>Audio balanceado y calidad de conexión</item>
         <item>Optimizado para calidad de conexión</item>
         <item>Mejor efecto (tasa de bits automática)</item>
     </string-array>
@@ -438,9 +438,9 @@
     </string-array>
     <string-array name="captioning_typeface_selector_titles">
         <item>Predeterminado</item>
-        <item>Sans-serif</item>
-        <item>Sans-serif condensed</item>
-        <item>Sans-serif monospace</item>
+        <item>Sans Serif</item>
+        <item>Sans Serif condensada</item>
+        <item>Sans-serif monoespaciada</item>
         <item>Serif</item>
         <item>Serif monoespaciada</item>
         <item>Casual</item>
@@ -762,7 +762,7 @@
     <string-array name="color_mode_names">
         <item>Vibrante (por defecto)</item>
         <item>Natural</item>
-        <item>Normal</item>
+        <item>Estándar</item>
     </string-array>
     <string-array name="color_picker">
         <item>Verde azulado</item>
@@ -961,7 +961,7 @@
     </string-array>
     <string-array name="media_feedback_level_entries">
         <item>Fuerte</item>
-        <item>Mediana</item>
+        <item>Medio</item>
         <item>Suave</item>
     </string-array>
     <string-array name="mi1_led_color_entries">
@@ -981,7 +981,7 @@
     <string-array name="msd_pc_system_install_finish_summary">
         <item>@string/msd_pc_system_install_finish_summary_xp</item>
         <item>@string/msd_pc_system_install_finish_summary_vista</item>
-        <item>El almacenamiento masivo USB se abrirá automáticamente cuando se conecte a una computadora.</item>
+        <item>El almacenamiento masivo USB se abrirá automáticamente al conectarse a una computadora.</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_summary">
@@ -1332,9 +1332,9 @@ Nota: solo para Ubuntu 8.04"</item>
     </string-array>
     <string-array name="tts_rate_xunfei_entries">
         <item>Muy lento</item>
-        <item>Slow</item>
+        <item>Lento</item>
         <item>Normal</item>
-        <item>Fast</item>
+        <item>Rápido</item>
         <item>Más rápido</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">

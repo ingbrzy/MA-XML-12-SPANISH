@@ -564,6 +564,10 @@ Selección"</string>
     <string name="show_touches">Mostrar presiones</string>
     <string name="show_touches_summary">Mostrar información visual para presiones</string>
     <string name="simulate_color_space">Simular espacio de color</string>
+    <string name="softap_beacon_protection">Habilitar la protección de baliza de SoftAp</string>
+    <string name="softap_beacon_protection_summary">Habilite la protección de baliza de SoftAp usando Hotspot</string>
+    <string name="softap_ocv">Habilitar SoftAp OCV</string>
+    <string name="softap_ocv_summary">Habilite SoftAp OCV usando Hotspot</string>
     <string name="speed_label_fast">Rápida</string>
     <string name="speed_label_medium">Media</string>
     <string name="speed_label_okay">Aceptar</string>
@@ -708,6 +712,8 @@ Cualquier usuario puede actualizar las aplicaciones del resto de los usuarios."<
     <string name="wifi_hand_sel_wapi_cert">Certificado WAPI</string>
     <string name="wifi_limited_connection">Conexión limitada</string>
     <string name="wifi_metered_label">De uso medido</string>
+    <string name="wifi_new_network_auto_connection">Puente SSID - Conexión automática</string>
+    <string name="wifi_new_network_auto_connection_summary">Habilite los intentos de conexión automática a un nuevo SSID WPA / WPA2 ‑ PSK de 5 GHz con las credenciales SSID WPA / WPA2 ‑ PSK de 2 GHz actualmente conectadas en la coincidencia parcial de SSID y BSSID</string>
     <string name="wifi_no_internet">No hay acceso a Internet</string>
     <string name="wifi_no_internet_no_reconnect">"No se conectará automáticamente"</string>
     <string name="wifi_not_in_range">Fuera de alcance</string>
@@ -739,6 +745,8 @@ Compruebe la validez de los certificados"</string>
 posible que el almacenamiento de credenciales no esté habilitado"</string>
     <string name="wifi_wapi_psk_type">Tipo de contraseña</string>
     <string name="wifi_wapi_user_certificate">Certificado de usuario</string>
+    <string name="wifi_whitelist_roaming">Puente SSID: transferencia rápida</string>
+    <string name="wifi_whitelist_roaming_summary">Habilite la itinerancia entre diferentes AP SSID WPA / WPA2 ‑ PSK con la misma dirección MAC de puerta de enlace</string>
     <string name="window_animation_scale_title">Escala de animación de ventana</string>
     <string name="zen_alarm_warning">"No oirás la próxima alarma (%1$s)"</string>
     <string name="zen_alarm_warning_indef">"Solo oirás la próxima alarma (%1$s) si primero desactivas esta opción"</string>
