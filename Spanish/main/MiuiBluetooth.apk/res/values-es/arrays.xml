@@ -143,10 +143,10 @@
         <item>Mostrar áreas para Deuteranomalía</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>Nada</item>
+        <item>Ninguno</item>
         <item>Logcat</item>
         <item>Systrace (Gráficos)</item>
-        <item>Pila de llamadas en gIGetError</item>
+        <item>Grupo de llamadas en gIGetError</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>No usar nunca comprobación HDCP</item>
@@ -159,7 +159,7 @@
         <item>Comprobar siempre</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>Nada</item>
+        <item>Ninguno</item>
         <item>480p</item>
         <item>480p (seguro)</item>
         <item>720p</item>
@@ -180,11 +180,11 @@
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desactivado</item>
-        <item>64 KB por buffer de registro</item>
-        <item>256 KB por buffer de registro</item>
-        <item>1 MB por buffer de registro</item>
-        <item>4 MB por buffer de registro</item>
-        <item>16 MB por buffer de registro</item>
+        <item>64 KB por búfer de registro</item>
+        <item>256 KB por búfer de registro</item>
+        <item>1 MB por búfer de registro</item>
+        <item>4 MB por búfer de registro</item>
+        <item>16 MB por búfer de registro</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Desactivado</item>
@@ -196,9 +196,9 @@
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Desactivado</item>
-        <item>Todos los búfers del registro</item>
+        <item>Todos los búferes del registro</item>
         <item>Todo excepto los registros de búfer de la radio</item>
-        <item>Solo los búfer de registro del kernel</item>
+        <item>Solo el búfer de registro del kernel</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Desactivado</item>
@@ -208,7 +208,7 @@
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Desactivado</item>
-        <item>Diseña un área azul no rectangular</item>
+        <item>Dibuja un área azul no rectangular</item>
         <item>Destacar comandos del diseño en verde</item>
     </string-array>
     <string-array name="track_frame_time_entries">

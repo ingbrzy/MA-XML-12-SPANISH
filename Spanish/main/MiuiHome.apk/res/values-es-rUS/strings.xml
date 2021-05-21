@@ -69,8 +69,8 @@
     <string name="all_app_category_tools">Herramientas</string>
     <string name="all_app_category_work">Trabajo</string>
     <string name="all_apps">Todas las aplicaciones</string>
-    <string name="all_apps_install_contentcenter_msg">Parece que el Centro de Contenido fue desinstalado. ¿Instalar de nuevo?</string>
-    <string name="all_apps_install_contentcenter_title">Instalar el Centro de contenido</string>
+    <string name="all_apps_install_contentcenter_msg">Parece que se desinstaló el Centro de Contenido. ¿Instalar de nuevo?</string>
+    <string name="all_apps_install_contentcenter_title">Instalar Centro de Contenido</string>
     <string name="all_apps_no_search_results">"No se encontraron resultados"</string>
     <string name="all_apps_search_app">Buscar aplicaciones</string>
     <string name="all_apps_search_market_message">Buscar en línea</string>
@@ -183,7 +183,7 @@
     <string name="change_wallpaper">Cambiar</string>
     <string name="choose_wallpaper">Seleccionar fondo de pantalla</string>
     <string name="chooser_wallpaper">Seleccione un nuevo fondo de pantalla</string>
-    <string name="clearable_edittext_clear_description">Limpiar</string>
+    <string name="clearable_edittext_clear_description">Borrar</string>
     <string name="cloud_app_restore_title">Pendiente</string>
     <string name="common_home_search_delete">Eliminar la barra de búsqueda</string>
     <string name="common_home_search_delete_cancle">Cancelar</string>
@@ -223,7 +223,7 @@
     <string name="delete_category_dialog_title">¿Eliminar esta categoría?</string>
     <string name="delete_screen">Eliminar pantalla</string>
     <string name="delete_wallpaper_message">¿Eliminar %1$d fondo de pantalla?</string>
-    <string name="deleted_system_applications">Desinstala aplicaciones del sistema</string>
+    <string name="deleted_system_applications">Aplicaciones del sistema desinstaladas</string>
     <string name="deselect_all">Deseleccionar todo</string>
     <string name="dialog_work_profile_button_1">Siguiente</string>
     <string name="dialog_work_profile_button_2">Descartar</string>
@@ -332,8 +332,8 @@
     <string name="home_screen">Pantalla de inicio</string>
     <string name="home_slide_up_action">Deslice hacia arriba en la pantalla de inicio</string>
     <string name="home_switch_personal_assistant">-1 pantalla</string>
-    <string name="icon_customize_summary">Seleccione el estilo y ajuste tamaño</string>
-    <string name="icon_form">Iconos</string>
+    <string name="icon_customize_summary">Seleccione el estilo y ajuste el tamaño</string>
+    <string name="icon_form">Íconos</string>
     <string name="icon_reorganize_channel">Organizar íconos</string>
     <string name="icon_size">Tamaño del icono</string>
     <string name="icon_style">Estilo</string>
@@ -343,7 +343,7 @@
     <string name="is_setting_wallpaper_message">Estableciendo fondo de pantalla…</string>
     <string name="is_system_wallpaper_message">"No se pueden eliminar recursos del sistema"</string>
     <string name="key_shortcut_settings_title">Atajos de botones</string>
-    <string name="launcher_icon_management">Administrar accesos directos de la pantalla de inicio</string>
+    <string name="launcher_icon_management">Administrar accesos directos de la Pantalla de inicio</string>
     <string name="launcher_not_exist">Se produjo un error. Regrese a la pantalla de inicio y vuelva a intentarlo.</string>
     <string name="launcher_pull_down_title">Deslizar hacia abajo en la pantalla de inicio</string>
     <string name="launcher_search_bar_provider_title">Proveedor de Barra de búsqueda</string>
@@ -434,7 +434,7 @@
     <string name="navigation_type_full_screen">Gestos</string>
     <string name="navigation_type_title">Navegación del sistema</string>
     <string name="navigation_type_virtual_key">Botones</string>
-    <string name="network_error">"No se pudo conectar a la red. Intentar otra vez."</string>
+    <string name="network_error">"No se pudo conectar a la red. Vuelva a intentarlo."</string>
     <string name="no_detail_page">No hay página de detalles</string>
     <string name="no_space_toast">No hay suficiente espacio</string>
     <string name="no_space_toast_when_click_widget">No hay espacio suficiente en esta página. Pruebe arrastrando el elemento a otra.</string>
@@ -528,11 +528,11 @@
     <string name="recommend_loading">Cargando</string>
     <string name="recommend_refresh">Actualizar</string>
     <string name="recommend_xout">"No mostrar"</string>
-    <string name="remove_dialog_message">Las aplicaciones seleccionadas contienen funciones esenciales del sistema. Solo puede eliminar sus accesos directos de la Pantalla de inicio.</string>
-    <string name="remove_dialog_title_format">¿Eliminar \"%s\" de la Pantalla de inicio?</string>
+    <string name="remove_dialog_message">Las aplicaciones seleccionadas contienen funciones esenciales del sistema. Solo puede eliminar sus accesos directos de la pantalla de inicio.</string>
+    <string name="remove_dialog_title_format">¿Eliminar \"%s\" de la Pantalla de Inicio?</string>
     <string name="remove_invalidate_gadget_tips">Uno de los widgets que usa ya no está disponible. Puede agregar otro.</string>
-    <string name="remove_sys_app_content">"Podrá volver a agregar el acceso directo a la pantalla de inicio en Configuración &gt; Aplicaciones &gt; Administrar accesos directos a la pantalla de inicio. ¿Quitar ahora?"</string>
-    <string name="remove_sys_app_title">¿Eliminar el acceso directo de la pantalla de inicio?</string>
+    <string name="remove_sys_app_content">"Podrá volver a agregar el acceso directo a la Pantalla de inicio en Ajustes &gt; Aplicaciones &gt; Administrar accesos directos de la Pantalla de inicio. ¿Quitar ahora?"</string>
+    <string name="remove_sys_app_title">¿Eliminar el acceso directo de la Pantalla de inicio?</string>
     <string name="reset_cate_tip_content">Si continúa, los grupos de aplicaciones por defecto serán restaurados. ¿Continuar?</string>
     <string name="reset_cate_tip_title">Restaurar grupos por defecto</string>
     <string name="reset_description_first_time">Puede restaurar el diseño de %1$s en 2 horas</string>
@@ -542,7 +542,7 @@
     <string name="reset_title">Restaurar</string>
     <string name="resource_canary_leak_tip">tiene fuga!</string>
     <string name="resource_canary_wait_for_heapdump_message">Volcando instantánea de montón ...</string>
-    <string name="restore_icon_successful">Añadida correctamente</string>
+    <string name="restore_icon_successful">Agregado con éxito</string>
     <string name="russia_preinstall_folder_name">Rusia</string>
     <string name="screen_cells_config_title">Diseño de la pantalla de inicio</string>
     <string name="screen_locked_toast">Diseño de la pantalla de inicio fijado.</string>
@@ -553,7 +553,7 @@
     <string name="select_all">Seleccionar todo</string>
     <string name="select_frame">Marco</string>
     <string name="select_photo">Foto</string>
-    <string name="server_error">Ocurrió un error en el servidor. Espere uno o dos minutos y vuelva a intentarlo.</string>
+    <string name="server_error">Se produjo un error del servidor. Espera un minuto o dos y vuelve a intentarlo.</string>
     <string name="setting_wallpaper_tip">Pellizque o deslice para ajustar</string>
     <string name="settings">Ajustes</string>
     <string name="settings_shortcut">Ajustes</string>

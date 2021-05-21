@@ -144,13 +144,13 @@
     <string name="accessibility_portrait_depth_effect_panel_on">Panel de retratos</string>
     <string name="accessibility_preview_button">Previsualizar</string>
     <string name="accessibility_preview_effect_button">Efecto de previsualización</string>
-    <string name="accessibility_preview_expand">Acercarse</string>
+    <string name="accessibility_preview_expand">Acercar</string>
     <string name="accessibility_preview_front">Previsualización de la cámara frontal</string>
     <string name="accessibility_preview_remote">Vista previa de grabación de teléfono dual</string>
     <string name="accessibility_preview_select_tip">Posición %1$d</string>
     <string name="accessibility_preview_selected">Seleccionado</string>
-    <string name="accessibility_preview_shrink">Disminuir el zoom</string>
-    <string name="accessibility_preview_zoom_tip">Vista previa de zoom %1$.1fX</string>
+    <string name="accessibility_preview_shrink">Alejar</string>
+    <string name="accessibility_preview_zoom_tip">Previsualización del zoom %1$.1fX</string>
     <string name="accessibility_pro_parameters_panel_on">Abrir el menú con parámetros PRO</string>
     <string name="accessibility_pro_video_simple_mode">Modo lite</string>
     <string name="accessibility_protrait">Retrato</string>
@@ -159,7 +159,7 @@
     <string name="accessibility_reduce">Alejar</string>
     <string name="accessibility_reference_line_image_off">No se muestran líneas de cuadrícula</string>
     <string name="accessibility_reference_line_image_on">Mostrando líneas de cuadrícula</string>
-    <string name="accessibility_reference_line_text">Abra el panel con opciones de línea de referencia</string>
+    <string name="accessibility_reference_line_text">Abre el panel con opciones de línea de referencia</string>
     <string name="accessibility_review_thumbnail">Foto más reciente</string>
     <string name="accessibility_select_all">Seleccionar todo</string>
     <string name="accessibility_select_all_end">Todo seleccionado</string>
@@ -276,8 +276,7 @@
     <string name="ai_scene_mode_tower">Torre</string>
     <string name="ai_scene_mode_tutuk">Triciclo</string>
     <string name="ai_scene_mode_unknown">Desconocido</string>
-    <string name="ai_scene_mode_use_hint_text">"Reconocer escenas usando IA
-y ajustar preferencias automáticamente"</string>
+    <string name="ai_scene_mode_use_hint_text">"Reconocer escenas usando IA y ajustar preferencias automáticamente"</string>
     <string name="ai_scene_top_moon_off">Modo luz baja</string>
     <string name="ai_scene_top_tip">Modo luna</string>
     <string name="ai_shanghai">Shanghái</string>
@@ -375,7 +374,7 @@ y ajustar preferencias automáticamente"</string>
     <string name="button_front_camera_title">Hacer un selfie</string>
     <string name="button_normal_video_title">Grabar vídeo</string>
     <string name="camcorder_tip_8k_max_video_duration">Puedes grabar hasta 6 minutos en 8K</string>
-    <string name="camcorder_tip_current_max_video_duration">Puede grabar hasta %d minutos de video en la resolución actual</string>
+    <string name="camcorder_tip_current_max_video_duration">Puedes grabar hasta %d minutos de vídeo con la resolución actual</string>
     <string name="camera_disabled">La cámara ha sido deshabilitada</string>
     <string name="camera_error_title">Error de cámara</string>
     <string name="camera_facedetection_sub_option_hint">Característica experimental</string>
@@ -401,12 +400,12 @@ y ajustar preferencias automáticamente"</string>
     <string name="clone_adjust">Ajustar</string>
     <string name="clone_copy_mode">Congelar fotograma</string>
     <string name="clone_do_not_move_phone">"No muevas tu dispositvo"</string>
-    <string name="clone_drag_to_adjust_the_posture">Seleccionar y arrastrar para ajustar</string>
-    <string name="clone_guide_copy_tip3">"Capture un sujeto que se mueva por toda la pantalla."</string>
-    <string name="clone_guide_copy_tip5">Su sujeto puede esquiar, jugar baloncesto, bailar o simplemente caminar.</string>
+    <string name="clone_drag_to_adjust_the_posture">Seleccionaa y arrastra para ajustar</string>
+    <string name="clone_guide_copy_tip3">"Captura un sujeto que se esté moviendo por toda la pantalla."</string>
+    <string name="clone_guide_copy_tip5">Tu sujeto puede esquiar, jugar al baloncesto, bailar o simplemente caminar.</string>
     <string name="clone_guide_copy_tip6">Los fotogramas congelados se \"recogerán\" mientras se reproduce el vídeo.</string>
-    <string name="clone_guide_copy_tip7">Experimenta con poses.</string>
-    <string name="clone_guide_copy_title2">Congelar videos de fotogramas</string>
+    <string name="clone_guide_copy_tip7">Experimenta con las poses</string>
+    <string name="clone_guide_copy_title2">Congelar fotogramas de vídeos</string>
     <string name="clone_guide_tip1">La clonación solo funciona con personas.</string>
     <string name="clone_guide_tip3">Evita objetos en movimiento y fondos monótonos.</string>
     <string name="clone_guide_tip4">Mantén tu dispositivo estable y asegúrate de que la persona tenga una iluminación suficiente.</string>
@@ -429,11 +428,11 @@ y ajustar preferencias automáticamente"</string>
     <string name="clone_video_mode">Vídeo</string>
     <string name="close_back_flash_toast">"Tu dispositivo está sobrecalentado. Ahora no se puede usar el flash."</string>
     <string name="close_front_flash_toast">"Tu dispositivo está sobrecalentado. Ahora no se puede usar el flash."</string>
-    <string name="close_night_algo_toast_low_power">Cargue su dispositivo para poder configurar la exposición</string>
-    <string name="close_night_algo_toast_thermal">Enfríe su dispositivo para poder configurar la exposición</string>
+    <string name="close_night_algo_toast_low_power">Carga tu dispositivo para poder establecer la exposición</string>
+    <string name="close_night_algo_toast_thermal">Enfría tu dispositivo para poder establecer la exposición</string>
     <string name="color_effect_entry_berry">Bayas</string>
     <string name="color_effect_entry_blackgold">Ondas doradas</string>
-    <string name="color_effect_entry_blackgold_describe">Este filtro de alto contraste retiene solo los colores amarillo y azul oscuro. Úselo en calles bien iluminadas en una ciudad de noche.</string>
+    <string name="color_effect_entry_blackgold_describe">Este filtro de alto contraste retiene solo los colores amarillos y azul oscuro. Úsalo en calles bien iluminadas de una ciudad nocturna.</string>
     <string name="color_effect_entry_blackice">Hielo negro</string>
     <string name="color_effect_entry_blackwhite">B/N</string>
     <string name="color_effect_entry_classic">Clásico</string>
@@ -446,18 +445,18 @@ y ajustar preferencias automáticamente"</string>
     <string name="color_effect_entry_koizora">Amor</string>
     <string name="color_effect_entry_latte">Latte</string>
     <string name="color_effect_entry_new_1">Misterio</string>
-    <string name="color_effect_entry_new_1_describe">Un esquema de color comúnmente utilizado en películas agrega verde a las áreas más oscuras. Este filtro funciona bien para escenas de alto contraste como el atardecer en la ciudad.</string>
+    <string name="color_effect_entry_new_1_describe">Un esquema de color comúnmente utilizado en películas añade verde a las áreas más oscuras. Este filtro funciona bien para escenas de alto contraste como un atardecer en una ciudad.</string>
     <string name="color_effect_entry_new_2">Tango</string>
-    <string name="color_effect_entry_new_2_describe">La combinación de alto contraste y saturación resalta el sabor de la pasión y el ardor.</string>
+    <string name="color_effect_entry_new_2_describe">La combinación de alto contraste y saturación resalta el ardor de la pasión.</string>
     <string name="color_effect_entry_new_3">Fantasía</string>
     <string name="color_effect_entry_new_3_describe">Esta combinación única de colores funciona perfectamente en climas nublados y con luz suave.</string>
-    <string name="color_effect_entry_new_4">Sueño</string>
+    <string name="color_effect_entry_new_4">Letargo</string>
     <string name="color_effect_entry_new_4_describe">Los tonos oscuros y el contraste suave son adecuados para escenas interiores con iluminación tenue.</string>
     <string name="color_effect_entry_new_5">Carmen</string>
     <string name="color_effect_entry_new_5_describe">Los tonos marrones y el contraste medio crean una atmósfera cálida para escenas al aire libre filmadas con luz natural.</string>
     <string name="color_effect_entry_new_bbp_describe">El alto contraste y la baja saturación aportarán una sensación cinematográfica a la mayoría de las escenas.</string>
     <string name="color_effect_entry_orange">Lima</string>
-    <string name="color_effect_entry_orange_describe">Un truco de película clásico que enfría las áreas oscuras y hace que las luces sean más cálidas. Este filtro refrescará tanto la jungla urbana como grandes areas en el exterior.</string>
+    <string name="color_effect_entry_orange_describe">Un truco cinematográfico clásico que enfría las áreas oscuras y hace que las luces sean más cálidas. Este filtro refrescará tanto las escenas urbanas como aquellas al aire libre.</string>
     <string name="color_effect_entry_quiet">Calma</string>
     <string name="color_effect_entry_sibopenk">Ciberpunk</string>
     <string name="color_effect_entry_soda">Soda</string>
@@ -485,7 +484,7 @@ y ajustar preferencias automáticamente"</string>
     <string name="config_name_super_resolution">Súper resolución</string>
     <string name="config_name_tilt">Efecto diorama</string>
     <string name="config_name_timer">Temporizador</string>
-    <string name="confirm_fastmotion_reset_manually_parameter_message">¿Restablecer los parámetros ahora?</string>
+    <string name="confirm_fastmotion_reset_manually_parameter_message">¿Restablecer ahora los parámetros?</string>
     <string name="confirm_install_scanner_message">"Escáner te permite escanear códigos QR, códigos de barras y más. No tienes que conectarte a internet para instalarlo."</string>
     <string name="confirm_install_scanner_title">Instalar escáner</string>
     <string name="confirm_location_alert">Recordar ubicaciones de las fotos</string>
@@ -498,20 +497,20 @@ y ajustar preferencias automáticamente"</string>
     <string name="confirm_restore_message">"¿Restaurar ajustes predeterminados de la cámara?"</string>
     <string name="confirm_restore_title">Restaurar ajustes predeterminados</string>
     <string name="copy">Copiar</string>
-    <string name="cta_mimoji_msg">¡Bienvenido a Fun Cam! Puede usar esta aplicación para tomar fotos y grabar videos. Para poder funcionar normalmente, esta aplicación necesita conectarse a Internet y requiere los siguientes permisos para recopilar su información personal:</string>
+    <string name="cta_mimoji_msg">¡Bienvenido a Fun Cam! Puedes usar esta aplicación para tomar fotos y grabar vídeos. Para poder funcionar con normalidad, esta aplicación necesita conectarse a internet y requiere los siguientes permisos para recopilar tu información personal:</string>
     <string name="cta_mimoji_perm_type">Permisos obligatorios (utilizados para funciones y servicios básicos de esta aplicación)</string>
-    <string name="cta_mimoji_user_links"><Data>Lea y acepte nuestro &lt;a href =%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href =%2$s&gt;Política de Privacidad&lt;/a&gt; antes de usar esta aplicación.</Data></string>
+    <string name="cta_mimoji_user_links">&lt;Data&gt;Lee y acepta nuestro &lt;a href =%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href =%2$s&gt;Política de Privacidad&lt;/a&gt; antes de usar esta aplicación.&lt;/Data&gt;</string>
     <string name="cta_mimoji_user_tips">"Si no acepta otorgar permisos obligatorios o compartir y cargar su información personal, no podrá usar esta aplicación. Si no otorga permisos opcionales, no podrá utilizar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible. Siempre puede restringir los permisos o retirar su consentimiento en los Ajustes."</string>
     <string name="cta_msg">¡Bienvenido a Cámara! Puede usar esta aplicación para tomar fotos y grabar vídeos. Esta aplicación necesita conectarse a Internet y requiere los siguientes permisos opcionales:</string>
     <string name="cta_perm_cam">Usar la cámara</string>
     <string name="cta_perm_cam_desc">Para tomar fotos</string>
     <string name="cta_perm_dec">Para añadir información de ubicación a fotos y vídeos</string>
     <string name="cta_perm_loc">Ubicación</string>
-    <string name="cta_perm_storage">Acceder a las fotos en este dispositivo</string>
+    <string name="cta_perm_storage">Acceder a fotos en este dispositivo</string>
     <string name="cta_perm_storage_desc">Para ver y guardar fotos</string>
     <string name="cta_perm_type">"Permisos adicionales (usados para funciones adicionales mientras las usas)"</string>
-    <string name="cta_perm_voice">Usar micrófono</string>
-    <string name="cta_perm_voice_desc">Para grabar audio mientras se toman videos</string>
+    <string name="cta_perm_voice">Usar el micrófono</string>
+    <string name="cta_perm_voice_desc">Para grabar audio mientras se graba vídeo</string>
     <string name="cta_user_tips">&lt;Data&gt;Para comprender plenamente tus derechos como usuario y la forma en que usamos tus datos, lee y acepta nuestro &lt;a href =%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href =%2$s&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="custom_sound_art">Retro</string>
     <string name="custom_sound_default">Predeterminado</string>
@@ -557,20 +556,20 @@ los documentos escaneados automáticamente"</string>
     <string name="document_mode_use_hint_text_title">Escanear documentos</string>
     <string name="document_origin">Original</string>
     <string name="document_strengthen">Mejorado</string>
-    <string name="dolly_zoom_capture_tip1">Coloque el sujeto en el marco y mantenga el dispositivo al menos a %d metros de distancia</string>
-    <string name="dolly_zoom_capture_tip2">Aleje el dispositivo del sujeto de manera constante</string>
-    <string name="dolly_zoom_capture_tip3">Perdió la pista del sujeto. Comience de nuevo.</string>
-    <string name="dolly_zoom_capture_tip4">Movió el dispositivo demasiado lejos. Comience de nuevo.</string>
-    <string name="dolly_zoom_capture_tip5">"No se pudo guardar el video"</string>
-    <string name="dolly_zoom_guide_tip1">"Asegúrese de que haya suficiente espacio entre el sujeto y el fondo."</string>
+    <string name="dolly_zoom_capture_tip1">Coloca tu sujeto en el marco y mantén el dispositivo al menos a %d metro de distancia</string>
+    <string name="dolly_zoom_capture_tip2">Aleja el dispositivo del sujeto de manera constante</string>
+    <string name="dolly_zoom_capture_tip3">Perdiste la pista del sujeto. Comienza de nuevo.</string>
+    <string name="dolly_zoom_capture_tip4">Alejaste demasiado el dispositivo. Comienza de nuevo.</string>
+    <string name="dolly_zoom_capture_tip5">"No se pudo guardar el vídeo"</string>
+    <string name="dolly_zoom_guide_tip1">"Asegúrate de que haya suficiente espacio entre el sujeto y el fondo."</string>
     <string name="dolly_zoom_guide_tip10">¡Y más!</string>
-    <string name="dolly_zoom_guide_tip2">Trate de evitar grandes áreas de color sólido.</string>
-    <string name="dolly_zoom_guide_tip3">Coloque al sujeto en el marco.</string>
-    <string name="dolly_zoom_guide_tip4">Pídale que no se mueva.</string>
-    <string name="dolly_zoom_guide_tip5">Recuerde mantener al sujeto dentro del encuadre mientras dispara.</string>
-    <string name="dolly_zoom_guide_tip6">Aleje el dispositivo del sujeto de manera constante.</string>
+    <string name="dolly_zoom_guide_tip2">Intenta evitar grandes áreas con colores sólidos.</string>
+    <string name="dolly_zoom_guide_tip3">Coloca tu sujeto dentro del marco.</string>
+    <string name="dolly_zoom_guide_tip4">Pídele a tu sujeto que no se mueva.</string>
+    <string name="dolly_zoom_guide_tip5">Recuerda mantener al sujeto dentro del marco mientras disparas.</string>
+    <string name="dolly_zoom_guide_tip6">Aleja el dispositivo del sujeto de manera constante.</string>
     <string name="dolly_zoom_guide_tip7">Pasillos.</string>
-    <string name="dolly_zoom_guide_tip8">Escalera.</string>
+    <string name="dolly_zoom_guide_tip8">Escaleras.</string>
     <string name="dolly_zoom_guide_tip9">Callejones.</string>
     <string name="dolly_zoom_guide_video_title1">Zoom mágico</string>
     <string name="dolly_zoom_guide_video_title2">Escenas</string>
@@ -630,7 +629,7 @@ La grabación de teléfono dual también le permite conectarse al otro dispositi
     <string name="eye_light_comic">Manga</string>
     <string name="eye_light_crescent">Creciente</string>
     <string name="eye_light_nature">Naturaleza</string>
-    <string name="eye_light_rainbow">Arco iris</string>
+    <string name="eye_light_rainbow">Arcoíris</string>
     <string name="eye_light_star">Estrellas</string>
     <string name="eye_light_window">Ventana</string>
     <string name="face_age_info">Edad: %d</string>
@@ -661,17 +660,17 @@ La grabación de teléfono dual también le permite conectarse al otro dispositi
     <string name="fastmotion_pro_save_time_infinity">Duración ilimitada</string>
     <string name="fastmotion_pro_save_time_min_and_sec">Duración: %1$s %2$s</string>
     <string name="fastmotion_pro_save_time_min_or_sec">Duración: %1$s</string>
-    <string name="film_landscape_timefreeze_hint">Los videos donde el tiempo se congela solo pueden grabarse en modo horizontal</string>
+    <string name="film_landscape_timefreeze_hint">Los vídeos con congelación del tiempo solo se pueden grabar en orientación apaisada</string>
     <string name="film_timefreeze">Congelar fondo</string>
-    <string name="film_timefreeze_hint">Toque el obturador para comenzar a grabar</string>
+    <string name="film_timefreeze_hint">Pulsa el disparador para empezar a grabar</string>
     <string name="film_timefreeze_reset">Descongelar fondo</string>
     <string name="film_video_a">Zoom mágico</string>
     <string name="film_video_b">Obturador lento</string>
-    <string name="film_video_b_tip">Disparo con poca luz</string>
-    <string name="film_video_c">Tiempo congelado</string>
-    <string name="film_video_d">Lapso de tiempo nocturno</string>
+    <string name="film_video_b_tip">Dispara con poca luz</string>
+    <string name="film_video_c">Congelación del tiempo</string>
+    <string name="film_video_d">Time-lapse nocturno</string>
     <string name="film_video_e">Mundo paralelo</string>
-    <string name="film_video_tip">Use un trípode</string>
+    <string name="film_video_tip">Usa un trípode</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
@@ -744,7 +743,7 @@ en modo Retrato"</string>
     <string name="lighting_rainbow">Arcoíris</string>
     <string name="link_privacy_policy">http://www.miui.com/res/doc/privacy.html?lang=%s</string>
     <string name="live_draft_continue">Resume</string>
-    <string name="live_draft_empty">No items here</string>
+    <string name="live_draft_empty">No hay elementos</string>
     <string name="live_edit_exit_confirm">Detener</string>
     <string name="live_edit_exit_message">¿Dejar de disparar?</string>
     <string name="live_edit_exit_message_draft">Save as draft</string>
@@ -753,18 +752,18 @@ en modo Retrato"</string>
     <string name="live_error_message">Algunas funciones podrían no funcionar correctamente cuando la hora del sistema es incorrecta.</string>
     <string name="live_error_title">"La hora del sistema no es correcta"</string>
     <string name="live_music_author">Video corto de Xiaomi</string>
-    <string name="live_music_author_unknown">Artista desconocido</string>
+    <string name="live_music_author_unknown">Unknown artist</string>
     <string name="live_music_change_bgm">Cambiar la música de fondo</string>
     <string name="live_music_close_cancel_message">Cancelar</string>
     <string name="live_music_close_message">¿Desactivar la música?</string>
     <string name="live_music_close_sure_message">Desactivar</string>
-    <string name="live_music_cut_prompt">Seleccionar pista de sonido</string>
+    <string name="live_music_cut_prompt">Select soundtrack</string>
     <string name="live_music_downloading_tips">Descargando…</string>
     <string name="live_music_hot_title">Canciones populales</string>
     <string name="live_music_local_title">Local</string>
     <string name="live_music_network_exception">Error de red</string>
     <string name="live_music_network_exception_tips">Ha habido un error de red. Pulsa para intentarlo de nuevo.</string>
-    <string name="live_music_title_unknown">Pista desconocida</string>
+    <string name="live_music_title_unknown">Unknown track</string>
     <string name="live_reverse_confirm">Eliminar</string>
     <string name="live_reverse_message">¿Eliminar el elemento capturado anteriormente?</string>
     <string name="live_share_moments">Momentos</string>
@@ -779,7 +778,7 @@ en modo Retrato"</string>
     <string name="live_sticker_tab_name">Pegatina TikTok Magic</string>
     <string name="live_sticker_updating">Actualizando…</string>
     <string name="live_workspace_title">Drafts</string>
-    <string name="live_workspace_title_edit">Select items to delete</string>
+    <string name="live_workspace_title_edit">Seleccionar elementos para eliminar</string>
     <string name="location_access_allow">Permitir</string>
     <string name="location_permission_des">Recordar ubicaciones para fotos y vídeos</string>
     <string name="location_permission_not_ask_again">Permite a la Cámara acceder a tu ubicación en los Ajustes.</string>
@@ -802,7 +801,7 @@ parezcan más grandes en las fotos"</string>
     <string name="makeup_reset_toast">Efectos de maquillaje eliminados con éxito</string>
     <string name="manual_picture_style">Parámetros</string>
     <string name="manually_raw_hint">CRUDO</string>
-    <string name="masterfilter_description_title">Filtros de película</string>
+    <string name="masterfilter_description_title">Filtros de películas</string>
     <string name="message_snap_double_confirm">Mantener presionado el botón de volumen activará el NFC. ¿Reemplazar esta función?</string>
     <string name="midnight">Noche</string>
     <string name="mimoji_app_name">Fun Cam</string>
@@ -903,7 +902,7 @@ parezcan más grandes en las fotos"</string>
     <string name="mimoji_ornament">Accesorios</string>
     <string name="mimoji_recapture">Empezar de nuevo</string>
     <string name="mimoji_recapture_alert">Todos los cambios serán descartados una vez que empieces de nuevo. ¿Empezar de nuevo?</string>
-    <string name="mimoji_reset">Reiniciar</string>
+    <string name="mimoji_reset">Restablecer</string>
     <string name="mimoji_save">Guardar</string>
     <string name="mimoji_save_finish">Listo</string>
     <string name="mimoji_save_gif_emoticon">¿Guardar stickers en formato GIF en la Galería?</string>
@@ -1011,10 +1010,10 @@ parezcan más grandes en las fotos"</string>
     <string name="morning">Mañana</string>
     <string name="multi_window_mode_not_supported">"No se puede usar la cámara en el modo multiventana"</string>
     <string name="network_access_user_notice_agree">Aceptar</string>
-    <string name="network_access_user_notice_message_live_video">&lt;Data&gt;La Cámara necesita conectarse a internet para proporcionar efectos, música y otras características para vídeos cortos.&lt;br/&gt;&lt;br/&gt;Al pulsar \"Aceptar\" estás de acuerdo nuestro &lt;a href =%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href =%2$s&gt;Política de Privacidad&lt;/a&gt; y permites que la Cámara se conecte a internet.&lt;/Data&gt;</string>
+    <string name="network_access_user_notice_message_live_video">&lt;Data&gt;La Cámara necesita conectarse a internet para proporcionar efectos, música y otras características para vídeos cortos.&lt;br/&gt;&lt;br/&gt;Al pulsar Aceptar estás de acuerdo nuestro &lt;a href =%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href =%2$s&gt;Política de Privacidad&lt;/a&gt; y permites que la Cámara se conecte a internet.&lt;/Data&gt;</string>
     <string name="network_access_user_notice_message_mi_live_video">&lt;Data&gt;¡Bienvenido a vídeos cortos! Nuestro servicio necesita conectarse a la red para proporcionarte música y otras funciones. &lt;br/&gt;&lt;br/&gt;Antes de usar nuestro servicio, necesitas leer y aceptar nuestro &lt;a href =%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href =%2$s&gt;Política de Privacidad&lt;/a&gt;, así como permitir a la aplicación conectarse a internet.&lt;/Data&gt;</string>
-    <string name="network_access_user_notice_message_sticker">&lt;Data&gt;La Cámara necesita conectarse a internet para proporcionar stickers para esta característica.&lt;br/&gt;&lt;br/&gt;Al pulsar \"Aceptar\" estás de acuerdo con nuestro &lt;a href =%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href =%2$s&gt;Política de Privacidad&lt;/a&gt; y permites que la Cámara se conecte a internet.&lt;/Data&gt;</string>
-    <string name="network_access_user_notice_message_voice_caption">&lt;Data&gt;La Cámara necesita conectarse a internet para proporcionar la función de salida voz a texto.&lt;br/&gt;&lt;br/&gt;Al pulsar \"Aceptar\" estás de acuerdo con nuestro &lt;a href =%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href =%2$s&gt;Política de Privacidad&lt;/a&gt; y permites que la Cámara se conecte a internet.&lt;/Data&gt;</string>
+    <string name="network_access_user_notice_message_sticker">&lt;Data&gt;La Cámara necesita conectarse a internet para proporcionar stickers para esta característica.&lt;br/&gt;&lt;br/&gt;Al pulsar Aceptar estás de acuerdo con nuestro &lt;a href =%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href =%2$s&gt;Política de Privacidad&lt;/a&gt; y permites que la Cámara se conecte a internet.&lt;/Data&gt;</string>
+    <string name="network_access_user_notice_message_voice_caption">&lt;Data&gt;La Cámara necesita conectarse a internet para proporcionar la función de salida voz a texto.&lt;br/&gt;&lt;br/&gt;Al pulsar Aceptar estás de acuerdo con nuestro &lt;a href =%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href =%2$s&gt;Política de Privacidad&lt;/a&gt; y permites que la Cámara se conecte a internet.&lt;/Data&gt;</string>
     <string name="network_access_user_notice_title">Conectando a internet</string>
     <string name="network_connection_failed">"No se pudo conectar"</string>
     <string name="network_connection_ongoing">Conectando…</string>
@@ -1065,7 +1064,7 @@ parezcan más grandes en las fotos"</string>
     <string name="parameter_lens_w">AMPLIO (lente gran angular)</string>
     <string name="parameter_log_format_description">Este formato graba vídeo con función logarítmica aplicada a la curva de exposición para capturar más detalles en altas luces y sombras, ofreciéndote más opciones en el procesamiento posterior.</string>
     <string name="parameter_log_format_title">Formato LOG</string>
-    <string name="parameter_manual_picturestyle_description">La saturación le permite controlar la profundidad y la intensidad de los colores, el ajuste del contraste resalta o minimiza la diferencia entre la luz y la oscuridad, y la nitidez representa los detalles a lo largo de los contornos.</string>
+    <string name="parameter_manual_picturestyle_description">La saturación te permite controlar la profundidad y la intensidad de los colores, el ajuste del contraste resalta o minimiza la diferencia entre la luz y la oscuridad, y la nitidez representa los detalles a lo largo de los contornos.</string>
     <string name="parameter_metering_description">La medición media tiene en cuenta todas las áreas de tu imagen, y funciona mejor para escenas con iluminación uniforme. La medición ponderada al centro se centra principalmente en el área central del cuadro y tiene en cuenta el brillo del área circundante, que es adecuada para fotografiar sujetos en el centro del cuadro. La medición puntual solo cubre el área en un punto, lo que le brinda un control preciso sobre la exposición.</string>
     <string name="parameter_metering_title">Modos de medición</string>
     <string name="parameter_peak_focus_description">"Cuando enfoques manualmente, usa el pico de enfoque para colocar un resaltado rojo en el área enfocada."</string>
@@ -1075,7 +1074,7 @@ parezcan más grandes en las fotos"</string>
     <string name="parameter_videos_title">Efectos de película</string>
     <string name="parameter_wb_description">Además del balance de blancos preestablecido (incandescente, luz solar, fluorescente, nublado), también puedes estalecer un valor de balance de blancos personalizado con un rango Kelvin entre 2000-8000.</string>
     <string name="parameter_wb_title">Balance de blancos</string>
-    <string name="parameter_zoom_slider_description">Arrastra el control deslizante del zoom hacia arriba y hacia abajo para cambiar tu toma suavemente de un plano largo a un primer plano.</string>
+    <string name="parameter_zoom_slider_description">Arrastra el control deslizante del zoom horizontalmente para cambiar tu toma suavemente de un plano largo a un primer plano.</string>
     <string name="parameter_zoom_slider_title">Zoom</string>
     <string name="path_settings">Aplicaciones del sistema/Cámara/Ajustes</string>
     <string name="photo_assistance_tips_title">Consejos en vivo</string>
@@ -1122,8 +1121,7 @@ el fondo de tus fotos"</string>
     <string name="portrait_mode_too_far_hint">Coloca el objeto a 2 metros</string>
     <string name="portrait_mode_use_hint">"Modo retrato difumina el segundo plano
 y resalta las personas en primer plano."</string>
-    <string name="portrait_mode_use_hint_for_bokeh">"Prueba el Modo retrato.
-Mantiene el sujeto nítido mientras difumina el fondo."</string>
+    <string name="portrait_mode_use_hint_for_bokeh">"Prueba el Modo retrato. Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_960_watermark_title">Marca de agua 960FPS</string>
     <string name="pref_a_c_f">Sonógrafo</string>
     <string name="pref_advance_settings">Ajustes adicionales</string>
@@ -1149,7 +1147,7 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_camera_auto_capture_when_stable_title">Captura objetos seleccionados cuando estén fijos</string>
     <string name="pref_camera_auto_chroma_flash_title">Chroma flash</string>
     <string name="pref_camera_auto_hibernation">Grabar con la pantalla apagada</string>
-    <string name="pref_camera_auto_hibernation_description">Apaga la pantalla después de %d minutos grabando para ahorrar batería</string>
+    <string name="pref_camera_auto_hibernation_description">Mientras grabas vídeo, apaga la pantalla después de %d minutos de inactividad para ahorrar energía</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Centrado</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Cuadro medio</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Medición por puntos</string>
@@ -1192,8 +1190,8 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_camera_device_watermark_title">Marca de agua del dispositivo</string>
     <string name="pref_camera_dual_enable_title">Encienda la cámara dual</string>
     <string name="pref_camera_dual_sat_enable_title">Encienda la cámara doble SAT</string>
-    <string name="pref_camera_dynamic_frame_rate_summary">Disminuye la velocidad de fotogramas en condiciones de poca luz desde %1$d hasta %2$d FPS para mejorar la calidad del vídeo</string>
-    <string name="pref_camera_dynamic_frame_rate_title">Ajustar la velocidad de fotogramas a poca luz</string>
+    <string name="pref_camera_dynamic_frame_rate_summary">La tasa de fotogramas se reducirá automáticamente en condiciones de poca luz para mejorar la calidad del vídeo</string>
+    <string name="pref_camera_dynamic_frame_rate_title">Ajustar la tasa de fotogramas a poca luz</string>
     <string name="pref_camera_eis_entry_normal">Vídeo estable</string>
     <string name="pref_camera_eis_entry_off">Desactivado</string>
     <string name="pref_camera_eis_entry_pro">Vídeo estable PRO</string>
@@ -1243,7 +1241,7 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_camera_heic_image_format_description2">"El formato de archivo de imagen de alta eficiencia ahorra espacio de almacenamiento, pero algunas aplicaciones de terceros no lo admiten. No puedes tomar fotos en vivo y eliminar marcas de agua en el formato HEIF."</string>
     <string name="pref_camera_heic_image_format_title">Formato HEIF</string>
     <string name="pref_camera_hfr_entry_off">Desactivado</string>
-    <string name="pref_camera_high_quality_preferred_description">Mejora la calidad de imagen utilizando el algoritmo inteligente. La velocidad de captura de imagen puede disminuir cuando esta función está activada.</string>
+    <string name="pref_camera_high_quality_preferred_description">Mejora la calidad de imagen usando el algoritmo inteligente. La velocidad de captura de imágenes puede disminuir cuando esta función está activada. El Modo nocturno se activará automáticamente cuando se detecten condiciones de poca luz.</string>
     <string name="pref_camera_high_quality_preferred_title">Mejorar la calidad de imagen</string>
     <string name="pref_camera_histogram_entry_disable">Desactivar</string>
     <string name="pref_camera_histogram_entry_enable">Activar</string>
@@ -1279,7 +1277,7 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_camera_multilevel_entry_lowest">Bajísimo</string>
     <string name="pref_camera_multilevel_entry_middle">Medio (predeterminado)</string>
     <string name="pref_camera_multilevel_entry_normal">Normal</string>
-    <string name="pref_camera_new_coloreffect_title">Filtros de película</string>
+    <string name="pref_camera_new_coloreffect_title">Filtros de películas</string>
     <string name="pref_camera_normal_wide_ldc_description">Corregir caras distorsionadas de personas que están cerca del borde del marco</string>
     <string name="pref_camera_normal_wide_ldc_title">Corregir caras distorsionadas en fotos grupales</string>
     <string name="pref_camera_optimized_flash_enable_title">Flash optimizado</string>
@@ -1295,8 +1293,8 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_camera_portrait_mode_entry_on">Modo retrato activado</string>
     <string name="pref_camera_portrait_mode_title">Modo retrato</string>
     <string name="pref_camera_portrait_with_facebeauty_title">Embellecer en modo vertical</string>
-    <string name="pref_camera_predictive_shutter_description">Rastrear movimiento para minimizar el desenfoque en las fotos de niños, mascotas y otros sujetos activos</string>
-    <string name="pref_camera_predictive_shutter_title">Rastrear movimiento</string>
+    <string name="pref_camera_predictive_shutter_description">El seguimiento del movimiento minimiza el desenfoque en las fotos de niños, mascotas y otros sujetos activos</string>
+    <string name="pref_camera_predictive_shutter_title">Seguimiento del movimiento</string>
     <string name="pref_camera_proximity_lock_summary">Bloquea la función táctil al colocarse en un bolsillo</string>
     <string name="pref_camera_proximity_lock_title">Modo bolsillo</string>
     <string name="pref_camera_quick_settings">Ajustes rápidos</string>
@@ -1356,7 +1354,7 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_camera_tilt_shift_entry_parallel">Paralelo</string>
     <string name="pref_camera_tilt_shift_title">Efecto diorama</string>
     <string name="pref_camera_tip_doc">Escáner de documentos</string>
-    <string name="pref_camera_tip_id_card">Escáner de identificación</string>
+    <string name="pref_camera_tip_id_card">Escáner de ID</string>
     <string name="pref_camera_touchafaec_entry_off">Desactivado</string>
     <string name="pref_camera_touchafaec_entry_on">Activado</string>
     <string name="pref_camera_track_focus_preferred_description">"Actívelo para mantener el enfoque en personas y animales automáticamente. También podrá seleccionar sujetos para realizar un seguimiento manualmente."</string>
@@ -1408,7 +1406,7 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_dual_camera_video">Vídeo dual</string>
     <string name="pref_e_c_t_j">Sonido original</string>
     <string name="pref_e_p_k">Micrófono externo</string>
-    <string name="pref_e_p_s_n">Grabe sonido a través de un micrófono externo cuando se conecten auriculares Bluetooth equipados con micrófono</string>
+    <string name="pref_e_p_s_n">Graba el sonido a través de un micrófono externo cuando los auriculares Bluetooth equipados con micrófono estén conectados</string>
     <string name="pref_face_beauty_title">Modo belleza</string>
     <string name="pref_fingerprint_capture_title">Obturador con huella dactilar</string>
     <string name="pref_front_denoise_summary">Reduce el rudio generado detrás de la cámara frontal</string>
@@ -1422,13 +1420,13 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_google_lens_summary">Apunta la cámara hacia la información de contacto, URL y códigos QR para ver las opciones disponibles</string>
     <string name="pref_google_lens_title">Sugerencias de Google Lens</string>
     <string name="pref_groupshot_with_primitive_title">Guardar también las fotos originales</string>
-    <string name="pref_hdr10_hdr10plus_video_mode_description">Optimice los colores para videos 4K (HDR10 +) y 8K (HDR10). Esta función solo funciona en dispositivos compatibles con HDR10 + / HDR10.</string>
+    <string name="pref_hdr10_hdr10plus_video_mode_description">Optimiza los colores para viíeos 4K (HDR10+) y 8K (HDR10). Esta función solo funciona en dispositivos compatibles con HDR10+/HDR10.</string>
     <string name="pref_hdr10_video_mode_description">Optimizar los colores y el contraste para vídeos 4K y 8K automáticamente. Los vídeos optimizados solo se pueden reproducir en dispositivos compatibles con HDR10.</string>
     <string name="pref_hdr10_video_mode_title">HDR10</string>
-    <string name="pref_hdr10plus_video_mode_description">Optimice los colores y ajuste el contraste para videos 4K y 8K. Esta función solo funciona en dispositivos compatibles con HDR10 +.</string>
+    <string name="pref_hdr10plus_video_mode_description">Optimiza los colores y ajusta el contraste para vídeos 4K y 8K. Esta función solo funciona en dispositivos compatibles con HDR10+.</string>
     <string name="pref_i_n_r_b">Reducción de ruido inteligente</string>
-    <string name="pref_k_h">Monitor en directo en el oído</string>
-    <string name="pref_k_s_i">Monitoree el sonido grabado con los auriculares cuando estén conectados</string>
+    <string name="pref_k_h">Monitor in-ear en vivo</string>
+    <string name="pref_k_s_i">Reproduce el sonido grabado en los auriculares cuando estén conectados</string>
     <string name="pref_lens_dirty_detect_summary">Recibir una notificación cuando las lentes estén sucias</string>
     <string name="pref_lens_dirty_detect_title">Notificar acerca de lentes sucias</string>
     <string name="pref_live_duration_title">Duración en directo</string>
@@ -1438,11 +1436,11 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_multi_camera_dual_video_front">Cámara frontal</string>
     <string name="pref_multi_camera_dual_video_remote">Grabación de teléfono dual</string>
     <string name="pref_n_s_a">Ajustes de audio</string>
-    <string name="pref_n_s_o_l">Activar</string>
-    <string name="pref_n_s_o_m">Desactivar</string>
+    <string name="pref_n_s_o_l">Activado</string>
+    <string name="pref_n_s_o_m">Desactivado</string>
     <string name="pref_new_slow_motion_video_quality_240_720only">Solo puede grabar vídeos de 720p con 240 fps</string>
     <string name="pref_new_slow_motion_video_quality_960_720only">Solo puede grabar vídeos de 720p con 960 fps</string>
-    <string name="pref_p_d_e">Características pro</string>
+    <string name="pref_p_d_e">Funciones Pro</string>
     <string name="pref_photo_assistance_tips_off">Desactivado</string>
     <string name="pref_photo_assistance_tips_on">Activado</string>
     <string name="pref_pic_flaw_tip_summary">Recibe notificaciones en tiempo real cuando las personas en el marco cierren los ojos o la lente esté parcialmente cubierta al tomar la foto</string>
@@ -1454,7 +1452,7 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_retain_camera_common_mode_summary">Abre la Cámara en el modo usado anteriormente en lugar de cambiar a \"Foto\"</string>
     <string name="pref_retain_camera_mode_summary">Cambiar cámara al modo usado antes al abrir la aplicación.</string>
     <string name="pref_retain_camera_mode_title">Guardar modo anterior</string>
-    <string name="pref_s_n_r_s_c">Reducir el ruido en los videos según la escena</string>
+    <string name="pref_s_n_r_s_c">Reducir el ruido en los vídeos según la escena</string>
     <string name="pref_scan_qrcode_summary">Solo la cámara trasera puede escanear códigos QR en el modo \"Foto\".</string>
     <string name="pref_scan_qrcode_title">Escanear códigos QR</string>
     <string name="pref_simple_hdr_entry_off">Desactivado</string>
@@ -1481,10 +1479,10 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_video_focusmode_entry_auto">Tocar</string>
     <string name="pref_video_focusmode_entry_continuous">AF-C</string>
     <string name="pref_video_focusmode_title">Modo de enfoque</string>
-    <string name="pref_video_hfr_title">Video HFR</string>
+    <string name="pref_video_hfr_title">Tasa de fotogramas</string>
     <string name="pref_video_quality_entry_1080p">FHD 1080p, 30fps</string>
     <string name="pref_video_quality_entry_1080p_60fps">FHD 1080p, 60fps</string>
-    <string name="pref_video_quality_hfr_title">Velocidad de fotogramas &amp; calidad de imagen</string>
+    <string name="pref_video_quality_hfr_title">Tasa de fotogramas y calidad de imagen</string>
     <string name="pref_video_quality_sub_120fps">120 fps</string>
     <string name="pref_video_quality_sub_24fps">24 fps</string>
     <string name="pref_video_quality_sub_30fps">30 fps</string>
@@ -1552,7 +1550,7 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="remote_online_whats">¿Cómo funciona la grabación de teléfono dual?</string>
     <string name="reset_manual_picture_style_toast">Parámetros restablecidos con éxito</string>
     <string name="reset_manually_parameter_confirmed">OK</string>
-    <string name="reset_manually_parameter_hint">Reiniciar</string>
+    <string name="reset_manually_parameter_hint">Restablecer</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
@@ -1564,8 +1562,8 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="search_menu_title">Buscar</string>
     <string name="search_settings">Ajustes de cámara;Calidad;Calidad de imagen;Ubicación de la imagen;Detección de rostro;Sonido de cámara</string>
     <string name="see_qrcode_detals">Ver detalles del código QR</string>
-    <string name="settings_camera_detect_card_description">Muestra un acceso directo cada vez que la cámara de IA detecta una tarjeta de identificación</string>
-    <string name="settings_camera_detect_description_doc">Muestra un acceso directo cada vez que la cámara de IA detecta un documento o una diapositiva de presentación</string>
+    <string name="settings_camera_detect_card_description">Muestra un acceso directo cada vez que la cámara IA detecta una tarjeta de identificación</string>
+    <string name="settings_camera_detect_description_doc">Muestra un acceso directo cada vez que la cámara IA detecta un documento o una diapositiva de presentación</string>
     <string name="settings_camera_near_range_description">Eliminar el desenfoque al enfocar en superficies planas muy cercanas</string>
     <string name="settings_camera_near_range_title">Enfoque cercano</string>
     <string name="share">Compartir</string>
@@ -1588,13 +1586,13 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="simple_mode_button_text_stereo_mode">Desactivar Ajuste de enfoque</string>
     <string name="simple_mode_button_text_tilt_shift">Desactivar Efecto diorama</string>
     <string name="simple_mode_button_text_ubifocus">Desactivar Reenfocar</string>
-    <string name="slow_shutter_tip1">Siga objetos que se mueven con poca luz.</string>
-    <string name="slow_shutter_tip2">Pruebe el obturador lento en diferentes escenas.</string>
+    <string name="slow_shutter_tip1">Sigue los objetos que se mueven con poca luz.</string>
+    <string name="slow_shutter_tip2">Prueba el obturador lento en diferentes escenas.</string>
     <string name="slow_shutter_tip3">Este efecto funciona bien con personas corriendo y vehículos en movimiento.</string>
-    <string name="slow_shutter_tip4">Capture desenfoque en movimiento en el fondo.</string>
-    <string name="slow_shutter_tip5">Y manténga el sujeto claro.</string>
+    <string name="slow_shutter_tip4">Captura el desenfoque del movimiento en el fondo.</string>
+    <string name="slow_shutter_tip5">Y mantén a tu sujeto nítido.</string>
     <string name="slow_shutter_title2">Capturar movimiento</string>
-    <string name="slow_shutter_title4">Mantenga su tema quieto</string>
+    <string name="slow_shutter_title4">Mantén tu sujeto quieto</string>
     <string name="snap_cancel">Cancelar</string>
     <string name="snap_confirmed">Reemplazar</string>
     <string name="solar_term_autumn_begins">Comienza el otoño</string>
@@ -1711,13 +1709,13 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="time_lapse_error">"No se puede usar este tamaño de vídeo para grabaciones time-lapse"</string>
     <string name="time_picker_dialog_title">Establecer hora</string>
     <string name="time_stamp_date_format">dd/MM/yyyy</string>
-    <string name="timefreeze_guide_tip2">Puede congelar y descongelar el fondo en cualquier momento antes o durante el disparo.</string>
-    <string name="timefreeze_guide_tip3">Pídale que permanezca en el centro del encuadre.</string>
-    <string name="timefreeze_guide_tip4">Haga que el tráfico se detenga.</string>
-    <string name="timefreeze_guide_tip5">Caminar entre la multitud estática.</string>
-    <string name="timefreeze_guide_tip6">Suspenda objetos en el aire.</string>
-    <string name="timefreeze_guide_tip7">¡O descubra sus propios trucos!</string>
-    <string name="timefreeze_guide_title">Videos con el tiempo congelado</string>
+    <string name="timefreeze_guide_tip2">Puedes congelar y descongelar el fondo en cualquier momento antes o durante la captura.</string>
+    <string name="timefreeze_guide_tip3">Pídele a tu sujeto que permanezca en el centro del marco.</string>
+    <string name="timefreeze_guide_tip4">Haz que el tráfico se detenga.</string>
+    <string name="timefreeze_guide_tip5">Camina entre una multitud estática.</string>
+    <string name="timefreeze_guide_tip6">Suspende objetos en medio del aire.</string>
+    <string name="timefreeze_guide_tip7">¡O descubre tus propios trucos!</string>
+    <string name="timefreeze_guide_title">Vídeos con congelación del tiempo</string>
     <string name="timer_burst">Ráfaga temporizada</string>
     <string name="timer_burst_manu_param_interval">Intervalo sin exposición</string>
     <string name="timer_burst_param_interval">Intervalo</string>
@@ -1796,21 +1794,21 @@ El Modo ultra gran angular es de ayuda cuando no te puedes alejar más de la esc
     <string name="video_effect_entry_bygone">Pasado</string>
     <string name="video_effect_entry_central">Central</string>
     <string name="video_effect_entry_color_retention">Foco de color</string>
-    <string name="video_effect_entry_color_retention_describe">Este filtro de retrato muestra personas en color, haciendo que los fondos sean en blanco y negro.</string>
+    <string name="video_effect_entry_color_retention_describe">Este filtro para retratos muestra a las personas en color, haciendo que los fondos aparezcan en blanco y negro.</string>
     <string name="video_effect_entry_fantasy">Fantasía</string>
     <string name="video_effect_entry_film">Película</string>
     <string name="video_effect_entry_forest">Arboleda</string>
     <string name="video_effect_entry_holiday">Reflejos</string>
     <string name="video_effect_entry_lost">Perdido</string>
     <string name="video_effect_entry_meet">Encuentro</string>
-    <string name="video_effect_entry_meet_describe">Los colores suaves recrean el aspecto nostálgico de las películas filmadas.</string>
+    <string name="video_effect_entry_meet_describe">Los colores suaves recrean el aspecto nostálgico de las tomas filmadas en películas fotográficas.</string>
     <string name="video_effect_entry_northern_europe">Nórdico</string>
-    <string name="video_effect_entry_northern_europe_describe">La baja saturación y contraste aportan algo de noir escandinavo a entornos interiores nublados y con poca luz.</string>
+    <string name="video_effect_entry_northern_europe_describe">La baja saturación y el contraste llevan algo de negro a ambientes interiores nublados y con poca luz.</string>
     <string name="video_effect_entry_polaroid">Polaroid</string>
     <string name="video_effect_entry_rome">Roma</string>
     <string name="video_effect_entry_rome_describe">El monocromo retro cálido funciona para la mayoría de las escenas.</string>
     <string name="video_effect_entry_summer_day">Verano</string>
-    <string name="video_effect_entry_summer_day_describe">Los tonos brillantes y de bajo contraste funcionan bien cuando necesita conservar los tonos de piel. Este filtro es adecuado para escenas al aire libre soleadas.</string>
+    <string name="video_effect_entry_summer_day_describe">Los tonos brillantes y de bajo contraste funcionan bien cuando necesitas preservar los tonos de piel. Este filtro es adecuado para escenas soleadas al aire libre.</string>
     <string name="video_effect_entry_wind_sing">Brisa</string>
     <string name="video_reach_size_limit">Límite de tamaño alcanzado.</string>
     <string name="video_shortcut_short">Vídeo</string>

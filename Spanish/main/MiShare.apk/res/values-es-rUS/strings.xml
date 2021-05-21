@@ -70,7 +70,7 @@
     <string name="error_ap_or_screen_already_hosting">"No puede enviar elementos a otros dispositivos mientras emite o usa un punto de acceso móvil."</string>
     <string name="error_device_lost">El otro dispositivo está fuera de alcance. Espere un momento y vuelva a intentarlo.</string>
     <string name="error_has_occurred">Se produjo un error</string>
-    <string name="error_mirror_working">"No puedo compartir elementos mientras se comparte la pantalla"</string>
+    <string name="error_mirror_working">"No se pueden compartir elementos mientras se comparte la pantalla"</string>
     <string name="error_msg_network_error">Error de red. Vuelva a intentarlo.</string>
     <string name="error_permission_denied">Para poder utilizar esta función, conceda a Mi Share todos los permisos necesarios en la Configuración.</string>
     <string name="error_receive_file_cannot_read">"No se pudo recibir el archivo"</string>
@@ -117,10 +117,10 @@
     <string name="friday_shortest">Vie</string>
     <string name="functions_are_being_developed">Esta función estará disponible pronto. ¡Esté atento!</string>
     <string name="go_to_settings">Ajustes</string>
-    <string name="guide_summary_1">La otra persona puede tocar el interruptor en el tono de Notificación</string>
-    <string name="guide_summary_2">"Seleccione el dispositivo al que le gustaría enviar elementos y toque su icono"</string>
-    <string name="guide_title_1">Encienda Mi Share en ambos dispositivos</string>
-    <string name="guide_title_2">Seleccionar dispositivo para compartir</string>
+    <string name="guide_summary_1">La otra persona puede pulsar sobre el interruptor en la Barra de notificaciones</string>
+    <string name="guide_summary_2">"Seleccione el dispositivo al que quieres enviar elementos y pulse sobre su icono"</string>
+    <string name="guide_title_1">Active Mi Share en ambos dispositivos</string>
+    <string name="guide_title_2">Seleccione el dispositivo para compartir</string>
     <string name="help">"¿No puede encontrar dispositivos?"</string>
     <string name="help_content">"Si no puede encontrar el dispositivo que necesita, pida a la otra persona que active Mi Share."</string>
     <string name="hide">Ocultar</string>
@@ -133,9 +133,8 @@
     <string name="midnight">Noche</string>
     <string name="mishare_folder_in_file_explorer">Administrador &gt; MiShare</string>
     <string name="mishare_service_channel_desc">Notificaciones acerca de los procesos de Mi Share</string>
-    <string name="mishare_settings_summary_international">"Puede usar Mi Share para enviar elementos a dispositivos cercanos.
-Mi Share es compatible con teléfonos Mi y Redmi.
-OPPO, vivo, realme y otras marcas serán compatibles con Mi Share próximamente. Puede ver la lista de dispositivos compatibles en nuestro sitio web."</string>
+    <string name="mishare_settings_summary_international">"Mi Share le permite enviar elementos de forma inalámbrica a otros dispositivos cercanos.
+Esta función es compatible con OPPO, vivo, realme y otros fabricantes de teléfonos inteligentes. Puede consultar la lista de dispositivos compatibles en el sitio web oficial de cualquier marca seleccionada."</string>
     <string name="mishare_state_protection">Activar Mi Share automáticamente</string>
     <string name="mishare_state_protection_summary">Volver a activar Mi Share automáticamente cuando el Bluetooth o Wi-Fi sean activados de nuevo</string>
     <string name="mishare_state_protection_summary_china">Volver a activar Mi Share automáticamente cuando el Bluetooth o WLAN sean activados de nuevo</string>
@@ -154,13 +153,13 @@ OPPO, vivo, realme y otras marcas serán compatibles con Mi Share próximamente.
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado correctamente</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando...</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Todo por ahora"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">"Todo por ahora"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento...</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Deslice hacia abajo para actualizar</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelte para actualizar</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar los elementos"</string>
     <string name="monday">Lunes</string>
     <string name="monday_short">Lun</string>
@@ -331,7 +330,7 @@ Antes de usar Mi Share, debe conceder los siguientes permisos, así como permiti
     <string name="tile_state_inactive">Desactivado</string>
     <string name="tile_state_unavailable">No disponible</string>
     <string name="time_picker_dialog_title">Establecer hora</string>
-    <string name="tips_prompt_enable_midrop">Comparta archivos con dispositivos cercanos</string>
+    <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="to_feedback">Reportar</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">Mañana</string>

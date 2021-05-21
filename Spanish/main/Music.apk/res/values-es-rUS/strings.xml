@@ -91,7 +91,7 @@
     <string name="always_use_metered">Utilizar siempre datos móviles</string>
     <string name="am">AM</string>
     <string name="app_description_content">"Música es una aplicación del sistema que contiene un reproductor de audio y le permite administrar archivos de audio. Aún podrá reproducir archivos de audio después de eliminar el acceso directo de la pantalla de inicio."</string>
-    <string name="app_description_title">¿Eliminar \"Música\" de la pantalla de inicio?</string>
+    <string name="app_description_title">¿Eliminar \"Música\" de la Pantalla de Inicio?</string>
     <string name="app_label">Descargas</string>
     <string name="app_permission_confirm">Entendido</string>
     <string name="app_permission_optional">Permisos opcionales</string>
@@ -422,7 +422,7 @@
     <string name="favorite_playlist">Favoritos</string>
     <string name="favorite_singer">Artistas favoritos</string>
     <string name="favorite_succeed">Agregado a Favoritos</string>
-    <string name="favorite_to_playlist">Añadir a lista de reproducción</string>
+    <string name="favorite_to_playlist">Agregar a la lista de reproducción</string>
     <string name="favorite_tracks">Favoritos</string>
     <string name="favorites">Favoritos</string>
     <string name="fcm_fallback_notification_channel_label">Varios</string>
@@ -769,10 +769,10 @@
     <string name="no_album_info">No hay información del álbum</string>
     <string name="no_artist_info">No hay información del artista</string>
     <string name="no_downloads">No hay descargas</string>
-    <string name="no_fans_empty_title">"Aún no tienes seguidores"</string>
+    <string name="no_fans_empty_title">"Todavía no tiene ningún seguidor"</string>
     <string name="no_favorites_songs">Vacío</string>
     <string name="no_file_picker_find">"El Administrador no está instalado."</string>
-    <string name="no_follow_empty_title">"No sigues a nadie todavía"</string>
+    <string name="no_follow_empty_title">"Todavía no sigue a nadie"</string>
     <string name="no_local_songs">Vacío</string>
     <string name="no_local_songs_selected">"No es posible enviar canciones por que no han sido descargadas"</string>
     <string name="no_local_source_find">"No se pudo encontrar la canción"</string>
@@ -926,7 +926,7 @@ Si no acepta usar los servicios mencionados anteriormente, no podrá usar alguna
     <string name="remove">Eliminar</string>
     <string name="remove_download">Eliminar</string>
     <string name="remove_user_privacy_dialog_message">Al desactivar el interruptor, retiras tu consentimiento a la Política de Privacidad de Música Mi. Dejaremos de recopilar tu información personal. La información personal ya recopilada y retenida se eliminará dentro de un período específico según lo requieran las leyes aplicables. Música Mi necesita recopilar la información personal necesaria para brindarte los servicios básicos. Tu retirada del consentimiento a su Política de Privacidad se considerará como una negativa a aceptar sus servicios en función de la información personal recopilada.</string>
-    <string name="remove_user_privacy_dialog_message_canuse">Al desactivar el interruptor, retira su consentimiento a la Política de privacidad de Música Mi. Dejaremos de recopilar su información personal. La información personal ya recopilada y retenida se eliminará dentro del período específico requerido por las leyes aplicables. Música Mi necesita recopilar la información personal necesaria para brindarle servicios de transmisión en línea. Su retiro del consentimiento a su Política de privacidad se considerará como negarse a aceptar los servicios en línea mencionados anteriormente en función de la información personal recopilada.</string>
+    <string name="remove_user_privacy_dialog_message_canuse">Al desactivar el interruptor, retira su consentimiento a la Política de Privacidad de Música Mi. Dejaremos de recopilar su información personal. La información personal ya recopilada y retenida se eliminará dentro del período específico requerido por las leyes aplicables. Música Mi necesita recopilar la información personal necesaria para brindarle servicios de transmisión en línea. Su retiro del consentimiento a su Política de Privacidad se considerará como negarse a aceptar los servicios en línea mencionados anteriormente en función de la información personal recopilada.</string>
     <string name="remove_user_privacy_dialog_title">Retirada del consentimiento</string>
     <string name="renew_dialog_title">"Sea Pro
 Sea Feliz"</string>
@@ -1103,7 +1103,7 @@ Sea Feliz"</string>
     <string name="talkback_back">Atrás</string>
     <string name="talkback_batch_process">Varios elementos</string>
     <string name="talkback_clear">Limpiar</string>
-    <string name="talkback_cut">Editor de tonos de llamada</string>
+    <string name="talkback_cut">Editor de tonos</string>
     <string name="talkback_device">Reproducir en otros dispositivos</string>
     <string name="talkback_download">Descargar</string>
     <string name="talkback_favorite">Me gusta esta canción</string>
@@ -1177,14 +1177,14 @@ Sea Feliz"</string>
     <string name="title_recently_played">Jugado recientemente</string>
     <string name="title_search_history">Historial de búsqueda</string>
     <string name="title_search_hot">Populares</string>
-    <string name="toast_cant_collect_mine_playlist">"No puede agregar sus propias listas de reproducción a favoritos"</string>
+    <string name="toast_cant_collect_mine_playlist">"No puedes agregar sus propias listas de reproducción a favoritos"</string>
     <string name="toast_cant_commit_without_title">Introduzca título de la canción</string>
     <string name="toast_download_error_by_count_limit">Ha agotado su cuota mensual de descargas.</string>
     <string name="toast_download_error_by_not_login">Inicie sesión en Cuenta Mi y vuelva a intentarlo.</string>
     <string name="toast_download_error_by_vip_required">Obtenga el Paquete de Canciones Premium para descargar esta canción.</string>
     <string name="toast_download_in_process">Descarga en proceso</string>
-    <string name="toast_favorite_has_been_added">Agregado a la lista de reproducción con éxito</string>
-    <string name="toast_follow_success">Seguido con éxito</string>
+    <string name="toast_favorite_has_been_added">Agregado a lista de reproducción con éxito</string>
+    <string name="toast_follow_success">Siguiendo con éxito</string>
     <string name="toast_is_pro">"Ya es un miembro PRO."</string>
     <string name="toast_my_playlist_illegal_name">"Este título de lista es inválido. Vuelva a nombrarla."</string>
     <string name="toast_my_playlist_set_to_private">"Ahora la lista es privada. Otras personas no pueden verla."</string>
@@ -1195,7 +1195,7 @@ Sea Feliz"</string>
     <string name="toast_normal_songs_for_download">Calidad de descarga establecida en estándar</string>
     <string name="toast_normal_songs_for_stream">Calidad de transmisión establecida en estándar</string>
     <string name="toast_not_pro">Esta función solo está disponible para los miembros PRO.</string>
-    <string name="toast_playlist_has_been_added">Agregado a la cola con éxito</string>
+    <string name="toast_playlist_has_been_added">Agregado a cola con éxito</string>
     <string name="toast_playlist_has_been_private">Esta lista de reproducción es privada</string>
     <string name="toast_playlist_has_been_public">Esta lista de reproducción es pública</string>
     <string name="toast_playmode_loop_playback">La lista de reproducción actual está en bucle</string>
@@ -1229,7 +1229,7 @@ Sea Feliz"</string>
     <string name="upload_playlist_to_hungama_title">Sincronice canciones online con Hungama para poder acceder a ellas en otros dispositivos donde use su Cuenta Mi.</string>
     <string name="upload_playlist_to_hungama_toast">Las canciones online serán sincronizadas con Hungama</string>
     <string name="user_agreement">Acuerdo de Usuario</string>
-    <string name="user_playlist_plaza">Listas</string>
+    <string name="user_playlist_plaza">Listas de reproducción</string>
     <string name="user_privacy_dialog_negative_text">Cancelar</string>
     <string name="user_privacy_dialog_positive_count_down_text">Retirar ahora (%ss)</string>
     <string name="user_privacy_dialog_positive_text">Retirar</string>

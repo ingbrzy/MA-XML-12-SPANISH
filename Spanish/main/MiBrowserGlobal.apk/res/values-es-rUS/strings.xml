@@ -114,10 +114,10 @@
     <string name="add_bookmarks">Marcadores</string>
     <string name="add_bookshelf_popup_text">Añadido al librero</string>
     <string name="add_favorites_to">Añadir a favoritos</string>
-    <string name="add_game_center_to_homescreen">¿Agregar acceso directo a la pantalla de inicio?</string>
+    <string name="add_game_center_to_homescreen">¿Agregar acceso directo a la Pantalla de inicio?</string>
     <string name="add_new_bookmark">Añadir marcador</string>
     <string name="add_new_quicklink">Añadir a la página de inicio</string>
-    <string name="add_pwa_to_homescreen">¿Agregar un acceso directo a la pantalla de inicio para este sitio web?</string>
+    <string name="add_pwa_to_homescreen">¿Agregar un acceso directo a la Pantalla de inicio para este sitio web?</string>
     <string name="add_ql_bm_title">Guardar</string>
     <string name="add_quicklink_to_popular">Añadir a la página de inicio</string>
     <string name="add_quicklinks">Añadir</string>
@@ -302,6 +302,9 @@ Desactive el interruptor para dejar de sincronizar."</string>
     <string name="columbus_player_close_video">CERRAR VIDEO</string>
     <string name="columbus_player_install_now">INSTALAR</string>
     <string name="columbus_player_learn_more">Aprenda más</string>
+    <string name="columbus_player_speed_title">¿Saltar video?</string>
+    <string name="columbus_player_speed_video">Saltar VIDEO</string>
+    <string name="columbus_player_unit_sec">seg</string>
     <string name="com_facebook_device_auth_instructions">Ve a &lt;b&gt;facebook.com/device&lt;/b&gt; e ingresa el código que se muestra arriba.</string>
     <string name="com_facebook_image_download_unknown_error">Se produjo un error inesperado al descargar una imagen.</string>
     <string name="com_facebook_internet_permission_error_message">El inicio de sesión de WebView requiere permisos de INTERNET</string>
@@ -629,7 +632,7 @@ Envíe este código al supervisor."</string>
     <string name="exo_track_surround_7_point_1">Sonido envolvente 7.1</string>
     <string name="exo_track_unknown">Desconocido</string>
     <string name="expand_button_title">Opciones avanzadas</string>
-    <string name="experience_improve">Programa de Experiencia de Usuario</string>
+    <string name="experience_improve">Programa de Experiencia del Usuario</string>
     <string name="exported">Exportado</string>
     <string name="external_app_restricted_access_error">"Mi Navegador no puede acceder a este elemento."</string>
     <string name="failed_dup_secure_phone_number">Este número telefónico ya está asociado con otra Cuenta Mi</string>
@@ -697,7 +700,7 @@ Envíe este código al supervisor."</string>
     <string name="gaid">GAID (haga clic para exportar)</string>
     <string name="game_news_flow_download_bar_download">Descargar</string>
     <string name="game_news_flow_download_bar_play">Iniciar</string>
-    <string name="game_played">Reciente</string>
+    <string name="game_played">Recientes</string>
     <string name="gcm_fallback_notification_channel_label">Varios</string>
     <string name="geolocation_permissions_prompt_dont_share">Rechazar</string>
     <string name="geolocation_permissions_prompt_message">%s quiere saber su ubicación</string>
@@ -1423,7 +1426,7 @@ ID de falla: http: // crash /%1$s"</string>
     <string name="ping_test_title">Retraso de red</string>
     <string name="play_pause_video">Reproducir o pausar video</string>
     <string name="play_video">Reproducir video</string>
-    <string name="players_still_play">&lt;font color=#ff2458&gt;%s&lt;/font&gt; de los jugadores también les gustan</string>
+    <string name="players_still_play">&lt;font color=\"#ff2458\"&gt;%s&lt;/font&gt; de los jugadores también les gustan estos</string>
     <string name="pm">PM</string>
     <string name="popular_game_video">Popular Game Video</string>
     <string name="popup_video">Video emergente</string>
@@ -1527,11 +1530,11 @@ ID de falla: http: // crash /%1$s"</string>
 Algunos sitios no usarán su historial de navegación anterior para personalizar sus anuncios, mientras que otros aún pueden recopilar y usar su historial de navegación para varios propósitos (garantizar la seguridad, proporcionar contenido, mostrar anuncios relevantes, y más)."</string>
     <string name="pref_security_passwords_title">Contraseñas</string>
     <string name="pref_security_remember_passwords">Recordar contraseñas</string>
-    <string name="pref_security_remember_passwords_summary">Guardar nombres de usuarios y contraseñas para sitios web</string>
+    <string name="pref_security_remember_passwords_summary">Guarde los nombres de usuario y las contraseñas de los sitios web y rellénelos automáticamente. Los elementos guardados se cifrarán y almacenarán solo en este dispositivo.</string>
     <string name="pref_security_report_url">Mejorar la experiencia de búsqueda y navegación</string>
     <string name="pref_security_report_url_summary">Comparte las URL de los sitios que visitas con Xiaomi</string>
     <string name="pref_security_save_form_data">Recordar datos del formulario</string>
-    <string name="pref_security_save_form_data_summary">Recordar los datos que escribo en formularios para su uso posterior</string>
+    <string name="pref_security_save_form_data_summary">Recuerde los datos que ingresa en los formularios y rellénelos automáticamente. Los elementos guardados se cifrarán y almacenarán solo en este dispositivo.</string>
     <string name="pref_security_show_security_warning">Mostrar advertencias de seguridad</string>
     <string name="pref_security_show_security_warning_summary">"Muestra una advertencia de seguridad cuando hay un problema con el certificado del sitio."</string>
     <string name="pref_set_default_browser">Establecer como navegador predeterminado</string>
@@ -1608,14 +1611,14 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="privacy_improve_performance">"Ayude a mejorar el rendimiento del Navegador Mi"</string>
     <string name="privacy_improve_performance_desc">Enviar datos agregados e informes de fallos al Navegador Mi automáticamente</string>
     <string name="privacy_message">Antes de usar el Navegador, debe aceptar nuestro &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%1$s\" style=\"color:#4086f5;\"&gt;Acuerdo de Usuario&lt;/a&gt;&lt;/font&gt; y nuestra &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%2$s\" style=\"color:#4086f5;\"&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt;.</string>
-    <string name="privacy_message_main_tips_first">El Navegador Mi necesita recopilar la información personal necesaria para brindarte los servicios básicos. Puedes aprender cómo manejamos la información que recopilamos en nuestra &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%1$s\" style=\"color:#4086f5;\"&gt;Política de Privacidad&lt;/a&gt;&lt;/a&gt;&lt;/font&gt; Siempre puedes retirar tu consentimiento a la Política de Privacidad del Navegador Mi en Ajustes &gt; Privacidad y seguridad. Lee y acepta nuestro &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%2$s\" style=\"color:#4086f5;\"&gt;Acuerdo de Usuario&lt;/a&gt;&lt;/font&gt; y nuestra &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%1$s\" style=\"color:#4086f5;\"&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt; antes de usar el Navegador Mi.</string>
+    <string name="privacy_message_main_tips_first">Navegador Mi necesita recopilar la información personal necesaria para brindarle los servicios básicos. Puede aprender cómo manejamos la información que recopilamos en nuestra &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%1$s\" style=\"color:#4086f5;\"&gt;Política de Privacidad&lt;/a&gt;&lt;/a&gt;&lt;/font&gt; Siempre puede retirar su consentimiento a la Política de Privacidad de Navegador Mi en Ajustes &gt; Privacidad y seguridad. Lea y acepte nuestro &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%2$s\" style=\"color:#4086f5;\"&gt;Acuerdo de usuario&lt;/a&gt;&lt;/font&gt; y nuestra &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%1$s\" style=\"color:#4086f5;\"&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt; antes de usar Navegador Mi.</string>
     <string name="privacy_message_main_tips_second">"Para poder buscar aplicaciones en este dispositivo y saber qué aplicaciones están instaladas, Navegador Mi necesita acceder a la información de instalación de la aplicación, que no se guardará localmente ni se cargará de ninguna forma."</string>
     <string name="privacy_message_welcome">¡Bienvenido a Navegador Mi! Nuestra aplicación ofrece los siguientes servicios:</string>
     <string name="privacy_message_welcome_tip_first">- Navegación web rápida y segura</string>
-    <string name="privacy_message_welcome_tip_second">- Descarga de imágenes y vídeos de redes sociales</string>
+    <string name="privacy_message_welcome_tip_second">- Descarga de imágenes y videos de plataformas de redes sociales</string>
     <string name="privacy_policy">Política de Privacidad</string>
-    <string name="privacy_sub_title">Términos y Condiciones</string>
-    <string name="privacy_title">Bienvenido a Mi Navegador</string>
+    <string name="privacy_sub_title">Términos y condiciones</string>
+    <string name="privacy_title">Bienvenido a Navegador Mi</string>
     <string name="private_title">Archivos ocultos</string>
     <string name="progress_dialog_setting_wallpaper">Estableciendo fondo de pantalla…</string>
     <string name="psw_hint">Contraseña</string>
@@ -1981,7 +1984,7 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="traffic_fail_device_limit">Alcanzó el límite de dispositivos registrados</string>
     <string name="traffic_fail_free_no_left">"Está sin tráfico. Suscríbase para continuar"</string>
     <string name="traffic_fail_no_left">"Está fuera del tráfico de VPN"</string>
-    <string name="traffic_fail_upload">Ocurrió un error. Vuelva a activar el VPN.</string>
+    <string name="traffic_fail_upload">Ha ocurrido un error. Vuelva a activar el VPN.</string>
     <string name="transfer_prompt_0">Reproducir video</string>
     <string name="transfer_restart">Reiniciar</string>
     <string name="translate">Traducir</string>
@@ -2028,10 +2031,10 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="user_defined_webpage">Agregar a la página de inicio</string>
     <string name="user_defined_webpage_title">Agregar a la página de inicio</string>
     <string name="user_experience_agree">Participar</string>
-    <string name="user_experience_content">"El Programa de Experiencia de Usuario nos ayuda a mejorar nuestros productos y servicios de manera específica, así como a introducir nuevas funciones y servicios que te resulten útiles. Comenzaremos a recopilar y analizar datos relevantes (por ejemplo, datos del uso de productos) después de que te inscribas en el programa. Al pulsar \"Participar\", aceptas los términos y condiciones del &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%1$s\" style=\"color:#4086f5;\"&gt; Programa de Experiencia de Usuario &lt;/a&gt;&lt;/font&gt;.
-Siempre puedes abandonarlo en Ajustes &gt; Privacidad y seguridad."</string>
+    <string name="user_experience_content">"El Programa de experiencia del usuario nos ayuda a mejorar nuestros productos y servicios de manera específica, así como a introducir nuevas funciones y servicios que le resulten útiles. Comenzaremos a recopilar y analizar datos relevantes (por ejemplo, datos de uso de productos) después de que se inscriba en el programa. Si presiona \"Inscribirse\" a continuación, acepta los términos y condiciones del &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%1$s\" style=\"color:#4086f5;\"&gt; Programa de experiencia del usuario &lt;/a&gt;&lt;/font&gt;.
+Siempre puede inhabilitar en Ajustes &gt; Privacidad y Seguridad"</string>
     <string name="user_experience_disagree">"No participar"</string>
-    <string name="user_experience_title">Programa de Experiencia de Usuario</string>
+    <string name="user_experience_title">Programa de Experiencia del Usuario</string>
     <string name="user_guide_color_mode_info">Modo claro y Modo oscuro están disponibles</string>
     <string name="user_guide_color_mode_title">Seleccionar esquema de colores</string>
     <string name="user_guide_control_privacy_tips">Controle completamente su privacidad</string>
@@ -2146,7 +2149,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vpn_not_support_by_region">"Los servicios de VPN no están disponibles en su región"</string>
     <string name="vpn_offline_tip">"Los servicios de VPN no están disponibles ahora"</string>
     <string name="vpn_privacy_dialog_agress">Permitir</string>
-    <string name="vpn_privacy_dialog_content">Este servicio es proporcionado por Tai Xin. Lea y acepte &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%1$s\" style=\"color:#4086f5;\"&gt;Política de privacidad de Tai Xin&lt;/a&gt;&lt;/font&gt; antes de utilizar este servicio.</string>
+    <string name="vpn_privacy_dialog_content">Este servicio es proporcionado por Tai Xin. Lea y acepte &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%1$s\" style=\"color:#4086f5;\"&gt;Política de Privacidad de Tai Xin&lt;/a&gt;&lt;/font&gt; antes de utilizar este servicio.</string>
     <string name="vpn_privacy_dialog_disagree">No, gracias</string>
     <string name="vpn_privacy_dialog_title">Declaración de privacidad</string>
     <string name="vpn_subscribe_tips_1">Use todos los servidores disponibles</string>
@@ -2160,7 +2163,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
-    <string name="welcome_to_mi_browser">Bienvenido a Mi Browser!</string>
+    <string name="welcome_to_mi_browser">¡Bienvenido a Navegador Mi!</string>
     <string name="what_is_new">Póngase en contacto con nuestro servicio al cliente para informar el problema.</string>
     <string name="whatsapp_downloadpage_tips">Capturador de estados de WhatsApp</string>
     <string name="whatsapp_file_saved_success">Guardado con éxito</string>

@@ -302,6 +302,9 @@ Desactiva el interruptor para dejar de sincronizar."</string>
     <string name="columbus_player_close_video">CERRAR VIDEO</string>
     <string name="columbus_player_install_now">INSTALAR</string>
     <string name="columbus_player_learn_more">Aprenda más</string>
+    <string name="columbus_player_speed_title">¿Saltar video?</string>
+    <string name="columbus_player_speed_video">Saltar VIDEO</string>
+    <string name="columbus_player_unit_sec">seg</string>
     <string name="com_facebook_device_auth_instructions">Ve a &lt;b&gt;facebook.com/device&lt;/b&gt; e ingresa el código que se muestra arriba.</string>
     <string name="com_facebook_image_download_unknown_error">Se produjo un error inesperado al descargar una imagen.</string>
     <string name="com_facebook_internet_permission_error_message">El inicio de sesión de WebView requiere permisos de INTERNET</string>
@@ -649,7 +652,7 @@ Envía este código al supervisor."</string>
     <string name="feedback_send_email_body_extra_info">"No borres la siguiente información. Nos ayudará a localizar el problema."</string>
     <string name="fetch_video">Preparando vídeo…</string>
     <string name="fetch_video_fail">"No se pudo obtener datos"</string>
-    <string name="fetch_video_ssl_bad_clock">"Parece que la fecha y la hora configuradas en su dispositivo (%s) no son correctas. Ajuste la configuración y vuelva a intentarlo."</string>
+    <string name="fetch_video_ssl_bad_clock">"Parece que la fecha y la hora configuradas en tu dispositivo (%s) no son correctas. Ajusta los ajustes y vuelve a intentarlo."</string>
     <string name="fetching_video">Preparando vídeo…</string>
     <string name="file_dir">Cambiar carpeta</string>
     <string name="file_info_canread">Lectura: </string>
@@ -1185,7 +1188,7 @@ ID de falla: http: // crash /%1$s"</string>
     <string name="nav_screen_container_tab_normal">Pestaña normal</string>
     <string name="nav_screen_incognito_message">"Tu búsqueda y el historial de búsqueda no se guardarán en el Modo incógnito. Recuerda que los archivos que descargues y los marcadores que agregues se guardarán."</string>
     <string name="nav_screen_incognito_title"> Modo incógnito</string>
-    <string name="nav_tab_guide_text">Puede administrar las pestañas aquí</string>
+    <string name="nav_tab_guide_text">Aquí puedes administrar las pestañas</string>
     <string name="navigation_delete_all">Desliza a izquierda o derecha para cerrar todas las pestañas</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">Cancelar</string>
     <string name="navigationbar_rightbutton_actiontext_go">Ir</string>
@@ -1423,7 +1426,7 @@ ID de falla: http: // crash /%1$s"</string>
     <string name="ping_test_title">Retraso de red</string>
     <string name="play_pause_video">Reproducir o pausar vídeo</string>
     <string name="play_video">Reproducir vídeo</string>
-    <string name="players_still_play">&lt;font color=#ff2458&gt;%s&lt;/font&gt; de los jugadores también les gustan</string>
+    <string name="players_still_play">Al &lt;font color=\"#ff2458\"&gt;%s&lt;/font&gt; de los jugadores también les gustan estos</string>
     <string name="pm">PM</string>
     <string name="popular_game_video">Popular Game Video</string>
     <string name="popup_video">Vídeo emergente</string>
@@ -1593,7 +1596,7 @@ Algunos sitios no usarán tu historial de navegación anterior para personalizar
     <string name="preference_title_autocomplete_search">Autocompletar búsquedas y URLs</string>
     <string name="privacy_accept">Aceptar y continuar</string>
     <string name="privacy_agreement">Acuerdo de Usuario</string>
-    <string name="privacy_authorize_cannot_revoke_dialog_msg">"Esta acción requiere cargar su ID de rendimiento, lo que no se puede hacer en modo incógnito. Salga del modo incógnito y vuelva a intentarlo."</string>
+    <string name="privacy_authorize_cannot_revoke_dialog_msg">"Esta acción requiere cargar tu ID de rendimiento, lo que no se puede hacer en el Modo incógnito. Sal del Modo incógnito y vuelve a intentarlo."</string>
     <string name="privacy_authorize_network_error">Tu dispositivo necesita conectarse a la red para que puedas retirar el consentimiento. Comprueba tus ajustes de red y vuelve a intentarlo.</string>
     <string name="privacy_authorize_revoke">Revocar</string>
     <string name="privacy_authorize_revoke_dialog_msg">Después de revocar la autorización, el Navegador Mi dejará de recopilar datos y todos los datos relacionados se eliminarán de los servidores. Esto podría hacer que el Navegador Mi sea virtualmente inutilizable. ¿Revocar la autorización de todas formas?</string>
@@ -2160,7 +2163,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
-    <string name="welcome_to_mi_browser">Bienvenido a Mi Browser!</string>
+    <string name="welcome_to_mi_browser">¡Bienvenido al Navegador Mi!</string>
     <string name="what_is_new">Actualiza la aplicación para acceder a nuevas funciones</string>
     <string name="whatsapp_downloadpage_tips">Capturador de estados de WhatsApp</string>
     <string name="whatsapp_file_saved_success">Guardado con éxito</string>

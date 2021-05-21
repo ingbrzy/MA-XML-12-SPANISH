@@ -25,16 +25,16 @@
         <item quantity="other">Inmediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">en %d min</item>
+        <item quantity="other">en %d mins</item>
         <item quantity="one">en 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
-        <item quantity="other">Ahora</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Hace %d min</item>
-        <item quantity="one">Hace 1 min</item>
+        <item quantity="other">Hace %d mins</item>
+        <item quantity="one">Hace 1 minuto</item>
     </plurals>
     <plurals name="add_secret_ensure_message">
         <item quantity="other">¿Añadir estos elementos al álbum privado?</item>
@@ -149,8 +149,8 @@
         <item quantity="one">%d video</item>
     </plurals>
     <plurals name="collage_select_image_dynamic_range">
-        <item quantity="other">Los Collages pueden contener %1$d-%2$d fotos</item>
-        <item quantity="one">Los Collages pueden contener %1$d-%2$d foto</item>
+        <item quantity="other">Los collages pueden contener %1$d-%2$d fotos</item>
+        <item quantity="one">Los collages pueden contener %1$d-%2$d foto</item>
     </plurals>
     <plurals name="creation_max_image">
         <item quantity="other">Seleccione hasta %d fotos</item>
@@ -238,14 +238,14 @@
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
-        <item quantity="other">Ahora</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elementos seleccionados</item>
         <item quantity="one">%d elemento seleccionado</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">hace %d minutos</item>
+        <item quantity="other">Hace %d minutos</item>
         <item quantity="one">Hace 1 minuto</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
