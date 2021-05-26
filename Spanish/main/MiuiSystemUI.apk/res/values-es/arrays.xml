@@ -1,5 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animaciones desactivadas</item>
         <item>Escala de animación .5x</item>
@@ -18,8 +77,8 @@
         <item>Máximo 4 procesos</item>
     </string-array>
     <string-array name="battery_options">
-        <item>Mostrar siempre porcentaje</item>
-        <item>Mostrar porcentaje al cargar (predeterminado)</item>
+        <item>Mostrar porcentaje siempre</item>
+        <item>Mostrar porcentaje durante la carga (predeterminado)</item>
         <item>"No mostrar este icono"</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
@@ -143,10 +202,10 @@
         <item>Mostrar áreas para Deuteranomalía</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>Nada</item>
+        <item>Ninguno</item>
         <item>Logcat</item>
         <item>Systrace (Gráficos)</item>
-        <item>Pila de llamadas en gIGetError</item>
+        <item>Grupo de llamadas en gIGetError</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>No usar nunca comprobación HDCP</item>
@@ -159,23 +218,23 @@
         <item>Comprobar siempre</item>
     </string-array>
     <string-array name="miui_notification_aggregate_category">
-        <item>Contenido recomendado.</item>
-        <item>Un anuncio.</item>
+        <item>Esto es contenido recomendado.</item>
+        <item>Esto es un anuncio.</item>
     </string-array>
     <string-array name="nav_bar_buttons">
         <item>Portapapeles</item>
-        <item>Clave</item>
-        <item>Cambiador del teclado</item>
-        <item>Nada</item>
+        <item>Código de teclado</item>
+        <item>Confirmar rotación, cambiar de teclado</item>
+        <item>Ninguno</item>
     </string-array>
     <string-array name="nav_bar_layouts">
         <item>Normal</item>
         <item>Compacto</item>
-        <item>Inclinación a la izquierda</item>
-        <item>Inclinación a la derecha</item>
+        <item>Para zurdos</item>
+        <item>Para diestros</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>Nada</item>
+        <item>Ninguno</item>
         <item>480p</item>
         <item>480p (seguro)</item>
         <item>720p</item>
@@ -196,11 +255,11 @@
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desactivado</item>
-        <item>64 KB por buffer de registro</item>
-        <item>256 KB por buffer de registro</item>
-        <item>1 MB por buffer de registro</item>
-        <item>4 MB por buffer de registro</item>
-        <item>16 MB por buffer de registro</item>
+        <item>64 KB por búfer de registro</item>
+        <item>256 KB por búfer de registro</item>
+        <item>1 MB por búfer de registro</item>
+        <item>4 MB por búfer de registro</item>
+        <item>16 MB por búfer de registro</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Desactivado</item>
@@ -212,9 +271,9 @@
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Desactivado</item>
-        <item>Todos los búfers del registro</item>
+        <item>Todos los búferes del registro</item>
         <item>Todo excepto los registros de búfer de la radio</item>
-        <item>Solo los búfer de registro del kernel</item>
+        <item>Solo el búfer de registro del kernel</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Desactivado</item>
@@ -224,7 +283,7 @@
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Desactivado</item>
-        <item>Diseña un área azul no rectangular</item>
+        <item>Dibuja un área azul no rectangular</item>
         <item>Destacar comandos del diseño en verde</item>
     </string-array>
     <string-array name="track_frame_time_entries">

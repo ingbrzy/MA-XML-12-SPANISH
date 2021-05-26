@@ -3,30 +3,30 @@
     <string name="abc_action_bar_home_description">Ir a inicio</string>
     <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
     <string name="abc_action_menu_overflow_description">Más opciones</string>
-    <string name="abc_action_mode_done">Hecho</string>
+    <string name="abc_action_mode_done">Listo</string>
     <string name="abc_activity_chooser_view_see_all">Ver todo</string>
     <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
-    <string name="abc_capital_off">Apagado</string>
-    <string name="abc_capital_on">ENCENDIDO</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
-    <string name="abc_menu_delete_shortcut_label">eliminar</string>
-    <string name="abc_menu_enter_shortcut_label">introducir</string>
-    <string name="abc_menu_function_shortcut_label">Función+</string>
+    <string name="abc_capital_off">DESACTIVADO</string>
+    <string name="abc_capital_on">ACTIVADO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Suprimir</string>
+    <string name="abc_menu_enter_shortcut_label">Intro</string>
+    <string name="abc_menu_function_shortcut_label">Función +</string>
     <string name="abc_menu_meta_shortcut_label">Meta +</string>
     <string name="abc_menu_shift_shortcut_label">Mayús +</string>
-    <string name="abc_menu_space_shortcut_label">espacio</string>
-    <string name="abc_menu_sym_shortcut_label">Sym +</string>
-    <string name="abc_prepend_shortcut_label">Menú+</string>
+    <string name="abc_menu_space_shortcut_label">Espacio</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menú +</string>
     <string name="abc_search_hint">Buscar…</string>
     <string name="abc_searchview_description_clear">Borrar consulta</string>
-    <string name="abc_searchview_description_query">Buscar consulta</string>
-    <string name="abc_searchview_description_search">Búsqueda</string>
+    <string name="abc_searchview_description_query">Consulta de búsqueda</string>
+    <string name="abc_searchview_description_search">Buscar</string>
     <string name="abc_searchview_description_submit">Enviar consulta</string>
     <string name="abc_searchview_description_voice">Búsqueda por voz</string>
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
-    <string name="abc_toolbar_collapse_description">Colapso</string>
+    <string name="abc_toolbar_collapse_description">Ocultar</string>
     <string name="accessibility_enabled">Accesibilidad activada.</string>
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="afternoon">Tarde</string>
@@ -50,9 +50,8 @@
     <string name="application_permissions">Permisos de la aplicación</string>
     <string name="back">Volver</string>
     <string name="backup_introduction">Puedes usar esta aplicación para hacer una copia de seguridad y restaurar elementos en tu dispositivo.</string>
-    <string name="boot_video_desc">Ver el mundo en 2K</string>
-    <string name="boot_video_replay">Volver a reproducir</string>
-    <string name="boot_video_skip">Omitir</string>
+    <string name="boot_video_replay">Reproducir de nuevo</string>
+    <string name="boot_video_skip">Saltar</string>
     <string name="calculator_introduction">Puedes usar esta aplicación para hacer cálculos, convertir unidades y divisas y estimar el pago de tu hipoteca.</string>
     <string name="camera_introduction">Puedes usar la Cámara para tomar fotos y grabar vídeo.</string>
     <string name="carrier_introduction">"Con el fin de proporcionarte mejores servicios, tu dispositivo podrá enviar periódicamente información de la versión del dispositivo, datos de identificación del dispositivo (incluyendo direcciones IMEI/IMSI/MSISDN/MAC, MEID/ICCID), información de ubicación aproximada (incluyendo ID fijo) hacia el operador vía Wi-Fi, red de datos móviles o SMS gratuito. El operador se compromete a analizar la información relevante solo para mejorar la calidad de los servicios o para proporcionar servicios o tecnologías personalizadas, y no revelará a terceros ninguna información relevante con la que pudiera ser identificado personalmente. La declaración particular del operador regirá. Consulta con tu operador para más información relacionada con el coste de uso de este servicio."</string>
@@ -123,10 +122,10 @@
     <string name="input_method_category">"Seleccione el teclado por defecto que usará para escribir mensajes, tomar notas y todo lo demás. Tenga en cuenta que después puede instalar otros teclados de terceros."</string>
     <string name="input_method_setting">Seleccionar teclado</string>
     <string name="install_preinstall_app">Cargando aplicaciones…</string>
-    <string name="item_contents_wwarning">"Si su dispositivo se pierde, no podrá evitar que otras personas lo usen y accedan a sus datos a menos que establezca un bloqueo de pantalla. ¿Saltar de todos modos?"</string>
+    <string name="item_contents_wwarning">"Si tu dispositivo se pierde, no podrás evitar que otras personas lo usen y accedan a tus datos a menos que establezcas un bloqueo de pantalla. ¿Saltar de todos modos?"</string>
     <string name="item_fingerprint">Huella</string>
     <string name="item_lock_screen_password">Solo bloqueo de pantalla</string>
-    <string name="item_lock_screen_password_only">Pantalla de Bloqueo</string>
+    <string name="item_lock_screen_password_only">Bloqueo de pantalla</string>
     <string name="item_return">Establecer</string>
     <string name="item_skip">Saltar</string>
     <string name="ktlocation_U">(KT Service Agent)</string>
@@ -214,7 +213,7 @@
     <string name="move_data_dialog_title">Puedes restringir la conexión de datos móviles en los Ajustes más adelante</string>
     <string name="move_data_dialog_use">Usar</string>
     <string name="msim_setting_default_data">SIM de datos</string>
-    <string name="msim_setting_default_voice">SIM predeterminada para llamadas</string>
+    <string name="msim_setting_default_voice">SIM por defecto para llamadas</string>
     <string name="multisim_settings_category">Ajustes de SIM</string>
     <string name="multisim_settings_title">Se han detectado 2 tarjetas SIM</string>
     <string name="navigation_picker_gesture_guide">Guía de gestos</string>
@@ -242,12 +241,16 @@
     <string name="other_settings_enhanced_lockscreen_summary_index">Acuerdo de Licencia con el Usuario Final</string>
     <string name="other_settings_location">Ubicación</string>
     <string name="other_settings_location_summary">Permitir a las aplicaciones acceder a tu ubicación</string>
-    <string name="other_settings_upload_debug_log_summary">Las estadísticas de uso nos ayudan a localizar y resolver errores que podrían contener tu información personal</string>
-    <string name="other_settings_upload_debug_log_title">Enviar diagnóstico de datos automáticamente</string>
+    <string name="other_settings_upload_debug_log_detail">"Ayude a mejorar la experiencia de su dispositivo MIUI enviando automáticamente datos de diagnóstico, dispositivo y uso de aplicaciones a Xiaomi. Esto ayudará a mejorar la duración de la batería, el sistema MIUI y la estabilidad de la aplicación, y más.
+Los datos que enviará contendrán información general sobre su dispositivo y cómo lo usa (por ejemplo, nivel de batería, actividad del sistema y de la aplicación, y errores). Los datos se utilizarán para mejorar los dispositivos MIUI.
+Desactivar esta función no afecta la capacidad de su dispositivo para enviar la información necesaria para servicios esenciales como actualizaciones del sistema y seguridad.
+Puede controlar esta función desde Configuración &gt; Contraseñas &amp; Seguridad &gt; Privacidad &gt; Uso y diagnóstico."</string>
+    <string name="other_settings_upload_debug_log_summary">Ayude a mejorar la experiencia de su dispositivo MIUI enviando automáticamente datos de diagnóstico, dispositivo y uso de aplicaciones a Xiaomi. Esto ayudará a mejorar la duración de la batería, el sistema MIUI y la estabilidad de la aplicación, y más.</string>
+    <string name="other_settings_upload_debug_log_title">Enviar datos de uso y diagnóstico</string>
     <string name="other_settings_user_experience">Programa de Experiencia de Usuario</string>
     <string name="other_settings_user_experience_summary">Ayudanos a mejorar nuestros productos y servicios compartiendo con nosotros tus datos de uso. Ver detalles</string>
     <string name="other_settings_user_experience_summary_index">Ver detalles</string>
-    <string name="permission_MIUIDaemon_introduction">MIUI Daemon te permite transferir datos desde tu dispositivo cuando su pantalla está dañada.</string>
+    <string name="permission_MIUIDaemon_introduction">MIUI Daemon allows you to transfer data from your device when its screen is damaged.</string>
     <string name="permission_account">Acceder a las cuentas de tu dispositivo:</string>
     <string name="permission_account_introduction">Para iniciar sesión con Cuenta Mi</string>
     <string name="permission_application_package_introduction">Para accede al almacenamiento con el fin de analizar y escanear paquetes de instalación</string>
@@ -280,10 +283,10 @@
     <string name="permission_picture_introduction">Para guardar, editar y sincronizar fotos y vídeos</string>
     <string name="permission_read_call_records">Editar historial de llamadas:</string>
     <string name="permission_read_call_records_introduction">Para añadir elementos al historial de llamadas y eliminar llamdas bloquedas</string>
-    <string name="permission_read_contacts">Accediendo a contactos</string>
-    <string name="permission_read_contacts_introduction">Para verificar tu identidad</string>
-    <string name="permission_read_message">Acceder a mensajes de texto</string>
-    <string name="permission_read_message_introduction">Para verificar la propiedad de su dispositivo</string>
+    <string name="permission_read_contacts">Accessing contacts</string>
+    <string name="permission_read_contacts_introduction">For verifying your identity</string>
+    <string name="permission_read_message">Accessing text messages</string>
+    <string name="permission_read_message_introduction">For verifying the ownership of your device</string>
     <string name="permission_read_note_introduction">Para acceder a notas y adjuntos</string>
     <string name="permission_read_write_file">Acceder y guardar archivos o fotos en tu dispositivo:</string>
     <string name="permission_read_write_file_introduction">Para acceder, guardar y almacenar temporalmente elementos en tu dispositivo</string>
@@ -311,10 +314,10 @@
     <string name="privacy_provision_title">Privacidad</string>
     <string name="protect_persoanl_info_statement">Protegeremos tu información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes.</string>
     <string name="provision_back">Atrás</string>
-    <string name="provision_inputmethod_policy_description"><Data>Vea la &lt;a href=%1$s&gt;Política de privacidad&lt;/a &gt; del teclado seleccionado.</Data></string>
+    <string name="provision_inputmethod_policy_description">&lt;Data&gt;Ver la &lt;a href=%1$s&gt;Política de Privacidad&lt;/a &gt; del teclado seleccionado.&lt;/Data&gt;</string>
     <string name="provision_inputmethod_policy_description1">Política de Privacidad</string>
     <string name="provision_next">Siguiente</string>
-    <string name="provision_skip_underline">Omitir</string>
+    <string name="provision_skip_underline">Saltar</string>
     <string name="recorder_introduction">Puedes usar esta aplicación para grabar audio y realizar copias de las grabaciones en la nube.</string>
     <string name="require_authority_statement">Para permitirnos proporcionarte los servicios básicos, necesitas conceder los siguientes permisos para que recojamos tu información personal:</string>
     <string name="require_network_authority_statement">Para permitirnos proporcionarte los servicios básicos, necesitas conectarte a internet y conceder los siguientes permisos para que recojamos tu información personal:</string>
@@ -352,7 +355,7 @@
     <string name="service_policy">&lt;Data&gt;Lee y aceptar nuestra &lt;a href=%1$s&gt;Política de Privacidad&lt;/a &gt;.&lt;/Data&gt;</string>
     <string name="service_policy_download">&lt;Data&gt;Antes de usar nuestros servicios, lee y acepta la &lt;a href=%1$s&gt;Política de Privacidad de Xunlei&lt;/a &gt;.&lt;/Data&gt;</string>
     <string name="service_privacy_index">Política de Privacidad</string>
-    <string name="service_security_over_r"><Data>Lea y acepte nuestra &lt;a href=%1$s&gt;Política de privacidad&lt;/a &gt; antes de usar Seguridad.&lt;br/&gt;&lt;br/&gt;De acuerdo con los estándares de Android 11, un permiso único se retirará dentro de los 5 segundos posteriores a que la aplicación correspondiente deje de ejecutarse. Si abre la aplicación durante este breve período de tiempo, se retirará el permiso.</Data></string>
+    <string name="service_security_over_r">&lt;Data&gt;Lee y acepta nuestra &lt;a href=%1$s&gt;Política de Privacidad&lt;/a &gt; antes de usar Seguridad.&lt;br/&gt;&lt;br/&gt;De acuerdo con los estándares de Android 11, se retirará un permiso único dentro de los 5 segundos posteriores a que la aplicación correspondiente deje de ejecutarse. Si abres la aplicación durante este breve período de tiempo, el permiso se retirará en ese momento&lt;/Data&gt;</string>
     <string name="servicestate_title">Declaración sobre servicios básicos</string>
     <string name="setting_locale">Estableciendo región…</string>
     <string name="shut_down">Apagar</string>

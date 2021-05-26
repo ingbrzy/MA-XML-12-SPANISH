@@ -77,6 +77,7 @@
     <string name="bh_back">Atrás</string>
     <string name="bh_bill_balance">Saldo</string>
     <string name="bh_bill_charge">Recargar saldo</string>
+    <string name="bh_bills_info_label">Detalles</string>
     <string name="bh_bugreport">Comentarios comerciales</string>
     <string name="bh_business_hall_is_here">Los servicios de operador están aquí</string>
     <string name="bh_business_style">Seleccionar interfaz</string>
@@ -89,12 +90,19 @@
     <string name="bh_cannot_action">"No se pudo usar %1$s. Primero instale la aplicación correspondiente."</string>
     <string name="bh_cannot_fetch_num">Número de teléfono desconocido</string>
     <string name="bh_cannot_login_miacount">"No se pudo iniciar sesión en Mi cuenta"</string>
+    <string name="bh_card_order_detail">Información de pedido</string>
+    <string name="bh_card_order_name">Paquete de servicios</string>
+    <string name="bh_card_order_pay_price">Cantidad pagada</string>
+    <string name="bh_card_order_price">Precio</string>
     <string name="bh_charge_confirm">¿Añadir %2$s CNY a %1$s?</string>
     <string name="bh_charge_continue">Recarga</string>
     <string name="bh_charge_number">Relleno %1$s</string>
     <string name="bh_charged_phone_number">Número de teléfono: %1$s</string>
     <string name="bh_close_traffic_package">Cerrar los detalles del plan del operador</string>
     <string name="bh_confirm">Aceptar</string>
+    <string name="bh_connect_address">"Nombre del destinatario"</string>
+    <string name="bh_connect_name">Destinatario</string>
+    <string name="bh_connect_number">"Número de teléfono del destinatario"</string>
     <string name="bh_contact_number">%1$s de tus contactos</string>
     <string name="bh_current_no_sim">"La tarjeta SIM no está insertada"</string>
     <string name="bh_current_sim_number">Número de teléfono SIM actual %1$s</string>
@@ -105,6 +113,8 @@
     <string name="bh_edit_saved_phone_number">Editar etiqueta para el número guardado</string>
     <string name="bh_edit_sim_num">Editar número de teléfono SIM</string>
     <string name="bh_exchange_number">Cambie el número</string>
+    <string name="bh_express_name">Servicio de entrega</string>
+    <string name="bh_express_number">Número de paquete</string>
     <string name="bh_fetch_balance">Consultar saldo</string>
     <string name="bh_flow_exceed">Superó el límite</string>
     <string name="bh_funtion_desc">¡Bienvenido a Mi Servicios de Operador! Puede usar esta aplicación para comprobar el saldo de su teléfono, comprar minutos de llamadas y datos móviles, y más. Esta aplicación necesita conectarse a la red para poder funcionar con normalidad.</string>
@@ -124,16 +134,20 @@
     <string name="bh_net_error">Se ha producido un error con la red</string>
     <string name="bh_no_sim">"Tarjeta SIM no instalada"</string>
     <string name="bh_no_sim_inserted">"Tarjeta SIM no instalada"</string>
+    <string name="bh_none">Ninguno</string>
     <string name="bh_not_contact">"No se encontraron resultados"</string>
     <string name="bh_notice">Atención</string>
     <string name="bh_online_service">Soporte en línea</string>
     <string name="bh_option_agree_dec">Permita que Mi Carrier Services se conecte a Internet y otorgue los permisos requeridos antes de usar la aplicación.</string>
+    <string name="bh_order_detail">Detalles del pedido</string>
     <string name="bh_order_id">Solicitar ID</string>
     <string name="bh_order_loading">Un momento…</string>
     <string name="bh_order_pay">Pago</string>
+    <string name="bh_order_status">Estado del pedido</string>
     <string name="bh_order_time">Tiempo de transacción</string>
     <string name="bh_other_charge">Otro número de teléfono</string>
     <string name="bh_other_operator">Otros transportistas</string>
+    <string name="bh_other_traffic">Otro número de teléfono</string>
     <string name="bh_pay_fail_desc">"No se pudo conectar a la red. Regrese y complete el pago nuevamente."</string>
     <string name="bh_pay_fee">Ampunt</string>
     <string name="bh_pay_success_desc">Es posible que su saldo se acredite con un retraso</string>
@@ -164,8 +178,18 @@
     <string name="bh_system_recommend_des">Permítanos analizar su tráfico y recomendar productos digitales en función de los resultados</string>
     <string name="bh_tag_phones">Números de teléfono de uso frecuente</string>
     <string name="bh_tags_number_exceed">"No puedo guardar más números de teléfono"</string>
+    <string name="bh_text_buy_time">Orden creada</string>
+    <string name="bh_text_charge_name">Monto</string>
+    <string name="bh_text_no_order">No hay pedidos aqui</string>
+    <string name="bh_text_operator">Transportista</string>
+    <string name="bh_text_order_id">Número de orden</string>
+    <string name="bh_text_paid_fee">Total de la orden</string>
+    <string name="bh_text_phone_num">Número de teléfono</string>
+    <string name="bh_text_traffic_package">Paquete de datos</string>
     <string name="bh_time_before">%1$s %2$s hace</string>
+    <string name="bh_toast_copy">Copiado con éxito</string>
     <string name="bh_toast_start_intent_failed">"No se pudo encontrar una aplicación para manejar esta acción"</string>
+    <string name="bh_traffic_charge">Obtener datos móviles</string>
     <string name="bh_traffic_service">Más servicios</string>
     <string name="bh_traffic_surplus">Datos restantes</string>
     <string name="bh_traffic_title">Obtener datos</string>
@@ -175,7 +199,6 @@
     <string name="bh_vs">Mi Itinerancia</string>
     <string name="bh_will_open">Apertura %1$s…</string>
     <string name="bh_wrong_number_hint">Ingrese un número de teléfono válido</string>
-    <string name="bills_info_label">Detalles</string>
     <string name="bind_simcard_default">SIM por defecto para llamadas</string>
     <string name="bind_simcard_menu">Establecer SIM por defecto para llamadas</string>
     <string name="bind_simcard_no_dual">"No se pudo encontrar la SIM dual"</string>
@@ -791,6 +814,7 @@ Motivo: \"%s\""</string>
     <string name="night">Tarde-noche</string>
     <string name="nine_letter">WXYZ</string>
     <string name="noAccounts">Para crear grupos necesitas una cuenta.</string>
+    <string name="no_contact_selected">Seleccione un contacto para ver los detalles</string>
     <string name="no_contacts_dialog_message">"Los contactos pueden almacenarse en su tarjeta SIM. Intente importarlos al almacenamiento interno de su dispositivo e inténtelo de nuevo."</string>
     <string name="no_contacts_dialog_title">"No se pueden encontrar contactos"</string>
     <string name="no_phone_no_shortcut">"No puedes crear accesos directos para los contactos sin números de teléfono"</string>
@@ -938,6 +962,7 @@ Motivo: \"%s\""</string>
     <string name="remove_duplicate">"MIUI te ayudará a combinar los contactos duplicados.
 
  Para empezar, pulsa el botón Combinar que se muestra en la parte inferior de tu pantalla."</string>
+    <string name="residual_time_description">%1$sdía%2$shora</string>
     <string name="restore_app_btn_cancel">Cancelar</string>
     <string name="restore_app_btn_restore">OK</string>
     <string name="restore_app_description_content">Añade un acceso directo en la Pantalla de inicio para poder acceder a tus contactos más rápido.</string>
@@ -1102,9 +1127,9 @@ Motivo: \"%s\""</string>
     <string name="t9_search_empty_send_sms">Enviar mensaje</string>
     <string name="t9_search_empty_video_call">Videollamada</string>
     <string name="t9_search_guide_pinyin_title1">Introduce números para buscar contactos</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">Enter \"%d\" and \"%d\" to search for \"ebbie mith\"</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">Ingrese %d y %d para buscar Debbie Smith</string>
     <string name="t9_search_guide_zhuyin_title1">Introduce números para buscar contactos</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false">Enter \"%d\" and \"%d\" to search for \"eff ax\"</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">Ingrese %d y %d para buscar a Jeff Max</string>
     <string name="take_new_photo">Hacer una foto nueva</string>
     <string name="take_photo">Hacer una foto</string>
     <string name="text_msim_balance">Usado hoy</string>

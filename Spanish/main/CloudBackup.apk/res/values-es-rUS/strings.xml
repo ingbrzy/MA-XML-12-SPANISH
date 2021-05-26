@@ -40,10 +40,12 @@
     <string name="back_up_task_in_process">Respaldando…</string>
     <string name="back_up_task_unfinished">"No se pudo respaldar"</string>
     <string name="backing_up_to_micloud">Creando copia de seguridad…</string>
+    <string name="backup_action_access_permission">Ajustes</string>
     <string name="backup_action_buy_cloud_space">Obtener más espacio de almacenamiento</string>
     <string name="backup_action_check_network">Verifique los ajustes de red</string>
     <string name="backup_action_clean_disk_space">Liberar espacio</string>
     <string name="backup_action_retry_now">Vuelva a intentarlo</string>
+    <string name="backup_failed_reason_app_usage_denied">Conceder los permisos necesarios para respaldar elementos</string>
     <string name="backup_failed_reason_cloud_space_not_enough">No queda suficiente almacenamiento en la nube para guardar esta copia de seguridad. Actualice su plan o libere espacio de almacenamiento en la nube.</string>
     <string name="backup_failed_reason_disk_space_not_enough">No hay suficiente espacio de almacenamiento. Libere espacio primero.</string>
     <string name="backup_failed_reason_network_error">Compruebe sus ajustes de red y vuelva a intentarlo</string>
@@ -58,6 +60,8 @@
     <string name="backup_success">Copia de seguridad completada con éxito</string>
     <string name="backup_successfully">Copia de seguridad completada</string>
     <string name="backup_to_cloud">Realizar copia de seguridad de la aplicación</string>
+    <string name="backup_warning_reason_app_usage_denied">"No se pudieron sincronizar los datos.
+Se requieren permisos."</string>
     <string name="backup_warning_reason_cloud_space_not_enough">"No se puede hacer una copia de seguridad"</string>
     <string name="backup_warning_reason_disk_space_not_enough">"Sin espacio suficiente
 No se puede hacer una copia de seguridad"</string>
@@ -162,8 +166,11 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="desktop_wait_network">Esperando…</string>
     <string name="desktop_waiting">Esperando</string>
     <string name="device_delete_prompt">¿Eliminar respaldo de %s?</string>
+    <string name="dialog_app_usage_denied">Otorgue el permiso de copia de seguridad \"Acceso de uso\" en la configuración para poder realizar copias de seguridad de los elementos.</string>
     <string name="dialog_backup_failed">"No se pudo realizar la copia de seguridad"</string>
     <string name="dialog_btn_cancel_backup">Cancelar</string>
+    <string name="dialog_btn_confirm2">Entendido</string>
+    <string name="dialog_btn_enter">Ajustes</string>
     <string name="dialog_btn_next">Siguiente</string>
     <string name="dialog_btn_overwrite_backup">Sobreescribir</string>
     <string name="dialog_btn_restore_skip">Restaurar más tarde</string>
@@ -176,6 +183,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="dialog_msg_overwrite_backup">El respaldo local es diferente al respaldo en Xiaomi Cloud. Si continúa, el respaldo actual sustituirá al anterior.</string>
     <string name="dialog_msg_restore_require_wlan">Para restaurar los respaldos se necesita una conexión Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">Restoring backups requires connecting to WLAN.</string>
+    <string name="dialog_need_permission">Permisos requeridos</string>
     <string name="dialog_title_require_wlan">Conectar a Wi-Fi</string>
     <string name="dialog_title_require_wlan_china">Connect to WLAN</string>
     <string name="dir_date_format">ddMMyyyy_HHmmss</string>

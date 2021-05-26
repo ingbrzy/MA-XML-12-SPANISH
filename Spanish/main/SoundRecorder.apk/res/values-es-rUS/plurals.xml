@@ -25,16 +25,16 @@
         <item quantity="other">Inmediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">en %d minutos</item>
-        <item quantity="one">en 1 minuto</item>
+        <item quantity="other">en %d mins</item>
+        <item quantity="one">en 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
-        <item quantity="other">Ahora</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">hace %d minutos</item>
-        <item quantity="one">hace 1 minuto</item>
+        <item quantity="other">Hace %d mins</item>
+        <item quantity="one">Hace 1 minuto</item>
     </plurals>
     <plurals name="btn_clear_records">
         <item quantity="other">Eliminar %d grabaciones</item>
@@ -57,8 +57,8 @@
         <item quantity="other">Hace media hora</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="one">En una hora</item>
-        <item quantity="other">En una hora</item>
+        <item quantity="one">En 1 hora</item>
+        <item quantity="other">En 1 hora</item>
     </plurals>
     <plurals name="in_half_hour">
         <item quantity="one">En media hora</item>
@@ -73,8 +73,8 @@
         <item quantity="one">en 1 minuto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Justo ahora</item>
-        <item quantity="other">Justo ahora</item>
+        <item quantity="one">Ahora mismo</item>
+        <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="local_records_count">
         <item quantity="other">%d elementos</item>
@@ -89,8 +89,8 @@
         <item quantity="one">Poco espacio de almacenamiento (menos de %d minuto)</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">hace %d minutos</item>
-        <item quantity="one">hace 1 minuto</item>
+        <item quantity="other">Hace %d minutos</item>
+        <item quantity="one">Hace 1 minuto</item>
     </plurals>
     <plurals name="record_downloading_complete_count">
         <item quantity="other">%d grabaciones descargadas</item>
@@ -101,16 +101,16 @@
         <item quantity="one">"No se pudo restaurar %d elemento debido a un error desconocido."</item>
     </plurals>
     <plurals name="search_alll_records_hint">
-        <item quantity="other">%d grabaciones</item>
-        <item quantity="one">%d grabación</item>
+        <item quantity="other">Buscar entre %d grabaciones</item>
+        <item quantity="one">Buscar entre %d grabación</item>
     </plurals>
     <plurals name="search_app_records_hint">
-        <item quantity="other">%d grabaciones</item>
-        <item quantity="one">%d grabación</item>
+        <item quantity="other">Buscar entre %d grabaciones</item>
+        <item quantity="one">Buscar entre %d grabación</item>
     </plurals>
     <plurals name="search_call_records_hint">
-        <item quantity="other">%d grabaciones de llamadas</item>
-        <item quantity="one">%d grabación de llamadas</item>
+        <item quantity="other">Buscar entre %d grabaciones de llamada</item>
+        <item quantity="one">Buscar entre %d grabación de llamada</item>
     </plurals>
     <plurals name="search_fm_records_hint">
         <item quantity="other">%d grabaciones de radio</item>
