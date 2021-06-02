@@ -789,6 +789,7 @@ Si vuelves a activar el uso de datos, es posible que se apliquen cargos."</strin
     <string name="face_unlock_reveal_eye">Tus ojos deben estar visibles</string>
     <string name="face_unlock_reveal_mouth">Tus labios deben estar visibles</string>
     <string name="face_unlock_success">Desbloqueado con éxito</string>
+    <string name="face_unlock_swipe_up_retry">Desliza hacia arriba para volver a intentarlo</string>
     <string name="failed_to_open_app_settings_toast">"No se pudo abrir los ajustes para %1$s"</string>
     <string name="finger_error_single_mode">"No se puede usar el escáner de huellas digitales en el modo de una mano. Salga del modo con una mano y vuelva a intentarlo."</string>
     <string name="fingerprint_add_text">El sistema de huella ha sido actualizado. Añade tu huella de nuevo.</string>
@@ -1099,7 +1100,7 @@ con prioridad"</string>
     <string name="kg_invalid_confirm_pin_hint">Los códigos PIN no coinciden</string>
     <string name="kg_invalid_puk">Vuelve a introducir el código PUK correcto. Si introduces un código incorrecto varias veces, se inhabilitará la tarjeta SIM de forma permanente.</string>
     <string name="kg_invalid_sim_pin_hint">Escribe un código PIN que tenga entre 4 y 8 dígitos.</string>
-    <string name="kg_invalid_sim_puk_hint">El código PUK debe tener 8 números como mínimo.</string>
+    <string name="kg_invalid_sim_puk_hint">El código PUK debe contener %1$d dígitos.</string>
     <string name="kg_login_too_many_attempts">Has fallado demasiadas veces al introducir el patrón</string>
     <string name="kg_password_instructions">Introduce tu contraseña</string>
     <string name="kg_password_pin_failed">No se ha podido desbloquear la tarjeta SIM con el código PIN.</string>

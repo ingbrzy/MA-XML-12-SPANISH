@@ -59,7 +59,7 @@
     <string name="accessibility_battery_details">Abrir detalles de la batería</string>
     <string name="accessibility_battery_full">Batería completa</string>
     <string name="accessibility_battery_level">Batería %d por ciento</string>
-    <string name="accessibility_battery_level_charging">Batería cargando: %d%%</string>
+    <string name="accessibility_battery_level_charging">Cargando batería, %d por ciento.</string>
     <string name="accessibility_battery_level_with_estimate">Batería: %1$s por ciento; tiempo restante: aproximadamente %2$s en función del uso</string>
     <string name="accessibility_battery_one_bar">Una barra de batería</string>
     <string name="accessibility_battery_three_bars">Tres barras de batería</string>
@@ -789,6 +789,7 @@ Si reanudas el servicio, es posible que se apliquen cargos."</string>
     <string name="face_unlock_reveal_eye">Haga sus ojos visibles</string>
     <string name="face_unlock_reveal_mouth">Haga sus labios visibles</string>
     <string name="face_unlock_success">Desbloqueado exitosamente</string>
+    <string name="face_unlock_swipe_up_retry">Desliza hacia arriba para volver a intentarlo</string>
     <string name="failed_to_open_app_settings_toast">"No se pudieron abrir los ajustes de %1$s"</string>
     <string name="finger_error_single_mode">"No se puede usar el escáner de huellas digitales en el modo de una mano. Salga del modo con una mano y vuelva a intentarlo."</string>
     <string name="fingerprint_add_text">El interfaz de huella digital fue actualizado. Vuelva a agregar su huella digital.</string>
@@ -1099,7 +1100,7 @@ prioridad"</string>
     <string name="kg_invalid_confirm_pin_hint">Los códigos PIN no coinciden</string>
     <string name="kg_invalid_puk">Vuelve a ingresar el código PUK correcto. Si ingresas un código incorrecto varias veces, se inhabilitará la tarjeta SIM.</string>
     <string name="kg_invalid_sim_pin_hint">Escribe un PIN que tenga entre 4 y 8 números.</string>
-    <string name="kg_invalid_sim_puk_hint">El código PUK debe tener al menos 8 números.</string>
+    <string name="kg_invalid_sim_puk_hint">El código PUK debe contener %1$d dígitos.</string>
     <string name="kg_login_too_many_attempts">Demasiados intentos incorrectos para el ingreso del patrón</string>
     <string name="kg_password_instructions">Escribe la contraseña</string>
     <string name="kg_password_pin_failed">Se produjo un error al desbloquear la tarjeta SIM con el PIN.</string>

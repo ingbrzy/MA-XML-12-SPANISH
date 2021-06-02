@@ -1027,6 +1027,14 @@ Selección"</string>
     <string name="four_point_five_switch_summary">Utilice 4.5G para aumentar la velocidad de conexión de datos móviles y mejorar la calidad de voz</string>
     <string name="four_point_five_switch_title">4.5G</string>
     <string name="frequecy_num">lte canal núm</string>
+    <string name="full_forwarding_number">Número de reenvío</string>
+    <string name="full_forwarding_number_error_msg">Solo se admiten los números de teléfono que comienzan con \"0\".</string>
+    <string name="full_forwarding_number_error_title">Número de teléfono inválido</string>
+    <string name="full_forwarding_number_prefix">"Número de teléfono: "</string>
+    <string name="full_forwarding_option_forwarding">Reenvío</string>
+    <string name="full_forwarding_option_off">DESACTIVADO</string>
+    <string name="full_forwarding_option_voicemail">Mensaje de voz</string>
+    <string name="full_forwarding_settings">Reenvío completo</string>
     <string name="fw_change_failed">"No se pudo cambiar el número de desvío.
 Si el problema continua, ponte en contacto con tu proveedor."</string>
     <string name="fw_get_in_vm_failed">"No se pudo recuperar ni guardar la configuración del número actual de reenvío.
@@ -1109,6 +1117,7 @@ Si el problema continua, ponte en contacto con tu proveedor."</string>
     <string name="invalid_pin2">Ingrese un PIN2 que tenga de %1$d a %2$d números.</string>
     <string name="invalid_puk">Introduzca un PUK que tenga de %1$d a %2$d números.</string>
     <string name="invalid_puk2">Ingrese un PUK2 que tenga de %d a números.</string>
+    <string name="invalid_secretcode_format_txt">¡Formato de código secreto no válido!</string>
     <string name="ivr_mo_area_code_settings">Código de área actual</string>
     <string name="ivr_mo_area_code_settings_hint">Introduzca el código de área actual</string>
     <string name="ivr_parameter_settings">Configuración de parámetros IVR</string>
@@ -1638,6 +1647,7 @@ Su teléfono se bloqueará automáticamente después del último intento fallido
     <string name="pin_progress_unlock_icc">Desbloqueando tarjeta SIM…</string>
     <string name="pin_puk_system_user_only">Solo el propietario del dispositivo puede ingresar los códigos PIN/PUK</string>
     <string name="ping_test_label">Ejecutar prueba de ping</string>
+    <string name="play_voicemail_settings">Reproducir buzón de voz</string>
     <string name="pointer_location">Ubicación del puntero</string>
     <string name="pointer_location_summary">Superponer capa en pant. para mostrar puntos tocados</string>
     <string name="police_type_description">Policía</string>
@@ -2348,6 +2358,7 @@ Esta tablet no cuenta con un altavoz. Puede cambiar al modo manos libres o usar 
     <string name="voice_service_warning_dialog_title">Llamadas VoLTE</string>
     <string name="voicemail">Buzón de voz</string>
     <string name="voicemail_abbreviated">Buzón de voz:</string>
+    <string name="voicemail_callforward_settings">Buzón de voz &amp; desvío de llamadas</string>
     <string name="voicemail_change_pin_dialog_title">Cambiar PIN</string>
     <string name="voicemail_default">Tu proveedor</string>
     <string name="voicemail_notification_vibrate_when_title">Vibrar</string>

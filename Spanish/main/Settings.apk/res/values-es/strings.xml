@@ -1410,7 +1410,7 @@ Selección"</string>
     <string name="bootloader_status_locked">Bloqueado</string>
     <string name="bootloader_status_locked_info">Este dispositivo está bloqueado</string>
     <string name="bootloader_status_locked_summary">El teléfono es seguro</string>
-    <string name="bootloader_status_privacy_dialog_message">Mi Unlock necesita acceso a Cuenta Mi, ID del CPU, IMEI e IMSI para funcional normalmente. Recolectamos, usamos y procesamos tus datos de acuerdo a nuestra %s. ¿De acuerdo?</string>
+    <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock necesita acceso a su cuenta Mi, ID de CPU, IMSI para funcionar normalmente. Lea y acepte nuestra &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt;. ¿Estar de acuerdo?</Data></string>
     <string name="bootloader_status_privacy_dialog_no">Cancelar</string>
     <string name="bootloader_status_privacy_dialog_title">Permisos requeridos</string>
     <string name="bootloader_status_privacy_dialog_url_text">Política de Privacidad</string>
@@ -1651,10 +1651,14 @@ El cambio afectará a otras aplicaciones y conversaciones que pueden mostrarse c
     <string name="channel_notifications_off_desc">Como solicitaste, Android está bloqueando esta categoría de notificaciones para que no aparezcan en el dispositivo</string>
     <string name="character_counter_content_description">Caracteres ingresados %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Límite de caracteres excedido %1$d de %2$d</string>
+    <string name="charge_animation_style_lollipop">Flujo</string>
+    <string name="charge_animation_style_none">Desactivado</string>
     <string name="charge_animation_style_summary">Elige tu estilo preferido de animación de carga con la pantalla bloqueada</string>
     <string name="charge_animation_style_title">Animación de carga</string>
+    <string name="charge_animation_style_video">Brillo</string>
+    <string name="charge_animation_style_wave">Olas</string>
     <string name="charge_length_format">hace %1$s</string>
-    <string name="charging_sounds_title">Vibración y sonidos de carga</string>
+    <string name="charging_sounds_title">Sonidos de carga y vibración</string>
     <string name="check_find_device_status_failure_confirm">OK</string>
     <string name="check_update">Buscar actualizaciones</string>
     <string name="checkbox_notification_same_as_incoming_call">Utilizar volumen de llamada entrante para notificaciones</string>
@@ -2047,9 +2051,14 @@ Debes restablecer el estado de fábrica para volver a usar el teléfono. Cuando 
     <string name="dark_color_summary_lcd">"Usar una paleta de colores más oscuros para funciones del sistema en segundo plano y aplicaciones compatibles. El Modo oscuro puede ayudar a aliviar la fatiga ocular cuando usas el dispositivo en la oscuridad."</string>
     <string name="dark_color_summary_oled">Usar una paleta de colores más oscuros para funciones del sistema en segundo plano y aplicaciones compatibles. El Modo oscuro reduce el consumo de energía y ayuda a aliviar la fatiga ocular.</string>
     <string name="dark_mode_apps_header">Aplicaciones individuales</string>
+    <string name="dark_mode_auto_time_summary">Activar y desactivar el modo oscuro a la hora programada</string>
+    <string name="dark_mode_auto_time_title">Personalizado</string>
     <string name="dark_mode_contrast">Ajustar contraste automáticamente</string>
     <string name="dark_mode_contrast_hint">Ajustar colores y contrastes bajos automáticamente cuando se reduce el brillo</string>
+    <string name="dark_mode_day_night_mode_summary">Cambie al modo oscuro al atardecer y apáguelo al amanecer</string>
+    <string name="dark_mode_day_night_mode_title">Puesta del sol al amanecer</string>
     <string name="dark_mode_font_background_title">Ajustar textos y fondos automáticamente</string>
+    <string name="dark_mode_time_settings">Programar el modo oscuro</string>
     <string name="dark_theme_slice_subtitle">Ayuda a alargar la batería</string>
     <string name="dark_theme_slice_title">Prueba el tema oscuro</string>
     <string name="dark_ui_activation_off_auto">Desactivar hasta el anochecer</string>
@@ -2622,8 +2631,8 @@ Si el problema persiste, desinstala la aplicación para mejorar el rendimiento d
     <string name="dual_wifi_switching_prompt">Cambiando entre redes</string>
     <string name="dual_wifi_switching_summary">El aumento de velocidad Wi-Fi de doble banda debe usar dos bandas Wi-Fi diferentes. Si te conectas a una red principal diferente, se perderá la conexión auxiliar.</string>
     <string name="dump_log">Obtén registros relacionados con el problema</string>
-    <string name="dump_log_summary">"Esta función está diseñada para generar los 284 registros en la versión Beta de MIUI. Úsala con cuidado.
-Puedes ver los registros generados en el Gestor de archivos."</string>
+    <string name="dump_log_summary">"Esta función está diseñada para generar el %s en la versión Beta de MIUI. Úselo con precaución.
+Puede ver los registros generados en el Administrador de archivos."</string>
     <string name="dump_log_title">Acerca de esta función</string>
     <string name="early_morning">Mañana</string>
     <string name="easymode_hint">Pulsa para desactivar el Modo lite</string>
@@ -5167,6 +5176,8 @@ Además, podrá activar o desactivar el modo No molestar y modificar ajustes rel
     <string name="notifications_title">Notificaciones</string>
     <string name="now">Reiniciar ahora</string>
     <string name="number_of_device_admins_none">No hay aplicaciones activas</string>
+    <string name="oaid_apps_summary">Permitir o restringir el acceso a aplicaciones individuales</string>
+    <string name="oaid_apps_title">Administrar ID virtual</string>
     <string name="oaid_string">"ID virtual actual:
 %1s"</string>
     <string name="oem_lock_info_message">Reinicia para habilitar la función de protección del dispositivo.</string>
@@ -6029,7 +6040,7 @@ Este ajuste afecta a todos los usuarios de este teléfono."</string>
     <string name="screen_enhance_engine_ai_pic_summary">"Identifica objetos (por ejemplo, plantas, animales, edificios) y ajusta dinámicamente los efectos de visualización. "</string>
     <string name="screen_enhance_engine_ai_title">Mejora de imagen IA</string>
     <string name="screen_enhance_engine_memc_note">"No se puede mejorar los vídeos cuando la superresolución está activada. Al activar los vídeos mejorados, desactivarás la superresolución."</string>
-    <string name="screen_enhance_engine_memc_note_1">Esta función aumenta ligeramente el consumo de energía.</string>
+    <string name="screen_enhance_engine_memc_note_1">%d. Esta función aumenta ligeramente el consumo de energía.</string>
     <string name="screen_enhance_engine_memc_note_2">%d. Esta función solo funciona cuando la caja de herramientas de video está activada.</string>
     <string name="screen_enhance_engine_memc_open">MEMC</string>
     <string name="screen_enhance_engine_memc_pic_summary">"Añade fotogramas adicionales a los vídeos para que el contenido parezca fluido y las transiciones sean rápidas."</string>
@@ -6163,8 +6174,9 @@ Para fijar una aplicación, sigue estos pasos: \u0009
     <string name="screen_saturation">Saturación</string>
     <string name="screen_shot">Realizar captura de pantalla</string>
     <string name="screen_timeout">Suspender</string>
+    <string name="screen_timeout_subtitle">La visualización de contenido estático durante períodos prolongados puede hacer que los colores sean desiguales</string>
     <string name="screen_timeout_summary">Después de %1$s de inactividad</string>
-    <string name="screen_timeout_title">Modo suspensión</string>
+    <string name="screen_timeout_title">Bloquear la pantalla automáticamente</string>
     <string name="screen_usage_summary">Tiempo que la pantalla ha estado encendida desde la carga completa</string>
     <string name="screen_zoom_conversation_icon_alex">A</string>
     <string name="screen_zoom_conversation_icon_pete">P</string>
@@ -6438,6 +6450,7 @@ Para fijar una aplicación, sigue estos pasos: \u0009
     <string name="secspace_fod_use_password">Introduce la contraseña</string>
     <string name="secure_keyguard_business_title">Establecer bloqueo de pantalla</string>
     <string name="secure_lock_encryption_warning">Has activado un servicio de accesibilidad, por lo que el dispositivo no utilizará el bloqueo de pantalla para mejorar el cifrado de datos.</string>
+    <string name="security_center_title">Seguridad</string>
     <string name="security_dashboard_summary">Bloqueo de pantalla y huella digital</string>
     <string name="security_dashboard_summary_face">Bloqueo de pantalla, desbloqueo facial</string>
     <string name="security_dashboard_summary_no_fingerprint">Bloqueo de pantalla</string>
@@ -7336,6 +7349,7 @@ Prueba a utilizar una ^3 más rápida o utiliza esta ^4 como almacenamiento port
     <string name="switch_headset_anti_lost_title">Alerta de auricular perdido</string>
     <string name="switch_off_text">Desactivado</string>
     <string name="switch_on_text">Activado</string>
+    <string name="switch_power_sound">Sonido de carga</string>
     <string name="switch_screen_button_order">Invertir botones</string>
     <string name="switch_screen_button_order_desc">Invertir botones de Volver y Menú</string>
     <string name="switch_select_to_speak_on">Selecciona para hablar</string>
@@ -7506,6 +7520,8 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
     <string name="thursday">Jueves</string>
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>
+    <string name="time_floating_window">Reloj flotante</string>
+    <string name="time_floating_window_summary">Muestra el reloj en la ventana flotante sobre otras aplicaciones</string>
     <string name="time_format_category_title">Formato de hora</string>
     <string name="time_picker_dialog_title">Establecer hora</string>
     <string name="time_picker_title">Hora</string>

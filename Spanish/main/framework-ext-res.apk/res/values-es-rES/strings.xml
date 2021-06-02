@@ -36,6 +36,8 @@
     <string name="autofill_save_sub_message">"Podrá gestionar contraseñas guardadas en Ajustes &gt; Contraseñas &amp; seguridad &gt; %s."</string>
     <string name="autofill_save_title">Guardar contraseñas automáticamente</string>
     <string name="autofill_service_name">Gestionar contraseañas</string>
+    <string name="battery_authentic_failed_button">Entendido</string>
+    <string name="battery_authentic_failed_title">Atención</string>
     <string name="bluetooth_close">Esta aplicación desactivó el Bluetooth</string>
     <string name="bluetooth_disable_notification_content">%s desactivó el Bluetooth</string>
     <string name="bluetooth_disable_notification_title">Bluetooth desactivado</string>
@@ -169,6 +171,7 @@
     <string name="open_close_tip_content">Para cerrar la ventana flotante mantén pulsado la barra de acción y después desliza hacia arriba</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
+    <string name="other_ime">Otros teclados</string>
     <string name="package_delete_confirm_step_1">¿Desinstalar %s?</string>
     <string name="package_delete_confirm_step_2">Desinstalar esta aplicación podría hacer el sistema inestable.</string>
     <string name="package_delete_confirm_step_3">"No podrá abrir esta aplicación después de desinstalarla."</string>
@@ -332,7 +335,7 @@
     <string name="wifi_assistant_wifi_no_internet">Esta red Wi-Fi no tiene acceso a internet</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Pulsa para ver detalles</string>
     <string name="wireless_charging_notification_message1">"No se pudo encontrar dispositivos inalámbricos para cargar. La carga inalámbrica inversa está desactivada."</string>
-    <string name="wireless_charging_notification_message2">La batería está por debajo del 30%. La carga inalámbrica inversa está desactivada.</string>
+    <string name="wireless_charging_notification_message2">La batería tiene menos de %s carga. La carga inalámbrica inversa está apagada ahora.</string>
     <string name="wireless_charging_notification_message3">Se ha producido un error durante la carga. La carga inalámbrica inversa está desactivada.</string>
     <string name="wireless_charging_notification_titile">Carga inalámbrica inversa desactivada</string>
     <string name="xiaomi">Mi</string>

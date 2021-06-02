@@ -2481,8 +2481,10 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="numeric_recording_intro_header">Introduzca la contraseña</string>
     <string name="numeric_retry_button_text">Cancelar</string>
     <string name="numeric_settings_help_how_to_record">Cómo establecer el PIN</string>
+    <string name="oaid_apps_title">Administrar ID virtual</string>
     <string name="oaid_reset_content_tip">Si desactivas la ID virtual ahora, algunas aplicaciones podrían dejar de funcionar correctamente, una parte de tus datos de aplicaciones podrían perderse o quedar inutilizables.</string>
     <string name="oaid_reset_final_tip">¿Desactiva la ID virtual de todas formas?</string>
+    <string name="oaid_tips_content">Las identificaciones virtuales (OAID) se pueden usar para rastrear su comportamiento y personalizar anuncios para usted. Puede seleccionar qué aplicaciones pueden acceder a su ID virtual. Tenga en cuenta que si restringe el acceso, las recomendaciones de anuncios pueden volverse irrelevantes o es posible que las aplicaciones no funcionen normalmente.</string>
     <string name="offline_voice_input">Entrada de voz sin conexión</string>
     <string name="offline_voice_input_detail">"No necesitará Internet para la entrada de voz."</string>
     <string name="ok">OK</string>
@@ -2603,6 +2605,10 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_battery_history_total_consumption_title">Consumo total de energía</string>
     <string name="pc_battery_history_usetime_title">Activo</string>
+    <string name="pc_hidemode_normal">Equilibrado</string>
+    <string name="pc_hidemode_performance">Rendimiento</string>
+    <string name="pc_hidemode_performance_title">Modo de rendimiento</string>
+    <string name="pc_hidemode_power_save">Potencia</string>
     <string name="pc_install_manager">Instalar vía USB</string>
     <string name="pc_main_activity_back">Atrás</string>
     <string name="pc_main_battery_text_day">%1$smin añadidos, alrededor de %2$sd restantes</string>
@@ -2614,6 +2620,8 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="pc_main_power_manager_hour_minute">%1$sh %2$smin hasta que esté completamente cargado</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$sd %2$sh restante</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$sh %2$smin restante</string>
+    <string name="pc_performance_mode_dialog_summary">Su dispositivo podrá funcionar para %s en el modo de rendimiento. Tenga en cuenta que el modo de rendimiento aumenta el consumo de energía y puede provocar un sobrecalentamiento.</string>
+    <string name="pc_performance_mode_dialog_title">Modo de rendimiento</string>
     <string name="pc_search_keywords_battery">Batería</string>
     <string name="pc_search_keywords_battery_save">Ahorro de batería</string>
     <string name="pc_search_keywords_battery_use">Uso de la batería</string>
