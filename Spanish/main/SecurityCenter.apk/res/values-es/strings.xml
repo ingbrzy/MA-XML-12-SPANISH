@@ -528,7 +528,13 @@ No perderás ningún dato de la aplicación."</string>
     <string name="app_permission_use_title">Permisos</string>
     <string name="app_predict_black_list_empty">No hay elementos todavía</string>
     <string name="app_predict_black_list_setting_title">Lista de bloqueo de sugerencias de aplicaciones</string>
+    <string name="app_predict_dialog_button">Añadir a la pantalla principal</string>
+    <string name="app_predict_dialog_message">La IA sugerirá aplicaciones que podría necesitar en este momento</string>
+    <string name="app_predict_dialog_success">Agregado a la pantalla de inicio con éxito</string>
     <string name="app_predict_folder_name">Buscar</string>
+    <string name="app_predict_guide_button">Agregar</string>
+    <string name="app_predict_guide_message">La IA sugerirá aplicaciones que podría necesitar en este momento</string>
+    <string name="app_predict_guide_title">Sugerencias de aplicaciones inteligentes</string>
     <string name="app_predict_loading_text">Un momento…</string>
     <string name="app_predict_search_title">Todas las aplicaciones</string>
     <string name="app_predict_setting_black_list">Lista de bloqueo</string>
@@ -1820,6 +1826,7 @@ de tus sesiones de juego"</string>
     <string name="gmscore_support_remind">Active esta función si tiene problemas con el uso de Gmail, Google Maps y otras aplicaciones de Google. Reducirá ligeramente la duración de la batería.</string>
     <string name="gmscore_support_service">Servicios básicos de Google</string>
     <string name="go_to">Continuar</string>
+    <string name="go_to_mi_sim">Toque para usar Mi SIM.</string>
     <string name="go_to_send">Enviar</string>
     <string name="go_to_setting_fingerprint">Ajustes</string>
     <string name="google_base_app_fail">"No se pudo descargar. Comprueba si Seguridad tiene permisos para conectar a internet."</string>
@@ -2208,6 +2215,7 @@ Tu dispositivo ahora es un %d%% más rápido."</string>
     <string name="mi_ime_not_used">Utilice un teclado autorizado por Xiaomi</string>
     <string name="mi_service_app_detail">Detalles del uso de datos</string>
     <string name="mi_service_traffic_detail">Detalles del Framework</string>
+    <string name="mi_sim_link">"%1$s&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Toque para recargar Mi Sim abierto.&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="mian_page_primary_txt">Itinerancia de datos</string>
     <string name="midnight">Noche</string>
     <string name="midrop_post_notification_contentText">Transferir archivos a una velocidad de 50 Mbps en Mi Drop.</string>
@@ -2986,6 +2994,7 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="power_setting_super_save_summary_text">Restringir más funciones del sistema para ahorrar batería</string>
     <string name="power_setting_warm_configure">Control de temperatura</string>
     <string name="power_setting_warm_performance_tip">Escenarios que requieren un alto consumo de energía elevarán la temperatura de tu dispositivo por encima de los niveles del Modo control de temperatura predeterminado.</string>
+    <string name="power_setting_wireless_reverse_charging_fg_control_title">Límite de carga</string>
     <string name="power_setting_wireless_reverse_charging_summary">Carga dispositivos compatibles de forma inalámbrica</string>
     <string name="power_setting_wireless_reverse_charging_title">Carga inalámbrica inversa</string>
     <string name="power_settings_category_title">Indicador de batería</string>
@@ -2997,6 +3006,17 @@ Utiliza otro cable de Ethernet para conectar tu router. Si crees que hay problem
     <string name="power_superpower_title_systemui_highpower">Tiempo restante</string>
     <string name="power_superpower_title_systemui_lowpower">Conecta el cargador</string>
     <string name="power_wifi">Wi-Fi</string>
+    <string name="power_wireless_need_update_text">Actualizando…</string>
+    <string name="power_wireless_update_button_text">Actualizar</string>
+    <string name="power_wireless_update_dialog_button">Entendido</string>
+    <string name="power_wireless_update_dialog_message">Cargue su dispositivo al menos a %s para poder actualizar el firmware de carga inalámbrica.</string>
+    <string name="power_wireless_update_dialog_title">Batería baja</string>
+    <string name="power_wireless_update_driver">Actualizaciones de firmware</string>
+    <string name="power_wireless_update_notification_button">Ver</string>
+    <string name="power_wireless_update_notification_subtitle">Actualice el firmware para mejorar la estabilidad de la carga inalámbrica</string>
+    <string name="power_wireless_update_notification_title">Actualización de carga inalámbrica</string>
+    <string name="power_wireless_update_text">Actualizado</string>
+    <string name="power_wireless_update_tv_text">"Actualización del firmware 6 No apague el dispositivo."</string>
     <string name="pp_app_behavior_record_detail">Registra todo el comportamiento de la aplicación</string>
     <string name="pp_app_del_img_intercept_detail">Reciba notificaciones cuando las aplicaciones eliminen elementos de la Galería sin su permiso</string>
     <string name="pp_app_gets_dangerous_permission_reminder">Reciba notificaciones cuando las aplicaciones usen permisos de alto riesgo</string>
@@ -3536,6 +3556,8 @@ Mientras se esté calibrando, MIUI enviará un mensaje a tu operador para recibi
     <string name="setting">Configuración</string>
     <string name="setting_online_service">Servicios online</string>
     <string name="setting_privacy_password">Añadir patrón</string>
+    <string name="setting_wireless_reverse_charging_fg_control_summary">Detenga la carga inalámbrica inversa cuando la batería de este dispositivo llegue a %s</string>
+    <string name="setting_wireless_reverse_charging_summary">Coloque el dispositivo que admita la carga inalámbrica Qi (por ejemplo, teléfono o dispositivo portátil) en el centro de la parte posterior de este dispositivo</string>
     <string name="settings">Ajustes de uso de datos</string>
     <string name="settings_battery_consume_abnormal_summary">Recibir notificaciones cuando la batería esté siendo consumida rápidamente</string>
     <string name="settings_battery_consume_abnormal_title">Notificaciones de consumo de batería</string>

@@ -66,7 +66,7 @@
     <string name="app_clean_group_document_send">Archivos enviados</string>
     <string name="app_clean_group_image_recv">Imágenes recibidas</string>
     <string name="app_clean_group_image_send">Imágenes enviadas</string>
-    <string name="app_description_content">Limpiador encuentra basura en su dispositivo y libera espacio del almacenamiento. Asegúrese de de no necesitar estas funciones antes de desinstalar la app.</string>
+    <string name="app_description_content">Limpiador encuentra basura en tu dispositivo y libera espacio de almacenamiento. Asegúrate de de no necesitar estas funciones antes de desinstalar la app.</string>
     <string name="app_description_title">Acerca del Limpiador</string>
     <string name="app_name">difuminar</string>
     <string name="app_usage_never">No usado recientemente</string>
@@ -111,6 +111,10 @@
     <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Limpiar %s de caché de WeChat para liberar espacio de almacenamiento</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_title">"No olvides limpiar el caché"</string>
     <string name="appcleaner_wechat_pref_category_title_auto_clean_settings">Recordarme limpiar el caché de WeChat</string>
+    <string name="appcleaner_wechat_pref_size_100_MB">100MB</string>
+    <string name="appcleaner_wechat_pref_size_1_GB">1GB</string>
+    <string name="appcleaner_wechat_pref_size_300_MB">300MB</string>
+    <string name="appcleaner_wechat_pref_size_500_MB">500MB</string>
     <string name="appcleaner_wechat_pref_time_every_day">Cada día</string>
     <string name="appcleaner_wechat_pref_time_fifteen_day">Cada 15 días</string>
     <string name="appcleaner_wechat_pref_time_seven_day">Cada 7 días</string>
@@ -133,8 +137,6 @@
     <string name="auto_clean_time_three_day">Cada 3 días</string>
     <string name="auto_cleaner_open">Activar</string>
     <string name="back">Volver</string>
-    <string name="browser_scan_history_desc">Historial del navegador</string>
-    <string name="browser_search_history_desc">Elementos buscados</string>
     <string name="btn_text_done">Hecho</string>
     <string name="btn_text_quick_cleanup">Limpiar</string>
     <string name="btn_text_quick_cleanup_apk">Eliminar APKs seleccionadas %1$s</string>
@@ -179,7 +181,6 @@
     <string name="cache_title_empty_folder2">Carpeta vacía</string>
     <string name="cache_title_system_cache">Caché de datos</string>
     <string name="cached_garbage">Caché</string>
-    <string name="call_log">Registros de llamadas</string>
     <string name="cancel">Cancelar</string>
     <string name="cd_back">atrás</string>
     <string name="cd_check_box_checked">seleccionado</string>
@@ -210,8 +211,6 @@
     <string name="clear_immediately">Limpiar ahora</string>
     <string name="clear_safe_notify">Widget en la barra de notificaciones</string>
     <string name="clearable_edittext_clear_description">Borrar</string>
-    <string name="clip_board_history_desc">Contenido copiado / cortado</string>
-    <string name="clipboard">Portapapeles</string>
     <string name="close">Cerrar</string>
     <string name="confirm_auto_cleaner">OK</string>
     <string name="conn_of_function_safe">Conexión de Red para Seguridad</string>
@@ -259,6 +258,7 @@
     <string name="deepclean_list_item_from_dcim_thumbnails">Miniaturas</string>
     <string name="deepclean_list_item_from_download">Descargas</string>
     <string name="deepclean_list_item_from_gallery">Galería</string>
+    <string name="deepclean_list_item_from_miui">MIUI</string>
     <string name="deepclean_list_item_from_music">Música</string>
     <string name="deepclean_list_item_from_sdcard">Tarjeta SD</string>
     <string name="deepclean_normal_item_desc1">Archivos basura</string>
@@ -301,6 +301,7 @@
     <string name="download">Descargar</string>
     <string name="downloading">Descargando</string>
     <string name="early_morning">Mañana</string>
+    <string name="empty">" "</string>
     <string name="empty_content_no_ignore_image">Vaciar</string>
     <string name="empty_content_no_privacy">Vacío</string>
     <string name="empty_content_no_similar_image">Sin fotos</string>
@@ -327,6 +328,7 @@
     <string name="facebook_function_summery">Borrar los elementos en caché de Facebook</string>
     <string name="facebook_function_title">Limpiador de Facebook</string>
     <string name="facebook_group_cache">Archivos en caché</string>
+    <string name="facebook_group_gif">GIFs</string>
     <string name="facebook_group_image">Imágenes</string>
     <string name="facebook_group_video">Vídeos</string>
     <string name="file">Archivos</string>
@@ -354,6 +356,7 @@
     <string name="global_wa_clean_icon_text">Limpiador de WhatsApp</string>
     <string name="global_wa_clean_now">Limpiar</string>
     <string name="global_wa_document">Documentos</string>
+    <string name="global_wa_gif">GIFs</string>
     <string name="global_wa_group_advice">Recomendados</string>
     <string name="global_wa_group_clean_earlier">Antes</string>
     <string name="global_wa_group_clean_last_month">Mes pasado</string>
@@ -366,7 +369,7 @@
     <string name="global_wa_main_header_cleaning_hints">El limpiador de WhatsApp está liberando espacio en tu dispositivo…</string>
     <string name="global_wa_main_header_scanning_hints">El limpiador de WhatsApp está escaneando tu dispositivo…</string>
     <string name="global_wa_main_item_desc_cache">"Limpiar el caché no influirá al uso normal"</string>
-    <string name="global_wa_main_item_desc_chat">Puede revisar los archivos adjuntos en la página siguiente</string>
+    <string name="global_wa_main_item_desc_chat">Puedes consultar los adjuntos en la siguiente página</string>
     <string name="global_wa_main_item_title_cache">Caché de aplicaciones</string>
     <string name="global_wa_main_item_title_chat">Adjuntos</string>
     <string name="global_wa_main_stop_cancel">Cancelar</string>
@@ -376,7 +379,7 @@
     <string name="global_wa_main_to_clean">Limpiar</string>
     <string name="global_wa_result_finish_hint_zero">Liberado %s</string>
     <string name="global_wa_setting_alert_dialog_btn">Abrir</string>
-    <string name="global_wa_setting_alert_dialog_content">Puede liberar %s</string>
+    <string name="global_wa_setting_alert_dialog_content">Puedes liberar %s</string>
     <string name="global_wa_setting_alert_dialog_title">Limpiador de WhatsApp</string>
     <string name="global_wa_setting_alert_pref_category_title">Recordatorios del Limpiador de WhatsApp</string>
     <string name="global_wa_setting_alert_pref_size_title">Tamaño de la basura</string>
@@ -424,7 +427,7 @@
     <string name="hints_ad_header_left">Archivos obsoletos</string>
     <string name="hints_apk_header_left">Paquetes</string>
     <string name="hints_apk_version">Versión %s</string>
-    <string name="hints_app_uninstall_residual">¿Limpiar archivos residuales de desintalación?</string>
+    <string name="hints_app_uninstall_residual">¿Borrar archivos de desinstalación residuales?</string>
     <string name="hints_cache_header_left">Archivos en caché</string>
     <string name="hints_cache_msd_desc">"Eliminar las actualizaciones delta no afecta al uso de las aplicaciones"</string>
     <string name="hints_cache_msd_title">Actualización Delta</string>
@@ -439,6 +442,7 @@
     <string name="hints_garbage_cleanup_result_safe">Todo parece estar bien</string>
     <string name="hints_garbage_handle_item_content">%1$d elementos, %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Vaciar</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_installed_app_fewer">Poco usado</string>
     <string name="hints_installed_app_near">Usado recientemente</string>
     <string name="hints_installed_app_never">Nunca usado</string>
@@ -454,6 +458,7 @@
     <string name="hints_list_item_unlock">Limpiar</string>
     <string name="hints_loading_text">Cargando…</string>
     <string name="hints_memory_header_left">Memoria</string>
+    <string name="hints_num">0</string>
     <string name="hints_privacy_header_left">Privacidad: %d</string>
     <string name="hints_quick_cleanning">Limpiando…</string>
     <string name="hints_quick_cleanuping">Optimizando…</string>
@@ -483,6 +488,7 @@
     <string name="item_title_process_mode">Elige una acción</string>
     <string name="junk_temporary_file">Archivos temporales</string>
     <string name="just_now">Ahora mismo</string>
+    <string name="kilobyteShort">KB</string>
     <string name="label_image_list_none">Ninguno</string>
     <string name="label_preserve_the_best_image">Guardar las fotos más nítidas</string>
     <string name="last_check_canceled">El análisis anterior fue cancelado</string>
@@ -528,14 +534,6 @@
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tire hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar elementos"</string>
     <string name="monday">Lunes</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
@@ -584,14 +582,14 @@
     <string name="msg_update_error_code_network_error">"No es posible conectarse a la red"</string>
     <string name="msg_update_error_code_no_newer_db">El Limpiador está actualizado</string>
     <string name="msg_update_error_code_success">Hecho</string>
-    <string name="msg_update_error_code_unknown_error">Los servidores están ocupados. Espere un momento y vuelva a intentarlo.</string>
+    <string name="msg_update_error_code_unknown_error">Los servidores están ocupados. Espera un momento y vuelve a intentarlo.</string>
     <string name="name_debuglog_dir">Registro de depuración BSP</string>
     <string name="name_optimizer">Política de Privacidad</string>
     <string name="nb_clear_set">Limpiar caché, ver batería e información de lista de bloqueo en la Barra de notificaciones</string>
     <string name="network_not_available">"No se puede conectar a la red"</string>
     <string name="news_change">Cambiar</string>
     <string name="night">Tarde</string>
-    <string name="no_network">"No ha sido posible conectarse a la red, inténtelo más tarde"</string>
+    <string name="no_network">"No ha sido posible conectarse a la red, inténtalo más tarde"</string>
     <string name="no_network_btn">Inténtalo de nuevo</string>
     <string name="noon">Mediodía</string>
     <string name="not_set">Sin definir</string>
@@ -672,7 +670,6 @@
     <string name="permission_dialog_storage_content">Cleaner necesita permiso para acceder al almacenamiento interno para poder funcionar normalmente. Toca \"Configuración\" para administrar los permisos de almacenamiento.</string>
     <string name="permission_dialog_storage_title">Se necesitan permisos</string>
     <string name="petabyteShort">PB</string>
-    <string name="phone_search">Búsqueda en Google</string>
     <string name="pm">PM</string>
     <string name="positive_confirm">OK</string>
     <string name="powerful_acceleration">Desfragmentación</string>
@@ -724,7 +721,6 @@
     <string name="privacy_app_desc_message">Cuenta, contraseñas y mensajes</string>
     <string name="privacy_app_desc_search">Cuentas, contraseñas e historial de búsqueda</string>
     <string name="privacy_app_desc_setting">Cuenta, contraseñas y ajustes</string>
-    <string name="privacy_appdata_chrome_history_des">Sitios web visitados</string>
     <string name="privacy_browser_desc">Elementos buscados</string>
     <string name="privacy_cache_desc">Cuenta, contraseña, historial, ajustes y más</string>
     <string name="privacy_cache_empty">Sin datos personales</string>
@@ -739,9 +735,9 @@
     <string name="qq_clean_exit_confirm_msg">¿Detener análisis y salir ahora?</string>
     <string name="qq_clean_finish_summary">Archivos seleccionados eliminados con éxito</string>
     <string name="qq_data_type_cache">Caché de QQ</string>
-    <string name="qq_data_type_cache_desc">"Podrá restaurar estos archivos después de conectarse a Internet."</string>
+    <string name="qq_data_type_cache_desc">"Podrás restaurar estos archivos después de conectarte a Internet."</string>
     <string name="qq_data_type_chat">Historial de chat</string>
-    <string name="qq_data_type_chat_desc">"No podrá restaurar el historial de chat."</string>
+    <string name="qq_data_type_chat_desc">"No podrás restaurar el historial de chat."</string>
     <string name="qq_data_type_normal">Papelera</string>
     <string name="qq_data_type_normal_clean_tips">"Estos son archivos técnicos. Eliminarlos no afectara su uso."</string>
     <string name="qq_data_type_normal_desc">"Borrarlos no afectará su uso."</string>
@@ -751,7 +747,7 @@
     <string name="recommend_the_following">Realiza las siguientes acciones para aprovechar al máximo tu dispositivo</string>
     <string name="recommended">Destacado</string>
     <string name="resutl_function_deep_clean_summary">&lt;Data&gt;&lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; archivos más pueden ser limpiados. Libera más espacio.&lt;/Data&gt;</string>
-    <string name="resutl_function_qq_clean_summary"><Data>Puede borrar &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; de la caché generada por QQ</Data></string>
+    <string name="resutl_function_qq_clean_summary">&lt;Data&gt;Puedes borrar &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; del caché generado por QQ&lt;/Data&gt;</string>
     <string name="resutl_function_wechat_clean_summary">&lt;Data&gt;&lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; de caché de WeChat. Libera más espacio.&lt;/Data&gt;</string>
     <string name="rs_clean_size_free_space">Liberar %s</string>
     <string name="rs_clean_size_storage_size">Ocupado: %1$s/%2$s</string>
@@ -762,7 +758,6 @@
     <string name="sc_allow_network_dialog_button">Permitir</string>
     <string name="sc_allow_network_dialog_message">¿Permitir a esta app conectarse a Internet para recibir actualizaciones?</string>
     <string name="scanning">Escaneando…</string>
-    <string name="search_history">Buscar historial</string>
     <string name="search_menu_title">Buscar</string>
     <string name="security_center_slogan">Mantén tu dispositivo rápido y seguro</string>
     <string name="see_more">Más</string>
@@ -807,7 +802,9 @@
     <string name="sponsored">Patrocinado</string>
     <string name="start_downloading_app">Iniciando descarga: %1$s</string>
     <string name="start_install">Instalar ahora</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_auto_cleaner">¿Recibir notificaciones cada vez que el tamaño de la papelera alcance los 100 MB?</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_delete_apk">¿Eliminar APK seleccionadas permanentemente?</string>
     <string name="summary_delete_cache">¿Limpiar caché de las aplicaciones seleccionadas?</string>
     <string name="summary_delete_large_file">¿Eliminar permanentemente los archivos seleccionados?</string>
@@ -955,9 +952,9 @@
     <string name="video_clean_wechat_clean_title">Limpieza de WeChat</string>
     <string name="virus_scan">Análisis de virus</string>
     <string name="wechat_chat_data_type_cache">Caché de WeChat</string>
-    <string name="wechat_chat_data_type_cache_desc">"Podrá restaurar estos archivos después de conectarse a Internet."</string>
+    <string name="wechat_chat_data_type_cache_desc">"Podrás restaurar estos archivos después de conectarse a Internet."</string>
     <string name="wechat_chat_data_type_chat">Historial de chat</string>
-    <string name="wechat_chat_data_type_chat_desc">"No podrá restaurar el historial de chat."</string>
+    <string name="wechat_chat_data_type_chat_desc">"No podrás restaurar el historial de chat."</string>
     <string name="wechat_chat_data_type_normal">Papelera</string>
     <string name="wechat_chat_data_type_normal_clean_tips">"Estos son archivos técnicos. Eliminarlos no afectara su uso."</string>
     <string name="wechat_chat_data_type_normal_desc">"Borrarlos no afectará su uso."</string>
@@ -989,6 +986,7 @@
     <string name="wechat_qq_celan_tab_video">Vídeos</string>
     <string name="wechat_qq_celan_tab_voice">Mensajes de voz</string>
     <string name="wechat_qq_deep_clean_button_text">Limpieza profunda</string>
+    <string name="wechat_video_time">%1$s:%2$s</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
@@ -1012,6 +1010,7 @@
     <string name="whatsapp_function_title">Limpiador de WhatsApp</string>
     <string name="whatsapp_group_audio">Archivos de audio</string>
     <string name="whatsapp_group_document">Documentos</string>
+    <string name="whatsapp_group_gif">GIFs</string>
     <string name="whatsapp_group_image">Imágenes</string>
     <string name="whatsapp_group_video">Vídeos</string>
     <string name="whatsapp_group_voice">Mensajes de voz</string>

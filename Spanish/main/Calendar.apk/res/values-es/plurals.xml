@@ -9,8 +9,8 @@
         <item quantity="one">En %1$d día a las %2$s</item>
     </plurals>
     <plurals name="Ndays_ago_at">
-        <item quantity="other">%1$d días antes a las %2$s</item>
-        <item quantity="one">%1$d día antes a las %2$s</item>
+        <item quantity="other">%1$d días antes a las%2$s</item>
+        <item quantity="one">%1$d día antes a las%2$s</item>
     </plurals>
     <plurals name="Nhours">
         <item quantity="other">%d horas antes</item>
@@ -21,16 +21,16 @@
         <item quantity="one">%d minuto antes</item>
     </plurals>
     <plurals name="Nweeks">
-        <item quantity="other">%d semanas antes</item>
-        <item quantity="one">%d semana antes</item>
+        <item quantity="other">%d semanas atrás</item>
+        <item quantity="one">%d semana atrás</item>
     </plurals>
     <plurals name="anniversary_day">
         <item quantity="other">%1$s días</item>
         <item quantity="one">%1$s día</item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
-        <item quantity="other">Aniversario: %2$d años desde %1$s en %3$d días</item>
-        <item quantity="one">Aniversario: %2$d año desde %1$s en %3$d días</item>
+        <item quantity="other">Aniversario: Se cumplirán %2$d años desde %1$s en %3$d días</item>
+        <item quantity="one">Aniversario: Se cumplirá %2$d año desde %1$s en %3$d días</item>
     </plurals>
     <plurals name="anniversary_notify_title">
         <item quantity="other">Aniversario: %2$d años desde %1$s</item>
@@ -61,8 +61,8 @@
         <item quantity="one">%1$d día después</item>
     </plurals>
     <plurals name="date_calculate_days_ago">
-        <item quantity="other">%1$d días antes</item>
-        <item quantity="one">%1$d día antes</item>
+        <item quantity="other">%1$d días atrás</item>
+        <item quantity="one">%1$d día atrás</item>
     </plurals>
     <plurals name="date_calculate_direction_backward">
         <item quantity="other">%1$d días después</item>
@@ -77,12 +77,12 @@
         <item quantity="one">%1$d día</item>
     </plurals>
     <plurals name="edit_date_calculate_days_error_hint">
-        <item quantity="other">Puede ingresar hasta %1$d días</item>
-        <item quantity="one">Puede ingresar hasta %1$d día</item>
+        <item quantity="other">Puedes introducir hasta %1$d días</item>
+        <item quantity="one">Puedes introducir hasta %1$d día</item>
     </plurals>
     <plurals name="event_reminders_to_max">
-        <item quantity="other">Puede establecer hasta %d recordatorios</item>
-        <item quantity="one">Puede establecer hasta %d recordatorio</item>
+        <item quantity="other">Puedes establecer hasta %d recordatorios</item>
+        <item quantity="one">Puedes establecer hasta %d recordatorio</item>
     </plurals>
     <plurals name="hide_completed_notes">
         <item quantity="other">Ocultar %d tareas completadas</item>
@@ -97,8 +97,8 @@
         <item quantity="one">Día %1$d</item>
     </plurals>
     <plurals name="mesens_card_title_predict_date">
-        <item quantity="other">Próximo periodo en %1$d días</item>
-        <item quantity="one">Siguiente período en %1$d día</item>
+        <item quantity="other">Siguiente periodo en %1$d días</item>
+        <item quantity="one">Siguiente periodo en %1$d día</item>
     </plurals>
     <plurals name="notes_custom_repeat_days">
         <item quantity="other">días</item>
@@ -137,32 +137,32 @@
         <item quantity="one">Mostrar %d tarea completada</item>
     </plurals>
     <plurals name="subtitle_add_record">
-        <item quantity="other">"No ha grabado durante %1$d días. Registre sus períodos para obtener predicciones más precisas."</item>
-        <item quantity="one">"No ha grabado durante %1$d día. Registre sus períodos para obtener predicciones más precisas."</item>
+        <item quantity="other">"No has registrado nada durante %1$d días. Registra tus periodos para obtener predicciones más precisas."</item>
+        <item quantity="one">"No has registrado nada durante %1$d día. Registra tus periodos para obtener predicciones más precisas."</item>
     </plurals>
     <plurals name="subtitle_menstruation_continued_days">
-        <item quantity="other">Este período tiene una duración total de %1$d días</item>
-        <item quantity="one">Este período tiene una duración total de %1$d día</item>
+        <item quantity="other">Este periodo dura un total de %1$d días</item>
+        <item quantity="one">Este periodo dura un total de %1$d día</item>
     </plurals>
     <plurals name="subtitle_menstruation_cycle_days">
         <item quantity="other">Día %1$d de este ciclo menstrual</item>
         <item quantity="one">Día %1$d de este ciclo menstrual</item>
     </plurals>
     <plurals name="title_menstruation_day">
-        <item quantity="other">Día %1$d del período</item>
-        <item quantity="one">Día %1$d del período</item>
+        <item quantity="other">Día %1$d del periodo</item>
+        <item quantity="one">Día %1$d del periodo</item>
     </plurals>
     <plurals name="title_menstruation_margin_next_time_days">
-        <item quantity="other">%1$d días hasta el próximo período</item>
-        <item quantity="one">%1$d día hasta el próximo período</item>
+        <item quantity="other">%1$d días hasta el siguiente periodo</item>
+        <item quantity="one">%1$d día hasta el siguiente periodo</item>
     </plurals>
     <plurals name="title_menstruation_predict_period">
-        <item quantity="other">Día %1$d estimado del período</item>
-        <item quantity="one">Día %1$d estimado del período</item>
+        <item quantity="other">Previsto el día %1$d del periodo</item>
+        <item quantity="one">Previsto el día %1$d del periodo</item>
     </plurals>
     <plurals name="travel_eta_advice">
-        <item quantity="other">%2$s minutos en coche a %1$s.</item>
-        <item quantity="one">%2$s minuto en coche a %1$s.</item>
+        <item quantity="other">s%2$s minutos para llegar a %1$s.</item>
+        <item quantity="one">s%2$s minuto para llegar a %1$s.</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="one">SEMANA %d</item>

@@ -38,9 +38,9 @@
     <string name="alert_button_deny">Rechazar</string>
     <string name="alert_message_backup_to_miasist">Mi PC Suite requiere permisos para crear una copia en el ordenador. ¿Permitir?</string>
     <string name="alert_message_restore_from_miasist">Mi PC Suite requiere permisos para restaurar elementos en tu teléfono. ¿Permitir?</string>
-    <string name="alert_miasist_occupy_backup">Haciendo copia de los elementos usando Mi PC Suite… Espere hasta que la copia esté completada y vuelva a intentarlo.</string>
-    <string name="alert_miasist_occupy_restore">Restaurando elementos usando Mi PC Suite… Espere hasta que estén restaurados y vuelva a intentarlo.</string>
-    <string name="alert_phone_occupy_backup">"No se puede usar Mi PC Suite ahora. Complete la copia de seguridad o restaure los elementos en su teléfono y vuelva a intentarlo."</string>
+    <string name="alert_miasist_occupy_backup">Haciendo copia de los elementos usando Mi PC Suite… Espera hasta que la copia esté completada y vuelve a intentarlo.</string>
+    <string name="alert_miasist_occupy_restore">Restaurando elementos usando Mi PC Suite… Espera hasta que estén restaurados y vuelve a intentarlo.</string>
+    <string name="alert_phone_occupy_backup">"No se puede usar Mi PC Suite ahora. Completa la copia de seguridad o restaura los elementos en tu teléfono y vuelve a intentarlo."</string>
     <string name="alert_second_space_not_support_miasist">"No se puede usar Mi PC Suite en Segundo espacio. Cambia al Primer espacio."</string>
     <string name="alert_title_backup_to_miasist">¿Hacer copia de seguridad de los elementos usando Mi PC Suite?</string>
     <string name="alert_title_restore_from_miasist">¿Restaurar elementos en tu teléfono?</string>
@@ -107,7 +107,7 @@
     <string name="cancel_moving_dialog_title">Detener la importación</string>
     <string name="cancel_restore">Detener</string>
     <string name="clearable_edittext_clear_description">Limpiar</string>
-    <string name="click_soft_ap_to_link">Seleccione un punto de acceso para conectarse</string>
+    <string name="click_soft_ap_to_link">Selecciona el punto de acceso para conectar</string>
     <string name="click_to_view">Pulsa para ver</string>
     <string name="close">Cerrar</string>
     <string name="close_twice_auth_btn">Desactivar la autenticación de dos factores</string>
@@ -124,6 +124,7 @@ https://appleid.apple.com/#!&amp;page=iniciar sesión para cerrar"</string>
     <string name="cloud_backup_hint">Iniciar sesión para acceder a tus copias de seguridad</string>
     <string name="cloud_backup_login">Iniciar sesión en Cuenta Mi</string>
     <string name="cloud_backup_window_title">Copias de seguridad de Xiaomi Cloud</string>
+    <string name="cloud_home_title">Xiaomi Cloud</string>
     <string name="cloud_item_info_summary">" (Local: %1$s | Xiaomi Cloud: %2$s)"</string>
     <string name="cloud_last_backup">"Última copia de seguridad el "</string>
     <string name="cloud_no_backup">Sin copias de seguridad</string>
@@ -131,6 +132,7 @@ https://appleid.apple.com/#!&amp;page=iniciar sesión para cerrar"</string>
     <string name="cloud_restore_title">Restaurar datos de la Copia de seguridad</string>
     <string name="cloud_restore_window_title">Restaurar desde Xiaomi Cloud</string>
     <string name="cloud_search">Buscando…</string>
+    <string name="comma_seperator">", "</string>
     <string name="compute_backup_info">Obteniendo info de la copia de seguridad…</string>
     <string name="compute_delete_contact_info">Obteniendo información…</string>
     <string name="confirm_exit_link">Salir</string>
@@ -160,13 +162,14 @@ https://appleid.apple.com/#!&amp;page=iniciar sesión para cerrar"</string>
     <string name="dialog_app_upgrade_download">Actualizar</string>
     <string name="dialog_app_upgrade_exit">Salir</string>
     <string name="dialog_app_upgrade_message">Hay disponible una nueva versión de Mi Mover. ¿Actualizar Mi Mover ahora?</string>
-    <string name="dialog_backup_password_auto_backup_tips">"No se pueden realizar copias de seguridad automáticas cuando la contraseña está activada. Primero, desactive la contraseña de la copia de seguridad."</string>
-    <string name="dialog_backup_password_backup_tips">"No se pueden hacer copias de seguridad cuando la contraseña está activada. Desactive la contraseña de la copia de seguridad."</string>
+    <string name="dialog_backup_password_auto_backup_tips">"No se puede hacer copias de elementos automáticamente cuando hay activa una contraseña sobre copias de seguridad. Desactiva la contraseña de la copia de seguridad primero."</string>
+    <string name="dialog_backup_password_backup_tips">"No se puede hacer copias de elementos cuando hay activa una contraseña sobre copias de seguridad. Desactiva la contraseña de la copia de seguridad."</string>
     <string name="dialog_backup_password_cancel">Cancelar</string>
-    <string name="dialog_backup_password_change_device_restore_tips">"No puede usar Mi Mover mientras la contraseña de seguridad esté activada. Desactive la contraseña de seguridad primero."</string>
-    <string name="dialog_backup_password_change_machine_tips">"No podrá transferir copias de seguridad protegidas por contraseña. Desactive la contraseña de la copia de seguridad antes de usar Mi Mover."</string>
+    <string name="dialog_backup_password_change_device_restore_tips">"No puede usar Mi Mover mientras la contraseña de seguridad esté activada. Desactiva la contraseña de seguridad primero."</string>
+    <string name="dialog_backup_password_change_machine_tips">"No podrás transferir copias de seguridad protegidas por contraseña. Desactiva la contraseña de la copia de seguridad antes de usar Mi Mover."</string>
     <string name="dialog_backup_password_restore_tips">"No puede usar restaurar elementos mientras la contraseña de seguridad esté activada. Desactiva la contraseña de seguridad primero."</string>
     <string name="dialog_backup_password_to_settings">Ajustes</string>
+    <string name="digit_percent">%</string>
     <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="disable_encrypt_description">No cifrar</string>
     <string name="disable_encrypt_title">Desactivar el cifrado</string>
@@ -190,7 +193,7 @@ https://appleid.apple.com/#!&amp;page=iniciar sesión para cerrar"</string>
     <string name="err_no_gms">Versión de aplicación incompatible. Instala esta aplicación por separado.</string>
     <string name="err_not_allow">No compatible</string>
     <string name="err_pkg_not_exist">"No se pudo encontrar la aplicación."</string>
-    <string name="err_router_disconnected">"Compruebe la conexión del router y vuelva a intentarlo."</string>
+    <string name="err_router_disconnected">"Comprueba la conexión del router y vuelve a intentarlo."</string>
     <string name="err_router_files_delete">"No se pudo eliminar los archivos de copia de seguridad en el router"</string>
     <string name="err_unknown">Error desconocido</string>
     <string name="err_user_abort">Cancelado por el usuario.</string>
@@ -207,6 +210,7 @@ https://appleid.apple.com/#!&amp;page=iniciar sesión para cerrar"</string>
     <string name="feature_title_antispam">Lista negra</string>
     <string name="feature_title_call_log">Historial de llamadas</string>
     <string name="feature_title_contacts">Contactos</string>
+    <string name="feature_title_mms">MMS</string>
     <string name="feature_title_mms_setting">Ajustes de mensajería</string>
     <string name="feature_title_sms">Mensajes</string>
     <string name="file_uploading">Cargando…</string>
@@ -214,8 +218,8 @@ https://appleid.apple.com/#!&amp;page=iniciar sesión para cerrar"</string>
     <string name="findlost_contact">Restaurar contactos</string>
     <string name="findlost_contact_online">Restaurar contactos desde la nube</string>
     <string name="flash_drive_backup_btn">Copiar en una unidad USB</string>
-    <string name="flash_drive_backup_note">"Copie las aplicaciones en una unidad USB.
-Asegúrese de que la unidad USB tiene espacio suficiente antes de iniciar."</string>
+    <string name="flash_drive_backup_note">"Copia las aplicaciones en una unidad USB.
+Asegúrate de que la unidad USB tiene espacio suficiente antes de iniciar."</string>
     <string name="flash_drive_backup_restore">Copias de seguridad USB</string>
     <string name="flash_drive_connection_failed">Unidad USB desconectada</string>
     <string name="flash_drive_restore_btn">Restaurar desde una unidad USB</string>
@@ -297,6 +301,7 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="local_main_backup">Copias de seguridad locales</string>
     <string name="local_main_backup_and_restore">En este dispositivo</string>
     <string name="local_main_backup_detail_title">Ajustes del sistema, cuentas y datos de aplicaciones</string>
+    <string name="local_main_backup_manage_null">%s</string>
     <string name="local_main_backup_manager">Gestionar copias de seguridad locales</string>
     <string name="local_main_backup_manager_title">Gestionar copias de seguridad</string>
     <string name="local_main_backup_settings">Ajustes de copias de seguridad locales</string>
@@ -423,7 +428,7 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="new_pc_backup_summary1">Selecciona elementos y pulsa \"Hacer copia de seguridad\".</string>
     <string name="new_pc_backup_summary2">Conecta tu dispositivo móvil al ordenador mediante un cable USB.</string>
     <string name="new_pc_backup_summary2_pad">Conecte su dispositivo móvil a la computadora mediante un cable USB.</string>
-    <string name="new_pc_backup_summary4">Nota: también puede copiar fotos y videos de MIUI-DCIM.</string>
+    <string name="new_pc_backup_summary4">Nota: también puedes copiar fotos y vídeos de DCIM.</string>
     <string name="new_pc_restore_content1">%d. Conecta tu dispositivo móvil al ordenador mediante un cable USB.</string>
     <string name="new_pc_restore_content1_pad">%d. Conecte su dispositivo móvil a un ordenador mediante un cable USB.</string>
     <string name="new_pc_restore_content2">%d. Copia la copia de seguridad de tu ordenador a MIUI-Backup-AllBackup.</string>
@@ -487,7 +492,7 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="notif_trans_sending_failed">"No se pudo enviar los datos"</string>
     <string name="notif_trans_wait_for_reconnecting">Conexión interrumpida. Conectar de nuevo.</string>
     <string name="old_soft_name">Conectar vía código QR</string>
-    <string name="old_way">También puede generar un código QR en su nuevo dispositivo y escanearlo usando el antiguo.</string>
+    <string name="old_way">También puedes generar un código QR en tu nuevo dispositivo y escanearlo usando el antiguo.</string>
     <string name="page_loading">Un momento…</string>
     <string name="password">Contraseña</string>
     <string name="password_null">"La contraseña no puede estar en blanco"</string>
@@ -513,7 +518,7 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="prompt_writing">Guardando…</string>
     <string name="read_encrypt_fail">"No es posible leer las copias de seguridad cifradas"</string>
     <string name="reconnect">Conectar de nuevo</string>
-    <string name="recreate_soft_ap_tips">Toque el botón de abajo para intentarlo de nuevo.</string>
+    <string name="recreate_soft_ap_tips">Pulsa el botón de más abajo para volver a intentarlo.</string>
     <string name="refresh">Actualizar</string>
     <string name="remote_receive">Recibir</string>
     <string name="restore">Restaurar</string>
@@ -545,7 +550,7 @@ No apague ni cambie el Wi-Fi"</string>
 Libere al menos %s."</string>
     <string name="sc_bad_request">Solicitud inválida</string>
     <string name="sc_internal_server_error">Error interno del servidor</string>
-    <string name="sc_network_unavailable">Compruebe la conexión e inténtelo de nuevo.</string>
+    <string name="sc_network_unavailable">Comprueba la conexión e inténtalo de nuevo.</string>
     <string name="sc_others">Ha ocurrido un error</string>
     <string name="sc_precondition_failed">Primero debes añadir un correo electrónico a Cuenta Mi.</string>
     <string name="sc_request_timeout">Tiempo de espera agotado</string>
@@ -610,13 +615,15 @@ Libere al menos %s."</string>
     <string name="start_restore">Restaurar</string>
     <string name="state_mounting">Accediendo al almacenamiento del router…</string>
     <string name="state_waiting">Un momento…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_sd_card">Tarjeta SD</string>
     <string name="storage_usb">Unidad USB</string>
     <string name="succ_description">Exitosamente</string>
     <string name="succeed">Completado</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_err_backup_encrypting">Iniciar sesión en Cuenta Mi.</string>
     <string name="summary_err_backup_no_network">"No se pudo conectar a la red"</string>
-    <string name="summary_err_restore_encrypting">"No se pudo restaurar. Asegúrese de que esta copia se realizó utilizando su Cuenta Mi."</string>
+    <string name="summary_err_restore_encrypting">"No se pudo restaurar. Asegúrate de que esta copia se realizó utilizando Cuenta Mi."</string>
     <string name="summary_err_restore_no_network">"No se pudo conectar a la red"</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
@@ -696,6 +703,7 @@ Libere al menos %s."</string>
     <string name="time_picker_dialog_title">Establecer hora</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">Mañana</string>
+    <string name="total_size">, %s</string>
     <string name="trans_backingup">Copia de seguridad en curso…</string>
     <string name="trans_backingup_no_items">Sincronizando…</string>
     <string name="trans_button_cancel">Cancelar</string>
@@ -711,7 +719,7 @@ Libere al menos %s."</string>
     <string name="trans_cancelling">Cancelando…</string>
     <string name="trans_complete_restoring">Transferido con éxito. Restaurando los datos de aplicación…</string>
     <string name="trans_connect_failed_device_incompatible">"Dispositivo no compatible. Cancelar la transferencia y reintentar."</string>
-    <string name="trans_connect_failed_message">"No se pudo conectar, por favor vuelva a intentarlo o reinicie. En el otro dispositivo, vaya a Ajustes &gt; Ajustes adicionales &gt; Mi Mover, pulse [Soy el remitente], o vuelva a abrir Mi Mover después del reinicio."</string>
+    <string name="trans_connect_failed_message">"No se pudo conectar, por favor vuelve a intentarlo o reinicia. En el otro dispositivo, ve a Ajustes &gt; Ajustes adicionales &gt; Mi Mover, pulsa [Soy el remitente], o vuelve a abrir Mi Mover después del reinicio."</string>
     <string name="trans_connect_failed_title">"No se pudo conectar"</string>
     <string name="trans_connect_failed_toast">"No es posible conectar"</string>
     <string name="trans_connecting_toast">Conectando…</string>
@@ -766,7 +774,7 @@ para descargar e instalar Mi Mover."</string>
     <string name="trans_intro_desc_3">Cancela la transferencia, sal de Mi Mover y vuelve a empezar. Los archivos duplicados se sobrescribirán en la nueva transferencia.</string>
     <string name="trans_intro_desc_4">"Mi Mover usa Wi-Fi para transferir archivos, por eso, no puedes conectarte a internet con Wi-Fi en el dispositivo durante la transferencia pero sí puedes utilizar datos móviles. Algunos nuevos dispositivos (Mi 6, por ej.) sí podrían conectarse a internet con Wi-Fi durante las transferencias."</string>
     <string name="trans_intro_desc_4_market">"Mi Mover usa la red Wi-Fi para transferir archivos. Es por esto que no se puede conectar a internet usando Wi-Fi mientras se realiza una transferencia. Aun así puedes usar los datos móviles."</string>
-    <string name="trans_intro_desc_5">El espacio de almacenamiento de los dispositivos antiguos se utiliza para crear paquetes de transferencia. Asegúrese de tener al menos 500 Mb - 1 Gb de almacenamiento disponible en su anterior teléfono antes de iniciar una transferencia.</string>
+    <string name="trans_intro_desc_5">Se utiliza espacio de almacenamiento del dispositivo antiguo para crear paquetes de transferencia. Asegúrate de que tienes entre 500MB - 1GB de espacio disponible en tu teléfono antiguo antes de empezar.</string>
     <string name="trans_intro_desc_6">Razones posibles son: problemas de compatibilidad de sistema y versión de la aplicación, problemas de red, problemas de compatibilidad específicos de un dispositivo particular, etc.</string>
     <string name="trans_intro_desc_7">Algunos perfiles de aplicaciones (e-banking, finanzas, etc) están asociados a un dispositivo específico por razones de seguridad. Prueba a borrar los datos de la aplicación o a reinstalarla en un nuevo dispositivo.</string>
     <string name="trans_intro_desc_8">"Los datos de WeChat y el historial de chat podrían no transferirse completamente con Mi Mover. Ve a los ajustes de WeChat y cierra sesión para tener más oportunidades de éxito."</string>
@@ -783,9 +791,9 @@ para descargar e instalar Mi Mover."</string>
     <string name="trans_intro_desc_new">"Pulsa en \"Soy destinatario\", se generará un código QR."</string>
     <string name="trans_intro_desc_old">"Pulsa \"Soy remitente\". Escanea el código QR en el teléfono nuevo, espera a que Mi Mover averigüe qué archivos enviar y pulsa \"Enviar\"."</string>
     <string name="trans_intro_desc_old_market">Pulsa \"Iniciar\". Escanea el código QR en el teléfono nuevo, espera a que Mi Mover averigüe qué archivos enviar y pulsa \"Enviar\".</string>
-    <string name="trans_intro_desc_private">"Mi Mover no puede acceder a las fotos del álbum oculto porque están cifradas. Puede restaurar estas fotos desde Xiaomi Cloud en un nuevo dispositivo."</string>
+    <string name="trans_intro_desc_private">"Mi Mover no puede acceder a las fotos del álbum oculto porque están cifradas. Puedes restaurar estas fotos desde Xiaomi Cloud en un nuevo dispositivo."</string>
     <string name="trans_intro_question_1">%d. ¿Cómo uso Mi Mover para mover datos desde un dispositivo iOS?</string>
-    <string name="trans_intro_question_10">"%d. ¿No pudo encontrar el punto de acceso en su antiguo dispositivo?"</string>
+    <string name="trans_intro_question_10">"%d. ¿No puedes encontrar el punto de acceso en el dispositivo antiguo?"</string>
     <string name="trans_intro_question_2">%d. ¿Cómo uso Mi Mover para mover datos desde un dispositivo Android?</string>
     <string name="trans_intro_question_3">%d. ¿Qué debo hacer si Mi Mover se atascó en un determinado paso?</string>
     <string name="trans_intro_question_4">"%d. ¿Por qué no puedo usar Wi-Fi durante las transferencias?"</string>
@@ -868,8 +876,8 @@ Selecciona solo elementos importantes para acelerar la transferencia."</string>
     <string name="trans_sender">"Soy el remitente"</string>
     <string name="trans_sender_connectting">Confirmar el nuevo dispositivo</string>
     <string name="trans_sender_searching">Buscando nuevos dispositivos</string>
-    <string name="trans_sender_searching_ensurance">"Asegúrese de que el anterior dispositivo esté encendido
-Esperando que el anterior dispositivo se conecte…"</string>
+    <string name="trans_sender_searching_ensurance">"Asegúrate de que el antiguo dispositivo esté encendido
+Esperando al antiguo dispositivo para conectarse…"</string>
     <string name="trans_sender_time_remained">"%s restante.
 No apagues el Wi-Fi.
 Mantén los dispositivos cerca uno del otro."</string>
@@ -891,7 +899,7 @@ Mantén los dispositivos cerca uno del otro."</string>
     <string name="trans_time_spent">Tiempo utilizado: %s</string>
     <string name="trans_wait_trans_data">"Conectado al dispositivo antiguo.
 Esperando la transferencia…"</string>
-    <string name="trans_waiting_ensurance">"Asegúrese de que el dispositivo antiguo esté encendido
+    <string name="trans_waiting_ensurance">"Asegúrate de que el dispositivo antiguo esté encendido
 y Mi Mover esté activado"</string>
     <string name="trans_waiting_for_sender">Esperando al dispositivo antiguo para conectar…</string>
     <string name="trans_wlan_tips_message">"No apague el Wi-Fi ni cambie a otras redes Wi-Fi durante la transferencia. De lo contrario, Mi Mover no podrá transferir datos."</string>
@@ -901,13 +909,13 @@ y Mi Mover esté activado"</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="unit_byte">B</string>
     <string name="unknown_hint">Desconocido</string>
-    <string name="usb_backup_select_data_too_large">"Los archivos seleccionados son grandes. Asegúrese de que la unidad USB tiene suficiente espacio.
+    <string name="usb_backup_select_data_too_large">"Los archivos seleccionados son grandes. Asegúrate de que la unidad USB tiene suficiente espacio.
 Transferir solo elementos importantes."</string>
     <string name="usb_restore_select_data_too_large">"Los archivos copiados son grandes. Llevará tiempo restaurarlos.
 Restaurar solo los elementos importantes será más rápido."</string>
     <string name="usb_trans_native_no_space">"Solo %s disponibles en tu dispositivo.
 Libera espacio o realiza varias transferencias más pequeñas."</string>
-    <string name="usb_trans_old_phone_low_space_msg">"Se requiere más espacio en el almacenamiento para sus copias de seguridad. No hay espacio suficiente para continuar con la transferencia. Puede liberar espacio y eliminar archivos innecesarios en Seguridad o intentar transferir solo elementos importantes."</string>
+    <string name="usb_trans_old_phone_low_space_msg">"Se necesita más espacio de almacenamiento para almacenar tus copias. No hay espacio suficiente para continuar con la transferencia. Puedes liberar espacio o eliminar archivos innecesarios en Seguridad, o intenta transfiriendo solo elementos importantes."</string>
     <string name="usb_trans_old_phone_low_space_title">No hay suficiente espacio de almacenamiento</string>
     <string name="usb_trans_select_data_no_space">"Solo %s disponibles en su unidad USB.
 Libera espacio o transfiere solo los elementos importantes."</string>
@@ -920,17 +928,20 @@ Libera espacio o transfiere solo los elementos importantes."</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
     <string name="view_password_description">Mostrar contraseña</string>
-    <string name="wait_link">"Abra Mi Mover en su viejo dispositivo,
-pulse \"Soy un emisor\" y seleccione un punto de acceso para conectar.
-No cierre la página antes de establecer la conexión."</string>
+    <string name="wait_link">"Abrir Mi Mover en el dispositivo antiguo,
+pulsa \"Soy un emisor\" y selecciona un punto de acceso para conectar.
+No cierres la página antes de establecer la conexión."</string>
     <string name="waiting">Un momento…</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
     <string name="wifi_title">Ajustes de Wi-Fi</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">"No se pudo iniciar la descarga. Asegúrate de que el Administrador de Descargas funciona normalmente."</string>
     <string name="xiaomi_external_storage_unavailable">"Almacenamiento no disponible, comprueba tu tarjeta SD."</string>
-    <string name="xiaomi_router">Mi Router</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
+    <string name="xiaomi_router">Router Mi</string>
     <string name="xiaomi_router_location">Router Mi %s</string>
     <string name="xiaomi_update_dialog_message">"Presentando la versión %1$s
 Tamaño:%2$s"</string>

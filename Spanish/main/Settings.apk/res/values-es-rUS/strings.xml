@@ -1359,6 +1359,7 @@ Selección"</string>
     <string name="bluetooth_unlock_settings_devices_title">Dispositivo</string>
     <string name="bluetooth_unlock_settings_toggle_title">Aplicar a</string>
     <string name="bluetooth_unlock_settings_unlock_device">Desbloquear dispositivo</string>
+    <string name="bluetooth_unlock_settings_unlock_summary">Esta característica funciona con dispositivos portátiles seleccionados hechos por Xiaomi</string>
     <string name="bluetooth_unlock_state_disconnected">No conectado</string>
     <string name="bluetooth_unlock_state_key_error">Contraseña incorrecta</string>
     <string name="bluetooth_unlock_state_label">"Estado: "</string>
@@ -1444,9 +1445,17 @@ Puede desactivar esta función en Configuración &gt; Bluetooth &gt; Dispositivo
     <string name="bt_absVolume_open_dialog_title">Atención</string>
     <string name="bt_absVolume_pre_title">Volumen absoluto</string>
     <string name="bt_absVolume_summary">"Mantenga el volumen de los dispositivos Bluetooth y del teléfono estrictamente constante. Puede activar y desactivar esta función cuando no se reproduzcan elementos multimedia en segundo plano."</string>
+    <string name="bt_audio_repair_property">Solucionar problemas de audio</string>
     <string name="bt_audio_share_property">Compartiendo</string>
     <string name="bt_audio_share_switch_summary">Compartir audio con dispositivos Bluetooth conectados</string>
     <string name="bt_audio_share_switch_title">Compartir audio</string>
+    <string name="bt_audiorepair_dialog_open_success">Arreglado con éxito. Espere hasta que el dispositivo se vuelva a conectar.</string>
+    <string name="bt_audiorepair_dialog_openok">Reparar</string>
+    <string name="bt_audiorepair_open_dialog_summary">"MIUI detectará y solucionará los problemas que causan el tartamudeo del audio de Bluetooth. Bluetooth se reiniciará durante este proceso. No abandone esta página hasta que vea los resultados."</string>
+    <string name="bt_audiorepair_open_dialog_title">Corregir el tartamudeo de audio</string>
+    <string name="bt_audiorepair_pre_title">Corregir el tartamudeo de audio</string>
+    <string name="bt_audiorepair_summary">Corregir el sonido entrecortado en dispositivos Bluetooth conectados</string>
+    <string name="bt_audiorepair_working">Corrigiendo el tartamudeo de audio…</string>
     <string name="bt_dialog_remember_choice">"No mostrar de nuevo"</string>
     <string name="bt_dialog_settings">Ajustes</string>
     <string name="bt_hci_snoop_log">Registro snoop de Bluetooth HCI</string>
@@ -4479,6 +4488,7 @@ No podrá deshacer esta acción"</string>
     <string name="miui_face_enroll_risk_warning_title_text">Atención</string>
     <string name="miui_face_enroll_success">"Puede desbloquear este dispositivo usando sus datos faciales.
 Continúe para acceder a los ajustes adicionales."</string>
+    <string name="miui_input_method_attention">Atención</string>
     <string name="miui_input_method_settings">Ajustes de método de entrada</string>
     <string name="miui_lab_ai_cloud_closed">"Precarga IA no está disponible aún."</string>
     <string name="miui_lab_ai_preload_desc">Precarga IA aumenta la velocidad con la que abre aplicaciones</string>
@@ -5962,6 +5972,7 @@ Reinicia el dispositivo y vuelve a intentarlo."</string>
     <string name="ringtones_category_preference_title">Tonos</string>
     <string name="ringtones_install_custom_sound_content">Se copiará este archivo a la carpeta %s</string>
     <string name="ringtones_install_custom_sound_title">¿Deseas agregar un sonido personalizado?</string>
+    <string name="risk_tip">Riesgo detectado</string>
     <string name="roaming">Roaming</string>
     <string name="roaming_alert_title">¿Permitir el roaming de datos?</string>
     <string name="roaming_check_price_warning">Para saber los precios, consulta con tu proveedor de red.</string>

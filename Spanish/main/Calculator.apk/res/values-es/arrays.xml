@@ -1,39 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alphabet_table">
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="height_array">
         <item>Centímetros</item>
         <item>Metros</item>
         <item>Pies</item>
         <item>Pulgadas</item>
+    </string-array>
+    <string-array name="loan_rulers">
+        <item>@string/loan_type_summary_lpr</item>
+        <item>@string/loan_type_summary_base</item>
     </string-array>
     <string-array name="mortgage_repayment">
         <item>Cuotas iguales</item>
@@ -62,17 +37,6 @@
         <item>USD</item>
         <item>EUR</item>
         <item>JPY</item>
-    </string-array>
-    <string-array name="unit_data_order_time_">
-        <item>año</item>
-        <item>semana</item>
-        <item>día</item>
-        <item>h</item>
-        <item>min</item>
-        <item>s</item>
-        <item>ms</item>
-        <item>us</item>
-        <item>ps</item>
     </string-array>
     <string-array name="weight_array">
         <item>Kilogramos</item>

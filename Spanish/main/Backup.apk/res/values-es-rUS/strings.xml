@@ -27,8 +27,8 @@
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
-    <string name="abort_backup_confirm">"La copia de seguridad no se ha terminado de hacer. ¿La quieres detener de todos modos?"</string>
-    <string name="abort_restore_confirm">"La restauración no se ha terminado. ¿La quieres detener de todos modos?"</string>
+    <string name="abort_backup_confirm">"La copia de seguridad no ha terminado. ¿Detener de todos modos?"</string>
+    <string name="abort_restore_confirm">"Restauración no finalizada. ¿Detener de todos modos?"</string>
     <string name="account_contact_backup_info">Cuenta Google, Cuenta Mi y datos de contactos</string>
     <string name="account_login">Iniciar sesión</string>
     <string name="account_summary">Respaldar la cuenta de Google, Cuenta Mi y otros datos de usuario</string>
@@ -36,17 +36,17 @@
     <string name="afternoon">Tarde</string>
     <string name="alert_button_agree_and_continue">Permitir</string>
     <string name="alert_button_deny">Rechazar</string>
-    <string name="alert_message_backup_to_miasist">Mi PC Suite requiere permisos para crear una copia de seguridad en una computadora. ¿Permitir?</string>
+    <string name="alert_message_backup_to_miasist">Mi PC Suite solicita permisos para crear un respaldo en la computadora. ¿Permitir?</string>
     <string name="alert_message_restore_from_miasist">Mi PC Suite solicita permisos para crear un respaldo en su teléfono. ¿Permitir?</string>
-    <string name="alert_miasist_occupy_backup">Haciendo copia de seguridad usando Mi PC Suite… Espere hasta que la copia de respaldo esté completada y vuelva a intentarlo.</string>
+    <string name="alert_miasist_occupy_backup">Respaldando elementos con Mi PC Suite… Espere hasta que el respaldo esté completo y vuelva a intentarlo.</string>
     <string name="alert_miasist_occupy_restore">Restaurando elementos con Mi PC Suite… Espere hasta que los elementos se restauren y vuelva a intentarlo.</string>
-    <string name="alert_phone_occupy_backup">"No se puede usar Mi PC Suite ahora. Complete la copia de seguridad o la restauración en su teléfono y vuelva a intentarlo."</string>
+    <string name="alert_phone_occupy_backup">"No se puede usar Mi PC Suite ahora. Complete el respaldo o la restauración de elementos en su teléfono y vuelva a intentarlo."</string>
     <string name="alert_second_space_not_support_miasist">"No puede usar Mi PC Suite en el segundo espacio. Cambie al espacio principal."</string>
     <string name="alert_title_backup_to_miasist">¿Respaldar elementos con Mi PC Suite?</string>
     <string name="alert_title_restore_from_miasist">¿Restaurar elementos en su teléfono?</string>
     <string name="already_enable_encrypt">El cifrado ya está activado</string>
     <string name="am">A.M.</string>
-    <string name="app_name">Copia de seguridad</string>
+    <string name="app_name">Respaldo</string>
     <string name="apps_and_data_item_desc">Aplicaciones y datos</string>
     <string name="apps_item_desc">Aplicación</string>
     <string name="auto_backup">Programar copia de seguridad de rutina</string>
@@ -56,7 +56,7 @@
     <string name="auto_backup_choose_title">Elegir elementos a los que se realice la copia de seguridad</string>
     <string name="auto_backup_date">Días</string>
     <string name="auto_backup_only_wifi">Solo al estar conectado a Wi-Fi</string>
-    <string name="auto_backup_open">Crear copias de seguridad automáticamente</string>
+    <string name="auto_backup_open">Crear copia de seguridad automáticamente</string>
     <string name="auto_backup_progress">Creando copia de seguridad…</string>
     <string name="auto_backup_select_user_apps">Seleccionar aplicaciones</string>
     <string name="auto_backup_selected_user_apps">Aplicaciones seleccionadas</string>
@@ -67,8 +67,8 @@
     <string name="backup">Copia de seguridad</string>
     <string name="backup_data">Seleccione elementos a los que se realice la copia de seguridad</string>
     <string name="backup_delete">Eliminar:</string>
-    <string name="backup_empty">No hay copias de seguridad.</string>
-    <string name="backup_empty_info">" Crear una copia de seguridad de los datos, ajustes y aplicaciones"</string>
+    <string name="backup_empty">No hay respaldos.</string>
+    <string name="backup_empty_info">" Crear copia de seguridad de sus datos, ajustes y aplicaciones"</string>
     <string name="backup_empty_info_onpad">" Respalde sus datos, ajustes y aplicaciones"</string>
     <string name="backup_error">"No se pudo respaldar"</string>
     <string name="backup_failed">"No se pudo respaldar"</string>
@@ -99,7 +99,7 @@
     <string name="button_return">Atrás</string>
     <string name="button_send">Enviar</string>
     <string name="call_title">Historial de llamadas</string>
-    <string name="camera_summary">Ajustes de la cámara (sin incluir fotos)</string>
+    <string name="camera_summary">Ajustes de cámara (sin incluir fotos)</string>
     <string name="camera_summary_for_cta">Ajustes de cámara</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_backup">Detener</string>
@@ -112,25 +112,27 @@
     <string name="close">Cerrar</string>
     <string name="close_twice_auth_btn">Desactivar autenticación de dos factores</string>
     <string name="close_twice_auth_note">"Nota:
-Después de crear una nueva pregunta de seguridad y confirmar tu fecha de nacimiento, se desactivará la autenticación de dos factores de Apple ID. Si no ve la opción de desactivar la autenticación de dos factores en la página de la cuenta ID de Apple, no podrá desactivarla."</string>
+Después de crear una nueva pregunta de seguridad y confirmar su fecha de nacimiento, se desactivará la autenticación de dos factores de Apple ID. Si no ve la opción de desactivar la autenticación de dos factores en la página de la cuenta ID de Apple, no podrá desactivarla."</string>
     <string name="close_twice_auth_operation">"URL:
 https://appleid.apple.com/#!&amp;page=signin para cerrar"</string>
-    <string name="close_twice_auth_step_1">1. Abra cualquier navegador web en cualquier computadora y vaya a appleid.apple.com.</string>
+    <string name="close_twice_auth_step_1">1. En cualquier computadora visite appleid.apple.com.</string>
     <string name="close_twice_auth_step_2">2. Inicie sesión con el ID de Apple del que desea desactivar la autenticación de dos factores, vaya a la sección \"Seguridad\" de ajustes de la cuenta y elija \"Editar\".</string>
     <string name="close_twice_auth_step_3">3. Haga clic en \"Desactivar autenticación de dos factores\". Haga clic de nuevo para confirmar.</string>
     <string name="close_twice_auth_steps">Siga estos pasos para desactivar la autenticación de dos factores de Apple ID:</string>
     <string name="close_twice_auth_tutor">Desactivar la autenticación de dos factores de Apple ID</string>
     <string name="cloud_app_name">Respaldo de Xiaomi Cloud</string>
-    <string name="cloud_backup_hint">Inicia sesión para acceder a tus copias de seguridad</string>
-    <string name="cloud_backup_login">Inicia sesión en tu Cuenta Mi</string>
+    <string name="cloud_backup_hint">Inicie sesión para acceder a sus copias de seguridad</string>
+    <string name="cloud_backup_login">Inicie sesión con su Cuenta Mi</string>
     <string name="cloud_backup_window_title">Respaldos de Xiaomi Cloud</string>
+    <string name="cloud_home_title">Xiaomi Cloud</string>
     <string name="cloud_item_info_summary">" (Local: %1$s | Xiaomi Cloud: %2$s)"</string>
-    <string name="cloud_last_backup">"La última copia de seguridad fue creada el "</string>
+    <string name="cloud_last_backup">"Última copia de seguridad el "</string>
     <string name="cloud_no_backup">No hay respaldos</string>
     <string name="cloud_restore_guide">Para restaurar sus datos de usuario para %s, toque Restaurar</string>
     <string name="cloud_restore_title">Restaurar los datos respaldados</string>
     <string name="cloud_restore_window_title">Restaurar desde Xiaomi Cloud</string>
     <string name="cloud_search">Buscando…</string>
+    <string name="comma_seperator">", "</string>
     <string name="compute_backup_info">Obteniendo info. del respaldo…</string>
     <string name="compute_delete_contact_info">Obteniendo información…</string>
     <string name="confirm_exit_link">Salir</string>
@@ -167,10 +169,11 @@ https://appleid.apple.com/#!&amp;page=signin para cerrar"</string>
     <string name="dialog_backup_password_change_machine_tips">"No podrá transferir respaldos protegidos con contraseña. Desactive la contraseña de los respaldos antes de usar Mi Mudanza."</string>
     <string name="dialog_backup_password_restore_tips">"No se pueden restaurar elementos mientas la contraseña de respaldo esté activada. Desactive la contraseña primero."</string>
     <string name="dialog_backup_password_to_settings">Ajustes</string>
+    <string name="digit_percent">%</string>
     <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="disable_encrypt_description">No encriptar</string>
     <string name="disable_encrypt_title">Desactivar el cifrado</string>
-    <string name="early_morning">Buenos días</string>
+    <string name="early_morning">Mañana</string>
     <string name="enable_encrypt">Activar el cifrado</string>
     <string name="enable_encrypt_description">Encriptar</string>
     <string name="enable_encrypt_fail">Error de encriptación</string>
@@ -207,6 +210,7 @@ https://appleid.apple.com/#!&amp;page=signin para cerrar"</string>
     <string name="feature_title_antispam">Lista de bloqueos</string>
     <string name="feature_title_call_log">Historial de llamadas</string>
     <string name="feature_title_contacts">Contactos</string>
+    <string name="feature_title_mms">MMS</string>
     <string name="feature_title_mms_setting">Ajustes de mensajes</string>
     <string name="feature_title_sms">Mensajes</string>
     <string name="file_uploading">Cargando…</string>
@@ -280,8 +284,8 @@ primero deberá crear un respaldo de iCloud."</string>
     <string name="loading_data">Cargando datos</string>
     <string name="local_app_name">Respaldo</string>
     <string name="local_back_up_detail_description">"Nota:
-1. Para evitar la pérdida de datos, copia las copias de seguridad locales en tu computadora.
-2. Copia siempre las copias de seguridad locales a tu computadora antes de realizar un restablecimiento de fábrica; de lo contrario, se perderán las copias de seguridad locales.
+1. Para evitar la pérdida de datos, copie copias de seguridad locales en su computador.
+2. Copie siempre las copias de seguridad locales en su computador antes de realizar un restablecimiento de fábrica; de lo contrario, se perderán las copias de seguridad locales.
 3. ¿Dónde se almacenan las copias de seguridad locales? %1$s"</string>
     <string name="local_backup_select_activity">Crear una copia de seguridad</string>
     <string name="local_backup_window_title">Copia de seguridad local</string>
@@ -297,6 +301,7 @@ primero deberá crear un respaldo de iCloud."</string>
     <string name="local_main_backup">Copias de seguridad locales</string>
     <string name="local_main_backup_and_restore">En este dispostivo</string>
     <string name="local_main_backup_detail_title">Ajustes del sistema, cuentas y datos de aplicaciones</string>
+    <string name="local_main_backup_manage_null">%s</string>
     <string name="local_main_backup_manager">Administrar copias de seguridad locales</string>
     <string name="local_main_backup_manager_title">Administrar copias de seguridad</string>
     <string name="local_main_backup_settings">Ajustes de respaldo local</string>
@@ -406,8 +411,8 @@ primero deberá crear un respaldo de iCloud."</string>
     <string name="new_local_button_restore">Restaurar</string>
     <string name="new_local_click_to_jump">Toque para ver instrucciones detalladas</string>
     <string name="new_local_detail_description">"Nota:
-%1$d. Copia las copias de seguridad en tu computadora para evitar la pérdida de datos. %2$s.
-%3$d. Las copias de seguridad se guardarán en MIUI-Backup-AllBackup."</string>
+%1$d. Copiae las copias de seguridad a su ordenador para evitar la pérdida de datos. %2$s.
+%3$d. Las copias de seguridad serán guardadas en MIUI-Backup-AllBackup."</string>
     <string name="new_local_tab_backup">Copia de seguridad</string>
     <string name="new_local_tab_backup_pad">Copia de seguridad</string>
     <string name="new_local_tab_restore">Restaurar</string>
@@ -417,16 +422,16 @@ primero deberá crear un respaldo de iCloud."</string>
     <string name="new_pc_backup_content1">%1$d. Abre \"%2$s\".</string>
     <string name="new_pc_backup_content2">%d. Espere hasta que todos los elementos sean copiados.</string>
     <string name="new_pc_backup_content3">%d. Encuentre la copia de seguridad en MIUI-Backup-AllBackup.</string>
-    <string name="new_pc_backup_content4">%d. Copia el archivo a tu computadora.</string>
+    <string name="new_pc_backup_content4">%d. Copie el archivo a su computadora.</string>
     <string name="new_pc_backup_restore_link">Dispositivo móvil</string>
     <string name="new_pc_backup_restore_link_pad">Dispositivo móvil</string>
     <string name="new_pc_backup_summary1">Seleccione elementos y toque \"Copia de seguridad\".</string>
-    <string name="new_pc_backup_summary2">Conecta tu dispositivo móvil a la computadora mediante un cable USB.</string>
+    <string name="new_pc_backup_summary2">Conecte su dispositivo móvil a la computadora mediante un cable USB.</string>
     <string name="new_pc_backup_summary2_pad">Conecte su dispositivo móvil a la computadora mediante un cable USB.</string>
     <string name="new_pc_backup_summary4">Nota: también puede copiar fotos y vídeos de DCIM.</string>
-    <string name="new_pc_restore_content1">%d. Conecta tu dispositivo móvil a una computadora mediante un cable USB.</string>
+    <string name="new_pc_restore_content1">%d. Conecte su dispositivo móvil a la computadora mediante un cable USB.</string>
     <string name="new_pc_restore_content1_pad">%d. Conecte su dispositivo móvil a la computadora mediante un cable USB.</string>
-    <string name="new_pc_restore_content2">%d. Copia la copia de seguridad de tu computadora a MIUI-Backup-AllBackup.</string>
+    <string name="new_pc_restore_content2">%d. Copie la copia de seguridad de su computadora a MIUI-Backup-AllBackup.</string>
     <string name="new_pc_restore_content2_pad">%d. Copie la copia de seguridad de su computadora a MIUI-Backup-AllBackup.</string>
     <string name="new_pc_restore_content3">%1$d. Abra \"%2$s\" y seleccione elementos para restaurarlos.</string>
     <string name="new_pc_title">Copias de respaldo</string>
@@ -610,10 +615,12 @@ Libere al menos %s."</string>
     <string name="start_restore">Restaurar</string>
     <string name="state_mounting">Accediendo al almacenamiento del router…</string>
     <string name="state_waiting">Un momento…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_sd_card">Tarjeta SD</string>
     <string name="storage_usb">Unidad USB</string>
     <string name="succ_description">Con éxito</string>
     <string name="succeed">Completado</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_err_backup_encrypting">Inicie sesión con su Cuenta Mi.</string>
     <string name="summary_err_backup_no_network">"No fue posible conectarse a la red"</string>
     <string name="summary_err_restore_encrypting">"No se pudo restaurar. Asegúrese de que este respaldo se realizó usando su Cuenta Mi."</string>
@@ -696,6 +703,7 @@ Libere al menos %s."</string>
     <string name="time_picker_dialog_title">Establecer hora</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">Mañana</string>
+    <string name="total_size">, %s</string>
     <string name="trans_backingup">Respaldando…</string>
     <string name="trans_backingup_no_items">Sincronizando…</string>
     <string name="trans_button_cancel">Cancelar</string>
@@ -809,7 +817,7 @@ para descargar e instalar Mi Mudanza."</string>
 Libere espacio de almacenamiento o transfiera solo los elementos importantes."</string>
     <string name="trans_old_phone_low_space_msg">"Mi Mudanza necesita espacio de almacenamiento para empaquetar los datos transferidos, pero al parecer no hay suficiente espacio disponible en el dispositivo antiguo. Libere espacio en Seguridad o transfiera solo los elementos importantes."</string>
     <string name="trans_old_phone_low_space_title">No hay suficiente espacio de almacenamiento</string>
-    <string name="trans_one_key_migrate">Mi Mover</string>
+    <string name="trans_one_key_migrate">Mi Mudanza</string>
     <string name="trans_open_camera_failed_message">Reinicie su dispositivo o compruebe si Mi Mudanza puede acceder a &lt;b&gt;Cámara&lt;/b&gt;.</string>
     <string name="trans_open_camera_failed_title">"No se pudo conectar a Cámara"</string>
     <string name="trans_open_location_button">Activar</string>
@@ -928,8 +936,11 @@ No cierre la página antes de establecer la conexión."</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
     <string name="wifi_title">Configuración Wi-Fi</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">"No se pudo iniciar la descarga. Asegúrese de que el Administrador de Descargas funciona correctamente."</string>
     <string name="xiaomi_external_storage_unavailable">"Almacenamiento no disponible, compruebe su tarjeta SD."</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_router">Mi Router</string>
     <string name="xiaomi_router_location">Mi Router %s</string>
     <string name="xiaomi_update_dialog_message">"Presentando la versión %1$s Tamaño:%2$s"</string>

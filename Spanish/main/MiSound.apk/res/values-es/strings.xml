@@ -73,6 +73,13 @@
     <string name="expand_button_title">Avanzado</string>
     <string name="first_note">Comprueba tu percepción auditiva para ajustar el volumen acorde a ella.</string>
     <string name="four_note">La prueba durará alrededor de 3 minutos.</string>
+    <string name="headset_use_long_time">"Parece que lleva usando sus auriculares más tiempo del recomendado. Quítatelos y haz una pausa."</string>
+    <string name="headset_use_loud_volume">El volumen de los auriculares ha estado alto durante mucho tiempo. Para proteger su audición, se ha reducido al nivel recomendado.</string>
+    <string name="headset_use_not_support_noise_reduction">Parece que su entorno actual es muy ruidoso. Usar sus auriculares ahora puede afectar su audición.</string>
+    <string name="headset_use_prompt">Auriculares</string>
+    <string name="headset_use_support_noise_reduction">Parece que su entorno actual es muy ruidoso. Utilice la cancelación de ruido para proteger su audición.</string>
+    <string name="headset_volume_content">El volumen actual de los auriculares supera el límite recomendado. Baje el volumen para proteger su audición.</string>
+    <string name="headset_volume_prompt">Volumen de los auriculares</string>
     <string name="heard_no">No</string>
     <string name="heard_yes">Sí</string>
     <string name="hearing_assist_bluetooth_headset">Auriculares Bluetooth</string>
@@ -211,6 +218,7 @@
     <string name="save_and_apply">Guardar y aplicar</string>
     <string name="search_menu_title">Buscar</string>
     <string name="second_note">Ponte los auriculares.</string>
+    <string name="see_details">Detalles</string>
     <string name="sound_assist_key_summary">Ajustar el sonido para aplicaciones individuales mientras varias aplicaciones reproducen audio simultáneamente</string>
     <string name="sound_assist_key_title">Ajustar el sonido multimedia en varias aplicaciones</string>
     <string name="sound_assist_title">Asistente de sonido</string>
