@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
     <string name="abc_action_menu_overflow_description">Más opciones</string>
     <string name="abc_action_mode_done">Listo</string>
@@ -50,6 +52,7 @@
     <string name="agenda_tomorrow">MAÑANA, %1$s</string>
     <string name="agenda_view">Eventos</string>
     <string name="alarm_label">Descartar</string>
+    <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Caducado</string>
     <string name="alert_title">Notificaciones de calendario</string>
     <string name="all_events">Todos los eventos</string>
@@ -67,15 +70,15 @@
     <string name="birthday_event_description_a_week_later">Falta una semana para</string>
     <string name="birthday_event_description_day_after_tomorrow">Pasado mañana es</string>
     <string name="birthday_event_description_day_before_yesterday">Anteayer fue</string>
-    <string name="birthday_event_description_default">"%3$s%4$s de %1$s%2$s"</string>
-    <string name="birthday_event_description_special">"%1$s %3$s %4$s %5$sde %2$s"</string>
+    <string name="birthday_event_description_default">"%1$s%2$s de %3$s%4$s"</string>
+    <string name="birthday_event_description_special">"%1$s %2$s %3$s %4$sde %5$s"</string>
     <string name="birthday_event_description_today">Hoy es</string>
     <string name="birthday_event_description_tomorrow">Mañana es</string>
     <string name="birthday_event_description_yesterday">Ayer fue</string>
     <string name="birthday_notification_text_days_later">%1$s días hasta el %4$s (%5$s)</string>
     <string name="birthday_notification_text_today">"No olvides felicitarles."</string>
-    <string name="birthday_notification_title_days_later">"Se acerca el %2$sde%1$s."</string>
-    <string name="birthday_notification_title_today">"%3$s de %1$s"</string>
+    <string name="birthday_notification_title_days_later">"Se acerca el %1$sde%2$s."</string>
+    <string name="birthday_notification_title_today">"%1$s de %3$s"</string>
     <string name="birthday_saved">Cumpleaños guardado</string>
     <string name="birthday_term">cumpleaños</string>
     <string name="button_record_menstruation">Registrar</string>
@@ -148,6 +151,7 @@
     <string name="date_calculate_tab">Calcular fecha</string>
     <string name="date_calculate_today">%d días</string>
     <string name="date_calculate_when">Inicio</string>
+    <string name="date_format_y_m">MMM yyyy</string>
     <string name="date_interval_description">Averigua cuántos días hay entre dos fechas</string>
     <string name="date_interval_end">A</string>
     <string name="date_interval_start">Desde</string>
@@ -155,6 +159,7 @@
     <string name="date_interval_text_to">Al %1$s</string>
     <string name="date_jump_hint">Ir a un cierto día directamente</string>
     <string name="date_jump_title">Ir a la fecha</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (hoy)"</string>
     <string name="day">Día</string>
     <string name="day_view_new_event_hint">Nuevo evento</string>
@@ -228,6 +233,7 @@
     <string name="every_weekday">Días de semana (Lun–Vie)</string>
     <string name="featured_title">Destacado</string>
     <string name="feedback">Comentarios</string>
+    <string name="festival_detail_title">Festival</string>
     <string name="file_exception">Ha ocurrido un error</string>
     <string name="fixtures">Encuentro</string>
     <string name="fourth_saturday_holiday">Cada segundo y cuarto sábado son días de descanso</string>
@@ -237,10 +243,12 @@
     <string name="gadget_title">Calendario</string>
     <string name="global_action_text_card_manager">Personaliza tu calendario</string>
     <string name="global_cricket_no_match">Hoy no hay partidos de críquet. Mira otros días.</string>
+    <string name="global_football_final">FINAL</string>
     <string name="global_football_no_match">No hay partidos de fútbol programados para hoy.</string>
     <string name="global_joke_collapse_text">Mostrar menos</string>
     <string name="global_joke_copy_toast_message">Texto copiado con éxio</string>
     <string name="global_joke_expand_text">Mostrar más</string>
+    <string name="global_onthisday_com">OnThisDay.com</string>
     <string name="greeting_card_reminder_info_text">Recibir notificaciones diarias sobre saludos y estados</string>
     <string name="greeting_success_subtext">Las notificaciones están activadas</string>
     <string name="greeting_success_text">Listo</string>
@@ -286,6 +294,7 @@
     <string name="import_action">Importar</string>
     <string name="import_birthday">Importar cumpleaños</string>
     <string name="imported">Importado</string>
+    <string name="insert_event_dialog_btn_negative">No</string>
     <string name="insert_event_dialog_btn_positive">Sí</string>
     <string name="insert_event_dialog_message">¿Añadir este evento al calendario?</string>
     <string name="insert_event_dialog_title">Atención</string>
@@ -336,6 +345,7 @@
     <string name="menstruation_select_date">Seleccionar fecha</string>
     <string name="menstruation_setting">Ajustes de menstruación</string>
     <string name="menstrution_auth_description">El Asistente de menstruación te permite registrar periodos, determinar fechas estimadas de periodos próximos y recibir recordatorios. Todos los datos relacionados se almacenarán localmente en tu dispositivo.</string>
+    <string name="menu_general_preferences">General</string>
     <string name="menu_reminder_preferences">Recordatorios</string>
     <string name="mesens_card_title_stop_today">Tu periodo termina hoy</string>
     <string name="mesens_card_title_today_begin">Tu periodo podría comenzar hoy</string>
@@ -350,14 +360,25 @@
     <string name="month_medium_april">Abr</string>
     <string name="month_medium_august">Ago</string>
     <string name="month_medium_december">Dic</string>
+    <string name="month_medium_february">Feb</string>
     <string name="month_medium_january">Ene</string>
+    <string name="month_medium_july">Jul</string>
+    <string name="month_medium_june">Jun</string>
+    <string name="month_medium_march">Mar</string>
+    <string name="month_medium_may">May</string>
+    <string name="month_medium_november">Nov</string>
+    <string name="month_medium_october">Oct</string>
+    <string name="month_medium_september">Sep</string>
     <string name="month_view">Mes</string>
+    <string name="month_year_format">MMMM yyyy</string>
     <string name="monthly">Mensualmente</string>
     <string name="monthly_on_day">Mensualmente (misma fecha)</string>
     <string name="monthly_on_day_count">Cada mes (%1$s)</string>
     <string name="more_details">Más información</string>
+    <string name="more_string">+%1$s</string>
     <string name="movie_card_read_more">Leer más</string>
     <string name="movie_card_title">Películas</string>
+    <string name="movie_card_trailer">Trailer</string>
     <string name="name_title_menstruation_today_end">Se espera que tu periodo termine hoy</string>
     <string name="network_not_available">"No se puede conectar a la red"</string>
     <string name="never">Nunca</string>
@@ -394,15 +415,30 @@ Comprueba los ajustes de red e inténtalo de nuevo."</string>
     <string name="notes_week_name_two">%1$s y %2$s</string>
     <string name="notes_weekly">Semanal</string>
     <string name="notification_channel_name">Recordatorios de calendario</string>
+    <string name="numbers">%d</string>
+    <string name="panchang_amanta">Amanta</string>
     <string name="panchang_amanta_month">Mes Amanta:</string>
+    <string name="panchang_ayana">Ayana</string>
+    <string name="panchang_gulikai_kalam">Gulikai Kalam</string>
     <string name="panchang_hindu_lunar_month">Mes lunar hindú</string>
     <string name="panchang_inauspicious_timings">Tiempos Adversos</string>
+    <string name="panchang_karan">Karan</string>
     <string name="panchang_moon_sign">Signo lunar</string>
+    <string name="panchang_nakshatra">Nakshatra</string>
+    <string name="panchang_purnimanta">Purnimanta</string>
     <string name="panchang_purnimanta_month">Mes Purnimanta:</string>
+    <string name="panchang_rahu_kalam">Rahu Kalam</string>
+    <string name="panchang_ritu">Ritu</string>
+    <string name="panchang_shaka_samvat">Shaka Samvat</string>
     <string name="panchang_sun_sign">Signo solar</string>
     <string name="panchang_till_time">Hasta el %1$s</string>
+    <string name="panchang_tithi">Tithi</string>
+    <string name="panchang_title">Panchang</string>
     <string name="panchang_to"> a </string>
     <string name="panchang_upto"> hasta </string>
+    <string name="panchang_vikram_samvat">Vikram Samvat</string>
+    <string name="panchang_yamaghanta">Yamaghanta</string>
+    <string name="panchang_yog">Yog</string>
     <string name="partner_compatibility">Compatibilidad con tu pareja</string>
     <string name="path_calendar_settings">Aplicaciones del sistema/Calendario/Ajustes</string>
     <string name="picker_day">Día seleccionado: %1$d. Desliza verticalmente para seleccionar.</string>
@@ -415,6 +451,7 @@ Comprueba los ajustes de red e inténtalo de nuevo."</string>
     <string name="pref_title_alarm_remind">Recordatorios con alarma</string>
     <string name="pref_title_no_remind">No hay recordatorios</string>
     <string name="pref_title_notification_remind">Notificaciones de recordatorios</string>
+    <string name="preferences_additional_cal_default">0</string>
     <string name="preferences_alerts_ringtone_title">Sonido</string>
     <string name="preferences_alerts_vibrateWhen_title">Vibrar</string>
     <string name="preferences_alerts_vibrate_title">Tono y vibración</string>
@@ -427,6 +464,7 @@ Comprueba los ajustes de red e inténtalo de nuevo."</string>
     <string name="preferences_title">Calendario</string>
     <string name="preferences_use_home_tz_descrip">Mostrar tiempo de calendarios y eventos en tu zona horaria de casa al viajar</string>
     <string name="preferences_use_home_tz_title">Usar zona horaria de casa</string>
+    <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_week_start_day_dialog">Inicio de la semana</string>
     <string name="preferences_week_start_day_title">Inicio de la semana</string>
     <string name="privacy_card_description">Acepta nuestra Política de Privacidad para acceder a todas las funciones.</string>
@@ -451,7 +489,9 @@ Comprueba los ajustes de red e inténtalo de nuevo."</string>
     <string name="repeat_custom_activity_label">Personalizado</string>
     <string name="repeat_custom_prompt_daily">cada %1$s</string>
     <string name="repeat_custom_prompt_sentence">El evento se repetirá %1$s</string>
+    <string name="repeat_custom_prompt_splitter">", "</string>
     <string name="repeat_custom_string_prefix">Personalizado</string>
+    <string name="repeat_custom_string_suffix">" (%1$s)"</string>
     <string name="repeat_end_label">Detener la repetición después</string>
     <string name="repeat_end_times_unit">" veces"</string>
     <string name="repeat_interval_dialog_title">Cada%1$s</string>
@@ -467,9 +507,13 @@ Comprueba los ajustes de red e inténtalo de nuevo."</string>
     <string name="repeat_label_frequency">Frecuencia</string>
     <string name="repeat_label_interval">Cada</string>
     <string name="repeat_label_week">Semana</string>
+    <string name="repeat_month_day_splitter">" "</string>
+    <string name="repeat_week_info">" %1$s %2$s"</string>
     <string name="repeats_label">Repetir</string>
     <string name="response_maybe">Quizá</string>
+    <string name="response_no">No</string>
     <string name="response_yes">Sí</string>
+    <string name="rest_day_indication">: )</string>
     <string name="revoke_confirmation_dialog_confirm">Retirar</string>
     <string name="revoke_confirmation_dialog_message">Al desactivar el interruptor, retiras tu consentimiento a la Política de Privacidad del Calendario. Dejaremos de recopilar tu información personal. La información personal ya recopilada y retenida se eliminará dentro de un período específico según lo requieran las leyes aplicables. El Calendario necesita recopilar la información personal necesaria para brindarte los servicios básicos. Tu retirada del consentimiento a su Política de Privacidad se considerará como una negativa a aceptar sus servicios en función de la información personal recopilada.</string>
     <string name="revoke_confirmation_dialog_title">Retirada del consentimiento</string>
@@ -491,6 +535,7 @@ Comprueba los ajustes de red e inténtalo de nuevo."</string>
     <string name="set_reminder">Establecer recordatorio</string>
     <string name="setting">Ajustes</string>
     <string name="setting_about_calendar_version">Versión del Calendario:</string>
+    <string name="setting_about_imei">IMEI:</string>
     <string name="setting_about_miui_version">Versión MIUI:</string>
     <string name="setting_about_summary">Versión:</string>
     <string name="setting_accounts">Cuentas de calendario</string>
@@ -571,6 +616,7 @@ También puedes añadir recordatorios para no perderte nada importante."</string
     <string name="template_announce_item_index">Evento %1$s de %2$s.</string>
     <string name="three_days_to_go">Quedan %d días</string>
     <string name="three_selected_holiday">%1$s, %2$s, y %3$s son días de descanso</string>
+    <string name="time_numbers">%02d</string>
     <string name="time_zone">Zona horaria</string>
     <string name="timezone_label">Zona horaria</string>
     <string name="title_click_record_menstruation">Registra un periodo</string>
@@ -612,6 +658,8 @@ También puedes añadir recordatorios para no perderte nada importante."</string
     <string name="travel_seat_number_text">Asiento</string>
     <string name="travel_train_number_text">Tren</string>
     <string name="travel_train_station">Estación de tren</string>
+    <string name="twelve_hour_time_format">hh:mm aa</string>
+    <string name="twenty_four_hour_time_format">HH:mm</string>
     <string name="two_selected_holiday">%1$s y %2$s son días de descanso</string>
     <string name="unable_record_future_menstruation">"No se puede registrar periodos futuros"</string>
     <string name="unsubscribe_card">Darse de baja</string>
@@ -638,6 +686,7 @@ También puedes añadir recordatorios para no perderte nada importante."</string
     <string name="widget_get_weather_info">Obtener información del tiempo</string>
     <string name="widget_no_events">Sin eventos</string>
     <string name="widget_select_style">Elegir estilo</string>
+    <string name="work_day_indication">: (</string>
     <string name="xiaomi_calendar_display_name">Calendario de Cuenta Mi</string>
     <string name="year">Año</string>
     <string name="yearly">Anualmente (cada %s)</string>

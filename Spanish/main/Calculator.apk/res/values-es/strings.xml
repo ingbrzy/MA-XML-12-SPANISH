@@ -147,6 +147,7 @@
     <string name="float_window_guide_text">Pulsa aquí para minimizar la calculadora</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
+    <string name="fmt_time_24hour">"HH 'en punto'"</string>
     <string name="fund_loan">Préstamo de fondos</string>
     <string name="further_education">Estudios superiores</string>
     <string name="global_network_confirm_content">El conversor de divisas necesita conectarse a internet para funcionar normalmente.</string>
@@ -230,8 +231,10 @@
     <string name="label_from_date">Desde</string>
     <string name="label_history">Historial</string>
     <string name="label_interest">Interés (porcentaje)</string>
+    <string name="label_investment_disclaimer">Estamos utilizando un período de capitalización de tres meses para cálculos recurrentes.</string>
     <string name="label_investment_duration">Duración</string>
     <string name="label_loan_tenure">Duración del préstamo</string>
+    <string name="label_monthly_investment">Inversión mensual</string>
     <string name="label_months">Meses</string>
     <string name="label_no_history">No hay elementos todavía</string>
     <string name="label_powered_by">Desarrollado por la Calculadora Mi</string>
@@ -501,6 +504,7 @@ El LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden pro
     <string name="unit_data_display_currency_btn">Ngultrum butanés</string>
     <string name="unit_data_display_currency_bwp">Pula de Botsuana</string>
     <string name="unit_data_display_currency_byn">Rublo bielorruso</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Dólar canadiense</string>
     <string name="unit_data_display_currency_cdf">Franco congoleño</string>
     <string name="unit_data_display_currency_chf">Franco suizo</string>
@@ -837,8 +841,15 @@ El LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden pro
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_calculator_delete_description">"Calculadora es una aplicación del sistema. No podrás utilizar convertidores ni funciones adicionales después de desinstalar la aplicación."</string>
+    <string name="xiaomi_calculator_delete_title">¿Desinstalar Calculadora?</string>
+    <string name="xiaomi_calculator_remove_icon_description">"Calculadora es una aplicación del sistema. No podrás utilizar conversores ni funciones adicionales después de eliminar el acceso directo a la Pantalla de inicio."</string>
+    <string name="xiaomi_calculator_remove_icon_title">¿Eliminar \"Calculadora\" de la Pantalla de inicio?</string>
     <string name="xiaomi_connect_download_manager_fail">"No se pudo conectar con Descargas. Comprueba si esta aplicación tiene todos los permisos requeridos en Ajustes y Aplicaciones instaladas."</string>
     <string name="xiaomi_external_storage_unavailable">"Almacenamiento no disponible. Comprueba tu tarjeta SD."</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"Versión de introducción %1$s
 Tamaño:%2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Versión de introducción %1$s
