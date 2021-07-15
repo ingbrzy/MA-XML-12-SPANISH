@@ -168,7 +168,6 @@ https://appleid.apple.com/#!&amp;page=iniciar sesión para cerrar"</string>
     <string name="dialog_backup_password_change_machine_tips">"No podrás transferir copias de seguridad protegidas por contraseña. Desactiva la contraseña de la copia de seguridad antes de usar Mi Mover."</string>
     <string name="dialog_backup_password_restore_tips">"No puede usar restaurar elementos mientras la contraseña de seguridad esté activada. Desactiva la contraseña de seguridad primero."</string>
     <string name="dialog_backup_password_to_settings">Ajustes</string>
-    <string name="digit_percent">%</string>
     <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="disable_encrypt_description">No cifrar</string>
     <string name="disable_encrypt_title">Desactivar el cifrado</string>
@@ -282,7 +281,6 @@ debería crear una copia de seguridad de iCloud primero."</string>
 2.\u0009Ve a los Ajustes de Mi Talk y selecciona ”Crear copia de contactos en Cuenta Mii”"</string>
     <string name="import_from_xiaomi_account_hint2">Si ya existe una copia de seguridad, pulsa Siguiente.</string>
     <string name="import_from_xiaomi_account_hint_title">Usa Mi Talk para crear copias de seguridad de tus contactos entre dispositivos.</string>
-    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="import_tip_summary">Debido a problemas de compatibilidad, solo puede transferir datos parciales desde dispositivos iOS. Asegúrese de crear una copia de seguridad de iCloud antes de comenzar la transferencia.</string>
     <string name="lack_perm_msg">Mi Mover necesita los siguientes permisos: &lt;b&gt;%s&lt;/b&gt;.</string>
     <string name="lack_perm_title">Permisos requeridos</string>
@@ -880,11 +878,8 @@ No cierres la página antes de establecer la conexión."</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
     <string name="wifi_title">Ajustes de Wi-Fi</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">"No se pudo iniciar la descarga. Asegúrate de que el Administrador de Descargas funciona normalmente."</string>
     <string name="xiaomi_external_storage_unavailable">"Almacenamiento no disponible, comprueba tu tarjeta SD."</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_router">Router Mi</string>
     <string name="xiaomi_router_location">Router Mi %s</string>
     <string name="xiaomi_update_dialog_message">"Presentando la versión %1$s
