@@ -208,6 +208,7 @@ Si no desea acceder a las clases recomendadas, puede seguir utilizando los entre
     <string name="collapse">Hide</string>
     <string name="collect_diagnosis_log">Recopilar registro de diagnóstico</string>
     <string name="complete_preference_basic_info">Complete your profile</string>
+    <string name="complete_progress">Progreso</string>
     <string name="completed">"Completed "</string>
     <string name="completed_stand">Te levantaste</string>
     <string name="confirm_opening">Encender</string>
@@ -246,7 +247,6 @@ Si decide eliminar sus datos de salud después de elegir conservarlos, puede hac
     <string name="data_source_not_support_hm_description_consume">"La fuente de datos seleccionada (%1$s) no proporciona información detallada sobre las calorías. Puede seleccionar una fuente de datos diferente en Más &gt; fuentes de datos."</string>
     <string name="data_source_not_support_hm_description_duration">"La fuente de datos seleccionada (%1$s) no proporciona información detallada sobre los entrenamientos de intensidad moderada a alta. Puede seleccionar una fuente de datos diferente en Más &gt; fuentes de datos."</string>
     <string name="date">Fecha</string>
-    <string name="date_format_h_m">H: mm</string>
     <string name="date_format_h_m_s">H:mm:ss</string>
     <string name="date_format_m_d">d/M</string>
     <string name="date_format_m_d_2">MM/dd</string>
@@ -482,31 +482,12 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="finish_stand">Sí</string>
     <string name="finish_stand2">De pie</string>
     <string name="finished_rate">Completed %1$d%%</string>
-    <string name="fmt_date">D</string>
-    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_day">dd</string>
-    <string name="fmt_date_numeric_month">MM</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">zD T</string>
-    <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
-    <string name="fmt_time_24hour">HH</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_long">E</string>
-    <string name="fmt_weekday_short">E</string>
-    <string name="fmt_weekday_time">W T</string>
     <string name="for_diagnosis_usage_only">Use esta información solo para el diagnóstico.</string>
     <string name="free_training">Freestyle workout</string>
     <string name="freestyle">Freestyle</string>
@@ -1606,6 +1587,7 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="tb_stand_day_ring">Pausas de pie hoy: %1$s. Necesitas hacer al menos 12 hoy.</string>
     <string name="tb_stand_wm_column_chart">Pausas entre %1$sy %2$s. Pase horizontalmente para cambiar entre periodos de tiempo. Toca para ver los detalles.</string>
     <string name="tb_stand_wm_column_click">%1$s. Pausas de pie: %2$d. %3$s.</string>
+    <string name="tb_step_widget" formatted="false">Hoy. %1$s. Progreso: %2$d%</string>
     <string name="tb_unmultiple_selecte_all">Desmarcar todos</string>
     <string name="tb_user_account_signed">Cuenta Mi: %1$s.</string>
     <string name="tb_user_account_unsigned">Toca para iniciar sesión en Cuenta Mi</string>
@@ -1745,6 +1727,7 @@ Qué hay de nuevo:
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADA</string>
     <string name="value_error_correct">Editar registro</string>
+    <string name="view_step_and_progress">Ver su recuento de pasos actual</string>
     <string name="visceral_fat">Grasa visceral</string>
     <string name="visceral_fat_descripe_content">La grasa visceral es esencial para estabilizar y proteger los órganos internos. Sin embargo, la grasa visceral alta aumenta el riesgo de enfermedades cardiovasculares y metabólicas.</string>
     <string name="voice_remind">"Hemos aumentado el volumen para que escuche mejor las instrucciones."</string>

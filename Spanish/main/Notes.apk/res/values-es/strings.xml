@@ -197,12 +197,14 @@
     <string name="float_todo_guide_ok_v2">Activar</string>
     <string name="float_todo_guide_title">Acceso directo a la Pantalla de inicio</string>
     <string name="float_todo_guide_title_v2">Accesos directos por gestos</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fmt_time_12hour">"h 'en punto'"</string>
+    <string name="fmt_time_24hour">"HH 'en punto'"</string>
     <string name="folder_exist">La carpeta con ese nombre está repetida</string>
     <string name="folder_operation_delete">Eliminar</string>
     <string name="folder_operation_rename">Renombrar</string>
@@ -223,6 +225,7 @@
     <string name="hide_arrow_description">Ocultar</string>
     <string name="hint_cannot_view_hidden_note_content">"No se puede ver el contenido de las notas ocultas"</string>
     <string name="hint_foler_name">Nombre</string>
+    <string name="hybrid_provider">Proporcionado por %1$s</string>
     <string name="image_action_annotate">Añadir descripción de imagen</string>
     <string name="image_action_browse">Ver imagen</string>
     <string name="image_action_delete">Eliminar imágen</string>
@@ -339,6 +342,7 @@
     <string name="new_audio_create_talkback_des">Pulsa para crear una nota de texto. Mantén pulsado para crear una nota de voz. Libera el botón la detener la grabación y crear la nota o desliza hacia arriba para cancelar.</string>
     <string name="new_data_empty_note">No hay elementos todavía</string>
     <string name="night">Tarde-noche</string>
+    <string name="no_network">"No se puede conectar a la red"</string>
     <string name="noon">Mediodía</string>
     <string name="not_now">Ahora no</string>
     <string name="not_set">Sin definir</string>
@@ -360,6 +364,7 @@
     <string name="note_mindnote_entrance_hint_newversion">"Empieza a escribir "</string>
     <string name="note_mindnote_entrance_icon_text">Crear un mapa mental</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Crear un mapa mental</string>
+    <string name="note_not_text_stub">Sin texto</string>
     <string name="note_sort_way">Selecciona cómo desea ordenar tus notas</string>
     <string name="notealert_enter">Abrir nota</string>
     <string name="notealert_ok">Rechazar</string>
@@ -546,6 +551,7 @@
     <string name="solar_term_white_dews">Rocío</string>
     <string name="solar_term_winter_begins">Empieza el invierno</string>
     <string name="solar_term_winter_solstice">Solsticio de invierno</string>
+    <string name="splash_note">Stylus</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -631,6 +637,7 @@
     <string name="toast_notes_delete_success">Eliminado con éxito</string>
     <string name="toast_notes_hidden_edit">Se ocultó esta nota. Desliza hacia abajo para ver las notas ocultas.</string>
     <string name="toast_notes_hidden_home">Se ocultó esta nota. Desliza hacia abajo para ver las notas ocultas.</string>
+    <string name="toast_notes_hidden_pad">Esta nota está oculta ahora. Tira hacia abajo el panel lateral para ver notas ocultas.</string>
     <string name="toast_notes_unhidden">Mostrado correctamente</string>
     <string name="toast_pic_is_not_really">Guardando imagen…</string>
     <string name="toast_reach_text_limit_attachment">"El contenido de la nota es demasiado grande para añadir nuevos archivos adjuntos"</string>
@@ -732,11 +739,17 @@ Permite a las Notas grabar audio."</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
     <string name="view_all_notes">Ver todo</string>
+    <string name="web_sso_login_fail">Necesitas iniciar sesión de nuevo</string>
+    <string name="web_sso_login_message">Iniciando sesión…</string>
+    <string name="webview_reload">Inténtalo de nuevo</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
     <string name="widget_content_loading">Un momento…</string>
+    <string name="widget_create_select_size">Seleccionar tamaño</string>
+    <string name="widget_empty_content">Toca para seleccionar una nota</string>
     <string name="widget_havenot_content">Toca para crear una nota. Mantén presionado el widget para cambiar el tamaño.</string>
+    <string name="widget_note_list_page_title">Seleccionar nota</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Ahora no</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Actualizar</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Hay una actualización disponible</string>

@@ -38,6 +38,7 @@
     <string name="afternoon">Tarde</string>
     <string name="already_in_small_freeform">Algunas aplicaciones son abiertas en ventanas flotantes</string>
     <string name="am">AM</string>
+    <string name="app_name">System UI Plug-in</string>
     <string name="character_counter_content_description">Caracteres ingresados %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Límite de caracteres excedido %1$d de %2$d</string>
     <string name="chip_text">Chip de texto</string>
@@ -118,6 +119,8 @@
     <string name="hearing_assist_transmission_tips_title">Monitor live in-ear</string>
     <string name="icon_content_description">Icono de diálogo</string>
     <string name="item_view_role_description">Lengüeta</string>
+    <string name="kddi_miui_toast_zen_standard_to_off">"Modo silencioso está apagado. Llamadas y notificaciones no serán silenciadas."</string>
+    <string name="kddi_miui_toast_zen_to_standard">Cambiado al modo silencioso. Llamadas y notificaciones serán silenciadas ahora.</string>
     <string name="loading">Estado desconocido</string>
     <string name="material_slider_range_end">Final de rango,</string>
     <string name="material_slider_range_start">Inicio de rango,</string>
@@ -136,9 +139,11 @@
     <string name="miui_ringer_total">Modo no molestar</string>
     <string name="miui_ringer_total_description">Silenciar sonidos y apagar vibración para todos los elementos excepto la alarma</string>
     <string name="miui_toast_zen_dnd_to_off">"Ya no se silenciarán llamadas y notificaciones"</string>
+    <string name="miui_toast_zen_dnd_to_off_T">Las notificaciones ya no están silenciadas</string>
     <string name="miui_toast_zen_standard_to_off">Modo silencio desactivado</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">El modo silencio está desactivado. Se reproducirán tonos de llamada, así como notificaciones y sonidos multimedia.</string>
     <string name="miui_toast_zen_to_dnd">Se silenciarán llamadas y notificaciones</string>
+    <string name="miui_toast_zen_to_dnd_T">Las notificaciones serán silenciadas</string>
     <string name="miui_toast_zen_to_dnd_when_lock">Las llamadas y notificaciones se silenciarán cuando el dispositivo esté bloqueado</string>
     <string name="miui_toast_zen_to_standard">Modo silencio activado</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Cambiado al Modo silencio. Los tonos de llamada, así como los sonidos de notificación y multimedia, están silenciados.</string>
@@ -245,6 +250,7 @@
     <string name="quick_settings_pcmode_turn_off_description">"La pantalla de tu teléfono se mostrará en el monitor externo. ¿Desactivar el Modo PC?"</string>
     <string name="quick_settings_pcmode_turn_on_description">"La pantalla de tu ordenador se mostrará en el monitor externo. ¿Activar el Modo PC?"</string>
     <string name="quick_settings_scanner_label">Escáner</string>
+    <string name="quick_settings_uwbsh_label">Control mágico de Xiaomi</string>
     <string name="quick_settings_wireless_label">Carga inalámbrica inversa</string>
     <string name="reboot_info_auto_boot">Próxima alarma: %s</string>
     <string name="reboot_info_shutdown_alarm">Apagado de alarma: %s</string>

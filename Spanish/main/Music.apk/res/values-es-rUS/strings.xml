@@ -479,7 +479,6 @@
     <string name="fmt_time_12hour">"h 'en punto'"</string>
     <string name="fmt_time_12hour_minute">h: mm</string>
     <string name="fmt_time_12hour_minute_pm">h: mm a</string>
-    <string name="fmt_time_12hour_minute_second">h: mm: ms</string>
     <string name="fmt_time_12hour_minute_second_pm">h: mm: ss a</string>
     <string name="fmt_time_12hour_pm">decir ah</string>
     <string name="fmt_time_24hour">"H 'o''clock'"</string>
@@ -950,6 +949,7 @@ Si no acepta usar los servicios mencionados anteriormente, no podrá usar alguna
     <string name="privacy_request_subtitle">"¡Bienvenido a Mi Música! Esta aplicación proporciona los siguientes servicios:
 - Un reproductor de audio local
 - Servicios de transmisión online"</string>
+    <string name="privacy_request_subtitle_offline">¡Bienvenido a Mi Music! Esta aplicación proporciona un reproductor local para archivos de audio.</string>
     <string name="privacy_request_title">Términos y condiciones</string>
     <string name="pro_member">Miembro PRO</string>
     <string name="project_device">Mi Teléfono</string>

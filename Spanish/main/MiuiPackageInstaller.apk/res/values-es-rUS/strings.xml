@@ -48,6 +48,7 @@
     <string name="am">AM</string>
     <string name="anonymous_source_continue">Continuar</string>
     <string name="anonymous_source_warning">Tu teléfono y datos personales son más vulnerables a ataques por apps desconocidas. Instalando esta app, estás de acuerdo en que eres responsable por cualquier daño a tu teléfono o pérdida de datos que pueda resultar de su uso.</string>
+    <string name="anonymous_source_warning_tablet">Sus dispositivos y datos personales son más vulnerables a los ataques de aplicaciones desconocidas. Al instalar esta aplicación, acepta que es responsable de cualquier daño a sus dispositivos o pérdida de datos que pueda resultar de su uso.</string>
     <string name="app_install_failed_button_text">Buscar por apps</string>
     <string name="app_name">Instalador de paquetes</string>
     <string name="app_name_unknown">Desconocido</string>
@@ -60,7 +61,6 @@
     <string name="app_permissions_group_summary">%1$d de %2$d apps permitidas</string>
     <string name="app_store_install_hint">Instalar ahora</string>
     <string name="app_store_installing_message">Instalando…</string>
-    <string name="app_store_missing_message">"Parece que no has instalado nuestra App Store oficial. ¿Instalar ahora?"</string>
     <string name="app_store_missing_title">"App Store no instalada"</string>
     <string name="application_detail_tips">Detalles de la app y permisos necesarios</string>
     <string name="auto_startup_dialog_msg">Esta app no puede iniciar sin tu permiso.</string>
@@ -148,6 +148,7 @@
     <string name="install_confirm_dialog_title">Atención</string>
     <string name="install_confirm_question">¿Quieres instalar esta app? Tendrá acceso a:</string>
     <string name="install_confirm_question_des_10">"Si deseas tomar los riesgos y quieres continuar con la instalación, autoriza la instalación en Seguridad &gt; Administrar aplicaciones &gt; Permisos &gt; Apps con posibles riegos. Si no puedes encontrar \"Apps con posibles riegos\", actualiza tu app de Seguridad e intenta nuevamente."</string>
+    <string name="install_confirm_question_des_10_tablet">"Si está dispuesto a correr riesgos y desea continuar con la instalación, autorice la instalación en Seguridad &gt; Administrar aplicaciones &gt; Permisos &gt; Aplicaciones con posibles riesgos. Si no puede encontrar \"Aplicaciones con posibles riesgos\", actualice su aplicación de seguridad y vuelva a intentarlo."</string>
     <string name="install_confirm_question_no_perms">"¿Quieres instalar esta app? No necesita ningún permiso especial."</string>
     <string name="install_confirm_question_update">"¿Quieres instalar una actualización a la app existente? Los datos de la app no se perderán. La aplicación actualizada obtendrá acceso a:"</string>
     <string name="install_confirm_question_update_no_perms">"¿Quieres instalar una actualización a la app existente? Los datos de la app no se perderán. No necesita ningún permiso especial."</string>
@@ -168,8 +169,10 @@
     <string name="install_failed_blocked">El paquete fue bloqueado de ser instalado.</string>
     <string name="install_failed_conflict">El paquete entra en conflicto con un paquete existente con el mismo nombre.</string>
     <string name="install_failed_incompatible">"Esta app no es compatible con tu teléfono."</string>
+    <string name="install_failed_incompatible_tablet">"Esta aplicación no es compatible con su dispositivo."</string>
     <string name="install_failed_invalid_apk">El paquete parece estar corrupto.</string>
     <string name="install_failed_msg">"%1$s no se pudo instalar en tu teléfono."</string>
+    <string name="install_failed_msg_tablet">"%1$s no se pudo instalar en su dispositivo."</string>
     <string name="install_failed_system_incompatible">"Esta app no es compatible con MIUI"</string>
     <string name="install_finished_notification_summary">Toca para liberar espacio</string>
     <string name="install_finished_notification_title">Se instaló %1$s correctamente. Puedes liberar %2$s de espacio de almacenamiento.</string>
@@ -401,7 +404,6 @@
     <string name="preference_copied">\"%1$s\" copiado al portapapeles.</string>
     <string name="privacyPerms">Privacidad</string>
     <string name="privacy_relative">Privacidad</string>
-    <string name="reboot_time">Preparándose para reiniciar… (%1$s)</string>
     <string name="replace_app_des_text">¿Reemplazar la app con esta versión?</string>
     <string name="review_button_cancel">Cancelar</string>
     <string name="review_button_continue">Continuar</string>
@@ -425,6 +427,7 @@
     \"&lt;li&gt;Cuando una app contiene virus.&lt;/li&gt;\"
     \"&lt;li&gt;El paquete de instalación proviene de una fuente desconocida.&lt;/li&gt;</string>
     <string name="settings_warning_dialog_msg">"Tu teléfono es propenso a riesgos de seguridad. No se te pedirá que instales versiones seguras de la app si desactivas esta función. ¿Apagar de todos modos?"</string>
+    <string name="settings_warning_dialog_msg_tablet">"Su dispositivo es propenso a riesgos de seguridad. No se le pedirá que instale versiones seguras de la aplicación si desactiva esta función. ¿Apagar de todos modos?"</string>
     <string name="settings_warning_dialog_title">Atención</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
@@ -533,13 +536,12 @@
     <string name="uninstalling">Desinstalando…</string>
     <string name="unknown">Desconocido</string>
     <string name="unknown_apps_admin_dlg_text">"Tu administrador no permite la instalación de apps obtenidas de fuentes desconocidas."</string>
-    <string name="unknown_apps_dlg_text">Por seguridad, tu teléfono está configurado para bloquear la instalación de apps obtenidas de fuentes desconocidas.</string>
     <string name="unknown_installer">Herramientas de PC no identificadas</string>
     <string name="unlike">No, gracias</string>
     <string name="untrusted_external_source_always_click">Permitir siempre</string>
     <string name="untrusted_external_source_title">¿Permitir a \"%1$s\" instalar aplicaciones?</string>
-    <string name="untrusted_external_source_warning">"Por tu seguridad, tu dispositivo no tiene permitido instalar aplicaciones desconocidas desde esta fuente."</string>
     <string name="untrusted_external_source_warning_summary">"Tu dispositivo e información personal son vulnerables a ataques por las aplicaciones instaladas de fuentes desconocidas. Al permitir instalar aplicaciones desde esta fuente, estás aceptando la responsabilidad por cualquier daño o pérdida de datos que puedan ocurrir mientras estés usando estas aplicaciones."</string>
+    <string name="untrusted_external_source_warning_summary_tablet">"Su dispositivo y sus datos personales son vulnerables a los ataques de las aplicaciones instaladas de fuentes desconocidas. Al permitir la instalación de aplicaciones de esta fuente, acepta la responsabilidad de cualquier daño o pérdida de datos que pueda ocurrir mientras usa estas aplicaciones."</string>
     <string name="user_is_not_allowed_dlg_text">El usuario actual no puede realizar esta desinstalación.</string>
     <string name="user_is_not_allowed_dlg_title">No permitido</string>
     <string name="v7_preference_off">DESACTIVADO</string>

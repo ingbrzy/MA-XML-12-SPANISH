@@ -589,8 +589,8 @@ los documentos escaneados automáticamente"</string>
     <string name="dual_video_record_remote">Grabación de teléfono dual</string>
     <string name="dual_video_record_standalone">Separado</string>
     <string name="dual_video_user_guide_main_content">Para crear videos multicámara, seleccione dos cámaras en su dispositivo y grabe simultáneamente. Las grabaciones pueden almacenarse por separado o combinarse en una vista dividida o en un video de imagen en imagen.</string>
-    <string name="dual_video_user_guide_main_content_new">"Los videos multicámara se graban con varias cámaras simultáneamente.
-La grabación de teléfono dual también le permite conectarse al otro dispositivo y crear un video multicámara seleccionando \"Combinado\"."</string>
+    <string name="dual_video_user_guide_main_content_new">"Vídeos multicam son grabados con múltiples cámaras simultáneamente.
+La grabación de teléfono dual también le permite conectarse al otro dispositivo cercano y crear un video multicam seleccionando \"Combinado\"."</string>
     <string name="dual_video_user_guide_main_title">Vídeo multicámara</string>
     <string name="dual_video_user_guide_merge_content">Dispare con dos cámaras simultáneamente y combine grabaciones en una vista dividida o video de imagen en imagen.</string>
     <string name="dual_video_user_guide_merge_content_new">Se pueden combinar dos grabaciones en una vista dividida o en un video de imagen en imagen.</string>
@@ -674,12 +674,14 @@ La grabación de teléfono dual también le permite conectarse al otro dispositi
     <string name="film_video_d">Lapso de tiempo nocturno</string>
     <string name="film_video_e">Mundo paralelo</string>
     <string name="film_video_tip">Use un trípode</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM aaaa</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM aaaa</string>
+    <string name="fmt_time_12hour">"h 'o'''reloj"</string>
+    <string name="fmt_time_24hour">"HH 'o'''reloj"</string>
     <string name="fps960_toast">La grabación en cámara lenta empezará en el último cuarto del video</string>
     <string name="fragment_tab_name_bokeh">Bokeh</string>
     <string name="friday">Viernes</string>
@@ -712,6 +714,10 @@ si gira su teléfono"</string>
 Imprima la copia de forma inalámbrica en una hoja A4."</string>
     <string name="id_card_mode_use_hint_text_title">Escanear ID</string>
     <string name="install_confirmed">Instalar</string>
+    <string name="invisible_mode_dialog_cancel">Cancelar</string>
+    <string name="invisible_mode_dialog_summary">"No puedes usar la cámara ahora. Desactiva el modo Incognito en los ajustes para poder usar la cámara."</string>
+    <string name="invisible_mode_dialog_title">"Eres incógnita"</string>
+    <string name="invisible_mode_dialog_to_close">Ajustes</string>
     <string name="kaleidoscope_fragment_tab_name">Caleidoscopio</string>
     <string name="lens_dirty_detected_content">"El lente de la cámara está sucio.
 Limpie el lente para un mejor resultado."</string>
@@ -1518,7 +1524,7 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="pref_watermark_title">Marca de agua</string>
     <string name="pref_wind_denoise_title">Filtro de viento</string>
     <string name="preference_copied">Se copió \"%1$s\" en el portapapeles.</string>
-    <string name="prek_b_j_o">Recrea el efecto envolvente estéreo</string>
+    <string name="prek_b_j_o">Activa para recrear el efecto envolvente estéreo. Cambia al modo apaisado o conecta auriculares para el mejor efecto.</string>
     <string name="prek_b_j_p">Reducir el impacto del viento en la grabación de sonido</string>
     <string name="prep_video_ai_audio_new_desc_tip">Se mejoran los sonidos del sujeto enfocado</string>
     <string name="prep_video_ai_audio_new_desc_tip_alone">Los sonidos del sujeto enfocado se mejoran en el modo paisaje</string>
@@ -1542,7 +1548,7 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="remote_online_exit_connecting">¿Desconectar y salir de la grabación de teléfono dual ahora?</string>
     <string name="remote_online_guide">Active la grabación de teléfono dual en el otro dispositivo con el interruptor del centro de control.</string>
     <string name="remote_online_interrupted">Desconectado. Conéctate de nuevo para continuar.</string>
-    <string name="remote_online_introduction_i">"La grabación de teléfono dual permite combinar las fuentes de dos dispositivos diferentes en un solo video. Podrá obtener una vista previa de ambos feeds y el video final en este dispositivo. Tenga en cuenta que solo este dispositivo grabará audio."</string>
+    <string name="remote_online_introduction_i">"La grabación de teléfono dual permite combinar las fuentes de dos dispositivos diferentes que se acercan unos a otros en un solo video. Podrás previsualizar tanto los canales como el vídeo final en este dispositivo. Ten en cuenta que el audio sólo será grabado por este dispositivo."</string>
     <string name="remote_online_introduction_ii">Para que esta función funcione, el otro dispositivo Mi o Redmi debe admitir la grabación de teléfono dual. Se puede encender usando el conmutador del Centro de control.</string>
     <string name="remote_online_permission">"Cambie el permiso de ubicación de la cámara a \"Permitir solo mientras usa la aplicación\" para poder usar la grabación de teléfono dual."</string>
     <string name="remote_online_searching">Buscando dispositivos…</string>
@@ -1709,6 +1715,10 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="timbre_lady">Dama</string>
     <string name="timbre_normal">Original</string>
     <string name="timbre_robot">Robot</string>
+    <string name="time_freeze_action_end_tip">Toque el botón para desbloquear el fondo</string>
+    <string name="time_freeze_action_start_tip">Toque el botón para bloquear el fondo</string>
+    <string name="time_freeze_adjust_button_title">Ajustar</string>
+    <string name="time_freeze_clipbox_tint">Bloquear</string>
     <string name="time_lapse_error">"No se puede usar este tamaño de video para grabaciones time-lapse"</string>
     <string name="time_picker_dialog_title">Establecer hora</string>
     <string name="time_stamp_date_format">dd/MM/yyyy</string>

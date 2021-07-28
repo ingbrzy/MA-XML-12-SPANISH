@@ -27,6 +27,48 @@
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="back_mic_check_record_tip">Grabando, por favor diga algo a MIC en la parte trasera del dispositivo</string>
+    <string name="cit_accelermeter_sensor_check_summary">"Mover el dispositivo rápidamente en una dirección. Los valores de coordenadas X，Y，Z se muestran a continuación. (cuando el dispositivo está en movimiento: X representa la izquierda/derecha, y representa la parte delantera/atrás, z representa arriba y abajo).
+Antes de calibrar el dispositivo, colócalo en una superficie plana."</string>
+    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Prueba de retroalimentación del micrófono principal al receptor.
+
+Sostenga el dispositivo como si estuviera haciendo una llamada, hable al micrófono principal, debería escuchar la voz del receptor"</string>
+    <string name="cit_calibration_finish">Calibración de datos completada</string>
+    <string name="cit_camera_otp_download_title">Prueba de descarga de cámara OTP</string>
+    <string name="cit_charger_test_tips_pd">El dispositivo actual necesita probar USB_PD</string>
+    <string name="cit_external_keyboard_test_get_sn">Haga clic para obtener el número de serie SN del teclado externo (mantenga el teclado y el dispositivo conectados)</string>
+    <string name="cit_light_sensor_check_summary">El valor DAC debe aparecer a continuación, por favor pruebe el sensor de luz</string>
+    <string name="cit_nfc_check_summary">"Por favor, haga clic en el botón para iniciar NFC y, a continuación, coloque la tarjeta en la parte superior de la parte posterior del dispositivo. 
+No apague la pantalla durante la prueba"</string>
+    <string name="cit_nfc_check_tip">pon la tarjeta en la parte superior de la parte trasera del dispositivo</string>
+    <string name="cit_proximity_data_check_summary">"Sensor de distancia infrarrojo: Cubra el sensor de distancia con la mano y, a continuación, deje libre el sensor. 
+ Sensor de distancia ultrasónico: Por favor simule la acción de responder el dispositivo 
+ Si el área de prueba inferior muestra un valor de 0.0 al acercarse, y un valor 5.0 se muestra cuando está lejos, la prueba es exitosa, de lo contrario la prueba falla."</string>
+    <string name="cit_proximity_sensor_check_summary">"Cubra el sensor de proximidad (situado en la parte superior del dispositivo cerca del receptor) con su mano, luego mueva la mano. El valor debe aumentar a partir de 0.0 al mover la mano más lejos del dispositivo.
+Al calibrar, asegúrate de que no hay nada entre el sensor y tu mano (por ejemplo, pantalla de protección o guantes)."</string>
+    <string name="cit_reverse_wireless_charge_check_tips">Por favor, ponga el dispositivo a cargar según sea necesario y empiece a probar</string>
+    <string name="cit_tool_modem_mbn_opt_fail_notfiy">opt falló, reinicie el dispositivo para reintentarlo</string>
+    <string name="cit_tool_opt_fail_info_notify">Opt falló, necesita reiniciar el dispositivo para el modo no online.</string>
+    <string name="cit_uwb_calibrate_color_black">Negro</string>
+    <string name="cit_uwb_calibrate_color_cali_tip">Por favor, seleccione el intérprete de seguridad de la máquina antes de realizar la calibración de datos</string>
+    <string name="cit_uwb_calibrate_color_gray">Gris</string>
+    <string name="cit_uwb_calibrate_color_white">Blanco</string>
+    <string name="cit_uwb_calibrate_data_cali_tip">Calibración de datos</string>
+    <string name="cit_uwb_calibrate_summary">Esta prueba está dedicada a los ingenieros de mantenimiento, por favor úsalo con precaución</string>
+    <string name="cit_uwb_calibrate_title">Prueba de calibración UWB</string>
+    <string name="cit_wifi_address_check_summary">A continuación se muestra la dirección de la red Wi-Fi a la que el dispositivo está conectado actualmente. Confirme que la información resaltada en verde es correcta.</string>
+    <string name="front_mic_check_record_tip">Grabación, por favor diga algo a MIC en la parte frontal del dispositivo</string>
+    <string name="main_mic_check_record_tip">Grabando, por favor diga algo al MIC en el principal del dispositivo</string>
+    <string name="sar_sensor_collect_test_summary">"Rotar el dispositivo, ponlo en el dispositivo
+Haga clic en el botón Iniciar adquisición de datos
+Controlar el dispositivo cerca y lejos del dispositivo"</string>
+    <string name="sar_sensor_test_err_angle">El dispositivo no está situado en el ángulo correcto</string>
+    <string name="sar_sensor_test_next_step">Deflector de control cerca del dispositivo</string>
+    <string name="sar_sensor_test_summary">"Rotar el dispositivo, ponerlo en el dispositivo
+Haga clic en el botón \"Calibrar\"
+Después de calibrar con éxito, controle el dispositivo cerca y alejado del dispositivo"</string>
     <string name="search_menu_title">Buscar</string>
     <string name="status_bar_notification_info_overflow">+999</string>
+    <string name="tips_not_placed_right_angle">El dispositivo no está situado en el ángulo correcto</string>
+    <string name="top_mic_check_record_tip">Grabando, por favor diga algo a MIC en la parte superior del dispositivo</string>
 </resources>

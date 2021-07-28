@@ -85,23 +85,28 @@
     <string name="bugreport_tool_log_dumping_title">Creando informe de bug</string>
     <string name="catch_full_log_action_cancel">Cancelar</string>
     <string name="catch_full_log_action_complete">Finalizar y subir</string>
+    <string name="catch_full_log_action_start">Iniciar</string>
     <string name="catch_full_log_add_original_photo">Añade una imagen original o un vídeo corto</string>
     <string name="catch_full_log_add_photo">Añadir foto</string>
     <string name="catch_full_log_add_photo_dialog_content">"Si el problema que estás reportando está relacionado con la calidad de imagen de la cámara, añade un foto original como muestra (sin recortar) para ayudarnos a localizar el problema. ¿Añadir la foto ahora?"</string>
+    <string name="catch_full_log_category">Tipos de registro</string>
     <string name="catch_full_log_dialog_confirm_text">Ir a la Pantalla de inicio</string>
-    <string name="catch_full_log_dialog_content">"MIUI está generando un registro. Esto podría afectar al rendimiento general de su dispositivo. Si no puede reproducir el problema que quiere reportar, vuelva a los registros y pulse \"Cancelar\"."</string>
+    <string name="catch_full_log_dialog_content">"Esto podría afectar el rendimiento general de su dispositivo. Si no puede reproducir el problema que desea informar, vuelva a los registros y toque \"Cancelar\"."</string>
+    <string name="catch_full_log_dialog_title">Generando registros…</string>
     <string name="catch_full_log_dump_hprof_failed">"No se pudo generar registro de ralentización"</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Vuelve a la función que quieres reportar y reproducir.
 2. Vuelve a esta página y pulsa \"Finalizar y subir\"."</string>
-    <string name="catch_full_log_item_content_title">Pasos</string>
-    <string name="catch_full_log_item_title_audio">Audio, grabación de sonido y audio de llamadas</string>
+    <string name="catch_full_log_item_content_catching">Generando registros…</string>
+    <string name="catch_full_log_item_content_need_open">"%1$d. Toque \"Inicio\" para comenzar a generar registros.
+%2$d. Reproduzca el problema que ha encontrado.
+%3$d. Vuelve a esta página y toca \"Finalizar y cargar\"."</string>
+    <string name="catch_full_log_item_content_title">Cómo generar registros</string>
+    <string name="catch_full_log_item_title_audio">Audio, sonido de llamadas y grabación de audio</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
     <string name="catch_full_log_item_title_dump_heap">Ralentización</string>
     <string name="catch_full_log_item_title_gps">Servicios de ubicación</string>
     <string name="catch_full_log_item_title_sensor">Sensores</string>
     <string name="catch_full_log_item_title_signal">Teléfono, señal y redes móviles</string>
-    <string name="catch_full_log_item_title_wifi">Wi-Fi y ShareMe</string>
-    <string name="catch_full_log_item_title_wifi_china">WLAN and ShareMe</string>
     <string name="catch_full_log_notification_content">Pulsa para volver a los registros</string>
     <string name="catch_full_log_notification_title">Generando registro…</string>
     <string name="catch_full_log_privacy_content_audio">"Estás generando registros y guardándolos en tu dispositivo. Los registros podrían contener información acerca del audio de tu dispositivo, incluyendo el historial de reproducción y grabación. Ten cuidado y no muestres estos registros a otras personas. Al pulsar \"Aceptar\", estás aceptando que recojamos los datos generados con los registros y después subamos los registros a nuestros servidores con el objetivo de localizar y solucionar el problema que reportas."</string>

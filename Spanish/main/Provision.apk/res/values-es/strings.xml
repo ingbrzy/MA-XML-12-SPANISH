@@ -54,11 +54,11 @@
     <string name="boot_video_skip">Saltar</string>
     <string name="calculator_introduction">Puedes usar esta aplicación para hacer cálculos, convertir unidades y divisas y estimar el pago de tu hipoteca.</string>
     <string name="camera_introduction">Puedes usar la Cámara para tomar fotos y grabar vídeo.</string>
-    <string name="carrier_introduction">"Con el fin de proporcionarte mejores servicios, tu dispositivo podrá enviar periódicamente información de la versión del dispositivo, datos de identificación del dispositivo (incluyendo direcciones IMEI/IMSI/MSISDN/MAC, MEID/ICCID), información de ubicación aproximada (incluyendo ID fijo) hacia el operador vía Wi-Fi, red de datos móviles o SMS gratuito. El operador se compromete a analizar la información relevante solo para mejorar la calidad de los servicios o para proporcionar servicios o tecnologías personalizadas, y no revelará a terceros ninguna información relevante con la que pudiera ser identificado personalmente. La declaración particular del operador regirá. Consulta con tu operador para más información relacionada con el coste de uso de este servicio."</string>
+    <string name="carrier_introduction_china">"Para proporcionarle mejores servicios, los procesos que se ejecutan en su dispositivo (incluyendo SystemHelper, RegService, y servicios de transportista) pueden enviar periódicamente la información relacionada con su dispositivo y tarjeta SIM (incluyendo IMEI, IMSI, MSISDN, MEID, ICCID, dirección MAC, Versión MIUI, versión Android, modelo de dispositivo y especificaciones básicas de hardware), así como información aproximada de la ubicación (incluyendo región, coordenadas, identificador de área e ID de estación base) al operador a través de Wi-Fi, red de datos móviles o SMS gratis. El transportista se compromete a analizar la información relevante sólo para mejorar la calidad de los servicios o para proporcionar servicios o tecnologías personalizadas y no revelará información relevante a terceros de ninguna forma que le identifique personalmente. La declaración de transportista específica prevalecerá. Consulte a su transportista en relación con el coste del uso de este servicio."</string>
     <string name="clearable_edittext_clear_description">Limpiar</string>
     <string name="clock_introduction">Puedes usar esta aplicación para ver la hora, así como usar el temporizador, el reloj mundial, establecer alarmas y más.</string>
     <string name="close">Cerrar</string>
-    <string name="close_location_service_setting">Puedes elegir desactivar el acceso a la ubicación en Ajustes &gt; Ajustes adicionales &gt; Privacidad o restringir los permisos para aplicaciones individuales en Seguridad.</string>
+    <string name="close_location_service_setting">Puede elegir desactivar el acceso a la ubicación en Ajustes &gt; Protección de privacidad &gt; Gestionar o restringir los permisos para aplicaciones individuales en Seguridad.</string>
     <string name="cm_terms_content">"Para mejorar los servicios provistos, el operador de red móvil de su selección puede subir sus datos personales e información de este dispositivo en los servidores usando redes Wi-Fi o conexión de datos móviles. Esta información será utilizada solo con fines estadísticos para mejorar la calidad de los servicios y proveer contenido más personalizado. Esta información no se usará para identificarle y no se revelará a terceras partes."</string>
     <string name="cm_terms_title">Acuerdo del Operador de Red Móvil</string>
     <string name="compass_introduction">Puedes usar esta aplicación para navegar, así como ver coordenads, presión atmosférica y altitud.</string>
@@ -249,7 +249,7 @@ Puede controlar esta función desde Configuración &gt; Contraseñas &amp; Segur
     <string name="other_settings_upload_debug_log_summary">Ayude a mejorar la experiencia de su dispositivo MIUI enviando automáticamente datos de diagnóstico, dispositivo y uso de aplicaciones a Xiaomi. Esto ayudará a mejorar la duración de la batería, el sistema MIUI y la estabilidad de la aplicación, y más.</string>
     <string name="other_settings_upload_debug_log_title">Enviar datos de uso y diagnóstico</string>
     <string name="other_settings_user_experience">Programa de Experiencia de Usuario</string>
-    <string name="other_settings_user_experience_summary">Ayudanos a mejorar nuestros productos y servicios compartiendo con nosotros tus datos de uso. Ver detalles</string>
+    <string name="other_settings_user_experience_summary">Ayúdenos a mejorar nuestros productos y servicios compartiendo sus estadísticas de uso con nosotros.</string>
     <string name="other_settings_user_experience_summary_index">Ver detalles</string>
     <string name="permission_MIUIDaemon_introduction">MIUI Daemon allows you to transfer data from your device when its screen is damaged.</string>
     <string name="permission_account">Acceder a las cuentas de tu dispositivo:</string>
@@ -416,7 +416,8 @@ Debes aceptar nuestro Acuerdo de Usuario y Política de Privacidad antes de pode
     <string name="terms_of_use_label_phrase">, frases frecuentes</string>
     <string name="terms_of_use_label_systemhelper">, Servicio de auto-registro</string>
     <string name="terms_of_use_label_updater">, Actualizador</string>
-    <string name="terms_of_use_lable_apps">Servicios Mi, Servicios de activación de SIM Mi, Xiaomi Cloud, Encontrar dispositivo, Pantalla de inicio, Juegos, MIUI Daemon, componentes MSA de sistema, servicios de traducción, MIUI SDK, Aplicaciones rápidas, Bóveda de aplicaciones, estadísticas, Mi Link</string>
+    <string name="terms_of_use_lable_apps">Servicios Mi, Servicios de activación Mi SIM, Xiaomi Cloud, Buscar dispositivo, Pantalla de inicio, Juegos, MIUI Daemon, Componentes del sistema MSA, Servicio de traducción, MIUI SDK, Aplicaciones rápidas, Bóveda de aplicaciones, estadísticas, Mi Link</string>
+    <string name="terms_of_use_lable_apps_wifi_device">Servicios Mi, Xiaomi Cloud, Buscar dispositivo, Pantalla de inicio, Juegos, MIUI Daemon, Componentes del sistema MSA, Servicio de traducción, MIUI SDK, Aplicaciones rápidas, Bóveda de aplicaciones, estadísticas, Mi Link</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Debes aceptar la Política de Privacidad de Facemoji antes de usar esta función."</string>
@@ -475,7 +476,7 @@ Debes aceptar la Política de Privacidad del Teclado Mint antes de usar esta fun
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>
     <string name="time_picker_dialog_title">Establecer hora</string>
-    <string name="title_fingerprint">Establecer contraseña</string>
+    <string name="title_fingerprint">Establecer bloqueo de pantalla</string>
     <string name="title_set_fingerprint">Bloqueo de pantalla</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">Mañana</string>
@@ -484,6 +485,7 @@ Debes aceptar la Política de Privacidad del Teclado Mint antes de usar esta fun
     <string name="tuesday_shortest">Mar</string>
     <string name="user_agreement">Acuerdo de Usuario</string>
     <string name="user_agreement_declare">Antes de usar MIUI, debes leer y aceptar nuestro Acuerdo de Usuario y Política de Privacidad. Mientras tu dispositivo es activado, el servicio de activación de Mi SIM, Xiaomi Cloud, Encontrar dispositivo, Pantalla de inicio, Frases frecuentes, Servicio de traducción, MIUI Daemon, Visualizador HTML, MIUI SDK, Asistente IA, Batería y rendimiento, Detector de potencia, Joyose, Ajustes OS IA, Gestor de permisos y Actualizador, se conectarán a la red. Los servicios inteligentes se conectarán a la red para acceder a tu ubicación.</string>
+    <string name="user_agreement_declare_wifi_device">Antes de usar MIUI, debe leer y aceptar nuestro Acuerdo de usuario y Política de privacidad. Mientras se activa su dispositivo, Xiaomi Cloud, Servicio de respaldo, Buscar dispositivo, Pantalla de inicio, Frases frecuentes, Servicio de comunicación por Internet Xiaomi, Servicio de traducción, MIUI Daemon, Visor HTML, MIUI SDK, Aplicación de elemento seguro, Asistente de inteligencia artificial, Batería y rendimiento, Power Detector, Joyose, OS AI Setting y Updater se conectarán a la red. Las tarjetas inteligentes, el Administrador de permisos y los servicios inteligentes se conectarán a la red y accederán a su ubicación.</string>
     <string name="v7_preference_off">APAGADO</string>
     <string name="v7_preference_on">ENCENDIDO</string>
     <string name="voice_assist_advice">Mi IA te permite usar controles de voz pero consume más energía (+1% cada hora).</string>

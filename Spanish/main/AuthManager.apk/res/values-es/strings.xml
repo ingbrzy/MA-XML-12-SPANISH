@@ -158,9 +158,9 @@
     <string name="blur_location_is_on_tip">%1$s has started the approximate location service. Whether to keep the approximate location service on?</string>
     <string name="blur_location_now_tip">Ubicación aproximada activada</string>
     <string name="blur_location_title">Ubicación aproximada</string>
-    <string name="cetus_invisible_mode_notice_audio">"Estás incógnito. No puedes usar el micrófono ahora."</string>
+    <string name="cetus_invisible_mode_notice_audio">"Estás en incógnito. No puedes usar el micrófono ahora."</string>
     <string name="cetus_invisible_mode_notice_camera">"Estás incógnito. No puedes usar la cámara ahora."</string>
-    <string name="cetus_invisible_mode_notice_location">"Estás incógnito. No puedes usar los servicios de ubicación ahora."</string>
+    <string name="cetus_invisible_mode_notice_location">"Estás en incógnito. No puedes usar los servicios de ubicación ahora."</string>
     <string name="cetus_invisible_mode_notice_tip">Pulse para desactivar el modo Incognito en los ajustes</string>
     <string name="clearable_edittext_clear_description">Eliminar</string>
     <string name="clipboard_ai_allow_once">Has permitido a %1$s acceder a elementos en el portapapeles automáticamente</string>
@@ -188,9 +188,9 @@
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">M/D</string>
+    <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">M/d/aaaa</string>
+    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
@@ -340,7 +340,7 @@
     <string name="permission_group_title_privacy_related">Privacidad</string>
     <string name="permission_group_title_sensitive_privacy_related">Permisos delicados</string>
     <string name="permission_group_title_settings_related">Ajustes</string>
-    <string name="permission_list_include">Incluye lo siguiente</string>
+    <string name="permission_list_include">Incluyendo lo siguiente:</string>
     <string name="permission_reminders">Recordatorios de permiso</string>
     <string name="permission_warning_template">¿Permitir %1$s a %2$s?</string>
     <string name="permission_warning_template_ask">¿Permitir a %1$s los siguientes permisos?</string>
@@ -362,7 +362,6 @@
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_blur_location">Turn off</string>

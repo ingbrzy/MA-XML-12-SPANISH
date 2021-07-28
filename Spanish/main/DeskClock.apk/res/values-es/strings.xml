@@ -71,7 +71,6 @@
     <string name="am">AM</string>
     <string name="analog_gadget">Reloj analógico</string>
     <string name="app_label">Reloj</string>
-    <string name="app_name">desenfoque</string>
     <string name="auto_silence_never">Nunca</string>
     <string name="auto_silence_summary">Establecer hora después de la cual se silenciarán las alarmas y los temporizadores</string>
     <string name="auto_silence_title">Autosilenciar</string>
@@ -176,12 +175,14 @@
     <string name="every_day">Diariamente</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="expired_timers_dismissed">Temporizador descartado con éxito</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fmt_time_12hour">"h 'en punto'"</string>
+    <string name="fmt_time_24hour">"HH 'en punto'"</string>
     <string name="force_touch_add_alarm">Añadir alarma</string>
     <string name="force_touch_enter_stopwatch">Cronómetro</string>
     <string name="force_touch_enter_timer">Temporizador</string>

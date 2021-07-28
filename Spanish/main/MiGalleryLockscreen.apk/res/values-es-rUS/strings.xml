@@ -264,12 +264,14 @@ Envíe este código al supervisor."</string>
     <string name="favor_success">Añadido a favoritos con éxito</string>
     <string name="feed_article_entrance_about">Acerca de \"%s\"</string>
     <string name="find_psw">Contraseña olvidada</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM aaaa</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM aaaa</string>
+    <string name="fmt_time_12hour">"h 'o'''reloj"</string>
+    <string name="fmt_time_24hour">"HH 'o'''reloj"</string>
     <string name="for_diagnosis_usage_only">Los registros se utilizan solo para diagnóstico.</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
@@ -341,7 +343,7 @@ Envíe este código al supervisor."</string>
     <string name="loading">Un momento</string>
     <string name="lock_screen_date">d MMMM EEEE</string>
     <string name="lock_screen_date_12">d MMMM EEEE</string>
-    <string name="lock_show_permission_exception">Ocurrió un error. Permitir que el carrusel de fondos de pantalla se muestre en la pantalla de bloqueo en Seguridad.</string>
+    <string name="lock_show_permission_exception">Permitir que el carrusel de fondos de pantalla muestre elementos en la pantalla de bloqueo</string>
     <string name="lockscreen_h5_back_tv">Espalda</string>
     <string name="lockscreen_h5_close_tv">Desactivado</string>
     <string name="lockscreen_h5_refresh_btn_tv">Refrescar</string>

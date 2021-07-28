@@ -176,41 +176,13 @@
         <item quantity="other">%d canciones populares</item>
         <item quantity="one">%d canción popular</item>
     </plurals>
-    <plurals name="transfer_prompt">
-        <item quantity="other">Reproducir vídeo en %1$d segundos</item>
-        <item quantity="one">Reproducir vídeo en %1$d segundo</item>
-    </plurals>
     <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$d seleccionados</item>
-        <item quantity="one">%1$d seleccionado</item>
+        <item quantity="other">%1$d elementos seleccionados</item>
+        <item quantity="one">%1$d elemento seleccionado</item>
     </plurals>
     <plurals name="video_collection_reminder_view">
         <item quantity="other">"No has visto %d de tus vídeos favoritos en mucho tiempo."</item>
         <item quantity="one">"No has visto %d vídeo favorito en mucho tiempo."</item>
-    </plurals>
-    <plurals name="video_download_clear_info">
-        <item quantity="other">%1$d vídeos eliminados con éxito.</item>
-        <item quantity="one">%1$d vídeo eliminado con éxito.</item>
-    </plurals>
-    <plurals name="video_download_clear_prompt">
-        <item quantity="other">¿Eliminar %1$d vídeos?</item>
-        <item quantity="one">¿Eliminar %1$d vídeo?</item>
-    </plurals>
-    <plurals name="video_history_clear_info">
-        <item quantity="other">%1$d elementos eliminados del historial.</item>
-        <item quantity="one">%1$d elemento eliminado del historial.</item>
-    </plurals>
-    <plurals name="video_history_clear_prompt">
-        <item quantity="other">¿Eliminar %1$d elementos del historial?</item>
-        <item quantity="one">¿Eliminar %1$d elemento del historial?</item>
-    </plurals>
-    <plurals name="video_push_multi_message">
-        <item quantity="other">%1$d actualizaciones disponibles.</item>
-        <item quantity="one">%1$d actualización disponible.</item>
-    </plurals>
-    <plurals name="video_subtitle_last_message">
-        <item quantity="other">%d minutos restantes</item>
-        <item quantity="one">%d minuto restante</item>
     </plurals>
     <plurals name="videos_updated_amount">
         <item quantity="other">Comprobar %1$d vídeos nuevos</item>

@@ -96,12 +96,14 @@ Envía este código al supervisor."</string>
     <string name="exceed_binded_phone_times_notice">Este número de teléfono ya está asociado con otra Cuenta Mi.</string>
     <string name="failed_dup_secure_phone_number">Este número de teléfono ya está asociado a otra Cuenta Mi</string>
     <string name="find_psw">Contraseña olvidada</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fmt_time_12hour">"h 'en punto'"</string>
+    <string name="fmt_time_24hour">"HH 'en punto'"</string>
     <string name="for_diagnosis_usage_only">Los registros son solo usados para diagnósticos.</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
@@ -264,6 +266,10 @@ Compruebe su fecha local y vuelva a intentarlo."</string>
     <string name="mibi_giftcard_with_num"><Data>&lt;font color=#FF7700&gt;&lt;xliff:g id=value&gt;%1$d&lt;/xliff:g&gt; Cupón Mi Coin disponible&lt;/font&gt;</Data></string>
     <string name="mibi_header_network_error">"No se pudo conectar a la red."</string>
     <string name="mibi_illegal_intent">Solicitud de intención ilegal</string>
+    <string name="mibi_incognito_mode_dialog_cancel">Cancelar</string>
+    <string name="mibi_incognito_mode_dialog_summary_camera">"No se puede utilizar la cámara ahora. Desactive el modo incógnito en los Ajustes para poder utilizar la cámara."</string>
+    <string name="mibi_incognito_mode_dialog_title">"Estas de incógnito"</string>
+    <string name="mibi_incognito_mode_dialog_to_close">Ajustes</string>
     <string name="mibi_is_what">¿Qué puede comprar con Monedas Mi?</string>
     <string name="mibi_label_balance">Saldo</string>
     <string name="mibi_label_giftcard">Tarjeta de regalo</string>

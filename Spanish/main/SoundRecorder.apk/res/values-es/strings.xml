@@ -110,12 +110,14 @@
     <string name="expand_button_title">Avanzado</string>
     <string name="export_to_note">Exportar</string>
     <string name="fm_record">Radio</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fmt_time_12hour">"h 'en punto'"</string>
+    <string name="fmt_time_24hour">"HH 'en punto'"</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
@@ -137,6 +139,7 @@
     <string name="loading_order_list_empty">Aquí no hay pedidos.</string>
     <string name="low_battery_error">"Menos del 5% de batería restante. Pause y guarde su grabación para asegurarse de que no se pierda."</string>
     <string name="low_battery_error_confirm">OK</string>
+    <string name="low_battery_error_for_pad">"Menos de %s de batería restante. Deténgalo y ahorre su grabación para asegurarse de que no se pierda."</string>
     <string name="low_battery_error_title">Batería baja</string>
     <string name="lyric_item_point_count">%1$d a %2$d</string>
     <string name="mark_point_list_title">Marcas</string>
@@ -230,6 +233,7 @@
     <string name="notification_playback">Reproduciendo…</string>
     <string name="notification_recording">Grabando…</string>
     <string name="notification_recording_ticker">Teléfono silenciado</string>
+    <string name="notification_recording_ticker_for_pad">Tu dispositivo está grabando audio en modo silencioso. Usa los botones de volumen para desactivar el modo Silencio.</string>
     <string name="notification_save_as_complete">Guardado con éxito</string>
     <string name="notification_stopped">Grabación detenida</string>
     <string name="notification_title_all_paused">Descarga en pausa</string>

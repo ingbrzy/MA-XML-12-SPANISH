@@ -710,6 +710,9 @@ Si vuelves a activar el uso de datos, es posible que se apliquen cargos."</strin
     <string name="development_settings_not_available">"Las opciones de desarrollador no están disponibles para este usuario"</string>
     <string name="development_settings_summary">Ajustar opciones de desarrollo de aplicaciones</string>
     <string name="development_settings_title">Opciones de desarrollador</string>
+    <string name="device_locked_without_biometric">"No se puede desbloquear este dispositivo con huellas dactilares o datos faciales cuando estás usando un bloqueo de pantalla de terceros"</string>
+    <string name="device_locked_without_biometric_face">"No se puede desbloquear este dispositivo con datos faciales cuando estás usando un bloqueo de pantalla de terceros"</string>
+    <string name="device_locked_without_biometric_finger">"No se puede desbloquear este dispositivo con huellas dactilares cuando estás usando un bloqueo de pantalla de terceros"</string>
     <string name="device_services">Servicios del dispositivo</string>
     <string name="direct_boot_unaware_dialog_message">"Nota: Después de reiniciar, esta aplicación no se iniciará hasta que desbloquee su dispositivo."</string>
     <string name="disable_carrier_button_text">Inhabilita la tarjeta eSIM</string>
@@ -795,15 +798,29 @@ Si vuelves a activar el uso de datos, es posible que se apliquen cargos."</strin
     <string name="fingerprint_add_text">El sistema de huella ha sido actualizado. Añade tu huella de nuevo.</string>
     <string name="fingerprint_add_title">Añadir huella</string>
     <string name="fingerprint_again_identified_msg">Ya puede usar su huella dactilar. Úsela para desbloquear el dispositivo, o introduzca la contraseña.</string>
+    <string name="fingerprint_again_identified_msg_password">"Tu huella dactilar está activa.
+Úsalo para desbloquear el dispositivo o introduce tu contraseña."</string>
+    <string name="fingerprint_again_identified_msg_pattern">"Tu huella dactilar está activa.
+Úsalo para desbloquear el dispositivo o dibujar el patrón."</string>
+    <string name="fingerprint_again_identified_msg_pin">"Tu huella digital está activa.
+Úsalo para desbloquear el dispositivo o introduce tu PIN."</string>
     <string name="fingerprint_dialog_touch_sensor">Toca el sensor de huellas digitales</string>
     <string name="fingerprint_enter_second_psw_msg">Introduce contraseña del Segundo espacio después de reiniciar el dispositivo, para poder usar el reconocimiento de huella</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">"No puede entrar en el Segundo espacio mientras esté en modo Lite"</string>
     <string name="fingerprint_enter_second_psw_title">Introduce contraseña para el Segundo espacio</string>
     <string name="fingerprint_not_identified_msg">Demasiados intentos fallidos. Introduce la contraseña ahora o usa tu huella dactilar en unos segundos.</string>
     <string name="fingerprint_not_identified_msg_lock">Demasiados intentos fallidos. Introduce ahora la contraseña.</string>
+    <string name="fingerprint_not_identified_msg_password">"Demasiados intentos fallidos.
+Introduzca su contraseña para desbloquear."</string>
+    <string name="fingerprint_not_identified_msg_pattern">"Demasiados intentos fallidos.
+Dibuja su patrón para desbloquear."</string>
+    <string name="fingerprint_not_identified_msg_pin">"Demasiados intentos fallidos.
+Introduzca su PIN para desbloquear."</string>
     <string name="fingerprint_not_identified_title">Introducir contraseña</string>
     <string name="fingerprint_try_again_msg">"No se pudo verificar la huella dactilar, inténtalo de nuevo."</string>
     <string name="fingerprint_try_again_text">Inténtalo de nuevo</string>
+    <string name="fiveg_sa_switch_summary">Usar la red SA en la SIM secundaria (sólo para pruebas)</string>
+    <string name="fiveg_sa_vice_switch_title">SA en SIM secundaria</string>
     <string name="float_notification_snooze_strategy">Ocultar notificaciones flotantes temporalmente</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
@@ -828,6 +845,7 @@ Si vuelves a activar el uso de datos, es posible que se apliquen cargos."</strin
     <string name="fs_gesture_back_ready_title">Volver</string>
     <string name="fs_gesture_final_over">"He terminado"</string>
     <string name="fs_gesture_final_restart">Una vez más</string>
+    <string name="fs_gesture_final_see_more">Ver más demostraciones en Configuración &gt; pantalla de inicio &gt; Navegación del sistema</string>
     <string name="fs_gesture_final_summary">Puede volver a usar los botones en Ajustes &gt; Pantalla completa</string>
     <string name="fs_gesture_final_title">"¡Listo para disfrutar!​"</string>
     <string name="fs_gesture_finish">¡Genial!</string>
@@ -950,13 +968,15 @@ Una vez que su teléfono se haya enfriado, funcionará con normalidad."</string>
     <string name="input_lockscreen_password_hint_text">Introducir contraseña</string>
     <string name="input_lockscreen_pattern_hint_text">Dibujar patrón</string>
     <string name="input_lockscreen_pin_hint_text">Introducir PIN</string>
-    <string name="input_password_after_boot_msg">Para desbloquear el dispositivo, introduce la contraseña</string>
+    <string name="input_password_after_boot_msg">Se requiere ingresar su contraseña cuando el dispositivo se reinicia</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">"No se pueden cambiar los espacios durante una llamada"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"No se puede cambiar entre espacios cuando el control parental está activado"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"No se puede cambiar entre espacios cuando el Ahorro de batería extremo está activado"</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Es necesario entrar al Primer espacio después de haber reiniciado el dispositivo</string>
     <string name="input_password_hint_text">Introducir contraseña</string>
+    <string name="input_pattern_after_boot_msg">Se requiere dibujar su patrón cuando el dispositivo se reinicia</string>
     <string name="input_pattern_hint_text">Dibuja tu patrón de desbloqueo</string>
+    <string name="input_pin_after_boot_msg">Se requiere ingresar su PIN cuando el dispositivo se reinicia</string>
     <string name="input_pin_code">Introduce PIN</string>
     <string name="input_puk_code">Introduce el PUK</string>
     <string name="install_other_apps">Instalar aplicaciones desconocidas</string>
@@ -1049,6 +1069,7 @@ con prioridad"</string>
     <string name="keyguard_indication_trust_unlocked_plugged_in">"%1$s
 %2$s"</string>
     <string name="keyguard_instructions_when_pattern_disabled">Pulsa el menú para desbloquear la pantalla.</string>
+    <string name="keyguard_invalid_sim_puk_hint">El código PUK debe contener %1$d dígitos.</string>
     <string name="keyguard_left_mi_wallet">Monedero Mi</string>
     <string name="keyguard_left_remotecentral">Control remoto Mi</string>
     <string name="keyguard_left_smarthome">Xiaomi Home</string>
@@ -1251,9 +1272,11 @@ d MMMM"</string>
     <string name="miui_notification_menu_more_setting">Más</string>
     <string name="miui_notification_menu_msg_fold">¿Agrupar todas las notificaciones de %1$s?</string>
     <string name="miui_notification_menu_msg_not_allow">¿Restringir todas las notificaciones de %1$s?</string>
+    <string name="miui_notification_menu_msg_unfold">¿Mostrar %1$s notificaciones por separado?</string>
     <string name="miui_notification_menu_setting_success">Hecho</string>
     <string name="miui_notification_menu_snooze">Posponer</string>
     <string name="miui_notification_menu_title_not_allow">Restringir</string>
+    <string name="miui_notification_menu_unfold">Marcar como importante</string>
     <string name="miui_screen_rotation_freeze_message">Orientación de pantalla bloqueada en modo horizontal</string>
     <string name="miui_snooze_always_float">"No ocultar"</string>
     <string name="miui_snooze_cancel">Cancelar</string>
@@ -1264,6 +1287,7 @@ d MMMM"</string>
     <string name="miui_snooze_until_unlock_screen">Hasta que se bloquee</string>
     <string name="miui_snooze_user_set_fail">Vaya a Configuración &gt; Notificaciones &amp; Centro de control para ver más opciones</string>
     <string name="miui_snooze_user_set_success">Aplicado con éxito. Vaya a Configuración &gt; Notificaciones &amp; Centro de control para ver más opciones.</string>
+    <string name="miui_unimportant_notifications">Notificaciones no importantes</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -1414,6 +1438,7 @@ También estás conectado a una red VPN, que puede supervisar tu actividad de re
     <string name="mr_dialog_transferable_header">Reproducir en un grupo</string>
     <string name="mr_system_route_name">Sistema</string>
     <string name="mr_user_route_category_name">Dispositivos</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">"No se puede configurar durante la llamada"</string>
     <string name="mtrl_chip_close_icon_content_description">Eliminar %1$s</string>
     <string name="mtrl_picker_cancel">Cancelar</string>
     <string name="mtrl_picker_confirm">Guardar</string>
@@ -1512,6 +1537,8 @@ También estás conectado a una red VPN, que puede supervisar tu actividad de re
     <string name="overlay_display_devices_title">Simular pantallas adicionales</string>
     <string name="overview">Aplicaciones recientes</string>
     <string name="owner_info_settings_edit_text_hint">"Por ejemplo: Android de Juan."</string>
+    <string name="pad_zen_mode_warnings_all_time_content">Las notificaciones se silenciarán</string>
+    <string name="pad_zen_mode_warnings_keyguard_content">Las notificaciones se silenciarán cuando el dispositivo esté bloqueado</string>
     <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="phone_hint">Desliza desde el icono para abrir el teléfono</string>
     <string name="phone_label">abrir teléfono</string>
@@ -1521,7 +1548,7 @@ También estás conectado a una red VPN, que puede supervisar tu actividad de re
     <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Tienes que &lt;font color=#a5220e&gt;borrar todos los datos&lt;/font&gt; de tu dispositivo, incluyendo fotos y contactos, y después establecer una nueva contraseña de Pantalla de bloqueo.&lt;/Data&gt;</string>
     <string name="phone_locked_foget_password_method_next">Siguiente</string>
     <string name="phone_locked_foget_password_ok">Entendido</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Apaga tu dispositivo, presiona y mantén el &lt;font color=#a5220e&gt;botón de encendido&lt;/font&gt; y el &lt;font color=#a5220e&gt;botón de subir volumen&lt;/font&gt; simultáneamente hasta que veas el logo de Mi.&lt;/Data&gt;</string>
+    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Apaga tu dispositivo, pulsa y mantén pulsado &lt;font color=#e6e6e6&gt;[Power]&lt;/font&gt; y &lt;font color=#e6e6e6&gt;[Volumen +]&lt;/font&gt; botones hasta que veas &lt;img src=\"\"&gt;.</Data></string>
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Selecciona &lt;font color=#a5220e&gt;\"Limpiar y Restablecer\"&lt;/font&gt; y espera hasta que el dispositivo se reinicie.;&lt;/Data&gt;</string>
     <string name="phone_locked_forget_password_suggesstions_title">¿Cómo borrar los datos?</string>
     <string name="phone_locked_string">El teléfono ha sido bloqueado</string>
@@ -1768,6 +1795,9 @@ También estás conectado a una red VPN, que puede supervisar tu actividad de re
     <string name="quick_settings_user_new_user">Nuevo usuario</string>
     <string name="quick_settings_user_title">Usuario</string>
     <string name="quick_settings_vibrate_label">Vibrar</string>
+    <string name="quick_settings_vowifi_label">Llamadas Wi-Fi</string>
+    <string name="quick_settings_vowifi_sim1_label">Llamadas Wi-Fi SIM1</string>
+    <string name="quick_settings_vowifi_sim2_label">Llamadas Wi-Fi SIM2</string>
     <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Aumentando velocidad</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Cancelar</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Confirmar</string>
@@ -1910,6 +1940,8 @@ También estás conectado a una red VPN, que puede supervisar tu actividad de re
     <string name="show_silently">Mostrar notificaciones de forma silenciosa</string>
     <string name="show_touches">Mostrar toques</string>
     <string name="show_touches_summary">Mostrar feedback visual para toques</string>
+    <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>Mantenga presionados los &lt;font color=#e6e6e6&gt;[Power]&lt;/font&gt; y &lt;font color=#e6e6e6&gt;[Volumen +]&lt;/font&gt; hasta que vea &lt;img src=\"\"&gt;.</Data></string>
+    <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>Seleccione &lt;font color=#e6e6e6&gt;[Borrar datos]&lt;/font&gt; y toque &lt;font color=#e6e6e6&gt;[Reboot]&lt;/font&gt; después de eso.</Data></string>
     <string name="sim_state_locked_dialog_title">Tarjeta SIM inválida</string>
     <string name="sim_state_locked_puk_dialog_message">"Has introducido un código PUK incorrecto al menos %d veces. Tu tarjeta SIM ya no es válida. Reemplaza esta tarjeta SIM por otra."</string>
     <string name="simulate_color_space">Simular espacio de color</string>
