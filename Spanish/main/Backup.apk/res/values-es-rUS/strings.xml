@@ -169,7 +169,6 @@ https://appleid.apple.com/#!&amp;page=signin para cerrar"</string>
     <string name="dialog_backup_password_change_machine_tips">"No podrá transferir respaldos protegidos con contraseña. Desactive la contraseña de los respaldos antes de usar Mi Mudanza."</string>
     <string name="dialog_backup_password_restore_tips">"No se pueden restaurar elementos mientas la contraseña de respaldo esté activada. Desactive la contraseña primero."</string>
     <string name="dialog_backup_password_to_settings">Ajustes</string>
-    <string name="digit_percent">%</string>
     <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="disable_encrypt_description">No encriptar</string>
     <string name="disable_encrypt_title">Desactivar el cifrado</string>
@@ -285,7 +284,6 @@ primero deberá crear un respaldo de iCloud."</string>
 2.\u0009Vaya a los ajustes de Mi Talk y seleccione ”Respaldar contactos en Cuenta Mi”"</string>
     <string name="import_from_xiaomi_account_hint2">Si ya tiene una copia de seguridad, toque Siguiente.</string>
     <string name="import_from_xiaomi_account_hint_title">Use Mi Talk para crear copias de seguridad de sus contactos entre dispositivos.</string>
-    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="import_tip_summary">Debido a problemas de compatibilidad, sólo puede transferir datos parciales desde dispositivos iOS. Asegúrese de crear un respaldo de iCloud antes de iniciar la transferencia.</string>
     <string name="lack_perm_msg">Mi Mudanza necesita los siguientes permisos: &lt;b&gt;%s&lt;/b&gt;.</string>
     <string name="lack_perm_title">Se necesitan permisos</string>
@@ -945,11 +943,8 @@ No cierre la página antes de establecer la conexión."</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
     <string name="wifi_title">Configuración Wi-Fi</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">"No se pudo iniciar la descarga. Asegúrese de que el Administrador de Descargas funciona correctamente."</string>
     <string name="xiaomi_external_storage_unavailable">"Almacenamiento no disponible, compruebe su tarjeta SD."</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_router">Mi Router</string>
     <string name="xiaomi_router_location">Mi Router %s</string>
     <string name="xiaomi_update_dialog_message">"Presentando la versión %1$s Tamaño:%2$s"</string>
