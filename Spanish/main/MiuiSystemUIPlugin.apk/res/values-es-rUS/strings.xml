@@ -30,6 +30,9 @@
     <string name="accessibility_back">Atrás</string>
     <string name="accessibility_desc_close">Cerrar</string>
     <string name="accessibility_desc_edit">Editar</string>
+    <string name="accessibility_description_hours">Horas</string>
+    <string name="accessibility_description_minutes">Minutos</string>
+    <string name="accessibility_description_seconds">Segundos</string>
     <string name="accessibility_menu">Menú</string>
     <string name="accessibility_quick_settings_page">Página %1$d de %2$d</string>
     <string name="accessibility_volume_collapse">Contraer</string>
@@ -250,6 +253,7 @@
     <string name="quick_settings_pcmode_turn_off_description">"La pantalla de su teléfono se mostrará en el monitor externo. ¿Desactivar el modo PC?"</string>
     <string name="quick_settings_pcmode_turn_on_description">"La pantalla de su computadora se mostrará en el monitor externo. ¿Activar el modo PC?"</string>
     <string name="quick_settings_scanner_label">Escáner</string>
+    <string name="quick_settings_tiles_default">vowifi1,vowifi2,cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,custom(com.miui.screenrecorder/.service.QuickService),scanner,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),pcmode,custom(com.miui.mishare.connectivity/.tile.MiShareTileService),uwb_shp,custom(com.xiaomi.aiasst.vision/.control.translation.AiTranslateTileService),powermode,freeformhang,vibrate,hotspot,sync,custom(com.google.android.gms/.nearby.sharing.SharingTileService),screenbutton,wirelesspower,nfc,dolbyatomssound,edit</string>
     <string name="quick_settings_uwbsh_label">Control mágico de Xiaomi</string>
     <string name="quick_settings_wireless_label">Carga inalámbrica inversa</string>
     <string name="reboot_info_auto_boot">Próxima alarma: %s</string>

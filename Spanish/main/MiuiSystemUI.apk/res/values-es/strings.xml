@@ -819,8 +819,6 @@ Introduzca su PIN para desbloquear."</string>
     <string name="fingerprint_not_identified_title">Introducir contraseña</string>
     <string name="fingerprint_try_again_msg">"No se pudo verificar la huella dactilar, inténtalo de nuevo."</string>
     <string name="fingerprint_try_again_text">Inténtalo de nuevo</string>
-    <string name="fiveg_sa_switch_summary">Usar la red SA en la SIM secundaria (sólo para pruebas)</string>
-    <string name="fiveg_sa_vice_switch_title">SA en SIM secundaria</string>
     <string name="float_notification_snooze_strategy">Ocultar notificaciones flotantes temporalmente</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
@@ -1051,6 +1049,7 @@ con prioridad"</string>
     <string name="keyguard_carrier_default">Sin servicio</string>
     <string name="keyguard_charged">Cargado</string>
     <string name="keyguard_charging_back_to_lockscreen">Volver a la Pantalla de bloqueo</string>
+    <string name="keyguard_charging_double_fast_and_level_tip">Aumentar la velocidad de carga %s</string>
     <string name="keyguard_charging_info_last_charge_time">D/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Hoy %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">Ayer %s</string>
@@ -1314,7 +1313,7 @@ d MMMM"</string>
     <string name="mobile_data">Datos móviles</string>
     <string name="mobile_data_always_on">Mantener siempre datos móviles activados</string>
     <string name="mobile_data_always_on_summary">Mantener siempre activos los datos móviles, también cuando el Wi-Fi esté activo (para cambio rápido de red).</string>
-    <string name="mobile_data_disable_message">No tendrás acceso a datos móviles ni a Internet a través de %s. Solo podrás conectarte a Internet mediante Wi‑Fi.</string>
+    <string name="mobile_data_disable_message">"No tendrá acceso a los datos ni a Internet a través de %s. Internet solo estará disponible a través de Wi-Fi."</string>
     <string name="mobile_data_disable_message_default_carrier">tu operador</string>
     <string name="mobile_data_disable_title">¿Desactivar datos móviles?</string>
     <string name="mock_location_app">Seleccionar aplicación para localización ficticia</string>

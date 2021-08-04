@@ -137,7 +137,7 @@
     <string name="find_device_operation_failure_rpc">"No se pudo realizar la acción debido a un error de RPC."</string>
     <string name="find_device_send_sms_alert">Si cambias las tarjetas SIM, se enviará automáticamente un SMS para reactivar esta característica.</string>
     <string name="find_device_service_title">Encontrar dispositivo</string>
-    <string name="find_device_status_summary">Localiza y bloquea tu dispositivo, elimina también datos de forma remota</string>
+    <string name="find_device_status_summary">Localice y bloquee su dispositivo, borre datos o tome fotos de forma remota</string>
     <string name="find_device_status_title_pad">Encontrar dispositivo</string>
     <string name="find_device_status_title_phone">Encontrar dispositivo</string>
     <string name="finddevice_miservice_notification_content">"Bloquea tu dispositivo de forma remota si se pierde"</string>
@@ -287,7 +287,7 @@ Localiza y bloquea tu dispositivo en caso de que se pierda."</string>
     <string name="micloud_dspt_provision_v2">Usa Xiaomi Cloud para sincronizar datos, localizar tu dispositivo y compartir cosas con tus amigos.</string>
     <string name="micloud_dspt_provision_xms">Utiliza Xiaomi Cloud para sincronizar datos.</string>
     <string name="micloud_dspt_provision_xms_china">Use Xiaomi Cloud to sync data.</string>
-    <string name="micloud_find_device_close_alert_content">"Si desactiva esta función, no podrá localizar su dispositivo si lo pierde."</string>
+    <string name="micloud_find_device_close_alert_content">"Si desactiva Buscar dispositivo, no podrá localizar su dispositivo con esta función. Las personas con las que comparte su ubicación tampoco podrán recibir actualizaciones sobre su paradero."</string>
     <string name="micloud_find_device_close_alert_negtive">Desactivar</string>
     <string name="micloud_find_device_close_alert_positive">Mantener encendido</string>
     <string name="micloud_find_device_close_alert_title">¿Desactivar Encontrar dispositivo?</string>
@@ -317,7 +317,7 @@ Localiza y bloquea tu dispositivo en caso de que se pierda."</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat recomienda activar Encontrar dispositivo</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay recomienda activar Encontrar dispositivo</string>
     <string name="micloud_find_device_guide_progress">Activando Localizar dispositivo…</string>
-    <string name="micloud_find_device_guide_title">Inicia sesión en &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; con tu Cuenta Mi para localizar y bloquear tu dispositivo, marcarlo como perdido o eliminarr datos de forma remota. Mira los detalles &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;aquí&lt;/a&gt;</string>
+    <string name="micloud_find_device_guide_title">Inicie sesión en &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; con su Cuenta Mi para localizar y bloquear su dispositivo, marcarlo como perdido, borrar datos o tomar fotos de forma remota. Ver detalles &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;aquí&lt;/a&gt;.</string>
     <string name="micloud_find_device_inter_sms_alert_with_charge_hint">"&lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS internacional de pago&lt;/b&gt;&lt;/font&gt; se enviará automáticamente para activar este servicio.&lt;br/&gt;Cuando cambie de tarjeta SIM, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS de pago internacionales&lt;/b&gt;&lt;/font&gt; se enviarán automáticamente para su reactivación.&lt;br/&gt;Todas las tarifas de SMS generadas por las acciones antes mencionadas serán cobradas por su operador. Xiaomi no te cobrará por estos mensajes."</string>
     <string name="micloud_find_device_open_fail">"No se pudo activar Localizar dispositivo"</string>
     <string name="micloud_find_device_opened">Localización de dispositivo activada</string>
