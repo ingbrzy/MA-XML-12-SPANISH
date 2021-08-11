@@ -801,6 +801,11 @@ No perderás ningún dato de la aplicación."</string>
     <string name="battery_status_unknown">Error desconocido</string>
     <string name="battery_temperature_title">Temperatura</string>
     <string name="begin_date">Reinicio del período de facturación</string>
+    <string name="behavior_widget_get_installed_apps">Aplicaciones accedidas</string>
+    <string name="behavior_widget_get_location">Ubicación accedida</string>
+    <string name="behavior_widget_read_clipboard">Portapapeles accedido</string>
+    <string name="behavior_widget_read_contact">Contactos accedidos</string>
+    <string name="behavior_widget_read_write_external_storage">Archivos accedidos</string>
     <string name="best_booster_status">La velocidad de juegos es la mejor disponible hasta ahora.</string>
     <string name="bg_network_exception_title">Conexión de fondo restringida</string>
     <string name="bill_limit_notification_text_format">Tarjeta: %1$s | Saldo: %2$s CNY</string>
@@ -1634,6 +1639,7 @@ voluntario"</string>
     <string name="gamebooster_network_dialog_message">¿Permitir a la Seguridad conectarse a la red para poder usar todas las funciones de Game Turbo?</string>
     <string name="gamebooster_network_dialog_title">"Algunas funciones no están disponibles"</string>
     <string name="gamebox_app_not_find">Instala la aplicación primero.</string>
+    <string name="gamebox_brightness">Brillo</string>
     <string name="gamebox_browser_not_find">Instalar el Navegador Mi primero</string>
     <string name="gamebox_collimator">Vista</string>
     <string name="gamebox_display_1">Ninguno</string>
@@ -1659,10 +1665,13 @@ voluntario"</string>
     <string name="gamebox_immerson_open">"Activar el Modo inmersivo, no cambies de red…"</string>
     <string name="gamebox_macro">Combos</string>
     <string name="gamebox_manual_record">Grabar</string>
+    <string name="gamebox_mem_clean">Limpiar memoria</string>
     <string name="gamebox_milink">Emitir</string>
     <string name="gamebox_positive_button_text">OK (%1$ds)</string>
     <string name="gamebox_qq_not_find">Instala QQ y vuelve a intentarlo.</string>
     <string name="gamebox_recent_task_expand_fail">"Las aplicaciones que funcionan con accesos directos no están instaladas"</string>
+    <string name="gamebox_screenrecord">Grabar</string>
+    <string name="gamebox_screenshot">Captura de pantalla</string>
     <string name="gamebox_simcard">Cambiar tarjetas SIM</string>
     <string name="gamebox_time">Temporizador</string>
     <string name="gamebox_type_close">"No mostrar"</string>
@@ -1782,6 +1791,11 @@ Record sequences and use them anytime!"</string>
     <string name="gb_new_feature">Nueva función</string>
     <string name="gb_not_support_on_device">"Esta aplicación no se puede utilizar en la pantalla externa"</string>
     <string name="gb_operat_frequently">¡No tan rápido!</string>
+    <string name="gb_performance_balance">Equilibrado</string>
+    <string name="gb_performance_high">Rendimiento</string>
+    <string name="gb_performance_mode">Modo gaming</string>
+    <string name="gb_performance_tips">"El uso del modo de rendimiento durante mucho tiempo
+puede agotar la batería y provocar un sobrecalentamiento"</string>
     <string name="gb_shortcut_pref_title">Acceso directo en la Pantalla de inicio</string>
     <string name="gb_shoulder_key">Botones gatillo</string>
     <string name="gb_shoulder_key_add_show_btn">Mostrar botones virtuales durante los juegos</string>
@@ -1817,7 +1831,14 @@ Record sequences and use them anytime!"</string>
     <string name="gb_storage_game_uninstall">Desinstalar juegos</string>
     <string name="gb_storage_summary">"No mostrar los juegos que se añadieron a la caja de juegos en la Pantalla de inicio"</string>
     <string name="gb_storage_title">Eliminar juegos añadidos de la Pantalla de inicio</string>
+    <string name="gb_turbo_collimator_subtitle">Usar dispositivo de puntería</string>
+    <string name="gb_turbo_macro_subtitle">Realizar acciones de alto nivel</string>
     <string name="gb_turbo_new_flag">NUEVO</string>
+    <string name="gb_turbo_shoulder_subtitle">Configurar controles de juego</string>
+    <string name="gb_turbo_time_subtitle">Programa tus sesiones</string>
+    <string name="gb_turbo_voice_subtitle">Dale sabor a tus conversaciones</string>
+    <string name="gb_turbo_wonder_subtitle">Graba momentos clave</string>
+    <string name="gb_voice_change_audition_tip">Demo</string>
     <string name="gb_voice_change_settinged">El modificador de voz está activado</string>
     <string name="gb_voice_changer_cartoon">Dibujo animado</string>
     <string name="gb_voice_changer_dialog_upgrade_vip">Renueva tu suscripción para poder utilizar los comentarios en tiempo real.</string>
@@ -1859,6 +1880,8 @@ y descubre nuestro Modificador de voz!"</string>
     <string name="gb_voice_changer_user_status_remain_time">Fecha de expiración: %s</string>
     <string name="gb_voice_changer_user_status_renew">Renovar</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">Tu suscripción ha expirado. ¡Renueva la suscripción ahora para obtener beneficios!</string>
+    <string name="gb_voice_changer_user_vip_expired">Expirado</string>
+    <string name="gb_voice_changer_user_vip_remain_time">Fecha de expiración: %s</string>
     <string name="gb_wonderful_moment_toast_window_new_pop">"Graba momentos clave
 de tus sesiones de juego"</string>
     <string name="gb_wonderful_video_cancel">Cancelar</string>
@@ -1936,6 +1959,17 @@ de tus sesiones de juego"</string>
     <string name="gtb_dialog_title_smart_5g">Optimización de redes 5G</string>
     <string name="gtb_exit_game_to_gtb">Abrir la caja de juegos</string>
     <string name="gtb_exit_game_to_home">Volver a la Pantalla de inicio</string>
+    <string name="gtb_guide_finish">Omitir</string>
+    <string name="gtb_guide_gtb_button_done">Hecho</string>
+    <string name="gtb_guide_gtb_community_desc">Comparte tu experiencia con otros jugadores</string>
+    <string name="gtb_guide_gtb_community_title">Comunidad</string>
+    <string name="gtb_guide_gtb_func_desc">Mejora tu juego</string>
+    <string name="gtb_guide_gtb_func_title">Game Turbo</string>
+    <string name="gtb_guide_gtb_game_effected">Aplicado</string>
+    <string name="gtb_guide_gtb_game_new">Nuevo</string>
+    <string name="gtb_guide_gtb_line_new">¡Mejora tu juego con el nuevo Game Turbo!</string>
+    <string name="gtb_guide_small_window_app_desc">"Usa otras aplicaciones mientras juegas"</string>
+    <string name="gtb_guide_small_window_app_title">Ventanas flotantes</string>
     <string name="gtb_setting_item_summary_smart_5g">Cada vez que Game Turbo detecta una red 5G, puede conectar tu dispositivo a la mejor red disponible para reducir el retraso de red</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Aumenta la velocidad de conexión en un 10%-20% cuando estés conectado a routers Mi/Redmi</string>
     <string name="gtb_setting_item_title_brightness">Bajar brillo de la pantalla automáticamente</string>
@@ -4814,7 +4848,7 @@ Activar una de las funciones desactivará la otra."</string>
     <string name="warningcenter_policeassist_noti_send">Compartió su ubicación con la policía</string>
     <string name="warningcenter_policeassist_noti_title">Compartir ubicación durante llamadas de emergencia</string>
     <string name="warningcenter_policeassist_open_btn">Encender</string>
-    <string name="warningcenter_policeassist_open_content">"Envíe su información de ubicación a la policía mediante SMS o datos móviles automáticamente mientras llamas al 110, 120, 119, 122 o 12122."</string>
+    <string name="warningcenter_policeassist_open_content">"Envía tu información de ubicación a la policía mediante SMS o datos móviles automáticamente mientras llamas al 110, 120, 119 o 122."</string>
     <string name="warningcenter_policeassist_open_title">Comparta su ubicación con la policía durante las llamadas de emergencia</string>
     <string name="warningcenter_policeassist_privacy"><Data>\"He leído y acepto &lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;\".</Data></string>
     <string name="warningcenter_policeassist_title">Ubicación de emergencia</string>

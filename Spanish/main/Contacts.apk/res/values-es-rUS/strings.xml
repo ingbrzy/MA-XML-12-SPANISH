@@ -31,8 +31,10 @@
     <string name="accessibility_contact_detail">Detalles del contacto</string>
     <string name="account_container_title">Importado desde</string>
     <string name="account_default">Local</string>
+    <string name="account_dual_sdn">SDN %s</string>
     <string name="account_dual_sim">Tarjeta SIM %s</string>
     <string name="account_phone">Solo en el dispositivo, sin sincronizar</string>
+    <string name="account_sdn">SDN</string>
     <string name="account_sim">Tarjeta SIM</string>
     <string name="account_type_format">%1$s contactos</string>
     <string name="action_menu_overflow_description">Más opciones</string>
@@ -219,6 +221,8 @@
     <string name="call_disambig_title">Escoger número</string>
     <string name="call_fax_home">Llamar al fax de casa</string>
     <string name="call_fax_work">Llamar al fax del trabajo</string>
+    <string name="call_feature_volte">VoLTE</string>
+    <string name="call_feature_vowifi">VoWiFi</string>
     <string name="call_home">Llamar a casa</string>
     <string name="call_isdn">Llamar a ISDN</string>
     <string name="call_main">Llamar al teléfono principal</string>
@@ -262,7 +266,9 @@
     <string name="call_recording_notification_title">Notificar sobre llamadas grabadas</string>
     <string name="call_recording_notification_title_error">"No se pudo grabar la llamada"</string>
     <string name="call_recording_setting">Grabaciones de llamadas</string>
+    <string name="call_sim1_description">SIM 1</string>
     <string name="call_sim1_menu_title">Llamar con SIM 1</string>
+    <string name="call_sim2_description">SIM 2</string>
     <string name="call_sim2_menu_title">Llamar con SIM 2</string>
     <string name="call_sim_menu_title_suffix">(Principal)</string>
     <string name="call_telex">Llamar al télex</string>
@@ -333,6 +339,7 @@
     <string name="cloud_state_disabled">Sincronizar contactos con Xiaomi Cloud</string>
     <string name="cloud_state_loading">Un momento…</string>
     <string name="cloud_upgrade_recommend">"No se puede sincronizar los contactos debido a que el espacio de almacenamiento en la nube es insuficiente. Mejore su plan de almacenamiento en la nube."</string>
+    <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
     <string name="composer_failed_to_get_database_infomation">"Error al obtener información de la base de datos."</string>
@@ -371,6 +378,7 @@
     <string name="contact_edit_title_readonly">Contacto de solo lectura</string>
     <string name="contact_editor_prompt_multiple_accounts">Guardar contacto para</string>
     <string name="contact_editor_prompt_zero_accounts">Almacenar en móvil o en una nueva cuenta en línea</string>
+    <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
     <string name="contact_import_methods_dialog_mi_mover">Importar usando Mi Mudanza</string>
     <string name="contact_import_methods_dialog_title">Seleccionar método de importación</string>
     <string name="contact_is_deleted">Contacto eliminado</string>
@@ -501,6 +509,7 @@ Mi Roaming necesita conectarse a Internet y acceder a la información de su ubic
     <string name="dialer_firewall_entry_name">Registro de llamadas bloqueadas</string>
     <string name="dialer_menu_description">Mostrar menús</string>
     <string name="dialer_menu_title">Opciones del menú</string>
+    <string name="dialer_title_divider">" ｜ "</string>
     <string name="dialog_delete_contact_button_delete">Eliminar</string>
     <string name="dialog_delete_contact_button_keep">Mantener</string>
     <string name="dialog_delete_contact_content">Xiaomi Cloud quiere eliminar algunos de sus contactos. ¿Eliminar ahora?</string>
@@ -579,17 +588,48 @@ Motivo: \"%s\""</string>
     <string name="firewall_setting">Lista de bloqueo</string>
     <string name="five_letter">JKL</string>
     <string name="flow_use_analyse">Estadísticas de uso</string>
+    <string name="fmt_date_day">dd</string>
+    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_numeric_day">dd</string>
+    <string name="fmt_date_numeric_month">MM</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_short_year_month">MMM. yyyy</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time_12hour">hh</string>
+    <string name="fmt_time_12hour_minute">hh:mm</string>
+    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
+    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
+    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
+    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
+    <string name="fmt_time_12hour_pm">hh aa</string>
+    <string name="fmt_time_24hour">H</string>
+    <string name="fmt_time_24hour_minute">HH:mm</string>
+    <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
+    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
+    <string name="fmt_time_millis">S</string>
+    <string name="fmt_time_minute">m</string>
+    <string name="fmt_time_minute_second">m:s</string>
+    <string name="fmt_time_minute_second_millis">m:s.S</string>
+    <string name="fmt_time_second">s</string>
+    <string name="fmt_time_second_millis">s.S</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
     <string name="four_letter">GHI</string>
     <string name="frequentList">Frecuentes</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Nombre</string>
     <string name="gallery">Galería</string>
     <string name="ghostData_company">Compañía</string>
@@ -598,6 +638,7 @@ Motivo: \"%s\""</string>
     <string name="group_create_fail_toast">"No se pudo crear el grupo"</string>
     <string name="group_create_success_toast">Grupo creado</string>
     <string name="group_delete_success_toast">Grupo eliminado</string>
+    <string name="group_detail_label_placeholder"> </string>
     <string name="group_edit_field_hint_text">Nombre de grupo</string>
     <string name="group_member_remove_fail_toast">No eliminado del grupo</string>
     <string name="group_member_remove_success_toast">Eliminado del grupo</string>
@@ -700,7 +741,7 @@ Motivo: \"%s\""</string>
     <string name="menu_done">Aceptar</string>
     <string name="menu_newContact">Crear nuevo contacto</string>
     <string name="menu_newContactButton">Añadir</string>
-    <string name="menu_new_favorite_action_bar">Añadir a favoritos</string>
+    <string name="menu_new_favorite_action_bar">Agregar a favoritos</string>
     <string name="menu_new_group_action_bar">Nuevo</string>
     <string name="menu_not_redirect_calls_to_vm">El Buzón de Voz no está en uso</string>
     <string name="menu_redirect_calls_to_vm">Todas las llamadas al Buzón de Voz</string>
@@ -713,8 +754,10 @@ Motivo: \"%s\""</string>
     <string name="menu_sync_remove">Eliminar sincronización de grupo</string>
     <string name="midnight">Noche</string>
     <string name="miprofile_account_type">Tarjetas de contacto</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Editar perfil</string>
     <string name="miprofile_name">Mi perfil</string>
+    <string name="miprofile_nick_name_divider">"  |  "</string>
     <string name="miprofile_notice_close">Cerrar</string>
     <string name="miprofile_switch_off_alertdialog_message">"No podrá intercambiar tarjetas de contacto con otras personas."</string>
     <string name="missing_name">(Sin nombre)</string>
@@ -814,7 +857,7 @@ Motivo: \"%s\""</string>
     <string name="night">Noche</string>
     <string name="nine_letter">WXYZ</string>
     <string name="noAccounts">Para crear grupos necesita una cuenta.</string>
-    <string name="no_contact_selected">Seleccione un contacto para ver los detalles</string>
+    <string name="no_contact_selected">Seleccione un contacto para ver los detalles.</string>
     <string name="no_contacts_dialog_message">"Los contactos podrían estar almacenados en su tarjeta SIM. Intente importarlos desde su tarjeta SIM al almacenamiento interno de su dispositivo y vuelva a intentarlo."</string>
     <string name="no_contacts_dialog_title">"No se encontraron contactos"</string>
     <string name="no_phone_no_shortcut">"No puede crear accesos directos para los contactos sin números de teléfono"</string>
@@ -840,6 +883,7 @@ Motivo: \"%s\""</string>
     <string name="option_view_contact">Ver</string>
     <string name="option_view_group">Ver</string>
     <string name="organizationLabelsGroup">Puesto</string>
+    <string name="organization_company_and_title">%1$s, %2$s</string>
     <string name="pay_fail">"No se pudo completar el pago"</string>
     <string name="pay_success">Pago completado con éxito</string>
     <string name="payphone">Teléfono público</string>
@@ -852,6 +896,7 @@ Motivo: \"%s\""</string>
     <string name="permission_record_audio_desc">Para usar su voz durante la verificación de identificación</string>
     <string name="permission_write_external_storage_desc">Para guardar datos de aplicaciones</string>
     <string name="phoneLabelsGroup">Teléfono</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Número demasiado largo</string>
     <string name="phone_primary">Principal</string>
     <string name="photoPickerNotFoundText">No hay imágenes disponibles en el dispositivo.</string>
@@ -875,6 +920,7 @@ Motivo: \"%s\""</string>
     <string name="postal_postcode">Código postal</string>
     <string name="postal_region">Estado</string>
     <string name="postal_street">Calle</string>
+    <string name="pound">\#</string>
     <string name="pref_key_photo_word_title">Asignar fotos a contactos</string>
     <string name="pref_key_rebuild_t9_index_message">Reconstruir índice para resolver problemas con la búsqueda</string>
     <string name="pref_key_rebuild_t9_index_title">Reconstruir índice de datos</string>
@@ -929,6 +975,7 @@ Motivo: \"%s\""</string>
     <string name="private_num">Número privado</string>
     <string name="profileSavedErrorToast">"No se pudieron guardar los cambios en mi perfil"</string>
     <string name="profileSavedToast">Perfil guardado</string>
+    <string name="profile_binded_numbers">%s</string>
     <string name="profile_delete_toast">Perfil eliminado con éxito</string>
     <string name="profile_name">Mi perfil</string>
     <string name="profile_name_photo">Foto</string>
@@ -1028,6 +1075,7 @@ Motivo: \"%s\""</string>
     <string name="simContacts_empty">No hay contactos en su tarjeta SIM</string>
     <string name="simContacts_emptyLoading">Cargando contactos desde la tarjeta SIM…</string>
     <string name="simContacts_title">Contactos de la tarjeta SIM</string>
+    <string name="sim_account_name">SIM</string>
     <string name="sim_capacity">Ver espacio en la tarjeta SIM</string>
     <string name="sim_capacity_content">%1$d en total | %2$d usados</string>
     <string name="sim_card_no_free_space_message">No hay suficiente espacio</string>
@@ -1050,8 +1098,10 @@ Motivo: \"%s\""</string>
     <string name="sim_indexed_contact_not_exist">La posición de %1$d en la tarjeta SIM no es válida. La posición debe estar entre %2$d y %3$d.</string>
     <string name="sim_no_contact">No hay contactos en su tarjeta SIM</string>
     <string name="sim_unloaded">"Tarjeta SIM no instalada"</string>
+    <string name="sina_weibo">Sina WeiBo</string>
     <string name="single_group_list_empty">Sin miembros en el grupo</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Compañías</string>
     <string name="smart_group_company_unavailable">No hay info de la compañía</string>
     <string name="smart_group_frequency_1">En el mes pasado</string>
@@ -1112,24 +1162,29 @@ Motivo: \"%s\""</string>
     <string name="solar_term_winter_solstice">Solsticio de invierno</string>
     <string name="special_code_security_exception">"No se pudo completar la acción. Este no es su teclado de marcación predeterminado"</string>
     <string name="splitConfirmation_title">¿Separar contactos?</string>
+    <string name="star">*</string>
+    <string name="star_letter">,</string>
     <string name="starredList">Destacados</string>
     <string name="starred_contacts">Favoritos</string>
     <string name="status_available">Disponible</string>
     <string name="status_away">Ausente</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Ocupado</string>
     <string name="strequentList">Favoritos</string>
     <string name="success_message_import_from_account">Contacto importado</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom.</string>
+    <string name="sv">SV</string>
     <string name="t9_search_empty_create_contact">Nuevo contacto</string>
     <string name="t9_search_empty_edit_contact">Añadir a contactos</string>
     <string name="t9_search_empty_send_sms">Enviar mensaje</string>
     <string name="t9_search_empty_video_call">Video llamada</string>
     <string name="t9_search_guide_pinyin_title1">Introduzca números para encontrar contactos</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">Ingrese %d y %d para buscar Debbie Smith</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">Introduzca \"%d\" y \"%d\" para buscar a \"Diego Sánchez\"</string>
     <string name="t9_search_guide_zhuyin_title1">Introduzca números para encontrar contactos</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false">Ingrese %d y %d para buscar a Jeff Max</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">Introduzca \"%d\" y \"%d\" para buscar a \"Jesús Martínez\"</string>
     <string name="take_new_photo">Tomar una nueva foto</string>
     <string name="take_photo">Tomar una foto</string>
     <string name="text_msim_balance">Usado hoy</string>
@@ -1236,7 +1291,7 @@ Seleccione una de las siguientes opciones:"</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mie</string>
-    <string name="wifi_pad_disable_phone">"No se pueden realizar llamadas en este dispositivo"</string>
+    <string name="wifi_pad_disable_phone">"No se puede realizar llamadas en este dispositivo"</string>
     <string name="wipe_data">Limpiar datos</string>
     <string name="yellowPageNavigationLabel">Páginas amarillas</string>
     <string name="yellowpage_address_tag">Dirección</string>
@@ -1244,4 +1299,5 @@ Seleccione una de las siguientes opciones:"</string>
     <string name="yellowpage_search_the_yellowpage">Buscar Páginas amarillas</string>
     <string name="yesterday">Ayer</string>
     <string name="zero_items_selected">Seleccione elementos</string>
+    <string name="zero_letter">+</string>
 </resources>

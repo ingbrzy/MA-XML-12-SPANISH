@@ -2457,6 +2457,7 @@ Si el problema persiste, es posible que debas desinstalar la app para mejorar el
     <string name="disable_service_message">Si presionas %1$s, se detendrá %2$s.</string>
     <string name="disable_service_title">¿Quieres detener %1$s?</string>
     <string name="disable_text">Inhabilitar</string>
+    <string name="disable_uft">Desactivar uft</string>
     <string name="disable_wifi_hotspot_title">No usar hotspot de Wi‑Fi</string>
     <string name="disable_wifi_hotspot_when_bluetooth_and_ethernet_on">Solo compartir la conexión a Internet mediante Bluetooth y Ethernet</string>
     <string name="disable_wifi_hotspot_when_bluetooth_on">Solo compartir la conexión a Internet mediante Bluetooth</string>
@@ -2705,6 +2706,7 @@ Puede ver los registros generados en el Administrador de archivos."</string>
     <string name="enable_local_backup">Encender</string>
     <string name="enable_local_backup_cancel">Cancelar</string>
     <string name="enable_local_backup_message">Active esta función para poder guardar copias de seguridad en este dispositivo y copiarlas en su ordenador o dispositivo de almacenamiento USB. ¿Activar ahora?</string>
+    <string name="enable_local_backup_message_intledition">Active esta función para poder guardar copias de seguridad en este dispositivo y copiarlas en su computadora. ¿Activar ahora?</string>
     <string name="enable_local_backup_ok">Ok</string>
     <string name="enable_local_backup_title">Respaldos locales</string>
     <string name="enable_mms_notification_channel_title">Mensaje MMS</string>
@@ -2727,6 +2729,7 @@ Puede ver los registros generados en el Administrador de archivos."</string>
     <string name="enable_terminal_summary">Hablilitar aplicación terminal con acceso shell local</string>
     <string name="enable_terminal_title">Terminal local</string>
     <string name="enable_text">Habilitar</string>
+    <string name="enable_uft">Activar uft</string>
     <string name="enable_verbose_vendor_logging">Habilitar el registro detallado del proveedor</string>
     <string name="enable_verbose_vendor_logging_summary">Incluye registros de proveedores adicionales específicos del dispositivo en los informes de errores, que pueden contener información privada, usar más batería y/o usar más almacenamiento.</string>
     <string name="enable_wifi_display">Pantalla inalámbrica</string>
@@ -6734,6 +6737,11 @@ Nota: No puedes usar tu huella digital para desbloquear este dispositivo. Para o
     <string name="settings_backup">Hacer una copia de seguridad de configuraciones</string>
     <string name="settings_backup_summary">Realizar copia de seguridad de mi configuración</string>
     <string name="settings_button">Configuración</string>
+    <string name="settings_charging_at_fast_speed">Carga rápida</string>
+    <string name="settings_charging_at_normal_speed">Cargando</string>
+    <string name="settings_charging_at_top_speed">Cargando a máxima velocidad</string>
+    <string name="settings_charging_fully_charged">Completamente cargado</string>
+    <string name="settings_charging_not_charging">Sin cargar</string>
     <string name="settings_forbidden_message">Este ajuste está restringido</string>
     <string name="settings_label">Configuración</string>
     <string name="settings_label_launcher">Configuración</string>
@@ -7431,6 +7439,7 @@ Intenta usar un ^3 más rápido o usa ^4 como almacenamiento portátil."</string
     <string name="sunday_shortest">Dom</string>
     <string name="sunlight_mode">Modo de luz solar</string>
     <string name="sunlight_mode_summary">Ajustar el brillo a una luz ambiental intensa cuando el brillo automático esté apagado</string>
+    <string name="sunlight_mode_summary_new">Ajuste el brillo a una luz ambiental fuerte para evitar que la pantalla se oscurezca demasiado. Aparecerá un pequeño icono de sol en la parte superior de la pantalla cuando la luz ambiental sea fuerte.</string>
     <string name="supl_not_set">&lt;No establecido&gt;</string>
     <string name="supplicant_state_label">Estado suplicante:</string>
     <string name="support_summary">Artículos de ayuda, teléfono y chat, comenzar</string>

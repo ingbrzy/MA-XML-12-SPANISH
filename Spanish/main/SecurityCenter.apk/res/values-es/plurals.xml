@@ -152,6 +152,14 @@
         <item quantity="other">%s aplicaciones serán protegidas con el Bloqueo de aplicaciones</item>
         <item quantity="one">%s aplicación será protegida con el Bloqueo de aplicaciones</item>
     </plurals>
+    <plurals name="behavior_widget_app_text">
+        <item quantity="other">%2$d aplicaciones incluidas %1$s</item>
+        <item quantity="one">%2$d aplicación incluida %1$s</item>
+    </plurals>
+    <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d veces</item>
+        <item quantity="one">%d vez</item>
+    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d aplicaciones se pueden conectar a la red en segundo plano</item>
         <item quantity="one">%d aplicación se puede conectar a la red en segundo plano</item>

@@ -131,13 +131,15 @@
     <string name="feedback_custom_hint">"Describa los problemas que ha encontrado aquí. Si está dando sugerencias, le agradeceríamos más detalles."</string>
     <string name="find_device">Encontrar dispositivo</string>
     <string name="find_device_dspt_provision">Si pierde su dispositivo, puede entrar en &lt;font color=#0097FF&gt;%s&lt;/font&gt; para localizarlo, bloquearlo o restablecerlo. Puede activar o desactivar esta función en cualquier momento desde Ajustes.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">Compruebe su conexión de datos y vuelva a intentarlo.</string>
     <string name="find_device_error_server">Error de servidor</string>
     <string name="find_device_gdpr_prompt">Al activar Encontrar dispositivo, usted acepta nuestra <a href="app://com.miui.cloudservice.gdpr.license"><u>Política de Privacidad</u></a>. Si necesita revocar la autorización, desactive esta función.</string>
     <string name="find_device_operation_failure_rpc">"No se pudo realizar la acción debido a un error RPC."</string>
     <string name="find_device_send_sms_alert">Si cambia de tarjeta SIM, se enviará automáticamente una otra SMS para reactivar esta función.</string>
     <string name="find_device_service_title">Encontrar dispositivo</string>
-    <string name="find_device_status_summary">Localice y bloquee su dispositivo, borre datos o tome fotos de forma remota</string>
+    <string name="find_device_status_summary">Localice y bloquee su dispositivo, también borre datos de forma remota</string>
     <string name="find_device_status_title_pad">Encontrar dispositivo</string>
     <string name="find_device_status_title_phone">Encontrar dispositivo</string>
     <string name="finddevice_miservice_notification_content">"Bloquee su dispositivo de manera remota en caso de pérdida"</string>
@@ -287,7 +289,7 @@ Localice y bloquee su dispositivo en caso de extravío."</string>
     <string name="micloud_dspt_provision_v2">Use Xiaomi Cloud para sincronizar datos, encontrar su dispositivo y compartir cosas con sus amigos.</string>
     <string name="micloud_dspt_provision_xms">Use Xiaomi Cloud para sincronizar datos.</string>
     <string name="micloud_dspt_provision_xms_china">Use Xiaomi Cloud to sync data.</string>
-    <string name="micloud_find_device_close_alert_content">"Si desactiva Buscar dispositivo, no podrá localizar su dispositivo con esta función. Las personas con las que comparte su ubicación tampoco podrán recibir actualizaciones sobre su paradero."</string>
+    <string name="micloud_find_device_close_alert_content">"Si desactiva Buscar dispositivo, no podrá ubicar su dispositivo con esta función. Si su dispositivo es compatible con NFC, todas sus tarjetas bancarias y tarjetas de acceso se eliminarán de Mi Pay. Las personas con las que comparte su ubicación tampoco podrán recibir actualizaciones sobre su paradero."</string>
     <string name="micloud_find_device_close_alert_negtive">Desactivar de todos modos</string>
     <string name="micloud_find_device_close_alert_positive">Continuar</string>
     <string name="micloud_find_device_close_alert_title">¿Desactivar Encontrar dispositivo?</string>
@@ -317,15 +319,18 @@ Localice y bloquee su dispositivo en caso de extravío."</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat recomienda activar Encontrar dispositivo</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay recomienda activar Encontrar dispositivo</string>
     <string name="micloud_find_device_guide_progress">Activando Encontrar dispositivo…</string>
-    <string name="micloud_find_device_guide_title">Inicie sesión en &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; con su Cuenta Mi para localizar y bloquear su dispositivo, marcarlo como perdido, borrar datos o tomar fotos de forma remota. Ver detalles &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;aquí&lt;/a&gt;.</string>
+    <string name="micloud_find_device_guide_title">Inicie sesión en &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; con su cuenta Mi para localizar y bloquear su dispositivo, marcarlo como perdido o borrar datos de forma remota. Ver detalles &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;aquí&lt;/a&gt;</string>
     <string name="micloud_find_device_inter_sms_alert_with_charge_hint">"&lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS internacional de pago&lt;/b&gt;&lt;/font&gt; se enviará automáticamente para activar este servicio.&lt;br/&gt;Cuando cambie de tarjeta SIM, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS de pago internacionales&lt;/b&gt;&lt;/font&gt; se enviarán automáticamente para su reactivación.&lt;br/&gt;Todas las tarifas de SMS generadas por las acciones antes mencionadas serán cobradas por su operador. Xiaomi no te cobrará por estos mensajes."</string>
     <string name="micloud_find_device_open_fail">"No se pudo activar Encontrar dispositivo"</string>
     <string name="micloud_find_device_opened">Encontrar dispositivo activado</string>
     <string name="micloud_find_device_opened_content">Encuentre su dispositivo en %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_button">Reactivar Encontrar dispositivo</string>
     <string name="micloud_find_device_verify_close">Desactivar Encontrar dispositivo</string>
     <string name="micloud_find_device_verify_fail">"No se pudo reactivar Encontrar dispositivo"</string>
     <string name="micloud_find_device_verify_progress">Reactivando Encontrar dispositivo…</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">Sincronización cancelada. Vuelva a intentarlo.</string>
     <string name="micloud_main_head_menu_cloud_backup">Respaldo de la pantalla de inicio</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">Ajustes del sistema y diseño de la Pantalla de inicio</string>
@@ -871,6 +876,8 @@ Es posible que la información de ubicación no se informe cuando la conexión d
     <string name="tuesday_shortest">Mar</string>
     <string name="user_agreement_content">"Al utilizar este servicio, usted acepta %s."</string>
     <string name="user_agreement_link">"Términos de Servicio de Xiaomi Cloud"</string>
+    <string name="user_agreement_p5">"
+"</string>
     <string name="user_agreement_title">"Términos de Servicio de Xiaomi Cloud"</string>
     <string name="user_storage_info_available_text_prefix">%s disponible</string>
     <string name="v7_preference_off">DESACTIVADA</string>

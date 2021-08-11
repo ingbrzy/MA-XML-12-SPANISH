@@ -356,6 +356,7 @@ Envíe este código al supervisor."</string>
     <string name="failed_dup_secure_phone_number">Este número telefónico ya está asociado con otra Cuenta Mi</string>
     <string name="failed_to_fetch_data">"No se pudo cargar la información."</string>
     <string name="failure">"No se pudo descargar"</string>
+    <string name="favor_movie">Películas</string>
     <string name="favor_online_video">Videos</string>
     <string name="favor_playlist">Listas de reproducción</string>
     <string name="favorite">Favoritos</string>
@@ -459,10 +460,8 @@ Envíe este código al supervisor."</string>
     <string name="galleryplus_orientation_lock">Orientación bloqueada con éxito</string>
     <string name="galleryplus_orientation_unlock">La orientación de la pantalla está desbloqueado</string>
     <string name="galleryplus_permission_content">Conceda a Mi Video los permisos requeridos para poder usar esta función.</string>
-    <string name="galleryplus_permission_content2">"Para poder usar esta función, vaya a Ajustes &gt; Aplicaciones &gt; Mi Video &gt; Permisos de la aplicación y permita a Mi Video hacer lo siguiente:
-
-1. Acceder al almacenamiento
-2. Acceder a la ID del dispositivo"</string>
+    <string name="galleryplus_permission_content_opt">Mi Video necesita permisos para funcionar con normalidad. Borre todos los datos de la aplicación en la Configuración y vuelva a abrir la aplicación.</string>
+    <string name="galleryplus_permission_content_xms">Mi Video necesita permisos para funcionar con normalidad. Vaya a Configuración y otorgue a Mi Video los permisos necesarios.</string>
     <string name="galleryplus_permission_open_settings">Ajustes</string>
     <string name="galleryplus_permission_refuse">No, gracias</string>
     <string name="galleryplus_permission_retry">Permisos</string>
@@ -568,6 +567,9 @@ para videos"</string>
     <string name="logo_neverthink">Curated by Neverthink.tv</string>
     <string name="logout">Cerrar sesión</string>
     <string name="logout_account">Cerrar sesión</string>
+    <string name="long_video_no_more_content">"Eso es todo por ahora"</string>
+    <string name="long_video_watch_on">Ver en</string>
+    <string name="long_video_you_may_also_like">También te puede interesar</string>
     <string name="lp_base_folder">Tarjeta SD</string>
     <string name="lp_play_mode_list_loop">Repetir todo</string>
     <string name="lp_play_mode_pause">Reproducir uno</string>
@@ -846,6 +848,7 @@ para videos"</string>
     <string name="open_settings">Ajustes</string>
     <string name="order_recently_subscribe">Suscripciones recientes</string>
     <string name="order_recently_updated">Actualizado recientemente</string>
+    <string name="out_of_memory_background_playback_is_suspended">Reproducción en segundo plano en pausa debido a memoria insuficiente</string>
     <string name="ovp_alert_dialog_download_install_task">Descargando complemento HD…</string>
     <string name="ovp_buffering_video_netplay_label_v5">Almacenando en búfer…</string>
     <string name="ovp_category">Categorías</string>

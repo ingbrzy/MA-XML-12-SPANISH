@@ -1023,12 +1023,14 @@ Selección"</string>
     <string name="fiveg_upperlayer_indication1">Estado de indicación de la capa superior:</string>
     <string name="flash_when_ring_summary">Utilizar el flash para notificar acerca de llamadas entrantes</string>
     <string name="flash_when_ring_title">Flash al recibir llamada</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fmt_time_12hour">"h 'en punto'"</string>
+    <string name="fmt_time_24hour">"HH 'en punto'"</string>
     <string name="fold_answer_pref_summary">Plegar el dispositivo para aceptar una llamada entrante automáticamente</string>
     <string name="fold_answer_pref_title">Plegar para aceptar llamadas</string>
     <string name="forbidden_network">(prohibida)</string>
@@ -2626,6 +2628,8 @@ posible que el almacenamiento de credenciales no esté habilitado"</string>
     <string name="wild_prompt_str">Reemplazar el carácter comodín por</string>
     <string name="window_animation_scale_title">Escala de animación de ventana</string>
     <string name="wrong_password">La contraseña introducida no es correcta</string>
+    <string name="xcap_setting_summary">Restricción de llamadas, desvío de llamadas del buzón de voz &amp; y llamada en espera</string>
+    <string name="xcap_setting_title">Configuración del servicio de llamadas</string>
     <string name="yesterday">Ayer</string>
     <string name="zen_alarm_warning">"No oirás la próxima alarma (%1$s)"</string>
     <string name="zen_alarm_warning_indef">"Solo oirás la próxima alarma (%1$s) si desactivas esta opción antes"</string>

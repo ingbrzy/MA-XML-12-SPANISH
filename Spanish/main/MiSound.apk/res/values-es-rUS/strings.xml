@@ -32,9 +32,7 @@
     <string name="afternoon">Tarde</string>
     <string name="am">AM</string>
     <string name="app_name">Audífonos</string>
-    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="apply_sound">Aplicar</string>
-    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Expandir a la mitad</string>
     <string name="can_you_here">¿No puede escuchar el sonido?</string>
     <string name="character_counter_content_description">Caracteres ingresados %1$d de %2$d</string>
@@ -109,8 +107,6 @@
     <string name="evening">Tarde</string>
     <string name="expand_button_title">Opciones avanzadas</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
-    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
-    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="first_note">Pruebe su percepción auditiva para ajustar el volumen.</string>
     <string name="fmt_chinese_date">N mes e</string>
     <string name="fmt_date">D</string>
@@ -193,7 +189,6 @@
     <string name="hearing_assist_volume">"Volumen del micrófono"</string>
     <string name="hearing_of_left_ear">Oído izquierdo</string>
     <string name="hearing_of_right_ear">Oído derecho</string>
-    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="high_pitch">Tono agudo</string>
     <string name="icon_content_description">Icono de diálogo</string>
     <string name="input_head_set">Colóquese los audífonos</string>
@@ -293,6 +288,8 @@
     <string name="mtrl_picker_a11y_next_month">Cambiar al próximo mes</string>
     <string name="mtrl_picker_a11y_prev_month">Cambiar al mes anterior</string>
     <string name="mtrl_picker_announce_current_selection">Selección actual: %1$s</string>
+    <string name="mtrl_picker_cancel">@android:string/cancel</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Seleccione la fecha</string>
     <string name="mtrl_picker_date_header_unselected">Fecha seleccionada</string>

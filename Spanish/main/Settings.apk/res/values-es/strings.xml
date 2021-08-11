@@ -2457,6 +2457,7 @@ Si el problema persiste, desinstala la aplicación para mejorar el rendimiento d
     <string name="disable_service_message">Si tocas %1$s, se detendrá %2$s.</string>
     <string name="disable_service_title">¿Detener %1$s?</string>
     <string name="disable_text">Inhabilitar</string>
+    <string name="disable_uft">Desactivar uft</string>
     <string name="disable_wifi_hotspot_title">No usar el punto de acceso Wi‑Fi</string>
     <string name="disable_wifi_hotspot_when_bluetooth_and_ethernet_on">Compartir Internet solo por Bluetooth y Ethernet</string>
     <string name="disable_wifi_hotspot_when_bluetooth_on">Compartir Internet solo mediante Bluetooth</string>
@@ -2705,6 +2706,7 @@ Puede ver los registros generados en el Administrador de archivos."</string>
     <string name="enable_local_backup">Encender</string>
     <string name="enable_local_backup_cancel">Cancelar</string>
     <string name="enable_local_backup_message">Active esta función para poder guardar copias de seguridad en este dispositivo y copiarlas en su ordenador o dispositivo de almacenamiento USB. ¿Activar ahora?</string>
+    <string name="enable_local_backup_message_intledition">Active esta función para poder guardar copias de seguridad en este dispositivo y copiarlas en su computadora. ¿Activar ahora?</string>
     <string name="enable_local_backup_ok">Ok</string>
     <string name="enable_local_backup_title">Respaldos locales</string>
     <string name="enable_mms_notification_channel_title">Mensaje MMS</string>
@@ -2727,6 +2729,7 @@ Puede ver los registros generados en el Administrador de archivos."</string>
     <string name="enable_terminal_summary">Habilitar aplicación terminal con acceso a la shell local</string>
     <string name="enable_terminal_title">Terminal local</string>
     <string name="enable_text">Habilitar</string>
+    <string name="enable_uft">Activar uft</string>
     <string name="enable_verbose_vendor_logging">Habilitar el registro detallado del proveedor</string>
     <string name="enable_verbose_vendor_logging_summary">Incluir registros de proveedores adicionales específicos del dispositivo en los informes de errores, que pueden contener información privada, usar más batería y/o usar más almacenamiento.</string>
     <string name="enable_wifi_display">Reproducción inalámbrica</string>
@@ -6733,6 +6736,11 @@ Nota: No puedes utilizar tu huella digital para desbloquear este dispositivo. Si
     <string name="settings_backup">Hacer copia de seguridad de configuración</string>
     <string name="settings_backup_summary">Hacer copia de seguridad de mi configuración</string>
     <string name="settings_button">Ajustes</string>
+    <string name="settings_charging_at_fast_speed">Carga rápida</string>
+    <string name="settings_charging_at_normal_speed">Cargando</string>
+    <string name="settings_charging_at_top_speed">Cargando a máxima velocidad</string>
+    <string name="settings_charging_fully_charged">Completamente cargado</string>
+    <string name="settings_charging_not_charging">Sin cargar</string>
     <string name="settings_forbidden_message">Esta configuración está desactivada</string>
     <string name="settings_label">Ajustes</string>
     <string name="settings_label_launcher">Ajustes</string>
@@ -7429,6 +7437,7 @@ Prueba a utilizar una ^3 más rápida o utiliza esta ^4 como almacenamiento port
     <string name="sunday_shortest">Dom</string>
     <string name="sunlight_mode">Modo diurno</string>
     <string name="sunlight_mode_summary">Ajusta el brillo en condiciones de luz ambiental intensa cuando el brillo automático está desactivado</string>
+    <string name="sunlight_mode_summary_new">Ajuste el brillo a una luz ambiental fuerte para evitar que la pantalla se oscurezca demasiado. Aparecerá un pequeño icono de sol en la parte superior de la pantalla cuando la luz ambiental sea fuerte.</string>
     <string name="supl_not_set">&lt;No configurado&gt;</string>
     <string name="supplicant_state_label">Estado suplicante:</string>
     <string name="support_summary">Artículos de ayuda, teléfono y chat, cómo empezar</string>
