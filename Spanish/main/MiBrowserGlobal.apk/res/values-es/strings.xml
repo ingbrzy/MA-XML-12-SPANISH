@@ -117,7 +117,7 @@
     <string name="add_game_center_to_homescreen">¿Añadir un acceso directo en la Pantalla de inicio?</string>
     <string name="add_new_bookmark">Añadir marcador</string>
     <string name="add_new_quicklink">Añadir a la página de inicio</string>
-    <string name="add_pwa_to_homescreen">¿Añadir un acceso directo a la Pantalla de inicio para esta página web?</string>
+    <string name="add_pwa_to_homescreen">¿Añadir un acceso directo en la Pantalla de inicio para esta página web?</string>
     <string name="add_ql_bm_title">Guardar</string>
     <string name="add_quicklink_to_popular">Añadir a la página de inicio</string>
     <string name="add_quicklinks">Añadir</string>
@@ -148,8 +148,8 @@
     <string name="app_name_miuiwallpaper">Fondos de pantalla</string>
     <string name="app_name_screenshot">Capturas de pantalla</string>
     <string name="app_new_version">La última versión de esta aplicación ya está instalada</string>
-    <string name="app_uninstall_description_content">"El navegador es una aplicación del sistema. No podrá utilizar los servicios de búsqueda y navegación web que proporciona después de desinstalar la aplicación."</string>
-    <string name="app_uninstall_description_title">¿Desinstalar el navegador?</string>
+    <string name="app_uninstall_description_content">"Navegador es una aplicación del sistema. No podrás utilizar los servicios de búsqueda y navegación web que proporciona después de desinstalar la aplicación."</string>
+    <string name="app_uninstall_description_title">¿Desinstalar Navegador?</string>
     <string name="app_update_install">Listo para instalar la actualización.</string>
     <string name="application_name">Navegador</string>
     <string name="aqi_quality_index_break">Severamente nocivo</string>
@@ -160,7 +160,7 @@
     <string name="aqi_quality_index_moderate">Moderado</string>
     <string name="aqi_quality_index_pure">Excelente</string>
     <string name="aqi_quality_index_unhealthy">Insalubre</string>
-    <string name="articles_collection_empty">Aún no hay artículos</string>
+    <string name="articles_collection_empty">No hay artículos todavía</string>
     <string name="auth_fail_warning">Sesión expirada. Inicia sesión de nuevo.</string>
     <string name="autoSwithcingSearchEngineTips">Cambiado al buscador frecuente</string>
     <string name="autologin_bar_error">"No se pudo iniciar sesión"</string>
@@ -404,7 +404,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="data_error">Error de datos</string>
     <string name="data_format_ymd">dd/MM/yyyy</string>
     <string name="date_picker_lunar">Calendario chino tradicional</string>
-    <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
+    <string name="date_time_picker_dialog_title">Ajustar fecha y hora</string>
     <string name="debug_youtube_file">Depurar archivo de youtube</string>
     <string name="debug_youtube_in_release">Depurar youtube en la versión</string>
     <string name="delete">Eliminar</string>
@@ -632,7 +632,7 @@ Envía este código al supervisor."</string>
     <string name="feedback_info_location">"Región: "</string>
     <string name="feedback_info_product">"Modelo: "</string>
     <string name="feedback_info_system">"Sistema: "</string>
-    <string name="feedback_info_system_version">"Versión del sistema: "</string>
+    <string name="feedback_info_system_version">"Versión del sistema:  "</string>
     <string name="feedback_send_email_body_extra_info">"No borres la siguiente información. Nos ayudará a localizar el problema."</string>
     <string name="fetch_video">Preparando vídeo…</string>
     <string name="fetch_video_fail">"No se pudo obtener datos"</string>
@@ -977,7 +977,7 @@ Envía este código al supervisor."</string>
     <string name="mw_common_google_play_services_enable_text">"%1$s no funcionará a menos que habilites los servicios de Google Play."</string>
     <string name="mw_common_google_play_services_enable_title">Habilitar servicios Google Play</string>
     <string name="mw_common_google_play_services_install_button">Instalar</string>
-    <string name="mw_common_google_play_services_install_text">"%1$s no se ejecutará sin los servicios de Google Play que faltan en su dispositivo."</string>
+    <string name="mw_common_google_play_services_install_text">"%1$s no se ejecutará sin los servicios de Google Play, que faltan en tu dispositivo."</string>
     <string name="mw_common_google_play_services_install_title">Obtener servicios de Google Play</string>
     <string name="mw_common_google_play_services_notification_channel_name">Disponibilidad de los servicios de Google Play</string>
     <string name="mw_common_google_play_services_notification_ticker">Error en los servicios de Google Play</string>
@@ -1148,12 +1148,12 @@ ID de falla: http: // crash /%1$s"</string>
     <string name="mw_time_picker_dialog_am">AM</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_title">Establecer hora</string>
-    <string name="mw_url_copied">URL copiada correctamente</string>
+    <string name="mw_url_copied">URL copiada con éxio</string>
     <string name="mw_video_buffering_percent">"Cargando "</string>
-    <string name="mw_video_download_no_permission">Permisos necesarios para descargar elementos</string>
-    <string name="mw_video_float_drag_scale_msg">Arrastre para escalar</string>
+    <string name="mw_video_download_no_permission">Se requieren permisos para descargar elementos</string>
+    <string name="mw_video_float_drag_scale_msg">Arrastra para escalar</string>
     <string name="mw_video_float_window">Ventana emergente</string>
-    <string name="mw_video_float_window_playing">Reproduciendo video</string>
+    <string name="mw_video_float_window_playing">Reproduciendo vídeo en Modo PiP…</string>
     <string name="mw_video_play_error">"No se pudo reproducir el vídeo"</string>
     <string name="mw_webview_find_on_page">Buscar en la página</string>
     <string name="mw_webviewchromium_private_browsing_warning">"Esta función no es compatible con esta versión de Android."</string>
@@ -2017,7 +2017,7 @@ Siempre puedes abandonarlo en Ajustes &gt; Privacidad y seguridad."</string>
     <string name="user_id_hint">Correo electrónico/Teléfono/ID de Cuenta Mi</string>
     <string name="username">Nombre</string>
     <string name="uuid">UUID (haga clic para exportar)</string>
-    <string name="v5_edit_mode_title_empty">Seleccionar elementos</string>
+    <string name="v5_edit_mode_title_empty">0 seleccionados</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
     <string name="v_code_title">Introduce código de verificación</string>
@@ -2041,7 +2041,7 @@ Siempre puedes abandonarlo en Ajustes &gt; Privacidad y seguridad."</string>
     <string name="video_collection_empty">No hay vídeos todavía</string>
     <string name="video_collection_known">Entendido</string>
     <string name="video_collection_view">Ver</string>
-    <string name="video_download_complete">Vídeo descargado correctamente</string>
+    <string name="video_download_complete">Descargado con éxito</string>
     <string name="video_downloader_edit_hint">"Pega un enlace para descargar un vídeo. Por ejemplo:
 https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_downloader_fail">"No se pudo descargar este elemento"</string>

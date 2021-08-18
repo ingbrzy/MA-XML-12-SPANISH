@@ -206,7 +206,7 @@
     <string name="add_pre_message_attachments_yes">Añadir</string>
     <string name="add_star">Marcar</string>
     <string name="afternoon">Tarde</string>
-    <string name="all_purpose">¡Bienvenido a Correo!, un cliente de correo electrónico personalizado creado por Kingsoft para Xiaomi. Puede utilizar esta aplicación para redactar, enviar y recibir correos electrónicos.</string>
+    <string name="all_purpose">Bienvenido a Correo, un cliente de correo electrónico hecho a medida para Xiaomi por Kingsoft. Puedes usar esta aplicación para redactar, enviar y recibir correos electrónicos.</string>
     <string name="allow_notify">Permitir notificaciones</string>
     <string name="allread">Leer todo</string>
     <string name="always_bcc_myself">Siempre CCO auto</string>
@@ -279,9 +279,9 @@
     <string name="bill_remind">Recordatorio de reembolso</string>
     <string name="bill_remind_due">Un reembolso está previsto para %s , pulse para ver</string>
     <string name="blank_feedback_toast">Debe escribir comentarios</string>
-    <string name="body_forward_email_text">[Reenviar]</string>
+    <string name="body_forward_email_text">[Forward]</string>
     <string name="body_hint">Redactar correo electrónico</string>
-    <string name="body_inline_pic_text">[Imagen]</string>
+    <string name="body_inline_pic_text">[Picture]</string>
     <string name="bottom_bar_more_pdf">Exportar a PDF</string>
     <string name="bottom_bar_more_pdf_exporting">Exportando…</string>
     <string name="bottom_bar_more_quickreply">Respuesta rápida</string>
@@ -502,7 +502,7 @@
         por:
         %s
     "</string>
-    <string name="exception_updated">Los detalles de este evento han sido cambiados por: %s</string>
+    <string name="exception_updated">Los detalles de este evento han sido cambiados por: %s </string>
     <string name="exchange_login_hint">Haga clic aquí para iniciar sesión en Outlook Exchange</string>
     <string name="exchange_name">Corporativo</string>
     <string name="expand_button_title">Avanzado</string>
@@ -520,7 +520,7 @@
     <string name="feedback_user_edit_tag">De MIUI</string>
     <string name="fetch_bank_sender_list_failure">"No se pudo obtener la información"</string>
     <string name="fetching_attachment">Obteniendo adjunto</string>
-    <string name="file_defailt_save_path">Los archivos adjuntos se guardan en la carpeta %s de forma predeterminada. Puede cambiar la carpeta en Ajustes.</string>
+    <string name="file_defailt_save_path">Los archivos adjuntos se guardarán por defecto en la carpeta %s. Puedes cambiar la carpeta en Ajustes.</string>
     <string name="file_default_save_path_title">Ubicación predeterminada para los archivos adjuntos</string>
     <string name="file_deleted_success">Archivo eliminado</string>
     <string name="file_not_found">"No se pudo encontrar el archivo"</string>
@@ -624,12 +624,12 @@
     <string name="general_preference_trash_contact">Filtrar spam</string>
     <string name="general_preference_trash_contact_sum">Filtrar correos electrónicos de remitentes informados por varios usuarios</string>
     <string name="generic_attachment_problem">"No se puede adjuntar archivo."</string>
-    <string name="get_database_exception">"Borre los datos de esta aplicación en Ajustes &gt; Aplicaciones del sistema y vuelva a intentarlo."</string>
+    <string name="get_database_exception">"Borrar los datos de esta aplicación en Ajustes &gt; Aplicaciones del sistema e inténtelo de nuevo."</string>
     <string name="get_oauth_code">Obtener código</string>
     <string name="gmail_acceleration">Usar servidor proxy para la cuenta Gmail</string>
     <string name="gmail_login_confirm_to_use_proxy">¿Usar servidor proxy para acceder a su cuenta de Gmail?</string>
     <string name="gmail_login_failed_non_proxy_title">"No se puede acceder al servidor de Gmail"</string>
-    <string name="gmail_server_authorization_deleted">"No pudo verificar la cuenta. Pruebe a agregar esta cuenta de nuevo."</string>
+    <string name="gmail_server_authorization_deleted">"No pudo autenticar la cuenta. Pruebe a agregar esta cuenta de nuevo."</string>
     <string name="go_to_mail_content">Ver email</string>
     <string name="have_auth_code">Tengo un código</string>
     <string name="header_category_account">Cuentas</string>
@@ -1116,7 +1116,7 @@ para recibir recordatorios de pagos y viajes"</string>
     <string name="qq_login_notice">"Nota: Si ya has establecido una contraseña, necesitarás verificarla al iniciar sesión."</string>
     <string name="qq_login_sent_setting">Sincronizar mensajes enviados</string>
     <string name="qq_pwd_or_qq_auth_code">Introduce el código</string>
-    <string name="qq_sent_no_message">"¿No puede encontrar sus correos electrónicos enviados? Pulse aquí para saber qué puede hacer."</string>
+    <string name="qq_sent_no_message">"¿No puedes encontrar tus correos electrónicos enviados? Pulsa aquí para saber qué puedes hacer."</string>
     <string name="qq_sent_no_message_setting">Sincronizar mensajes enviados desde QQ Mail</string>
     <string name="qq_uthentication_failed">"No se pudo verificar la cuenta, inicie sesión nuevamente"</string>
     <string name="questionnair_confirm_delete">¿Eliminar cuenta?</string>
@@ -1358,7 +1358,6 @@ Espera hasta que esté completamente sincronizado o mira el mensaje en tu ordena
     <string name="the_lantern_festival">Festival de la linterna</string>
     <string name="the_mid_autumn_festival">Festival de mediados de otoño</string>
     <string name="the_national_day">Día nacional</string>
-    <string name="the_national_father_day">"Cumpleaños de Sun Yat-sen"</string>
     <string name="the_new_years_day">Año nuevo</string>
     <string name="the_night_of_sevens">Festival Qixi</string>
     <string name="the_partys_day">Día del Partido Comunista de China</string>

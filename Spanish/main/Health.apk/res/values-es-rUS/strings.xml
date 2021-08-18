@@ -68,8 +68,8 @@
     <string name="add_data_type_datasource">Agregar fuente de datos (%1$s)</string>
     <string name="add_model_card">"Tap the button in the upper left corner
 to add cards"</string>
-    <string name="add_model_card2">"Toque el botón de arriba para agregar tarjetas.
-Podrá realizar un seguimiento de sus entrenamientos y actividades."</string>
+    <string name="add_model_card2">"Tap the button above to add cards.
+You'll be able to track your workouts and activity."</string>
     <string name="add_owned_device">Dispositivos disponibles</string>
     <string name="add_record">Add</string>
     <string name="added_data_source">Fuentes agregadas</string>
@@ -208,7 +208,7 @@ Si no desea acceder a las clases recomendadas, puede seguir utilizando los entre
     <string name="collapse">Hide</string>
     <string name="collect_diagnosis_log">Recopilar registro de diagnóstico</string>
     <string name="complete_preference_basic_info">Complete your profile</string>
-    <string name="complete_progress">Progreso</string>
+    <string name="complete_progress">Progress</string>
     <string name="completed">"Completed "</string>
     <string name="completed_stand">Te levantaste</string>
     <string name="confirm_opening">Encender</string>
@@ -335,7 +335,7 @@ Xiaomi Salud solo le notificará sobre elementos importantes."</string>
     <string name="dialog_delete_record_confirm">Delete this record?</string>
     <string name="dialog_exercise_purpose">¡Bienvenido a Xiaomi Salud! \"Contador de pasos\" le permite ver cuántos pasos realiza durante el día, así como establecer y administrar sus objetivos de actividad. Todos los datos relacionados se almacenarán localmente en su dispositivo, lo que le permite administrarlos fácilmente.</string>
     <string name="dialog_exit">Salir</string>
-    <string name="dialog_exit_use">Salir</string>
+    <string name="dialog_exit_use">Exit</string>
     <string name="dialog_feedback_content">"If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorization in the Settings."</string>
     <string name="dialog_feedback_purpose">Xiaomi Salud necesita acceder a su almacenamiento para enviar comentarios.</string>
     <string name="dialog_feedback_purpose2">For submitting feedback</string>
@@ -351,7 +351,7 @@ Xiaomi Salud solo le notificará sobre elementos importantes."</string>
     <string name="dialog_ok">Aceptar</string>
     <string name="dialog_open">Permitir</string>
     <string name="dialog_permission_loading_msg">Comprobando…</string>
-    <string name="dialog_permission_title">Permisos requeridos</string>
+    <string name="dialog_permission_title">Permissions required</string>
     <string name="dialog_privacy_policy_statement">Declaración de la Política de Privacidad</string>
     <string name="dialog_privacy_title">Términos y Condiciones</string>
     <string name="dialog_read_phone_perm_desc">Para identificar las características del dispositivo utilizando OAID o ID de Android</string>
@@ -367,8 +367,8 @@ Xiaomi Salud solo le notificará sobre elementos importantes."</string>
     <string name="diastolic_pressure">Diastólica</string>
     <string name="disable">Off</string>
     <string name="discard_update">No, gracias</string>
-    <string name="download_apk">Descargando %s…</string>
-    <string name="download_background">Descargar</string>
+    <string name="download_apk">Downloading %s…</string>
+    <string name="download_background">Download</string>
     <string name="drag_sort">Reorganizar</string>
     <string name="dream_talk">Talking %1$s</string>
     <string name="dream_talk_record">You were recorded when you talked during in your sleep</string>
@@ -797,6 +797,7 @@ Vuelva a empezar."</string>
     <string name="mesens_card_title_stop_today">Period ends today</string>
     <string name="mesens_card_title_today_begin">Period might start today</string>
     <string name="mesens_card_title_tomorrow_begin">Period might start tomorrow</string>
+    <string name="mi_health">Xiaomi Salud</string>
     <string name="middle">Medio</string>
     <string name="middle_intensity_description">Frecuencia respiratoria más rápida que le permite terminar oraciones</string>
     <string name="midnight">Noche</string>
@@ -885,10 +886,10 @@ Vuelva a empezar."</string>
     <string name="month_september">Septiembre</string>
     <string name="month_september_short">Sep</string>
     <string name="month_september_shortest">Sep</string>
-    <string name="more">Más</string>
+    <string name="more">Too much</string>
     <string name="more_card">More cards</string>
     <string name="more_questions">Más</string>
-    <string name="morning">"Mañana"</string>
+    <string name="morning">"AM "</string>
     <string name="mtrl_badge_numberless_content_description">Nueva notificación</string>
     <string name="mtrl_chip_close_icon_content_description">Eliminar %1$s</string>
     <string name="mtrl_picker_date_format">dd MMM yyyy</string>
@@ -911,7 +912,7 @@ Vuelva a empezar."</string>
     <string name="no_available_data_source">No hay fuentes de datos disponibles</string>
     <string name="no_available_device">Sin dispositivos</string>
     <string name="no_body_weight_record">No hay registros aquí todavía</string>
-    <string name="no_data">No hay datos</string>
+    <string name="no_data">No data</string>
     <string name="no_device_bound_to_the_account">"Este dispositivo no está asociado a tu cuenta. Primero agregue el dispositivo."</string>
     <string name="no_records">No hay elementos aquí.</string>
     <string name="no_snore">"You didn't snore or talk in your sleep"</string>
@@ -1418,10 +1419,10 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="start_cycling">Empieza a pedalear</string>
     <string name="start_running">Empezar a correr</string>
     <string name="start_walking">Empieza a caminar</string>
-    <string name="state_agree">Permitir</string>
+    <string name="state_agree">Aceptar</string>
     <string name="state_auto_run_disenable">Desactivado</string>
     <string name="state_auto_run_enable">Activado</string>
-    <string name="state_disagree">No acepto</string>
+    <string name="state_disagree">Restringido</string>
     <string name="state_disagree2">"Rechazar"</string>
     <string name="subtitle_be_ready">Esté preparada</string>
     <string name="subtitle_exercise_and_sleep">Manténgase físicamente activa y duerma lo suficiente</string>
@@ -1587,7 +1588,7 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="tb_stand_day_ring">Pausas de pie hoy: %1$s. Necesitas hacer al menos 12 hoy.</string>
     <string name="tb_stand_wm_column_chart">Pausas entre %1$sy %2$s. Pase horizontalmente para cambiar entre periodos de tiempo. Toca para ver los detalles.</string>
     <string name="tb_stand_wm_column_click">%1$s. Pausas de pie: %2$d. %3$s.</string>
-    <string name="tb_step_widget" formatted="false">Hoy. %1$s. Progreso: %2$d%</string>
+    <string name="tb_step_widget" formatted="false">Today. %1$s. Progress: %2$d%</string>
     <string name="tb_unmultiple_selecte_all">Desmarcar todos</string>
     <string name="tb_user_account_signed">Cuenta Mi: %1$s.</string>
     <string name="tb_user_account_unsigned">Toca para iniciar sesión en Cuenta Mi</string>
@@ -1629,7 +1630,6 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="the_lantern_festival">Festival de la linterna</string>
     <string name="the_mid_autumn_festival">Festival de mediados de otoño</string>
     <string name="the_national_day">Día Nacional</string>
-    <string name="the_national_father_day">"Cumpleaños de Sun Yat-sen"</string>
     <string name="the_new_years_day">Año Nuevo</string>
     <string name="the_night_of_sevens">Festival Qixi</string>
     <string name="the_partys_day">Día del CPC</string>
@@ -1727,7 +1727,7 @@ Qué hay de nuevo:
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADA</string>
     <string name="value_error_correct">Editar registro</string>
-    <string name="view_step_and_progress">Ver su recuento de pasos actual</string>
+    <string name="view_step_and_progress">View your current step count</string>
     <string name="visceral_fat">Grasa visceral</string>
     <string name="visceral_fat_descripe_content">La grasa visceral es esencial para estabilizar y proteger los órganos internos. Sin embargo, la grasa visceral alta aumenta el riesgo de enfermedades cardiovasculares y metabólicas.</string>
     <string name="voice_remind">"Hemos aumentado el volumen para que escuche mejor las instrucciones."</string>

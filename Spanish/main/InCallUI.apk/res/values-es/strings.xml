@@ -30,8 +30,8 @@
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="afternoon">Tarde</string>
     <string name="ai_assistant">Asistente de llamadas IA</string>
-    <string name="ai_assistant_not_installed">Primero instale AI Call Assistant</string>
-    <string name="ai_dial">Llamada AI</string>
+    <string name="ai_assistant_not_installed">Primero instala el Asistente de llamadas IA</string>
+    <string name="ai_dial">Llamada IA</string>
     <string name="ai_mode_auto">Automático</string>
     <string name="ai_mode_manual">Manualmente</string>
     <string name="ai_mode_subtitles">Subtítulos</string>
@@ -72,7 +72,7 @@
     <string name="call_record_wait_label">Esperando</string>
     <string name="call_recording_deny_permission_msg">"Ha denegado el permiso de grabación, no se puede grabar."</string>
     <string name="call_recording_error_low_storage">No hay suficiente espacio de almacenamiento.</string>
-    <string name="call_recording_error_privacy">"No se puede grabar mientras estés en modo invitado"</string>
+    <string name="call_recording_error_privacy">"No se puede grabar mientras esté en Modo Invitado"</string>
     <string name="call_recording_error_sd_access">"No se puede acceder a la tarjeta SD"</string>
     <string name="call_recording_error_sd_unmounted">Grabación detenida: no se detectó la tarjeta SD.</string>
     <string name="call_recording_error_start_failed">La grabadora está siendo utilizada por otra aplicación.</string>
@@ -140,14 +140,14 @@
     <string name="description_image_button_two">dos</string>
     <string name="description_image_button_video_answer">Videollamada</string>
     <string name="description_image_button_zero">cero</string>
-    <string name="description_incoming_video">Vídeos de perfil para las llamadas salientes</string>
+    <string name="description_incoming_video">Vídeo de perfil para llamadas entrantes</string>
     <string name="description_message_list_title">Lista de respuestas rápidas</string>
     <string name="description_target_answer">Contestar</string>
     <string name="do_not_support_video_calls_by_remote">"Las videollamadas no compatibles en el otro dispositivo"</string>
     <string name="early_morning">Mañana</string>
-    <string name="emergency_call_dialog_number_for_display">Número de emergencia</string>
+    <string name="emergency_call_dialog_number_for_display">Llamada de emergencia</string>
     <string name="enter_ai_assistant">Usar</string>
-    <string name="enter_ai_assistant_tip">"AI Call Assistant puede atender esta llamada y transcribir el discurso de la otra persona por usted. ¿Permitir que IA responda ahora?"</string>
+    <string name="enter_ai_assistant_tip">"La IA puede convertir texto en voz si no puedes hablar ahora mismo. ¿Usar la IA para esta llamada?"</string>
     <string name="eras_ad">DC</string>
     <string name="eras_bc">AC</string>
     <string name="evening">Tarde</string>
@@ -173,7 +173,7 @@
     <string name="incall_error_supp_service_switch">"No se pueden cambiar las llamadas."</string>
     <string name="incall_error_supp_service_transfer">"No se puede transferir la llamada."</string>
     <string name="incall_error_supp_service_unknown">"Este servicio no es compatible."</string>
-    <string name="incoming_call_forwarded_title">Llamada reenviada</string>
+    <string name="incoming_call_forwarded_title">Desviar llamadas entrantes</string>
     <string name="incoming_circle_text_answer">Soltar</string>
     <string name="incoming_circle_text_answer_p">Deslizar hacia arriba</string>
     <string name="incoming_circle_text_reject">Soltar</string>
@@ -249,7 +249,7 @@
     <string name="msim_select_default_time_left">(%d s)</string>
     <string name="night">Tarde</string>
     <string name="noon">Mediodía</string>
-    <string name="notification_action_accept">Aceptar</string>
+    <string name="notification_action_accept">OK</string>
     <string name="notification_action_answer_video">Vídeo</string>
     <string name="notification_action_answer_voice">Voz</string>
     <string name="notification_action_dismiss">Rechazar</string>
@@ -262,7 +262,7 @@
     <string name="notification_on_hold">En espera</string>
     <string name="notification_ongoing_call">Llamada en curso</string>
     <string name="notification_requesting_video_call">Llamada de vídeo entrante</string>
-    <string name="ok">Aceptar</string>
+    <string name="ok">OK</string>
     <string name="onscreenEndCallText">Terminar</string>
     <string name="onscreen_add_call_text">Añadir llamada</string>
     <string name="onscreen_audio_mode_conference">Conferencia</string>
@@ -287,7 +287,7 @@
     <string name="picking_participant">Obteniendo información del contacto…</string>
     <string name="pm">PM</string>
     <string name="private_num">Número privado</string>
-    <string name="prompt_no_volte_when_failed">"No se puede realizar llamadas. Asegúrese de que su dispositivo está conectado a una red 4G que soporte VoLTE"</string>
+    <string name="prompt_no_volte_when_failed">"No se puede realizar llamadas. Asegúrate de que tu dispositivo está conectado a una red 4G que soporte VoLTE"</string>
     <string name="relay_cal_from_device_name">Desde %1$s</string>
     <string name="relay_call">Ataque</string>
     <string name="relay_call_device_name">Dispositivo conectado (%1$s)</string>
@@ -299,9 +299,9 @@
     <string name="search_menu_title">Buscar</string>
     <string name="select_audio_dialog_title">Seleccionar modo de respuesta</string>
     <string name="select_one_sim_title">Solo se puede usar la SIM %1$d</string>
-    <string name="select_one_sim_title_for_heduohao">Solo puede usar SIM %1$d Sub %2$d</string>
+    <string name="select_one_sim_title_for_heduohao">Can only use SIM %1$d Sub %2$d</string>
     <string name="select_sim_hint">"No se puede usar la SIM %2$d, mientras la SIM %1$d esté en uso."</string>
-    <string name="select_sim_hint_for_heduohao">"No se puede usar otro, mientras SIM %1$d Sub %2$d está en uso."</string>
+    <string name="select_sim_hint_for_heduohao">"Can't use other, while SIM %1$d Sub %2$d is in use."</string>
     <string name="select_voice_call_sim">Elegir tarjeta SIM</string>
     <string name="send">Enviar</string>
     <string name="separate_from_conference">Separar llamada</string>
@@ -390,7 +390,7 @@
     <string name="user_locked_prompt">Desbloquea el dispositivo para acceder a Contactos.</string>
     <string name="video_call_downgrade_insufficient_bandwidth">Ancho de banda insuficiente, cambiando a llamada de voz</string>
     <string name="video_conference_caller_info_name">"Llamada de vídeo-conferencia de %1$s"</string>
-    <string name="video_crbt_title">"Otro tono de llamada de vídeo se está reproduciendo"</string>
+    <string name="video_crbt_title">"El tono de devolución de llamada de la otra parte está sonando"</string>
     <string name="voicemail">Buzón de voz</string>
     <string name="volte_call">Llamada VoLTE</string>
     <string name="volume_boost_text">Volumen aumentado con éxito</string>
@@ -400,6 +400,6 @@
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
-    <string name="wifi_call">Llamada VoWifi</string>
+    <string name="wifi_call">Llamada VoWiFi</string>
     <string name="yesterday">Ayer</string>
 </resources>

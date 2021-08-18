@@ -68,8 +68,8 @@
     <string name="add_data_type_datasource">Agregar fuente de datos (%1$s)</string>
     <string name="add_model_card">"Tap the button in the upper left corner
 to add cards"</string>
-    <string name="add_model_card2">"Toque el botón de arriba para agregar tarjetas.
-Podrá realizar un seguimiento de sus entrenamientos y actividades."</string>
+    <string name="add_model_card2">"Tap the button above to add cards.
+You'll be able to track your workouts and activity."</string>
     <string name="add_owned_device">Dispositivos disponibles</string>
     <string name="add_record">Add</string>
     <string name="added_data_source">Fuentes agregadas</string>
@@ -133,7 +133,7 @@ Si no desea acceder a las clases recomendadas, puede seguir utilizando los entre
     <string name="basic_info_label_height">Altura</string>
     <string name="basic_info_label_weight">Peso</string>
     <string name="basic_info_save">Guardar</string>
-    <string name="bedTime_early_description">"Se acostó temprano. Si ese es su hábito a largo plazo, puede mantenerlo e ignorar este mensaje."</string>
+    <string name="bedTime_early_description">"You went to bed early. If that's your long term habit, you can stick to it and ignore this message."</string>
     <string name="bedTime_late_description">You went to bed late.</string>
     <string name="bedTime_normal_description">You went to bed on time. Keep it up!</string>
     <string name="bedtime">Bedtime</string>
@@ -335,8 +335,8 @@ Xiaomi Salud solo te notificará sobre elementos importantes."</string>
     <string name="dialog_delete_record_confirm">Delete this record?</string>
     <string name="dialog_exercise_purpose">¡Bienvenido a Xiaomi Salud! \"Contador de pasos\" te permite registrar periodos, determinar fechas aproximadas de los próximos periodos y recibir recordatorios. Todos los datos relacionados serán restaurados localmente en tu dispositivo, lo que te permite gestionarlos fácilmente.</string>
     <string name="dialog_exit">Salir</string>
-    <string name="dialog_exit_use">Salir</string>
-    <string name="dialog_feedback_content">"Si no acepta conceder estos permisos, no podrá usar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible. Siempre puede restringir los permisos o revocar su autorización en Ajustes."</string>
+    <string name="dialog_exit_use">Exit</string>
+    <string name="dialog_feedback_content">"If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorization in the Settings."</string>
     <string name="dialog_feedback_purpose">Xiaomi Salud necesita acceder a tu almacenamiento para enviar comentarios.</string>
     <string name="dialog_feedback_purpose2">For submitting feedback</string>
     <string name="dialog_feedback_title">Feedback</string>
@@ -351,7 +351,7 @@ Xiaomi Salud solo te notificará sobre elementos importantes."</string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_open">Permitir</string>
     <string name="dialog_permission_loading_msg">Comprobando…</string>
-    <string name="dialog_permission_title">Permisos requeridos</string>
+    <string name="dialog_permission_title">Permissions required</string>
     <string name="dialog_privacy_policy_statement">Declaración de Política de Privacidad</string>
     <string name="dialog_privacy_title">Términos y condiciones</string>
     <string name="dialog_read_phone_perm_desc">Para identificar funciones del dispositivo usando OAID o ID de Android</string>
@@ -362,13 +362,13 @@ Xiaomi Salud solo te notificará sobre elementos importantes."</string>
     <string name="dialog_sleep_goal_title">Sleep duration goal</string>
     <string name="dialog_sleep_record_auto_start">Para hacer un seguimiento del sueño más preciso, permite a Xiaomi Salud iniciarse automáticamente.</string>
     <string name="dialog_sure">OK</string>
-    <string name="dialog_user_agreement_purpose">¡Bienvenido a Salud de Xiaomi! Puede usar esta aplicación para contar sus pasos, registrar su sueño, sus periodos y peso, así como sincronizar las estadísticas con la nube.</string>
-    <string name="dialog_user_agreement_purpose2">¡Bienvenido a Salud de Xiaomi! Puede usar esta aplicación para contar sus pasos, analizar su sueño, periodos, registrar su peso y más.</string>
+    <string name="dialog_user_agreement_purpose">¡Bienvenido a Xiaomi Salud! Puedes usar esta aplicación para contar pasos, monitorizar el sueño, tus periodos y el peso, así como sincronizar las estadísticas con la nube.</string>
+    <string name="dialog_user_agreement_purpose2">¡Bienvenido a Xiaomi Salud! Puedes usar esta aplicación para contar tus pasos, analizar el sueño, tu periodo, registrar el peso y más.</string>
     <string name="diastolic_pressure">Diastólica</string>
     <string name="disable">Off</string>
     <string name="discard_update">No, gracias</string>
-    <string name="download_apk">Descargando %s…</string>
-    <string name="download_background">Descargar</string>
+    <string name="download_apk">Downloading %s…</string>
+    <string name="download_background">Download</string>
     <string name="drag_sort">Reorganizar</string>
     <string name="dream_talk">Talking %1$s</string>
     <string name="dream_talk_record">You were recorded when you talked during in your sleep</string>
@@ -427,14 +427,14 @@ You can select a different data source in More &gt; Data sources."</string>
     <string name="exercise_intensity">Intensity</string>
     <string name="exercise_motor_perception">Track workouts automatically</string>
     <string name="exercise_motor_perception_description">Carry your device with you throughout the day to track workouts automatically</string>
-    <string name="exercise_no_question">"¿Por qué no puede ver sus estadísticas?"</string>
+    <string name="exercise_no_question">"Why can't you see your stats?"</string>
     <string name="exercise_notification_content">%1$d min(s) of exercise (%2$d Cal)</string>
     <string name="exercise_notification_meet_title">"Today's steps: %d. Goal reached!"</string>
     <string name="exercise_notification_no_meet_title">"Today's steps: %d. Keep going to reach your goal!"</string>
-    <string name="exercise_question_answer_one">"1. Algunos modelos de dispositivos no están equipados con sensores de bajo consumo de energía. Salud de Xiaomi no rastrea los datos de actividad para ahorrar batería en los siguientes dispositivos: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
-Si su dispositivo aparece aquí, puede añadir las fuentes de datos manualmente en Salud de Xiaomi &gt; Menú &gt; Fuentes de datos &gt; Añadir fuentes de datos."</string>
+    <string name="exercise_question_answer_one">"1. Algunos modelos de dispositivos no están equipados con sensores de bajo consumo de energía. Xiaomi Salud no rastrea los datos de actividad para ahorrar batería en los siguientes dispositivos: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
+Si tu dispositivo aparece aquí, puedes añadir fuentes de datos manualmente en Xiaomi Salud &gt; Menú &gt; Fuentes de datos &gt; Añadir fuentes de datos."</string>
     <string name="exercise_question_answer_two">2. Occasionally, motion sensors may fail to mount. Reboot your phone and check whether tracking starts works normally in such cases.</string>
-    <string name="exercise_question_title">"¿Por qué no puede ver sus estadísticas?"</string>
+    <string name="exercise_question_title">"Why can't you see your stats?"</string>
     <string name="exercise_recog_confirm_ridding">Were you cycling between %1$s and %2$s?</string>
     <string name="exercise_recog_confirm_run">Were you running between %1$s and %2$s?</string>
     <string name="exercise_recog_confirm_stair_climb">Were you climbing stairs between %1$s and %2$s?</string>
@@ -450,7 +450,7 @@ Si su dispositivo aparece aquí, puede añadir las fuentes de datos manualmente 
     <string name="exercise_reminder_unaccomplished">"Todavía no has alcanzado tu objetivo. ¡Sigue!"</string>
     <string name="exercise_result_reminder_content">%1$d min(s) of exercise (%2$d Cal). Tap to view details.</string>
     <string name="exercise_result_reminder_title">"Today's step count: %1$d. You reached the goal!"</string>
-    <string name="exercise_result_reminder_title_unaccomplished">"Pasos hoy: %1$d. ¡Todavía puede lograrlo!"</string>
+    <string name="exercise_result_reminder_title_unaccomplished">"Today's step count: %1$d. You can still reach the goal!"</string>
     <string name="exercise_setting_label_reach_standard_remind">Activity alert</string>
     <string name="exercise_setting_page_title">Activity settings</string>
     <string name="exercise_speed">Spead</string>
@@ -797,6 +797,7 @@ Empieza de nuevo."</string>
     <string name="mesens_card_title_stop_today">El periodo termina hoy</string>
     <string name="mesens_card_title_today_begin">Tu periodo podría comenzar hoy</string>
     <string name="mesens_card_title_tomorrow_begin">Tu periodo podría comenzar mañana</string>
+    <string name="mi_health">Xiaomi Salud</string>
     <string name="middle">Medium</string>
     <string name="middle_intensity_description">Faster respiratory rate that allows you to finish sentences</string>
     <string name="midnight">Noche</string>
@@ -885,10 +886,10 @@ Empieza de nuevo."</string>
     <string name="month_september">Septiembre</string>
     <string name="month_september_short">Sep</string>
     <string name="month_september_shortest">Sep</string>
-    <string name="more">Más</string>
+    <string name="more">Too much</string>
     <string name="more_card">More cards</string>
     <string name="more_questions">Más</string>
-    <string name="morning">"Mañana"</string>
+    <string name="morning">"AM "</string>
     <string name="mtrl_badge_numberless_content_description">Nueva notificación</string>
     <string name="mtrl_chip_close_icon_content_description">Eliminar %1$s</string>
     <string name="mtrl_picker_date_format">dd MMM yyyy</string>
@@ -970,9 +971,9 @@ Empieza de nuevo."</string>
     <string name="personal_course_recommend_title">Clases recomendadas</string>
     <string name="phone_detection">Detectado automáticamente</string>
     <string name="photograph">Cámara</string>
-    <string name="picker_day">Día seleccionado: %1$d. Deslice el dedo verticalmente para seleccionar.</string>
-    <string name="picker_month">Mes seleccionado: %1$d. Deslice el dedo verticalmente para seleccionar.</string>
-    <string name="picker_year">Año seleccionado: %1$d. Deslice el dedo verticalmente para seleccionar.</string>
+    <string name="picker_day">Selected day: %1$d. Swipe vertically to select.</string>
+    <string name="picker_month">Selected month: %1$d. Swipe vertically to select.</string>
+    <string name="picker_year">Selected year: %1$d. Swipe vertically to select.</string>
     <string name="placement_tips_recommend">Recommended</string>
     <string name="placement_tips_recommend_1">Backpack</string>
     <string name="placement_tips_recommend_2">Fanny pack</string>
@@ -1075,7 +1076,7 @@ Empieza de nuevo."</string>
     <string name="search_menu_title">Buscar</string>
     <string name="sedentary_detail_title">Estar sentado durante mucho tiempo es dañino</string>
     <string name="sedentary_enhance_remind">Vibrar también</string>
-    <string name="sedentary_enhance_remind_content">Esta característica funciona cuando el modo No Molestar está desactivado</string>
+    <string name="sedentary_enhance_remind_content">Esta función funciona cuando el Modo no molestar está desactivado</string>
     <string name="sedentary_harm_known">Entendido</string>
     <string name="sedentary_popular_science">"* Estar sentado o sin moverte durante mucho tiempo no es bueno para ti. A menos que estés durmiendo, intenta moverte al menos 2 minutos cada hora. Recuerda que no se recomienda estar de pie durante más de 6 horas al día."</string>
     <string name="sedentary_reminder_channel_name">Recordarme que me mueva</string>
@@ -1146,7 +1147,7 @@ Empieza de nuevo."</string>
     <string name="skipping_kcal">Calorías</string>
     <string name="skipping_pause">Workout paused</string>
     <string name="skipping_pause_tips">Pausado | Reanuda tu entrenamiento para continuar con el seguimiento automáticamente</string>
-    <string name="skipping_ready">Ya puede comenzar su entrenamiento</string>
+    <string name="skipping_ready">Ahora puedes comenzar tu entrenamiento</string>
     <string name="skipping_ready_hint_one">Mantén este dispositivo a no más de 1 metro de ti.</string>
     <string name="skipping_ready_hint_two">Tu entrenamiento se pausará y se reanudará automáticamente en función de los sonidos que produzcas.</string>
     <string name="skipping_ready_toast">"Hemos incrementado el volumen para que escuches mejor las instrucciones."</string>
@@ -1423,7 +1424,7 @@ datos de sueño"</string>
     <string name="state_agree">Aceptar</string>
     <string name="state_auto_run_disenable">Desactivado</string>
     <string name="state_auto_run_enable">Activado</string>
-    <string name="state_disagree">No aceptar</string>
+    <string name="state_disagree">Restringido</string>
     <string name="state_disagree2">"No aceptar"</string>
     <string name="subtitle_be_ready">Estate preparada</string>
     <string name="subtitle_exercise_and_sleep">Permanece físicamente activo y duerme lo sufiente</string>
@@ -1448,7 +1449,7 @@ datos de sueño"</string>
     <string name="sustain_title">"No te has movido durante "</string>
     <string name="swim">Swimming</string>
     <string name="swim_type">Style</string>
-    <string name="swipe_right_to_end">Deslice el dedo hacia la derecha para terminar</string>
+    <string name="swipe_right_to_end">Desliza hacia la derecha para terminar</string>
     <string name="swipe_up_to_end">Desliza hacia arriba para terminar</string>
     <string name="sync_health_data">Sincronizar datos de salud</string>
     <string name="sync_immediately">Sincronizar</string>
@@ -1631,7 +1632,6 @@ datos de sueño"</string>
     <string name="the_lantern_festival">Festival de la linterna</string>
     <string name="the_mid_autumn_festival">Festival de mediados de otoño</string>
     <string name="the_national_day">Día nacional</string>
-    <string name="the_national_father_day">"Cumpleaños de Sun Yat-sen"</string>
     <string name="the_new_years_day">Año nuevo</string>
     <string name="the_night_of_sevens">Festival Qixi</string>
     <string name="the_partys_day">Día del Partido Comunista de China</string>
@@ -1729,7 +1729,7 @@ Novedades:
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
     <string name="value_error_correct">Edit record</string>
-    <string name="view_step_and_progress">Ver su recuento de pasos actual</string>
+    <string name="view_step_and_progress">Mira tu conteo de pasos actual</string>
     <string name="visceral_fat">Grasa visceral</string>
     <string name="visceral_fat_descripe_content">La grasa visceral es esencial para estabilizar y proteger los órganos internos. Sin embargo, la grasa visceral alta aumenta el riesgo de enfermedades cardiovasculares y metabólicas.</string>
     <string name="voice_remind">"Hemos incrementado el volumen para que escuches mejor las instrucciones."</string>

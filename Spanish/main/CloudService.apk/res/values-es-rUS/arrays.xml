@@ -32,6 +32,10 @@
         <item>Back up important settings, including WLAN and display</item>
         <item>"Lock your device remotely if it's lost"</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>Sincroniza tus fotos, notas, grabaciones y más</item>
+        <item>"Bloquea tu dispositivo de forma remota si se pierde"</item>
+    </string-array>
     <string-array name="micloud_entrance_subtitleArray_v2">
         <item>Sincronice sus contactos, mensajes, notas, calendario y más</item>
         <item>Respaldar aplicaciones, diseño de la pantalla de inicio y fondo de pantalla</item>
@@ -42,6 +46,10 @@
         <item>Sincronizar datos de la aplicación</item>
         <item>Respaldar diseño de la pantalla de inicio</item>
         <item>Respaldar los ajustes del sistema</item>
+        <item>Encontrar dispositivo</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>Sincronizar datos de la aplicación</item>
         <item>Encontrar dispositivo</item>
     </string-array>
     <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
@@ -136,6 +144,11 @@
         <item>Restaurar contactos, fotos, mensajes y más</item>
         <item>Basura;Elementos eliminados;Papelera;Restaurar;Servicios de la nube;Xiaomi Cloud</item>
     </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Elementos eliminados en Xiaomi Cloud</item>
+        <item>Restaura fotos, notas y más</item>
+        <item>Papelera; Elementos eliminados; Papelera; Restaurar; Servicios en la nube; Xiaomi Cloud</item>
+    </string-array>
     <string-array name="settings_search_restore_device">
         <item>Restaurar elementos de Xiaomi Cloud</item>
         <item>Descargar elementos respaldados en su dispositivo</item>
@@ -145,6 +158,11 @@
         <item>Sincronización en la nube de Seguridad</item>
         <item>Activar sincronización</item>
         <item>Seguridad;Nube;Xiaomi Cloud;Sincronizar;Servicios de la nube</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>Sincronización de seguridad en la nube</item>
+        <item>Activar sincronización</item>
+        <item>Seguridad; Nube; Xiaomi Cloud; Sincronización; Servicios en la nube</item>
     </string-array>
     <string-array name="settings_search_sms">
         <item>Sincronizar mensajes con Xiaomi Cloud</item>
@@ -160,6 +178,11 @@
         <item>Xiaomi Cloud. Todos los servicios Mi en un solo lugar.</item>
         <item>Acceda a sus fotos, contactos, mensajes y dispositivos desde cualquier lugar</item>
         <item>Almacenamiento insuficiente;Membresía;Almacenamiento;Espacio de almacenamiento;Nube;Sincronizar;Servicios de la nube;Xiaomi Cloud;Basura;Elementos eliminados;Seguridad</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Xiaomi Cloud. Todos los servicios de Mi en un solo lugar.</item>
+        <item>Acceda a sus fotos, notas y dispositivos desde cualquier lugar</item>
+        <item>Almacenamiento insuficiente; Membresía; Almacenamiento; Espacio de almacenamiento; Nube; Sincronización; Servicios en la nube; Xiaomi Cloud; Papelera; Elementos eliminados; Seguridad</item>
     </string-array>
     <string-array name="settings_search_wlan">
         <item>Sincronizar ajustes de Wi-Fi con Xiaomi Cloud</item>

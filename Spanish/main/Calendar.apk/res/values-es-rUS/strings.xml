@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navegar a la página principal</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Navegar hacia arriba</string>
     <string name="abc_action_menu_overflow_description">Más opciones</string>
     <string name="abc_action_mode_done">Listo</string>
@@ -52,7 +50,6 @@
     <string name="agenda_tomorrow">MAÑANA, %1$s</string>
     <string name="agenda_view">Eventos</string>
     <string name="alarm_label">Descartar</string>
-    <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Expirado</string>
     <string name="alert_title">Notificaciones de calendario</string>
     <string name="all_events">Todos los eventos</string>
@@ -151,7 +148,6 @@
     <string name="date_calculate_tab">Calcular fecha</string>
     <string name="date_calculate_today">%d días</string>
     <string name="date_calculate_when">Inicio</string>
-    <string name="date_format_y_m">MMM. \'de\' yyyy</string>
     <string name="date_interval_description">Vea cuántos días hay entre dos fechas</string>
     <string name="date_interval_end">Hasta</string>
     <string name="date_interval_start">Desdel</string>
@@ -371,12 +367,10 @@
     <string name="month_medium_october">Oct</string>
     <string name="month_medium_september">Sep</string>
     <string name="month_view">Mes</string>
-    <string name="month_year_format">MMMM yyyy</string>
     <string name="monthly">Mensualmente</string>
     <string name="monthly_on_day">Mensualmente (misma fecha)</string>
     <string name="monthly_on_day_count">Cada mes (%1$s)</string>
     <string name="more_details">Más información</string>
-    <string name="more_string">+%1$s</string>
     <string name="movie_card_read_more">Leer más</string>
     <string name="movie_card_title">Películas</string>
     <string name="movie_card_trailer">Trailer</string>
@@ -416,7 +410,6 @@ Compruebe los ajustes de red y vuelva a intentarlo."</string>
     <string name="notes_week_name_two">%1$s y %2$s</string>
     <string name="notes_weekly">Semanal</string>
     <string name="notification_channel_name">Recordatorios de calendario</string>
-    <string name="numbers">%d</string>
     <string name="panchang_amanta">Amanta</string>
     <string name="panchang_amanta_month">Mes Amanta:</string>
     <string name="panchang_ayana">Ayana</string>
@@ -452,7 +445,6 @@ Compruebe los ajustes de red y vuelva a intentarlo."</string>
     <string name="pref_title_alarm_remind">Recordatorios con alarma</string>
     <string name="pref_title_no_remind">No hay recordatorios</string>
     <string name="pref_title_notification_remind">Notificaciones de recordatorios</string>
-    <string name="preferences_additional_cal_default">0</string>
     <string name="preferences_alerts_ringtone_title">Sonido</string>
     <string name="preferences_alerts_vibrateWhen_title">Vibrar</string>
     <string name="preferences_alerts_vibrate_title">Tono y vibración</string>
@@ -465,7 +457,6 @@ Compruebe los ajustes de red y vuelva a intentarlo."</string>
     <string name="preferences_title">Calendario</string>
     <string name="preferences_use_home_tz_descrip">Mostrar eventos y calendarios en la zona horaria de casa al viajar</string>
     <string name="preferences_use_home_tz_title">Utilizar zona horaria de casa</string>
-    <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_week_start_day_dialog">Inicio de la semana</string>
     <string name="preferences_week_start_day_title">Inicio de la semana</string>
     <string name="privacy_card_description">Acepte nuestra Política de Privacidad para acceder a todas las funciones.</string>
@@ -490,9 +481,7 @@ Compruebe los ajustes de red y vuelva a intentarlo."</string>
     <string name="repeat_custom_activity_label">Personalizado</string>
     <string name="repeat_custom_prompt_daily">cada %1$s</string>
     <string name="repeat_custom_prompt_sentence">El evento se repetirá %1$s</string>
-    <string name="repeat_custom_prompt_splitter">", "</string>
     <string name="repeat_custom_string_prefix">Personalizado</string>
-    <string name="repeat_custom_string_suffix">" (%1$s)"</string>
     <string name="repeat_end_label">Detener la repetición posterior</string>
     <string name="repeat_end_times_unit">" veces"</string>
     <string name="repeat_interval_dialog_title">Cada %1$s</string>
@@ -508,13 +497,10 @@ Compruebe los ajustes de red y vuelva a intentarlo."</string>
     <string name="repeat_label_frequency">Frecuencia</string>
     <string name="repeat_label_interval">Cada</string>
     <string name="repeat_label_week">Semana</string>
-    <string name="repeat_month_day_splitter">" "</string>
-    <string name="repeat_week_info">" %1$s %2$s"</string>
     <string name="repeats_label">Repetir</string>
     <string name="response_maybe">Tal vez</string>
     <string name="response_no">No</string>
     <string name="response_yes">Sí</string>
-    <string name="rest_day_indication">: )</string>
     <string name="revoke_confirmation_dialog_confirm">Retirar</string>
     <string name="revoke_confirmation_dialog_message">Al desactivar el interruptor, retira su consentimiento a la Política de Privacidad de Calendario. Dejaremos de recopilar su información personal. La información personal ya recopilada y retenida se eliminará dentro de un período específico según lo requieran las leyes aplicables. Calendario necesita recopilar la información personal necesaria para brindarte los servicios básicos. Su retirada del consentimiento a su Política de Privacidad se considerará como una negativa a aceptar sus servicios en función de la información personal recopilada.</string>
     <string name="revoke_confirmation_dialog_title">Retirada del consentimiento</string>
@@ -629,7 +615,6 @@ También puede agregar recordatorios para no perderse de nada importante."</stri
     <string name="template_announce_item_index">Evento %1$s de %2$s.</string>
     <string name="three_days_to_go">Quedan %d días</string>
     <string name="three_selected_holiday">%1$s, %2$s, y %3$s son días de descanso</string>
-    <string name="time_numbers">%02d</string>
     <string name="time_zone">Zona horaria</string>
     <string name="timezone_label">Zona horaria</string>
     <string name="title_click_record_menstruation">Registrar un periodo</string>
@@ -671,8 +656,6 @@ También puede agregar recordatorios para no perderse de nada importante."</stri
     <string name="travel_seat_number_text">Asiento</string>
     <string name="travel_train_number_text">Tren</string>
     <string name="travel_train_station">Estación de tren</string>
-    <string name="twelve_hour_time_format">hh:mm aa</string>
-    <string name="twenty_four_hour_time_format">HH:mm</string>
     <string name="two_selected_holiday">%1$s y %2$s son días de descanso</string>
     <string name="unable_record_future_menstruation">"No se pueden registrar periodos futuros"</string>
     <string name="unsubscribe_card">Cancelar suscripción</string>
@@ -699,7 +682,6 @@ También puede agregar recordatorios para no perderse de nada importante."</stri
     <string name="widget_get_weather_info">Obtener información del tiempo</string>
     <string name="widget_no_events">Sin eventos</string>
     <string name="widget_select_style">Elegir estilo</string>
-    <string name="work_day_indication">: (</string>
     <string name="xiaomi_calendar_delete_description">Calendario es una aplicación del sistema que le permite crear y administrar eventos. Algunas de sus funciones seguirán estando disponibles después de eliminar el acceso directo de la pantalla de inicio.</string>
     <string name="xiaomi_calendar_delete_title">¿Eliminar \"Calendario\" de la Pantalla de inicio?</string>
     <string name="xiaomi_calendar_display_name">Calendario de Cuenta Mi</string>

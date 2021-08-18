@@ -157,9 +157,9 @@
     <string name="accessibility_enable_service_title">¿Permitir que %1$s pueda controlar totalmente tu dispositivo?</string>
     <string name="accessibility_freeform_caption">Barra de subtítulos de %1$s.</string>
     <string name="accessibility_gesture_3finger_instructional_text">Para cambiar de una función a otra, desliza tres dedos hacia arriba y mantén pulsada la pantalla.</string>
-    <string name="accessibility_gesture_3finger_prompt_text">Elija una función para usar con el gesto de accesibilidad (deslice hacia arriba desde la parte inferior de la pantalla con tres dedos):</string>
+    <string name="accessibility_gesture_3finger_prompt_text">Elige la función que se utilizará con el gesto de accesibilidad (deslizar tres dedos hacia arriba desde la parte inferior de la pantalla):</string>
     <string name="accessibility_gesture_instructional_text">Para cambiar de una función a otra, desliza hacia arriba con dos dedos y mantén pulsada la pantalla.</string>
-    <string name="accessibility_gesture_prompt_text">Elija el servicio que se utilizará con el gesto de accesibilidad (deslice dos dedos hacia arriba desde la parte inferior de la pantalla):</string>
+    <string name="accessibility_gesture_prompt_text">Elige la función que se utilizará con el gesto de accesibilidad (deslizar dos dedos hacia arriba desde la parte inferior de la pantalla):</string>
     <string name="accessibility_magnification_chooser_text">Ampliación</string>
     <string name="accessibility_select_shortcut_menu_title">Toca una función para empezar a usarla:</string>
     <string name="accessibility_service_action_perform_description">Puede registrar tus interacciones con una aplicación o un sensor de hardware, así como interactuar con las aplicaciones en tu nombre.</string>
@@ -354,7 +354,7 @@ Puedes asignar este acceso directo a otra función en Ajustes &gt; Accesibilida
     <string name="candidates_style"><u>candidatos</u></string>
     <string name="capability_desc_canCaptureFingerprintGestures">"Puede capturar los gestos realizados en el sensor de huellas digitales del dispositivo."</string>
     <string name="capability_desc_canControlMagnification">"Controla el posicionamiento y el nivel de zoom de la pantalla."</string>
-    <string name="capability_desc_canPerformGestures">Puede pulsar y pellizcar la pantalla, deslizar el dedo y hacer otros gestos.</string>
+    <string name="capability_desc_canPerformGestures">Puedes tocar y pellizcar la pantalla, deslizar el dedo y hacer otros gestos.</string>
     <string name="capability_desc_canRequestFilterKeyEvents">Incluye datos personales, como números de tarjetas de crédito y contraseñas.</string>
     <string name="capability_desc_canRequestTouchExploration">Los elementos que tocas se dicen en voz alta y se puede explorar la pantalla mediante gestos.</string>
     <string name="capability_desc_canRetrieveWindowContent">"Inspecciona el contenido de una ventana con la que estés interactuando."</string>
@@ -456,7 +456,7 @@ a partir de %s"</string>
     <string name="deny">Denegar</string>
     <string name="deprecated_target_sdk_app_store">Buscar actualizaciones</string>
     <string name="deprecated_target_sdk_message">Esta aplicación se ha diseñado para una versión anterior de Android y es posible que no funcione correctamente. Busca actualizaciones o ponte en contacto con el desarrollador.</string>
-    <string name="description_target_unlock_tablet">Deslice para desbloquear.</string>
+    <string name="description_target_unlock_tablet">Desliza el dedo para desbloquear.</string>
     <string name="device_ownership_relinquished">El administrador no permite hacer un uso personal del dispositivo</string>
     <string name="device_storage_monitor_notification_channel">Almacenamiento del dispositivo</string>
     <string name="dial_number_using">"Marcar número
@@ -492,7 +492,7 @@ con %s"</string>
     <string name="emergency_calls_only">Solo llamadas de emergencia</string>
     <string name="emptyPhoneNumber">(Sin número de teléfono)</string>
     <string name="enablePin">Error, habilitar bloqueo de SIM/RUIM.</string>
-    <string name="enable_explore_by_touch_warning_message">"%1$s quiere habilitar la Exploración Táctil. Cuando esta función esté activada, podrá escuchar o ver descripciones del contenido seleccionado o usar gestos para interactuar con el teléfono."</string>
+    <string name="enable_explore_by_touch_warning_message">"%1$s quiere habilitar la exploración táctil. Cuando esta función esté activada, podrás escuchar o ver descripciones del contenido seleccionado o usar gestos para interactuar con el teléfono."</string>
     <string name="enable_explore_by_touch_warning_title">¿Habilitar exploración táctil?</string>
     <string name="error_message_change_not_allowed">"El administrador no permite realizar este cambio"</string>
     <string name="error_message_title">Error</string>
@@ -706,7 +706,7 @@ Si tienes alguna pregunta, ponte en contacto con el administrador de tu organiza
     <string name="ime_action_previous">Anterior</string>
     <string name="ime_action_search">Buscar</string>
     <string name="ime_action_send">Enviar</string>
-    <string name="immersive_cling_description">Para salir, deslice hacia abajo desde arriba.</string>
+    <string name="immersive_cling_description">Para salir, desliza el dedo de arriba abajo.</string>
     <string name="immersive_cling_positive">Entendido</string>
     <string name="immersive_cling_title">Modo de pantalla completa</string>
     <string name="importance_from_person">Esto es importante por los usuarios implicados.</string>
@@ -981,6 +981,7 @@ Inténtalo de nuevo dentro de %2$d segundos."</string>
     <string name="mmiErrorWhileRoaming">No se puede cambiar la configuración de desvío de llamadas desde tu teléfono mientras estás en itinerancia.</string>
     <string name="mmiFdnError">La operación solo es válida para números de marcación fija.</string>
     <string name="mobile_no_internet">La red móvil no tiene acceso a Internet</string>
+    <string name="month_day_year" formatted="false">%-e de %B de %Y</string>
     <string name="more_item_label">Más</string>
     <string name="move_button_text">Toca el botón de marco para poder mover toda la ventana</string>
     <string name="muted_by">%1$s silencia algunos sonidos</string>
@@ -1054,7 +1055,7 @@ Inténtalo de nuevo dentro de %2$d segundos."</string>
     <string name="now_string_shortest">ahora</string>
     <string name="number_picker_decrement_button">Reducir</string>
     <string name="number_picker_increment_button">Aumentar</string>
-    <string name="number_picker_increment_scroll_action">Deslice hacia arriba para aumentar y hacia abajo para disminuir.</string>
+    <string name="number_picker_increment_scroll_action">Desliza el dedo hacia arriba para aumentar y hacia abajo para disminuir.</string>
     <string name="number_picker_increment_scroll_mode">Mantén pulsado %s.</string>
     <string name="ok">Aceptar</string>
     <string name="old_app_action">Volver a %1$s</string>
@@ -1595,6 +1596,7 @@ Escuchar sonidos fuertes durante mucho tiempo puede dañar los oídos."</string>
     <string name="sipAddressTypeOther">Otro</string>
     <string name="sipAddressTypeWork">Trabajo</string>
     <string name="skip_button_label">Saltar</string>
+    <string name="slice_more_content">%1$d más</string>
     <string name="slices_permission_request">%1$s quiere mostrar fragmentos de %2$s</string>
     <string name="sms_control_message">&lt;b&gt;%1$s&lt;/b&gt; está enviando un gran número de mensajes SMS. ¿Permitir que está aplicación siga enviando mensajes?</string>
     <string name="sms_control_no">Denegar</string>
@@ -1830,7 +1832,7 @@ Escuchar sonidos fuertes durante mucho tiempo puede dañar los oídos."</string>
     <string name="zen_mode_downtime_feature_name">Periodo de descanso</string>
     <string name="zen_mode_feature_name">No molestar</string>
     <string name="zen_mode_forever">Hasta que lo desactives</string>
-    <string name="zen_mode_forever_dnd">Hasta que desactive la opción No Molestar</string>
+    <string name="zen_mode_forever_dnd">Hasta que desactives la opción No molestar</string>
     <string name="zen_mode_until">Hasta %1$s</string>
     <string name="zen_upgrade_notification_content">"Toca para consultar lo que se está bloqueando."</string>
     <string name="zen_upgrade_notification_title">Ha cambiado el modo No molestar</string>

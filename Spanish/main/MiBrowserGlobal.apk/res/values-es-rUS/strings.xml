@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Ir a Inicio</string>
-    <string name="abc_action_bar_up_description">Ir hacia arriba</string>
-    <string name="abc_action_menu_overflow_description">Más</string>
+    <string name="abc_action_bar_home_description">Navegar a la página principal</string>
+    <string name="abc_action_bar_up_description">Navegar hacia arriba</string>
+    <string name="abc_action_menu_overflow_description">Más opciones</string>
     <string name="abc_action_mode_done">Listo</string>
     <string name="abc_activity_chooser_view_see_all">Ver todas</string>
     <string name="abc_activitychooserview_choose_application">Elegir una app</string>
@@ -148,8 +148,8 @@
     <string name="app_name_miuiwallpaper">Fondos de pantalla</string>
     <string name="app_name_screenshot">Capturas de pantalla</string>
     <string name="app_new_version">La última versión de esta aplicación ya está instalada</string>
-    <string name="app_uninstall_description_content">"El navegador es una aplicación del sistema. No podrá utilizar los servicios de búsqueda y navegación web que proporciona después de desinstalar la aplicación."</string>
-    <string name="app_uninstall_description_title">¿Desinstalar el navegador?</string>
+    <string name="app_uninstall_description_content">"Navegador es una aplicación del sistema. No podrá utilizar los servicios de búsqueda y navegación web que proporciona después de desinstalar la aplicación."</string>
+    <string name="app_uninstall_description_title">¿Desinstalar Navegador?</string>
     <string name="app_update_install">Listo para instalar la actualización.</string>
     <string name="application_name">Navegador</string>
     <string name="aqi_quality_index_break">Severamente tóxica</string>
@@ -160,7 +160,7 @@
     <string name="aqi_quality_index_moderate">Moderada</string>
     <string name="aqi_quality_index_pure">Excelente</string>
     <string name="aqi_quality_index_unhealthy">Dañina</string>
-    <string name="articles_collection_empty">Aún no hay artículos</string>
+    <string name="articles_collection_empty">No hay artículos aquí todavía</string>
     <string name="auth_fail_warning">La sesión expiró. Vuelva a iniciar sesión.</string>
     <string name="autoSwithcingSearchEngineTips">Se cambió al motor de búsqueda frecuente</string>
     <string name="autologin_bar_error">"No se pudo iniciar sesión"</string>
@@ -245,7 +245,7 @@ Desactive el interruptor para dejar de sincronizar."</string>
     <string name="category_recent">Reciente</string>
     <string name="category_theme">Temas</string>
     <string name="category_type_other">Otro</string>
-    <string name="category_video">Vídeos</string>
+    <string name="category_video">Videos</string>
     <string name="category_zip">Archivos</string>
     <string name="change_activate_email">Cambiar dirección de correo</string>
     <string name="change_detail_page_ceiling_style">Use el maximo de detalle de página</string>
@@ -271,7 +271,7 @@ Desactive el interruptor para dejar de sincronizar."</string>
     <string name="clear_search_history">Borrar historial</string>
     <string name="clear_transfer_summary">Borre las banderas de configuración del sistema, para que pueda volver a transferir</string>
     <string name="clear_transfer_title">Limpiar banderas de transferencia</string>
-    <string name="clearable_edittext_clear_description">Eliminar</string>
+    <string name="clearable_edittext_clear_description">Borrar</string>
     <string name="click_always">Toque \"Siempre\"</string>
     <string name="click_to_refresh">Se detuvo aquí la última vez. Toque para actualizar</string>
     <string name="clip_dialog_title">¿Abrir la dirección copiada?</string>
@@ -293,7 +293,7 @@ Desactive el interruptor para dejar de sincronizar."</string>
     <string name="cloud_up_to_loading_tips">Libere para sincronizar</string>
     <string name="collect_diagnosis_log">Recolectar registros</string>
     <string name="collection_articles">Artículos</string>
-    <string name="collection_videos">Vídeos</string>
+    <string name="collection_videos">Videos</string>
     <string name="columbus_player_close_desc">Perderá su recompensa</string>
     <string name="columbus_player_close_resume">REANUDAR VIDEO</string>
     <string name="columbus_player_close_title">¿Cerrar vídeo?</string>
@@ -364,7 +364,7 @@ Desactive el interruptor para dejar de sincronizar."</string>
     <string name="confirm_privacy_password">Dibuje su patrón de desbloqueo</string>
     <string name="confirm_unbundled_phone_dialog_message">Este número telefónico fue asociado a la Cuenta Mi %2$s el %1$s. Dejará de estar asociado a la Cuenta Mi %3$s. ¿Continuar?</string>
     <string name="connection_lost">Desconectado</string>
-    <string name="content_collection_done">Añadido a favoritos con éxito</string>
+    <string name="content_collection_done">Agregado a Favoritos con éxito</string>
     <string name="contextmenu_add_contact">Añadir contacto</string>
     <string name="contextmenu_copy">Copiar</string>
     <string name="contextmenu_copylink">Copiar URL de enlace</string>
@@ -404,7 +404,7 @@ Las páginas que visite no aparecerán en el historial."</string>
     <string name="data_error">Error de datos</string>
     <string name="data_format_ymd">dd/MM/yyyy</string>
     <string name="date_picker_lunar">Calendario chino tradicional</string>
-    <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
+    <string name="date_time_picker_dialog_title">Ajustar fecha y hora</string>
     <string name="debug_youtube_file">Depurar archivo de youtube</string>
     <string name="debug_youtube_in_release">Depurar youtube en la versión</string>
     <string name="delete">Eliminar</string>
@@ -839,28 +839,28 @@ Envíe este código al supervisor."</string>
     <string name="miui_search_notification_title">Búsqueda</string>
     <string name="miui_startpage">Página de inicio</string>
     <string name="miuishare_title_share">Compartir</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Más</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Deseleccionar</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleccionar todo</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Buscar</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Deslice hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelte para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudo cargar los elementos"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar los elementos"</string>
     <string name="modify_download_path_no_sdcard_dlg_msg">Se necesita una tarjeta SD para modificar esta ruta.</string>
     <string name="monday">Lunes</string>
     <string name="monday_short">Lun</string>
@@ -977,7 +977,7 @@ Envíe este código al supervisor."</string>
     <string name="mw_common_google_play_services_enable_text">"%1$s no funcionará a menos que habilites los servicios de Google Play."</string>
     <string name="mw_common_google_play_services_enable_title">Habilitar servicios Google Play</string>
     <string name="mw_common_google_play_services_install_button">Instalar</string>
-    <string name="mw_common_google_play_services_install_text">"%1$s no se ejecutará sin los servicios de Google Play que faltan en su dispositivo."</string>
+    <string name="mw_common_google_play_services_install_text">"%1$s no se ejecutará sin los servicios de Google Play, que faltan en tu dispositivo."</string>
     <string name="mw_common_google_play_services_install_title">Obtener servicios de Google Play</string>
     <string name="mw_common_google_play_services_notification_channel_name">Disponibilidad de los servicios de Google Play</string>
     <string name="mw_common_google_play_services_notification_ticker">Error en los servicios de Google Play</string>
@@ -1148,12 +1148,12 @@ ID de falla: http: // crash /%1$s"</string>
     <string name="mw_time_picker_dialog_am">AM</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_title">Establecer hora</string>
-    <string name="mw_url_copied">URL copiada correctamente</string>
+    <string name="mw_url_copied">URL copiado con éxito</string>
     <string name="mw_video_buffering_percent">"Almacenando en búfer "</string>
     <string name="mw_video_download_no_permission">Permisos necesarios para descargar elementos</string>
     <string name="mw_video_float_drag_scale_msg">Arrastre para escalar</string>
     <string name="mw_video_float_window">Emergente</string>
-    <string name="mw_video_float_window_playing">Reproduciendo video</string>
+    <string name="mw_video_float_window_playing">Reproduciendo video en modo PiP…</string>
     <string name="mw_video_play_error">"No se pudo reproducir el video"</string>
     <string name="mw_webview_find_on_page">Buscar en la página</string>
     <string name="mw_webviewchromium_private_browsing_warning">"Esta función no es soportada en esta versión de Android."</string>
@@ -1203,7 +1203,7 @@ ID de falla: http: // crash /%1$s"</string>
     <string name="nf_set_follow_channel_as_default">Mostrar \"%s\" al inicio</string>
     <string name="nf_submit">Enviar</string>
     <string name="nick_name">Alias</string>
-    <string name="night">Tarde-noche</string>
+    <string name="night">Noche</string>
     <string name="no">No</string>
     <string name="no_account">No ha iniciado sesión</string>
     <string name="no_apk">Toque para obtener aplicaciones</string>
@@ -1692,8 +1692,8 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="same_folder_name_warning">Ya existe un grupo con el mismo nombre</string>
     <string name="same_new_and_old_pwd">"No puede ser igual a la contraseña actual"</string>
     <string name="saturday">Sábado</string>
-    <string name="saturday_short">Sáb</string>
-    <string name="saturday_shortest">Sáb</string>
+    <string name="saturday_short">Sab</string>
+    <string name="saturday_shortest">Sáb.</string>
     <string name="save_button_text">Guardar</string>
     <string name="save_dialog_title">Guardar</string>
     <string name="save_file">Guardar %s</string>
@@ -1874,7 +1874,7 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="summary_use_sandbox_domain">Activar para usar el dominio Sandbox</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
-    <string name="sunday_shortest">Dom</string>
+    <string name="sunday_shortest">Dom.</string>
     <string name="support_pwa">PWA</string>
     <string name="switchText">SÍ</string>
     <string name="switch_proxy_dialog_msg">"Se ha detectado un secuestro en la red. Use la app de seguridad integrada de MIUI o informe de esto a su compañía."</string>
@@ -1895,10 +1895,10 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="tabs_description">Pestañas</string>
     <string name="temporary_not_available">"Esta función todavía no está disponible"</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversario del Levantamiento de la Ley Marcial</string>
-    <string name="the_anti_aggression_day">Día de la lucha contra la agresión</string>
+    <string name="the_anti_aggression_day">Día de lucha contra la agresión</string>
     <string name="the_arbor_day">Día del árbol</string>
     <string name="the_armed_forces_day">Día de las Fuerzas Armadas</string>
-    <string name="the_armys_day">Día del Ejército Popular de Liberación</string>
+    <string name="the_armys_day">Dia del PLA</string>
     <string name="the_childrens_day">"Día de los niños"</string>
     <string name="the_chinese_youth_day">Día de la juventud</string>
     <string name="the_christmas_day">Navidad</string>
@@ -1907,7 +1907,7 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="the_easter_day">Pascua</string>
     <string name="the_eve_of_the_spring_festival">Víspera del Año Nuevo Chino</string>
     <string name="the_fifth_day">Quinto día del año nuevo chino</string>
-    <string name="the_fools_day">"Día de los Santos Inocentes"</string>
+    <string name="the_fools_day">"Día de los inocentes"</string>
     <string name="the_forth_day">Cuarto día del año nuevo chino</string>
     <string name="the_hksar_establishment_day">Día del establecimiento de Hong Kong</string>
     <string name="the_international_womens_day">"Día de la mujer"</string>
@@ -1915,11 +1915,11 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="the_labour_day">Día del trabajo</string>
     <string name="the_lantern_festival">Festival de la linterna</string>
     <string name="the_mid_autumn_festival">Festival de mediados de otoño</string>
-    <string name="the_national_day">Día nacional</string>
+    <string name="the_national_day">Día Nacional</string>
     <string name="the_national_father_day">"Cumpleaños de Sun Yat-sen"</string>
-    <string name="the_new_years_day">Año nuevo</string>
+    <string name="the_new_years_day">Año Nuevo</string>
     <string name="the_night_of_sevens">Festival Qixi</string>
-    <string name="the_partys_day">Día del Partido Comunista de China</string>
+    <string name="the_partys_day">Día del CPC</string>
     <string name="the_peace_day">Día de la Conmemoración</string>
     <string name="the_retrocession_day">Día de la Retrocesion</string>
     <string name="the_second_day">Segundo día del año nuevo chino</string>
@@ -1932,7 +1932,7 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="the_tw_childrens_day">"Día de los niños"</string>
     <string name="the_tw_youth_day">Día de la juventud</string>
     <string name="the_united_nations_day">Día de las Naciones Unidas</string>
-    <string name="the_valentines_day">"Día de San Valentín"</string>
+    <string name="the_valentines_day">"San Valentín"</string>
     <string name="the_water_lantern_festival">Festival de la linterna de agua</string>
     <string name="thursday">Jueves</string>
     <string name="thursday_short">Jue</string>
@@ -1940,9 +1940,9 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="ticket_hint">Código de verificación</string>
     <string name="ticket_invalid">El código que ingresó es incorrecto</string>
     <string name="ticket_sign_in">Iniciar sesión vía SMS</string>
-    <string name="time_picker_dialog_title">Establecer hora</string>
-    <string name="time_picker_label_hour">h</string>
-    <string name="time_picker_label_minute">min</string>
+    <string name="time_picker_dialog_title">Ajustar hora</string>
+    <string name="time_picker_label_hour">H</string>
+    <string name="time_picker_label_minute">M</string>
     <string name="tip_drag">Mantenga presionado para editar y arrastre para ordenar.</string>
     <string name="tip_not_support_external_sdcard_modify">"No se puede editar archivos almacenados en la tarjeta SD"</string>
     <string name="tip_sync_disabled_by_incognito">"No se puede sincronizar elementos en el Modo incógnito"</string>
@@ -2017,7 +2017,7 @@ Siempre puede inhabilitar en Ajustes &gt; Privacidad y Seguridad"</string>
     <string name="user_id_hint">Correo/Teléfono/Cuenta Mi</string>
     <string name="username">Nombre</string>
     <string name="uuid">UUID (haga clic para exportar)</string>
-    <string name="v5_edit_mode_title_empty">Seleccionar elementos</string>
+    <string name="v5_edit_mode_title_empty">0 seleccionados</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADA</string>
     <string name="v_code_title">Ingresar código de verificación</string>
@@ -2041,7 +2041,7 @@ Siempre puede inhabilitar en Ajustes &gt; Privacidad y Seguridad"</string>
     <string name="video_collection_empty">No hay videos aquí todavía</string>
     <string name="video_collection_known">Entendido</string>
     <string name="video_collection_view">Ver</string>
-    <string name="video_download_complete">Vídeo descargado correctamente</string>
+    <string name="video_download_complete">Descargado con éxito</string>
     <string name="video_downloader_edit_hint">"Pegue un enlace para descargar un vídeo. Por ejemplo:
 https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_downloader_fail">"No se pudo descargar este elemento"</string>
@@ -2093,8 +2093,8 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="webpage_title">Historial y marcadores</string>
     <string name="wechat_video">Video en %s</string>
     <string name="wednesday">Miércoles</string>
-    <string name="wednesday_short">Mié</string>
-    <string name="wednesday_shortest">Mié</string>
+    <string name="wednesday_short">Mie</string>
+    <string name="wednesday_shortest">Mie</string>
     <string name="welcome_to_mi_browser">¡Bienvenido a Navegador Mi!</string>
     <string name="what_is_new">Póngase en contacto con nuestro servicio al cliente para informar el problema.</string>
     <string name="whatsapp_downloadpage_tips">Capturador de estados de WhatsApp</string>
