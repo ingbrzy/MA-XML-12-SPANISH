@@ -64,8 +64,8 @@
     <string name="backup_warning_reason_app_usage_denied">"No se pudieron sincronizar los datos.
 Se requieren permisos."</string>
     <string name="backup_warning_reason_cloud_space_not_enough">"No se puede hacer una copia de seguridad"</string>
-    <string name="backup_warning_reason_disk_space_not_enough">"Sin espacio suficiente
-No se puede hacer una copia de seguridad"</string>
+    <string name="backup_warning_reason_disk_space_not_enough">"No se puede hacer una copia de seguridad.
+No hay suficiente espacio de almacenamiento."</string>
     <string name="backup_warning_reason_network_error">"Error de red
 No se puede hacer una copia de seguridad"</string>
     <string name="backup_warning_reason_no_server_response">"La conexión fue interrumpida
@@ -97,7 +97,7 @@ Vuelve a intentarlo"</string>
     <string name="cloud_app_backup_success">Aplicaciones respaldadas correctamente</string>
     <string name="cloud_app_check_data">Comunicándose con Xiaomi Cloud…</string>
     <string name="cloud_app_current_device">Dispositivo actual</string>
-    <string name="cloud_app_dont_restore">Configurar un dispositivo nuevo</string>
+    <string name="cloud_app_dont_restore">Usar como un nuevo dispositivo</string>
     <string name="cloud_app_no_data">No hay copias de seguridad</string>
     <string name="cloud_app_no_network">"No es posible conectarse a la red"</string>
     <string name="cloud_app_other_devices">Otros dispositivos</string>
@@ -152,7 +152,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="confirm_cancel_restore_title">¿Cancelar la restauración?</string>
     <string name="confirm_restore">Restaurar</string>
     <string name="confirm_restore_app_data">Sobrescribir datos de la aplicación</string>
-    <string name="confirm_restore_app_data_summary">La restauración de los datos de WeChat sobrescribirá la versión actual de los datos de la aplicación en este dispositivo. ¿Restaurar de todos modos?</string>
+    <string name="confirm_restore_app_data_summary">Parece que WeChat ya generó datos en este dispositivo. ¿Sobrescribirlo con los datos de la copia de seguridad?</string>
     <string name="confirm_restore_summary">Tu Pantalla de inicio será relanzada. Las aplicaciones copiadas serán descargadas automáticamente.</string>
     <string name="confirm_restore_title">Restaurar</string>
     <string name="copy">Copiar</string>
@@ -167,6 +167,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="desktop_wait_network">Esperando…</string>
     <string name="desktop_waiting">Esperando</string>
     <string name="device_delete_prompt">¿Eliminar la copia de seguridad de %s?</string>
+    <string name="dialog_app_usage_consent_message">Esta función necesita acceder a los datos de uso de la aplicación para poder estimar el tamaño de las copias de seguridad de WeChat.</string>
+    <string name="dialog_app_usage_consent_title">Permitir el acceso a los datos de uso de la aplicación</string>
     <string name="dialog_app_usage_denied">Otorgue el permiso de copia de seguridad \"Acceso de uso\" en la configuración para poder realizar copias de seguridad de los elementos.</string>
     <string name="dialog_backup_failed">"No se pudo realizar la copia de seguridad"</string>
     <string name="dialog_btn_cancel_backup">Cancelar</string>
@@ -175,6 +177,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="dialog_btn_next">Siguiente</string>
     <string name="dialog_btn_overwrite_backup">Sobreescribir</string>
     <string name="dialog_btn_restore_skip">Restaurar más tarde</string>
+    <string name="dialog_button_agree">Permitir</string>
+    <string name="dialog_button_disagree">"No permitir"</string>
     <string name="dialog_buy_cloud_space">Actualizar</string>
     <string name="dialog_cancel_backup_cancel">Cancelar</string>
     <string name="dialog_cancel_backup_confirm">OK</string>
@@ -196,6 +200,11 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="download_meta_failed">"No se pudieron cargar los datos."</string>
     <string name="download_settings">Descargando Ajustes de Pantalla de inicio: %s%%</string>
     <string name="download_settings_fail">"No se han podido descargar los Ajustes de Pantalla de inicio"</string>
+    <string name="dump_app_data_record_complete_msg">Ubicaciones de archivos: %s</string>
+    <string name="dump_app_data_record_complete_title">Realizó una copia de seguridad de los datos de WeChat con éxito</string>
+    <string name="dump_app_data_record_not_found_msg">"Parece que no ha hecho una copia de seguridad de los datos de WeChat antes"</string>
+    <string name="dump_app_data_record_not_found_title">"No se pudieron encontrar las copias de seguridad de WeChat"</string>
+    <string name="dump_app_data_record_running_title">Hacer una copia de seguridad de los datos de WeChat…</string>
     <string name="early_morning">Mañana</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
@@ -360,6 +369,8 @@ Comprueba tus ajustes de red y vuelve a intentarlo."</string>
     <string name="restore_init_description">Comenzar la restauración</string>
     <string name="restore_network_pause">Detenido para ahorrar datos móviles. Pulsa para reanudar.</string>
     <string name="restore_network_unconnect">%s (esperando la conexión)</string>
+    <string name="restore_prepare_item_type_enable">Copias de seguridad disponibles</string>
+    <string name="restore_prepare_item_type_other">Otras copias de seguridad</string>
     <string name="restore_task_cancelling">Cancelando…</string>
     <string name="restore_task_in_process">Restaurando…</string>
     <string name="restore_task_unfinished">"No se pudo restaurar"</string>
@@ -375,8 +386,8 @@ Comprueba tus ajustes de red y vuelve a intentarlo."</string>
     <string name="saturday_shortest">Sáb</string>
     <string name="search_menu_title">Buscar</string>
     <string name="selected">Seleccionado</string>
-    <string name="self_device_main_space">"El Primer espacio de este teléfono"</string>
-    <string name="self_device_second_space">"El Segundo espacio de este teléfono"</string>
+    <string name="self_device_main_space">Primer espacio</string>
+    <string name="self_device_second_space">Segundo espacio</string>
     <string name="send">Enviar</string>
     <string name="settings_backup">Ajustes del sistema</string>
     <string name="size_unknown">Tamaño desconocido</string>

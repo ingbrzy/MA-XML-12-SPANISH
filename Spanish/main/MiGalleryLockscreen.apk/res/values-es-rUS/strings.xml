@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
-    <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
+    <string name="abc_action_bar_home_description">Navegar a la página principal</string>
+    <string name="abc_action_bar_up_description">Navegar hacia arriba</string>
     <string name="abc_action_menu_overflow_description">Más opciones</string>
     <string name="abc_action_mode_done">Listo</string>
-    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
-    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
-    <string name="abc_capital_off">DESACTIVADO</string>
-    <string name="abc_capital_on">ACTIVADO</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todas</string>
+    <string name="abc_activitychooserview_choose_application">Elegir una app</string>
+    <string name="abc_capital_off">DESACTIVAR</string>
+    <string name="abc_capital_on">ACTIVAR</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
-    <string name="abc_menu_delete_shortcut_label">eliminar</string>
+    <string name="abc_menu_delete_shortcut_label">borrar</string>
     <string name="abc_menu_enter_shortcut_label">intro</string>
     <string name="abc_menu_function_shortcut_label">Función+</string>
     <string name="abc_menu_meta_shortcut_label">Meta +</string>
-    <string name="abc_menu_shift_shortcut_label">Mayús +</string>
+    <string name="abc_menu_shift_shortcut_label">Mayúscula+</string>
     <string name="abc_menu_space_shortcut_label">espacio</string>
     <string name="abc_menu_sym_shortcut_label">Sym +</string>
     <string name="abc_prepend_shortcut_label">Menú+</string>
     <string name="abc_search_hint">Buscar…</string>
     <string name="abc_searchview_description_clear">Borrar consulta</string>
-    <string name="abc_searchview_description_query">Consulta</string>
+    <string name="abc_searchview_description_query">Búsqueda</string>
     <string name="abc_searchview_description_search">Buscar</string>
     <string name="abc_searchview_description_submit">Enviar consulta</string>
     <string name="abc_searchview_description_voice">Búsqueda por voz</string>
@@ -95,7 +95,7 @@
     <string name="addcw_apply_btn_txt">Añadir fondo</string>
     <string name="afternoon">Tarde</string>
     <string name="am">AM</string>
-    <string name="app_name">Carrusel de fondos</string>
+    <string name="app_name">Carrusel de fondos de pantalla</string>
     <string name="app_self_upgrade_dlg_checkbox_ignore_version">Ignorar esta versión</string>
     <string name="app_self_upgrade_dlg_content">Una nueva version esta disponible. ¿Actualizar ahora?</string>
     <string name="app_self_upgrade_dlg_negative_btn">Más tarde</string>
@@ -109,7 +109,7 @@
     <string name="article_item_hot">Echa un vistazo a %s+ artículos populares</string>
     <string name="at_least_one">Seleccione al menos una categoría</string>
     <string name="auth_fail_warning">Sesión caducada. Vuelve a iniciar sesión.</string>
-    <string name="auto_interval">Cada vez que el dispositivo se desbloquea</string>
+    <string name="auto_interval">Automático</string>
     <string name="back_icon_content_description">Atrás</string>
     <string name="bind_sign_in_title">Añadir cuenta</string>
     <string name="cancel">Cancelar</string>
@@ -194,9 +194,9 @@
     <string name="cw_wallpaper_manager">Administrar fondos de pantalla</string>
     <string name="date_picker_lunar">Calendario Chino Tradicional</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
-    <string name="day">Todos los días</string>
-    <string name="declaration">Recibe nuevos fondos de pantalla directamente en tu pantalla de bloqueo todos los días de forma gratuita.</string>
-    <string name="declaration_lockscreen_title">Obtenga nuevos fondos de pantalla de bloqueo diariamente</string>
+    <string name="day">Una vez al día</string>
+    <string name="declaration">Reciba diariamente en su pantalla de bloqueo nuevos fondos de pantalla con el carrusel de fondos de pantalla.</string>
+    <string name="declaration_lockscreen_title">Carrusel de fondos de pantalla</string>
     <string name="declaration_title">Términos y Condiciones</string>
     <string name="delete_pic">Eliminar Imagen</string>
     <string name="deny_des">Carrusel de Fondos necesita acceso a la Galería para poder funcionar con normalidad.</string>
@@ -240,7 +240,7 @@ Envíe este código al supervisor."</string>
     <string name="disable_dlg_content">"No podrá recibir imágenes nuevas en la pantalla de inicio y la pantalla de bloqueo si desactiva Wallpaper Carousel. ¿Apagar de todos modos?"</string>
     <string name="disable_dlg_ok">Apagar</string>
     <string name="disable_dlg_title">Desactivar Carrusel de Fondos?</string>
-    <string name="dislike">Borrar</string>
+    <string name="dislike">Eliminar</string>
     <string name="dlg_cancel">Cancelar</string>
     <string name="double_click_to_exit_activity">Toca de nuevo para salir</string>
     <string name="early_morning">Mañana</string>
@@ -303,7 +303,7 @@ Envíe este código al supervisor."</string>
     <string name="just_a_second">Un momento…</string>
     <string name="later">"No apague"</string>
     <string name="launch_bg_permission_exception">Permitir que Wallpaper Carousel muestre ventanas emergentes mientras se ejecuta en segundo plano en Seguridad</string>
-    <string name="like">Agregar a los favoritos</string>
+    <string name="like">Agregar a favoritos</string>
     <string name="liked">Añadido a favoritos</string>
     <string name="lks_left_net_deny">La conexión de red está restringida</string>
     <string name="lks_left_net_error">"No se pudo conectar a la red."</string>
@@ -349,8 +349,8 @@ Envíe este código al supervisor."</string>
     <string name="lockscreen_h5_refresh_btn_tv">Refrescar</string>
     <string name="lockscreen_h5_refresh_tip">Comprueba la configuración de tu red y vuelve a intentarlo.</string>
     <string name="lockscreen_magazine_summary">Seleccionar categorias</string>
-    <string name="lockscreen_magazine_system_title">Defecto</string>
-    <string name="lockscreen_magazine_title">Carrusel de papel tapiz</string>
+    <string name="lockscreen_magazine_system_title">Desconectado</string>
+    <string name="lockscreen_magazine_title">Carrusel de fondos de pantalla</string>
     <string name="logout_account">Cerrar sesión</string>
     <string name="look_str">Popular</string>
     <string name="main_fragment_title_discover">Descubrir</string>
@@ -495,12 +495,12 @@ mm"</string>
     <string name="no_phone">No hay número de teléfono</string>
     <string name="no_pic_data">"No se pudieron encontrar imágenes"</string>
     <string name="noon">Mediodía</string>
-    <string name="ok">Ok</string>
+    <string name="ok">Aceptar</string>
     <string name="ok_enable_network_prov">Aceptar</string>
     <string name="ok_enable_network_prov2">Aceptar</string>
-    <string name="ok_international">Aceptar</string>
-    <string name="ok_lockscreen">Aceptar</string>
-    <string name="ok_network">Aceptar</string>
+    <string name="ok_international">Acepto</string>
+    <string name="ok_lockscreen">Activar</string>
+    <string name="ok_network">Acepto</string>
     <string name="open_btn_finish">Hecho</string>
     <string name="open_btn_next">Siguiente</string>
     <string name="open_btn_start">Activar Carrusel de Fondos</string>
@@ -817,9 +817,9 @@ mm"</string>
     <string name="subscribe_success_content_per_three_hour">Cambiar el fondo de pantalla cada 3 horas</string>
     <string name="subscribe_success_content_per_unlock">Cambiar el fondo de pantalla cada vez que se bloquea el dispositivo</string>
     <string name="subscribe_update_time_setting">Establecer un intervalo diferente</string>
-    <string name="summary">"Acepta nuestra &lt;a href='%s'&gt;Politica de Privacidad&lt;/a&gt; para acceder a contenido online. Si no estás de acuerdo, los fondos de pantalla locales seguirán estando disponibles."</string>
+    <string name="summary">"Al usar el carrusel de fondos de pantalla, usted acepta nuestro &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=es_US'&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href='http://www.miui.com/res/doc/privacy/es_la.html'&gt;Política de Privacidad&lt;/a&gt;. El carrusel de fondos de pantalla necesita conectarse a internet para funcionar correctamente."</string>
     <string name="summary2">"Al utilizar esta función, acepta nuestro &lt;font color='#0D84FF'&gt;&lt;a href ='%1$s'&gt;Acuerdo de usuario&lt;/font&gt;&lt;/a&gt; y &lt;font color='#0D84FF'&gt;&lt;a href='%2$s'&gt;Política de privacidad&lt;/font&gt;&lt;/a&gt;. Esta función debe conectarse a Internet para funcionar con normalidad."</string>
-    <string name="summary_international">"Al utilizar esta función, acepta nuestro &lt;a href ='%1$s'&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href='%2$s'&gt;Política de privacidad&lt;/a&gt;. Esta función debe conectarse a Internet para funcionar con normalidad"</string>
+    <string name="summary_international">"Al usar el carrusel de fondos de pantalla, usted acepta nuestro &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=es_US'&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href='http://www.miui.com/res/doc/privacy/es_la.html'&gt;Política de Privacidad&lt;/a&gt;. El carrusel de fondos de pantalla necesita conectarse a internet para funcionar correctamente."</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

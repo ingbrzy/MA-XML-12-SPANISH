@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="cell_layout_size_entries">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="cell_layout_size_values">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
     <string-array name="editing_mode_entries">
         <item>Fondo de pantalla</item>
         <item>Widgets</item>
@@ -35,9 +43,6 @@
     <string-array name="gadget_weather_theme_type_entries">
         <item>Predeterminado</item>
         <item>Clásico</item>
-    </string-array>
-    <string-array name="quality_business_devices">
-        <item>litio</item>
     </string-array>
     <string-array name="transformation_entries">
         <item>Deslizar</item>

@@ -62,7 +62,7 @@
 ID de su cuenta: %s"</string>
     <string name="account_token_expired_title">"No se pudo autentificar"</string>
     <string name="account_user_avatar">Foto de perfil</string>
-    <string name="account_user_avatar_from_album">Elegir foto</string>
+    <string name="account_user_avatar_from_album">Seleccione una foto</string>
     <string name="account_user_avatar_from_camera">Tomar una foto</string>
     <string name="account_user_base_info">Información personal</string>
     <string name="account_user_birthday">Fecha de nacimiento</string>
@@ -197,11 +197,11 @@ Enviar este código al supervisor."</string>
     <string name="find_device_access_denied">"No se pudo obtener estatus, acceso negado"</string>
     <string name="find_device_account_error">"No se pudo obtener estatus debido a un error de cuenta"</string>
     <string name="find_device_activate_account">Activar la cuenta</string>
-    <string name="find_device_bad_response_error">Ha ocurrido un error de servidor, espere unos minutos y vuelva a intentarlo</string>
+    <string name="find_device_bad_response_error">Ocurrió un error en el servidor. Espere uno o dos minutos y vuelva a intentarlo.</string>
     <string name="find_device_clear_data">Eliminar datos</string>
     <string name="find_device_close">Activado</string>
     <string name="find_device_error_password_not_confirmed">"No se pudo desactivar Encontrar dispositivo. Ingrese de nuevo la contraseña de su Cuenta Mi."</string>
-    <string name="find_device_error_password_recently_changed">"Cambio su contraseña hace menos de 3 días. No puede desactivar Encontrar dispositivo debido a razones de seguridad."</string>
+    <string name="find_device_error_password_recently_changed">"Ha cambiado su contraseña en los últimos %d días. No se puede desactivar Encontrar dispositivo ahora por motivos de seguridad."</string>
     <string name="find_device_interrupted">Se interrumpió la acción, espere unos minutos y vuelva a intentarlo</string>
     <string name="find_device_io_error">"No se pudo conectar a la red"</string>
     <string name="find_device_location">Localizar</string>
@@ -220,13 +220,15 @@ Enviar este código al supervisor."</string>
     <string name="find_device_request_prepare_error">"No se pudo obtener el estatus, inténte de nuevo más tarde"</string>
     <string name="find_device_set_lost_model">Modo perdido</string>
     <string name="find_device_title">Encontrar dispositivo</string>
-    <string name="find_device_unknown_error">"No se puede obtener el estado del dispositivo, espere unos minutos y vuelva a intentarlo"</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
+    <string name="find_device_unknown_error">"No se puede obtener el estado del dispositivo. Espere uno o dos minutos y vuelva a intentarlo."</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fmt_time_12hour">"h 'en punto'"</string>
+    <string name="fmt_time_24hour">"HH 'en punto'"</string>
     <string name="for_diagnosis_usage_only">Utilizado solo para ubicar problemas.</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
@@ -263,7 +265,7 @@ Enviar este código al supervisor."</string>
     <string name="loading_micloud_sync_data">Un momento…</string>
     <string name="login_check_find_device">Obteniendo información de seguridad del dispositivo…</string>
     <string name="login_check_find_device_failed_title">"No se pudo comprobar la información de seguridad del dispositivo"</string>
-    <string name="login_find_device_bind">Este dispositivo esta asociado a un ID de Cuenta Mi existente (%s).</string>
+    <string name="login_find_device_bind">Este dispositivo está asociado con un ID de una cuenta Mi existente (%s).</string>
     <string name="logout_account">Cerrar sesión</string>
     <string name="logout_failed">"No se pudo cerrar sesión"</string>
     <string name="mi_account_identity_title">Verifique su identidad</string>
