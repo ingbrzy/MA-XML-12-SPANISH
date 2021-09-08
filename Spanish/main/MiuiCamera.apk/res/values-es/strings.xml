@@ -97,6 +97,15 @@
     <string name="accessibility_flash_off">Flash desactivado</string>
     <string name="accessibility_flash_on">Flash activado</string>
     <string name="accessibility_flash_torch">Flash activado, modo linterna</string>
+    <string name="accessibility_focus_face_pos_bottom">Ubicado cerca del borde inferior del marco</string>
+    <string name="accessibility_focus_face_pos_left">Ubicado cerca del borde izquierdo del marco</string>
+    <string name="accessibility_focus_face_pos_left_bottom">Ubicado cerca de la esquina inferior izquierda del marco</string>
+    <string name="accessibility_focus_face_pos_left_top">Ubicado cerca de la esquina superior izquierda del marco</string>
+    <string name="accessibility_focus_face_pos_mid">Ubicado cerca del centro del marco</string>
+    <string name="accessibility_focus_face_pos_right">Ubicado cerca del borde derecho del marco</string>
+    <string name="accessibility_focus_face_pos_right_bottom">Ubicado cerca de la esquina inferior derecha del marco</string>
+    <string name="accessibility_focus_face_pos_right_top">Ubicado cerca de la esquina superior derecha del marco</string>
+    <string name="accessibility_focus_face_pos_top">Ubicado cerca del borde superior del marco</string>
     <string name="accessibility_focus_status">%1$sX zoom</string>
     <string name="accessibility_foucs_peak">Valor máximo</string>
     <string name="accessibility_front_preview_status">Previsualización de la cámara frontal</string>
@@ -320,6 +329,7 @@
     <string name="ambilight_tips_for_longtime_using_tripod">Usa un trípode para obtener mayor exposición</string>
     <string name="ambilight_tips_for_suggest_using_tripod">Usa un trípode</string>
     <string name="ambilight_tips_for_using_tripod">Usa un trípode</string>
+    <string name="app_name">logProvider</string>
     <string name="audio_focus_exit_button_text">Desactivar enfoque por voz</string>
     <string name="audio_map_summary_tip">Controle el volumen de los canales izquierdo y derecho en tiempo real y ajústelo con el control deslizante</string>
     <string name="auto_hibernation_enter_tip">A punto de apagar la pantalla…</string>
@@ -330,7 +340,10 @@
     <string name="auxiliary_close_status">Efectos adicionales desactivados</string>
     <string name="auxiliary_exposure_feedback_status">Verificación de la exposición activada</string>
     <string name="auxiliary_focus_peak_status">Pico de enfoque activado</string>
+    <string name="back_XIG02">3:REDMI NOTE 10 JE</string>
     <string name="back_bokeh_use_hint">Mantén el sujeto a menos de 1,5 metros para obtener el mejor efecto</string>
+    <string name="back_iris">3:REDMI NOTE 10 JE</string>
+    <string name="back_odin">3:XIAOMI MIX 4</string>
     <string name="background">Fondo</string>
     <string name="beauty_body">Figura</string>
     <string name="beauty_body_body">Esbelto</string>
@@ -354,6 +367,7 @@
     <string name="beauty_makeups_pinkfemale">Pétalo</string>
     <string name="beauty_makeups_solid">Contorno</string>
     <string name="beauty_makeups_toughman">Bronce</string>
+    <string name="beauty_mo_or">xxx</string>
     <string name="beauty_mode_reset_toast">Efectos de remodelación eliminados con éxito</string>
     <string name="beauty_origin_skincolor">Original</string>
     <string name="beauty_reset">Restablecer</string>
@@ -575,11 +589,13 @@ los documentos escaneados automáticamente"</string>
     <string name="dolly_zoom_guide_tip9">Callejones.</string>
     <string name="dolly_zoom_guide_video_title1">Zoom mágico</string>
     <string name="dolly_zoom_guide_video_title2">Escenas</string>
+    <string name="download_alert">"No se puede editar durante las descargas en curso"</string>
     <string name="download_cancel_hint">¿Cancelar la descarga de %1$s?</string>
     <string name="download_confirm">Descargar</string>
     <string name="download_hint">Se usarán %1$s MB de datos móviles para descargar los elementos. ¿Descargar de todas formas?</string>
     <string name="download_in_progress">Descargando…</string>
     <string name="download_title">Aviso de uso de datos</string>
+    <string name="download_waiting">Pendiente…</string>
     <string name="dual_camera_lens_covered_toast">La lente está cubierta.</string>
     <string name="dual_camera_lowlight_toast">"Parece que está demasiado oscuro."</string>
     <string name="dual_camera_too_close_toast">La cámara está demasiado cerca del objeto.</string>
@@ -1130,6 +1146,7 @@ el fondo de tus fotos"</string>
     <string name="portrait_mode_use_hint">"Modo retrato difumina el segundo plano
 y resalta las personas en primer plano."</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Prueba el Modo retrato. Mantiene el sujeto nítido mientras difumina el fondo."</string>
+    <string name="pre_volume_gain_adjust">Ganar ajuste</string>
     <string name="pref_960_watermark_title">Marca de agua 960FPS</string>
     <string name="pref_a_c_f">Sonógrafo</string>
     <string name="pref_advance_settings">Ajustes adicionales</string>
@@ -1823,6 +1840,7 @@ El Modo ultra gran angular es de ayuda cuando no te puedes alejar más de la esc
     <string name="video_effect_entry_summer_day">Verano</string>
     <string name="video_effect_entry_summer_day_describe">Los tonos brillantes y de bajo contraste funcionan bien cuando necesitas preservar los tonos de piel. Este filtro es adecuado para escenas soleadas al aire libre.</string>
     <string name="video_effect_entry_wind_sing">Brisa</string>
+    <string name="video_overheat_tip_content">Parece que tu dispositivo está demasiado caliente. Intente grabar videos en una resolución más baja.</string>
     <string name="video_reach_size_limit">Límite de tamaño alcanzado.</string>
     <string name="video_shortcut_short">Vídeo</string>
     <string name="video_tag_flag_title">Etiqueta</string>
@@ -1837,6 +1855,7 @@ El Modo ultra gran angular es de ayuda cuando no te puedes alejar más de la esc
 grabar y editar vídeos sobre la marcha"</string>
     <string name="vv_use_hint_text_title">VLOG</string>
     <string name="wait">Un momento…</string>
+    <string name="watermark_count_format" formatted="false">%d/%d</string>
     <string name="watermark_tab_city">Ciudad</string>
     <string name="watermark_tab_festival">Festivo</string>
     <string name="watermark_tab_general">General</string>

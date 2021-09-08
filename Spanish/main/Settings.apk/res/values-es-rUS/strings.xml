@@ -3407,6 +3407,7 @@ Cuando activas la copia de seguridad automática, los datos del dispositivo y la
     <string name="headset_remove_message">¿Desemparejar dispositivo?</string>
     <string name="headset_remove_message_indicate">%1$s se desemparejará de todos los dispositivos asociados con esta Cuenta Mi.</string>
     <string name="headset_settings_title">Efectos de sonido</string>
+    <string name="headset_toast_tip_disconnect_others">El auricular no se puede configurar en este momento, su auricular puede estar conectado a otro teléfono</string>
     <string name="headset_unsaved_device">Quitar el dispositivo</string>
     <string name="headset_unsaved_devices">Usado en otros dispositivos</string>
     <string name="hearing_aids_category">Herramientas de ayuda auditiva</string>
@@ -4001,6 +4002,8 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="lock_profile_wipe_warning_content_pattern">Si esta vez ingresa un patrón de trabajo incorrecto, su perfil de trabajo y los datos asociados serán eliminados de este dispositivo.</string>
     <string name="lock_profile_wipe_warning_content_pin">Si esta vez ingresa un PIN de trabajo incorrecto, su perfil de trabajo y los datos asociados serán eliminados de este dispositivo.</string>
     <string name="lock_screen_action">Elementos que se muestran en la pantalla de bloqueo después de deslizar hacia abajo</string>
+    <string name="lock_screen_after_fold_screen_summary">Al usar la cámara frontal o el auricular, la pantalla no se bloquea después de plegar</string>
+    <string name="lock_screen_after_fold_screen_title">Bloquear la pantalla después de doblar la pantalla</string>
     <string name="lock_screen_display_category_name">Pantalla de bloqueo</string>
     <string name="lock_screen_intro_skip_dialog_text">No se activarán las funciones de protección del dispositivo. No podrás impedir que otras personas usen este teléfono si lo pierdes o te lo roban.</string>
     <string name="lock_screen_intro_skip_dialog_text_frp">No se activarán las funciones de protección del dispositivo. No podrás impedir que otras personas usen este teléfono si lo pierdes, te lo roban o se restablece.</string>
@@ -4217,7 +4220,7 @@ del segundo espacio"</string>
     <string name="magic_list_empty_text">No hay aplicaciones compatibles con esta función ahora</string>
     <string name="magic_list_empty_text_pad">No hay aplicaciones compatibles con esta función ahora</string>
     <string name="magic_window_name">Ventanas paralelas</string>
-    <string name="magic_window_name_pad">Optimice las aplicaciones para la vista horizontal</string>
+    <string name="magic_window_name_pad">Optimización de la vista horizontal</string>
     <string name="main_netcheck_summary">Probar la conexión para detectar problemas de red</string>
     <string name="main_running_process_description">Proceso principal en uso.</string>
     <string name="main_toolbar_statistic">Estadísticas del uso de datos</string>
@@ -4619,6 +4622,8 @@ Continúe para acceder a los ajustes adicionales."</string>
     <string name="miui_touch_filtered_warning">Si una aplicación está bloqueando el diálogo de permisos, arrastre el elemento sobrepuesto a un lado o cierre la aplicación.</string>
     <string name="miui_updater">Actualización del sistema</string>
     <string name="miui_userguide">Guía de usuario</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecciona elementos</string>
@@ -4633,6 +4638,7 @@ Continúe para acceder a los ajustes adicionales."</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Deslice hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -5420,6 +5426,7 @@ Abra Xiaomi Cloud y restaure elementos desde allí."</string>
     <string name="paper_mode_summary">Cambiar a colores más cálidos y añadir textura de papel a los fondos para reducir la fatiga visual</string>
     <string name="paper_mode_title">Papel</string>
     <string name="papger_effect_category">Modo</string>
+    <string name="params_interpretation">Especificaciones detalladas</string>
     <string name="partial_connectivity_text">Puede que algunas apps y servicios no funcionen debido a la conectividad limitada. ¿Usar igualmente?</string>
     <string name="passpoint_content">Credenciales de %1$s</string>
     <string name="passpoint_label">Se guardó mediante</string>
@@ -8218,6 +8225,7 @@ Toque \"+\" para agregar palabras."</string>
     <string name="video_tool_box_title">Caja de herramientas de video</string>
     <string name="view_saved_network">Elige una red guardada para verla</string>
     <string name="vip_list">Notificar sobre llamadas</string>
+    <string name="vip_service_settings">Mis servicios</string>
     <string name="virtual_keyboard_category">Teclado en pantalla</string>
     <string name="virtual_keyboards_for_work_title">Teclado en pantalla para el trabajo</string>
     <string name="virtual_sim_category_title">Mi Roaming</string>

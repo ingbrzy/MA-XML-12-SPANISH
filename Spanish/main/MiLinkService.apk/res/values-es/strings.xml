@@ -30,7 +30,6 @@
     <string name="account_other">Otros</string>
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="afternoon">Tarde</string>
-    <string name="app_name">Emisión</string>
     <string name="audio_record_des">Para transmitir audio desde su dispositivo móvil a monitores externos</string>
     <string name="casting_tips">Emitiendo…</string>
     <string name="clearable_edittext_clear_description">Eliminar</string>
@@ -60,8 +59,8 @@
     <string name="dialog_miplay_permission_positive">Ajustes</string>
     <string name="dialog_miplay_permission_title">Permisos requeridos</string>
     <string name="dialog_nfc_cast_wifi_off">Activa el Wi-Fi para poder emitir usando el NFC. ¿Activar ahora?</string>
-    <string name="dialog_no_device_message">&lt;Data&gt;1. Conecta tu teléfono y televisor a la misma red Wi-Fi.&lt;br&gt;&lt;br&gt;2. En algunos modelos de TV, esta función solo está disponible cuando Screen Mirroring está activado. Mira &lt;a href=milink://com.milink.service/specification&gt;\"Ayuda\"&lt;/a&gt; para saber más.&lt;/Data&gt;</string>
-    <string name="dialog_no_device_message_china">&lt;Data&gt;1. Connect both your phone and TV to the same WLAN network.&lt;br&gt;&lt;br&gt;2. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification&gt;\"Help\"&lt;/a&gt; to learn more.&lt;/Data&gt;</string>
+    <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1&gt;%1$d&lt;/xliff:g&gt;. Conecte tanto su dispositivo móvil como su televisor a la misma red Wi-Fi.&lt;br&gt;&lt;br&gt;&lt;xliff:g id=count refersto=2&gt;%2$d&lt;/xliff:g&gt;. En algunos modelos de TV, esta función solo está disponible cuando la duplicación de pantalla está activada. Vea &lt;a href=milink://com.milink.service/specification&gt;\"Ayuda\"&lt;/a&gt; para obtener más información.</Data></string>
+    <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1&gt;%1$d&lt;/xliff:g&gt;. Conecte tanto su dispositivo móvil como su televisor a la misma red Wi-Fi.&lt;br&gt;&lt;br&gt;&lt;xliff:g id=count refersto=2&gt;%2$d&lt;/xliff:g&gt;. En algunos modelos de TV, esta función solo está disponible cuando la duplicación de pantalla está activada. Vea &lt;a href=milink://com.milink.service/specification&gt;\"Ayuda\"&lt;/a&gt; para obtener más información.</Data></string>
     <string name="dialog_ok">Ok</string>
     <string name="dialog_only_suport_content">Retransmitir fotos, vídeos o música</string>
     <string name="dialog_open_wifi_bt">Activar</string>
@@ -69,17 +68,17 @@
 Consulta la ayuda si tienes problemas para conectarte."</string>
     <string name="dialog_recent_connected">Recientes</string>
     <string name="dialog_retry">Vuelve a intentarlo</string>
-    <string name="dialog_scan_message">"1. Conecta tu teléfono y televisor a la misma red Wi-Fi.
+    <string name="dialog_scan_message">"%1$d. Conecte tanto su dispositivo móvil como su televisor a la misma red Wi-Fi.
 
-. En algunos modelos de TV, esta función solo está disponible cuando Screen Mirroring está activado. Mira \"Ayuda\" para saber más."</string>
-    <string name="dialog_scan_message_china">"1. Connect both your phone and TV to the same WLAN network.
+%2$d. Vea \"Ayuda\" para obtener más información."</string>
+    <string name="dialog_scan_message_china">"%1$d. Conecte tanto su dispositivo móvil como su televisor a la misma red Wi-Fi.
 
-2. On some TV models, this feature is only available when screen mirroring is on. View \"Help\" to learn more."</string>
+%2$d. Vea \"Ayuda\" para obtener más información."</string>
     <string name="dialog_scanning_device">Buscando dispositivos cercanos…</string>
     <string name="dialog_scanning_precondition">Activa el Wi-Fi y Bluetooth en tu teléfono para usar la Pantalla inalámbrica.</string>
     <string name="dialog_scanning_precondition_new_china">Activa los servicios de ubicación, WLAN y Bluetooth para poder emitir. ¿Activar ahora?</string>
     <string name="dialog_scanning_precondition_new_global">Activa los servicios de ubicación, Wi-Fi y Bluetooth para poder emitir. ¿Activar ahora?</string>
-    <string name="dialog_select_tv">Seleccionar dispositivo (%d)</string>
+    <string name="dialog_select_tv">Seleccionar dispositivo (%1$d)</string>
     <string name="dialog_show_help">Ayuda</string>
     <string name="disconnect">Detener la emisión</string>
     <string name="early_morning">Mañana</string>
@@ -89,18 +88,15 @@ Consulta la ayuda si tienes problemas para conectarte."</string>
     <string name="evening">Tarde</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="file_read_des">Para mostrar fotos y otros archivos en monitores externos</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year_month">MM/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
-    <string name="fmt_time_24hour">H</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fmt_time_12hour">"h 'en punto'"</string>
+    <string name="fmt_time_24hour">"HH 'en punto'"</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
@@ -123,30 +119,34 @@ Consulta la ayuda si tienes problemas para conectarte."</string>
     <string name="help_page_text_02">¿Qué es emitir?</string>
     <string name="help_page_text_03">"Emitir es proyectar elementos desde la pantalla de tu teléfono en un monitor externo más grande. Esto te permite compartir imágenes y vídeos con tus amigos y familiares sin usar datos móviles."</string>
     <string name="help_page_text_04">¿Cómo emito elementos en una pantalla más grande?</string>
-    <string name="help_page_text_05">Paso 1: comprueba tus dispositivos y ambiente de red</string>
-    <string name="help_page_text_06">"1. No necesitas conectarte a internet para emitir algo desde tu teléfono Mi a tu Mi TV.
-2. Si no puedes establecer conexión entre los dos dispositivos, intenta conectar ambos a la misma red Wi-Fi."</string>
-    <string name="help_page_text_06_global">"1. Mi TV, Mi Box y Mi Projector:
-Conecta tu teléfono y monitor externo a la misma red Wi-Fi para obtener el mejor efecto. Si están conectados a diferentes redes, puede llevar más tiempo encontrar el monitor externo y conectarse.
-Nota: Es posible que los televisores Mi más antiguos no soporten la transmisión a través de diferentes redes.
-2. Si usas televisores, decodificadores o proyectores de otras marcas, conecta el teléfono y el monitor externo a la misma red Wi-Fi.
-Si los dos dispositivos no se pueden conectar a la misma red, enciende Miracast en tu monitor externo. El nombre de la funcionalidad de Miracast puede variar."</string>
-    <string name="help_page_text_08">Paso 2: activar emisión</string>
+    <string name="help_page_text_05">Paso %1$d: verifique sus dispositivos y el entorno de red</string>
+    <string name="help_page_text_06">"%1$d. Televisores, decodificadores, proyectores Xiaomi:
+Conecte tanto su dispositivo móvil como el monitor externo a la misma red Wi-Fi para obtener el mejor efecto. Si están conectados a diferentes redes, puede llevar más tiempo encontrar el monitor externo y conectarse.
+Nota: Es posible que los modelos de TV más antiguos no admitan la transmisión en diferentes redes.
+%2$d. Si está utilizando televisores, decodificadores o proyectores de otras marcas, conecte tanto su dispositivo móvil como su monitor externo a la misma red Wi-Fi.
+Si los dos dispositivos no se pueden conectar a la misma red, encienda Miracast en su monitor externo. El nombre de la funcionalidad de Miracast puede variar."</string>
+    <string name="help_page_text_06_global">"%1$d. Televisores, decodificadores, proyectores Xiaomi:
+Conecte tanto su dispositivo móvil como el monitor externo a la misma red Wi-Fi para obtener el mejor efecto. Si están conectados a diferentes redes, puede llevar más tiempo encontrar el monitor externo y conectarse.
+Nota: Es posible que los modelos de TV más antiguos no admitan la transmisión en diferentes redes.
+%2$d. Si está utilizando televisores, decodificadores o proyectores de otras marcas, conecte tanto su dispositivo móvil como su monitor externo a la misma red Wi-Fi.
+Si los dos dispositivos no se pueden conectar a la misma red, encienda Miracast en su monitor externo. El nombre de la funcionalidad de Miracast puede variar."</string>
+    <string name="help_page_text_08">Paso %1$d: activa la transmisión</string>
     <string name="help_page_text_09">"Activa el interruptor \"Emitir\" en el panel de notificaciones de tu teléfono. Activa el Wi-Fi y Bluetooth para una conexión más estable."</string>
-    <string name="help_page_text_10">Si deseas emitir elementos desde Galería o Mi Vídeo, puedes usar la función de emisión incluida en estas aplicaciones.</string>
-    <string name="help_page_text_11">Paso 3: seleccionar dispositivo</string>
+    <string name="help_page_text_09_global">"Toque la palanca \"Transmitir\" en el tono de notificación de su dispositivo. Encienda Wi-Fi y Bluetooth para una conexión más estable."</string>
+    <string name="help_page_text_10">Si desea transmitir fotos, videos, juegos o presentaciones, puede usar las funciones de transmisión integradas en las aplicaciones correspondientes.</string>
+    <string name="help_page_text_11">Paso %1$d: seleccionar dispositivo</string>
     <string name="help_page_text_12">Selecciona un dispositivo externo de la lista de dispositivo disponibles para iniciar la emisión.</string>
     <string name="help_page_text_13">"¿No puedes conectarte con un dispositivo externo?"</string>
-    <string name="help_page_text_14">"1. Si quieres usar un dispositivo Xiaomi, pero no puedes encontrarlo en la lista de dispositivos disponibles, intenta lo siguiente:
-Conecta tu teléfono y el monitor externo (p. ej. su televisión) a la misma red Wi-Fi, o conecta el monitor externo al punto de acceso de tu teléfono. Si no hay ninguna red Wi-Fi disponible o no puede conectar ambos dispositivos a la misma red, comprueba que la funciones de emisión de tu monitor externo estén actualizadas, activa el Bluetooth de ambos dispositivos y activa Miracast en tu televisión. 
-2. Si es la primera vez que emites en un dispositivo Xiaomi, necesitas completar la verificación. 
-3. Si deseas usar un dispositivo diferente a Xiaomi, pero no puedes encontrarlo en la lista de dispositivos disponibles, intenta lo siguiente:
-Conecta tu teléfono y el monitor externo (p. ej. su televisión) a la misma red Wi-Fi, o conecta el monitor externo al punto de acceso de tu teléfono. Si esto no funciona, instala la aplicación LeEco para emisión en tu televisión y sigue las instrucciones."</string>
-    <string name="help_page_text_14_global">"1. Si quieres usar un dispositivo Xiaomi, pero no puedes encontrarlo en la lista de dispositivos disponibles, intenta lo siguiente:
-Conecta tu teléfono y el monitor externo (p. ej. su televisión) a la misma red Wi-Fi, o conecta el monitor externo al punto de acceso de tu teléfono. Si no hay ninguna red Wi-Fi disponible o no puede conectar ambos dispositivos a la misma red, comprueba que la funciones de emisión de tu monitor externo estén actualizadas, activa el Bluetooth de ambos dispositivos y activa Miracast en tu televisión.
-2. Si es la primera vez que emites en un dispositivo Xiaomi, necesitas completar la verificación.
-3. Si deseas usar un dispositivo diferente a Xiaomi, pero no puedes encontrarlo en la lista de dispositivos disponibles, intenta lo siguiente:
-Conecta tu teléfono y el monitor externo (p. ej. su televisión) a la misma red Wi-Fi, o conecta el monitor externo al punto de acceso de tu teléfono."</string>
+    <string name="help_page_text_14">"%1$d. Si desea utilizar un dispositivo Xiaomi, pero no puede encontrarlo en la lista de dispositivos disponibles, intente lo siguiente:
+Conecte tanto su dispositivo móvil como el monitor externo (por ejemplo, su televisor) a la misma red, o conecte el monitor al punto de acceso de su dispositivo móvil. Si no hay ninguna red disponible o no puede conectar ambos dispositivos a la misma red, verifique si las funciones de transmisión en su monitor externo están actualizadas, active Bluetooth tanto en su dispositivo móvil como en el monitor externo, y encienda en Miracast en su televisor.
+%2$d. Si está transmitiendo en un dispositivo Xiaomi por primera vez, debe completar la verificación.
+%3$d. Si desea utilizar un dispositivo que no sea Xiaomi, pero no puede encontrarlo en la lista de dispositivos disponibles, intente lo siguiente:
+Conecte tanto su dispositivo móvil como el monitor externo (por ejemplo, su televisor) a la misma red, o conéctelo el monitor externo al punto de acceso de su dispositivo móvil. Si esto no ayuda, instale la aplicación HappyCast en su televisor y siga las instrucciones."</string>
+    <string name="help_page_text_14_global">"%1$d. Si desea utilizar un dispositivo Xiaomi, pero no puede encontrarlo en la lista de dispositivos disponibles, intente lo siguiente:
+Conecte tanto su dispositivo móvil como el monitor externo (por ejemplo, su televisor) a la misma red, o conecte el monitor al punto de acceso de su dispositivo móvil. Si no hay ninguna red disponible o no puede conectar ambos dispositivos a la misma red, verifique si las funciones de transmisión en su monitor externo están actualizadas, active Bluetooth tanto en su dispositivo móvil como en el monitor externo, y encienda en Miracast en su televisor.
+%2$d. Si está transmitiendo en un dispositivo Xiaomi por primera vez, debe completar la verificación.
+%3$d. Si desea utilizar un dispositivo que no sea Xiaomi, pero no puede encontrarlo en la lista de dispositivos disponibles, intente lo siguiente:
+Conecte tanto su dispositivo móvil como el monitor externo (por ejemplo, su televisor) a la misma red, o conéctelo el monitor externo al punto de acceso de su dispositivo móvil."</string>
     <string name="help_page_text_15">Función Miracast en distintos dispositivos</string>
     <string name="help_page_text_16">Mi TV/Mi Proyector</string>
     <string name="help_page_text_17">"Puedes proyectar elementos desde tu teléfono Mi hacia la mayoría de modelos de Mi TV que cuenten con funcionalidad Bluetooth sin tener que activar Miracast manualmente.
@@ -188,10 +188,10 @@ Si necesitas activar Miracast, pulsa el botón [MENU] y selecciona Mis aplicacio
     <string name="help_page_text_51">LeEco</string>
     <string name="help_page_text_52">Primero asegúrate de que las funciones de Miracast son compatibles con tu dispositivo. En algunos modelos puedes activar esta función en Ajustes &gt; Redes &gt; Pantalla múltiple &gt; Wireless Display.</string>
     <string name="help_page_text_53">Servicio de atención al cliente de LeEco: 10109000</string>
-    <string name="help_page_text_55">"Si no puedes conectarte a la red, asegúrate de que tu monitor externo soporta la función Miracast y que está activada. En algunos modelos, esta función es llamada Pantalla inalámbrica, Screen Mirroring o Pantalla múltiple. Mira la información a continuación para aprender más sobre cómo activar Miracast.
-4. Si tienes problemas, puedes reportarlos usando nuestra aplicación Servicios y comentarios."</string>
-    <string name="help_page_text_55_global">"Si no puedes conectarte a la red, asegúrate de que tu monitor externo soporta la función Miracast y que está activada. En algunos modelos, esta función es llamada Pantalla inalámbrica, Screen Mirroring o Pantalla múltiple.
-4. Si tienes problemas, puedes reportarlos usando nuestra aplicación Servicios y comentarios."</string>
+    <string name="help_page_text_55">"Si no puede conectarse a la red, asegúrese de que su monitor externo admita la funcionalidad Miracast y que esté encendido. En algunos modelos, esta función se llama Pantalla inalámbrica, Duplicación de pantalla o Pantallas múltiples. Vea la información a continuación para aprender cómo activar Miracast.
+%1$d. Si encuentra algún problema, puede informarlo utilizando nuestra aplicación \"Comentarios de &amp;"</string>
+    <string name="help_page_text_55_global">"Si no puede conectarse a la red, asegúrese de que su monitor externo admita la funcionalidad Miracast y que esté encendido. En algunos modelos, esta función se llama Pantalla inalámbrica, Duplicación de pantalla o Pantallas múltiples.
+%1$d. Si encuentra algún problema, puede informarlo utilizando nuestra aplicación \"Comentarios de &amp;"</string>
     <string name="help_page_text_end">"Si la marca de tu dispositivo no está en la lista, contacta con el fabricante para conocer más sobre la funcionalidad de emisión."</string>
     <string name="keyguard_security_setting_privacy_policy">Política de Privacidad</string>
     <string name="midnight">Noche</string>

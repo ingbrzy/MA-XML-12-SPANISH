@@ -102,12 +102,14 @@
     <string name="eras_ad">DC</string>
     <string name="eras_bc">AC</string>
     <string name="evening">Tarde</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fmt_time_12hour">"h 'en punto'"</string>
+    <string name="fmt_time_24hour">"HH 'en punto'"</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
@@ -260,7 +262,6 @@
     <string name="solar_term_winter_begins">El invierno comienza</string>
     <string name="solar_term_winter_solstice">Solsticio de invierno</string>
     <string name="start_server">Iniciar el servidor TCP</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_canceled">Transferencia cancelada por el usuario</string>
     <string name="status_connection_error">Conexión incorrecta</string>
     <string name="status_file_error">Problema de almacenamiento</string>

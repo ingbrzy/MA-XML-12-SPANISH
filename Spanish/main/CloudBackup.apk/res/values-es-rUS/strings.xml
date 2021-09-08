@@ -213,12 +213,14 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="error_unknown">Algo salió mal</string>
     <string name="evening">Tarde</string>
     <string name="expand_button_title">Opciones avanzadas</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fmt_time_12hour">"h 'en punto'"</string>
+    <string name="fmt_time_24hour">"HH 'en punto'"</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
@@ -239,6 +241,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="menu_item_sort_name">Nombre</string>
     <string name="menu_item_sort_size">Tamaño</string>
     <string name="midnight">Noche</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -253,6 +257,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Deslice hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -417,7 +422,6 @@ Compruebe sus ajustes de red y vuelva a intentarlo."</string>
     <string name="solar_term_winter_solstice">Solsticio de invierno</string>
     <string name="start_backup_to_micloud">Respaldar aplicaciones con Xiaomi Cloud</string>
     <string name="start_recover">Restauración %s</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_unit_gb">%s GB</string>
     <string name="storage_unit_mb">%s MB</string>
     <string name="success_open_cloudbackup">Respaldo de aplicaciones en la pantalla de inicio activado</string>

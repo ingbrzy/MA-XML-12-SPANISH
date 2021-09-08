@@ -98,6 +98,11 @@
     <string name="device_activation_card_no_network_error">"No se pudo conectar a la red. Compruebe sus ajustes de red y vuelva a intentarlo."</string>
     <string name="device_activation_card_title">Primera activación</string>
     <string name="device_activation_page_title">Activación del dispositivo</string>
+    <string name="dialog_add_shortcut_content">Agregue un acceso directo a la pantalla de inicio para Xiaomi Cloud para poder administrar su almacenamiento en la nube de manera más eficiente.</string>
+    <string name="dialog_add_shortcut_title">Añadir acceso directo</string>
+    <string name="dialog_storage_full_title">El almacenamiento en la nube está lleno</string>
+    <string name="dialog_storage_low_content">Actualice su plan de almacenamiento en la nube para poder sincronizar elementos con normalidad.</string>
+    <string name="dialog_storage_low_title">Almacenamiento en la nube insuficiente</string>
     <string name="do_not_merge">Cancelar</string>
     <string name="early_morning">Mañana</string>
     <string name="enable_find_device_success">Encontrar dispositivo activado.</string>
@@ -311,7 +316,7 @@
     <string name="micloud_find_device_verify_fail">"No se pudo activar Encontrar dispositivo"</string>
     <string name="micloud_find_device_verify_progress">Reactivando Encontrar dispositivo…</string>
     <string name="micloud_last_sync_canceled">Sincronización cancelada. Vuelva a intentarlo.</string>
-    <string name="micloud_main_head_menu_cloud_backup">Respaldo de la pantalla de inicio</string>
+    <string name="micloud_main_head_menu_cloud_backup">Copias de seguridad</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">Ajustes del sistema y diseño de la Pantalla de inicio</string>
     <string name="micloud_main_head_menu_finddevice_summary">Localice y ubique su dispositivo</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Encontrar dispositivo no está disponible en el segundo espacio. Puedes usarlo en el primer espacio.</string>
@@ -427,13 +432,16 @@
     <string name="micloud_space_duokan_title">Duokan</string>
     <string name="micloud_space_soundrecorder_detail">Gestión de grabaciones almacenadas en el dispositivo</string>
     <string name="micloud_space_soundrecorder_title">Grabaciones</string>
+    <string name="micloud_storage_detail">Detalles</string>
     <string name="micloud_storage_expires_auto_renewal_sum">Necesita renovar su suscripción.</string>
     <string name="micloud_storage_expires_manually_renewal_sum">Necesita renovar su suscripción.</string>
     <string name="micloud_storage_expires_soon_title">El almacenamiento de Xiaomi Cloud expira pronto</string>
     <string name="micloud_storage_expires_very_soon_title">El almacenamiento de Xiaomi Cloud expira pronto</string>
+    <string name="micloud_storage_family_quota">Compartir en familia</string>
     <string name="micloud_storage_full">Mi Cloud está lleno</string>
-    <string name="micloud_storage_unit_gb">%s GB</string>
-    <string name="micloud_storage_unit_mb">%s MB</string>
+    <string name="micloud_storage_full_tip">El almacenamiento está lleno</string>
+    <string name="micloud_storage_normal_tip">%s restante</string>
+    <string name="micloud_storage_share_family">Compartir en familia</string>
     <string name="micloud_sync_alert_dialog_message">Sincronizar sus fotos, contactos, notas, aplicaciones y más a través de todos sus dispositivos.</string>
     <string name="micloud_sync_alert_dialog_message_pad">Sincroniza tus fotos, notas y más en todos tus dispositivos.</string>
     <string name="micloud_sync_alert_dialog_message_v2">Sincronizar sus fotos, contactos, notas, aplicaciones y más a través de todos sus dispositivos.</string>
@@ -459,6 +467,7 @@
     <string name="micloud_sync_result_wifi_only">Este elemento es demasiado grande. Conéctese a una red Wi-Fi para sincronizar.</string>
     <string name="micloud_sync_result_wifi_only_china">This item is too big. Sync it when connected to WLAN.</string>
     <string name="micloud_upgrade_member">Obtener almacenamiento</string>
+    <string name="micloud_upgrade_storage">Actualizar plan de almacenamiento</string>
     <string name="micloud_user_space_title">Espacio de almacenamiento</string>
     <string name="micloud_warn_full_sum">"Los nuevos elementos no serán sincronizados con Xiaomi Cloud."</string>
     <string name="micloud_warn_full_title">No queda espacio</string>
@@ -482,6 +491,8 @@
     <string name="midrive_guide_btn_install">Instalar Mi Drive</string>
     <string name="midrive_guide_btn_installed">Abrir Mi Drive</string>
     <string name="midrive_guide_btn_installing">Instalando…</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -496,6 +507,7 @@
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="monday">Lunes</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
@@ -560,9 +572,8 @@ Esta característica encripta y envía el ID de su dispositivo a los servidores 
     <string name="no_sim">"No se pudo encontrar la tarjeta SIM"</string>
     <string name="noon">Mediodía</string>
     <string name="not_set">Sin definir</string>
-    <string name="notification_reinstall_key_text">Verifique su identidad y vuelva a intentarlo</string>
-    <string name="notification_sync_fail_title">"No se pudo sincronizar"</string>
-    <string name="notification_update_key_text">Su contraseña fue restablecida</string>
+    <string name="notification_sync_fail_title">"No se pudieron sincronizar las contraseñas"</string>
+    <string name="notification_update_key_text">Se cambió la contraseña del administrador de contraseñas. Verifique el nuevo código de acceso.</string>
     <string name="pay_info_dialog_confirm_to_pay">Pagar %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Usar Monedas Mi restantes: %s</string>
     <string name="pay_info_dialog_title">Seleccionar método de pago</string>
@@ -754,7 +765,6 @@ Es posible que la información de ubicación no se informe cuando la conexión d
     <string name="soundrecorder_sync_records">Sincronizar con Xiaomi Cloud</string>
     <string name="special_func_title">Funciones especiales</string>
     <string name="starred_contact">Favoritos</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_manage_cloud_data_title">Ver los elementos en la nube</string>
     <string name="storage_manage_expansion">Obtener más</string>
     <string name="storage_manage_full_summary">El almacenamiento en la nube está lleno. Actualice se plan.</string>

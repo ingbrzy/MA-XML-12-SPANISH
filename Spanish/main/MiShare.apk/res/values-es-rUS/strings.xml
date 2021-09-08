@@ -54,6 +54,8 @@
     <string name="date_picker_lunar">Calendario chino tradicional</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="default_device_name">Dispositivo desconocido</string>
+    <string name="device_list_all">Todos los dispositivos</string>
+    <string name="device_list_more">Más</string>
     <string name="device_name">Nombre del dispositivo</string>
     <string name="device_offline">El otro dispositivo no está en línea. Vuelva a comenzar.</string>
     <string name="device_status_failed">"No se pudo enviar"</string>
@@ -107,14 +109,12 @@
     <string name="file_sending">Transfiriendo archivos…</string>
     <string name="file_transfer_progress">Progreso: %1$d%%</string>
     <string name="file_transfer_progress_title">Progreso</string>
-    <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+    <string name="fmt_date_long_month_day">dd MMMM</string>
+    <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
-    <string name="fmt_time_12hour">"h 'en punto'"</string>
-    <string name="fmt_time_24hour">"HH 'en punto'"</string>
+    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
@@ -340,9 +340,12 @@ Antes de usar Mi Share, debe conceder los siguientes permisos, así como permiti
     <string name="tomorrow">Mañana</string>
     <string name="transfer_intercept_to_remote">"No se pudo enviar: %1$s"</string>
     <string name="transfer_to_pc_summary">"La última versión del software AIoT instalada en Mi Notebooks es compatible con Mi Share. Puede consultar la lista de modelos de computadoras portátiles compatibles en el sitio web de MIUI. Si su computadora portátil está en la lista, pero AIoT no está instalada en esta, actualice el BIOS de su computadora portátil y el controlador del adaptador de red, y descargue AIoT."</string>
+    <string name="transfer_to_pc_summary_new"><Data>\"La última versión de MIUI+ instalada en Mi Notebooks es compatible con Mi Share. Puede consultar la lista de modelos de portátiles compatibles en el sitio web de MIUI + (&lt;a href=%1$s&gt;%2$s&lt;/a&gt;). Si su portátil está en la lista, pero MIUI+ no está instalado en él, actualice el controlador del adaptador de red y el BIOS de su computadora portátil, y descargue MIUI+ \".</Data></string>
     <string name="transfer_to_pc_title">Enviar archivos a computadoras</string>
     <string name="transfer_to_phone_summary">"Active Mi Share usando el interruptor en el Panel de notificaciones. Después de esto, podrá ver los dispositivos cercanos cuando comience a compartir una foto o un archivo. Toque el dispositivo del destinatario para enviar el elemento que está compartiendo."</string>
     <string name="transfer_to_phone_title">Enviar archivos a teléfonos</string>
+    <string name="transfer_to_summary">"Encienda Mi Share usando el interruptor en el tono de Notificación. Después de eso, podrá ver los dispositivos cercanos cuando comience a compartir una foto o un archivo. Toque el dispositivo del destinatario para enviar el elemento que está compartiendo."</string>
+    <string name="transfer_to_title">Envía archivos a dispositivos móviles</string>
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
@@ -350,6 +353,15 @@ Antes de usar Mi Share, debe conceder los siguientes permisos, así como permiti
     <string name="unrecognized_manufacture">Desconocido</string>
     <string name="unrecognized_model">Dispositivo desconocido</string>
     <string name="user_instructions">Atención</string>
+    <string name="uwb_guide_summary_1">"Si no puede encontrar el dispositivo de destino, pídale a la otra persona que pulse el interruptor Mi Share en su Centro de control."</string>
+    <string name="uwb_guide_title_1">Pídale a la otra persona que active Mi Share</string>
+    <string name="uwb_guide_title_2">Encuentra el dispositivo de destino más rápido con Beam</string>
+    <string name="uwb_setting_guide">Aprende más</string>
+    <string name="uwb_setting_guide_summary">Beam utiliza la tecnología UWB para reconocer los dispositivos de destino de forma inalámbrica. Una vez que se reconoce el dispositivo de destino, su icono pasará a primer plano.</string>
+    <string name="uwb_setting_guide_title">Mantenga este dispositivo directamente frente al dispositivo de destino compatible</string>
+    <string name="uwb_summary">Beam utiliza la tecnología UWB para reconocer los dispositivos de destino de forma inalámbrica. La transferencia de elementos entre dispositivos con tecnología UWB es más rápida y conveniente.</string>
+    <string name="uwb_support_device">"Dispositivos compatibles: "</string>
+    <string name="uwb_title">Beam</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADA</string>
     <string name="view_file">Ver</string>

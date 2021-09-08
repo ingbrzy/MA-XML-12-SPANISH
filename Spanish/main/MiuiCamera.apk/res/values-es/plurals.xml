@@ -56,6 +56,14 @@
         <item quantity="other">Puedes crear hasta %d clones a la vez.</item>
         <item quantity="one">Puedes crear hasta %d clon a la vez.</item>
     </plurals>
+    <plurals name="exit_camera_hint">
+        <item quantity="other">&lt;Data&gt;\"No se puede conectar a la cámara.&lt;br&gt;Esta aplicación se cerrará en &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d segundos&lt;/b&gt;&lt;/font&gt;Después de esto, espere uno o dos minutos y vuelva a intentarlo\".&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;\"No se puede conectar a la cámara.&lt;br&gt;Esta aplicación se cerrará en &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d segundo&lt;/b&gt;&lt;/font&gt;Después de esto, espere uno o dos minutos y vuelva a intentarlo\".&lt;/Data&gt;</item>
+    </plurals>
+    <plurals name="exit_thermal_hint">
+        <item quantity="other">&lt;Data&gt;Este dispositivo está demasiado caliente ahora.&lt;br&gt;La aplicación se cerrará en &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d segundos&lt;/b&gt;&lt;/font&gt;. El progreso actual se guardó automáticamente.&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Este dispositivo está demasiado caliente ahora.&lt;br&gt;La aplicación se cerrará en &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d segundo&lt;/b&gt;&lt;/font&gt;. El progreso actual se guardó automáticamente.&lt;/Data&gt;</item>
+    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d min</item>
         <item quantity="one">%1$d min</item>

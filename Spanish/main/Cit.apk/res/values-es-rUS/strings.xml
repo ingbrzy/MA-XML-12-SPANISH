@@ -49,6 +49,13 @@ Al calibrar, asegúrate de que no hay nada entre el sensor y tu mano (por ejempl
     <string name="cit_reverse_wireless_charge_check_tips">Por favor, ponga el dispositivo a cargar según sea necesario y empiece a probar</string>
     <string name="cit_tool_modem_mbn_opt_fail_notfiy">opt falló, reinicie el dispositivo para reintentarlo</string>
     <string name="cit_tool_opt_fail_info_notify">Opt falló, necesita reiniciar el dispositivo para el modo no online.</string>
+    <string name="cit_touch_fw_mode">Modo FW</string>
+    <string name="cit_touch_thp_mode">Modo THP</string>
+    <string name="cit_touch_work_mode_test_help">"Instrucciones de funcionamiento 
+haga clic en el botón para cambiar el modo táctil al modo THP o al modo FW"</string>
+    <string name="cit_touch_work_mode_test_title">Prueba de modo THP de conmutación táctil</string>
+    <string name="cit_touch_work_summary">Toque cambia el modo THP</string>
+    <string name="cit_touch_work_switch_tips">No toque la pantalla y espere a que se complete el cambio de modo</string>
     <string name="cit_uwb_calibrate_color_black">Negro</string>
     <string name="cit_uwb_calibrate_color_cali_tip">Por favor, seleccione el intérprete de seguridad de la máquina antes de realizar la calibración de datos</string>
     <string name="cit_uwb_calibrate_color_gray">Gris</string>
@@ -68,7 +75,6 @@ Controlar el dispositivo cerca y lejos del dispositivo"</string>
 Haga clic en el botón \"Calibrar\"
 Después de calibrar con éxito, controle el dispositivo cerca y alejado del dispositivo"</string>
     <string name="search_menu_title">Buscar</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="tips_not_placed_right_angle">El dispositivo no está situado en el ángulo correcto</string>
     <string name="top_mic_check_record_tip">Grabando, por favor diga algo a MIC en la parte superior del dispositivo</string>
 </resources>

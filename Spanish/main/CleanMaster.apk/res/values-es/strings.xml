@@ -89,8 +89,6 @@
     <string name="appcleaner_g_normal_summary_wechat">Eliminar permanentemente archivos de WeChat</string>
     <string name="appcleaner_g_normal_title_qq">Limpiador de imágenes de QQ</string>
     <string name="appcleaner_g_normal_title_wechat">Limpiador de archivos de WeChat</string>
-    <string name="appcleaner_g_seven_day">Últimos 7 días</string>
-    <string name="appcleaner_g_thirty_day">Últimos 30 días</string>
     <string name="appcleaner_g_this_month">Este mes</string>
     <string name="appcleaner_g_video_sum_title_chat_wechat">Vídeos enviados</string>
     <string name="appcleaner_g_video_sum_title_make_wechat">Vídeos</string>
@@ -111,10 +109,6 @@
     <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Limpiar %s de caché de WeChat para liberar espacio de almacenamiento</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_title">"No olvides limpiar el caché"</string>
     <string name="appcleaner_wechat_pref_category_title_auto_clean_settings">Recordarme limpiar el caché de WeChat</string>
-    <string name="appcleaner_wechat_pref_time_every_day">Cada día</string>
-    <string name="appcleaner_wechat_pref_time_fifteen_day">Cada 15 días</string>
-    <string name="appcleaner_wechat_pref_time_seven_day">Cada 7 días</string>
-    <string name="appcleaner_wechat_pref_time_three_day">Cada 3 días</string>
     <string name="appcleaner_wechat_pref_title_clean_alert">Recordarme limpiar el caché de WeChat</string>
     <string name="appcleaner_wechat_pref_title_garbage_cleanup_check_size">Tamaño del caché</string>
     <string name="appcleaner_wechat_pref_title_garbage_cleanup_check_time">Recordármelo</string>
@@ -128,9 +122,6 @@
     <string name="auto_clean_switch_off">Desactivado</string>
     <string name="auto_clean_switch_on">Activado</string>
     <string name="auto_clean_time_every_day">Cada día</string>
-    <string name="auto_clean_time_fifteen_day">Cada 15 días</string>
-    <string name="auto_clean_time_seven_day">Cada 7 días</string>
-    <string name="auto_clean_time_three_day">Cada 3 días</string>
     <string name="auto_cleaner_open">Activar</string>
     <string name="back">Volver</string>
     <string name="btn_text_done">Hecho</string>
@@ -188,11 +179,6 @@
     <string name="cd_scanning">escaneando</string>
     <string name="cd_settings">ajustes</string>
     <string name="cd_sort_type">ordenar tipo</string>
-    <string name="clean_content_all">Todo</string>
-    <string name="clean_content_one">1 elemento</string>
-    <string name="clean_content_three">3 elementos</string>
-    <string name="clean_content_two">2 elementos</string>
-    <string name="clean_content_zero">Nada</string>
     <string name="clean_master_icon_recall_button_text">Añadir</string>
     <string name="clean_master_icon_recall_dialog_button_negative">No, gracias</string>
     <string name="clean_master_icon_recall_dialog_button_positive">Añadir</string>
@@ -241,14 +227,12 @@
     <string name="deepclean_apk_group_hint_unchecked">Deseleccionar todo</string>
     <string name="deepclean_apk_summary_empty">Todo parece estar bien; no hay APK para eliminar</string>
     <string name="deepclean_apk_version_error">Desconocido</string>
-    <string name="deepclean_app_content">Desinstalar aplicaciones que no han sido usadas en 30 días</string>
     <string name="deepclean_app_summary_empty">Todo parece bien, no hay aplicaciones para borrar</string>
     <string name="deepclean_cache_content">Limpiar datos generados por aplicaciones</string>
     <string name="deepclean_cache_header_left">Archivos de datos: %d</string>
     <string name="deepclean_cache_summary_empty">Todo parece bien, no hay datos para borrar</string>
     <string name="deepclean_empty">Todo parece estar en orden</string>
     <string name="deepclean_install_info_desc2">Eliminar aplicaciones para liberar espacio</string>
-    <string name="deepclean_large_content">Eliminar archivos mayores de 10MB</string>
     <string name="deepclean_large_summary_empty">Todo parece bien, no hay archivos para borrar</string>
     <string name="deepclean_list_item_from_app">Tienda de aplicaciones</string>
     <string name="deepclean_list_item_from_dcim_thumbnails">Miniaturas</string>
@@ -382,14 +366,8 @@
     <string name="global_wa_setting_alert_pref_size_title">Tamaño de la basura</string>
     <string name="global_wa_setting_alert_pref_switch_title">Recordarme eliminar elementos</string>
     <string name="global_wa_setting_alert_pref_time_title">Frecuencia</string>
-    <string name="global_wa_setting_alert_size_1_GB">1GB</string>
-    <string name="global_wa_setting_alert_size_200_MB">200MB</string>
-    <string name="global_wa_setting_alert_size_500_MB">500MB</string>
     <string name="global_wa_setting_alert_size_dialog_title">Tamaño de la basura de WhatsApp</string>
     <string name="global_wa_setting_alert_time_dialog_title">Frecuencia</string>
-    <string name="global_wa_setting_alert_time_every_day">Cada día</string>
-    <string name="global_wa_setting_alert_time_seven_day">Cada semana</string>
-    <string name="global_wa_setting_alert_time_three_day">Cada 3 días</string>
     <string name="global_wa_setting_other_pref_category_title">Otros</string>
     <string name="global_wa_setting_other_pref_reconmmend_title">Recomendaciones</string>
     <string name="global_wa_setting_other_pref_shortcut_title">Acceso directo a la Pantalla de inicio</string>
@@ -408,10 +386,12 @@
     <string name="goto_set">Ajustar</string>
     <string name="grabage_rank_title">Limpiado hoy</string>
     <string name="guide_dc_dialog_message">"Hay menos de 2GB de espacio de almacenamiento libre. Esto podría ralentizar tu dispositivo. Realiza una limpieza profunda para liberar espacio de almacenamiento."</string>
+    <string name="guide_dc_dialog_message_new">"Quedan menos de %d GB de espacio de almacenamiento libre. Esto podría ralentizar su dispositivo. Realice una limpieza profunda para liberar espacio de almacenamiento."</string>
     <string name="guide_dc_dialog_negative">Cancelar</string>
     <string name="guide_dc_dialog_positive">OK</string>
     <string name="guide_dc_dialog_title">Almacenamiento casi lleno</string>
     <string name="guide_secure_dialog_message">La puntuación de optimización de tu dispositivo está por debajo de 80 puntos. ¿Optimizar ahora?</string>
+    <string name="guide_secure_dialog_message_new">La puntuación de optimización de su dispositivo es inferior a %d puntos. ¿Optimizar ahora?</string>
     <string name="guide_secure_dialog_negative">Cancelar</string>
     <string name="guide_secure_dialog_positive">Optimizar</string>
     <string name="guide_secure_dialog_title">Optimizar rendimiento</string>
@@ -454,7 +434,6 @@
     <string name="hints_list_item_unlock">Limpiar</string>
     <string name="hints_loading_text">Cargando…</string>
     <string name="hints_memory_header_left">Memoria</string>
-    <string name="hints_num">0</string>
     <string name="hints_privacy_header_left">Privacidad: %d</string>
     <string name="hints_quick_cleanning">Limpiando…</string>
     <string name="hints_quick_cleanuping">Optimizando…</string>
@@ -494,6 +473,7 @@
     <string name="long_click_dialog_summary">Mantén presionado para añadir a las excepciones.</string>
     <string name="long_click_dialog_title">Aviso</string>
     <string name="low_memory_clean_dialog_msg">Borra al menos 100MB de archivos primero</string>
+    <string name="low_memory_clean_dialog_msg_new">Primero borre al menos %d MB de archivos</string>
     <string name="low_memory_clean_dialog_ok_button">OK</string>
     <string name="low_memory_clean_dialog_title">No hay suficiente espacio</string>
     <string name="low_memory_warning_dialog_cancel_button">Cancelar</string>
@@ -608,7 +588,6 @@
     <string name="notification_garbage_cleanup_title">Limpiar archivos basura</string>
     <string name="notification_installed_clean_size">Liberar %2$s después de instalar %1$s</string>
     <string name="notification_low_memory_button_text">Solucionar</string>
-    <string name="notification_low_memory_cache_summary">Menos de 1.5GB de espacio de almacenamiento disponible</string>
     <string name="notification_low_memory_cache_title">Limpiar caché</string>
     <string name="notification_low_memory_deepclean_summary">Una limpieza profunda puede liberar espacio en tu dispositivo</string>
     <string name="notification_low_memory_deepclean_title">Escaso espacio de almacenamiento</string>
@@ -644,7 +623,6 @@
     <string name="notification_wechat_clean_middle_level_text_b">"La basura de WeChat ralentiza la aplicación"</string>
     <string name="notification_whatsapp_clean_button_text">Limpiar</string>
     <string name="notification_whatsapp_clean_size">El caché de WhatsApp llegó a %s</string>
-    <string name="notify_when">Notificar cuando la papelera alcance 100MB de tamaño</string>
     <string name="ok">OK</string>
     <string name="one_tap_clean_GB">%sGB</string>
     <string name="one_tap_clean_M">%dMB</string>
@@ -774,8 +752,6 @@
     <string name="sponsored">Patrocinado</string>
     <string name="start_downloading_app">Iniciando descarga: %1$s</string>
     <string name="start_install">Instalar ahora</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="summary_auto_cleaner">¿Recibir notificaciones cada vez que el tamaño de la papelera alcance los 100 MB?</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_delete_apk">¿Eliminar APK seleccionadas permanentemente?</string>
     <string name="summary_delete_cache">¿Limpiar caché de las aplicaciones seleccionadas?</string>
@@ -833,8 +809,11 @@
     <string name="time_picker_dialog_title">Establecer hora</string>
     <string name="tips_low_storage_dialog_cancel">Cancelar</string>
     <string name="tips_low_storage_dialog_msg_qq">La memoria de QQ ha llegado a 3GB. Esto podría ralentizar tu dispositivo. ¿Borrar ahora la memoria de QQ?</string>
+    <string name="tips_low_storage_dialog_msg_qq_new">El tamaño de la caché QQ ha alcanzado los %d GB. Esto podría ralentizar su dispositivo. ¿Limpiar la caché de QQ ahora?</string>
     <string name="tips_low_storage_dialog_msg_storage">"Estás usando el 90% de tu espacio de almacenamiento. Desinstala las aplicaciones que no utilices."</string>
+    <string name="tips_low_storage_dialog_msg_storage_new">"Estás usando %s de tu espacio de almacenamiento. Desinstale las aplicaciones que no usa."</string>
     <string name="tips_low_storage_dialog_msg_wechat">La memoria de WeChat ha llegado a 3GB. Esto podría ralentizar tu dispositivo. ¿Borrar ahora la memoria de WeChat?</string>
+    <string name="tips_low_storage_dialog_msg_wechat_new">El tamaño de la caché de WeChat ha alcanzado los %d GB. Esto podría ralentizar su dispositivo. ¿Borrar la caché de WeChat ahora?</string>
     <string name="tips_low_storage_dialog_ok">Borrar</string>
     <string name="tips_low_storage_dialog_ok_storage">Liberar espacio</string>
     <string name="tips_low_storage_dialog_title">El espacio de almacenamiento se está agotando</string>
@@ -994,15 +973,13 @@
     <string name="white_list_large_file_header">Archivos grandes y vídeos: %d</string>
     <string name="white_list_residual_header">Residuales: %d</string>
     <string name="white_list_title">Excepciones</string>
-    <string name="wq_deep_clean_filter_all">Todos</string>
-    <string name="wq_deep_clean_filter_month_ago">Hace 1 mes</string>
-    <string name="wq_deep_clean_filter_three_month_ago">Hace 3 meses</string>
-    <string name="wq_deep_clean_filter_week_ago">Hace una semana</string>
-    <string name="wq_deep_clean_filter_years_ago">Hace 6 meses</string>
     <string name="wqfile_group_chat_file">Archivos enviados en mensajeros</string>
     <string name="wqfile_group_chat_pic">Imágenes de mensajeros</string>
     <string name="wqfile_group_chat_video">Vídeos de mensajeros</string>
     <string name="wqfile_group_chat_voice">Mensajes de voz</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">No ahora</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualizar</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Hay disponible una actualización</string>
     <string name="year_month_day_format">dd MMM yyyy</string>
     <string name="yesterday">Ayer</string>
 </resources>

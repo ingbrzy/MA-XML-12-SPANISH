@@ -31,6 +31,7 @@
     <string name="access_token_expired_warning">La cuenta Weibo ha expirado</string>
     <string name="access_token_invalid_warning">La cuenta Weibo no es válida</string>
     <string name="account">Cuenta</string>
+    <string name="account_and_password">Contraseña</string>
     <string name="account_bind_devices">Dispositivos</string>
     <string name="account_bind_secure_email_title">Agregar correo electrónico</string>
     <string name="account_bind_secure_phone_title">Agregar número de teléfono</string>
@@ -75,7 +76,11 @@ ID de su cuenta: %s"</string>
     <string name="account_user_name_dialog_title">Introduzca su nombre de usuario</string>
     <string name="account_user_other_info">Más fuentes</string>
     <string name="account_user_phone">Teléfono de recuperación</string>
+    <string name="account_user_phone_show">Teléfono: %s</string>
     <string name="account_user_region">Región</string>
+    <string name="account_verify_guide_bind_mail_desc">Agregar un correo de recuperación</string>
+    <string name="account_verify_guide_bind_phone_desc">Agregar un teléfono de recuperación</string>
+    <string name="account_verify_guide_set_password_desc">Establecer una contraseña</string>
     <string name="account_xiaomi_service">Servicios</string>
     <string name="action_add_phone">Agregar número de teléfono</string>
     <string name="action_retry">Inténtalo de nuevo</string>
@@ -193,6 +198,7 @@ Enviar este código al supervisor."</string>
     <string name="expand_button_title">Opciones avanzadas</string>
     <string name="facebook_login">Iniciar sesión con Facebook</string>
     <string name="failed_dup_secure_phone_number">Este número telefónico ya está asociado con otra Cuenta Mi</string>
+    <string name="family_share">Compartir en familia</string>
     <string name="find_device">Encontrar dispositivo</string>
     <string name="find_device_access_denied">"No se pudo obtener estatus, acceso negado"</string>
     <string name="find_device_account_error">"No se pudo obtener estatus debido a un error de cuenta"</string>
@@ -221,6 +227,7 @@ Enviar este código al supervisor."</string>
     <string name="find_device_set_lost_model">Modo perdido</string>
     <string name="find_device_title">Encontrar dispositivo</string>
     <string name="find_device_unknown_error">"No se puede obtener el estado del dispositivo. Espere uno o dos minutos y vuelva a intentarlo."</string>
+    <string name="find_equipment">Encontrar dispositivo</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
@@ -233,6 +240,7 @@ Enviar este código al supervisor."</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
+    <string name="get_back_password">Restablecer la contraseña</string>
     <string name="get_back_pwd">Restableciendo contraseña</string>
     <string name="get_device_list_failed">"No se pudieron encontrar dispositivos"</string>
     <string name="get_identity_auth_url_failed">"No se pudo verificar la identificación"</string>
@@ -272,6 +280,7 @@ Enviar este código al supervisor."</string>
     <string name="mi_finance">Finanzas Mi</string>
     <string name="mi_finance_info">Bonos para nuevos usuarios</string>
     <string name="mi_health">Xiaomi Salud</string>
+    <string name="mi_member">Mi comunidad</string>
     <string name="mi_vip_info">Ver privilegios</string>
     <string name="midnight">Noche</string>
     <string name="mipay">Pagar</string>
@@ -282,6 +291,8 @@ Enviar este código al supervisor."</string>
     <string name="mipay_indentity_done">Verificado</string>
     <string name="mipay_others">Otros</string>
     <string name="mipay_transit_card">Tarjeta de transporte</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -296,6 +307,7 @@ Enviar este código al supervisor."</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tire hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -352,14 +364,18 @@ Enviar este código al supervisor."</string>
     <string name="my_device_title">Dispositivo actual</string>
     <string name="need_install_wechat">Instale WeChat primero</string>
     <string name="night">Tarde</string>
+    <string name="no_install">No instalado</string>
     <string name="no_network_btn">Actualizar</string>
     <string name="no_network_title">"No se pudo conectar a la red."</string>
+    <string name="no_password_set">No establecido</string>
     <string name="no_phone">No hay número de teléfono</string>
     <string name="no_response_retry">Sin respuesta. Vuelva a intentarlo.</string>
     <string name="no_sim_card_or_unactivated">"La tarjeta SIM no está instalada o activada"</string>
     <string name="nobind">No conectado</string>
     <string name="noon">Mediodía</string>
     <string name="not_set">Sin definir</string>
+    <string name="notify_bind_security_phone">Agregar un teléfono de recuperación</string>
+    <string name="notify_complete_security_info">Agregar información de recuperación</string>
     <string name="notify_network_restricted_content_bg_network">"El acceso a internet de la Cuenta Mi está restringido. Toque para permitir."</string>
     <string name="notify_network_restricted_content_hidden_state">"La actividad en segundo plano de la Cuenta Mi está restringido. Toque para permitir."</string>
     <string name="notify_network_restricted_content_mobile_network">"El acceso a internet de la Cuenta Mi está restringido. Toque para permitir."</string>
@@ -619,6 +635,7 @@ Enviar este código al supervisor."</string>
     <string name="permission_group_contacts">Contactos</string>
     <string name="permission_group_phone">Teléfono</string>
     <string name="permission_group_storage">Almacenamiento</string>
+    <string name="personal_info_desc">Foto, apodo y más</string>
     <string name="phone_num_use_for">El número de teléfono se usa para:</string>
     <string name="photoPickerNotFoundText">No hay fotos disponibles.</string>
     <string name="pm">PM</string>
@@ -664,6 +681,7 @@ Enviar este código al supervisor."</string>
     <string name="search_user_detail_path">Ajustes/Cuenta Mi/Información personal</string>
     <string name="search_user_detail_top_key_words">Info personal,Cambiar foto de perfil,Cambiar Nombre de Usuario,Cambiar Apodo,Cambiar Cumpleaños,Cambiar Género</string>
     <string name="select_all">Seleccionar todo</string>
+    <string name="self_account_info">Información personal</string>
     <string name="send">Enviar</string>
     <string name="send_diagnosis_log">Enviar registro del diagnóstico</string>
     <string name="send_email_activate_message">Correo de verificación enviado</string>
@@ -753,6 +771,7 @@ Enviar este código al supervisor."</string>
     <string name="the_united_nations_day">Dia de las Naciones Unidas</string>
     <string name="the_valentines_day">"Día de San Valentín"</string>
     <string name="the_water_lantern_festival">Festival de Linterna de Agua</string>
+    <string name="third_party_login">Cuentas de terceros</string>
     <string name="thursday">Jueves</string>
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>

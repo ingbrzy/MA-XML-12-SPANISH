@@ -122,6 +122,10 @@
         <item quantity="other">¿Eliminar %1$s fotos de todos los dispositivos?</item>
         <item quantity="one">¿Eliminar %1$s foto de todos los dispositivos?</item>
     </plurals>
+    <plurals name="every_x_day">
+        <item quantity="other">Cada %d días</item>
+        <item quantity="one">Cada %d día</item>
+    </plurals>
     <plurals name="global_wa_clean_finish_audio">
         <item quantity="other">&lt;Data&gt;&lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; liberados (suficiente para &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; canciones)&lt;/Data&gt;</item>
         <item quantity="one">&lt;Data&gt;&lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; liberados (suficiente para &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; canción)&lt;/Data&gt;</item>
@@ -177,6 +181,10 @@
     <plurals name="install_find_application_num">
         <item quantity="other">Se encontraron %d aplicaciones</item>
         <item quantity="one">Se encontró %d aplicación</item>
+    </plurals>
+    <plurals name="last_x_day">
+        <item quantity="other">Últimos %d días</item>
+        <item quantity="one">Último %d día</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Justo ahora</item>
