@@ -58,7 +58,7 @@
     <string name="adb_pairing_device_dialog_pairing_code_label">Código de vinculación Wi‑Fi</string>
     <string name="adb_pairing_device_dialog_title">Vincular con el dispositivo</string>
     <string name="adb_qrcode_pairing_device_failed_msg">No se pudo vincular el dispositivo. Puede ser debido a que el código QR era incorrecto o el dispositivo no está conectado a la misma red.</string>
-    <string name="adb_warning_message">La depuración por USB solo está indicada para actividades de desarrollo. Puede utilizarla para intercambiar datos entre el ordenador y el dispositivo, para instalar aplicaciones en el dispositivo sin recibir notificaciones y para leer datos de registro.</string>
+    <string name="adb_warning_message">La depuración USB está diseñada solo para fines de desarrollo. Úsala para copiar datos entre tu ordenador y tu dispositivo, instalar aplicaciones en tu dispositivo sin notificación y ver datos de registro.</string>
     <string name="adb_warning_title">¿Permitir la depuración USB?</string>
     <string name="adb_wireless_connection_failed_message">Asegúrate de que %1$s esté conectado a la red correcta</string>
     <string name="adb_wireless_connection_failed_title">Conexión fallida</string>
@@ -67,7 +67,7 @@
     <string name="adb_wireless_error">Error</string>
     <string name="adb_wireless_ip_addr_preference_title">Dirección IP &amp; Puerto</string>
     <string name="adb_wireless_list_empty_off">Para ver y usar los dispositivos disponibles, activa la depuración inalámbrica</string>
-    <string name="adb_wireless_no_network_msg">Conéctese a una red Wi-Fi</string>
+    <string name="adb_wireless_no_network_msg">Conéctate a una red Wi‑Fi</string>
     <string name="adb_wireless_qrcode_pairing_description">Vincula el dispositivo a través de Wi‑Fi escaneando un código QR</string>
     <string name="adb_wireless_qrcode_pairing_title">Escanear código QR</string>
     <string name="adb_wireless_qrcode_summary">Vincula el dispositivo a través de Wi‑Fi escaneando un código QR</string>
@@ -99,6 +99,7 @@
     <string name="battery_info_status_full">Completo</string>
     <string name="battery_info_status_not_charging">"Enchufado, no se puede cargar ahora mismo"</string>
     <string name="battery_info_status_unknown">Desconocido</string>
+    <string name="battery_meter_very_low_overlay_symbol">！</string>
     <string name="ble_device_address">MAC del dispositivo Bluetooth Smart</string>
     <string name="ble_device_profile">Perfil del dispositivo Bluetooth</string>
     <string name="ble_device_profile_header_title">Ajustes</string>
@@ -224,6 +225,7 @@ Selección"</string>
     <string name="cached_apps_freezer_disabled">Deshabilitado</string>
     <string name="cached_apps_freezer_enabled">Habilitado</string>
     <string name="cached_apps_freezer_reboot_dialog_text">Tu dispositivo debe reiniciarse para que se aplique este cambio. Reinicia ahora o cancela.</string>
+    <string name="cancel">Cancelar</string>
     <string name="category_personal">Personal</string>
     <string name="category_work">Trabajo</string>
     <string name="charge_length_format">hace %1$s</string>
@@ -283,7 +285,7 @@ Pulsa \"Limpiar y convertir…\" para continuar."</string>
     <string name="development_settings_summary">Ajustar opciones de desarrollo de aplicaciones</string>
     <string name="development_settings_title">Opciones de desarrollador</string>
     <string name="device_picker">Configuración del dispositivo Bluetooth</string>
-    <string name="direct_boot_unaware_dialog_message">"Nota: Solo podrá usar este teclado después de un reinicio si desbloquea su dispositivo."</string>
+    <string name="direct_boot_unaware_dialog_message">"Nota: Después de reiniciar, esta aplicación no se iniciará hasta que desbloquees tu dispositivo."</string>
     <string name="disable_overlays">Desactivar superposición HW</string>
     <string name="disable_overlays_summary">Usar siempre la GPU para la renderización de pantalla</string>
     <string name="disabled">Deshabilitado</string>
@@ -843,7 +845,7 @@ Protocolo de conexión más rápido."</string>
     <string name="usb_audio_disable_routing">Desactivar routing de audio USB</string>
     <string name="usb_audio_disable_routing_summary">Desactivar routing automático para periféricos USB de audio</string>
     <string name="use_system_language_to_select_input_method_subtypes">Usar idiomas del sistema</string>
-    <string name="user_add_profile_item_summary">Desde su cuenta, puede restringir el acceso a las aplicaciones y al contenido</string>
+    <string name="user_add_profile_item_summary">Puedes restringir el acceso a aplicaciones y contenido desde tu cuenta</string>
     <string name="user_add_profile_item_title">Perfil restringido</string>
     <string name="user_add_user_item_summary">Los usuarios tienen sus propias aplicaciones y contenido.</string>
     <string name="user_add_user_item_title">Usuario</string>

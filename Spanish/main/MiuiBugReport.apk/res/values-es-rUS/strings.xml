@@ -85,28 +85,30 @@
     <string name="bugreport_tool_log_dumping_title">Creando informe de errores</string>
     <string name="catch_full_log_action_cancel">Cancelar</string>
     <string name="catch_full_log_action_complete">Terminar y enviar</string>
-    <string name="catch_full_log_action_start">Iniciar</string>
+    <string name="catch_full_log_action_start">Generar registro</string>
     <string name="catch_full_log_add_original_photo">Agregar una imagen o video corto originales</string>
     <string name="catch_full_log_add_photo">Agregar foto</string>
     <string name="catch_full_log_add_photo_dialog_content">"Si el problema que está reportando está relacionado con la calidad de imagen de la cámara, agregue una foto muestra (sin recortar) para ayudarnos a localizar el problema. ¿Agregar foto?"</string>
     <string name="catch_full_log_category">Tipos de registro</string>
     <string name="catch_full_log_dialog_confirm_text">Ir a la pantalla de inicio</string>
-    <string name="catch_full_log_dialog_content">"Esto podría afectar el rendimiento general de su dispositivo. Si no puede reproducir el problema que desea informar, vuelva a los registros y toque \"Cancelar\"."</string>
+    <string name="catch_full_log_dialog_content">"MIUI está generando un registro. Esto podría afectar el rendimiento general del dispositivo. Si no puede reproducir el error que desea reportar, regrese a los registros y toque \"Cancelar\"."</string>
     <string name="catch_full_log_dialog_title">Generando registros…</string>
     <string name="catch_full_log_dump_hprof_failed">"No se pudo generar registro de ralentización"</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Vaya a la función que desea reportar y ejecútela.
 2. Regrese a esta página y toque \"Terminar y subir\"."</string>
     <string name="catch_full_log_item_content_catching">Generando registros…</string>
-    <string name="catch_full_log_item_content_need_open">"%1$d. Toque \"Inicio\" para comenzar a generar registros.
-%2$d. Reproduzca el problema que ha encontrado.
-%3$d. Vuelve a esta página y toca \"Finalizar y cargar\"."</string>
-    <string name="catch_full_log_item_content_title">Cómo generar registros</string>
-    <string name="catch_full_log_item_title_audio">Audio, sonido de llamadas y grabación de audio</string>
+    <string name="catch_full_log_item_content_need_open">"1: Toque \"Generar registro\".
+2. Vaya a la función que desea reportar y ejecútela.
+3. Regrese a esta página y toque \"Terminar y subir\"."</string>
+    <string name="catch_full_log_item_content_title">Pasos</string>
+    <string name="catch_full_log_item_title_audio">Audio, grabación de sonido y audio de llamadas</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
     <string name="catch_full_log_item_title_dump_heap">Ralentización</string>
     <string name="catch_full_log_item_title_gps">Servicios de localización</string>
     <string name="catch_full_log_item_title_sensor">Sensores</string>
     <string name="catch_full_log_item_title_signal">Teléfono, señal y redes móviles</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi y ShareMe</string>
+    <string name="catch_full_log_item_title_wifi_china">WLAN y ShareMe</string>
     <string name="catch_full_log_notification_content">Toque para volver a los registros</string>
     <string name="catch_full_log_notification_title">Generando registro…</string>
     <string name="catch_full_log_privacy_content_audio">"Está generando registros y guardándolos en su dispositivo. Los registros podrían contener información de audio en su dispositivo, incluidos el historial de reproducción y de grabación. Tenga cuidado y no revele estos registros a otras personas. Al aceptar, usted acuerda que recolectemos la información antes mencionada mientras se generan los registros y que subamos dichos registros a nuestros servidores para poder localizar y resolver los problemas que reporte."</string>
@@ -299,18 +301,22 @@ Envíe este código al supervisor."</string>
     <string name="fmt_date_numeric_month">MM</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month">MMM yyyy</string>
+    <string name="fmt_date_short_year_month">MMM. yyyy</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
-    <string name="fmt_time_24hour">HH</string>
+    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
+    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
+    <string name="fmt_time_12hour_pm">hh aa</string>
+    <string name="fmt_time_24hour">H</string>
     <string name="fmt_time_minute_second">m:s</string>
     <string name="fmt_time_second">s</string>
     <string name="fmt_time_timezone">zT</string>
@@ -412,6 +418,7 @@ Envíe este código al supervisor."</string>
     <string name="modem_tool_log_finish_title">Registro del módem capturado</string>
     <string name="module_communication">Comunicación</string>
     <string name="module_data">Almacenamiento y aplicaciones duales</string>
+    <string name="module_default_json">[{\"packageName\":\"com.miui.device.reboot\",\"problemType\":12,\"isForceShow\":1,\"parentType\":0,\"title\":\"Fallas y reinicio forzado\",\"categoryId\":1,\"order\":1},{\"packageName\":\"com.miui.Theraml\",\"problemType\":274,\"isForceShow\":1,\"parentType\":0,\"title\":\"Calentamiento\",\"categoryId\":1,\"order\":2},{\"packageName\":\"com.miui.device.signal\",\"problemType\":14,\"isForceShow\":1,\"parentType\":0,\"title\":\"Redes móviles\",\"categoryId\":2,\"order\":1},{\"packageName\":\"com.miui.device.wifi\",\"problemType\":15,\"isForceShow\":1,\"parentType\":0,\"title\":\"Wi-Fi\",\"categoryId\":2,\"order\":2},{\"packageName\":\"com.miui.device.other\",\"problemType\":17,\"isForceShow\":1,\"parentType\":0,\"title\":\"Otros errores\",\"categoryId\":10,\"order\":2}]</string>
     <string name="module_desktop">Pantalla de inicio y ajustes</string>
     <string name="module_finance">Finanzas y Mi Monedero</string>
     <string name="module_google_apps">Google aplicaciones</string>
@@ -484,7 +491,7 @@ Envíe este código al supervisor."</string>
     <string name="open_settings">Ir a la configuración</string>
     <string name="passport_access_denied">Acceso denegado</string>
     <string name="passport_account_label">Cuenta Mi</string>
-    <string name="passport_account_name">"Cuenta: %1$s"</string>
+    <string name="passport_account_name">"Cuenta: %1$s "</string>
     <string name="passport_activate_token_expired">El código de verificación expiró. Vuelva a intentarlo.</string>
     <string name="passport_area_code_title">Código de área</string>
     <string name="passport_bad_authentication">Nombre de usuario o contraseña incorrectos</string>

@@ -47,7 +47,7 @@
     <string name="active_input_method_subtypes">Métodos de entrada activos</string>
     <string name="adb_device_fingerprint_title_format">Huella digital del dispositivo: %1$s</string>
     <string name="adb_device_forget">Olvidar</string>
-    <string name="adb_keys_warning_message">"¿Revocar acceso a depuración USB desde todos las computadoras autorizadas?"</string>
+    <string name="adb_keys_warning_message">"¿Revocar acceso a depuración USB desde todas las computadoras autorizadas previamente?"</string>
     <string name="adb_pair_method_code_summary">Empareje dispositivos nuevos con código de seis dígitos</string>
     <string name="adb_pair_method_code_title">Empareje el dispositivo con el código de emparejamiento</string>
     <string name="adb_pair_method_qrcode_summary">Empareje dispositivos nuevos con el escáner de códigos QR</string>
@@ -58,7 +58,7 @@
     <string name="adb_pairing_device_dialog_pairing_code_label">Código de emparejamiento de Wi‑Fi</string>
     <string name="adb_pairing_device_dialog_title">Emparejar con dispositivo</string>
     <string name="adb_qrcode_pairing_device_failed_msg">No se pudo emparejar el dispositivo. Puede ser debido a que el código QR era incorrecto o el dispositivo no está conectado a la misma red.</string>
-    <string name="adb_warning_message">La depuración por USB solo está indicada para actividades de desarrollo. Puede utilizarla para intercambiar datos entre la computadora y el dispositivo, para instalar aplicaciones en el dispositivo sin recibir notificaciones y para leer datos de registro.</string>
+    <string name="adb_warning_message">Depuración USB está diseñada solo para fines de desarrollo. Úsela para copiar datos entre su computadora y su dispositivo, instalar aplicaciones en su dispositivo sin notificación y ver datos de registro.</string>
     <string name="adb_warning_title">¿Permitir depuración USB?</string>
     <string name="adb_wireless_connection_failed_message">Asegúrese de que %1$s esté conectado a la red correcta</string>
     <string name="adb_wireless_connection_failed_title">Conexión fallida</string>
@@ -99,6 +99,7 @@
     <string name="battery_info_status_full">Cargado</string>
     <string name="battery_info_status_not_charging">"Conectado, no puede cargar ahora"</string>
     <string name="battery_info_status_unknown">Desconocido</string>
+    <string name="battery_meter_very_low_overlay_symbol">！</string>
     <string name="ble_device_address">Dispositivo Bluetooth Smart MAC</string>
     <string name="ble_device_profile">Perfil de dispositivo Bluetooth</string>
     <string name="ble_device_profile_header_title">Ajustes</string>
@@ -224,6 +225,7 @@ Selección"</string>
     <string name="cached_apps_freezer_disabled">Deshabilitada</string>
     <string name="cached_apps_freezer_enabled">Habilitada</string>
     <string name="cached_apps_freezer_reboot_dialog_text">Su dispositivo debe reiniciarse para que se aplique este cambio. Reiniciar ahora o cancelar.</string>
+    <string name="cancel">Cancelar</string>
     <string name="category_personal">Personal</string>
     <string name="category_work">Trabajo</string>
     <string name="charge_length_format">Hace %1$s</string>
@@ -632,6 +634,7 @@ Protocolo de conexión más rápido."</string>
     <string name="power_remaining_only_more_than_subtext">Más de %1$s restante</string>
     <string name="power_suggestion_battery_run_out">La batería puede acabarse alrededor de las %1$s</string>
     <string name="preference_copied">Se copió \"%1$s\" en el portapapeles.</string>
+    <string name="preference_summary_default_combination">%1$s/%2$s</string>
     <string name="private_dns_broken">No se puede acceder al servidor DNS privado</string>
     <string name="private_dns_mode_off">Desactivado</string>
     <string name="private_dns_mode_opportunistic">Automático</string>
