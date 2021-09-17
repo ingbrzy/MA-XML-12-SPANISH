@@ -45,8 +45,8 @@
         <item quantity="one">Añadida %d foto en la nube, desactiva \"Mostrar solo álbumes locales\" para ver.</item>
     </plurals>
     <plurals name="add_to_album_failed_with_reason_and_count">
-        <item quantity="other">" No se pueden agregar %2$d %1$s."</item>
-        <item quantity="one">" No se puede agregar %2$d %1$s."</item>
+        <item quantity="other">"%2$d elementos no pueden ser agregado al álbum. %1$s."</item>
+        <item quantity="one">"%2$d elemento no puede ser agregado al álbum. %1$s."</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
         <item quantity="other">"%2$d elementos no pueden ser añadidos al álbum privado. %1$s."</item>
@@ -337,12 +337,12 @@
         <item quantity="one">Descargando %d archivo restante</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
-        <item quantity="other">"No se pudieron descargar %1$d fotos, conéctese a la red e inténtelo de nuevo"</item>
-        <item quantity="one">"No se pudo descargar %1$d foto, conéctese a la red e intentelo de nuevo"</item>
+        <item quantity="other">"No se pudo descargar %1$d fotos, conéctate a la red e inténtalo de nuevo"</item>
+        <item quantity="one">"No se pudo descargar %1$d foto, conéctate a la red e inténtalo de nuevo"</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">"No se pudieron descargar %1$d archivos (%2$d MB). Conéctese a la red y vuelva a intentarlo."</item>
-        <item quantity="one">"No se pudo descargar el archivo %1$d (%2$d MB). Conéctese a la red y vuelva a intentarlo."</item>
+        <item quantity="other">"No se pudo descargar %1$d archivos (%2$d MB). Conecta a la red y vuelve a intentarlo."</item>
+        <item quantity="one">"No se pudo descargar %1$d archivo (%2$d MB). Conecta a la red y vuelve a intentarlo."</item>
     </plurals>
     <plurals name="picker_origin_need_to_download">
         <item quantity="other">"Todavía no se han descargado %1$d archivos (%2$d MB). ¿Descargar usando datos móviles?"</item>
@@ -557,16 +557,16 @@
         <item quantity="one">%1$s, %2$s elemento</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_image">
-        <item quantity="other">"No podrá restaurar %d elementos seleccionados si los elimina. ¿Eliminar de todos modos?"</item>
-        <item quantity="one">"No podrá restaurar %d elemento seleccionado si lo elimina. ¿Eliminar de todos modos?"</item>
+        <item quantity="other">"No podrás restaurar %d elementos seleccionados si los eliminas. ¿Eliminar de todos modos?"</item>
+        <item quantity="one">"No podrás restaurar %d elemento seleccionado si lo eliminas. ¿Eliminar de todos modos?"</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_media">
-        <item quantity="other">"No podrá restaurar %d elementos seleccionados si los elimina. ¿Eliminar de todos modos?"</item>
-        <item quantity="one">"No podrá restaurar %d elemento seleccionado si lo elimina. ¿Eliminar de todos modos?"</item>
+        <item quantity="other">"No podrás restaurar %d elementos seleccionados si los eliminas. ¿Eliminar de todos modos?"</item>
+        <item quantity="one">"No podrás restaurar %d elemento seleccionado si lo eliminas. ¿Eliminar de todos modos?"</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_video">
-        <item quantity="other">"No podrá restaurar %d elementos seleccionados si los elimina. ¿Eliminar de todos modos?"</item>
-        <item quantity="one">"No podrá restaurar %d elemento seleccionado si lo elimina. ¿Eliminar de todos modos?"</item>
+        <item quantity="other">"No podrás restaurar %d elementos seleccionados si los eliminas. ¿Eliminar de todos modos?"</item>
+        <item quantity="one">"No podrás restaurar %d elemento seleccionado si lo eliminas. ¿Eliminar de todos modos?"</item>
     </plurals>
     <plurals name="trash_vip_info_text_login">
         <item quantity="other">Aquí se pueden almacenar elementos durante %1$d días (%2$s)</item>
