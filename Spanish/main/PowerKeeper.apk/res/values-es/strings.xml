@@ -83,12 +83,12 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
     <string name="expand_button_title">Avanzado</string>
     <string name="extreme_add_white_list_summary">Añade hasta 4 aplicaciones</string>
     <string name="extreme_add_white_list_title">Excepciones de segundo plano</string>
-    <string name="extreme_mode_max_item_alert">Puede seleccionar hasta 4 aplicaciones para ejecutar en segundo plano en el modo extremo</string>
+    <string name="extreme_mode_max_item_alert">Puedes seleccionar hasta 4 aplicaciones para ejecutar en segundo plano cuando el Ahorro de batería extremo está activo</string>
     <string name="extreme_power_config_mode_category">Ahorro de batería extremo</string>
-    <string name="extreme_power_config_mode_desc"><li>\"El ahorro de batería extremo detiene toda la actividad en segundo plano de una aplicación después de salir de ella y volver a la Pantalla de inicio. Esta aplicación no le enviará notificaciones ni recibirá actualizaciones.\"</li>\"
-\"<li>Si desea que una aplicación se ejecute en segundo plano, fíjela en Recientes o añádala a las siguientes excepciones en segundo plano. Hasta 4 aplicaciones pueden ejecutarse en segundo plano mientras el ahorro de batería extremo esté activado.</li>\"
-\"<li>Por defecto el ahorro de batería extremo desactiva el NFC. Puede modificar esto en Ajustes.</li>\"
-\"<li>Para asegurar que pueda utilizar todas las funciones de su dispositivo con normalidad, el ahorro de batería extremo se desactivará cuando su batería esté cargada al 30%.</li>\"</string>
+    <string name="extreme_power_config_mode_desc"><li>El Ahorro de batería extremo detiene toda la actividad en segundo plano de una aplicación después de abandonarla y regresa a la Pantalla de inicio. Esta aplicación no te enviará notificaciones ni recibirá actualizaciones.</li>\"
+\"<li>Si deseas que una aplicación se ejecute en segundo plano, fíjala en Recientes o añádela a las excepciones en segundo plano a continuación. Hasta 4 aplicaciones pueden ejecutarse en segundo plano mientras el Ahorro de batería extremo esté activado.</li>\"
+\"<li>El Ahorro de batería extremo desactiva el NFC por defecto. Puedes modificar esto en Ajustes.</li>\"
+\"<li>Para asegurar que puedas utilizar todas las funciones de tu dispositivo normalmente, el ahorro de batería extremo se desactivará cuando tu batería esté cargada al 30%.</li></string>
     <string name="extreme_power_config_mode_summary">El Ahorro de batería extremo restringe la actividad en segundo plano y detiene la sincronización.</string>
     <string name="extreme_power_config_mode_title">Ahorro de batería extremo</string>
     <string name="extreme_power_settings_title">ajustes</string>
@@ -235,7 +235,7 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
     <string name="sleep_config_enhance_title">Modo suspensión</string>
     <string name="sleepmode_disclaimer_agree">Aceptar</string>
     <string name="sleepmode_disclaimer_cancel">Cancelar</string>
-    <string name="sleepmode_privacy_content">"Esta función utilizará el sistema de su dispositivo y la información del dispositivo. No se cargará en nuestros servidores."</string>
+    <string name="sleepmode_privacy_content">"Esta función usará el sistema del teléfono y la información del dispositivo. No será subida a nuestros servidores."</string>
     <string name="sleepmode_privacy_link">Aprende más sobre privacidad y seguridad</string>
     <string name="sleepmode_privacy_title">Modo suspensión</string>
     <string name="softbank_high_temp_toast_time_10min">Linterna apagada para evitar el sobrecalentamiento</string>

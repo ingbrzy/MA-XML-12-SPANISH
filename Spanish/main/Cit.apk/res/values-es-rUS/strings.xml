@@ -28,6 +28,11 @@
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="back_mic_check_record_tip">Grabando, por favor diga algo a MIC en la parte trasera del dispositivo</string>
+    <string name="bottom_high_speaker_title">Prueba de tweeter inferior</string>
+    <string name="bottom_low_speaker_title">Prueba de woofer inferior</string>
+    <string name="bottom_right_low_speaker">Prueba de woofer inferior derecho</string>
+    <string name="cit_accdata_second_sensor_check_title">Segundo acelerómetro</string>
+    <string name="cit_accelermeter_second_cali_title">Segunda prueba de calibración del sensor de aceleración</string>
     <string name="cit_accelermeter_sensor_check_summary">"Mover el dispositivo rápidamente en una dirección. Los valores de coordenadas X，Y，Z se muestran a continuación. (cuando el dispositivo está en movimiento: X representa la izquierda/derecha, y representa la parte delantera/atrás, z representa arriba y abajo).
 Antes de calibrar el dispositivo, colócalo en una superficie plana."</string>
     <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Prueba de retroalimentación del micrófono principal al receptor.
@@ -36,7 +41,11 @@ Sostenga el dispositivo como si estuviera haciendo una llamada, hable al micróf
     <string name="cit_calibration_finish">Calibración de datos completada</string>
     <string name="cit_camera_otp_download_title">Prueba de descarga de cámara OTP</string>
     <string name="cit_charger_test_tips_pd">El dispositivo actual necesita probar USB_PD</string>
-    <string name="cit_external_keyboard_test_get_sn">Haga clic para obtener el número de serie SN del teclado externo (mantenga el teclado y el dispositivo conectados)</string>
+    <string name="cit_front_camera_motor_cali_fail">Falló la calibración del motor</string>
+    <string name="cit_front_camera_motor_cali_success">Éxito en la calibración del motor</string>
+    <string name="cit_front_camera_motor_cali_tips">No bloquee la cámara durante el proceso de calibración del motor de la cámara emergente</string>
+    <string name="cit_gyrodata_second_sensor_check_title">Segundo giroscopio</string>
+    <string name="cit_gyroscope_second_cali_title">Segunda prueba de calibración del sensor del giroscopio</string>
     <string name="cit_light_sensor_check_summary">El valor DAC debe aparecer a continuación, por favor pruebe el sensor de luz</string>
     <string name="cit_nfc_check_summary">"Por favor, haga clic en el botón para iniciar NFC y, a continuación, coloque la tarjeta en la parte superior de la parte posterior del dispositivo. 
 No apague la pantalla durante la prueba"</string>
@@ -64,8 +73,16 @@ haga clic en el botón para cambiar el modo táctil al modo THP o al modo FW"</s
     <string name="cit_uwb_calibrate_summary">Esta prueba está dedicada a los ingenieros de mantenimiento, por favor úsalo con precaución</string>
     <string name="cit_uwb_calibrate_title">Prueba de calibración UWB</string>
     <string name="cit_wifi_address_check_summary">A continuación se muestra la dirección de la red Wi-Fi a la que el dispositivo está conectado actualmente. Confirme que la información resaltada en verde es correcta.</string>
+    <string name="close_third_color_led">cerrar led de tres colores</string>
     <string name="front_mic_check_record_tip">Grabación, por favor diga algo a MIC en la parte frontal del dispositivo</string>
     <string name="main_mic_check_record_tip">Grabando, por favor diga algo al MIC en el principal del dispositivo</string>
+    <string name="motor_calibration">Calibración del motor</string>
+    <string name="open_third_color_led">abrir led de tres colores</string>
+    <string name="pop_camera">Cámara pop</string>
+    <string name="pop_push_camera_test_summary">"Haga clic en el botón de cámara emergente para ver si la cámara sale
+Haga clic en el botón de cámara para ver si la cámara entra"</string>
+    <string name="pop_push_camera_test_title">Prueba de cámara emergente y push</string>
+    <string name="push_camera">Empuje la cámara</string>
     <string name="sar_sensor_collect_test_summary">"Rotar el dispositivo, ponlo en el dispositivo
 Haga clic en el botón Iniciar adquisición de datos
 Controlar el dispositivo cerca y lejos del dispositivo"</string>
@@ -76,5 +93,7 @@ Haga clic en el botón \"Calibrar\"
 Después de calibrar con éxito, controle el dispositivo cerca y alejado del dispositivo"</string>
     <string name="search_menu_title">Buscar</string>
     <string name="tips_not_placed_right_angle">El dispositivo no está situado en el ángulo correcto</string>
+    <string name="top_high_speaker_title">Prueba de tweeter superior</string>
+    <string name="top_low_speaker_title">Prueba de woofer superior</string>
     <string name="top_mic_check_record_tip">Grabando, por favor diga algo a MIC en la parte superior del dispositivo</string>
 </resources>

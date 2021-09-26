@@ -216,7 +216,6 @@
     <string name="msim_setting_default_data">SIM de datos</string>
     <string name="msim_setting_default_voice">SIM por defecto para llamadas</string>
     <string name="multisim_settings_category">Ajustes de la SIM</string>
-    <string name="multisim_settings_sb_title">1 tarjeta SIM detectada</string>
     <string name="multisim_settings_title">Se han detectado 2 tarjetas SIM</string>
     <string name="navigation_picker_gesture_guide">Guía de gestos</string>
     <string name="navigation_picker_radio_text_full_screen">Gestos de pantalla completa</string>
@@ -358,7 +357,7 @@ Puede controlar esta función desde Configuración &gt; Contraseñas &amp; Segur
     <string name="service_policy">&lt;Data&gt;Lea y acepte nuestra &lt;a href=%1$s&gt;Política de Privacidad&lt;/a &gt;.&lt;/Data&gt;</string>
     <string name="service_policy_download">&lt;Data&gt;Antes de usar nuestros servicios, lea y acepte la &lt;a href=%1$s&gt;Política de Privacidad de Xunlei&lt;/a &gt;.&lt;/Data&gt;</string>
     <string name="service_privacy_index">Política de Privacidad</string>
-    <string name="service_security_over_r">&lt;Data&gt;Lea y acepte nuestra &lt;a href=%1$s&gt;Política de privacidad&lt;/a &gt; antes de usar Seguridad. &lt;br/&gt;&lt;br/&gt;De acuerdo con los estándares de Android 11, El permiso único se retirará dentro de los 5 segundos posteriores a que la aplicación correspondiente deje de ejecutarse. Si abre la aplicación durante este breve período de tiempo, el permiso se retirará en ese momento&lt;/Data&gt;</string>
+    <string name="service_security_over_r">&lt;Data&gt;Lee y acepta nuestra &lt;a href=%1$s&gt;Política de Privacidad&lt;/a &gt; antes de usar Seguridad.&lt;br/&gt;&lt;br/&gt;De acuerdo con los estándares de Android 11, se retirará un permiso único dentro de los 5 segundos posteriores a que la aplicación correspondiente deje de ejecutarse. Si abres la aplicación durante este breve período de tiempo, el permiso se retirará en ese momento&lt;/Data&gt;</string>
     <string name="servicestate_title">Declaración sobre servicios básicos</string>
     <string name="setting_locale">Estableciendo región…</string>
     <string name="shut_down">Apagar</string>
@@ -368,11 +367,7 @@ Puede controlar esta función desde Configuración &gt; Contraseñas &amp; Segur
     <string name="sim_card_detecting_title">Comprobando la tarjeta SIM…</string>
     <string name="sim_card_detection">Inserta tarjeta SIM</string>
     <string name="sim_card_detection_info">Lee las instrucciones de tu dispositivo para insertar la tarjeta SIM.</string>
-    <string name="sim_card_detection_info_sb">"Inserte una tarjeta SIM antes de continuar. Las funciones de búsqueda y sincronización relacionadas con el dispositivo no estarán completamente disponibles para usted si crea una cuenta sin una tarjeta SIM. Este dispositivo es compatible con eSIM. "</string>
-    <string name="sim_card_detection_info_sb_esim">Toque para activar eSim.</string>
     <string name="sim_card_detection_mobile_not_available">"La tarjeta SIM no se pudo conectar a la red"</string>
-    <string name="sim_card_detection_sb_esim">Activar eSIM&gt;</string>
-    <string name="sim_card_detection_sb_nonactivated">No esta activado</string>
     <string name="sim_dectection_next">Continuar</string>
     <string name="sim_redetection">Revisar de nuevo</string>
     <string name="sim_scard_detecting_check_mobile_not_available">"Su tarjeta SIM no se pudo conectar a un operador de red válido. Asegúrese de tener saldo suficiente y vuelva a intentarlo."</string>

@@ -136,11 +136,6 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptativo audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC V3</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Usar preferencia del sistema (Por defecto)</item>
@@ -149,19 +144,18 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptativo audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC V3</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
-        <item>Habilitar códecs opcionales</item>
-        <item>Deshabilitar códecs opcionales</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
-        <item>" | Activo"</item>
-        <item>" | Activo (multimedia)"</item>
-        <item>" | Activo (teléfono)"</item>
+        <item> | Activo</item>
+        <item> | Activo (multimedia)</item>
+        <item> | Activo (teléfono)</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Por defecto)</item>
@@ -178,8 +172,6 @@
         <item>Deshabilitado</item>
         <item>Filtrado</item>
         <item>Habilitado</item>
-        <item>Encabezados filtrados</item>
-        <item>Paquetes multimedia filtrados</item>
     </string-array>
     <string-array name="clock_options">
         <item>Mostrar horas, minutos y segundos</item>
@@ -188,7 +180,7 @@
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Colores mejorados</item>
-        <item>Colores naturales vistos como el ojo</item>
+        <item>Colores naturales como vistos con el ojo</item>
         <item>Colores optimizados para contenido digital</item>
     </string-array>
     <string-array name="color_mode_names">

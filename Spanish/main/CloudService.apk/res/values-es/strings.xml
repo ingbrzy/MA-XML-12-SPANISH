@@ -442,6 +442,8 @@
     <string name="micloud_storage_full_tip">El almacenamiento está lleno</string>
     <string name="micloud_storage_normal_tip">%s restante</string>
     <string name="micloud_storage_share_family">Compartir en familia</string>
+    <string name="micloud_storage_unit_gb">%s GB</string>
+    <string name="micloud_storage_unit_mb">%s MB</string>
     <string name="micloud_sync_alert_dialog_message">Sincronizar fotos, contactos, notas y otros elementos en todos tus dispositivos.</string>
     <string name="micloud_sync_alert_dialog_message_pad">Sincroniza tus fotos, notas y más en todos tus dispositivos.</string>
     <string name="micloud_sync_alert_dialog_message_v2">Sincronizar fotos, contactos, notas y otros elementos en todos tus dispositivos.</string>
@@ -469,10 +471,6 @@
     <string name="micloud_upgrade_member">Obtener almacenamiento</string>
     <string name="micloud_upgrade_storage">Actualizar plan de almacenamiento</string>
     <string name="micloud_user_space_title">Espacio de almacenamiento</string>
-    <string name="micloud_warn_full_sum">"No se sincronizarán los nuevos elementos con Xiaomi Cloud."</string>
-    <string name="micloud_warn_full_title">No queda espacio</string>
-    <string name="micloud_warn_low_sum">Xiaomi Cloud está al 90% de su capacidad.</string>
-    <string name="micloud_warn_low_title">Casi no queda espacio</string>
     <string name="micloud_web_discription_place_holder">Visita %1$s en tu ordenador para gestionar tus datos.</string>
     <string name="micloud_wipe_data_confirm_label">¿Eliminar los elementos sincronizados de este dispositivo?</string>
     <string name="micloud_wipe_data_confirm_title">Algunos elementos de las siguientes aplicaciones se sincronizan con Xiaomi Cloud. Puedes eliminarlos de este dispositivo aún manteniéndolos en la nube.</string>
@@ -572,6 +570,15 @@ Esta característica cifra y envía el ID de su dispositivo a los servidores Mi.
     <string name="no_sim">"No se pudo encontrar la tarjeta SIM"</string>
     <string name="noon">Mediodía</string>
     <string name="not_set">Sin definir</string>
+    <string name="noti_quota_button_text">Actualizar</string>
+    <string name="noti_quota_full_sum">Actualice su plan de almacenamiento para continuar sincronizando elementos.</string>
+    <string name="noti_quota_full_sum_without_button">Obtén más espacio de almacenamiento para seguir sincronizando elementos.</string>
+    <string name="noti_quota_full_title">El almacenamiento en la nube está lleno</string>
+    <string name="noti_quota_full_title_without_button">El almacenamiento en la nube está lleno</string>
+    <string name="noti_quota_low_sum">Actualice su plan de almacenamiento para continuar sincronizando elementos.</string>
+    <string name="noti_quota_low_sum_without_button">Obtén más espacio de almacenamiento para seguir sincronizando elementos.</string>
+    <string name="noti_quota_low_title">No hay suficiente almacenamiento en la nube</string>
+    <string name="noti_quota_low_title_without_button">No hay suficiente almacenamiento en la nube</string>
     <string name="notification_sync_fail_title">"No se pudieron sincronizar las contraseñas"</string>
     <string name="notification_update_key_text">Se cambió la contraseña del administrador de contraseñas. Verifique el nuevo código de acceso.</string>
     <string name="pay_info_dialog_confirm_to_pay">Pagar %s</string>
@@ -642,7 +649,7 @@ Es posible que la información de ubicación no sea reportada cuando la conexió
     <string name="send">Enviar</string>
     <string name="share_cancel">Compartir cancelado</string>
     <string name="share_failed">"No se pudo compartir"</string>
-    <string name="share_location_app_name">Localizar</string>
+    <string name="share_location_app_name">Encontrar dispositivo</string>
     <string name="share_location_dialog_confirm">Entendido</string>
     <string name="share_location_dialog_content">Ahora puedes usar el acceso directo de la Pantalla de inicio para acceder a los ajustes más rápido.</string>
     <string name="share_location_dialog_title">Atención</string>

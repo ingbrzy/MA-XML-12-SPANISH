@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Ocultar</string>
     <string name="about_device_info">Ver detalles de dispositivo</string>
+    <string name="accept">Permitir</string>
     <string name="access_token_expired_warning">La cuenta de Weibo ha expirado</string>
     <string name="access_token_invalid_warning">La cuenta de Weibo no es válida</string>
     <string name="account">Cuenta</string>
@@ -106,6 +107,7 @@
     <string name="binded_description" formatted="false">"%s ha sido conectado a tu Cuenta Mi.
 Ahora puedes iniciar sesión en tu Cuenta Mi usando %s."</string>
     <string name="button_unbind">Desconectar</string>
+    <string name="cancel">Cancelar</string>
     <string name="change_activate_email">Cambiar dirección de correo electrónico</string>
     <string name="change_email_address">Cambiar dirección de correo electrónico</string>
     <string name="change_password">Cambiar contraseña</string>
@@ -176,6 +178,7 @@ Ahora puedes iniciar sesión en tu Cuenta Mi usando %s."</string>
     <string name="delete_device_btn">Desvincular</string>
     <string name="delete_device_failed">"No es posible desvincular el dispositivo"</string>
     <string name="delete_device_notice">"Después de desvincular el dispositivo, se cerrará la sesión de su Cuenta Mi automáticamente. No podrá usar este dispositivo para acceder a las fotos, mensajes u otros contenidos almacenados en su cuenta."</string>
+    <string name="deny">Denegar</string>
     <string name="device_delete_success_message">"Si no iniciaste sesión con este dispositivo, cambia tu contraseña inmediatamente."</string>
     <string name="device_delete_success_title">Cerrar sesión</string>
     <string name="device_list__header">Mis dispositivos</string>
@@ -188,6 +191,7 @@ Envía este código al supervisor."</string>
     <string name="download_file">Descargando %s…</string>
     <string name="early_morning">Mañana</string>
     <string name="empty_device_list_notice">No hay dispositivos</string>
+    <string name="enable">Ajustes</string>
     <string name="ep_unsupported">"No se puede iniciar sesión con Cuenta Mi en tu dispositivo"</string>
     <string name="eras_bc">AC</string>
     <string name="error_dup_binded_email">Esta dirección de correo electrónico ya está asociada con otra Cuenta Mi.</string>
@@ -247,6 +251,7 @@ Envía este código al supervisor."</string>
     <string name="get_phone_bind_exceed_limit">"Puedes asociar hasta 3 Cuenta Mis con un número de teléfono. No puedes añadir nuevas cuentas."</string>
     <string name="get_phone_verifycode_exceed_limit">Se han enviado demasiados códigos de verificación a este número. Espera 24 horas e inténtalo de nuevo.</string>
     <string name="google_login">Iniciar sesión con Google</string>
+    <string name="goto_accept">OK</string>
     <string name="guest_account_label">Cuenta de Mi Invitado</string>
     <string name="health_action_activate">Activar</string>
     <string name="health_action_install">Instalar</string>
@@ -408,6 +413,7 @@ Envía este código al supervisor."</string>
     <string name="passport_activing_account">Activando…</string>
     <string name="passport_adding_account">Añadiendo cuenta…</string>
     <string name="passport_area_code_hot">USADOS FRECUENTEMENTE</string>
+    <string name="passport_area_code_others">Usa un prefijo diferente</string>
     <string name="passport_area_code_title">Prefijo internacional</string>
     <string name="passport_auto_generate_pwd">Generar una contraseña segura</string>
     <string name="passport_back">Atrás</string>
@@ -598,6 +604,7 @@ Envía este código al supervisor."</string>
     <string name="passport_title_reg">Crear una cuenta</string>
     <string name="passport_trust_device">Añadir este dispositivo a dispositivos verificados</string>
     <string name="passport_trying_read_verify_code_sms">Obteniendo el código de verificación…</string>
+    <string name="passport_tz_invalid">Riesgos de seguridad encontrados. Este dispositivo puede haber sido rooteado o flasheado. Prueba otras opciones de inicio de sesión.</string>
     <string name="passport_uplink_reg">Utilizar número de teléfono</string>
     <string name="passport_uplink_send_sms_hint">"Toca \"Enviar\" después de ser redirigido a la página con un mensaje redactado."</string>
     <string name="passport_uplink_slot1_reg">Usar la SIM 1</string>
@@ -632,9 +639,13 @@ Envía este código al supervisor."</string>
     <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="password_view_hide_password">Ocultar contraseña</string>
     <string name="password_view_show_password">Mostrar contraseña</string>
+    <string name="permission_desc_read_sms">Para códigos de verificación de llenado automático</string>
+    <string name="permission_desc_write_external_storage">Para subir registros de comentarios</string>
     <string name="permission_group_contacts">Contactos</string>
     <string name="permission_group_phone">Teléfono</string>
     <string name="permission_group_storage">Almacenamiento</string>
+    <string name="permission_read_sms">Acceder a mensajes</string>
+    <string name="permission_write_external_storage">Acceda y guarde elementos en el almacenamiento</string>
     <string name="personal_info_desc">Foto, apodo y más</string>
     <string name="phone_num_use_for">El número de teléfono se usa para:</string>
     <string name="photoPickerNotFoundText">No hay fotos disponibles.</string>
@@ -652,6 +663,12 @@ Envía este código al supervisor."</string>
     <string name="recycle_phone_notification_title">Riesgo de seguridad de Cuenta Mi</string>
     <string name="removing_account">Cerrando sesión…</string>
     <string name="replace_binded_phone">Sustituir teléfono</string>
+    <string name="request_open_permission">Permisos requeridos</string>
+    <string name="request_use_camera_message">"¿Permitir que Mi Cuenta acceda a la cámara de su teléfono?"</string>
+    <string name="request_use_camera_title">Acceso a la cámara</string>
+    <string name="request_use_gallery_message">¿Permitir que Mi Cuenta acceda a la Galería?</string>
+    <string name="request_use_gallery_title">Acceso a la Galería</string>
+    <string name="request_use_writing_clipboard_message">Para copiar su ID de Mi Cuenta, permita que Mi Cuenta guarde elementos en el portapapeles.</string>
     <string name="resend_active_email">Reenviar</string>
     <string name="resend_email_reach_limit_message">"Has solicitado demasiados correos de verificación. Asegúrate de que el mensaje de verificación no está en la carpeta de correo no deseado."</string>
     <string name="resend_email_reach_limit_title">"No se pudo enviar el correo electrónico"</string>
@@ -802,6 +819,8 @@ Envía este código al supervisor."</string>
     <string name="used_cloud_storage_info">%s usados</string>
     <string name="user_avatar_update_title">Cambiar foto de perfil</string>
     <string name="user_avatar_uploading">Un momento…</string>
+    <string name="user_instruction_all_purpose">¡Bienvenido a Mi Cuenta! Puede crear una cuenta, iniciar sesión y acceder a los servicios proporcionados por Xiaomi y sus empresas afiliadas, como Mi. com, Xiaomi Cloud y GetApps. Puede obtener Mi Coins, comprar bienes virtuales y disfrutar de servicios de valor agregado que incluyen juegos, temas y libros electrónicos.</string>
+    <string name="user_instruction_tip">Para poder iniciar sesión, lea y acepte los términos y condiciones.</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
     <string name="vip_account_settings">Ajustes VIP</string>

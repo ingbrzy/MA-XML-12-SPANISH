@@ -72,8 +72,6 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Usar selección del sistema (predeterminado)</item>
@@ -82,8 +80,6 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -91,10 +87,16 @@
         <item>, activo (contenido multimedia)</item>
         <item>, activo (teléfono)</item>
     </string-array>
+    <string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp15</item>
+        <item>avrcp13</item>
+        <item>avrcp14</item>
+        <item>avrcp16</item>
+    </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (predeterminado)</item>
+        <item>AVRCP 1.5 (predeterminado)</item>
         <item>AVRCP 1.3</item>
-        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.4</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
@@ -106,8 +108,6 @@
         <item>Inhabilitado</item>
         <item>Filtrado habilitado</item>
         <item>Habilitado</item>
-        <item>Encabezados habilitados filtrados</item>
-        <item>Paquetes de medios habilitados filtrados</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Colores mejorados</item>
@@ -166,7 +166,7 @@
         <item>256 K/búfer registro</item>
         <item>1 M/búfer registro</item>
         <item>4 M/búfer registro</item>
-        <item>16 M/búfer registro</item>
+        <item>8 M por búfer de registro</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Desactivado</item>
@@ -174,7 +174,15 @@
         <item>256 K</item>
         <item>1 M</item>
         <item>4 M</item>
-        <item>16 M</item>
+        <item>8M</item>
+    </string-array>
+    <string-array name="select_logd_size_values">
+        <item>32768</item>
+        <item>65536</item>
+        <item>262144</item>
+        <item>1048576</item>
+        <item>4194304</item>
+        <item>8388608</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Desactivado</item>
@@ -253,6 +261,20 @@
         <item>Incorrecto</item>
         <item>Bloqueada</item>
         <item>Desactivando mala conexión  temporalmente</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Escaneando…</item>
+        <item>Conectando…</item>
+        <item>Autenticando…</item>
+        <item>Obteniendo dirección IP…</item>
+        <item>Conectado</item>
+        <item>Suspendido</item>
+        <item>Desconectando…</item>
+        <item>Desconectado</item>
+        <item>Incorrecto</item>
+        <item>Bloqueado</item>
+        <item>Evitar temporalmente una mala conexión</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animación desactivada</item>

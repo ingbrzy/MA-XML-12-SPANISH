@@ -66,7 +66,7 @@
     <string name="action_add_phone">Añadir número de teléfono</string>
     <string name="action_update_phone">Cambiar número de teléfono</string>
     <string name="actionbar_button_up_description">Atrás</string>
-    <string name="activate_email_notice">Asegúrese de activar su cuenta antes de 24 horas</string>
+    <string name="activate_email_notice">Asegúrate de activar tu cuenta antes de 24 horas</string>
     <string name="activity_not_found_notice">"No se pudo encontrar la aplicación"</string>
     <string name="ad">Anuncio</string>
     <string name="ad_bar_notification_setting_sub_title">Mostrar eventos en la Barra de notificaciones</string>
@@ -132,10 +132,11 @@
     <string name="cast_expanded_controller_live_stream_indicator">Streaming en directo</string>
     <string name="cast_expanded_controller_loading">Cargando…</string>
     <string name="cast_expanded_controller_skip_ad_label">Saltar anuncio</string>
-    <string name="cast_expanded_controller_skip_ad_text">Podrá saltar el anuncio en %1$d…</string>
+    <string name="cast_expanded_controller_skip_ad_text">Podrás saltar el anuncio en %1$d…</string>
     <string name="cast_forward">Avanzar</string>
     <string name="cast_forward_10">Avanzar 10 segundos</string>
     <string name="cast_forward_30">Avanzar 30 segundos</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">EN DIRECTO</string>
     <string name="cast_mute">Silenciar</string>
     <string name="cast_notification_connected_message">Conectado a %1$s</string>
@@ -176,7 +177,7 @@
     <string name="cloud_auto_pip_play_switch">Usar picture-in-picture automáticamente</string>
     <string name="cloud_online_player">Reproductor</string>
     <string name="cloud_online_switch">Recomendaciones personalizadas</string>
-    <string name="cloud_online_switch_close_time">Puede activar las recomendaciones de contenido personalizadas en %s</string>
+    <string name="cloud_online_switch_close_time">Puedes activar las recomendaciones de contenido personalizado en %s</string>
     <string name="cloud_online_switch_open_time">Mostrar recomendaciones de contenido personalizado</string>
     <string name="collect_diagnosis_log">Recoger registros</string>
     <string name="columbus_player_close_desc">Perderás tu recompensa</string>
@@ -297,7 +298,7 @@ Envía este código al supervisor."</string>
     <string name="dialog_revoke_privacy_info_new2">Después de revocar la autorización, la aplicación dejará de recopilar datos y todos los datos relacionados se eliminarán de nuestros servidores. Esto podría hacer que la aplicación sea virtualmente inutilizable. ¿Revocar la autorización de todas formas?</string>
     <string name="dialog_revoke_privacy_title">Revocando autorización</string>
     <string name="disagree">"No aceptar"</string>
-    <string name="diy_channels_tips">Ahora puede personalizar la lista de sus canales.</string>
+    <string name="diy_channels_tips">Ahora puedes personalizar la lista de tus canales.</string>
     <string name="do_not_show_again">"No mostrar de nuevo"</string>
     <string name="download">Descargar</string>
     <string name="download_checking_tip">Preparando para descargar…</string>
@@ -344,7 +345,9 @@ Envía este código al supervisor."</string>
     <string name="exo_download_failed">No se ha podido descargar</string>
     <string name="exo_download_notification_channel_name">Descargas</string>
     <string name="exo_download_removing">Quitando descargas</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d×%2$d</string>
     <string name="exo_track_selection_auto">Automático</string>
     <string name="exo_track_selection_none">Ninguna</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -501,7 +504,7 @@ Envía este código al supervisor."</string>
     <string name="galleryplus_vp_videoview_error_title">"No se puede reproducir este vídeo"</string>
     <string name="get_back_pwd">Restableciendo contraseña</string>
     <string name="get_ph_ticket">Obtener el código</string>
-    <string name="get_phone_bind_exceed_limit">"Puede asociar hasta 3 Cuentas Mi con un número de teléfono. No puede añadir nuevas cuentas."</string>
+    <string name="get_phone_bind_exceed_limit">"Puedes asociar hasta 3 Cuenta Mi con un número de teléfono. No puedes añadir nuevas cuentas."</string>
     <string name="get_phone_verifycode_exceed_limit">Se han enviado demasiados códigos de verificación a este número. Espera 24 horas y prueba de nuevo.</string>
     <string name="got_it">Entendido</string>
     <string name="goto_sign_up">Crear cuenta</string>
@@ -512,7 +515,7 @@ Envía este código al supervisor."</string>
     <string name="history_local_video">Local</string>
     <string name="history_online_video">Online</string>
     <string name="hot">Popular</string>
-    <string name="i_know">OK</string>
+    <string name="i_know">Entendido</string>
     <string name="id_namespace">hungama</string>
     <string name="identity">Identificación</string>
     <string name="inconsistent_pwd">"Las contraseñas no coinciden"</string>
@@ -530,9 +533,9 @@ Envía este código al supervisor."</string>
     <string name="item_setting_go_back">Retirada del consentimiento</string>
     <string name="just_a_second">Un momento…</string>
     <string name="language_later_setting_tips">Puedes cambiar tus preferencias de idioma en Perfil e Idioma.</string>
-    <string name="language_select_tips">"Seleccione su idioma preferido
-para videos"</string>
-    <string name="language_setting_tips">Seleccione sus preferencias de idioma para recibir recomendaciones de contenido más relevantes. Puede cambiar sus preferencias de idioma en Perfil &gt; Idioma.</string>
+    <string name="language_select_tips">"Selecciona tu idioma preferido
+para vídeos"</string>
+    <string name="language_setting_tips">Selecciona tus preferencias de idioma para recibir más recomendaciones de contenido relevantes. Puedes cambiar tus preferencias de idioma en Perfil &gt; Idioma.</string>
     <string name="language_setting_tips_dialog">Puedes seleccionar preferencias de idioma para el contenido en Cuenta e Idioma.</string>
     <string name="later">Más tarde</string>
     <string name="library_roundedimageview_libraryDescription">Un ImageView rápido (y dibujable) que admite esquinas redondeadas (y óvalos o círculos) basado en el ejemplo original de Romain Guy.</string>
@@ -604,7 +607,7 @@ para videos"</string>
     <string name="lv_brightness">Brillo</string>
     <string name="lv_cast">Emitir</string>
     <string name="lv_check_delete_file">Seleccionar elementos para eliminar</string>
-    <string name="lv_check_send_file">Sólo puede enviar 1 archivo a la vez</string>
+    <string name="lv_check_send_file">Solo puedes enviar 1 archivo a la vez</string>
     <string name="lv_confirm_delete_history">¿Eliminar elementos seleccionados?</string>
     <string name="lv_confirm_delete_videos">¿Eliminar elementos?</string>
     <string name="lv_confirm_hide_videos">¿Ocultar vídeos?</string>
@@ -651,7 +654,7 @@ para videos"</string>
     <string name="lv_send_title">Enviar</string>
     <string name="lv_set_password">Establecer una contraseña para ver vídeos ocultos</string>
     <string name="lv_setting">Ajustes</string>
-    <string name="lv_share_tips">Captura de pantalla realizada con éxito. Puede compartirla.</string>
+    <string name="lv_share_tips">Captura de pantalla realizada con éxito. Ahora puedes compartirla.</string>
     <string name="lv_skip_update">Ahora no</string>
     <string name="lv_storage_external_sdcard">Almacenamiento externo</string>
     <string name="lv_storage_internal_sdcard">Almacenamiento interno</string>
@@ -684,11 +687,11 @@ para videos"</string>
     <string name="lv_subtitle_onlinesub_title">Subtítulos en línea</string>
     <string name="lv_subtitle_open_subtitle_file_title">Buscar subtítulos</string>
     <string name="lv_subtitle_preoffset_max">"No se puede ajustar más de 5 s"</string>
-    <string name="lv_subtitle_subonline_non_network">"No se pudo conectar a la red. Conéctese y vuelva a intentarlo."</string>
+    <string name="lv_subtitle_subonline_non_network">"No se pudo conectar a la red. Conéctate y vuelve a intentarlo."</string>
     <string name="lv_subtitle_synchronization_title">Sincronizar</string>
     <string name="lv_subtitle_title">Subtítulos</string>
     <string name="lv_subtitle_track">Subtítulos</string>
-    <string name="lv_unhide_prompt">Establecido con éxito. Ahora puede ver archivos no ocultos.</string>
+    <string name="lv_unhide_prompt">Modificado con éxito. Ya puedes ver los archivos mostrados.</string>
     <string name="lv_updating">Actualizando…</string>
     <string name="lv_use_notch">Mostrar notch</string>
     <string name="lv_videoView_error_text_invalid_progressive_playback">"No se puede reproducir este vídeo en tu dispositivo."</string>
@@ -805,7 +808,7 @@ para videos"</string>
     <string name="my_favorite_channels">Mis canales favoritos</string>
     <string name="my_feedback_title">Mis comentarios</string>
     <string name="need_update_app">Actualiza Mi Vídeo para usar todas sus funciones</string>
-    <string name="network_connect_info">"No se pudo conectar a la red. Comprueba tus ajustes de red y vuelve a intentarlo."</string>
+    <string name="network_connect_info">"No se pudo conectar a la red."</string>
     <string name="network_failed">"No se pudo conectar a la red"</string>
     <string name="neverthink_player_loading">Cargando vídeo Neverthink …</string>
     <string name="new_channel_tip">¡Echa un vistazo a los nuevos canales!</string>
@@ -817,7 +820,7 @@ para videos"</string>
     <string name="no_history">No hay elementos</string>
     <string name="no_longer_prompt">"No mostrar de nuevo"</string>
     <string name="no_more_content">"Eso es todo por ahora"</string>
-    <string name="no_network_tips">"No puede usar esta función por ahora. Acceso a la red restringido."</string>
+    <string name="no_network_tips">"No puedes usar esta función por ahora. Acceso a la red restringido."</string>
     <string name="no_phone">No hay número de teléfono</string>
     <string name="no_recommend_data">No hay ningún vídeo recomendado ahora mismo</string>
     <string name="no_subscriptions">No hay elementos</string>
@@ -845,7 +848,7 @@ para videos"</string>
     <string name="off_tip_firework_recommend">"No recibirás recomendaciones personalizadas de contenido de Firework"</string>
     <string name="ok">OK</string>
     <string name="on_tip_firework_recommend">"Recibirás recomendaciones personalizadas de contenido de Firework"</string>
-    <string name="open_settings">Ir a la configuración</string>
+    <string name="open_settings">Ajustes</string>
     <string name="order_recently_subscribe">Suscripciones recientes</string>
     <string name="order_recently_updated">Subido recientemente</string>
     <string name="out_of_memory_background_playback_is_suspended">Reproducción en segundo plano en pausa debido a memoria insuficiente</string>
@@ -946,7 +949,7 @@ Primero actualiza Mi Vídeo a la última versión."</string>
     <string name="page_title_language">Preferencias de idioma</string>
     <string name="passport_access_denied">Acceso denegado</string>
     <string name="passport_account_label">Cuenta Mi</string>
-    <string name="passport_account_name">"Cuenta: %1$s"</string>
+    <string name="passport_account_name">"Cuenta: %1$s "</string>
     <string name="passport_activate_token_expired">El código de verificación ha expirado, Vuelve a intentarlo.</string>
     <string name="passport_area_code_title">Código de área</string>
     <string name="passport_bad_authentication">Nombre de usuario o contraseña no válidos</string>
@@ -1129,7 +1132,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="plus_player_subtitle">Subtítulos</string>
     <string name="plus_player_subtitle_dir_back">Subir</string>
     <string name="plus_player_subtitle_local">Subtitulos locales</string>
-    <string name="plus_player_subtitle_local_add_fail">"No se pudieron agregar subtítulos. Asegúrese de que el archivo no esté dañado."</string>
+    <string name="plus_player_subtitle_local_add_fail">"No se pudo añadir subtítulos. Asegúrate de que el archivo no está corrupto."</string>
     <string name="plus_player_subtitle_local_add_success">Subtítulos añadidos con éxito</string>
     <string name="plus_player_subtitle_no_file">Sin subtitulos.</string>
     <string name="plus_player_subtitle_online">Subtítulos en línea</string>
@@ -1237,13 +1240,13 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="report_content_violence">Discurso de odio</string>
     <string name="report_fail">"No se pudo reportar. Inténtalo de nuevo."</string>
     <string name="report_success">Reportado con éxito</string>
-    <string name="request_camera_permission_message">Este servicio debe solicitar su permiso a continuación, cumpliremos estrictamente con las leyes pertinentes para proteger su información personal: &lt;br&gt;&lt;br&gt;&lt;b&gt; Acceder a la cámara: experimente los servicios de grabación en tiempo real para configurar Avatar &lt;/b&gt;&lt;br&gt;&lt;br&gt; Si no acepta llamar a los permisos anteriores , esta función no funcionará correctamente, pero no afectará su uso de las funciones básicas de esta aplicación. Puede optar por desactivar la llamada de permiso anterior en la configuración del sistema para retirar su consentimiento.</string>
+    <string name="request_camera_permission_message">Protegeremos tu información personal de acuerdo con las leyes y regulaciones pertinentes. Esta aplicación necesita los siguientes permisos para funcionar con normalidad:&lt;br&gt;&lt;br&gt;&lt;b&gt;Uso de la cámara (para configurar tu foto de perfil)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Si no estás de acuerdo con otorgar dichos permisos, no podrás utilizar algunas funciones de esta aplicación; sin embargo, su funcionalidad básica seguirá estando disponible. Siempre puedes restringir los permisos o revocar tu autorización en los Ajustes.</string>
     <string name="resend_active_email">Reenviar</string>
-    <string name="resend_email_reach_limit_message">"Ha solicitado demasiados correos de verificación. Asegúrese de que el mensaje de verificación no está en la carpeta de correo no deseado."</string>
+    <string name="resend_email_reach_limit_message">"Has solicitado demasiados correos de verificación. Asegúrate de que el mensaje de verificación no está en la carpeta de correo no deseado."</string>
     <string name="resend_email_reach_limit_title">Demasiados intentos</string>
     <string name="resend_email_success">Enviado con éxito</string>
     <string name="restart_action">Volver a comenzar</string>
-    <string name="restart_phone_bind_message">Puede tardar un rato en recibir el SMS. ¿Empezar de nuevo de todos modos?</string>
+    <string name="restart_phone_bind_message">Puedes tardar un rato en recibir el SMS. ¿Empezar de nuevo de todos modos?</string>
     <string name="restart_phone_bind_title">Cambiar teléfono de recuperación</string>
     <string name="restore_channel_list">¿Restaurar valores predeterminados?</string>
     <string name="retry">Vuelve a intentarlo</string>
@@ -1353,7 +1356,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="subscribe">SUSCRIBIRSE</string>
     <string name="subscribed">SUSCRITO</string>
     <string name="subscriptions">Suscripciones</string>
-    <string name="subtitle_add_subtitle_failed">"No se pudieron añadir subtítulos. Asegúrese de que el archivo no está corrupto."</string>
+    <string name="subtitle_add_subtitle_failed">"No se pudo añadir subtítulos. Asegúrate de que el archivo no está corrupto."</string>
     <string name="subtitle_manual_add_sub">Subtítulos añadidos con éxito</string>
     <string name="subtitle_offset_normal">"No mover subtítulos"</string>
     <string name="subtitle_padding_default_hint">Ajustando subtítulos…</string>

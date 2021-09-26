@@ -108,6 +108,14 @@
         <item quantity="other">Hace %d minutos</item>
         <item quantity="one">Hace %d minuto</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avance rápido %d segundos</item>
+        <item quantity="one">Avance rápido %d segundos</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Retroceder %d segundos</item>
+        <item quantity="one">Retroceder %d segundo</item>
+    </plurals>
     <plurals name="guide_used_number">
         <item quantity="other">Aplicado en %1$d dispositivos</item>
         <item quantity="one">Aplicado en %1$d dispositivo</item>
@@ -143,6 +151,10 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Justo ahora</item>
         <item quantity="other">Ahora</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementos seleccionados</item>
+        <item quantity="one">%d elemento seleccionado</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d nuevas notificaciones</item>

@@ -11,6 +11,8 @@
     <string name="connections">Conexiones</string>
     <string name="connects_via_network">Conectar vía red actual en %1$s</string>
     <string name="connects_via_wifi_direct">Conectar vía Wi-Fi Direct</string>
+    <string name="disable_wifi_direct">Desactivar Wi-Fi Direct</string>
+    <string name="enable_location">Habilitar ubicación</string>
     <string name="failed_connection">No se pudo conectar con %1$s</string>
     <string name="failed_printer_connection">No se pudo conectar con la impresora</string>
     <string name="find_wifi_direct">Encontrar impresoras con Wi-Fi Direct</string>
@@ -51,7 +53,9 @@
     <string name="unreadable_input">No se pudo leer el documento</string>
     <string name="waiting_to_send">Esperando para enviar</string>
     <string name="wifi_direct">Wi-Fi Direct</string>
+    <string name="wifi_direct_location_rationale">El servicio de impresión predeterminado necesita servicios de ubicación habilitados para encontrar dispositivos cercanos.</string>
     <string name="wifi_direct_permission_rationale">El Servicio de impresión por defecto necesita permisos de ubicación para encontrar dispositivos cercanos.</string>
     <string name="wifi_direct_printers">Impresoras con Wi-Fi Direct</string>
     <string name="wifi_direct_printing">Impresión con Wi-Fi Direct</string>
+    <string name="wifi_direct_problem">El servicio de impresión predeterminado no puede encontrar impresoras Wi-Fi Direct</string>
 </resources>

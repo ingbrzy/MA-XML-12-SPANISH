@@ -954,10 +954,11 @@ Envía este código al supervisor."</string>
     <string name="mw_accessibility_time_picker_minute">Minuto</string>
     <string name="mw_accessibility_time_picker_second">Segundo</string>
     <string name="mw_actionbar_share">Compartir</string>
-    <string name="mw_actionbar_textselection_title">Seleccionar texto</string>
+    <string name="mw_actionbar_textselection_title">Selección de texto</string>
     <string name="mw_actionbar_web_search">Búsqueda web</string>
     <string name="mw_add_to_dictionary">Añadir al diccionario</string>
-    <string name="mw_autofill_popup_content_description">Mostrar autorelleno emergente</string>
+    <string name="mw_autofill_popup_content_description">Mostrar la ventana emergente Autocompletar</string>
+    <string name="mw_chip_remove_icon_content_description">"Quitar '%1$s'"</string>
     <string name="mw_color_picker_button_black">Negro</string>
     <string name="mw_color_picker_button_blue">Azul</string>
     <string name="mw_color_picker_button_cancel">Cancelar</string>
@@ -991,35 +992,10 @@ Envía este código al supervisor."</string>
     <string name="mw_common_open_on_phone">Abierto en el teléfono</string>
     <string name="mw_common_signin_button_text">Registrarse</string>
     <string name="mw_common_signin_button_text_long">Registrarse con Google</string>
-    <string name="mw_copy_to_clipboard_failure_message">"No se pudo copiar al portapapeles"</string>
-    <string name="mw_crash_label">Error (%1$s) - [%2$s]</string>
-    <string name="mw_crash_report_button_text">Proporcionar más información</string>
-    <string name="mw_crash_report_template">"IMPORTANTE: Su error ya se informó automáticamente a nuestro sistema. Solo necesita completar esto si puede compartir más información, como los pasos para reproducir el bloqueo.
-
-Nombre del dispositivo:
-Versión del sistema operativo Android:
-Versión de WebView (en Android L-M, esta es la versión de la aplicación \"Android System WebView\". En Android N-P, lo más probable es que sea la versión de Chrome. Puede encontrar la versión de cualquier aplicación en Configuración &gt; Aplicaciones &gt; Los 3 puntos en la parte superior derecha &gt; Mostrar sistema.):
-Aplicación: (Si es posible, enlace a su página de Play Store. Puede obtener el enlace desde dentro de la aplicación Play Store tocando los 3 puntos en la parte superior derecha &gt; Compartir &gt; Copiar al portapapeles. O puede encontrar la aplicación en el sitio web de Play Store: https://play.google.com/store/apps.)
-Versión de la aplicación:
-
-
-Pasos para reproducir:
-(1)
-(2 )
-(3)
-
-
-Resultado esperado:
-(¿Qué debería haber sucedido?)
-
-
-**** NO CAMBIE DEBAJO DE ESTA LÍNEA ****
-ID de falla: http: // crash /%1$s"</string>
-    <string name="mw_crashes_list_activity_title">Fallos de WebView</string>
-    <string name="mw_crashes_num">Errores (%1$d)</string>
-    <string name="mw_data_traffic_prompt_change">"Usar tu conexión de datos móviles para reproducir vídeos aumentará el consumo de datos. Si superas tu plan de datos establecido, tu operador cobrará gastos adicionales."</string>
-    <string name="mw_data_traffic_prompt_message">"Usar tu conexión de datos móviles para reproducir vídeos aumentará el consumo de datos. Si superas tu plan de datos establecido, tu operador cobrará gastos adicionales."</string>
-    <string name="mw_data_traffic_prompt_message_short">"Usar tu conexión de datos móviles para reproducir vídeos podría causar que sobrepases el límite de datos."</string>
+    <string name="mw_copy_to_clipboard_failure_message">No se pudo copiar al portapapeles</string>
+    <string name="mw_data_traffic_prompt_change">"El uso de su conexión de datos móviles para ver videos aumentará su uso de datos. Si supera el límite de uso de datos de su plan, su proveedor podría cobrarle tarifas adicionales."</string>
+    <string name="mw_data_traffic_prompt_message">"El uso de su conexión de datos móviles para buscar videos aumentará su uso de datos. Si supera el límite de uso de datos de su plan, su proveedor podría cobrarle tarifas adicionales."</string>
+    <string name="mw_data_traffic_prompt_message_short">El uso de datos móviles para transmitir videos puede hacer que supere el límite de uso de datos de su plan.</string>
     <string name="mw_data_traffic_prompt_title">Aviso de consumo de datos</string>
     <string name="mw_date_picker_dialog_clear">Limpiar</string>
     <string name="mw_date_picker_dialog_other_button_label">Otros</string>
@@ -1031,16 +1007,16 @@ ID de falla: http: // crash /%1$s"</string>
     <string name="mw_find_previous">Buscar anterior</string>
     <string name="mw_js_dialog_before_unload">"%s
 
-¿Abandonar esta página ahora?"</string>
+¿Está seguro de que desea salir de esta página?"</string>
     <string name="mw_js_dialog_before_unload_negative_button">Permanecer en esta página</string>
-    <string name="mw_js_dialog_before_unload_positive_button">Abandonar esta página</string>
-    <string name="mw_js_dialog_before_unload_title">¿Abandonar esta página?</string>
+    <string name="mw_js_dialog_before_unload_positive_button">Salir de esta página</string>
+    <string name="mw_js_dialog_before_unload_title">Confirmar navegación</string>
     <string name="mw_js_dialog_title">La página en \"%s\" dice:</string>
     <string name="mw_js_dialog_title_default">JavaScript</string>
     <string name="mw_last_month">Mes pasado</string>
     <string name="mw_license_activity_title">Licencias de WebView del sistema</string>
-    <string name="mw_low_memory_error">"No se puede completar la acción anterior debido a baja memoria"</string>
-    <string name="mw_menu_refresh">Refrescar</string>
+    <string name="mw_link_copied">Enlace copiado</string>
+    <string name="mw_low_memory_error">No se pudo completar la operación anterior debido a poca memoria</string>
     <string name="mw_miui_content_copy">Copiar</string>
     <string name="mw_miui_content_cut">Cortar</string>
     <string name="mw_miui_content_extent_select">Seleccionar más</string>
@@ -1132,31 +1108,31 @@ ID de falla: http: // crash /%1$s"</string>
     <string name="mw_month_picker_dialog_title">Establecer mes</string>
     <string name="mw_no_matches">Sin coincidencias</string>
     <string name="mw_older">Anterior</string>
-    <string name="mw_opening_file_error">"No se pudo abrir el archivo seleccionado"</string>
-    <string name="mw_permission_alert_window">Para usar la función, permite mostrar ventanas emergentes.</string>
+    <string name="mw_opening_file_error">No se pudo abrir el archivo seleccionado</string>
+    <string name="mw_permission_alert_window">Para utilizar la función, abra la ventana emergente Diplay de la opción del sistema.</string>
     <string name="mw_permission_unknown">Opción desconocida</string>
-    <string name="mw_private_browsing_warning">"Esta función no es soportada en esta versión de Android."</string>
-    <string name="mw_profiler_error_toast">"No se pudo iniciar el perfilador"</string>
-    <string name="mw_profiler_no_storage_toast">"No se puede iniciar el perfilador porque el almacenamiento externo no está listo"</string>
+    <string name="mw_private_browsing_warning">Esta funcionalidad no es compatible con esta versión de Android.</string>
+    <string name="mw_profiler_error_toast">No se pudo iniciar el generador de perfiles</string>
+    <string name="mw_profiler_no_storage_toast">"No se puede iniciar el generador de perfiles porque el almacenamiento externo no está listo"</string>
     <string name="mw_profiler_started_toast">Profiler iniciado</string>
     <string name="mw_profiler_stopped_toast">Profiler finalizado. Los resultados están en %1$s.</string>
-    <string name="mw_save_password_message">¿Recordar esta contraseña?</string>
+    <string name="mw_save_password_message">¿Quieres que el navegador recuerde esta contraseña?</string>
     <string name="mw_save_password_never">Nunca</string>
     <string name="mw_save_password_notnow">Ahora no</string>
     <string name="mw_save_password_remember">Recordar</string>
     <string name="mw_search_menu_title">Búsqueda</string>
+    <string name="mw_speech_recognition_service_not_found">"No se encuentra el motor de voz de Google"</string>
     <string name="mw_time_picker_dialog_am">AM</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_title">Establecer hora</string>
-    <string name="mw_url_copied">URL copiada con éxio</string>
     <string name="mw_video_buffering_percent">"Cargando "</string>
-    <string name="mw_video_download_no_permission">Se requieren permisos para descargar elementos</string>
-    <string name="mw_video_float_drag_scale_msg">Arrastra para escalar</string>
+    <string name="mw_video_download_no_permission">sin permiso de descarga</string>
+    <string name="mw_video_float_drag_scale_msg">arrastrar para escalar</string>
     <string name="mw_video_float_window">Ventana emergente</string>
-    <string name="mw_video_float_window_playing">Reproduciendo vídeo en Modo PiP…</string>
+    <string name="mw_video_float_window_playing">El vídeo se está reproduciendo en modo float-widow</string>
     <string name="mw_video_play_error">"No se pudo reproducir el vídeo"</string>
     <string name="mw_webview_find_on_page">Buscar en la página</string>
-    <string name="mw_webviewchromium_private_browsing_warning">"Esta función no es compatible con esta versión de Android."</string>
+    <string name="mw_webviewchromium_private_browsing_warning">Esta funcionalidad no es compatible con esta versión de Android.</string>
     <string name="mw_week_picker_dialog_title">Establecer semana</string>
     <string name="my_account">Mi cuenta</string>
     <string name="my_cahnnel">Mis canales</string>
