@@ -1052,9 +1052,9 @@ Una vez que se haya enfriado, volverá a funcionar correctamente."</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"No puede cambiar entre espacios cuando el Ahorro de batería ultra esté activado"</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Debe entrar al espacio principal después de reiniciar el dispositivo</string>
     <string name="input_password_hint_text">Ingresar contraseña</string>
-    <string name="input_pattern_after_boot_msg">Se requiere dibujar su patrón cuando el dispositivo se reinicia</string>
+    <string name="input_pattern_after_boot_msg">Es necesario confirmar su patrón cuando el dispositivo se reinicia</string>
     <string name="input_pattern_hint_text">Dibuje su patrón de desbloqueo</string>
-    <string name="input_pin_after_boot_msg">Se requiere ingresar su PIN cuando el dispositivo se reinicia</string>
+    <string name="input_pin_after_boot_msg">Se requiere la confirmación de su PIN cuando el dispositivo se reinicia</string>
     <string name="input_pin_code">Ingrese el PIN</string>
     <string name="input_puk_code">Ingrese el PUk</string>
     <string name="install_other_apps">Instalar aplicaciones desconocidas</string>
@@ -1832,6 +1832,7 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="private_dns_mode_provider">Nombre del host proveedor de DNS privado</string>
     <string name="private_dns_mode_provider_failure">"No se puede conectar"</string>
     <string name="private_dns_mode_provider_hostname_hint">Ingresar nombre del host proveedor de DNS privado</string>
+    <string name="process_kernel_label">SO Android</string>
     <string name="profile_connect_timeout_subtext">Problema de conexión. Apague el dispositivo y enciéndalo de nuevo</string>
     <string name="profile_info_settings_title">Información de perfil</string>
     <string name="profile_owned_footer">Es posible que se supervise el perfil.</string>
@@ -1993,6 +1994,8 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="quick_settings_sim_disabled">" (Deshabilitado)"</string>
     <string name="quick_settings_sync_label">Sincronizar</string>
     <string name="quick_settings_tethering_label">Compartir conexión</string>
+    <string name="quick_settings_tiles_default">internet, bt, linterna, dnd, alarma, avión, controles, billetera, rotación, batería, emitir, registro de pantalla, mictoggle, cameratoggle</string>
+    <string name="quick_settings_tiles_stock">internet, bt, linterna, dnd, alarma, avión, controles, billetera, rotación, batería, emitir, registro de pantalla, mictoggle, cameratoggle, ubicación, hotspot, inversión, ahorrador, oscuro, trabajo, noche, marcha atrás, reducir_brightness</string>
     <string name="quick_settings_time_label">Hora</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Para añadir un elemento, mantén pulsado y arrástralo a la parte superior del panel.</string>
     <string name="quick_settings_ui_mode_night_label">Tema oscuro</string>

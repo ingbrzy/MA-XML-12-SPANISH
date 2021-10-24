@@ -56,6 +56,11 @@
         <item>Para identificar su dispositivo</item>
         <item>Para localizar su dispositivo y cambiar al modo perdido</item>
     </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>Para localizar su dispositivo y cambiar al modo perdido</item>
+        <item>"Para localizar este dispositivo cuando no está conectado a Internet"</item>
+        <item>"Para acceder al número de teléfono para localizar este dispositivo cuando no está conectado a Internet"</item>
+    </string-array>
     <string-array name="privacy_dialog_sync_runtime_perm_desc">
         <item>Para sincronizar eventos</item>
         <item>Para sincronizar mensajes</item>
@@ -63,6 +68,14 @@
         <item>Para sincronizar contactos</item>
         <item>Para sincronizar contactos</item>
         <item>Para guardar elementos en su dispositivo (por ejemplo, imágenes, videos, canciones)</item>
+    </string-array>
+    <string-array name="privacy_dialog_sync_runtime_perm_title">
+        <item>Acceder a los eventos del calendario</item>
+        <item>Enviar SMS</item>
+        <item>Leer MMS</item>
+        <item>Acceder a contactos</item>
+        <item>Editar y borrar contactos</item>
+        <item>Accede a fotos y archivos en el dispositivo</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>Respaldos</item>

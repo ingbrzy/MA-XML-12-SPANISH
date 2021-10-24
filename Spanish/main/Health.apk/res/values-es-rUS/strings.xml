@@ -107,6 +107,7 @@ Si no desea acceder a las clases recomendadas, puede seguir utilizando los entre
     <string name="average_menstruation_days">Duración media del periodo</string>
     <string name="avg_altitude">Avg altitude</string>
     <string name="avg_day">Avg</string>
+    <string name="avg_earphone_listening_duration">Auricular</string>
     <string name="avg_finish_stand">Promedio diario</string>
     <string name="avg_freq">Average frequency</string>
     <string name="avg_heart_rate">Avg heart rate</string>
@@ -115,6 +116,7 @@ Si no desea acceder a las clases recomendadas, puede seguir utilizando los entre
     <string name="avg_low_pressure">Promedio diastólico (más bajo)</string>
     <string name="avg_pace">Average pace</string>
     <string name="avg_steps">Pasos diarios</string>
+    <string name="avg_treble_duration">Sonidos fuertes</string>
     <string name="awake_count">Woke up</string>
     <string name="awake_count_abnormal_description">You woke up a lot during the night.</string>
     <string name="awake_count_normal_description">You woke up once at night. This is normal.</string>
@@ -199,6 +201,7 @@ Si no desea acceder a las clases recomendadas, puede seguir utilizando los entre
     <string name="clear_text_end_icon_content_description">Borrar texto</string>
     <string name="clearable_edittext_clear_description">Borrar</string>
     <string name="click_finish_stand">Toca para grabar</string>
+    <string name="click_to_solve">Ayuda</string>
     <string name="climb">Climbing stairs</string>
     <string name="climbing">Climbing</string>
     <string name="close">Turn off</string>
@@ -379,12 +382,15 @@ Xiaomi Salud solo le notificará sobre elementos importantes."</string>
     <string name="each_week_day_format3">Cada %1$s hasta %2$s</string>
     <string name="early">Early</string>
     <string name="early_morning">Mañana</string>
+    <string name="earphone_listening_duration">Auricular</string>
     <string name="edit_aid_file">Editar</string>
     <string name="edit_basic_info_desc">Información básica</string>
     <string name="edit_immediately">Añadir información</string>
     <string name="edit_sleep_record_button">Edit</string>
     <string name="elliptical_machine">Elliptical</string>
     <string name="emergency_contact">Contacto de emergencia</string>
+    <string name="emergency_lock_show_subtitle">Busque su identificación médica de emergencia tocando \"Emergencia\" e \"Identificación médica de emergencia\" mientras la pantalla está bloqueada.</string>
+    <string name="emergency_lock_show_title">Mostrar cuando está bloqueado</string>
     <string name="enable">On</string>
     <string name="enable_go_now">Turn on</string>
     <string name="enable_not_now">Not now</string>
@@ -400,6 +406,7 @@ Xiaomi Salud solo le notificará sobre elementos importantes."</string>
     <string name="equivalent_exercise">≈%1$s km de caminata (%2$s kcal)</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
+    <string name="evaluation_origin_health">Las sugerencias son proporcionadas por Health.</string>
     <string name="evening">Tarde</string>
     <string name="every_day">Cada día</string>
     <string name="excessive">Too much</string>
@@ -482,12 +489,15 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="finish_stand">Sí</string>
     <string name="finish_stand2">De pie</string>
     <string name="finished_rate">Completed %1$d%%</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="first_aid_card">Identificación médica de emergencia</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fmt_time_12hour">"h 'en punto'"</string>
+    <string name="fmt_time_24hour">"HH 'en punto'"</string>
     <string name="for_diagnosis_usage_only">Use esta información solo para el diagnóstico.</string>
     <string name="free_training">Freestyle workout</string>
     <string name="freestyle">Freestyle</string>
@@ -543,6 +553,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="health_setting">Configuración de salud</string>
     <string name="health_uninstall_dialog_content">"Xiaomi Health is a system app. You can use this app to count steps, track sleep, periods, and weight, as well as sync your stats to the cloud. You won't be able to use this app after you uninstall it."</string>
     <string name="health_uninstall_dialog_title">Uninstall Xiaomi Health?</string>
+    <string name="hearing">Escuchando</string>
     <string name="heart_rate">Ritmo cardiaco</string>
     <string name="height">Hight</string>
     <string name="high">High</string>
@@ -685,6 +696,7 @@ Vuelva a empezar."</string>
     <string name="light_sleep_time_decrease_description">Your light sleep is too short</string>
     <string name="light_sleep_time_increase_description">Your light sleep is too long</string>
     <string name="light_sleep_time_normal_description">You have a sufficient amount of light sleep</string>
+    <string name="listening_duration">Auricular</string>
     <string name="load_failed">"No se pudo cargar los elementos. Espere un minuto o dos y vuelva a intentarlo."</string>
     <string name="loading">Espere un momento…</string>
     <string name="location_perm_description">Para rastrear entrenamientos al aire libre y grabar rutas</string>
@@ -698,6 +710,16 @@ Vuelva a empezar."</string>
     <string name="location_service_dialog_title">Los servicios de ubicación están desactivados</string>
     <string name="location_service_ntfc_content">Salud</string>
     <string name="location_service_ntfc_title">Buscando GPS…</string>
+    <string name="lock_not_support_description">Para que su identificación médica de emergencia esté disponible en la pantalla de bloqueo, toque Más &gt; Editar y active Mostrar cuando esté bloqueado.</string>
+    <string name="lock_show_dialog_content">"Se puede acceder a su identificación médica de emergencia sin desbloquear su teléfono.
+Si no desea compartir su información, puede desactivar esta función."</string>
+    <string name="lock_show_dialog_title">Atención</string>
+    <string name="lock_show_solve_description">Para mostrar la identificación médica de emergencia en la pantalla de bloqueo, permita que Salud se muestre en la pantalla de bloqueo.</string>
+    <string name="lock_show_solve_go">Ajustes</string>
+    <string name="lock_show_solve_path">Toca \"Configuración\" a continuación, elige \"Mostrar en la pantalla de bloqueo\" y selecciona \"Permitir siempre\".</string>
+    <string name="lock_show_solve_title">Agrega información en tu pantalla de bloqueo</string>
+    <string name="lock_support_description">Su identificación médica de emergencia se puede ver tocando \"Emergencia\" e \"Identificación médica de emergencia\" mientras la pantalla está bloqueada.</string>
+    <string name="lock_support_description2">"¿No puede encontrar la identificación médica en su pantalla de bloqueo?"</string>
     <string name="login_and_open_sync">Inicia sesión y activa la sincronización</string>
     <string name="login_and_open_sync2">Inicia sesión y activa la sincronización</string>
     <string name="low">Low</string>
@@ -810,6 +832,8 @@ Vuelva a empezar."</string>
     <string name="min_pace">Lowest pace</string>
     <string name="minimum">Mínimo</string>
     <string name="minute">M</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -827,6 +851,7 @@ Vuelva a empezar."</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Deslice hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -1521,6 +1546,10 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="tb_go_next_a_day">El día anterior</string>
     <string name="tb_go_on_detection">Reanudar</string>
     <string name="tb_has_snore_dream_talk">Hablando y roncando detectado</string>
+    <string name="tb_hearing_card">Audición | Exposición de auriculares: %1$s | Grabado: %2$s.</string>
+    <string name="tb_hearing_column">%1$s | Exposición de auriculares: %2$s | Sonidos fuertes: %3$s.</string>
+    <string name="tb_hearing_daily_card">%1$s | Exposición de auriculares: %2$s | Sonidos fuertes: %3$s.</string>
+    <string name="tb_hearing_wm_card">%1$s | Exposición media de los auriculares: %2$s | Exposición media a sonidos fuertes: %3$s.</string>
     <string name="tb_heart_rate_max_min">Ritmo cardiaco. Más alto: %1$d. Mínimo: %2$d.</string>
     <string name="tb_home_blood_pressure_card">Presión arterial. Sistólico: %1$d. Diastólica: %2$d. Grabado: %3$s. Estado: %4$s.</string>
     <string name="tb_home_blood_pressure_card_no_data">Presión arterial. Sin datos.</string>
@@ -1597,6 +1626,7 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="tb_user_step_card_info">Meta diaria: %1$s, aproximadamente %2$so %3$s.</string>
     <string name="tb_user_step_target_btn">Cambiar objetivo</string>
     <string name="tb_user_weight_card_info">IMC %1$s, %2$s. Peso recomendado: %3$s.</string>
+    <string name="tb_volume_list_item">%1$s | Sonidos ambientales: %3$s (%2$d dB).</string>
     <string name="tb_weight_choice">%2$s de %1$s es %3$s</string>
     <string name="tb_weight_decrease">Perder peso</string>
     <string name="tb_weight_has_record">Pesaje encontrado</string>
@@ -1690,6 +1720,8 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="total_slip">Number of strokes</string>
     <string name="total_time_label">Tiempo total</string>
     <string name="treadmill">Treadmill</string>
+    <string name="treble_duration">Sonidos fuertes</string>
+    <string name="treble_sum_duration">Sonidos fuertes</string>
     <string name="try_again">Vuelva a intentarlo</string>
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>
@@ -1731,6 +1763,13 @@ Qué hay de nuevo:
     <string name="visceral_fat">Grasa visceral</string>
     <string name="visceral_fat_descripe_content">La grasa visceral es esencial para estabilizar y proteger los órganos internos. Sin embargo, la grasa visceral alta aumenta el riesgo de enfermedades cardiovasculares y metabólicas.</string>
     <string name="voice_remind">"Hemos aumentado el volumen para que escuche mejor las instrucciones."</string>
+    <string name="volume_high">Fuerte</string>
+    <string name="volume_high_description">"Para ayudar a evitar dañar su audición, use audífonos con cancelación de ruido. No suba el volumen para tapar el ruido."</string>
+    <string name="volume_level">Sonidos ambientales</string>
+    <string name="volume_normal">OK</string>
+    <string name="volume_normal_description">La exposición a sonidos suaves no debería causar ningún daño auditivo. Pueden ayudar a la concentración.</string>
+    <string name="volume_too_high">Muy alto</string>
+    <string name="volume_too_high_description">La exposición repetida y prolongada a sonidos muy fuertes puede causar daños auditivos. Para proteger su audición, manténgase alejado de ruidos fuertes o considere usar tapones para los oídos o audífonos con cancelación de ruido.</string>
     <string name="walk">Walking</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mie</string>

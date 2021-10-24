@@ -96,6 +96,7 @@
     <string name="city_exceeded_warning">"No se puede añadir más ciudades. Para añadir una nueva, elimina primero una ciudad que ya esté en la lista."</string>
     <string name="clear_net_mock_success">Éxito al limpiar simulación de red</string>
     <string name="clearable_edittext_clear_description">Eliminar</string>
+    <string name="close">Cerrar</string>
     <string name="common_google_play_services_enable_button">Habilitar</string>
     <string name="common_google_play_services_enable_text">"%1$s no funcionará hasta que no habilites Servicios de Google Play."</string>
     <string name="common_google_play_services_enable_title">Habilita Servicios de Google Play</string>
@@ -132,6 +133,7 @@
     <string name="daily_forecast_detail_date">d/M</string>
     <string name="data_provided_by">Los datos proporcionados son parte de</string>
     <string name="date_picker_lunar">Calendario chino tradicional</string>
+    <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="dialog_internet_error_title">Ha ocurrido un error</string>
     <string name="dialog_msg_score_midrop">¿Qué opinas de Tiempo?</string>
     <string name="dialog_msg_score_not_good">¿Podrías darnos también tu opinión?</string>
@@ -193,12 +195,14 @@
     <string name="feedback_sandy">Con arena</string>
     <string name="feedback_sunny">Despejado</string>
     <string name="firebase_database_url">https://globalmiuiweather.firebaseio.com</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fmt_time_12hour">"h 'en punto'"</string>
+    <string name="fmt_time_24hour">"HH 'en punto'"</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
@@ -210,12 +214,7 @@
     <string name="indices_title_pressure">Presión</string>
     <string name="indices_title_wind_speed">Velocidad del viento</string>
     <string name="information_settings_title">Información del tiempo</string>
-    <string name="international_details_chance_of_rain">PROBABILIDAD DE LLUVIA</string>
-    <string name="international_details_humidity">HUMEDAD</string>
-    <string name="international_details_pressure_title">PRESIÓN</string>
-    <string name="international_details_real_feel_title">REAL FEEL®</string>
     <string name="international_details_uv_index_title">Índice UV</string>
-    <string name="international_details_wind_title">VIENTO</string>
     <string name="location_provider_btn_text">Activar los servicios de localización</string>
     <string name="location_tag">Localizar</string>
     <string name="manager_city_option_add_home">Añadir a la página de inicio</string>
@@ -358,6 +357,7 @@
     <string name="save_to_gallery_icon_name">Guardar en la Galería</string>
     <string name="save_to_gallery_success_message">Guardado en la Galería con éxito</string>
     <string name="search_menu_title">Buscar</string>
+    <string name="send">Enviar</string>
     <string name="settings">Ajustes</string>
     <string name="settings_atmospheric_pressure_atm">Atmósfera estándar (atm)</string>
     <string name="settings_atmospheric_pressure_default">0</string>

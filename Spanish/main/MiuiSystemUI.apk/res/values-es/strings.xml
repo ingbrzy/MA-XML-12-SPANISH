@@ -1051,9 +1051,9 @@ Una vez que se haya enfriado, funcionará con normalidad."</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"No se puede cambiar entre espacios cuando el Ahorro de batería extremo está activado"</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Es necesario entrar al Primer espacio después de haber reiniciado el dispositivo</string>
     <string name="input_password_hint_text">Introducir contraseña</string>
-    <string name="input_pattern_after_boot_msg">Se requiere dibujar su patrón cuando el dispositivo se reinicia</string>
+    <string name="input_pattern_after_boot_msg">Es necesario confirmar su patrón cuando el dispositivo se reinicia</string>
     <string name="input_pattern_hint_text">Dibuja tu patrón de desbloqueo</string>
-    <string name="input_pin_after_boot_msg">Se requiere ingresar su PIN cuando el dispositivo se reinicia</string>
+    <string name="input_pin_after_boot_msg">Se requiere la confirmación de su PIN cuando el dispositivo se reinicia</string>
     <string name="input_pin_code">Introduce PIN</string>
     <string name="input_puk_code">Introduce el PUK</string>
     <string name="install_other_apps">Instalar aplicaciones desconocidas</string>
@@ -1991,6 +1991,8 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="quick_settings_sim_disabled">" (Deshabilitado)"</string>
     <string name="quick_settings_sync_label">Sincronizar</string>
     <string name="quick_settings_tethering_label">Compartir conexión</string>
+    <string name="quick_settings_tiles_default">internet, bt, linterna, dnd, alarma, avión, controles, billetera, rotación, batería, emitir, registro de pantalla, mictoggle, cameratoggle</string>
+    <string name="quick_settings_tiles_stock">internet, bt, linterna, dnd, alarma, avión, controles, billetera, rotación, batería, emitir, registro de pantalla, mictoggle, cameratoggle, ubicación, hotspot, inversión, ahorrador, oscuro, trabajo, noche, marcha atrás, reducir_brightness</string>
     <string name="quick_settings_time_label">Hora</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Para añadir un elemento, mantén pulsado y arrástralo a la parte superior del panel.</string>
     <string name="quick_settings_ui_mode_night_label">Tema oscuro</string>

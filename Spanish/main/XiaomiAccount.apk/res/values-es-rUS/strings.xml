@@ -106,6 +106,9 @@ ID de su cuenta: %s"</string>
     <string name="binded">Conectado</string>
     <string name="binded_description" formatted="false">"%s ha sido conectado a su Cuenta Mi.
 Puede iniciar sesión en su Cuenta Mi usando %s."</string>
+    <string name="button_agree">De acuerdo</string>
+    <string name="button_close">Cerrar</string>
+    <string name="button_refuse">"No estoy de acuerdo"</string>
     <string name="button_unbind">Desconectado</string>
     <string name="cancel">Cancelar</string>
     <string name="change_activate_email">Cambiar correo electrónico</string>
@@ -276,9 +279,11 @@ Enviar este código al supervisor."</string>
     <string name="kr_permission_sms_desc">Para rellenar automáticamente códigos de verificación</string>
     <string name="kr_permission_storage_desc">Para guardar diagnósticos</string>
     <string name="loading_micloud_sync_data">Un momento…</string>
+    <string name="login_3rd_app_with_system_account">Iniciar sesión en %s</string>
     <string name="login_check_find_device">Obteniendo información de seguridad del dispositivo…</string>
     <string name="login_check_find_device_failed_title">"No se pudo comprobar la información de seguridad del dispositivo"</string>
     <string name="login_find_device_bind">Este dispositivo está asociado con un ID de una cuenta Mi existente (%s).</string>
+    <string name="login_with_other">Más opciones</string>
     <string name="logout_account">Cerrar sesión</string>
     <string name="logout_failed">"No se pudo cerrar sesión"</string>
     <string name="mi_account_identity_title">Verifique su identidad</string>
@@ -644,13 +649,19 @@ Enviar este código al supervisor."</string>
     <string name="permission_group_contacts">Contactos</string>
     <string name="permission_group_phone">Teléfono</string>
     <string name="permission_group_storage">Almacenamiento</string>
+    <string name="permission_instructions">Uso de permisos</string>
     <string name="permission_read_sms">Acceder a mensajes</string>
+    <string name="permission_withdraw">Retirar</string>
     <string name="permission_write_external_storage">Acceda y guarde elementos en el almacenamiento</string>
     <string name="personal_info_desc">Foto, apodo y más</string>
     <string name="phone_num_use_for">El número de teléfono se usa para:</string>
     <string name="photoPickerNotFoundText">No hay fotos disponibles.</string>
     <string name="pm">PM</string>
     <string name="preference_copied">Se copió \"%1$s\" en el portapapeles.</string>
+    <string name="privacy_policy_reject_confirm_msg">"No podrá seguir usando Mi Cuenta a menos que esté de acuerdo con la nueva versión de su Política de privacidad. ¿Acepta la Política de privacidad&lt;/a&gt; actualizada de Mi Cuenta &lt;a href=%1$s&gt;ahora?"</string>
+    <string name="privacy_policy_reject_confirm_title">"No se puede usar la cuenta Mi"</string>
+    <string name="privacy_policy_update_msg">La Política de privacidad de Mi cuenta se actualizó:&lt;br/&gt;%1$s&lt;br/&gt;Lea y acepte la nueva versión de &lt;a href=%2$s&gt;&lt;u&gt;Política de privacidad&lt;/u&gt;&lt;/a&gt; antes de continuar.</string>
+    <string name="privacy_policy_update_title">Política de privacidad actualizada</string>
     <string name="provision_back">Atrás</string>
     <string name="provision_next">Siguiente</string>
     <string name="provision_skip_underline">Saltar</string>
@@ -676,6 +687,9 @@ Enviar este código al supervisor."</string>
     <string name="restart_action">Volver a comenzar</string>
     <string name="restart_phone_bind_message">Puede tardar algún tiempo en recibir el SMS. ¿Empezar de nuevo de todos modos?</string>
     <string name="restart_phone_bind_title">Cambiar teléfono de recuperación</string>
+    <string name="revoke_privacy_policy">Retiro del consentimiento</string>
+    <string name="revoke_privacy_policy_instructions">"Si continúa, retirará su consentimiento a la Política de privacidad de la Cuenta Mi. Dejaremos de recopilar su información personal. La información personal ya recopilada y retenida se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables a menos que se requiera lo contrario. Como Cuenta Mi proporciona sus servicios en base a la recopilación de la información personal necesaria, su retiro de consentimiento se considerará como negarse a aceptar los servicios de la Cuenta Mi. ¿Retirar el consentimiento ahora?"</string>
+    <string name="revoke_privacy_policy_title">Retiro del consentimiento</string>
     <string name="risky_pwd_not_allow">"La nueva contraseña no es segura. Establezca una diferente."</string>
     <string name="same_new_and_old_pwd">La nueva contraseña debe ser diferente de la anterior</string>
     <string name="saturday">Sábado</string>
@@ -819,8 +833,18 @@ Enviar este código al supervisor."</string>
     <string name="used_cloud_storage_info">%s usados</string>
     <string name="user_avatar_update_title">Cambiar foto de perfil</string>
     <string name="user_avatar_uploading">Un momento…</string>
-    <string name="user_instruction_all_purpose">¡Bienvenido a Mi Cuenta! Puede crear una cuenta, iniciar sesión y acceder a los servicios proporcionados por Xiaomi y sus empresas afiliadas, como Mi. com, Xiaomi Cloud y GetApps. Puede obtener Mi Coins, comprar bienes virtuales y disfrutar de servicios de valor agregado que incluyen juegos, temas y libros electrónicos.</string>
+    <string name="user_instruction_all_purpose">¡Bienvenido a Mi Cuenta! Puede utilizar su cuenta para acceder a los servicios proporcionados por Xiaomi y sus empresas afiliadas, como Mi.com, Xiaomi Cloud y GetApps. Puede obtener Mi Coins, comprar bienes virtuales y disfrutar de servicios de valor agregado que incluyen juegos, temas y libros electrónicos.</string>
     <string name="user_instruction_tip">Para poder iniciar sesión, lea y acepte los términos y condiciones.</string>
+    <string name="user_license_with_3rd_app"><Data>\"Al iniciar sesión con mi Cuenta Mi, confirmo que he leído y acepto &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt; y el Acuerdo de usuario &lt;a href=%3$s&gt;&lt;/a&gt; y &lt;a href=%4$s&gt;Política de privacidad&lt;/a&gt;\".</Data></string>
+    <string name="user_license_with_3rd_app_mobile"><Data>\"Leí y acepté &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt;, Acuerdo de usuario &lt;a href=%3$s&gt;Mi Cuenta&lt;/a&gt; y &lt;a href=%4$s&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=%5$s&gt;Términos y condiciones de los servicios de verificación de China Mobile&lt;/a&gt;\".</Data></string>
+    <string name="user_license_with_3rd_app_no_operator"><Data>\"He leído y acepto &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt; y el Acuerdo de usuario &lt;a href=%3$s&gt;&lt;/a&gt; y &lt;a href=%4$s&gt;Política de privacidad&lt;/a&gt;\".</Data></string>
+    <string name="user_license_with_3rd_app_telcom"><Data>\"Leí y acepté &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt; &lt;a href=%3$s&gt;Acuerdo de usuario de Mi Cuenta&lt;/a&gt; y &lt;a href=%4$s&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=%5$s&gt;Términos y condiciones de los servicios de verificación de cuenta de eSurfing&lt;/a&gt;\".</Data></string>
+    <string name="user_license_with_3rd_app_unicom"><Data>\"Leí y acepté &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt;, Acuerdo de usuario &lt;a href=%3$s&gt;Mi Cuenta&lt;/a&gt; y &lt;a href=%4$s&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=%5$s&gt;Términos y condiciones de los servicios de verificación de China Unicom&lt;/a&gt;\".</Data></string>
+    <string name="user_license_with_out_3rd_app_no_operator"><Data>\"He leído y acepto de Cuenta Mi &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;de Privacidad Política de&lt;/a&gt;\".</Data></string>
+    <string name="user_license_without_3rd_app"><Data>\"He leído y acepto de Cuenta Mi &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;de Privacidad Política de&lt;/a&gt;\".</Data></string>
+    <string name="user_license_without_3rd_mobile"><Data>\"He leído y acepto de Cuenta Mi &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=%3$s&gt;Condiciones de los servicios de verificación de China Mobile&lt;/a&gt;\".</Data></string>
+    <string name="user_license_without_3rd_telcom"><Data>\"He leído y acepto de Cuenta Mi &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=%3$s&gt;Condiciones de eSurfing servicios de verificación de cuenta de&lt;/a&gt;\".</Data></string>
+    <string name="user_license_without_3rd_unicom"><Data>\"He leído y acepto de Cuenta Mi &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt;, así como &lt;a href=%3$s&gt;Condiciones de China Unicom servicios de verificación de&lt;/a&gt;\".</Data></string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADA</string>
     <string name="vip_account_settings">Ajustes VIP</string>

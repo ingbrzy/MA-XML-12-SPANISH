@@ -422,6 +422,7 @@
     <string name="copy">Copiar</string>
     <string name="copy_email">Copiar dirección de correo</string>
     <string name="copy_number">Copiar número de teléfono</string>
+    <string name="copy_toast_msg">Enlace copiado al portapapeles</string>
     <string name="create_action">Nuevo</string>
     <string name="cur_debt">Saldo de la cuenta</string>
     <string name="custom_from_account_label">Enviar correo electrónico como:</string>
@@ -527,6 +528,9 @@
     <string name="failed_parse_eml_file">"No se pudo abrir el archivo EML, inténtelo de nuevo."</string>
     <string name="failed_read_write_calendar_permission">Acceso al calendario restringido</string>
     <string name="failed_read_write_contacts_permission">Acceso a contactos restringido</string>
+    <string name="fallback_menu_item_copy_link">Copiar enlace</string>
+    <string name="fallback_menu_item_open_in_browser">Abrir en el navegador</string>
+    <string name="fallback_menu_item_share_link">Compartir enlace</string>
     <string name="feedback">Enviar comentarios</string>
     <string name="feedback_body">Mensaje</string>
     <string name="feedback_sent">Gracias por sus comentarios</string>
@@ -573,7 +577,7 @@
     <string name="folder_junk_name_en2">Correo Basura</string>
     <string name="folder_junk_name_en3">Correo Basura</string>
     <string name="folder_junk_name_en4">Basura</string>
-    <string name="folder_list_current_account">Buzón actual</string>
+    <string name="folder_list_current_account">Cuenta actual</string>
     <string name="folder_list_display_all">Mostrar todas las carpetas</string>
     <string name="folder_list_display_only_import">Solo mostrar carpetas importantes</string>
     <string name="folder_no_mails">Sin correo</string>
@@ -644,6 +648,10 @@
     <string name="get_database_exception">"Borre los datos de esta aplicación en Ajustes &gt; Aplicaciones de sistema, y vuelva a intentarlo."</string>
     <string name="get_oauth_code">Obtener código</string>
     <string name="gmail_acceleration">Usar servidor proxy para la cuenta de Gmail</string>
+    <string name="gmail_invalid_tip_cancel">Cancelar</string>
+    <string name="gmail_invalid_tip_confirm">Iniciar sesión</string>
+    <string name="gmail_invalid_tip_message">"Los términos y condiciones de Google han cambiado. Vuelva a iniciar sesión en Gmail."</string>
+    <string name="gmail_invalid_tip_title">Iniciar sesión en Gmail</string>
     <string name="gmail_login_confirm_to_use_proxy">¿Desea usar servidor proxy para acceder a su cuenta de Gmail?</string>
     <string name="gmail_login_failed_non_proxy_title">"No se puede acceder a servidor de Gmail"</string>
     <string name="gmail_server_authorization_deleted">"No pudo autenticar la cuenta. Trate de agregar esta cuenta otra vez."</string>
@@ -963,7 +971,7 @@ Declinado:
     <string name="network_unavailable">La red no está disponible</string>
     <string name="new_incoming_messages_one">Nuevo mensaje de %s. Mostrar.</string>
     <string name="new_mail_notification">Notificar sobre nuevos mensajes</string>
-    <string name="new_mail_notification_str">Permitir notificaciones</string>
+    <string name="new_mail_notification_str">Permitir recordatorios</string>
     <string name="new_signature_has_saved">Guardado con éxtio</string>
     <string name="next_action">Siguiente</string>
     <string name="night">Noche</string>
@@ -1103,11 +1111,18 @@ Intente cambiar a una cuenta de email diferente."</string>
     <string name="perference_setup_send_tag">Servidor de correo saliente</string>
     <string name="permission_access_provider_desc">Permite a la aplicación acceder a su correo electrónico nombres de usuario y contraseñas</string>
     <string name="permission_access_provider_label">Acceder a los datos de usuario</string>
+    <string name="permission_calendar_subtitle">Para sincronizar eventos del correo electrónico a su calendario</string>
+    <string name="permission_calendar_title">Acceder y agregar eventos de Calendario</string>
     <string name="permission_des_calendar">Para sincronizar eventos del calendario</string>
     <string name="permission_des_contact">Para acceder a los correos electrónicos de sus contactos con el fin de autocompletar destinatarios</string>
     <string name="permission_des_external_storage">Para crear nuevos correos, así como guardar y agregar adjuntos</string>
+    <string name="permission_get_accounts_subtitle">Para iniciar sesión y administrar cuentas del sistema</string>
+    <string name="permission_phone_status_subtitle">Para identificar diferentes dispositivos</string>
+    <string name="permission_phone_status_title">Acceder a cuentas en el dispositivo</string>
     <string name="permission_read_attachment_desc">"Permite a la aplicación leer los archivos adjuntos de sus correos"</string>
     <string name="permission_read_attachment_label">Leer archivos adjuntos</string>
+    <string name="permission_write_contacts_subtitle">"Para mostrar y cambiar las direcciones de correo electrónico de los contactos"</string>
+    <string name="permission_write_external_storage_title">Acceda y guarde fotos y archivos en el dispositivo</string>
     <string name="personal_data_collection_summary">Al activar el interruptor usted acepta que recolectemos sus datos personales. Puede desactivar el interruptor, revocar su autorización y eliminar sus datos de nuestros servidores en cualquier momento.</string>
     <string name="personal_data_collection_title">Permitir recoger datos personales</string>
     <string name="pl_select_age">Seleccionar edad</string>
@@ -1326,6 +1341,9 @@ Espere hasta que esté completamente sincronizado o vea el mensaje en su computa
     <string name="show_images_all">Cargar y mostrar todas las imágenes</string>
     <string name="show_password">Mostrar contraseña</string>
     <string name="show_server_cet">Ver certificado</string>
+    <string name="sign_in_dialog_outlook_enterprise">Outlook para empresas (sin calendario)</string>
+    <string name="sign_in_dialog_outlook_exchange">EXCHANGE (con calendario)</string>
+    <string name="sign_in_dialog_outlook_imap">IMAP (sin calendario)</string>
     <string name="sign_in_graph_error">"Puede iniciar sesión utilizando los protocolos IMAP o EXCHANGE para iniciar sesión solo cuando su organización no haya cambiado la configuración general del servidor. Si la dirección de su servidor está personalizada por la organización o los protocolos relacionados están deshabilitados, inicie sesión con el nuevo protocolo de Microsoft."</string>
     <string name="sign_in_no_useful_provider_error">"No se pueden obtener configuraciones de protocolo de Microsoft. Utilice un protocolo diferente o actualice el protocolo de Microsoft."</string>
     <string name="signature">"
@@ -1560,6 +1578,9 @@ Toque \"<b>Sincronizar ahora</b> para sincronizar el correo una vez o <b>Cambiar
     <string name="wrong_password">La contraseña introducida no es correcta</string>
     <string name="x_account_settings_mibill_resolve_label_summary">Reconocer facturas de tarjetas de crédito automáticamente</string>
     <string name="xiaomi_email">Correo</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">No ahora</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualizar</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Hay una actualización disponible</string>
     <string name="yes">Sí</string>
     <string name="yesterday">Ayer</string>
     <string name="you_are_in_mobile_network">¿Usar datos móviles para subir los registros?</string>

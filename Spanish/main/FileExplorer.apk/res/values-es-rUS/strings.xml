@@ -38,6 +38,7 @@
     <string name="added_category">Añadido</string>
     <string name="afternoon">Tarde</string>
     <string name="aggree_desc">Permite que esta aplicación se conecte a Internet y otorga los permisos obligatorios mencionados anteriormente.</string>
+    <string name="agree">De acuerdo</string>
     <string name="am">AM</string>
     <string name="app_all_purpose">¡Bienvenido al Gestor de Archivos! Puede usar esta aplicación para administrar los archivos almacenados en su dispositivo.</string>
     <string name="app_all_purpose_pad">Bienvenido al Administrador de archivos! Puede usar esta aplicación para administrar los archivos almacenados en su dispositivo.</string>
@@ -53,6 +54,7 @@
     <string name="app_name_miuimusic">Música</string>
     <string name="app_name_miuiringtone">Tonos</string>
     <string name="app_name_miuiwallpaper">Fondos de pantalla</string>
+    <string name="app_name_recorder">Grabadora</string>
     <string name="app_name_screenshot">Capturas de pantalla</string>
     <string name="available_size">Disponible: %s</string>
     <string name="big5_summary">Codificación por defecto de Windows en chino tradicional</string>
@@ -205,6 +207,7 @@
     <string name="error_not_support">No soportado</string>
     <string name="error_open_file_failed_no_app_found">No se encontraron aplicaciones para abrir este archivo.</string>
     <string name="evening">Tarde</string>
+    <string name="exit">Salir</string>
     <string name="expand_button_title">Opciones avanzadas</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
     <string name="extended_storage_file_can_not_open">"No se puede abrir el archivo. Cópielo al almacenamiento interno."</string>
@@ -494,6 +497,7 @@
     <string name="notif_server_starting">Iniciando servidor FTP…</string>
     <string name="notif_title">Servidor FTP iniciado</string>
     <string name="online_not_support">"No puede ver este archivo por el momento."</string>
+    <string name="open_or_close_wlan">Activar y desactivar Wi-Fi</string>
     <string name="open_private_folder">Suelte para ver la carpeta privada</string>
     <string name="operation_add_fav">Agregando a favoritos…</string>
     <string name="operation_cancel">Cancelar</string>
@@ -545,6 +549,7 @@
     <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="path_name_email">Correo electrónico</string>
     <string name="permission_denial">"No se pudo acceder a los archivos. Permita al Administrador acceder a los archivos en Ajustes."</string>
+    <string name="permission_description">Detalles de permisos</string>
     <string name="permission_required">"No se pudo acceder a los archivos. Permita al Administrador acceder a los archivos en Ajustes"</string>
     <string name="petabyteShort">PB</string>
     <string name="phone">Almacenamiento</string>
@@ -565,8 +570,13 @@
     <string name="pick_folder">Seleccionar carpeta</string>
     <string name="pm">PM</string>
     <string name="port_range">El número de puerto debe estar entre 1024 y 65535</string>
+    <string name="pref_permission_allowed">Concedido</string>
+    <string name="pref_permission_manage_key_storage">Accede a fotos y archivos en el dispositivo</string>
+    <string name="pref_permission_not_allowed">No concedido</string>
     <string name="preference_copied">Se copió \"%1$s\" en el portapapeles.</string>
     <string name="privacy_policy">Política de Privacidad</string>
+    <string name="privacy_policy_renew">Política de privacidad actualizada</string>
+    <string name="privacy_policy_renew_content"><Data>\"Se actualizó la Política de privacidad&lt;/a&gt; del Administrador de archivos &lt;a href=\"%1$s\"&gt;Para comprender completamente sus derechos como usuario, así como las formas en que usamos sus datos, lea y acepte la nueva versión de la Política de privacidad antes de continuar\".</Data></string>
     <string name="private_files">Privado</string>
     <string name="private_folder">Archivos privados</string>
     <string name="private_folder_no_file_hints">Mantenga presionado un archivo o una carpeta para volverlo privado</string>
@@ -608,7 +618,7 @@
     <string name="save_file_to_mishare">"Guardado en la carpeta de Mi Share"</string>
     <string name="search_app">Aplicaciones y carpetas</string>
     <string name="search_app_more">Más</string>
-    <string name="search_category">Buscar por categoría</string>
+    <string name="search_category">Categorías</string>
     <string name="search_category_folder">Carpetas</string>
     <string name="search_description">Buscar todos los archivos en el dispositivo</string>
     <string name="search_empty_view_hint">"No se pudo encontrar nada"</string>
@@ -793,6 +803,10 @@
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mie</string>
     <string name="wifi_state">Estado del Wi-Fi</string>
+    <string name="withdraw">Retirar</string>
+    <string name="withdraw_consent">Retiro del consentimiento</string>
+    <string name="withdraw_consent_content">"Si continúa, retirará su consentimiento a la Política de privacidad de File Manager. La información personal ya recopilada y retenida se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables a menos que se requiera lo contrario. Dado que File Manager proporciona sus servicios en función de la recopilación de la información personal necesaria, su retirada de consentimiento se considerará como una negativa a aceptar los servicios de File Manager."</string>
+    <string name="withdraw_consent_summary">Retirar el consentimiento a la Política de privacidad de File Manager</string>
     <string name="year_month_day_format">dd \'de\' MMM. yyyy</string>
     <string name="yes">Sí</string>
     <string name="yesterday">ayer</string>

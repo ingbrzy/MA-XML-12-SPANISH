@@ -104,6 +104,18 @@
         <item quantity="other">%d WLAN networks</item>
         <item quantity="one">%d WLAN network</item>
     </plurals>
+    <plurals name="error_retry_hour">
+        <item quantity="other">%s horas</item>
+        <item quantity="one">%s hora</item>
+    </plurals>
+    <plurals name="error_retry_minute">
+        <item quantity="other">%s minutos</item>
+        <item quantity="one">%s minuto</item>
+    </plurals>
+    <plurals name="error_retry_second">
+        <item quantity="other">%s segundos</item>
+        <item quantity="one">%s segundo</item>
+    </plurals>
     <plurals name="error_screen_pwd_next_retry_time">
         <item quantity="other">Vuelve a intentarlo en %d segundos</item>
         <item quantity="one">Vuelve a intentarlo en %d segundo</item>

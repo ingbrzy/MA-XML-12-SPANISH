@@ -75,8 +75,8 @@
     <string name="ad_download">Descargar</string>
     <string name="ad_join">Unirse a la comunidad</string>
     <string name="ad_more">Más</string>
-    <string name="add_local_shortcut_add">+Añadir</string>
-    <string name="add_local_shortcut_des">Añada “Mi vídeo” al escritorio para ver fácilmente sus vídeos locales.</string>
+    <string name="add_local_shortcut_add">Añadir</string>
+    <string name="add_local_shortcut_des">Agrega \"Mis videos\" a la pantalla de inicio para acceder a archivos de video locales con un solo toque.</string>
     <string name="add_search_channel_link">URL</string>
     <string name="add_search_channel_name">Nombre</string>
     <string name="add_search_channel_tip">Busca \"%s\" en el sitio web de destino, después copia y pega la URL aquí.</string>
@@ -179,6 +179,7 @@
     <string name="cloud_online_switch_close_time">Puedes activar las recomendaciones de contenido personalizado en %s</string>
     <string name="cloud_online_switch_open_time">Mostrar recomendaciones de contenido personalizado</string>
     <string name="collect_diagnosis_log">Recoger registros</string>
+    <string name="columbus_ad_flag_text">AD</string>
     <string name="columbus_player_close_desc">Perderás tu recompensa</string>
     <string name="columbus_player_close_resume">REANUDAR VIDEO</string>
     <string name="columbus_player_close_title">Cerrar video?</string>
@@ -188,6 +189,7 @@
     <string name="columbus_player_speed_title">¿Saltar video?</string>
     <string name="columbus_player_speed_video">Saltar VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
+    <string name="columbus_skip_ad">Saltar</string>
     <string name="com_facebook_device_auth_instructions">Ve a &lt;b&gt;facebook.com/device&lt;/b&gt; e ingresa el código que se muestra arriba.</string>
     <string name="com_facebook_image_download_unknown_error">Se produjo un error inesperado al descargar una imagen.</string>
     <string name="com_facebook_internet_permission_error_message">El inicio de sesión de WebView requiere permisos de INTERNET</string>
@@ -279,6 +281,12 @@ Mi Video Team"</string>
     <string name="diagnosis_log_sent_format">"Registros enviados con éxito.
 ID:%s
 Envía este código al supervisor."</string>
+    <string name="dialog_app_comment_cancel">Cancelar</string>
+    <string name="dialog_app_comment_default_content">¿Qué opinas de Mi Video?</string>
+    <string name="dialog_app_comment_ok">OK</string>
+    <string name="dialog_app_comment_select_feedback">¿Podrías darnos tu opinión también?</string>
+    <string name="dialog_app_comment_select_praise">¡Muy bien! ¿Califica Mi Video en Play Store también?</string>
+    <string name="dialog_app_comment_title">Califica nuestra aplicación</string>
     <string name="dialog_disagree_privacychange_info">"No podrás utilizar los servicios de transmisión online de Mi Vídeo si no estás de acuerdo con nuestra Política de Privacidad. Pulsa \"Cancelar\" para volver atrás o \"No aceptar\" para continuar y usar Mi Vídeo solo como reproductor local."</string>
     <string name="dialog_disagree_privacychange_title">"¿No aceptar?"</string>
     <string name="dialog_privacy_change_info">"Hemos actualizado la Política de Privacidad de Mi Vídeo debido a ajustes en los servicios que ofrecemos. Para comprender completamente tus derechos como usuario, así como las formas en que usamos tus datos, lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; antes de usar la aplicación."</string>
@@ -458,6 +466,12 @@ Envía este código al supervisor."</string>
     <string name="galleryplus_network_connect_confirm">Conéctate al Wi-Fi o activa los datos móviles en los ajustes de red.</string>
     <string name="galleryplus_network_error">"No se pudo conectar a la red"</string>
     <string name="galleryplus_network_not_wifi">Usar datos móviles para retransmitir vídeos podría generar cargos adicionales</string>
+    <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Administrar archivos%$s Agregar subtítulos%$s Transmitir videos%$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle2">Proteja sus videos privados con una contraseña%$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle3">Descarga videos de TikTok, Instagram y Twitter %$s</string>
+    <string name="galleryplus_notification_linkvideo_title1">%$s Echa un vistazo a todas las funciones interesantes de Mi Video!</string>
+    <string name="galleryplus_notification_linkvideo_title2">%$s Toca para administrar tus videos</string>
+    <string name="galleryplus_notification_linkvideo_title3">%1$s Descargar videos gratis %2$s Administrar archivos</string>
     <string name="galleryplus_online_cta">Mi Vídeo necesita conectarse a internet para funcionar con normalidad. ¿Aceptar?</string>
     <string name="galleryplus_online_cta_agree">Aceptar</string>
     <string name="galleryplus_online_cta_disagree">"No aceptar"</string>
@@ -468,6 +482,12 @@ Envía este código al supervisor."</string>
     <string name="galleryplus_permission_content">Concede a Mi Vídeo los permisos requeridos para poder usar esta función.</string>
     <string name="galleryplus_permission_content_opt">Mi Video necesita permisos para funcionar con normalidad. Borre todos los datos de la aplicación en la Configuración y vuelva a abrir la aplicación.</string>
     <string name="galleryplus_permission_content_xms">Mi Video necesita permisos para funcionar con normalidad. Vaya a Configuración y otorgue a Mi Video los permisos necesarios.</string>
+    <string name="galleryplus_permission_open_settings">Ajustes</string>
+    <string name="galleryplus_permission_refuse">Cancelar</string>
+    <string name="galleryplus_permission_retry">Ajustes</string>
+    <string name="galleryplus_permission_storage_content_reshowable_video_player">Para poder usar el reproductor de video local, primero permita que esta aplicación acceda al almacenamiento.</string>
+    <string name="galleryplus_permission_storage_content_unreshowable_video_player">Para poder usar el reproductor de video local, permita que esta aplicación acceda al almacenamiento en la sección \"Permisos\" de la Configuración.</string>
+    <string name="galleryplus_permission_storage_title">Se requiere acceso al almacenamiento</string>
     <string name="galleryplus_permission_title">Atención</string>
     <string name="galleryplus_play_speed">%1$.1fX</string>
     <string name="galleryplus_restore_play_speed">Reproduciendo a velocidad normal</string>
@@ -542,12 +562,14 @@ para vídeos"</string>
     <string name="live_title">En directo</string>
     <string name="live_tv_title">Live TV</string>
     <string name="loading">Un momento…</string>
+    <string name="local_empty_guide">Los videos que filmes aparecerán aquí</string>
     <string name="local_play_tip">Reproduciendo vídeo local</string>
     <string name="local_push_setting_power_tag">Notificaciones sobre videos locales</string>
     <string name="local_push_title">Popular hoy</string>
     <string name="local_video_create_a_new_playlist">Nueva lista de reproducción</string>
     <string name="local_video_date">Fecha</string>
     <string name="local_video_dialog_default">Predeterminado</string>
+    <string name="local_video_edit_playlist">Editar lista de reproducción</string>
     <string name="local_video_from_a_to_z">A a Z</string>
     <string name="local_video_from_big_to_small">De grande a pequeño</string>
     <string name="local_video_from_long_to_short">De largo a corto</string>
@@ -910,6 +932,7 @@ para vídeos"</string>
     <string name="ovp_navigation_language">Idioma</string>
     <string name="ovp_navigation_localvideo">Local</string>
     <string name="ovp_navigation_notice">Notificaciones</string>
+    <string name="ovp_navigation_score">Califica nuestra aplicación</string>
     <string name="ovp_navigation_setting">Ajustes</string>
     <string name="ovp_navigation_subscribe">Suscripción</string>
     <string name="ovp_navigation_version_update">Buscar actualizaciones</string>
@@ -1227,6 +1250,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="remaining_space_not_enough">"No se puede descargar ya que el espacio de almacenamiento es insuficiente"</string>
     <string name="reminder">Atención</string>
     <string name="rename">Renombrar</string>
+    <string name="rename_word_out">Este nombre de archivo es demasiado largo</string>
     <string name="report">Reportar</string>
     <string name="report_content_dislike">Violencia o comportamiento inapropiado</string>
     <string name="report_content_fakement">Correo no deseado o fraude</string>
@@ -1412,6 +1436,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="the_forth_day">Cuarto día del Año Nuevo Chino</string>
     <string name="the_hksar_establishment_day">Día del Establecimiento SAR de Hong Kong</string>
     <string name="the_international_womens_day">"Día de la Mujer"</string>
+    <string name="the_item_choosed_tint">%s seleccionado</string>
     <string name="the_laba_festival">Festival de Laba</string>
     <string name="the_labour_day">Día del Trabajo</string>
     <string name="the_lantern_festival">Festival de las Linternas</string>
@@ -1458,6 +1483,7 @@ Mejorar la seguridad de tu cuenta."</string>
     <string name="tool_bar_notification_setting_title">Barra de herramientas de la Barra de notificaciones</string>
     <string name="top_bar_game_desc">Descubre multitud de nuevos juegos</string>
     <string name="top_bar_game_title">Canal de juegos</string>
+    <string name="trending_scroll_load_more">Desliza hacia arriba para ver más videos</string>
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>

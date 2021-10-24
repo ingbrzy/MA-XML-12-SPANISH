@@ -35,11 +35,12 @@
     <string name="align_type">Alineación</string>
     <string name="am">AM</string>
     <string name="aod_component">Pantalla siempre activa</string>
-    <string name="aod_lock_screen_date">EE d/M</string>
-    <string name="aod_lock_screen_date_signature">d/M</string>
-    <string name="aod_lock_screen_date_v">"EE
-d/M"</string>
-    <string name="aod_show_date_and_time">Fecha y hora</string>
+    <string name="aod_lock_screen_date">EEEE dd/MM</string>
+    <string name="aod_lock_screen_date_signature">dd/MM</string>
+    <string name="aod_lock_screen_date_v">"EEE
+dd/MM"</string>
+    <string name="aod_show_date_and_time">Hora</string>
+    <string name="aod_signature_12">hh:mm aa</string>
     <string name="app_name">Pantalla trasera</string>
     <string name="apply">Aplicar</string>
     <string name="apply_succeed">Aplicado con éxito</string>
@@ -55,8 +56,17 @@ d/M"</string>
     <string name="color_change_with_time_description">Cambiar el color del texto automáticamente durante el día</string>
     <string name="color_change_with_time_title">Cambiar colores automáticamente</string>
     <string name="component_battery">Batería</string>
-    <string name="component_date_time">Fecha y hora</string>
+    <string name="component_date_time">Hora</string>
     <string name="component_notification">Notificaciones</string>
+    <string name="contentDescripton_back">Atrás</string>
+    <string name="contentDescripton_horizontal_center">Disposición horizontal. Alineado al centro.</string>
+    <string name="contentDescripton_horizontal_left">Disposición horizontal. Alineado a la izquierda.</string>
+    <string name="contentDescripton_horizontal_right">Disposición horizontal. Alineado a la derecha.</string>
+    <string name="contentDescripton_increase">Más</string>
+    <string name="contentDescripton_reduce">Menos</string>
+    <string name="contentDescripton_vertical_center">Disposición vertical. Alineado al centro.</string>
+    <string name="contentDescripton_vertical_left">Disposición vertical. Alineado a la izquierda.</string>
+    <string name="contentDescripton_vertical_right">Disposición vertical. Alineado a la derecha.</string>
     <string name="copy">Copiar</string>
     <string name="date_picker_lunar">Calendario chino tradicional</string>
     <string name="date_time_picker_dialog_title">Ajustar fecha y hora</string>

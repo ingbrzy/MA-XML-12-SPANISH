@@ -928,6 +928,7 @@ Selección"</string>
     <string name="fdn_summary">Restringir llamadas salientes listadas en FDN o a números con ciertos prefijos</string>
     <string name="fdn_with_label">Números de marcación fija (%s)</string>
     <string name="fire_type_description">Bomberos</string>
+    <string name="fiveg_available_status1">NR disponible:</string>
     <string name="fiveg_bearer_status1">Estado de portador de 5G:</string>
     <string name="fiveg_carrier_aggregation_title">Agregación de portadores 5G</string>
     <string name="fiveg_endc_available1">NR ENDC disponible:</string>
@@ -1088,17 +1089,6 @@ Aún puedes realizar llamadas de emergencia.\"</string>
     <string name="ivr_type_settings">Ajustes del plan de datos</string>
     <string name="ivr_type_settings_hint">Introduce tu código de plan de datos</string>
     <string name="jump_to_mobile_network_setting">Configuración de red móvil</string>
-    <string name="kddi_sim_lock_status_allowed">Permitido</string>
-    <string name="kddi_sim_lock_status_code">Código</string>
-    <string name="kddi_sim_lock_status_default_code">-</string>
-    <string name="kddi_sim_lock_status_no_sim">No hay tarjeta SIM</string>
-    <string name="kddi_sim_lock_status_not_allowed">No Permitido</string>
-    <string name="kddi_sim_lock_status_open_wifi_warning">Se necesita conexión Wi-Fi</string>
-    <string name="kddi_sim_lock_status_status">Estado</string>
-    <string name="kddi_sim_lock_status_title">Estado de la tarjeta SIM</string>
-    <string name="kddi_sim_lock_status_update">Actualización del estado de la SIM</string>
-    <string name="kddi_sim_lock_status_update_fail">Error de actualización</string>
-    <string name="kddi_sim_lock_status_update_success">Actualización correcta</string>
     <string name="keep_screen_on">Pantalla siempre encendida al cargar</string>
     <string name="keep_screen_on_summary">La pantalla nunca entra en modo de suspensión si el dispositivo se está cargando</string>
     <string name="keywords_adb_wireless">adb, depuración, desarrollo</string>
@@ -1940,6 +1930,9 @@ Interfaz UT: %5$s"</string>
     <string name="reject_via_sms">Respuestas rápidas</string>
     <string name="reject_via_sms_summary">Mostrar botones para finalizar la llamada y enviar SMS</string>
     <string name="reject_via_sms_title">Respuestas rápidas</string>
+    <string name="relay_call_answered_by_other_devices">Esta llamada fue respondida en otro dispositivo.</string>
+    <string name="relay_call_released_due_to_connect_lost">Se perdió la conexión. Continúe con la llamada en el dispositivo desconectado.</string>
+    <string name="relay_connection_service_label">Llamadas RELAY integradas</string>
     <string name="remaining_length_format">Tiempo restante: %1$s</string>
     <string name="remove">Eliminar</string>
     <string name="remove_sip_account">Quitar cuenta</string>

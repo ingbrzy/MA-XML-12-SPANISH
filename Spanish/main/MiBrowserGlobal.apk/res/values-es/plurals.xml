@@ -125,12 +125,12 @@
         <item quantity="one">%d elemento seleccionado</item>
     </plurals>
     <plurals name="mw_last_num_days">
-        <item quantity="one">Últimos %d días</item>
         <item quantity="other">Últimos %d días</item>
+        <item quantity="one">Último %d día</item>
     </plurals>
     <plurals name="mw_matches_found">
         <item quantity="other">%1$d de %2$d</item>
-        <item quantity="one">1 coincidencia</item>
+        <item quantity="one">%d coincidencia</item>
     </plurals>
     <plurals name="nav_screen_incognito_time">
         <item quantity="other">Después de %d segundos creará automáticamente una página nueva</item>

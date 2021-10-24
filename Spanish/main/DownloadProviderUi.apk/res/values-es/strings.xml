@@ -70,14 +70,12 @@
     <string name="cancel">Cancelar</string>
     <string name="cancel_running_download">Cancelar</string>
     <string name="cancle">Cancelar</string>
-    <string name="character_counter_content_description">Límite de caracteres excedido %1$d de %2$d</string>
     <string name="choose_open_picture">Seleccionar acción</string>
     <string name="choose_open_time">"Elija cuando le gustaría comenzar"</string>
     <string name="clear_data">Borrar</string>
     <string name="clearable_edittext_clear_description">Claro</string>
     <string name="close">Cerrar</string>
     <string name="close_ad">Anuncio cerrado</string>
-    <string name="collect_diagnosis_log">Recopilar registro de diagnóstico</string>
     <string name="complete_time">Completado:</string>
     <string name="confirm">OK</string>
     <string name="confirm_delete_downloads_message">Se eliminarán %d descargas.</string>
@@ -87,6 +85,7 @@
     <string name="copy_info">Copiado al portapapeles. ¡Puede compartirlo con sus amigos!</string>
     <string name="creat_task_success">Añadido a la cola de descargas</string>
     <string name="create_task">Crear tarea</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para descargar elementos, así como para mostrar y administrar descargas</string>
     <string name="date_picker_lunar">Calendario tradicional chino</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="delete">Eliminar</string>
@@ -96,10 +95,6 @@
     <string name="deselect_all">Deseleccionar todo</string>
     <string name="deselect_subfile_all">Desmarcar todos</string>
     <string name="determine">Aceptar</string>
-    <string name="diagnosis_log_send_failed">Error en el registro de diagnóstico enviado.</string>
-    <string name="diagnosis_log_sent_format">"Se ha enviado el registro de diagnóstico.
-ID:%s
-Envíe este código al técnico."</string>
     <string name="dialog_btn_cancel">Cancelar</string>
     <string name="dialog_btn_ok">OK</string>
     <string name="dialog_btn_ok_disabled_net">Ajustes de red</string>
@@ -120,6 +115,9 @@ Envíe este código al técnico."</string>
     <string name="dialog_media_not_found">Conectar el almacenamiento externo para descargar.</string>
     <string name="dialog_msg_disabled_net">%1$s descargas restringidas para la red actual. Toque en Ajustes de red para abrir la aplicación Seguridad.</string>
     <string name="dialog_msg_recommend">"No podrá ver las fuentes recomendadas después de desactivarlas. Puede seleccionar \"Cargar solo al estar conectado a una red Wi-Fi\" para ahorrar datos móviles."</string>
+    <string name="dialog_privacy_update_button1">Cancelar</string>
+    <string name="dialog_privacy_update_button2">De acuerdo</string>
+    <string name="dialog_privacy_update_title">Política de privacidad actualizada</string>
     <string name="dialog_queued_body">El archivo se añadió a la cola y se descargará en breve.</string>
     <string name="dialog_speed_cancel">Cancelar</string>
     <string name="dialog_speed_msg">El uso de datos móviles para probar la red puede consumir grandes cantidades de datos móviles. ¿Continuar de todos modos?</string>
@@ -129,6 +127,10 @@ Envíe este código al técnico."</string>
     <string name="dialog_title_not_available">"No se pudo descargar"</string>
     <string name="dialog_title_queued_body">El archivo no se encuentra disponible</string>
     <string name="dialog_title_recommend">Desactivar fuentes recomendadas</string>
+    <string name="dialog_user_know_button1">Salir</string>
+    <string name="dialog_user_know_button2">De acuerdo</string>
+    <string name="dialog_user_know_content"><Data>\"No podrá seguir usando esta función a menos que esté de acuerdo con la nueva versión &lt;a href=\"%1$s\"&gt;la Política de privacidad&lt;/a&gt;Está de acuerdo con la Política de privacidad actualizada ahora?\"</Data></string>
+    <string name="dialog_user_know_title">Atención</string>
     <string name="disable">Desactivar</string>
     <string name="display_expire_netiv1">Este mes</string>
     <string name="do_not_support_url">"Este tipo de URL no es compatible"</string>
@@ -240,7 +242,6 @@ Envíe este código al técnico."</string>
     <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="for_diagnosis_usage_only">Utilice esta información solo para el diagnóstico.</string>
     <string name="force_touch_newdownload">Nueva descarga</string>
     <string name="force_touch_rank">Clasificación</string>
     <string name="force_touch_search">Buscar en Internet</string>
@@ -363,7 +364,6 @@ Envíe este código al técnico."</string>
     <string name="month_september_shortest">Sep</string>
     <string name="more">Más</string>
     <string name="morning">Mañana</string>
-    <string name="mtrl_chip_close_icon_content_description">Quitar %1$s</string>
     <string name="net_error">"Conéctate a la red e inténtalo de nuevo"</string>
     <string name="network_error">"No se pudo conectar a la red"</string>
     <string name="new_add">Nueva descarga</string>
@@ -389,7 +389,6 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="notify_install_guide_title">Instaladas %s correctamente</string>
     <string name="notify_not_support">"Tales notificaciones no son compatibles, actualice ahora"</string>
     <string name="notify_only_wifi_download">Esperando conexión Wi-Fi</string>
-    <string name="ok">OK</string>
     <string name="one_month">1 mes</string>
     <string name="only_support_torrent">Solo se admiten archivos torrent</string>
     <string name="open">Abrir</string>
@@ -402,9 +401,6 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="other">Otros</string>
     <string name="other_filter">Otros</string>
     <string name="package_filter">Paquetes</string>
-    <string name="passport_oauth_actionbar_title">Mi Cuenta</string>
-    <string name="passport_oauth_sucess_tip">Autorizado con éxito</string>
-    <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="path_no_available">"Esta ruta no está disponible"</string>
     <string name="pause_download">Pausar</string>
     <string name="paused">En pausa</string>
@@ -416,11 +412,13 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="paused_waiting_to_retry">Esperando para reintentar</string>
     <string name="percent_title">%1$s personas descargaron</string>
     <string name="period_of_validity">Validez:</string>
+    <string name="permission">Permisos</string>
     <string name="petabyteShort">PB</string>
     <string name="pm">PM</string>
     <string name="pref_download_revert_default">Guardar en la ubicación predeterminada</string>
     <string name="pref_download_settings_title">Las descargas usando datos móviles están restringidas</string>
     <string name="pref_download_storage_path">Guardar en una localización personalizada</string>
+    <string name="pref_permission_description">Detalles de permisos</string>
     <string name="pref_sniff_shortcut">Crear acceso directo a la pantalla de inicio para búsquedas web</string>
     <string name="pref_summary_any_bytes_popup">Esperar siempre a una conexión Wi-Fi para descargar archivos</string>
     <string name="pref_summary_enable_max_bytes_popup">Mostrar notificación emergente cuando se utilice la conexión de datos móviles para descargar el contenido</string>
@@ -429,6 +427,7 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="pref_title_enable_max_bytes_popup">Mostrar aviso de uso de datos</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="preferences_title">Ajustes</string>
+    <string name="privacy">Privacidad</string>
     <string name="privacy_policy">Política de Privacidad</string>
     <string name="privacy_tip_cancel">Cancelar</string>
     <string name="privacy_tip_content">"¿Usar Xunlei Accelerator para acelerar descargas? La URL del host de la descarga se cargará en los servidores de Xunlei. Los detalles de tu Cuenta Mi también se cargarán para verificar si tienes suscripciones activas a este servicio."</string>
@@ -500,8 +499,6 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="select_subfile_all">Seleccionar todo</string>
     <string name="selected_count">Seleccionado %1$d de %2$d</string>
     <string name="send">Enviar</string>
-    <string name="send_diagnosis_log">Enviar registro de diagnóstico</string>
-    <string name="sending">Enviando…</string>
     <string name="setting_close_debug">Modo Depuración desactivado</string>
     <string name="setting_debug_fail">"No se ha podido entrar en Modo Depuración"</string>
     <string name="setting_open_debug">Modo Depuración activado. Pulsa aquí 6 veces para desactivarlo.</string>
@@ -612,7 +609,6 @@ en todos tus dispositivos con Xunlei"</string>
     <string name="task_detail">Tareas</string>
     <string name="task_detail_notfound_confirm">OK</string>
     <string name="task_fail">"No se pudo completar la operación"</string>
-    <string name="temporary_not_available">no disponible temporalmente</string>
     <string name="terabyteShort">tuberculosis</string>
     <string name="test_speed">Comprobar</string>
     <string name="test_speed_detail">Detalles</string>

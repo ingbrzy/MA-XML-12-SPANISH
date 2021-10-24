@@ -472,6 +472,7 @@
     <string name="note_gesture_guide_step3">Mantenga pulsada una nota y después arrástrela sobre una carpeta para mover la nota allí</string>
     <string name="note_header_first_enter_guide">Deslice hacia abajo para ver más</string>
     <string name="note_invalid_mindnote_hint">"Los mapas mentales no están disponibles en esta versión. Actualiza la aplicación para usar esta función."</string>
+    <string name="note_item_default_title">Nota vacía</string>
     <string name="note_link_email">Redactar correo electrónico</string>
     <string name="note_link_other">Abrir con una aplicación de mapas</string>
     <string name="note_link_select">Seleccionar texto</string>
@@ -547,6 +548,12 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">Deslice hacia arriba usando 2 dedos para eliminar notas sin confirmación</string>
     <string name="pref_desc_todo_float_mode">Deslice desde el borde de la pantalla para abrir la caja de herramientas para tareas</string>
     <string name="pref_excerpt_link_float">Reciba un recordatorio para crear un extracto cada vez que se copie una URL</string>
+    <string name="pref_permission_allowed">Concedido</string>
+    <string name="pref_permission_manage">Detalles de permisos</string>
+    <string name="pref_permission_manage_key_contact">Acceder a contactos</string>
+    <string name="pref_permission_manage_key_recording">Grabar audio</string>
+    <string name="pref_permission_manage_key_storage">Acceder al almacenamiento</string>
+    <string name="pref_permission_not_allowed">No concedido</string>
     <string name="pref_quick_note_desc">Utilice el acceso directo en el borde de la pantalla para crear notas y tareas, así como para guardar URL, texto e imágenes copiados en Notas.</string>
     <string name="pref_remind_type_summary">Reproducir sonido de recordatorio en modo silencio</string>
     <string name="pref_remind_type_summary_new">Ignorar el Modo silencio y seguir reproduciendo sonido hasta que la alarma se apague</string>
@@ -877,9 +884,9 @@ Permita a Notas grabar audio."</string>
     <string name="widget_havenot_content">Toque para crear una nota. Mantenga presionado el widget para cambiar el tamaño.</string>
     <string name="widget_havenot_content_new">Toque para crear una nota. Mantenga pulsado para cambiar el tamaño.</string>
     <string name="widget_note_list_page_title">Seleccionar nota</string>
+    <string name="widget_size_item_big">Grande</string>
+    <string name="widget_size_item_medium">Medio</string>
+    <string name="widget_size_item_small">Pequeño</string>
     <string name="widget_take_notes_title">Notas</string>
-    <string name="xiaomi_market_sdk_update_dialog_cancel">Ahora no</string>
-    <string name="xiaomi_market_sdk_update_dialog_ok">Actualizar</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">Hay una actualización disponible</string>
     <string name="yesterday">Ayer</string>
 </resources>

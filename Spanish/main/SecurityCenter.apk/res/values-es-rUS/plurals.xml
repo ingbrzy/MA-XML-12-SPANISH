@@ -848,13 +848,29 @@ para obtener una prueba gratuita de %d días."</item>
         <item quantity="other">%d números</item>
         <item quantity="one">%d número</item>
     </plurals>
+    <plurals name="summary_absorbed_time_foramt">
+        <item quantity="other">Encienda el modo de enfoque durante %d minutos</item>
+        <item quantity="one">Encienda el modo de enfoque durante %d minutos</item>
+    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Actualizaciones disponibles para %d aplicaciones.</item>
         <item quantity="one">Actualización disponible para %d aplicación.</item>
     </plurals>
+    <plurals name="summary_condition_lock_screen_format">
+        <item quantity="other">Después de que la pantalla esté bloqueada durante %d mins</item>
+        <item quantity="one">Después de que la pantalla esté bloqueada durante %d min</item>
+    </plurals>
     <plurals name="summary_flow_verify">
         <item quantity="other">"No se han sincronizado las estadísticas del uso de datos de la operadora en %d días"</item>
         <item quantity="one">"No se han sincronizado las estadísticas del uso de datos de la operadora en %d día"</item>
+    </plurals>
+    <plurals name="summary_result_absorbed_time_format">
+        <item quantity="other">%d mins</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="summary_result_lock_screen_format">
+        <item quantity="other">Bloquear pantalla después de %d mins</item>
+        <item quantity="one">Bloquear pantalla después de %d min</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d elementos seguros</item>

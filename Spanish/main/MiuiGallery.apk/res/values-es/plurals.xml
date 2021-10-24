@@ -556,9 +556,17 @@
         <item quantity="other">%1$s, %2$s elementos</item>
         <item quantity="one">%1$s, %2$s elemento</item>
     </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d elementos seleccionados se eliminarán permanentemente de la nube y de todos los dispositivos sincronizados. ¿Eliminar de todos modos?</item>
+        <item quantity="one">%d elemento seleccionado se eliminará permanentemente de la nube y de todos los dispositivos sincronizados. ¿Eliminar de todos modos?</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">"No podrás restaurar %d elementos seleccionados si los eliminas. ¿Eliminar de todos modos?"</item>
         <item quantity="one">"No podrás restaurar %d elemento seleccionado si lo eliminas. ¿Eliminar de todos modos?"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d elementos seleccionados se eliminarán de forma permanente. ¿Eliminar de todos modos?</item>
+        <item quantity="one">%d elemento seleccionado se eliminará de forma permanente. ¿Eliminar de todos modos?</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_media">
         <item quantity="other">"No podrás restaurar %d elementos seleccionados si los eliminas. ¿Eliminar de todos modos?"</item>

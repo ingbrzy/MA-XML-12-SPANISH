@@ -51,6 +51,8 @@
     <string name="confirm_cancel_task_files">¿Cancelar el envío de archivos a %1$s?</string>
     <string name="confirm_cancel_task_images">¿Cancelar el envío de imágenes a %1$s?</string>
     <string name="copy">Copiar</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Para transferir archivos mediante Bluetooth y Wi-Fi</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para enviar y recibir archivos</string>
     <string name="date_picker_lunar">Calendario chino tradicional</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="default_device_name">Dispositivo desconocido</string>
@@ -109,12 +111,14 @@
     <string name="file_sending">Transfiriendo archivos…</string>
     <string name="file_transfer_progress">Progreso: %1$d%%</string>
     <string name="file_transfer_progress_title">Progreso</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fmt_time_12hour">"h 'en punto'"</string>
+    <string name="fmt_time_24hour">"HH 'en punto'"</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
@@ -131,6 +135,7 @@
     <string name="hisense_phone">Hisense</string>
     <string name="i_know">Entendido</string>
     <string name="location_enabled">Mi Share activó los servicios de ubicación para encontrar dispositivos cercanos</string>
+    <string name="menu_item_permission_title">Detalles de permisos</string>
     <string name="menu_item_privacy_title">Política de Privacidad</string>
     <string name="mi_drop">Mi Share</string>
     <string name="midnight">Noche</string>
@@ -142,6 +147,8 @@ Esta función es compatible con OPPO, vivo, realme y otros fabricantes de teléf
     <string name="mishare_state_protection_summary">Volver a activar Mi Share automáticamente cuando el Bluetooth o Wi-Fi sean activados de nuevo</string>
     <string name="mishare_state_protection_summary_china">Turn Mi Share back on automatically when Bluetooth or WLAN are turned back on</string>
     <string name="mishare_transefer_channel_desc">Las notificaciones acerca de elementos son recibidas por Mi Share</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -156,6 +163,7 @@ Esta función es compatible con OPPO, vivo, realme y otros fabricantes de teléf
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -214,6 +222,7 @@ Esta función es compatible con OPPO, vivo, realme y otros fabricantes de teléf
     <string name="nubia">Nubia</string>
     <string name="nubia_phone">Nubia</string>
     <string name="operate_too_fast">¡Demasiado rápido! Espera hasta que las operaciones en curso estén completadas.</string>
+    <string name="pad_device_model_name">Xiaomi Pad</string>
     <string name="pc_device_model_name">Ordenador</string>
     <string name="permission_denied_hint">Concede los permisos requeridos para poder usar Mi Share</string>
     <string name="pm">PM</string>
@@ -340,7 +349,7 @@ Antes de usar Mi Share, debes conceder los siguientes permisos, así como permit
     <string name="tomorrow">Mañana</string>
     <string name="transfer_intercept_to_remote">"No se pudo enviar: %1$s"</string>
     <string name="transfer_to_pc_summary">"La última versión del software AIoT instalada en Mi Notebooks es compatible con Mi Share. Puedes consultar la lista de modelos de portátiles compatibles en el sitio web de MIUI. Si tu portátil está en la lista pero AIoT no está instalada en esta, actualiza la BIOS y el controlador del adaptador de red, y descarga AIoT."</string>
-    <string name="transfer_to_pc_summary_new"><Data>\"La última versión de MIUI+ instalada en Mi Notebooks es compatible con Mi Share. Puede consultar la lista de modelos de portátiles compatibles en el sitio web de MIUI + (&lt;a href=%1$s&gt;%2$s&lt;/a&gt;). Si su portátil está en la lista, pero MIUI+ no está instalado en él, actualice el controlador del adaptador de red y el BIOS de su computadora portátil, y descargue MIUI+ \".</Data></string>
+    <string name="transfer_to_pc_summary_new"><Data>\"La última versión de MIUI+ instalada en Mi Notebooks es compatible con Mi Share. Puede comprobar la lista de modelos portátiles soportados en el sitio web de MIUI+ (&lt;a href=%1$s&gt;%2$s&lt;/a&gt;). Si tu portátil está en la lista, pero MIUI+ no está instalado en ella, actualiza el BIOS de tu portátil y el adaptador de red, y descarga MIUI+.</Data></string>
     <string name="transfer_to_pc_title">Enviar archivos a ordenadores</string>
     <string name="transfer_to_phone_summary">"Activa Mi Share usando el interruptor en la Barra de notificaciones. Después de esto, podrás ver los dispositivos cercanos cuando comiences a compartir una foto o un archivo. Toca el dispositivo del destinatario para enviar el elemento que estás compartiendo."</string>
     <string name="transfer_to_phone_title">Enviar archivos a teléfonos</string>

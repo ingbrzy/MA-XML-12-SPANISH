@@ -294,6 +294,7 @@ Desactiva el interruptor para dejar de sincronizar."</string>
     <string name="collect_diagnosis_log">Recoger registros</string>
     <string name="collection_articles">Artículos</string>
     <string name="collection_videos">Vídeos</string>
+    <string name="columbus_ad_flag_text">AD</string>
     <string name="columbus_player_close_desc">Perderá su recompensa</string>
     <string name="columbus_player_close_resume">REANUDAR VIDEO</string>
     <string name="columbus_player_close_title">¿Cerrar vídeo?</string>
@@ -303,6 +304,7 @@ Desactiva el interruptor para dejar de sincronizar."</string>
     <string name="columbus_player_speed_title">¿Saltar video?</string>
     <string name="columbus_player_speed_video">Saltar VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
+    <string name="columbus_skip_ad">Saltar</string>
     <string name="com_facebook_device_auth_instructions">Ve a &lt;b&gt;facebook.com/device&lt;/b&gt; e ingresa el código que se muestra arriba.</string>
     <string name="com_facebook_image_download_unknown_error">Se produjo un error inesperado al descargar una imagen.</string>
     <string name="com_facebook_internet_permission_error_message">El inicio de sesión de WebView requiere permisos de INTERNET</string>
@@ -954,11 +956,11 @@ Envía este código al supervisor."</string>
     <string name="mw_accessibility_time_picker_minute">Minuto</string>
     <string name="mw_accessibility_time_picker_second">Segundo</string>
     <string name="mw_actionbar_share">Compartir</string>
-    <string name="mw_actionbar_textselection_title">Selección de texto</string>
+    <string name="mw_actionbar_textselection_title">Seleccionar texto</string>
     <string name="mw_actionbar_web_search">Búsqueda web</string>
     <string name="mw_add_to_dictionary">Añadir al diccionario</string>
-    <string name="mw_autofill_popup_content_description">Mostrar la ventana emergente Autocompletar</string>
-    <string name="mw_chip_remove_icon_content_description">"Quitar '%1$s'"</string>
+    <string name="mw_autofill_popup_content_description">Se muestra la ventana emergente de autocompletar</string>
+    <string name="mw_chip_remove_icon_content_description">Quitar \"%1$s\"</string>
     <string name="mw_color_picker_button_black">Negro</string>
     <string name="mw_color_picker_button_blue">Azul</string>
     <string name="mw_color_picker_button_cancel">Cancelar</string>
@@ -992,10 +994,10 @@ Envía este código al supervisor."</string>
     <string name="mw_common_open_on_phone">Abierto en el teléfono</string>
     <string name="mw_common_signin_button_text">Registrarse</string>
     <string name="mw_common_signin_button_text_long">Registrarse con Google</string>
-    <string name="mw_copy_to_clipboard_failure_message">No se pudo copiar al portapapeles</string>
-    <string name="mw_data_traffic_prompt_change">"El uso de su conexión de datos móviles para ver videos aumentará su uso de datos. Si supera el límite de uso de datos de su plan, su proveedor podría cobrarle tarifas adicionales."</string>
-    <string name="mw_data_traffic_prompt_message">"El uso de su conexión de datos móviles para buscar videos aumentará su uso de datos. Si supera el límite de uso de datos de su plan, su proveedor podría cobrarle tarifas adicionales."</string>
-    <string name="mw_data_traffic_prompt_message_short">El uso de datos móviles para transmitir videos puede hacer que supere el límite de uso de datos de su plan.</string>
+    <string name="mw_copy_to_clipboard_failure_message">"No se pudo copiar al portapapeles"</string>
+    <string name="mw_data_traffic_prompt_change">"El uso de su conexión de datos móviles para transmitir videos aumentará su uso de datos. Si supera el límite de uso de datos de su plan, su proveedor le cobrará tarifas adicionales."</string>
+    <string name="mw_data_traffic_prompt_message">"El uso de su conexión de datos móviles para transmitir videos aumentará su uso de datos. Si supera el límite de uso de datos de su plan, su proveedor le cobrará tarifas adicionales."</string>
+    <string name="mw_data_traffic_prompt_message_short">"El uso de datos móviles para transmitir videos puede hacer que supere el límite de uso de datos de su plan."</string>
     <string name="mw_data_traffic_prompt_title">Aviso de consumo de datos</string>
     <string name="mw_date_picker_dialog_clear">Limpiar</string>
     <string name="mw_date_picker_dialog_other_button_label">Otros</string>
@@ -1007,16 +1009,16 @@ Envía este código al supervisor."</string>
     <string name="mw_find_previous">Buscar anterior</string>
     <string name="mw_js_dialog_before_unload">"%s
 
-¿Está seguro de que desea salir de esta página?"</string>
+Dejar esta página ahora?"</string>
     <string name="mw_js_dialog_before_unload_negative_button">Permanecer en esta página</string>
     <string name="mw_js_dialog_before_unload_positive_button">Salir de esta página</string>
-    <string name="mw_js_dialog_before_unload_title">Confirmar navegación</string>
+    <string name="mw_js_dialog_before_unload_title">¿Salir de esta página?</string>
     <string name="mw_js_dialog_title">La página en \"%s\" dice:</string>
     <string name="mw_js_dialog_title_default">JavaScript</string>
     <string name="mw_last_month">Mes pasado</string>
     <string name="mw_license_activity_title">Licencias de WebView del sistema</string>
-    <string name="mw_link_copied">Enlace copiado</string>
-    <string name="mw_low_memory_error">No se pudo completar la operación anterior debido a poca memoria</string>
+    <string name="mw_link_copied">URL copiada correctamente</string>
+    <string name="mw_low_memory_error">"No se puede completar la operación anterior debido a poca memoria"</string>
     <string name="mw_miui_content_copy">Copiar</string>
     <string name="mw_miui_content_cut">Cortar</string>
     <string name="mw_miui_content_extent_select">Seleccionar más</string>
@@ -1108,31 +1110,31 @@ Envía este código al supervisor."</string>
     <string name="mw_month_picker_dialog_title">Establecer mes</string>
     <string name="mw_no_matches">Sin coincidencias</string>
     <string name="mw_older">Anterior</string>
-    <string name="mw_opening_file_error">No se pudo abrir el archivo seleccionado</string>
-    <string name="mw_permission_alert_window">Para utilizar la función, abra la ventana emergente Diplay de la opción del sistema.</string>
+    <string name="mw_opening_file_error">"No se pudo abrir el archivo seleccionado"</string>
+    <string name="mw_permission_alert_window">Para usar la función, permita que se muestren ventanas emergentes.</string>
     <string name="mw_permission_unknown">Opción desconocida</string>
-    <string name="mw_private_browsing_warning">Esta funcionalidad no es compatible con esta versión de Android.</string>
-    <string name="mw_profiler_error_toast">No se pudo iniciar el generador de perfiles</string>
+    <string name="mw_private_browsing_warning">"Esta funcionalidad no es compatible con esta versión de Android."</string>
+    <string name="mw_profiler_error_toast">"No se pudo iniciar el generador de perfiles"</string>
     <string name="mw_profiler_no_storage_toast">"No se puede iniciar el generador de perfiles porque el almacenamiento externo no está listo"</string>
     <string name="mw_profiler_started_toast">Profiler iniciado</string>
     <string name="mw_profiler_stopped_toast">Profiler finalizado. Los resultados están en %1$s.</string>
-    <string name="mw_save_password_message">¿Quieres que el navegador recuerde esta contraseña?</string>
+    <string name="mw_save_password_message">¿Recuerdas esta contraseña?</string>
     <string name="mw_save_password_never">Nunca</string>
     <string name="mw_save_password_notnow">Ahora no</string>
     <string name="mw_save_password_remember">Recordar</string>
     <string name="mw_search_menu_title">Búsqueda</string>
-    <string name="mw_speech_recognition_service_not_found">"No se encuentra el motor de voz de Google"</string>
+    <string name="mw_speech_recognition_service_not_found">"No se pudo encontrar el motor de voz de Google"</string>
     <string name="mw_time_picker_dialog_am">AM</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_title">Establecer hora</string>
     <string name="mw_video_buffering_percent">"Cargando "</string>
-    <string name="mw_video_download_no_permission">sin permiso de descarga</string>
-    <string name="mw_video_float_drag_scale_msg">arrastrar para escalar</string>
+    <string name="mw_video_download_no_permission">Permisos necesarios para descargar elementos</string>
+    <string name="mw_video_float_drag_scale_msg">Arrastra para escalar</string>
     <string name="mw_video_float_window">Ventana emergente</string>
-    <string name="mw_video_float_window_playing">El vídeo se está reproduciendo en modo float-widow</string>
+    <string name="mw_video_float_window_playing">Reproducción de video en modo PiP…</string>
     <string name="mw_video_play_error">"No se pudo reproducir el vídeo"</string>
     <string name="mw_webview_find_on_page">Buscar en la página</string>
-    <string name="mw_webviewchromium_private_browsing_warning">Esta funcionalidad no es compatible con esta versión de Android.</string>
+    <string name="mw_webviewchromium_private_browsing_warning">"Esta funcionalidad no es compatible con esta versión de Android."</string>
     <string name="mw_week_picker_dialog_title">Establecer semana</string>
     <string name="my_account">Mi cuenta</string>
     <string name="my_cahnnel">Mis canales</string>
@@ -1217,6 +1219,13 @@ Envía este código al supervisor."</string>
     <string name="notification_download_completed">Descargado con éxito</string>
     <string name="notification_download_failed">"No se pudo descargar."</string>
     <string name="notification_wechat_expired_empty">WeChat ya ha eliminado estos clips de vídeo.</string>
+    <string name="offline_notification_text">Toque para abrir el anuncio</string>
+    <string name="offline_notification_title">Ver el anuncio que guardó cuando estaba sin conexión</string>
+    <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_confirmation">"Recibirás una notificación con el enlace cuando vuelvas a estar en línea"</string>
+    <string name="offline_opt_in_decline">No, gracias</string>
+    <string name="offline_opt_in_message">"Le enviaremos una notificación con un enlace al sitio del anunciante."</string>
+    <string name="offline_opt_in_title">"Abra el anuncio cuando vuelva a estar en línea."</string>
     <string name="ok">Aceptar</string>
     <string name="open_app_confirm_message">¿Permitir a esta página abrir %s?</string>
     <string name="open_private_folder">Soltar para ver las carpetas ocultas</string>
@@ -1558,8 +1567,8 @@ Algunos sitios no usarán tu historial de navegación anterior para personalizar
     <string name="privacy_authorize_summary">Activa y desactiva el interruptor para conceder o revocar tu autorización</string>
     <string name="privacy_authorize_title">Autorización</string>
     <string name="privacy_btn_more">Más</string>
-    <string name="privacy_improve_performance">"Ayuda a mejorar el rendimiento del Navegador Mi"</string>
-    <string name="privacy_improve_performance_desc">Enviar datos agregados e informes de fallos al Navegador Mi automáticamente</string>
+    <string name="privacy_improve_performance">Programa de experiencia de usuario</string>
+    <string name="privacy_improve_performance_desc">Permitir que Xiaomi recopile y analice los datos de los usuarios para mejorar nuestros productos y servicios</string>
     <string name="privacy_message">Antes de usar el Navegador, debes aceptar nuestro &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%1$s\" style=\"color:#4086f5;\"&gt;Acuerdo de Usuario&lt;/a&gt;&lt;/font&gt; y &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%2$s\" style=\"color:#4086f5;\"&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt;.</string>
     <string name="privacy_message_main_tips_first">El Navegador Mi necesita recopilar la información personal necesaria para brindarte los servicios básicos. Puedes aprender cómo manejamos la información que recopilamos en nuestra &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%1$s\" style=\"color:#4086f5;\"&gt;Política de Privacidad&lt;/a&gt;&lt;/a&gt;&lt;/font&gt; Siempre puedes retirar tu consentimiento a la Política de Privacidad del Navegador Mi en Ajustes &gt; Privacidad y seguridad. Lee y acepta nuestro &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%2$s\" style=\"color:#4086f5;\"&gt;Acuerdo de Usuario&lt;/a&gt;&lt;/font&gt; y nuestra &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%1$s\" style=\"color:#4086f5;\"&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt; antes de usar el Navegador Mi.</string>
     <string name="privacy_message_main_tips_second">"Para poder buscar aplicaciones en este dispositivo y saber qué aplicaciones están instaladas, Navegador Mi necesita acceder a la información de instalación de la aplicación, que no se guardará localmente ni se cargará de ninguna forma."</string>
@@ -1621,7 +1630,6 @@ Algunos sitios no usarán tu historial de navegación anterior para personalizar
     <string name="regid">RegId (haga clic para exportar)</string>
     <string name="release_to_refresh">Libera para refrescar</string>
     <string name="remember_passwords_confirm_message">Desactivar esta función puede afectar al uso.</string>
-    <string name="remote_config">Configuración remota (haga clic para exportar)</string>
     <string name="remove_bookmark">Eliminar marcador</string>
     <string name="remove_bookmark_group">Eliminar grupo</string>
     <string name="remove_from_bookmarks">Eliminar de marcadores</string>
@@ -1647,6 +1655,15 @@ Algunos sitios no usarán tu historial de navegación anterior para personalizar
     <string name="restart_phone_bind_message">Puedes tardar un rato en recibir el SMS. ¿Empezar de nuevo de todos modos?</string>
     <string name="restart_phone_bind_title">Cambiar teléfono de recuperación</string>
     <string name="return_to_homepage">Volver a la página de inicio</string>
+    <string name="risk_continue">Continuar</string>
+    <string name="risk_detail">Detalles</string>
+    <string name="risk_malicious_url">Este sitio web puede presentar riesgos de seguridad.</string>
+    <string name="risk_protect_browsing">Mi Browser comprueba los sitios web en busca de problemas de seguridad</string>
+    <string name="risk_safe_url">Esta página web es segura</string>
+    <string name="risk_setting_des">Permitir que Mi Browser revise los sitios web en busca de problemas de seguridad</string>
+    <string name="risk_setting_title">Navegación segura</string>
+    <string name="risk_stop">Detener</string>
+    <string name="risk_unspecified_url">"Hay un problema con el certificado de seguridad de este sitio web."</string>
     <string name="rlv_last_refreshing_time">Actualizado %1$s</string>
     <string name="rlv_loading_more">Un momento…</string>
     <string name="rlv_pull_to_refresh">Desliza hacia abajo para actualizar</string>
@@ -2070,7 +2087,6 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
-    <string name="welcome_to_mi_browser">¡Bienvenido al Navegador Mi!</string>
     <string name="what_is_new">Actualiza la aplicación para acceder a nuevas funciones</string>
     <string name="whatsapp_downloadpage_tips">Capturador de estados de WhatsApp</string>
     <string name="whatsapp_file_saved_success">Guardado con éxito</string>
