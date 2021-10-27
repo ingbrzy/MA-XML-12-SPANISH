@@ -37,6 +37,7 @@
     <string name="alert_message_delete_record">Al eliminar la grabación de su dispositivo, también se eliminará de Xiaomi Cloud. ¿Eliminar?</string>
     <string name="alert_message_delete_record_title">¿Eliminar grabación?</string>
     <string name="all_record">Todas las grabaciones</string>
+    <string name="allowed">Concedido</string>
     <string name="am">AM</string>
     <string name="app_name">Grabadora</string>
     <string name="app_record">Grabaciones de aplicaciones</string>
@@ -284,6 +285,7 @@
     <string name="no_records">Aún no hay grabaciones aquí</string>
     <string name="noon">Mediodía</string>
     <string name="normal_settings_pref_title">Configuración general</string>
+    <string name="not_allowed">No concedido</string>
     <string name="not_set">Sin definir</string>
     <string name="notification_message_all_paused">Esperando una conexión Wi-Fi.</string>
     <string name="notification_playback">Reproduciendo…</string>
@@ -328,6 +330,15 @@
     <string name="pay_error_cancel">Pago cancelado</string>
     <string name="pay_error_null">"No se pudo completar el pago. Compruebe su cuenta."</string>
     <string name="pay_error_unknown">Error desconocido</string>
+    <string name="permission_desc">Detalles de permisos</string>
+    <string name="permission_dialog_cancel">Cancelar</string>
+    <string name="permission_dialog_ok">Ajustes</string>
+    <string name="permission_record">Grabar audio</string>
+    <string name="permission_record_description">Para proporcionar servicios de grabación de audio</string>
+    <string name="permission_storage">Acceder al almacenamiento</string>
+    <string name="permission_storage_description">Para administrar grabaciones y descargarlas desde la nube</string>
+    <string name="permission_storage_description_for_download">Para descargar grabaciones desde la nube</string>
+    <string name="permission_storage_description_for_manage_files">Para gestionar grabaciones</string>
     <string name="play_speed">%1$.1fX velocidad</string>
     <string name="playback_delete_records">Eliminar grabación</string>
     <string name="playback_share_records">Compartir grabación</string>
@@ -349,6 +360,7 @@
     <string name="preference_status_bar_indicator_prompt">Mostrar acceso directo en la barra de estado al grabar</string>
     <string name="preference_tip_rename">Nombrar grabaciones manualmente</string>
     <string name="privacy_policy_title">Política de Privacidad</string>
+    <string name="privacy_settings">Privacidad</string>
     <string name="recognition_button_add_to_queue">Añadir a la cola</string>
     <string name="recognition_button_cancel">Ahora no</string>
     <string name="recognition_button_start">Transcribir</string>
@@ -414,6 +426,7 @@
     <string name="record_list_fm">Grabaciones FM</string>
     <string name="record_list_item_recognize_text">Texto</string>
     <string name="record_mark_point">Marcar %s</string>
+    <string name="record_permission_dialog_title">Se requieren permisos de micrófono</string>
     <string name="record_quliaty_preference_title">Calidad de grabación</string>
     <string name="record_resotre">Recuperar registros</string>
     <string name="recorder_record">Audio</string>
@@ -500,6 +513,7 @@
     <string name="status_bar_back">Pulsa para volver a la Grabadora</string>
     <string name="status_bar_recording">Grabando…</string>
     <string name="status_bar_recording_pause">Grabación pausada</string>
+    <string name="storage_permission_dialog_title">Se requieren permisos de almacenamiento</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom.</string>
@@ -584,6 +598,7 @@
     <string name="user_feedback">Comentarios</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADA</string>
+    <string name="view_privacy">Ver política de privacidad</string>
     <string name="webview_check_network">Ajustes de red</string>
     <string name="webview_data_error">Ha ocurrido un error</string>
     <string name="webview_locating_fail">"No se pudo determinar su ubicación"</string>

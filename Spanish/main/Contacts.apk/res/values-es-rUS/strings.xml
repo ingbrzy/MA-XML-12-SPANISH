@@ -156,6 +156,8 @@
     <string name="bh_permission_contact_desc">Para recargar el saldo de sus contactos</string>
     <string name="bh_permission_get_accounts_desc">Para realizar pedidos y comprobar su estado</string>
     <string name="bh_permission_read_call_log_desc">Para mostrar la duración de la llamada</string>
+    <string name="bh_permission_read_call_log_desc_and_reason">Leer el registro de llamadas para mostrar la duración de la llamada</string>
+    <string name="bh_permission_read_contact_desc_and_reason">Leer contactos para recargar el saldo de sus contactos</string>
     <string name="bh_permission_read_phone_state_desc">Para mostrar números de teléfono e información relacionada con el operador</string>
     <string name="bh_pkg_data_cant_query">"No puedo ver los detalles debido a restricciones del operador"</string>
     <string name="bh_please_complete_sim_before_charge">Para recargar, primero agregue un número de teléfono.</string>
@@ -722,6 +724,8 @@ Motivo: \"%s\""</string>
     <string name="miprofile_switch_off_alertdialog_message">"No podrá intercambiar tarjetas de contacto con otras personas."</string>
     <string name="missing_name">(Sin nombre)</string>
     <string name="missing_required_permission">No tiene habilitada una autorización necesaria.</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -739,6 +743,8 @@ Motivo: \"%s\""</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Deslice hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -854,6 +860,7 @@ Motivo: \"%s\""</string>
     <string name="permission_notice_desc_access_fine_location">Para importar contactos de otros dispositivos a través de Bluetooth</string>
     <string name="permission_notice_desc_add_voicemail">Para usar la función de correo de voz y mensajes de audio</string>
     <string name="permission_notice_desc_call_phone">Para realizar llamadas en aplicaciones de terceros</string>
+    <string name="permission_notice_desc_call_phone_for_pad">Para realizar llamadas en aplicaciones de terceros</string>
     <string name="permission_notice_desc_camera">Para tomar fotos de perfil</string>
     <string name="permission_notice_desc_read_call_logs">Para ver el historial de llamadas</string>
     <string name="permission_notice_desc_read_contacts">Para ver contactos</string>
@@ -946,9 +953,12 @@ Motivo: \"%s\""</string>
     <string name="privacy_password_title2">Utilice la contraseña de protección de privacidad</string>
     <string name="privacy_password_title3">Actualizar contraseña</string>
     <string name="privacy_password_title4">Contraseña actualizada</string>
-    <string name="privacy_settings_call_phone">Hacer</string>
+    <string name="privacy_settings_call_phone">Hacer llamadas</string>
     <string name="privacy_settings_call_phone_description">Para realizar llamadas en aplicaciones de terceros</string>
+    <string name="privacy_settings_call_phone_description_for_pad">Para realizar llamadas en aplicaciones de terceros</string>
+    <string name="privacy_settings_call_phone_for_pad">Hacer llamadas</string>
     <string name="privacy_settings_contacts">Contactos y teléfono</string>
+    <string name="privacy_settings_contacts_for_pad">Privacidad</string>
     <string name="privacy_settings_mallowed">Concedido</string>
     <string name="privacy_settings_mnotallowed">No concedido</string>
     <string name="privacy_settings_permission_description">Detalles de permisos</string>
@@ -1242,6 +1252,7 @@ Motivo: \"%s\""</string>
     <string name="toast_not_show_read_contacts_perm_req">Para poder ver los contactos, primero permita que esta aplicación acceda a los contactos.</string>
     <string name="toast_not_show_read_phone_state_perm_req">Para poder usar esta aplicación con su tarjeta SIM, primero permita que esta aplicación acceda a la información del dispositivo.</string>
     <string name="toast_not_show_storage_perm_req">Para poder agregar fotos de perfil e importar vCards, primero permita que esta aplicación acceda al almacenamiento.</string>
+    <string name="toast_not_show_storage_perm_req_for_pad">Para poder agregar fotos de perfil e importar vCards, primero permita que esta aplicación acceda al almacenamiento.</string>
     <string name="toast_not_show_write_calllogs_perm_req">Para poder mantener actualizado el historial de llamadas, primero permita que esta aplicación edite el historial de llamadas.</string>
     <string name="toast_not_show_write_contacts_perm_req">Para poder ver los contactos, primero permita que esta aplicación edite los contactos.</string>
     <string name="toast_start_intent_failed">"No se pudieron encontrar apps para realizar esta acción"</string>

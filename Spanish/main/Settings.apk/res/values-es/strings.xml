@@ -2039,7 +2039,11 @@ El cambio afectará a otras aplicaciones y conversaciones que pueden mostrarse c
     <string name="color_game_led_applications_title_summary">Selecciona aplicaciones individuales que funcionarán con luz LED</string>
     <string name="color_game_led_battery_title">Mantener encendida durante la carga</string>
     <string name="color_game_led_charging_summary">La luz LED se apagará cuando la batería esté cargada</string>
+    <string name="color_game_led_color_title">Color claro</string>
     <string name="color_game_led_end_time">Finalizar</string>
+    <string name="color_game_led_feature_off">Desactivado</string>
+    <string name="color_game_led_feature_on">Activado</string>
+    <string name="color_game_led_freq_title">Frecuencia de parpadeo</string>
     <string name="color_game_led_game_mode_summary">Mostrar efectos para juegos cuando Game Turbo esté activo</string>
     <string name="color_game_led_game_mode_title">Usar para Game Turbo</string>
     <string name="color_game_led_incall_pulse_title">Usar para llamadas entrantes</string>
@@ -3030,6 +3034,7 @@ Puede ver los registros generados en el Administrador de archivos."</string>
     <string name="enable_local_backup">Encender</string>
     <string name="enable_local_backup_cancel">Cancelar</string>
     <string name="enable_local_backup_message">Active esta función para poder guardar copias de seguridad en este dispositivo y copiarlas en su ordenador o dispositivo de almacenamiento USB. ¿Activar ahora?</string>
+    <string name="enable_local_backup_message_intledition">Active esta función para poder guardar copias de seguridad en este dispositivo y copiarlas en su ordenador. ¿Activar ahora?</string>
     <string name="enable_local_backup_ok">Ok</string>
     <string name="enable_local_backup_title">Respaldos locales</string>
     <string name="enable_mms_notification_channel_title">Mensaje MMS</string>
@@ -3493,6 +3498,7 @@ No parecía que en aquel lugar hubiese caballos ni animales de ningún tipo, pue
     <string name="font_size_summary2">Modo lite</string>
     <string name="footer_learn_more_content_description">Más información sobre %1$s</string>
     <string name="forbidden_network">(prohibida)</string>
+    <string name="forbidden_set_unlock_password_msg">Actualmente en modo de mantenimiento, la contraseña no se puede establecer ni cambiar.</string>
     <string name="forbidden_switch_apn_string">"Los ajustes de la APN seleccionada no corresponden con el tipo de red actual"</string>
     <string name="force_allow_on_external">Forzar permitir que las aplicaciones escriban en el almacenamiento externo</string>
     <string name="force_allow_on_external_summary">Hacer que cualquier aplicación pueda ser escrita en el almacenamiento externo, sin importar los valores mostrados</string>
@@ -6709,6 +6715,7 @@ Este ajuste afecta a todos los usuarios de este teléfono."</string>
     <string name="runtime_permissions_summary_no_permissions_requested">No se han solicitado permisos</string>
     <string name="rx_link_speed_label">Velocidad de recepción:</string>
     <string name="rx_wifi_speed">Velocidad de enlace de recepción</string>
+    <string name="safe_install_mode_settings">Modo seguro</string>
     <string name="safety_and_regulatory_info">Manual de seguridad y normativas</string>
     <string name="sar">Información de exposición a RF</string>
     <string name="saturday">Sábado</string>
@@ -7724,6 +7731,7 @@ Pulsa dos veces para abrir Recientes."</string>
     <string name="sms_received_sound_dialog_title">Seleccionar sonido para mensajes recibidos</string>
     <string name="sms_received_sound_title">Mensaje recibido</string>
     <string name="snooze_options_title">Permitir que se pospongan las notificaciones</string>
+    <string name="softbank_apn_lock_toast">APN está bloqueado. No se puede editar.</string>
     <string name="software_version">Versión del software</string>
     <string name="sometimes_running">A veces en ejecución (%s)</string>
     <string name="sort_avg_use">Ordenar por uso medio</string>
@@ -7801,7 +7809,7 @@ Retirar el consentimiento para %s ahora?"</string>
     <string name="source_info_details_title">Información de la fuente de transmisión</string>
     <string name="speaker">Altavoz</string>
     <string name="speaker_clean">Limpiar altavoz</string>
-    <string name="special_access">Acceso especial de aplicaciones</string>
+    <string name="special_access">Permisos especiales</string>
     <string name="special_access_more">Ver más</string>
     <string name="special_preview">Demos</string>
     <string name="speed_label_fast">Rápido</string>

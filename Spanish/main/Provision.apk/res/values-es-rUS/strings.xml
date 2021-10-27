@@ -122,8 +122,8 @@
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="font_hint_large">Tamaño de texto por defecto</string>
     <string name="font_hint_normal">Aumentar tamaño de texto</string>
-    <string name="framework_introduction">El Framework de Servicios Mi le permite usar la Cuenta Mi, Mi Push, Estadísticas Mi y MIUI BI.</string>
-    <string name="framwork_base_service">Para proporcionarte estos servicios, el Marco de Servicios Mi (Cuenta Mi, Mi Push, Estadísticas Mi, MIUI BI) necesita conectarse a internet, acceder a tu ubicación, número de teléfono, IMEI y IMSI y permitir a tu dispositivo recibir notificaciones push</string>
+    <string name="framework_introduction">Mi Services Framework le permite usar Mi Account, Mi Push, Analytics y MIUI BI.</string>
+    <string name="framwork_base_service">Para brindarle estos servicios, Mi Services Framework (Mi Cuenta, Mi Push, Analytics, MIUI BI) necesita conectarse a Internet, acceder a su ubicación, número de teléfono, IMEI e IMSI, y permitir que su dispositivo reciba notificaciones automáticas</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
@@ -446,7 +446,7 @@ Puede controlar esta función desde Configuración &gt; Contraseñas &amp; Segur
     <string name="service_policy_adjust_content">Política de privacidad de Xunlei</string>
     <string name="service_policy_download"><Data>Lea y acepte &lt;a href=%1$s&gt;Política de privacidad de Xunlei&lt;/a &gt; y &lt;a href=%1$s&gt;Acuerdo de usuario de servicios de red de Xunlei&lt;/a &gt; antes de continuar.</Data></string>
     <string name="service_privacy_index">Política de Privacidad</string>
-    <string name="service_security_over_r"><Data>Lea y acepte nuestra &lt;a href=%1$s&gt;Política de privacidad&lt;/a &gt; antes de usar Seguridad.&lt;br/&gt;&lt;br/&gt;De acuerdo con los estándares de Android 11, se retirará un permiso por única vez dentro de los 5 segundos posteriores a que la aplicación correspondiente deje de ejecutarse. Si abre la aplicación durante este breve período de tiempo, se retirará el permiso.</Data></string>
+    <string name="service_security_over_r"><Data>Lea y acepte nuestra &lt;a href=%1$s&gt;Política de privacidad&lt;/a &gt;.&lt;br/&gt;&lt;br/&gt;De acuerdo con los estándares de Android R, un permiso único se retirará dentro de un período de tiempo establecido (alrededor de &lt;xliff:g example=5 seconds id=short&gt;%2$s&lt;/xliff:g&gt;) después de que la aplicación correspondiente deje de ejecutarse. Si abre la aplicación durante este breve período de tiempo, se retirará el permiso.</Data></string>
     <string name="service_sim_activation">Activación de la tarjeta SIM</string>
     <string name="servicestate_title">Declaración sobre servicios básicos</string>
     <string name="setting_locale">Estableciendo región…</string>

@@ -120,6 +120,10 @@
         <item quantity="other">Vuelve a intentarlo en %d segundos</item>
         <item quantity="one">Vuelve a intentarlo en %d segundo</item>
     </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_title">
+        <item quantity="other">"No se pudieron sincronizar %s elementos"</item>
+        <item quantity="one">"No se pudo sincronizar %s elemento"</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>

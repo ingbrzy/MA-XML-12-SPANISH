@@ -40,6 +40,12 @@
         <item quantity="other">" %1$shoras %2$s"</item>
         <item quantity="one">" %1$shora %2$s"</item>
     </plurals>
+    <plurals name="choose_long_gif_limit_toast_tip">
+        <item quantity="other">"La duración de reproducción de las animaciones no puede superar los %d segundos.
+Las animaciones más largas se detendrán en este punto."</item>
+        <item quantity="one">"La duración de reproducción de las animaciones no puede superar %d segundo.
+Las animaciones más largas se detendrán en este punto."</item>
+    </plurals>
     <plurals name="count_selected">
         <item quantity="other">%d elementos seleccionados</item>
         <item quantity="one">%d elemento seleccionado</item>
