@@ -36,6 +36,8 @@
     <string name="ai_mode_manual">Manualmente</string>
     <string name="ai_mode_subtitles">Subtítulos</string>
     <string name="am">AM</string>
+    <string name="antifraud_center">Plataforma de advertencia antifraude</string>
+    <string name="antifraud_center_incoming_prompt">"No pierda ninguna llamada de la plataforma oficial de advertencia antifraude"</string>
     <string name="antispam_local_marked">Marcado localmente</string>
     <string name="antispam_notification_title">Número desconocido</string>
     <string name="antispam_provider">Identificado por %s</string>
@@ -69,6 +71,11 @@
     <string name="call_contacts_deny_permission_msg">"Negó el permiso de lectura de contactos; no se puede mostrar la información de los contactos."</string>
     <string name="call_description_recording">Grabando…</string>
     <string name="call_not_support_high_frequency_click">"No toque este botón tan frecuentemente"</string>
+    <string name="call_progress_info_call_forwarding">La llamada se reenvía a otro número</string>
+    <string name="call_progress_info_call_waiting">El control remoto está en una llamada, por favor espere</string>
+    <string name="call_progress_info_remote_available">Se alerta el control remoto</string>
+    <string name="call_progress_info_subscriber_absent">Suscriptor ausente</string>
+    <string name="call_progress_info_unallocated_number">Número sin asignar</string>
     <string name="call_record_wait_label">Esperando</string>
     <string name="call_recording_deny_permission_msg">"Negó el permiso para grabar, no es posible grabar."</string>
     <string name="call_recording_error_low_storage">No hay suficiente espacio de almacenamiento.</string>
@@ -92,6 +99,7 @@
     <string name="card_title_hanging_up">"Colgando "</string>
     <string name="card_title_in_call">En llamada</string>
     <string name="card_title_in_call_short">En llamada</string>
+    <string name="card_title_in_crbt">Está esperando ser respondido</string>
     <string name="card_title_in_video">Video </string>
     <string name="card_title_incoming_conference_call">Llamada de Conferencia entrante</string>
     <string name="card_title_on_hold">"En espera "</string>
@@ -180,6 +188,7 @@
     <string name="incoming_circle_text_reject_p">Deslizar hacia arriba</string>
     <string name="incoming_circle_text_video_answer">Suelte para responder con video</string>
     <string name="incoming_circle_text_video_answer_p">Deslice hacia arriba para responder con video</string>
+    <string name="incoming_video_crs_call">Video CRS Recibir llamada de</string>
     <string name="manageConferenceLabel">Configurar llamada en conferencia</string>
     <string name="manager_conference_done">Listo</string>
     <string name="midnight">Noche</string>
@@ -199,6 +208,7 @@
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Deslice hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado correctamente</string>
@@ -333,6 +343,7 @@
     <string name="solar_term_white_dews">Rocío</string>
     <string name="solar_term_winter_begins">Comienza el invierno</string>
     <string name="solar_term_winter_solstice">Solsticio de invierno</string>
+    <string name="speakerphone_tip">Dobla el dispositivo para usar el auricular o el altavoz</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

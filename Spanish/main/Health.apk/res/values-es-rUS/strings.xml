@@ -86,6 +86,8 @@ You'll be able to track your workouts and activity."</string>
     <string name="app_setting">Aplicaciones</string>
     <string name="audio_permission_dialog_desc">To analyze your sleep cycle and record talking and snoring, Xiaomi Health needs permission to record audio.</string>
     <string name="audio_permission_dialog_title">Allow recording audio</string>
+    <string name="audio_permission_subtitle">Para detectar ronquidos y hablar</string>
+    <string name="audio_permission_title">Grabar audio</string>
     <string name="audio_record_perm_description">For recording snoring and talking while analyzing sleep cycle</string>
     <string name="audio_record_permission_description">For recording talking and snoring while analyzing your sleep cycle</string>
     <string name="auth_description">Permite que %1$s sincronice datos de los siguientes dispositivos</string>
@@ -162,6 +164,8 @@ Si no desea acceder a las clases recomendadas, puede seguir utilizando los entre
     <string name="bmi_label">IMC</string>
     <string name="body_bmi_descripe_content">El índice de masa corporal (IMC) se define como la masa corporal en kilogramos dividida por el cuadrado de la altura corporal en metros. Conocer tu IMC puede ayudarte a comprender si tu peso tiene algún impacto negativo en tu salud.</string>
     <string name="body_composition">Composición corporal</string>
+    <string name="body_sport_permission_subtitle">Para el seguimiento de sus pasos</string>
+    <string name="body_sport_permission_title">Acceder a datos de salud y actividad</string>
     <string name="body_water">Agua</string>
     <string name="body_water_descripe_content">El porcentaje de agua corporal se refiere a la proporción de agua en el peso total del cuerpo humano. Por lo general, el tejido muscular contiene más agua que otras partes del cuerpo.</string>
     <string name="body_weight">Peso</string>
@@ -182,6 +186,8 @@ Si no desea acceder a las clases recomendadas, puede seguir utilizando los entre
     <string name="buy">Comprar</string>
     <string name="calories">calorías</string>
     <string name="camera_permission_desc">Para configurar fotos de perfil</string>
+    <string name="camera_permission_subtitle">Para obtener cambios en el flujo sanguíneo para la detección de la frecuencia cardíaca y la configuración de fotos de perfil</string>
+    <string name="camera_permission_title">Usar cámara</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_edit">Descartar cambios</string>
     <string name="cancel_mark_end">"Su periodo no ha terminado"</string>
@@ -216,6 +222,8 @@ Si no desea acceder a las clases recomendadas, puede seguir utilizando los entre
     <string name="completed_stand">Te levantaste</string>
     <string name="confirm_opening">Encender</string>
     <string name="contact_permission_desc">Para establecer contactos de emergencia</string>
+    <string name="contact_permission_subtitle">Para establecer contactos de emergencia</string>
+    <string name="contact_permission_title">Acceder a contactos</string>
     <string name="copy">Copiar</string>
     <string name="copy_done">Copiado con éxito</string>
     <string name="copyright_statement">Copyright © Xiaomi Inc. Todos los derechos reservados.</string>
@@ -473,6 +481,8 @@ Si su dispositivo aparece aquí, puede añadir fuentes de datos manualmente en X
     <string name="expand_all">Show all</string>
     <string name="expand_button_title">Opciones avanzadas</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
+    <string name="external_storage_permission_subtitle">Para configurar fotos de perfil</string>
+    <string name="external_storage_permission_title">Acceda y guarde elementos en el almacenamiento</string>
     <string name="fall_sleep_hard">Trouble falling asleep</string>
     <string name="falling_duration">Falling asleep</string>
     <string name="falling_duration_hard_description">"Falling asleep is the period between the start of your sleep and falling asleep completely. If it takes you longer than 30 minutes to fall asleep, this might be a sign of insomnia.
@@ -704,6 +714,8 @@ Vuelva a empezar."</string>
     <string name="location_permission_dialog_negative">Ahora no</string>
     <string name="location_permission_dialog_positive">Permitir</string>
     <string name="location_permission_dialog_title">Se requieren permisos de ubicación</string>
+    <string name="location_permission_subtitle">Para el seguimiento de entrenamientos al aire libre y la grabación de rutas</string>
+    <string name="location_permission_title">Acceso a la ubicación</string>
     <string name="location_service_dialog_content">Active los servicios de ubicación en la Configuración para poder realizar un seguimiento de sus entrenamientos al aire libre.</string>
     <string name="location_service_dialog_negative">Ahora no</string>
     <string name="location_service_dialog_positive">Activar</string>
@@ -1369,6 +1381,9 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="sport_btn_pause">Pausa</string>
     <string name="sport_btn_unlock">Desbloquear</string>
     <string name="sport_counter_begin">Iniciar ahora</string>
+    <string name="sport_data_use_subtitle">Para realizar un seguimiento de sus entrenamientos y el progreso de su estado físico, recopilamos y procesamos su información, incluidas las rutas de entrenamiento, los datos del sueño, la frecuencia cardíaca y el peso.</string>
+    <string name="sport_data_use_tip">"Lea y acepte nuestra Política de uso de datos de salud y actividad de &lt;font color=\"#0D84FF\"&gt;&lt;a href=%1$s&gt;&lt;/a&gt;&lt;/font&gt; comprender mejor cómo recopilamos y procesamos su información. No podrá utilizar este servicio si no da su consentimiento para nuestra recopilación y procesamiento."</string>
+    <string name="sport_data_use_title">Permisos de datos</string>
     <string name="sport_home_begin">Iniciar</string>
     <string name="sport_home_set_goal">Establecer una meta</string>
     <string name="sport_invalid_dialog_distance_content">La distancia recorrida durante este entrenamiento es demasiado corta para crear un registro histórico. ¿Terminar este entrenamiento de todos modos?</string>
@@ -1486,6 +1501,7 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="sync_status_never_done">No sincronizado</string>
     <string name="sync_status_oauth_error">"Error en la sincronización de la fuente de datos, vuelva a autorizar"</string>
     <string name="system_app_setting">Aplicaciones del sistema</string>
+    <string name="system_permission">Detalles de permisos</string>
     <string name="systolic_pressure">Sistólico</string>
     <string name="tb_audio_progress_bar">Barra de reproducción de audio</string>
     <string name="tb_blood_pressure_day_chart">%1$s. Presión sistólica más alta: %2$d milímetro de mercurio. Presión diastólica más baja: %3$d milímetros de mercurio.</string>

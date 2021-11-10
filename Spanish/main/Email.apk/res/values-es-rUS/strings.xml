@@ -36,6 +36,12 @@
     <string name="account_add_other_sub_des">Otras cuentas</string>
     <string name="account_add_title">Seleccionar servicio de correo</string>
     <string name="account_change">Cambiar cuentas</string>
+    <string name="account_child_dialog_neg_text">Salir</string>
+    <string name="account_child_dialog_pos_text">Guardian está de acuerdo</string>
+    <string name="account_child_dialog_text">"Si es menor de 14 años, informe a su tutor que debe leer y aceptar la \"Declaración de Kingsoft sobre la protección de datos personales de menores\". También debe buscar su consentimiento y orientación antes de utilizar nuestros servicios o enviarnos cualquier información personal.
+Para comprender plenamente sus derechos como usuario, así como las formas en que procesamos sus datos, lea la \"Declaración de Kingsoft sobre la protección de datos personales de menores\"."</string>
+    <string name="account_child_dialog_title">"Declaración sobre protección de datos personales de menores"</string>
+    <string name="account_child_save_statement">"Declaración de Kingsoft sobre la protección de datos personales de menores"</string>
     <string name="account_duplicate_dlg_message_fmt">"Ya está usando este nombre de usuario para la cuenta \"%s\"."</string>
     <string name="account_duplicate_dlg_title">Cuenta duplicada</string>
     <string name="account_failure">Tiempo de sesión agotado</string>
@@ -45,6 +51,12 @@
     <string name="account_options_sync_title">Sincronizar</string>
     <string name="account_password_spaces_error">"Esta contraseña comienza o termina con uno o varios
         espacios. Muchos servidores no admiten contraseñas con espacios."</string>
+    <string name="account_permission_child_statement">"Declaración sobre protección de datos personales de menores"</string>
+    <string name="account_permission_dialog_cancel_text">Retirar</string>
+    <string name="account_permission_dialog_text">"Si continúa, retirará su consentimiento al Acuerdo de licencia de usuario final, la Política de privacidad y la Declaración sobre la protección de datos personales de menores. Después de eso, no podrá usar WPS Mail y se eliminarán todos los datos generados en este dispositivo."</string>
+    <string name="account_permission_dialog_title">Retiro del consentimiento</string>
+    <string name="account_permission_private_policy">Política de privacidad</string>
+    <string name="account_permission_user_privacy">Acuerdo de licencia de usuario final</string>
     <string name="account_security_dialog_content_fmt">"\"%s requiere que actualice sus ajustes
          de seguridad\"."</string>
     <string name="account_security_dialog_title">Actualización de seguridad</string>
@@ -459,6 +471,7 @@
     <string name="dialog_system_auto_sync_account_no_open">Activar sincronización de la cuenta para recibir emails automáticamente</string>
     <string name="dialog_system_auto_sync_master_no_open">Active sincronización para recibir emails automáticamente</string>
     <string name="disable_admin_warning">"\"ADVERTENCIA: Desactivar la autorización de la aplicación de correo para administrar su dispositivo, eliminará las cuentas de correo electrónico que la requieran, junto con correos electrónicos, contactos, eventos y otros datos.\"."</string>
+    <string name="disallow_qq_auth_how_get_auth_code">¿Cómo obtengo un código de autorización?</string>
     <string name="discard_drafts">Descartar borradores</string>
     <string name="dismiss_tip_hover_text">Descartar consejo</string>
     <string name="disturb_switch">No molestar</string>
@@ -1026,6 +1039,7 @@ Intente cambiar a una cuenta de email diferente."</string>
     <string name="ntes_send_to_content">Si su número de teléfono actual está asociado con la cuenta, toque \"Enviar SMS\".</string>
     <string name="ntes_verification_code">Ingresar código: %s</string>
     <string name="oauth_error_description">"No se pudo autentificar"</string>
+    <string name="oauth_find_browser_error_description">Instale el navegador antes de iniciar sesión</string>
     <string name="oauth_gmail_login_notify">Introduzca su usuario y contraseña de su cuenta de Google en la siguiente pantalla de inicio de sesión.</string>
     <string name="oauth_login_continue">Continuar</string>
     <string name="oauth_login_continue_qq">Obtener un código de acceso e iniciar contraseña &gt;</string>
@@ -1160,6 +1174,7 @@ para recibir recordatorios de pagos y viajes"</string>
     <string name="print">Imprimir</string>
     <string name="print_scheduler_title">Imprimir todos los programadores</string>
     <string name="privacy_and_help">Privacidad y ayuda</string>
+    <string name="privacy_and_private_permission">Consentimiento para el Acuerdo de usuario y la Política de privacidad</string>
     <string name="privacy_des">"Los registros contienen información de depuración del correo electrónico del cliente y su dispositivo. Esta información se utiliza para localizar problemas más rápido. Al tocar \"%1$s\" usted acepta nuestra \"%2$s\"."</string>
     <string name="privacy_policy">Política de Privacidad</string>
     <string name="privacy_setting_agree">Acepto</string>

@@ -208,6 +208,13 @@
     <string name="copy">Copiar</string>
     <string name="current_preview">Vista previa</string>
     <string name="current_wallpaper">Actual</string>
+    <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Para realizar llamadas a contactos de emergencia en modo básico</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Para mostrar contactos de emergencia en modo básico</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Para mostrar el estado del dispositivo</string>
+    <string name="custom_define_permission_desc_android.permission_group.CALENDAR">Para mostrar widgets de calendario</string>
+    <string name="custom_define_permission_desc_android.permission_group.CAMERA">Para mostrar los widgets de la galería</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Para acceder al nombre del widget de Wi-Fi en Android Q</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para acceder y guardar datos de la pantalla de inicio</string>
     <string name="custom_wallpaper_picker">Explorar</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="defalut_launcher_title">Launcher por defecto</string>
@@ -543,7 +550,7 @@
     <string name="online_wallpaper">En línea</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Cancelar</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Desactivar</string>
-    <string name="open_personal_assistant_dialog_desc">"No podrá usar la Bóveda de aplicaciones ni recibir sus actualizaciones. ¿Desactivar?"</string>
+    <string name="open_personal_assistant_dialog_desc">"Después de desactivar App Vault, no podrá ver ni utilizar los widgets de App Vault. Sus versiones actualizadas tampoco estarán disponibles para usted. ¿Desactivar de todos modos?"</string>
     <string name="open_personal_assistant_dialog_desc_international">"No podrá usar las tarjetas de la Bóveda de aplicaciones (acciones, accesos directos, etc.) ni recibir actualizaciones al desactivar esta función."</string>
     <string name="open_personal_assistant_dialog_title">Desactivar Bóveda de aplicaciones</string>
     <string name="open_personal_assistant_settings">Configuración de App vault</string>

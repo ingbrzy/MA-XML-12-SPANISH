@@ -58,6 +58,8 @@
     <string name="cloud_find_device_off">Desact</string>
     <string name="cloud_find_device_on">Act</string>
     <string name="cloud_lab_title">Lab</string>
+    <string name="cloud_service_open_authorization">"¡Bienvenido a los servicios de Xiaomi Cloud! Puede usar Xiaomi Cloud para sincronizar sus notas, fotos y videos, grabaciones y otros elementos de las aplicaciones del sistema en todos los dispositivos conectados. Las copias de seguridad del diseño de la pantalla de inicio también se almacenarán en Xiaomi Cloud. Podrá ver todos los elementos sincronizados en i.mi.com."</string>
+    <string name="cloud_service_title">Xiaomi Cloud</string>
     <string name="cloud_space_full_gallery_notification_content_text">Actualice su plan para obtener más espacio de almacenamiento en la nube</string>
     <string name="cloud_storage_already_full">El almacenamiento en la nube está lleno: %1$s/%2$s</string>
     <string name="cloud_storage_already_used">Ocupado: %1$s/%2$s</string>
@@ -306,7 +308,7 @@
     <string name="micloud_find_device_common_sms_alert_with_charge_hint">"&lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS de pago&lt;/b&gt;&lt;/font&gt; se enviarán automáticamente para activar este servicio.&lt;br/&gt;Cuando cambie de tarjeta SIM, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS de pago&lt;/b&gt;&lt;/font&gt; se enviarán automáticamente para su reactivación.&lt;br/&gt;Todas las tarifas de SMS generadas por las acciones antes mencionadas serán cobradas por su operador. Xiaomi no te cobrará por estos mensajes."</string>
     <string name="micloud_find_device_domestic_sms_alert_with_charge_hint">"&lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS nacionales de pago&lt;/b&gt;&lt;/font&gt; se enviarán automáticamente para activar este servicio.&lt;br/&gt;Cuando cambie de tarjeta SIM, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS de pago nacionales&lt;/b&gt;&lt;/font&gt; se enviarán automáticamente para su reactivación.&lt;br/&gt;Todas las tarifas de SMS generadas por las acciones antes mencionadas serán cobradas por su operador. Xiaomi no te cobrará por estos mensajes."</string>
     <string name="micloud_find_device_finish">Listo</string>
-    <string name="micloud_find_device_guide_alert_content">Encontrar dispositivo está asociado con su cuenta Mi. Debe establecer una contraseña o ingresar la contraseña que estableció. Asegúrese de recordar siempre su ID y contraseña de Mi Cuenta.</string>
+    <string name="micloud_find_device_guide_alert_content">"Encontrar dispositivo está asociado con su cuenta Mi. Debe establecer una contraseña o ingresar la contraseña que estableció. Asegúrese de recordar siempre su ID y contraseña de Mi Cuenta."</string>
     <string name="micloud_find_device_guide_alert_negtive">No, gracias</string>
     <string name="micloud_find_device_guide_alert_negtive_activate">No, gracias</string>
     <string name="micloud_find_device_guide_alert_positive">Aceptar</string>
@@ -599,6 +601,7 @@ Esta característica encripta y envía el ID de su dispositivo a los servidores 
     <string name="noti_quota_low_title_without_button">No hay suficiente almacenamiento en la nube</string>
     <string name="notification_sync_fail_title">"No se pudieron sincronizar las contraseñas"</string>
     <string name="notification_update_key_text">Se cambió la contraseña del administrador de contraseñas. Verifique el nuevo código de acceso.</string>
+    <string name="open_service_title">Activar</string>
     <string name="pay_info_dialog_confirm_to_pay">Pagar %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Usar Monedas Mi restantes: %s</string>
     <string name="pay_info_dialog_title">Seleccionar método de pago</string>

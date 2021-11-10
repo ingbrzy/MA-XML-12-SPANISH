@@ -281,9 +281,12 @@ Si necesita activar Miracast, presione el botón [MENU] y seleccione Mis aplicac
     <string name="path_setting_cast_demo_game">Conexión y compartir/Emitir/Demos/Juegos</string>
     <string name="path_setting_cast_feature">Conexión y compartir/Emitir/Funciones especiales</string>
     <string name="path_setting_cast_help">Conexión y compartir/Emitir/Ayuda</string>
+    <string name="permission_allowed">Concedido</string>
+    <string name="permission_uballowed">No concedido</string>
+    <string name="pre_privacy_setting_title">Privacidad</string>
     <string name="preference_copied">Se copió \"%1$s\" en el portapapeles.</string>
     <string name="privacy_agree">Aceptar</string>
-    <string name="privacy_detail">&lt;Data&gt;Esta aplicación necesita conectarse a Internet y recopilar los datos personales necesarios para poder funcionar normalmente. Para comprender plenamente sus derechos como usuario, así como las formas en que usamos sus datos, lea y acepte nuestro &lt;a href=%1$s&gt;Acuerdo de usuario&lt;/a&gt; y nuestra &lt;a href=%2$s&gt;Política de privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="privacy_detail">Permita que esta aplicación se conecte a Internet y otorgue los permisos necesarios antes de continuar.</string>
     <string name="privacy_detail_extra">&lt;Data&gt;Algunas características son proporcionadas por un proveedor de servicios externo HappyCast. Antes de usar esta función, lea y acepte la &lt;a href=%1$s&gt;Política de privacidad de HappyCast&lt;/a&gt; y la &lt;a href=%2$s&gt;Declaración legal de HappyCast&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="privacy_explain">"¡Bienvenido a Proyectar! Proyectar permite proyectar los elementos desde la pantalla de su teléfono en un monitor externo más grande. Esta aplicación necesita conectarse a Internet y requiere los siguientes permisos para poder funcionar normalmente:"</string>
     <string name="privacy_negative">Salir</string>
@@ -301,6 +304,24 @@ Si necesita activar Miracast, presione el botón [MENU] y seleccione Mis aplicac
     <string name="privacy_permission_wlan_desc">Para encontrar dispositivos cercanos disponibles</string>
     <string name="privacy_permission_wlan_desc_china">Para encontrar dispositivos cercanos disponibles</string>
     <string name="privacy_positive">Acepto</string>
+    <string name="privacy_revoke_confirm_cancel">Cancelar</string>
+    <string name="privacy_revoke_confirm_message">"No podrá seguir usando las funciones de transmisión a menos que nos permita brindar nuestros servicios en función de la recopilación de la información personal necesaria. ¿Retirar el consentimiento a la Política de privacidad de HappyCast de todos modos?"</string>
+    <string name="privacy_revoke_confirm_sure">OK</string>
+    <string name="privacy_revoke_confirm_title">"No se pueden utilizar los servicios"</string>
+    <string name="privacy_revoke_dialog_agree">De acuerdo</string>
+    <string name="privacy_revoke_dialog_message">"Si continúa, retirará su consentimiento a la Política de privacidad de HappyCast. La información personal ya recopilada y retenida se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables a menos que se requiera lo contrario. Como HappyCast proporciona sus servicios en base a la recopilación de la información personal necesaria, su retiro de consentimiento se considerará como negarse a aceptar los servicios de HappyCast. ¿Retirar el consentimiento ahora?"</string>
+    <string name="privacy_revoke_dialog_revoke">Retirar</string>
+    <string name="privacy_revoke_dialog_title">Retiro del consentimiento</string>
+    <string name="privacy_setting_category_1">Política de privacidad</string>
+    <string name="privacy_setting_category_2">Política de privacidad de HappyCast</string>
+    <string name="privacy_setting_category_3">Permisos</string>
+    <string name="privacy_setting_permission_manager">Administrar permisos</string>
+    <string name="privacy_setting_revoke_lelink_policy">Retiro del consentimiento a la Política de privacidad de HappyCast</string>
+    <string name="privacy_setting_show_authority">Detalles de permisos</string>
+    <string name="privacy_setting_show_lelink_law">Ver declaración legal de HappyCast</string>
+    <string name="privacy_setting_show_lelink_policy">Ver la política de privacidad de HappyCast</string>
+    <string name="privacy_setting_show_policy">Ver política de privacidad</string>
+    <string name="privacy_setting_show_user_agreement">Ver acuerdo de usuario</string>
     <string name="privacy_text_1">&lt;Data&gt;¡Bienvenido a Casting! Casting le permite proyectar elementos desde la pantalla de su teléfono hacia un monitor externo más grande.
 Protegeremos su información personal de acuerdo con las leyes, regulaciones y políticas de privacidad relevantes. Algunas funciones son proporcionadas por el proveedor de servicios HappyCast. Antes de usar esta función, lea y acepte la &lt;a href=%2$s&gt;Declaración Legal de HappyCast&lt;/a&gt; y la &lt;a href=%1$s&gt;Política de Privacidad de HappyCast&lt;/a&gt;.
 Esta aplicación necesita conectarse a internet para funcionar correctamente. También necesita de los siguientes permisos para recolectar su información personal:&lt;/Data&gt;</string>
@@ -311,6 +332,9 @@ Lea y acepte nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &
 　　•Acceder al número telefónico, IMEI e IMSI para identificar su dispositivo
 　　•Acceder a su ubicación para encontrar dispositivos cercanos"</string>
     <string name="privacy_title">Atención</string>
+    <string name="privacy_update_dialog_negative_btn">Cancelar</string>
+    <string name="privacy_update_dialog_positive_btn">De acuerdo</string>
+    <string name="privacy_update_dialog_quit">Salir</string>
     <string name="private_protect">Ocultar elementos privados</string>
     <string name="san_wait_msg_1">Active la transmisión inalámbrica en el dispositivo de destino</string>
     <string name="san_wait_msg_2">La búsqueda de dispositivos podría tomar un tiempo…</string>

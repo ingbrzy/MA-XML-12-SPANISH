@@ -33,6 +33,9 @@
     <string name="am">AM</string>
     <string name="app_name">Complemento de servicio del sistema</string>
     <string name="app_select_title">Agregar aplicaciones usadas frecuentemente</string>
+    <string name="auto_task_now_city">Ubicación actual</string>
+    <string name="auto_task_search_address_point">Buscar ubicaciones</string>
+    <string name="auto_task_select_city">Seleccionar ciudad</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_button">Cancelar</string>
     <string name="character_counter_content_description">Caracteres ingresados %1$d de %2$d</string>
@@ -111,7 +114,7 @@
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
     <string name="game_booster">Acelerador de velocidad en los juegos</string>
-    <string name="gamebooster_network_dialog_message">¿Permitir a Seguridad conectarse a la red para usar todas las funciones del acelerador de juegos?</string>
+    <string name="gamebooster_network_dialog_message">¿Permitir que Security se conecte a la red para utilizar todas las funciones de Game Turbo?</string>
     <string name="gamebooster_network_dialog_title">"Algunas funciones no están disponibles"</string>
     <string name="gamebox_no_network_btn">Actualizar</string>
     <string name="gb_adv_touch_adv_title">Modo clásico (predeterminado)</string>
@@ -190,6 +193,9 @@
     <string name="gb_pannel_control_mode_power_saving">Ahorrar energía</string>
     <string name="gb_weixinpay_can_not_complete">"No se puede completar el pago. Instalar para continuar."</string>
     <string name="gdpr_msg">&lt;Data&gt;Para poder usar las funciones básicas de Seguridad, debe aceptar que Xiaomi recopilará, procesará y usará su información personal, incluida información sobre la manera en que usa las funciones de Seguridad (p. ej. estadísticas del uso de datos móviles, información sobre malware, así como información básica de su dispositivo) y otro tipo de información especificada en nuestra &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="gtb_dialog_privacy_speed_message">"Estás a punto de usar Xunyou Game Booster. Este servicio recopilará su ID de cuenta Mi para registrar la duración de su membresía."</string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>\"He leído y acepto la Política de privacidad de &lt;a href=\"%1$s\"&gt;&lt;/a&gt;\"</Data></string>
+    <string name="gtb_dialog_privacy_speed_title">Optimizador de juegos Xunyou</string>
     <string name="hybrid_provider">Proporcionado por %1$s</string>
     <string name="icon_content_description">Icono de diálogo</string>
     <string name="install_success">%s Install Success</string>
@@ -199,6 +205,8 @@
     <string name="miuishare_title_more">Más</string>
     <string name="miuishare_title_share">Compartir</string>
     <string name="miuishare_wechat_timeline_title">Momentos WeChat</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -213,6 +221,8 @@
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>

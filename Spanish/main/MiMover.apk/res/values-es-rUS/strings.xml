@@ -33,6 +33,7 @@
     <string name="am">AM</string>
     <string name="antispam">Lista de bloqueados</string>
     <string name="app_name">Mi Mover</string>
+    <string name="app_update_title">Actualizar todas las aplicaciones</string>
     <string name="appname_app_data_suffix">%1$s datos de la aplicación</string>
     <string name="audio">Sonido</string>
     <string name="audio_video_document">Audio, video y documentos</string>
@@ -158,6 +159,7 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="err_bakfile_broken">"No se puede usar este respaldo."</string>
     <string name="err_bakfile_not_exist">"El archivo de respaldo no existe."</string>
     <string name="err_binder_died">La app se detuvo inesperadamente.</string>
+    <string name="err_install_incompatible">Problema de compatibilidad</string>
     <string name="err_low_storage">No hay suficiente espacio de almacenamiento</string>
     <string name="err_no_gms">Versión de la app incompatible. Instala esta app por separado.</string>
     <string name="err_not_allow">No soportado</string>
@@ -199,8 +201,8 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="guest_unfinished_task_alert_btn_positive">Continuar</string>
     <string name="guest_unfinished_task_alert_message">Parece que tienes tareas de transferencia sin finalizar. ¿Continuar con la transferencia?</string>
     <string name="guest_unfinished_task_alert_title">Tareas sin finalizar</string>
-    <string name="guest_wainting_title">Continuar en su nuevo dispositivo</string>
     <string name="hide_password_description">Ocultar contraseña</string>
+    <string name="high_temp_summary">Su dispositivo puede calentarse mientras transfiere grandes cantidades de datos. Esto es normal y su dispositivo se enfriará una vez que se complete la transferencia.</string>
     <string name="host_boot_installation_bottom_tips">"¿No encuentras Mi Mover? Toca para descargar."</string>
     <string name="host_boot_installation_button">Siguiente</string>
     <string name="host_boot_installation_content">"1. Ve a Ajustes en tu dispositivo antiguo.
@@ -225,10 +227,6 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="host_memory_insuff_summary">"No hay suficiente espacio de almacenamiento en el dispositivo nuevo para comenzar a transferir."</string>
     <string name="host_memory_insuff_title">No hay suficiente espacio de almacenamiento</string>
     <string name="host_new_device_hint">Este dispositivo</string>
-    <string name="host_verify_lock_hint">Ingresar bloqueo de pantalla</string>
-    <string name="host_verify_lock_retry">Confirmar bloqueo de pantalla</string>
-    <string name="host_verify_lock_summary">"Este se convertirá en el bloqueo de pantalla de su nuevo dispositivo"</string>
-    <string name="host_verify_lock_title">"Ingrese el bloqueo de pantalla de su dispositivo anterior"</string>
     <string name="hsa_code_null">"El código de verificación no puede estar vacío"</string>
     <string name="hsa_input_tip">Tu Apple ID usas autenticación de dos pasos. Ingresa el código de verificación.</string>
     <string name="hsa_send_again">Enviar nuevamente</string>
@@ -259,9 +257,6 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="icloud_signin_fail_message">Tu Apple ID fue bloqueado por razones de seguridad. Ve a iforgot.apple.com y sigue las instrucciones.</string>
     <string name="icloud_start_now">Usar datos móviles</string>
     <string name="icloud_verify_tips">Presiona Permitir en tu dispositivo iOS e ingresa acá el código que aparece.</string>
-    <string name="idm_discovery_positive_text">Transferir</string>
-    <string name="idm_discovery_summary">"Parece que ahora estás activando un nuevo dispositivo. ¿Transferir elementos de este dispositivo al nuevo?"</string>
-    <string name="idm_discovery_title">Transfiere elementos a tu nuevo dispositivo</string>
     <string name="im_recipient">"Yo estoy recibiendo"</string>
     <string name="im_sender">"Yo estoy enviando"</string>
     <string name="image">Imágenes</string>
@@ -289,9 +284,6 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="loading_data">Un momento...</string>
     <string name="location_permission_desc">Para encontrar dispositivos cercanos</string>
     <string name="location_permission_request">Para conectarse a otros dispositivos cercanos</string>
-    <string name="lockscreen_access_pattern_cell_added">Celda agregada</string>
-    <string name="lockscreen_access_pattern_cleared">Patrón borrado</string>
-    <string name="lockscreen_access_pattern_start">Patrón iniciado</string>
     <string name="login">Iniciar sesión</string>
     <string name="login_failed">"No se pudo iniciar sesión. Intenta nuevamente."</string>
     <string name="logining">Iniciando sesión...</string>
@@ -307,6 +299,7 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="main_sender_title">Antiguo</string>
     <string name="manual_connection_hint">Toca \"Conectar manualmente\" en tu dispositivo anterior.</string>
     <string name="manual_connection_title">Conecta el dispositivo antiguo a este punto de acceso</string>
+    <string name="message_request_manage_external_storage_perm">Mi Mover necesita acceder a todos los archivos de este dispositivo para poder moverlos de su dispositivo anterior a uno nuevo.</string>
     <string name="message_request_package_stats_perm">Toca \"Continuar\" para abrir los Ajustes y otorgar a Mi Mover los permisos necesarios.</string>
     <string name="midnight">Noche</string>
     <string name="miui_need_location_permission_summary">"Permita que Mi Mover acceda a su ubicación para encontrar dispositivos cercanos. No podrá usar Mi Mover a menos que conceda este permiso."</string>
@@ -332,6 +325,7 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado correctamente</string>
@@ -479,6 +473,7 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="password">Ingresa contraseña</string>
     <string name="password_null">"La contraseña no puede estar vacía"</string>
     <string name="perm_location">Acceder a la ubicación</string>
+    <string name="perm_manage_external_storage">Acceder a todos los archivos</string>
     <string name="perm_package_stats">Acceder a datos de uso de la app</string>
     <string name="perm_read_call_log">Acceder al historial de llamadas</string>
     <string name="perm_read_contacts">Acceder a contactos</string>
@@ -520,9 +515,7 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="prompt_before_transmission_message4_title">Mantente conectado durante la transferencia</string>
     <string name="prompt_before_transmission_message5_summary">"Transferir grandes cantidades de datos inalámbricamente podría causar un poco de sobrecalentamiento que no es anormal. Tu dispositivo se enfriará tan pronto como la transferencia finalice."</string>
     <string name="prompt_before_transmission_message5_title">Tu dispositivo se podría calentar durante las transferencias.</string>
-    <string name="provision_cta_title">Transferir desde dispositivo antiguo</string>
     <string name="provision_receiver_finish_button">Siguiente</string>
-    <string name="provision_select_data_null">Seleccionar elementos para transferir</string>
     <string name="qq_app">QQ</string>
     <string name="qq_app_receive_fail">"No se pudo recibir QQ"</string>
     <string name="qq_app_send_fail">"No se pudo enviar QQ"</string>
@@ -533,8 +526,6 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="receiver_finish_detail_fail">"No se pudo transferir"</string>
     <string name="receiver_finish_detail_success">Elementos transferidos</string>
     <string name="receiver_finish_title">"¡Ya está todo listo!"</string>
-    <string name="receiver_video_summary">Desbloquea tu dispositivo anterior, toca \"Transferir\" y escanea esta imagen</string>
-    <string name="receiver_video_title">Transferir desde dispositivo antiguo</string>
     <string name="reconnect">Reconectar</string>
     <string name="recreate_soft_ap_tips">Toca el botón de abajo para intentar otra vez.</string>
     <string name="request_all_permission_content">"Mi Mover necesita acceder a los siguientes elementos para poder transferir elementos a un nuevo dispositivo:
@@ -599,14 +590,11 @@ Libera al menos %s."</string>
     <string name="sender">Enviar</string>
     <string name="sender_finish_bottom_tips">"Asegúrese de haber realizado una copia de seguridad de todos los elementos importantes antes de borrar los datos de este dispositivo."</string>
     <string name="sender_finish_title">Transferencia exitosa</string>
-    <string name="sender_scanning_code">Coloca la imagen en el marco</string>
-    <string name="sender_scanning_connecting">Conectando con un nuevo dispositivo…</string>
     <string name="settings_phone">Ajustes del teléfono</string>
     <string name="settings_powerkeeper">Datos de contador de pasos</string>
     <string name="settings_sms">Ajustes de mensajería</string>
     <string name="settings_system">Ajustes del sistema</string>
     <string name="settings_wifi">Ajustes de Wi-Fi</string>
-    <string name="skip_transfer">Saltar</string>
     <string name="skip_underline">Saltar este paso</string>
     <string name="soft_ap_create_failed">"No se pudo crear el punto de acceso"</string>
     <string name="soft_ap_creating">Creando punto de acceso...</string>
@@ -699,6 +687,7 @@ Libera al menos %s."</string>
     <string name="time_spent">Tiempo: %1$s</string>
     <string name="title_open_wlan">Encienda el Wi-Fi</string>
     <string name="title_request_alert_window_perm">Permitir ventanas flotantes</string>
+    <string name="title_request_manage_external_storage_perm">Permisos requeridos</string>
     <string name="title_request_package_stats_perm">Permisos necesarios</string>
     <string name="title_request_write_settings_perm">Permisos para cambiar ajustes del sistema necesarios</string>
     <string name="today">Hoy</string>

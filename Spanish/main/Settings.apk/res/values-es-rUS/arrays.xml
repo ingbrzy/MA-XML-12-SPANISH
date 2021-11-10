@@ -344,9 +344,9 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Audio Qualcomm® aptX™ TWS+</item>
-        <item>LHDC_V3</item>
-        <item>LHDC_V2</item>
-        <item>LHDC_V1</item>
+        <item>LHDC V3/V4</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>Habilitar codecs opcionales</item>
         <item>Deshabilitar codecs opcionales</item>
     </string-array>
@@ -359,9 +359,9 @@
         <item>LDAC</item>
         <item>Audio Qualcomm® aptX™ Adaptive</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC_V3</item>
-        <item>LHDC_V2</item>
-        <item>LHDC_V1</item>
+        <item>LHDC V3/V4</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>Habilitar codecs opcionales</item>
         <item>Deshabilitar codecs opcionales</item>
     </string-array>
@@ -1210,7 +1210,7 @@ Nota: solo para Ubuntu 8.04"</item>
         <item>256 KB por buffer de registro</item>
         <item>1 MB por buffer de registro</item>
         <item>4 MB por buffer de registro</item>
-        <item>16 MB por buffer de registro</item>
+        <item>8 MB por búfer de registro</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Desactivado</item>
@@ -1218,7 +1218,7 @@ Nota: solo para Ubuntu 8.04"</item>
         <item>256 KB</item>
         <item>1 MB</item>
         <item>4 MB</item>
-        <item>16 MB</item>
+        <item>8 MB</item>
     </string-array>
     <string-array name="select_logd_system_levels">
         <item>Desactivado</item>

@@ -157,6 +157,9 @@
     <string name="adjust_traffic_carrier_summary_two_day_before">Actualizado hace 2 días</string>
     <string name="adjust_traffic_carrier_summary_yesterday">Actualizado ayer a las %s</string>
     <string name="adjust_traffic_data">Establecer uso de datos</string>
+    <string name="adv_permission_text">Permisos</string>
+    <string name="adv_privacy_text">Intimidad</string>
+    <string name="adv_version_text">Versión: %s</string>
     <string name="after_the_lock_screen">Bloquear aplicaciones junto con la pantalla</string>
     <string name="afternoon">Tarde</string>
     <string name="ai_allow_all">Decidir por mí en todos los casos</string>
@@ -894,6 +897,15 @@ No perderá ningún dato de aplicación."</string>
     <string name="battery_status_overheat">Sobrecalentamiento</string>
     <string name="battery_status_unknown">Error desconocido</string>
     <string name="battery_temperature_title">Temperatura</string>
+    <string name="beauty_fc_assistant">Asistente de cámara frontal</string>
+    <string name="beauty_fc_assistant_summary">Use la luz de relleno y embellezca con la cámara frontal</string>
+    <string name="beauty_fc_fill_lamp">Luz de relleno</string>
+    <string name="beauty_fc_light">Rellena el brillo de la luz</string>
+    <string name="beauty_fc_video_call">Embellecer para videollamadas</string>
+    <string name="beauty_fc_video_call_summary">Mostrar opciones de Embellecimiento durante las videollamadas de WeChat</string>
+    <string name="beauty_fun_filter">Embellecer</string>
+    <string name="beauty_fun_light">Luz de relleno</string>
+    <string name="beauty_settings">Ajustes</string>
     <string name="before_execute_notify">before_exclude_notify</string>
     <string name="begin_date">Fecha de reinicio de uso</string>
     <string name="behavior_widget_get_installed_apps">Aplicaciones accedidas</string>
@@ -1193,6 +1205,7 @@ Su operador podría cobrarle cargos adicionales si vuelve a activar los datos m�
     <string name="descx_quick_scan_preparation">Un momento…</string>
     <string name="detail_app_button">Info de la aplicación</string>
     <string name="details_subtitle">Detalles de uso</string>
+    <string name="dev_sign_notification_content">"Estás usando Android 12 Beta ahora. Los comentarios que nos brinde nos ayudarán a identificar y solucionar problemas. ¡Gracias por participar en este programa!"</string>
     <string name="device_manager_apply_step_1">¿Activar el administrador de dispositivos para esta aplicación?</string>
     <string name="device_manager_apply_step_2">"Activar el administrador de dispositivo para esta aplicación podría provocar la exposición de sus datos personales.
 Todos los datos en su dispositivo podrían ser borrados y su contraseña de bloqueo de pantalla restaurada."</string>
@@ -1496,6 +1509,7 @@ voluntario"</string>
     <string name="exception_notify_message">"No se pudieron calcular las estadísticas de datos debido a un error. Reiniciar para restaurar."</string>
     <string name="exception_titile">Ha ocurrido un error</string>
     <string name="exit">Salir</string>
+    <string name="exit_category">exit_category</string>
     <string name="exit_dialog_exit">Salir</string>
     <string name="exit_dialog_garbage_clean_message">La cantidad de basura en su dispositivo es más de %s. ¿Borrar basura?</string>
     <string name="exit_dialog_garbage_clean_message_new">&lt;Data&gt;El limpiador puede liberar &lt;font color=#0099ff&gt;%s&lt;/font&gt; de espacio de almacenamiento. ¿Limpiar ahora?&lt;/Data&gt;</string>
@@ -2013,6 +2027,27 @@ de sus sesiones de juego"</string>
     <string name="gb_xunyou_gift_type_one">1 día de Aceleración Xunyou</string>
     <string name="gb_xunyou_gift_type_three">3 días de Aceleración Xunyou</string>
     <string name="gb_xunyou_gift_type_two">2 días de Aceleración Xunyou</string>
+    <string name="gd_app_edit_done">Hecho</string>
+    <string name="gd_app_edit_title">Agregar aplicaciones</string>
+    <string name="gd_app_edit_title_new">Editar accesos directos de ventana flotante</string>
+    <string name="gd_setting_desc_action1">Abrir ventana flotante</string>
+    <string name="gd_setting_desc_action2">Usar un acceso directo</string>
+    <string name="gd_setting_group_custom_gtb_apps">Juegos</string>
+    <string name="gd_setting_group_custom_line_location">Posición de la caja de herramientas</string>
+    <string name="gd_setting_group_custom_settings">Personalización</string>
+    <string name="gd_setting_group_custom_vtb_apps">Aplicaciones de video</string>
+    <string name="gd_setting_group_smart_tool_box">Caja de herramientas inteligente</string>
+    <string name="gd_setting_group_title_switch">Escenas</string>
+    <string name="gd_setting_gtb">Mostrar mientras juegas</string>
+    <string name="gd_setting_gtb_desc">Funciones especiales para juegos</string>
+    <string name="gd_setting_guide_one">Toque para abrir la ventana flotante</string>
+    <string name="gd_setting_guide_three">Desliza el dedo desde el borde para abrir accesos directos de juego</string>
+    <string name="gd_setting_guide_two">Desliza el dedo desde el borde para abrir la caja de herramientas de video</string>
+    <string name="gd_setting_miui_dock">Mostrar siempre</string>
+    <string name="gd_setting_shorthand">Notas rápidas</string>
+    <string name="gd_setting_title">Caja de herramientas inteligente</string>
+    <string name="gd_setting_vtb">Mostrar mientras se reproducen videos</string>
+    <string name="gd_setting_vtb_desc">Funciones especiales para la reproducción de video</string>
     <string name="gdpr_msg">&lt;Data&gt;Para poder detectar riesgos de seguridad y proteger sus datos, necesitamos recopilar la cantidad necesaria de información sobre su dispositivo. Lea y acepte nuestra &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Política de privacidad&lt;/a&gt; antes de utilizar nuestros servicios. En caso de que no nos permita recopilar dicha información, aún podrá usar esta aplicación, pero algunas funciones no estarán disponibles para usted. &lt;/Data&gt;</string>
     <string name="get_detail_by_click">Toque para ver detalles</string>
     <string name="get_sys_info">Obteniendo info…</string>
@@ -2078,10 +2113,10 @@ de sus sesiones de juego"</string>
     <string name="gtb_dialog_btn_open">Activar</string>
     <string name="gtb_dialog_hint_smart_5g">Puede activar y desactivar esta función en Game Turbo &gt; Ajustes.</string>
     <string name="gtb_dialog_privacy_speed_message">"Estás a punto de usar Xunyou Game Booster. Este servicio recopilará su ID de cuenta Mi para registrar la duración de su membresía."</string>
-    <string name="gtb_dialog_privacy_speed_tips">"He leído y acepto la Política de privacidad de Xunyou Game Booster."</string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>\"He leído y acepto la Política de privacidad de &lt;a href=\"%1$s\"&gt;&lt;/a&gt;\"</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Optimizador de juegos Xunyou</string>
     <string name="gtb_dialog_privacy_voice_message">"Estás a punto de usar Xunyou Game Voice Changer. Este servicio recopilará su ID de cuenta Mi para registrar la duración de su membresía."</string>
-    <string name="gtb_dialog_privacy_voice_tips">"He leído y acepto la Política de privacidad de Xunyou Game Voice Changer."</string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>\"He leído y acepto la Política de privacidad de &lt;a href=\"%1$s\"&gt;&lt;/a&gt;\"</Data></string>
     <string name="gtb_dialog_privacy_voice_title">Cambiador de voz del juego Xunyou</string>
     <string name="gtb_dialog_summary_smart_5g">Cada vez que Game Turbo detecta una red 5G, puede conectar su dispositivo a la mejor red disponible para reducir el retraso de red. ¿Activar ahora esta función?</string>
     <string name="gtb_dialog_title_smart_5g">Optimización de redes 5G</string>
@@ -2454,6 +2489,7 @@ Su dispositivo ahora es un %d%% más rápido."</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Deslice hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
@@ -2617,6 +2653,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="night">Noche</string>
     <string name="no_game">"No se encontraron juegos"</string>
     <string name="no_open">Ahora no</string>
+    <string name="no_privacy_permission">No se requiere consentimiento a la Política de privacidad</string>
     <string name="noon">Mediodía</string>
     <string name="not_limited_brand">Ilimitado</string>
     <string name="not_set">Sin definir</string>
@@ -2860,7 +2897,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="pc_hidemode_normal_title">Equilibrado</string>
     <string name="pc_hidemode_performance">Rendimiento</string>
     <string name="pc_hidemode_performance_title">Modo de rendimiento</string>
-    <string name="pc_hidemode_power_save">Potencia</string>
+    <string name="pc_hidemode_power_save">Ahorra batería</string>
     <string name="pc_install_manager">Instalar vía USB</string>
     <string name="pc_main_activity_back">Atrás</string>
     <string name="pc_main_battery_text_day">%1$s min agregados. Alrededor de %2$s d restantes</string>
@@ -4461,6 +4498,7 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="summary_realname_verify">Verifique su identidad para realizar pagos más seguros.</string>
     <string name="summary_restrict_data_usage">Has restringido el uso de datos para esta aplicación.</string>
     <string name="summary_result_screen_brightness_format">Establecer el brillo de la pantalla en %s</string>
+    <string name="summary_safe_mode">Neutralizar los riesgos durante la instalación</string>
     <string name="summary_show_notification">Limpiar caché, ver estado de la batería y bloquear elementos en el panel de notificaciones</string>
     <string name="summary_telecom_operator">Obtenga las estadísticas de uso de datos mensual de su operador</string>
     <string name="summary_usb">Prevenir la transmisión de malware a través de USB</string>
@@ -4803,6 +4841,7 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="title_result_typeface">Tamaño de texto &amp; peso de fuente</string>
     <string name="title_result_wlan">Wi-Fi</string>
     <string name="title_result_zen_mode">Modo DND</string>
+    <string name="title_safe_mode">Activar el modo seguro</string>
     <string name="title_show_notification">Widget del panel de notificaciones</string>
     <string name="title_system_auto_download">Las actualizaciones se descargarán automáticamente</string>
     <string name="title_telecom_operator">Auto ajustar</string>
@@ -4989,12 +5028,17 @@ Los datos restantes incluyen datos transferidos desde el mes anterior."</string>
     <string name="vb_ve_settings_display_style_tips_new">*Los efectos se aplicarán solo al área de reproducción de video</string>
     <string name="vb_ve_settings_pic_border_stronger">Contornos mejorados</string>
     <string name="vb_ve_settings_picture_stronger">Animaciones mejoradas</string>
+    <string name="vb_video_effects_3d">Sonido envolvente</string>
+    <string name="vb_video_effects_3d_summary">Mejora la profundidad de reproducción del sonido para auriculares y altavoces</string>
+    <string name="vb_video_effects_3d_surround">Sonido envolvente</string>
     <string name="vb_video_effects_display_style">Estilo</string>
     <string name="vb_video_effects_dolby">Dolby Atmos</string>
     <string name="vb_video_effects_dolby_dialog_enhancer">Diálogo mejorado</string>
     <string name="vb_video_effects_dolby_headset">" (Solo auriculares)"</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmos está encendido</string>
     <string name="vb_video_effects_dolby_stereo_expansion">Estéreo expandido</string>
+    <string name="vb_video_effects_liquid_summary">Mejore la claridad del diálogo en los videos</string>
+    <string name="vb_video_effects_only_headphone">Solo funciona con auriculares</string>
     <string name="vb_video_effects_setting_black_white">B&amp;W</string>
     <string name="vb_video_effects_setting_cinema">Cine</string>
     <string name="vb_video_effects_setting_girl">Rubor</string>
@@ -5012,6 +5056,10 @@ Los datos restantes incluyen datos transferidos desde el mes anterior."</string>
     <string name="vb_video_effects_setting_warmth">Cálido</string>
     <string name="vb_video_effects_settings_liquid">Claridad</string>
     <string name="vb_video_effects_settings_stereo">Volumen</string>
+    <string name="vb_video_effects_some_headphone">Compatible con modelos de auriculares seleccionados</string>
+    <string name="vb_video_effects_spatial">Seguimiento del movimiento de la cabeza</string>
+    <string name="vb_video_effects_spatial_summary">"Ajuste el sonido envolvente según el movimiento de la cabeza
+* Solo compatible con modelos de auriculares para juegos"</string>
     <string name="vb_video_effects_srs_premium_sound">Sonido</string>
     <string name="vb_video_super_division">Reescalar</string>
     <string name="vb_video_super_division_desc">"Mejora la resolución automáticamente cuando es ≤720p.

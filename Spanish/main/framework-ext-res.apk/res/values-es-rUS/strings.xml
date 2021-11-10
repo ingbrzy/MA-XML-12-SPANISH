@@ -162,6 +162,9 @@
     <string name="global_actions_reboot">Reiniciar</string>
     <string name="global_actions_shutdown">Apagar</string>
     <string name="global_actions_silent_mode">Modo silencio</string>
+    <string name="global_pad">Mi tablet</string>
+    <string name="global_pc">Mi laptop</string>
+    <string name="global_phone">Mi teléfono</string>
     <string name="glockenspiel">Xilófono</string>
     <string name="glorious">Gloria</string>
     <string name="greenandblue">Arcoíris</string>
@@ -199,6 +202,7 @@
     <string name="lockscreen_access_pattern_start">Patrón iniciado</string>
     <string name="lockscreen_carrier_customized">Servicio limitado</string>
     <string name="lollipop">Lollipop</string>
+    <string name="magic_window_toast">Multiplicador de aplicaciones habilitado.</string>
     <string name="makewishes">Deseo de cumpleaños</string>
     <string name="maml_component_customization_title">Ajustes</string>
     <string name="martix">Matrix</string>
@@ -294,6 +298,11 @@
     <string name="redmi_note_5">Redmi Note 5</string>
     <string name="redmi_note_7">Redmi Note 7</string>
     <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
+    <string name="relaunch_dialog_alwaysUsePrompt">Recordar mi elección</string>
+    <string name="relaunch_dialog_button_cancel">Cancelar</string>
+    <string name="relaunch_dialog_button_confirm">OK</string>
+    <string name="relaunch_dialog_message">"No se puede ajustar el tamaño de la ventana mientras usa la aplicación. Puede reiniciar la aplicación para ajustar el tamaño de la ventana, pero los datos de la aplicación generados durante esta sesión se perderán. ¿Reiniciar de todos modos?"</string>
+    <string name="relaunch_dialog_title">¿Reiniciar \"%s\"?</string>
     <string name="remain">Restante: %s</string>
     <string name="replace">Reemplazar</string>
     <string name="resolver_app_recommend_flag">Recomendar</string>
@@ -314,7 +323,9 @@
     <string name="screen_button_notification_title">Los botones de navegación están desactivados</string>
     <string name="screen_on_proximity_sensor_hint">Para desactivar esta función, presione simultáneamente los botones de Subir volumen y Atrás.</string>
     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Para desactivar esta función, presione el botón de Subir volumen.</string>
+    <string name="screen_on_proximity_sensor_hint_has_navigation_bar_for_kddi">Para desactivar esta función, presione el botón Subir volumen.</string>
     <string name="screen_on_proximity_sensor_summary">"No cubrir la zona del auricular"</string>
+    <string name="screen_on_proximity_sensor_summary_for_kddi">"No cubra el sensor de luz ambiental"</string>
     <string name="screen_on_proximity_sensor_title">Modo bolsillo</string>
     <string name="screen_paper_mode_enter_toast">Modo lectura activado. Para desactivar esta función, vaya a Configuración &gt; Pantalla &gt; Modo lectura.</string>
     <string name="screen_rotation_freeze_message">Rotación automática desactivada.</string>
@@ -447,7 +458,7 @@
     <string name="wifi_assistant_wifi_no_internet_detail">Toque para ver detalles</string>
     <string name="windchime">Campanas de viento</string>
     <string name="wireless_charging_notification_message1">"No se encontraron dispositivos inalámbricos para cargar. Carga inalámbrica inversa desactivada."</string>
-    <string name="wireless_charging_notification_message2">La batería tiene menos del 30% de carga. Carga inalámbrica inversa desactivada.</string>
+    <string name="wireless_charging_notification_message2">La batería tiene menos de %s carga. La carga inalámbrica inversa está apagada ahora.</string>
     <string name="wireless_charging_notification_message3">Se produjo un error durante la carga. Carga inalámbrica inversa desactivada.</string>
     <string name="wireless_charging_notification_titile">Carga inalámbrica inversa desactivada</string>
     <string name="xiaomi">Mi</string>

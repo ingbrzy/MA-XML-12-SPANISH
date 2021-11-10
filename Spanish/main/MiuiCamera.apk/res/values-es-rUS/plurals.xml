@@ -108,6 +108,10 @@
         <item quantity="other">hace %d minutos</item>
         <item quantity="one">hace 1 minuto</item>
     </plurals>
+    <plurals name="pad_ccc_temperature_warning_msg">
+        <item quantity="other">Su dispositivo está sobrecalentado. La cámara se cerrará en %d segundos. Tus fotos o videos se guardarán automáticamente.</item>
+        <item quantity="one">Su dispositivo está sobrecalentado. La cámara se cerrará en %d segundo. Tus fotos o videos se guardarán automáticamente.</item>
+    </plurals>
     <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s mins</item>
         <item quantity="one">%1$s min</item>

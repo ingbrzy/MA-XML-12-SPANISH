@@ -931,6 +931,7 @@ Introduzca su PIN para desbloquear."</string>
     <string name="fsg_demo_back">Atrás</string>
     <string name="fsg_demo_go_on">Aprender</string>
     <string name="game_status">Reproduciendo</string>
+    <string name="garbage_count">Hay %1$s instancias antiguas</string>
     <string name="global_action_lock_message">Desbloquea el teléfono para ver más opciones</string>
     <string name="global_action_screenshot">Captura de pantalla</string>
     <string name="go_to_web">Ir al navegador</string>
@@ -1371,6 +1372,7 @@ d 'de' MMMM"</string>
     <string name="media_transfer_wired_device_name">Dispositivo de audio con cable</string>
     <string name="media_transfer_wired_usb_device_name">Audífonos con cable</string>
     <string name="megabyte_per_second">MB/s</string>
+    <string name="memory_leak">Pérdida de memoria</string>
     <string name="menu_ime">Cambio de teclado</string>
     <string name="mic_active">Micrófono activado</string>
     <string name="mic_and_camera_recording_announcement">La cámara y el micrófono están grabando</string>
@@ -1431,6 +1433,7 @@ dd/MM"</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Deslice hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
@@ -1750,6 +1753,8 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Seleccionar &lt;font color=#a5220e&gt;\"Limpiar y restaurar\"&lt;/font&gt; y espere a que se reinicie el dispositivo.&lt;/Data&gt;</string>
     <string name="phone_locked_forget_password_suggesstions_title">¿Cómo borrar los datos?</string>
     <string name="phone_locked_string">Este dispositivo está bloqueado</string>
+    <string name="phone_locked_string_owner_user">Demasiados intentos fallidos para ingresar la contraseña del primer espacio. Este dispositivo está bloqueado ahora.</string>
+    <string name="phone_locked_string_second_user">Demasiados intentos fallidos para ingresar la contraseña del segundo espacio. Este dispositivo está bloqueado ahora.</string>
     <string name="picture_color_mode">Modo color de imagen</string>
     <string name="picture_color_mode_desc">Usar sRGB</string>
     <string name="pip_close">Cerrar PIP</string>
