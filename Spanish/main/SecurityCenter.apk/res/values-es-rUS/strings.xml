@@ -723,7 +723,7 @@ No perderá ningún dato de aplicación."</string>
     <string name="auto_task_default_task_summary_listen_music">Reproduce música y selecciona el tipo de auricular</string>
     <string name="auto_task_default_task_summary_meet">Programe la hora de la reunión y active el modo DND</string>
     <string name="auto_task_default_task_summary_noon_break">Programe la hora de la siesta y active el modo DND</string>
-    <string name="auto_task_default_task_summary_save_power">Encienda el Ahorro de batería cuando la batería sea inferior a %s</string>
+    <string name="auto_task_default_task_summary_save_power">Encienda el ahorro de batería cuando la batería esté por debajo del 30%</string>
     <string name="auto_task_default_task_summary_sleep">Programe la hora de acostarse y personalice el comportamiento del dispositivo</string>
     <string name="auto_task_default_task_summary_watch_video">Abra la aplicación, encienda el Wi-Fi, ajuste el volumen</string>
     <string name="auto_task_default_task_title_driver_car">Conducir</string>
@@ -1772,6 +1772,7 @@ voluntario"</string>
     <string name="gamebooster_network_dialog_cn_message">"No puede usar Game Turbo cuando Seguridad no tiene permiso para conectarse a Internet y acceder a su ubicación. ¿Permitir ahora?"</string>
     <string name="gamebooster_network_dialog_message">¿Permitir a Seguridad conectarse a la red para usar todas las funciones de Game Turbo?</string>
     <string name="gamebooster_network_dialog_title">"Algunas funciones no están disponibles"</string>
+    <string name="gamebox_ai_subtitle">Subtítulos AI</string>
     <string name="gamebox_app_not_find">Primero instale la aplicación.</string>
     <string name="gamebox_brightness">Brillo</string>
     <string name="gamebox_browser_not_find">Instale Navegador Mi primero</string>
@@ -3149,6 +3150,11 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="power_center_super_wireless_charge_noti_title">La carga inalámbrica rápida está activada</string>
     <string name="power_center_super_wireless_charge_summary">"Aumente la velocidad del ventilador del enfriador del cargador inalámbrico"</string>
     <string name="power_center_super_wireless_charge_toast_close">La carga inalámbrica rápida está desactivada</string>
+    <string name="power_center_surface_temp_high">Caliente</string>
+    <string name="power_center_surface_temp_higher">Cálido</string>
+    <string name="power_center_surface_temp_low">Frío</string>
+    <string name="power_center_surface_temp_lower">Fresco</string>
+    <string name="power_center_surface_temp_normal">Normal</string>
     <string name="power_center_time_to_boot">Hora de encendido</string>
     <string name="power_center_time_to_shutdown">Hora de apagado</string>
     <string name="power_center_title">Batería</string>

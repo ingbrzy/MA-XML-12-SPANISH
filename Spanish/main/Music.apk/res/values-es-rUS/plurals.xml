@@ -106,6 +106,10 @@ Nota: el archivo también será eliminado del dispositivo."</item>
         <item quantity="other">¿Borrar %d canciones?</item>
         <item quantity="one">¿Borrar %d canción?</item>
     </plurals>
+    <plurals name="dialog_request_delete_permission_descript">
+        <item quantity="other">%d de las canciones seleccionadas se almacenan en una carpeta externa. Otorgue los permisos necesarios para eliminarlos.</item>
+        <item quantity="one">%d de las canciones seleccionadas se almacena en una carpeta externa. Otorgue los permisos necesarios para eliminarlo.</item>
+    </plurals>
     <plurals name="download_finished">
         <item quantity="other">&lt;font color==\"red\"&gt;%d canción&lt;/font&gt; descargadas</item>
         <item quantity="one">&lt;font color==\"red\"&gt;%d canción&lt;/font&gt; descargada</item>

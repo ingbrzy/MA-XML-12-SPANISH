@@ -118,6 +118,11 @@
     <string name="digitaluniverse">Universo digital (estéreo)</string>
     <string name="disable_nfc">Apagado NFC para carga inalámbrica</string>
     <string name="disable_nfc_reverse">NFC desactivado para carga inalámbrica inversa</string>
+    <string name="dock_tip_floatwindow">Mantenga presionada la barra y arrástrela hasta el borde de la pantalla para ingresar a la vista de pantalla dividida.</string>
+    <string name="dock_tip_splitscreen_landscape_drag">Arrastre la barra horizontalmente para intercambiar las posiciones de las dos ventanas de la aplicación.</string>
+    <string name="dock_tip_splitscreen_landscape_float">Mantenga pulsado y arrastre hacia abajo para cambiar a una ventana flotante.</string>
+    <string name="dock_tip_splitscreen_portrait_drag">Arrastre la barra verticalmente para intercambiar las posiciones de las dos ventanas de la aplicación.</string>
+    <string name="dock_tip_splitscreen_portrait_float">Mantenga presionado y arrastre hacia el lado izquierdo o derecho de la pantalla para cambiar a una ventana flotante.</string>
     <string name="echo">Eco</string>
     <string name="eighthours">8 horas</string>
     <string name="enable_livetalk_summary">Ahorre hasta un 70% en sus llamadas</string>
@@ -223,6 +228,8 @@
     <string name="miui_device_name">Android</string>
     <string name="miui_forbid_poweroff_when_device_locked">"No se puede apagar, el dispositivo está bloqueado."</string>
     <string name="miui_multiwindow_not_support_cvw">"No se puede ajustar el tamaño de la ventana para esta aplicación"</string>
+    <string name="miui_multiwindow_not_support_small_window">"%1$s no admite ventanas flotantes"</string>
+    <string name="miui_multiwindow_not_support_split">"%1$s no admite pantalla dividida"</string>
     <string name="miui_screen_ratio_hint">Problemas de proporción de pantalla</string>
     <string name="miui_screen_ratio_hint_dont_show_again">"No volver a mostrar"</string>
     <string name="miui_screen_ratio_hint_go_to_settings">Ir a los Ajustes</string>
@@ -255,6 +262,8 @@
     <string name="passionflower">Pasión</string>
     <string name="paste">Pegar</string>
     <string name="pc_device_model_name">Computadora</string>
+    <string name="pc_redmi_device_model_name">Redmi laptop</string>
+    <string name="pc_xiaomi_device_model_name">Xiaomi laptop</string>
     <string name="perm_send_push_dspt">Permitir mensajes push de Mi</string>
     <string name="perm_send_push_lab">Enviar mensaje push</string>
     <string name="permdesc_manageFingerprint">Permite que la aplicación invoque métodos para agregar y eliminar plantillas de huellas digitales para su uso.</string>

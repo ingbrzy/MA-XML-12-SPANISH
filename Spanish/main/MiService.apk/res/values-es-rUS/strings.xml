@@ -53,6 +53,7 @@
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
+    <string name="i_get_it">Entendido</string>
     <string name="icon_add_description">Añadir un acceso directo a la Pantalla de inicio</string>
     <string name="icon_remove_confirm">Eliminar</string>
     <string name="icon_remove_description_content">"\"Servicios y comentarios\" es una aplicación del sistema. Aún podrá usarlo a través de Ajustes después de eliminar el acceso directo de la pantalla de inicio."</string>
@@ -138,6 +139,9 @@
     <string name="miui_feedback_edit_toast_screenshot_too_large">"No puede subir imágenes o videos mayores de 100 MB"</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">Ingresar nombre de la aplicación</string>
     <string name="miui_feedback_main_answer_title">"Hay una respuesta para esta pregunta"</string>
+    <string name="miui_feedback_main_customer_service_onfo_for_jp">"Línea directa de servicio: 0120-300-521
+Horario de atención: 9:00 - 18:00 (excepto festivos bancarios y programados)
+Correo electrónico: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_frequent_question_title">Preguntas frecuentes</string>
     <string name="miui_feedback_main_item_catch_full_log">Obtener registros</string>
     <string name="miui_feedback_main_item_customer_service">Servicios posventa</string>
@@ -294,6 +298,10 @@
     <string name="permission_storage_introduce">Para guardar elementos en su dispositivo</string>
     <string name="permission_user_protocol">Acuerdo de Usuario (obligatorio)</string>
     <string name="preference_copied">Se copió \"%1$s\" en el portapapeles.</string>
+    <string name="privacy_policy_update_hint">"%1$s Se actualizó la Política de privacidad:
+%2$s
+Lea y acepte la nueva versión de %3$s antes de continuar."</string>
+    <string name="privacy_policy_update_title">Política de privacidad actualizada</string>
     <string name="public_authorize_now">Ajustes</string>
     <string name="public_loading_text">Un momento…</string>
     <string name="public_net_error_retry">Vuelva a intentarlo</string>
@@ -371,10 +379,16 @@
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
+    <string name="user_must_known">Atención</string>
+    <string name="user_must_known_content">"No podrá seguir utilizando nuestros servicios a menos que esté de acuerdo con la nueva versión de nuestro %s. ¿Acepta la Política de privacidad actualizada ahora?"</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADA</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mie</string>
+    <string name="withdraw_consent_failed">"No se pudo retirar el consentimiento"</string>
+    <string name="withdraw_consent_failed_hint">Ocurrió un error en el servidor. Espere uno o dos minutos y vuelva a intentarlo.</string>
+    <string name="withdraw_consent_failed_hint_connect_net">Su dispositivo debe conectarse a la red para que pueda retirar el consentimiento. Verifique su configuración de red y vuelva a intentarlo.</string>
+    <string name="withdrawing">Retirar el consentimiento…</string>
     <string name="yesterday">Ayer</string>
 </resources>

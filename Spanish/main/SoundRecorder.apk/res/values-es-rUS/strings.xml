@@ -138,6 +138,7 @@
     <string name="head_set_tip_dialog_title">Utilizar micrófono interno</string>
     <string name="icon_content_description">Icono del cuadro de diálogo</string>
     <string name="invalid_argument">Argumento inválido</string>
+    <string name="invisible_mode_error_tip">Desactive el modo de incógnito en la Configuración para poder usar el micrófono</string>
     <string name="item_view_role_description">Pestaña</string>
     <string name="keywords_search_call_record">Grabar llamadas;Grabar llamada;Grabación de llamada;Grabaciones de llamadas</string>
     <string name="keywords_search_record">Nueva grabación;Agregar grabación;Grabación;Grabaciones;Transcripción;Transcribir;Grabadora;Grabadora de voz;Grabadora de sonido;Aplicación de grabadora;Aplicación de grabación;Cómo grabo;Cómo grabo sonido;Dónde está la grabadora;Grabadora MIUI</string>
@@ -177,6 +178,8 @@
     <string name="mi_account_ok">Iniciar sesión</string>
     <string name="mi_account_title">Iniciar sesión con Cuenta Mi</string>
     <string name="midnight">Noche</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -194,6 +197,8 @@
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Deslice hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -361,6 +366,7 @@
     <string name="preference_tip_rename">Nombrar grabaciones manualmente</string>
     <string name="privacy_policy_title">Política de Privacidad</string>
     <string name="privacy_settings">Privacidad</string>
+    <string name="progress">Barra de progreso de reproducción</string>
     <string name="recognition_button_add_to_queue">Añadir a la cola</string>
     <string name="recognition_button_cancel">Ahora no</string>
     <string name="recognition_button_start">Transcribir</string>
@@ -459,6 +465,11 @@
     <string name="rename_no_more_tip">"No volver a mostrar"</string>
     <string name="retry">Reintentar</string>
     <string name="runtime_permission_ungranted">"No se puede utilizar Grabadora, falta de permisos"</string>
+    <string name="saf_permission_dialog_content">Debido a las restricciones de Android, Recorder necesita permiso para acceder a las grabaciones realizadas por otras aplicaciones. Permita que Recorder acceda a estas grabaciones para poder verlas.</string>
+    <string name="saf_permission_dialog_grant_permission_immediately">Ajustes</string>
+    <string name="saf_permission_dialog_later">No, gracias</string>
+    <string name="saf_permission_dialog_no_more_tip">"No volver a mostrar"</string>
+    <string name="saf_permission_dialog_title">Permisos requeridos</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sáb.</string>
@@ -477,6 +488,7 @@
     <string name="search_tip_rename">Nombrar grabaciones manualmente</string>
     <string name="send">Enviar</string>
     <string name="service_instructions">Acerca de iflyrec.com</string>
+    <string name="settings_saf_permission">Permisos de administración de archivos</string>
     <string name="share">Compartir</string>
     <string name="share_dialog_title">Compartir usando</string>
     <string name="shortcut_records">Grabaciones</string>

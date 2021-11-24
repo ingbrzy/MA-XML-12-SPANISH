@@ -187,7 +187,7 @@ https://appleid.apple.com/#!&amp;page=signin para cerrar"</string>
     <string name="enable_local_backup">Activar copias de seguridad locales</string>
     <string name="enable_local_backup_and_restore">Activar copias de seguridad locales</string>
     <string name="enable_local_backup_tips">Active esta función para poder guardar copias de seguridad en este dispositivo y copiarlas en su ordenador o dispositivo de almacenamiento USB. ¿Activar ahora?</string>
-    <string name="enable_local_backup_tips_global">Active esta función para poder realizar copias de seguridad y restaurar datos en su dispositivo o computadora. ¿Activar ahora?</string>
+    <string name="enable_local_backup_tips_global">Active esta función para poder guardar copias de seguridad en este dispositivo y copiarlas en su computadora. ¿Activar ahora?</string>
     <string name="eras_ad">DC</string>
     <string name="eras_bc">AC</string>
     <string name="err_acquire_system_service">"No se pudo iniciar el servicio del sistema."</string>
@@ -426,6 +426,10 @@ primero deberá crear un respaldo de iCloud."</string>
     <string name="new_local_detail_description">"Nota:
 %1$d. Copiae las copias de seguridad a su ordenador para evitar la pérdida de datos. %2$s.
 %3$d. Las copias de seguridad serán guardadas en MIUI-Backup-AllBackup."</string>
+    <string name="new_local_detail_description_global">"Nota:
+%1$d. Copie las copias de seguridad en su computadora para evitar la pérdida de datos. %2$s.
+%3$d. Las copias de seguridad se guardarán en MIUI-Backup-AllBackup.
+%4$d. Es posible que algunas aplicaciones no admitan copias de seguridad."</string>
     <string name="new_local_tab_backup">Copia de seguridad</string>
     <string name="new_local_tab_backup_pad">Copia de seguridad</string>
     <string name="new_local_tab_restore">Restaurar</string>

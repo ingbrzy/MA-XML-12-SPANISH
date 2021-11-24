@@ -102,7 +102,7 @@
     <string name="category_video">Videos</string>
     <string name="category_wechat">WeChat</string>
     <string name="category_zip">Archivos</string>
-    <string name="cdd_message">"Debido a las restricciones de Android 11, no podrá ver algunos de los archivos generados dentro de las aplicaciones de terceros en el Administrador de Archivos."</string>
+    <string name="cdd_message">"Debido a las restricciones de Android 11, no podrá ver algunos de los archivos generados en aplicaciones de terceros en el Administrador de archivos."</string>
     <string name="cdd_title">Atención</string>
     <string name="character_counter_content_description">%1$d de %2$d carácteres ingresados</string>
     <string name="character_counter_overflowed_content_description">Límite de caracteres excedido %1$d de %2$d</string>
@@ -477,6 +477,8 @@
     <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo de ingreso de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para cambiar a seleccionar un año</string>
     <string name="name_empty">Debe ingresar un nombre.</string>
+    <string name="need_open_content">Permita que el Administrador de archivos acceda a sus fotos y archivos para usar esta función.</string>
+    <string name="need_open_permission">Permisos requeridos</string>
     <string name="need_read_storage_permission">"Gestor de archivos requiere permiso para acceder al almacenamiento del dispositivo para funcionar con normalidad."</string>
     <string name="network_not_available">"No se pudo conectar a la red"</string>
     <string name="new_folder_name">Nueva carpeta</string>
@@ -488,6 +490,7 @@
     <string name="no_enough_storage_indication">"El espacio de almacenamiento del dispositivo está lleno."</string>
     <string name="no_enough_storage_title">No hay suficiente espacio de almacenamiento</string>
     <string name="no_file">No hay archivos</string>
+    <string name="no_permission">Conceder los permisos necesarios para acceder a esta función</string>
     <string name="no_wifi">No hay redes Wi-Fi</string>
     <string name="noon">Mediodía</string>
     <string name="not_added_category">Disponible</string>
@@ -765,6 +768,8 @@
     <string name="title_expire_video">A punto de expirar</string>
     <string name="title_recent">Recientes</string>
     <string name="title_select_volume">Seleccionar carpeta</string>
+    <string name="to_open">Ajustes</string>
+    <string name="to_setting">Ajustes</string>
     <string name="toast_file_not_can_read">No se encontró una aplicación para realizar esta acción.</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">Mañana</string>

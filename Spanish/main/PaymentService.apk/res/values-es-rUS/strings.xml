@@ -123,6 +123,10 @@ Envíe este código al supervisor."</string>
     <string name="just_a_second">Un momento…</string>
     <string name="loading">Un momento…</string>
     <string name="logout_account">Cerrar sesión</string>
+    <string name="mibi_account_disable_dialog_btn_negative">Cancelar</string>
+    <string name="mibi_account_disable_dialog_btn_positive">Activar</string>
+    <string name="mibi_account_disable_dialog_msg">Para usar MiCoin, debe iniciar sesión en su cuenta Xiaomi. Habilite el servicio de cuenta Xiaomi en Configuración-Administración de aplicaciones.</string>
+    <string name="mibi_account_disable_dialog_title">Aviso</string>
     <string name="mibi_all_license_message">"Está a punto de utilizar Mi Coin, que es un servicio proporcionado por Xiaomi Inc. Antes de poder utilizar este servicio, debe aceptar los Términos de servicio. Toque Aceptar si está de acuerdo con los términos y condiciones descritos en %1$s y %2$s. Debe conectarse a Internet, ubicar su dispositivo para usar Mi Coin."</string>
     <string name="mibi_all_purpose">Bienvenido a MiCoin, puede usar esta aplicación para recargar MiCoin, revisar sus tarjetas de regalo, etc.</string>
     <string name="mibi_app_name">Mi moneda</string>
@@ -444,8 +448,13 @@ centro de servicio al cliente：400-100-3399"</string>
     <string name="mibi_recharge_value_money_special_unit">Compra %1$s %2$s valor de Mi Coins</string>
     <string name="mibi_recharge_warn_text">"No puede comprar bienes físicos usando Monedas Mi."</string>
     <string name="mibi_return">Devolución</string>
-    <string name="mibi_revoke_agreement_msg">Si acepta retirar el acuerdo de privacidad, cancelará su cuenta MiCoin y cederá sus activos y derechos en MiCoin, lo que puede causarle ciertas pérdidas y sus datos personales no podrán recuperarse. Elija con cuidado.</string>
-    <string name="mibi_revoke_service_msg">Si cancela el servicio MiCoin, cancelará su cuenta MiCoin y cederá sus activos y derechos en MiCoin, lo que puede causarle ciertas pérdidas y sus datos personales no podrán recuperarse. Elija con cuidado.</string>
+    <string name="mibi_revoke_agreement_failed_msg">No se pudo retirar el consentimiento. Vuelve a intentarlo</string>
+    <string name="mibi_revoke_agreement_msg">"Si retira su consentimiento a la política de privacidad de la aplicación Mibibi, dejaremos de recopilar su información personal y eliminaremos la información personal recopilada por la aplicación de acuerdo con la ley, a menos que otras leyes y regulaciones especifiquen el período de retención de la información personal.
+Debido a que la prestación de los servicios de MiCoin se basa en la recopilación de la información personal necesaria, si retira su consentimiento, se considerará que no acepta que continuemos brindándole los servicios de MiCoin y cedamos sus activos y derechos en MiCoin. aplicación. Debido a una cierta pérdida y la información personal no se puede recuperar, elija con cuidado."</string>
+    <string name="mibi_revoke_agreement_title">Advertencia de riesgo</string>
+    <string name="mibi_revoke_service_failed_msg">No se pudo cerrar la sesión del servicio, inténtelo de nuevo</string>
+    <string name="mibi_revoke_service_msg">"Si cierra sesión en el servicio MiCoin, dejaremos de recopilar su información personal y eliminaremos la información personal recopilada por la aplicación de acuerdo con la ley, excepto por otras leyes y regulaciones que estipulan claramente el período de retención de la información personal.
+Debido a que la prestación de los servicios de MiCoin se basa en la recopilación de la información personal necesaria, si cancela el servicio, se considerará que no está de acuerdo con que continuemos brindándole los servicios de MiCoin y renunciando a sus activos y derechos en la aplicación MiCoin. Debido a una cierta pérdida y la información personal no se puede recuperar, elija con cuidado."</string>
     <string name="mibi_scan_prompt_number">Escanear %1$s número de tarjeta prepago</string>
     <string name="mibi_scan_prompt_password">Escanear %1$s contraseña de tarjeta prepaga</string>
     <string name="mibi_scan_prompt_voucher">Escanear contraseña de Mi Coin</string>
@@ -453,6 +462,8 @@ centro de servicio al cliente：400-100-3399"</string>
     <string name="mibi_setting_authorization_management">Gestión de autorizaciones</string>
     <string name="mibi_setting_cache_deleted_privacy">Se completó la retirada del consentimiento y se borraron los datos locales</string>
     <string name="mibi_setting_cache_deleted_service">Se completó el servicio de cierre de sesión y se borraron los datos locales.</string>
+    <string name="mibi_setting_cancel_revoke_agreement">Cancelar retiro</string>
+    <string name="mibi_setting_cancel_revoke_service">Cancelar cierre de sesión</string>
     <string name="mibi_setting_confirm_revoke_agreement">Confirmar retiro</string>
     <string name="mibi_setting_confirm_revoke_service">Confirmar cierre de sesión</string>
     <string name="mibi_setting_perm_setting_dialog_confirm">Sí, lo sé</string>
