@@ -85,6 +85,7 @@
     <string name="app_disable_transparent_wallpaper">Sin papel tapiz transparente</string>
     <string name="app_enable_transparent_wallpaper">Con papel tapiz transparente</string>
     <string name="app_name">Temas</string>
+    <string name="app_name_pad">Personalización</string>
     <string name="application_list_permission_desc">Para mostrar aplicaciones compatibles con fondos de pantalla transparentes</string>
     <string name="apply_choosen_type_resource">Aplicar los elementos seleccionados</string>
     <string name="apply_default_font_tip">"¿Continuar usando la fuente original del sistema?"</string>
@@ -99,6 +100,7 @@
     <string name="apply_success_not_enable_aod">Primero active la pantalla Siempre encendida en la Configuración</string>
     <string name="apply_success_not_support_aod">"No se puede combinar la pantalla Siempre activa con temas en este dispositivo. El resto de los componentes de este tema se aplicaron con éxito."</string>
     <string name="apply_theme_with_ringtones">Aplicar tonos del tema</string>
+    <string name="apply_warning_get_device_dialog_message">Para poder utilizar el contenido descargado, primero permita que esta función acceda a la ID de su dispositivo. Puede otorgar este permiso en Configuración &gt; Privacidad.</string>
     <string name="apply_warning_tip_get_device_status">Primero permita que esta aplicación acceda a la ID de su dispositivo en la configuración del &gt;</string>
     <string name="audio_duration_minutes_format">%1$d minutos</string>
     <string name="audio_duration_seconds_format">%1$d segundos</string>
@@ -115,15 +117,21 @@
     <string name="backup_theme_name">Mi copia de seguridad</string>
     <string name="backup_theme_progress_message">Creando copia de seguridad…</string>
     <string name="backup_theme_success_message">Se ha creado una copia de seguridad de la configuración actual del tema.</string>
+    <string name="basic_mode">Modo offline</string>
+    <string name="basic_mode_desc">"Los temas no se conectarán a Internet y solo usarán contenido local. No se recopilará su información personal."</string>
     <string name="boot_audio_dialog_cancel">Cancelar</string>
     <string name="boot_audio_dialog_confirm">Aceptar</string>
     <string name="boot_audio_dialog_content">El audio de arranque está desactivado ahora. ¿Volver a encenderlo y aplicar este sonido?</string>
     <string name="boot_audio_dialog_title">Atención</string>
     <string name="both_all_apply_failured">"No se pudo aplicar el fondo de pantalla"</string>
     <string name="both_all_apply_success">Fondo de pantalla aplicado</string>
+    <string name="bottomsheet_action_expand_halfway">Expandir a la mitad</string>
+    <string name="browse_mode">Modo en línea</string>
+    <string name="browse_mode_desc">"Los temas se conectarán a Internet y utilizarán contenido tanto local como en línea. No se recopilará su información personal."</string>
     <string name="browser_local_resource">Recursos locales</string>
     <string name="can_not_apply">No se puede aplicar</string>
     <string name="can_not_apply_error">"Este formato de video no es compatible"</string>
+    <string name="can_not_apply_pc_video">"El modo PC no soporta fondos de pantalla animados"</string>
     <string name="can_not_apply_size_invalid">Este video es demasiado grande</string>
     <string name="cancel_download">Descarga cancelada</string>
     <string name="card_data_request_error">Ha ocurrido un error. Espere un minuto o dos y vuelva a intentarlo.</string>
@@ -140,6 +148,7 @@
     <string name="clear_text_end_icon_content_description">Borrar texto</string>
     <string name="clearable_edittext_clear_description">Claro</string>
     <string name="close">Cerrar</string>
+    <string name="close_custom_permission_warning_text">"Sin permisos de almacenamiento, esta aplicación no podrá descargar elementos ni personalizar su dispositivo. ¿Desactivar de todos modos?"</string>
     <string name="common_applying">Aplicando…</string>
     <string name="common_downloading">Descargando…</string>
     <string name="common_format_date_no_year">dd/MM</string>
@@ -171,6 +180,7 @@
     <string name="current_using_lockscreen_wallpaper_text">Pantalla de bloqueo</string>
     <string name="current_version">Versión actual: %1$s</string>
     <string name="current_version_incompatible">Incompatible</string>
+    <string name="custom_storage_permission_desc">Para poder cambiar las preferencias de personalización y guardar los elementos descargados, primero permita que esta función acceda al almacenamiento. Puede otorgar este permiso en Configuración &gt; Privacidad.</string>
     <string name="date_picker_lunar">Calendario tradicional chino</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="de_apply_icons">Iconos de aplicaciones</string>
@@ -251,7 +261,13 @@
     <string name="dialog_apply_lock_screen_wallpaper_content">Es posible que el tema actual no admita el cambio de fondo de pantalla de bloqueo.</string>
     <string name="dialog_apply_lock_screen_wallpaper_warning">Fondo de Pantalla de bloqueo</string>
     <string name="dialog_content_get_device_status">Esta aplicación necesita acceder a la identificación de su dispositivo para poder autenticar los artículos comprados en sus otros dispositivos. Es posible que no pueda utilizar algunos de los artículos comprados después de desactivar esta función. ¿Apagar de todos modos?</string>
+    <string name="dialog_negative_button_text">Ahora no</string>
+    <string name="dialog_positive_button_text">Permitir</string>
     <string name="dialog_show_never">"No mostrar de nuevo."</string>
+    <string name="dialog_trans_wallpaper_offline_detail">"Los fondos de pantalla transparentes ya no están disponibles porque no son compatibles con Android 12."</string>
+    <string name="dialog_trans_wallpaper_offline_inform_detail">Los fondos de pantalla transparentes ya no están disponibles debido a restricciones de Android 12 y problemas de compatibilidad.</string>
+    <string name="dialog_trans_wallpaper_offline_inform_title">Fondos de pantalla transparentes</string>
+    <string name="dialog_trans_wallpaper_offline_title">"Los fondos de pantalla transparentes no están disponibles"</string>
     <string name="display">Mostrar</string>
     <string name="do_not_allow">Restringido</string>
     <string name="download_failed">"No se puede descargar"</string>
@@ -344,6 +360,11 @@
     <string name="font_compat_dialog_title">Problemas de compatibilidad</string>
     <string name="font_compat_dialog_trial_confirm">Intentar</string>
     <string name="font_compat_dialog_trial_content">Es posible que algunas aplicaciones no admitan fuentes de terceros. Este problema de compatibilidad se solucionará con una próxima actualización del sistema. ¿Comprar esta fuente de todos modos?</string>
+    <string name="font_pad_setting_charge_font">Pagado</string>
+    <string name="font_pad_setting_find_more_title">Más fuentes</string>
+    <string name="font_pad_setting_free_font">Gratis</string>
+    <string name="font_pad_setting_local_font">Fuentes locales</string>
+    <string name="font_pad_setting_title">Fuentes</string>
     <string name="font_trial_end_purchase">Comprar fuente</string>
     <string name="forbid_transparent_wallpaper_by_second_space">Primero aplique papel tapiz transparente en el primer espacio.</string>
     <string name="forbid_video_wallpaper_by_second_space">Primero aplique papel tapiz dinámico en el primer espacio.</string>
@@ -374,6 +395,7 @@
     <string name="hide_mamual_hide_miwallpaper">"No mostrar efectos ocultos en la pantalla de inicio"</string>
     <string name="hide_mamual_hide_theme">"No mostrar temas ocultos"</string>
     <string name="hide_mamual_hide_wallpaper">"No mostrar fondos de pantalla ocultos"</string>
+    <string name="hide_phone_wallpaper">Ocultar fondos de pantalla del teléfono</string>
     <string name="hide_pull_down_message">¿Ocultar?</string>
     <string name="hide_pull_down_negative">"No esconder"</string>
     <string name="hide_pull_down_positive">Esconder</string>
@@ -383,6 +405,9 @@
     <string name="home_daily">Destacados diarios</string>
     <string name="i_know">Aceptar </string>
     <string name="icon_content_description">Icono de diálogo</string>
+    <string name="icon_pad_setting_find_more_title">Más iconos</string>
+    <string name="icon_pad_setting_local_icon">Iconos locales</string>
+    <string name="icon_pad_setting_title">Iconos</string>
     <string name="in_the_end">No hay más elementos que mostrar</string>
     <string name="incall_show_apply">Perfil de video para llamadas salientes.</string>
     <string name="incall_show_apply_fail">"No se pudo establecer"</string>
@@ -411,6 +436,7 @@ Para desactivar esta función, ve a Ajustes &gt; Sonido y vibración &gt; Perfil
     <string name="lab">Características experimentales</string>
     <string name="like_list">Mis gustos</string>
     <string name="live_wallpaper">Fondo animado</string>
+    <string name="load_from_local_photos">Galería</string>
     <string name="loading">Un momento…</string>
     <string name="loading_picture">Cargando imagen…</string>
     <string name="loading_resource_detail_fail">"Fallo al cargar recursos"</string>
@@ -430,9 +456,22 @@ Para desactivar esta función, ve a Ajustes &gt; Sonido y vibración &gt; Perfil
     <string name="lockscreen_magazine_title">Carrusel de fondos de pantalla</string>
     <string name="lockscreen_wallpaper">Fondo de bloqueo</string>
     <string name="lockstyle_personal_settings">Personalizar</string>
+    <string name="login_theme">Iniciar sesión en Temas</string>
     <string name="long_click_can_hide_resource">Mantenga pulsado para ocultar elementos</string>
+    <string name="material_clock_toggle_content_description">Seleccione AM o PM</string>
+    <string name="material_hour_selection">Seleccione la hora</string>
+    <string name="material_hour_suffix">"%1$s punto"</string>
+    <string name="material_minute_selection">Seleccionar los minutos</string>
+    <string name="material_minute_suffix">%1$s minutos</string>
     <string name="material_slider_range_end">Final de rango,</string>
     <string name="material_slider_range_start">Inicio de rango,</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Cambie al modo de reloj para la entrada de la hora.</string>
+    <string name="material_timepicker_hour">Hora</string>
+    <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Seleccione la hora</string>
+    <string name="material_timepicker_text_input_mode_description">Cambia al modo de entrada de texto para la entrada de tiempo.</string>
     <string name="mi_wallpaper">Fondo MIUI</string>
     <string name="midnight">Noche</string>
     <string name="mine_tab_not_login">"Inicia sesión para ver los elementos.
@@ -478,6 +517,8 @@ mm"</string>
     <string name="miuishare_timeline_title">Encuentra tu próximo fondo de pantalla</string>
     <string name="miuishare_title_more">Más</string>
     <string name="miuishare_title_share">Compartir</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -501,6 +542,8 @@ mm"</string>
     <string name="miuix_compat_dialog_title">Se aplicó el tema predeterminado a \"%s\"</string>
     <string name="miuix_compat_dialog_update_title">Se requiere una actualización</string>
     <string name="miuix_compat_mms">Mensajes</string>
+    <string name="miuix_indexer_collect">Colecciones</string>
+    <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando...</string>
@@ -565,7 +608,7 @@ mm"</string>
     <string name="mtrl_picker_a11y_next_month">Cambiar al próximo mes</string>
     <string name="mtrl_picker_a11y_prev_month">Cambiar al mes anterior</string>
     <string name="mtrl_picker_announce_current_selection">Selección actual: %1$s</string>
-    <string name="mtrl_picker_date_header_title">Selecciona una fecha</string>
+    <string name="mtrl_picker_date_header_title">Seleccione la fecha</string>
     <string name="mtrl_picker_date_header_unselected">Fecha seleccionada</string>
     <string name="mtrl_picker_day_of_week_column_header">Columna de días: %1$s</string>
     <string name="mtrl_picker_invalid_format">Formato inválido.</string>
@@ -576,7 +619,7 @@ mm"</string>
     <string name="mtrl_picker_out_of_range">Fuera de rango: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Fecha de inicio - %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s - Fecha de finalización</string>
-    <string name="mtrl_picker_range_header_title">Seleccione un rango de fechas</string>
+    <string name="mtrl_picker_range_header_title">Seleccione el rango</string>
     <string name="mtrl_picker_range_header_unselected">Fecha de inicio Fecha de término</string>
     <string name="mtrl_picker_save">Guardar</string>
     <string name="mtrl_picker_text_input_date_hint">Fecha</string>
@@ -645,12 +688,14 @@ Ver y usar los elementos que compró o agregó a favoritos."</string>
     <string name="personalize_icon_title">Iconos</string>
     <string name="personalize_notify_ringtone_title">Notificaciones</string>
     <string name="personalize_notify_style_title">Efectos</string>
+    <string name="personalize_recommend_switch_desc">Reciba recomendaciones de contenido personalizadas basadas en la identificación del dispositivo</string>
     <string name="personalize_second_space_not_support_set_font">"No se puede cambiar la fuente en el segundo espacio"</string>
     <string name="personalize_theme_entrance">Temas</string>
     <string name="personalize_third_font">Fuentes</string>
     <string name="personalize_title">Fondo de pantalla y personalización</string>
     <string name="personalize_wallpaper_sub_title">Super fondos de pantalla e imágenes destacadas</string>
     <string name="personalize_wallpaper_title">Fondo de pantalla</string>
+    <string name="personalized_cta_content_text">¡Bienvenido a Temas! Puede usar esta aplicación para administrar sus fondos de pantalla, tonos de llamada, fuentes y más.</string>
     <string name="phone_exit_theme_warning_content">"No podrá realizar las siguientes acciones después de cerrar sesión:
 1. Ver y usar los elementos que compró o agregó a favoritos.
 2. Agrega comentarios y me gusta, sigue a otras personas e interactúa con ellas."</string>
@@ -758,6 +803,9 @@ Todos los elementos de personalización que se utilizan actualmente en este disp
     <string name="privacy_read_statement">Acepta primero los términos y condiciones</string>
     <string name="privacy_read_the_updated_privacy_policy_content">"Lea y acepte la nueva versión de &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Política de privacidad&lt;/font&gt;&lt;/a&gt; antes de continuar."</string>
     <string name="privacy_reading_the_application_list">Accede a la lista de aplicaciones instaladas en este dispositivo</string>
+    <string name="privacy_remind_user_mode_agree">De acuerdo</string>
+    <string name="privacy_remind_user_mode_content"><Data>Acepte nuestra Política de privacidad para utilizar esta función. Lea nuestra &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt;&lt;/font&gt; para saber cómo recopilamos, usamos, divulgamos, procesamos y almacenamos la información personal que nos proporciona cuando utiliza Temas.</Data></string>
+    <string name="privacy_remind_user_mode_title">Atención</string>
     <string name="privacy_revoke_agree_content">Retiro del consentimiento</string>
     <string name="privacy_revoke_agree_content_1">1. Todos los pedidos (incluidos los pedidos pagados) realizados en los dispositivos Xiaomi en los que utilizó su Mi Cuenta. Ya no podrá utilizar los artículos que compró.</string>
     <string name="privacy_revoke_agree_content_2">2. Toda la información sobre tus Me gusta, comentarios, valoraciones y seguidores generada en los dispositivos Xiaomi donde usaste tu Mi Cuenta.</string>
@@ -765,6 +813,8 @@ Todos los elementos de personalización que se utilizan actualmente en este disp
     <string name="privacy_revoke_agree_data_warning">Los siguientes datos se eliminarán permanentemente o se anonimizarán después de retirar el consentimiento (salvo que las leyes y reglamentos establezcan lo contrario, o que las autoridades reguladoras lo requieran):</string>
     <string name="privacy_revoke_succeed">Retiró el consentimiento con éxito</string>
     <string name="privacy_revoking_warning">Retirar el consentimiento…</string>
+    <string name="privacy_select_mode">Seleccionar modo</string>
+    <string name="privacy_select_mode_desc">"Dado que no ha aceptado nuestra Política de privacidad, seleccione uno de los siguientes modos:"</string>
     <string name="privacy_settings">Privacidad</string>
     <string name="privacy_update_prompt_title">Política de privacidad actualizada</string>
     <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Asegúrese de tener derecho a retirar el consentimiento antes de continuar.
@@ -781,9 +831,12 @@ Todos los elementos de personalización que se utilizan actualmente en este disp
     <string name="provision_loading_tips">Un momento…</string>
     <string name="provision_second_title">Seleccione uno de los diversos temas predeterminados</string>
     <string name="provision_title">Escoja un tema</string>
+    <string name="prvicay_permission_not_allow_desc">"Esta aplicación necesita acceder al almacenamiento para eliminar todos los datos generados en este dispositivo. Sin este permiso, es posible que algunos datos no se eliminen. ¿Cancelar los servicios de todos modos?
+Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="pull_down_view_error_message">Whoops! No se ha encontrado conexión a Internet. Compruebe su conexión o intente de nuevo.</string>
     <string name="pull_down_view_refresh">Refrescar</string>
     <string name="pull_down_view_title">"Qué hay de nuevo"</string>
+    <string name="read_and_agree_account_privacy"><Data>\"He leído y acepto el Acuerdo de usuario de &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;&lt;/a&gt;&lt;/font&gt; y &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%4$s\"&gt;Política de privacidad&lt;/a&gt;&lt;/font&gt;\".</Data></string>
     <string name="recently_used">Usado recientemente</string>
     <string name="recommend_trigger">Recomendaciones personalizadas</string>
     <string name="recommend_trigger_summary">Actívelo para recibir recomendaciones basadas en sus preferencias</string>
@@ -860,6 +913,10 @@ Todos los elementos de personalización que se utilizan actualmente en este disp
     <string name="resource_delete">Eliminar</string>
     <string name="resource_delete_all">¿Eliminar %1$d recursos seleccionados?</string>
     <string name="resource_delete_confirm">¿Eliminar estos recursos?</string>
+    <string name="resource_delete_font_title">Eliminar fuentes</string>
+    <string name="resource_delete_icon_title">Eliminar iconos</string>
+    <string name="resource_delete_ring_title">Eliminar tonos de llamada</string>
+    <string name="resource_delete_wallpaper_title">Eliminar fondos de pantalla</string>
     <string name="resource_delta_update_failed">Descargando tema nuevamente…</string>
     <string name="resource_delta_update_successful">Tema actualizado</string>
     <string name="resource_delta_update_total">%1$d actualizaciones delta guardadas %2$s</string>
@@ -901,7 +958,8 @@ Todos los elementos de personalización que se utilizan actualmente en este disp
     <string name="resource_free_download">Descargar gratis</string>
     <string name="resource_get_auth_checking">Verificando…</string>
     <string name="resource_get_auth_exceed_max_limit_tips">Ya se han autorizado 10 dispositivos en esta cuenta</string>
-    <string name="resource_get_auth_exceed_max_limit_title">Se superó el número de dispositivos autorizados</string>
+    <string name="resource_get_auth_exceed_max_limit_tips_pad">Puede utilizar la personalización con una cuenta en hasta 10 dispositivos.</string>
+    <string name="resource_get_auth_exceed_max_limit_title">Demasiados dispositivos autorizados</string>
     <string name="resource_get_auth_has_been_undercarriaged">Este tema ya no esta disponible.</string>
     <string name="resource_get_auth_not_official">Los temas desarrollados por terceros no son compatibles</string>
     <string name="resource_get_auth_retrieving">Obteniendo información…</string>
@@ -1082,6 +1140,7 @@ Todos los elementos de personalización que se utilizan actualmente en este disp
     <string name="show_mamual_hide_miwallpaper">Mostrar efectos ocultos en la pantalla de inicio</string>
     <string name="show_mamual_hide_theme">Mostrar temas ocultos</string>
     <string name="show_mamual_hide_wallpaper">Mostrar fondos de pantalla ocultos</string>
+    <string name="show_phone_wallpaper">Mostrar fondos de pantalla del teléfono</string>
     <string name="still_apply">Aplicar</string>
     <string name="storage_migration_exit_msg">Para que los temas sean compatibles con las próximas versiones de Android, trasladamos los elementos descargados a una nueva ubicación. Reinicie la aplicación para aplicar cambios y ver su contenido descargado.</string>
     <string name="storage_permission_denied_desc">Permitir que los temas accedan al almacenamiento para poder ver elementos</string>
@@ -1105,10 +1164,15 @@ Todos los elementos de personalización que se utilizan actualmente en este disp
     <string name="system_aod_dialog_title">La pantalla siempre encendida está apagada</string>
     <string name="system_cta_agree_desc">Permite que esta aplicación se conecte a Internet y concede los permisos obligatorios mencionados anteriormente.</string>
     <string name="system_cta_all_purpose">¡Bienvenido a Temas! Puedes usar esta aplicación para administrar tus temas, fondos de pantalla, tonos de llamada y fuentes.</string>
+    <string name="system_cta_all_purpose_fold">¡Bienvenido a Fondos de pantalla y personalización! Puede usar esta aplicación para administrar sus temas, fondos de pantalla, tonos de llamada y fuentes de pantalla siempre activa.</string>
+    <string name="system_cta_all_purpose_pad">¡Bienvenido a Personalización! Puede usar esta aplicación para administrar sus fondos de pantalla, tonos de llamada, íconos de aplicaciones y fuentes.</string>
     <string name="system_cta_main_purpose">Administrar y usar temas, fondos de pantalla, tonos de llamada, fuentes y videos de fondo de pantalla</string>
+    <string name="system_cta_retry_get_permission_btn_pad">Iniciar</string>
+    <string name="system_cta_retry_get_permission_msg_pad">Permisos requeridos</string>
     <string name="system_cta_runtime_perm_desc_get_accounts">Para acceder al IMEI y proporcionar servicios de descarga</string>
     <string name="system_cta_runtime_perm_desc_read_phone_state">Acceder a la ID del dispositivo para poder identificarlo</string>
     <string name="system_cta_runtime_perm_desc_storage">Para usar los elementos almacenados en su dispositivo para personalizarlos y guardar los elementos comprados</string>
+    <string name="system_cta_runtime_perm_desc_storage_pad">Para usar los elementos almacenados en su dispositivo para personalizarlos y guardar los elementos comprados</string>
     <string name="system_precust">Preinstalado</string>
     <string name="tag_ad">Anuncio</string>
     <string name="task_already_exist">Esta tarea ya existe</string>
@@ -1243,6 +1307,7 @@ Todos los elementos de personalización que se utilizan actualmente en este disp
     <string name="to_activate_the_account">Activar Cuenta Mi ahora</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">mañana</string>
+    <string name="trans_wallpaper_offline_notice">"Los fondos de pantalla transparentes no están disponibles"</string>
     <string name="transparency_pref_summary">Elige qué tan transparente quieres que sea tu fondo de pantalla</string>
     <string name="transparency_pref_title">Nivel de opacidad</string>
     <string name="transparent_wallpaper">Fondo transparente</string>
@@ -1313,8 +1378,13 @@ Todos los elementos de personalización que se utilizan actualmente en este disp
     <string name="video_not_support_title">Este video es demasiado grande</string>
     <string name="video_silence_apply_success">Video sin sonido aplicado con éxito</string>
     <string name="video_wallpaper_import">Toca para agregar elementos</string>
+    <string name="voice_input">Entrada de voz</string>
     <string name="wallpaper_24h">24H</string>
     <string name="wallpaper_apply">Aplicar</string>
+    <string name="wallpaper_apply_full">Todos</string>
+    <string name="wallpaper_apply_large">Pantalla interior</string>
+    <string name="wallpaper_apply_pcmode">Establecer fondo de pantalla en modo PC</string>
+    <string name="wallpaper_apply_small">Pantalla exterior</string>
     <string name="wallpaper_crop">Recortar</string>
     <string name="wallpaper_dark_mode_image_preview_tip">Vista previa del modo oscuro</string>
     <string name="wallpaper_decoded_error">"No fue posible cargar los fondos"</string>
@@ -1353,10 +1423,16 @@ Todos los elementos de personalización que se utilizan actualmente en este disp
     <string name="wallpaper_online_tip">Conéctese a la red para acceder a más elementos</string>
     <string name="wallpaper_scroll_type_tips">Desplazamiento del fondo de pantalla</string>
     <string name="wallpaper_set_as_both">Ambos</string>
+    <string name="wallpaper_set_as_both_large">Establecer en ambos</string>
+    <string name="wallpaper_set_as_both_small">Establecer en ambos</string>
     <string name="wallpaper_set_as_desktop">Establecer como pantalla de inicio</string>
+    <string name="wallpaper_set_as_desktop_large">Establecer como pantalla de inicio interna</string>
+    <string name="wallpaper_set_as_desktop_small">Establecer como pantalla de inicio externa</string>
     <string name="wallpaper_set_as_float_wallpaper">Fondo de pantalla transparente (Beta)</string>
     <string name="wallpaper_set_as_incall_show">Perfil de video para llamadas salientes.</string>
     <string name="wallpaper_set_as_lockscreen">Establecer como pantalla de bloqueo</string>
+    <string name="wallpaper_set_as_lockscreen_large">Establecer como pantalla de bloqueo interna</string>
+    <string name="wallpaper_set_as_lockscreen_small">Establecer como pantalla de bloqueo externa</string>
     <string name="wallpaper_setting_all">Todos los fondos de pantalla</string>
     <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
     <string name="wallpaper_setting_find_more_text">Más fondos de pantalla en línea</string>

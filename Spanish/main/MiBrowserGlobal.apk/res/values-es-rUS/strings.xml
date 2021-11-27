@@ -237,7 +237,7 @@ Desactive el interruptor para dejar de sincronizar."</string>
     <string name="category_folder">Carpetas</string>
     <string name="category_installed_app">Aplicaciones instaladas</string>
     <string name="category_midrive">Mi Drive</string>
-    <string name="category_move_limit_notice">Puede mover de 3 a 7 elementos a la parte superior de la pantalla</string>
+    <string name="category_move_limit_notice">Puede pasar de %1$d a %2$d elementos a la parte superior de la pantalla</string>
     <string name="category_music">Música</string>
     <string name="category_other">Otro</string>
     <string name="category_photo">Fotos</string>
@@ -305,7 +305,6 @@ Desactive el interruptor para dejar de sincronizar."</string>
     <string name="columbus_player_speed_video">Saltar VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Saltar</string>
-    <string name="com.crashlytics.android.build_id">fb401fb440604816a4959b9fc76aa8a0</string>
     <string name="com_facebook_device_auth_instructions">Ve a &lt;b&gt;facebook.com/device&lt;/b&gt; e ingresa el código que se muestra arriba.</string>
     <string name="com_facebook_image_download_unknown_error">Se produjo un error inesperado al descargar una imagen.</string>
     <string name="com_facebook_internet_permission_error_message">El inicio de sesión de WebView requiere permisos de INTERNET</string>
@@ -455,7 +454,7 @@ Envíe este código al supervisor."</string>
     <string name="download_btn_select_none">Deseleccionar todo</string>
     <string name="download_business_app_new_version">La última versión de esta aplicación ya está instalada</string>
     <string name="download_business_app_update_install">Listo para instalar actualización.</string>
-    <string name="download_business_v5_edit_mode_title_empty">0 seleccionados</string>
+    <string name="download_business_v5_edit_mode_title_empty">Seleccionar elementos</string>
     <string name="download_change_dir">Cambiar carpeta</string>
     <string name="download_complete">Descargado con éxito</string>
     <string name="download_completed">Descargado</string>
@@ -476,7 +475,7 @@ Envíe este código al supervisor."</string>
     <string name="download_dialog_failed_body">¿Reintentar más tarde o eliminar este archivo de la cola de descarga?</string>
     <string name="download_dialog_file_already_exists">"Ya ha descargado este archivo"</string>
     <string name="download_dialog_file_length_hint_txt">"Tamaño de archivo: "</string>
-    <string name="download_dialog_file_length_lessthan1kb">Menos de 1 kB</string>
+    <string name="download_dialog_file_length_lessthan1kb">Menos de %1$dKB</string>
     <string name="download_dialog_file_length_nolength_error_txt">"No se pudo descargar"</string>
     <string name="download_dialog_file_length_nolength_txt">Un momento…</string>
     <string name="download_dialog_file_missing_body">"No se pudo encontrar el archivo. ¿Lo ha movido o eliminado?"</string>
@@ -687,6 +686,8 @@ Envíe este código al supervisor."</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
     <string name="gaid">GAID (haga clic para exportar)</string>
+    <string name="game_center_recommend_play">Reproducir</string>
+    <string name="game_center_recommend_title">Recomendado para ti</string>
     <string name="game_news_flow_download_bar_download">Descargar</string>
     <string name="game_news_flow_download_bar_play">Iniciar</string>
     <string name="game_played">Recientes</string>
@@ -803,9 +804,9 @@ Envíe este código al supervisor."</string>
     <string name="lockpattern_need_to_unlock_wrong">Intente de nuevo</string>
     <string name="lockpattern_pattern_confirmed_header">"Este es tu patrón de desbloqueo:"</string>
     <string name="lockpattern_pattern_entered_header">¡Listo!</string>
-    <string name="lockpattern_recording_incorrect_too_short">Vuelva a intentarlo. Conecte al menos 4 puntos.</string>
+    <string name="lockpattern_recording_incorrect_too_short">Vuelve a intentarlo. Conecta al menos %1$d puntos.</string>
     <string name="lockpattern_recording_inprogress">Suelte cuando complete su patrón</string>
-    <string name="lockpattern_recording_intro_header">Conecte al menos 4 puntos</string>
+    <string name="lockpattern_recording_intro_header">Conecta al menos %1$d puntos</string>
     <string name="lockpattern_retry_button_text">Restablecer</string>
     <string name="login_failed_toast">"No se pudo iniciar sesión, actualice y vuelva a intentarlo"</string>
     <string name="login_or_register">o</string>
@@ -816,7 +817,7 @@ Envíe este código al supervisor."</string>
     <string name="make_private_msg_1">¿Ocultar este archivo?</string>
     <string name="make_private_msg_2">¿Ocultar estos archivos?</string>
     <string name="max_tabs_warning">"No puede abrir más pestañas"</string>
-    <string name="maximum_input_alert">"No puede ingresar más de 2048 caracteres"</string>
+    <string name="maximum_input_alert">"No se pueden ingresar más de %1$d caracteres"</string>
     <string name="menu_addtodesk">Agregar a la pantalla de inicio</string>
     <string name="menu_exit_nightmode">Salir</string>
     <string name="menu_hv_swap">Pantalla V/H</string>
@@ -1672,7 +1673,6 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="rlv_pull_to_refresh">Deslice hacia abajo para actualizar</string>
     <string name="rlv_refreshing">Actualizando…</string>
     <string name="rlv_release_to_refresh">Suelte para actualizar</string>
-    <string name="rlz_access_point">Y1</string>
     <string name="root_folder_lable">Ninguno</string>
     <string name="router_download_exist">Este archivo ya existe</string>
     <string name="router_download_failed">"No se pudo descargar"</string>
@@ -1731,7 +1731,6 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="search_hint">Búsqueda</string>
     <string name="search_label">Navegador</string>
     <string name="search_menu_title">Buscar</string>
-    <string name="search_s139">139</string>
     <string name="search_settings_description">Marcadores e historial web</string>
     <string name="search_shipin">Video</string>
     <string name="search_sm">SM</string>
@@ -2064,8 +2063,8 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vpn_data_used_info">Usado %2$s de %1$s</string>
     <string name="vpn_detail_guide1">Desbloquee todos los servidores para acelerar su conexión</string>
     <string name="vpn_detail_guide2">Suscríbase a los servicios de VPN para acceder a más sitios web</string>
-    <string name="vpn_detail_guide3">"Está casi sin tráfico. ¡Pruebe nuestro plan de 12 meses! Toque para conocer sus opciones."</string>
-    <string name="vpn_detail_guide4">"Está sin tráfico. ¡Pruebe nuestro plan de 12 meses! Toque para conocer sus opciones."</string>
+    <string name="vpn_detail_guide3">"Estás casi sin tráfico. ¡Prueba nuestro plan de %1$d-meses! Pulsa para aprender más sobre tus opciones."</string>
+    <string name="vpn_detail_guide4">"Estás fuera de tráfico. ¡Prueba nuestro plan de %1$d-meses! Pulsa para aprender más sobre tus opciones."</string>
     <string name="vpn_detail_guide5">"Está casi sin tráfico"</string>
     <string name="vpn_detail_guide6">"Está sin tráfico"</string>
     <string name="vpn_detail_subscribe">Suscribirse</string>
@@ -2096,7 +2095,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="whatsapp_how_it_works">Cómo funciona</string>
     <string name="whatsapp_intro_dialog_title">Nueva función</string>
     <string name="whatsapp_no_status_tips">No hay imágenes o vídeos. Vea sus actualizaciones de los estados de WhatsApp y vuelva aquí.</string>
-    <string name="whatsapp_principle_page_message">WhatsApp guarda fotos y vídeos en una carpeta oculta al navegar. Estos elementos desaparecen después de 24 horas. Ahora puede usar el Navegador Mi para guardarlos.</string>
+    <string name="whatsapp_principle_page_message">WhatsApp guarda las fotos y los videos que navega en una carpeta oculta. Estos elementos desaparecen después de %1$d horas. Ahora puedes usar Mi Browser para guardarlos.</string>
     <string name="whatsapp_principle_page_title">Puede guardar imágenes y vídeos de los estados de WhatsApp usando el Navegador Mi</string>
     <string name="whatsapp_principle_step_1">Busque imágenes y vídeos de la pestaña \"Estados\" en WhatsApp.</string>
     <string name="whatsapp_principle_step_2">Vuelva aquí para guardarlos.</string>

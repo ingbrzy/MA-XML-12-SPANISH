@@ -71,12 +71,20 @@
         <item>Verde</item>
         <item>Azul</item>
     </string-array>
+    <string-array name="nf_ad_feedback_reason">
+        <item>No es interesante</item>
+        <item>Repetitivo</item>
+        <item>Baja calidad</item>
+        <item>Foto inapropiada</item>
+        <item>Información fraudulenta</item>
+    </string-array>
     <string-array name="nf_feedback_reason">
         <item>Contenido explícito</item>
         <item>Falsedad</item>
         <item>Noticias viejas</item>
         <item>Vistas extremistas</item>
         <item>Anuncios subliminales</item>
+        <item>"No me gusta"</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>Ir atrás/adelante</item>
