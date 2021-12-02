@@ -55,6 +55,7 @@
     <string name="application_permissions">Permisos de la aplicación</string>
     <string name="back">Anterior</string>
     <string name="backup_introduction">Puedes usar esta aplicación para hacer una copia de seguridad y restaurar elementos en su dispositivo.</string>
+    <string name="bluetooth_introduction">El sistema utiliza Bluetooth para la comunicación inalámbrica. Para poder funcionar con normalidad, Bluetooth necesita los siguientes permisos:</string>
     <string name="boot_video_replay">Volver a reproducir</string>
     <string name="boot_video_skip">Saltar</string>
     <string name="calculator_introduction">Puede usar esta aplicación para realizar cálculos, convertir unidades y divisas, y estimar sus pagos de hipoteca.</string>
@@ -101,6 +102,7 @@
     <string name="disagreement_location_service_abnormal">"Si no acepta otorgar estos permisos, no podrá utilizar los servicios de ubicación. Puede activar o desactivar los servicios de ubicación en cualquier momento en Configuración &gt; Protección de privacidad."</string>
     <string name="disagreement_mi_account_abnormal">"Si no acepta otorgar estos permisos, no podrá utilizar los servicios de Mi Cuenta. Puede activar o desactivar los servicios de Mi Cuenta en cualquier momento en Configuración &gt; Mi Cuenta."</string>
     <string name="disagreement_service_not_working_properly">"Si no acepta otorgar estos permisos, no podrá utilizar esta aplicación."</string>
+    <string name="disagreement_terminate_bluetooth">"Si no desea otorgar estos permisos, no podrá usar Bluetooth. Puede activar y desactivar Bluetooth y agregar dispositivos Bluetooth en la Configuración."</string>
     <string name="disagreement_terminate_miuidaemon">"Usaremos los permisos solo cuando comience a transferir datos desde su dispositivo cuando su pantalla esté dañada. Si no acepta otorgar estos permisos, no podrá utilizar esta aplicación."</string>
     <string name="disagreement_terminate_service">"Si no acepta conceder estos permisos o compartir y subir su información personal, no podrá usar esta aplicación. Puede elegir desinstalarla, cerrar sesión o restringir los permisos en Configuración."</string>
     <string name="download_introduction">Descargas es una aplicación proporcionada por Xunlei que se utiliza para descargar y administrar el contenido descargado (incluido el contenido de la tienda de aplicaciones, videos, actualizaciones del sistema, temas y contenido del navegador) para los usuarios de dispositivos Xiaomi.</string>
@@ -269,7 +271,7 @@
     <string name="other_settings_enhanced_lockscreen_summary">Reciba historias e imágenes diariamente en su pantalla de bloqueo. %1$s y %2$s</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Acuerdo de Licencia de Usuario Final</string>
     <string name="other_settings_location">Ubicación</string>
-    <string name="other_settings_location_summary">Permitir a las aplicaciones acceder a su ubicación</string>
+    <string name="other_settings_location_summary">Permita que las aplicaciones y los sitios web accedan a la información de su ubicación para brindar servicios basados en la ubicación</string>
     <string name="other_settings_upload_debug_log_detail">"Ayude a mejorar la experiencia de su dispositivo MIUI enviando automáticamente datos de diagnóstico, dispositivo y uso de aplicaciones a Xiaomi. Esto ayudará a mejorar la duración de la batería, el sistema MIUI y la estabilidad de la aplicación, y más.
 Los datos que enviará contendrán información general sobre su dispositivo y cómo lo usa (por ejemplo, nivel de batería, actividad del sistema y de la aplicación, y errores). Los datos se utilizarán para mejorar los dispositivos MIUI.
 Desactivar esta función no afecta la capacidad de su dispositivo para enviar la información necesaria para servicios esenciales como actualizaciones del sistema y seguridad.
@@ -288,12 +290,14 @@ Puede controlar esta función desde Configuración &gt; Contraseñas &amp; Segur
     <string name="permission_backup">Acceder al almacenamiento</string>
     <string name="permission_backup_introduction">Para acceder y guardar copias de seguridad en su dispositivo</string>
     <string name="permission_call_records">Acceder al historial de llamadas</string>
+    <string name="permission_call_records_describe_bluetooth_summary">Para permitir que sus otros dispositivos compatibles que conecte a este dispositivo accedan al historial de llamadas. Esto solo sucederá cuando requiera de manera proactiva el uso del historial de llamadas a través de otro dispositivo. El historial de llamadas y los contactos compartidos por el sistema a través de Bluetooth solo se almacenarán en caché localmente en sus dispositivos y se compartirán con ellos con su permiso.</string>
     <string name="permission_call_records_introduction">Para acceder al historial de llamadas con el fin de mostrar elementos bloqueados</string>
     <string name="permission_call_state_introduction">Para acceder al estado del teléfono, grabar llamadas y pausar grabaciones durante las llamadas entrantes</string>
     <string name="permission_clock_info_introduction">Para guardar datos de alarmas</string>
     <string name="permission_contact">Acceder a contactos</string>
     <string name="permission_contact_describe">Acceder a contactos</string>
     <string name="permission_contact_describe_MIUIDaemon_summary">Para verificar su identidad.</string>
+    <string name="permission_contact_describe_bluetooth_summary">Para permitir que sus otros dispositivos compatibles que conecte a este dispositivo accedan a los contactos. Esto solo sucederá cuando encienda Bluetooth o edite sus contactos mientras Bluetooth está encendido.</string>
     <string name="permission_contact_describe_desktop_summary">Para usar la función de contacto de emergencia de la pantalla de inicio en el modo básico y mostrar notificaciones de conversación;</string>
     <string name="permission_contact_describe_message_summary">Para mostrar la información de contacto correspondiente de SMS y MMS.</string>
     <string name="permission_contact_introduction">Para proporcionar funcionalidad a la lista de bloqueo y llamar contactos de emergencia</string>
@@ -431,6 +435,7 @@ Puede controlar esta función desde Configuración &gt; Contraseñas &amp; Segur
     <string name="service_name_album">Galería</string>
     <string name="service_name_application_package">Instalador de paquetes</string>
     <string name="service_name_backup">Copias de seguridad</string>
+    <string name="service_name_bluetooth">Bluetooth</string>
     <string name="service_name_calculator">Calculadora</string>
     <string name="service_name_camera">Cámara</string>
     <string name="service_name_carrier">Declaración sobre servicios del operador</string>
@@ -471,7 +476,7 @@ Puede controlar esta función desde Configuración &gt; Contraseñas &amp; Segur
     <string name="sim_card_detection_mobile_not_available">"La tarjeta SIM no se pudo conectar a la red"</string>
     <string name="sim_card_dial_card1">SIM1 para llamadas</string>
     <string name="sim_card_dial_card2">SIM2 para llamadas</string>
-    <string name="sim_card_do_not_select_dial_card">Seleccione la tarjeta SIM para marcar</string>
+    <string name="sim_card_do_not_select_dial_card">Seleccione la tarjeta SIM al marcar</string>
     <string name="sim_card_network_card1">Datos SIM1</string>
     <string name="sim_card_network_card2">Datos SIM2</string>
     <string name="sim_dectection_next">Continuar</string>

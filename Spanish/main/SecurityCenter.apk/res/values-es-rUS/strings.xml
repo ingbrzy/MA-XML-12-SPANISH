@@ -614,7 +614,7 @@ No perderá ningún dato de aplicación."</string>
     <string name="applock_bind_account_dialog_content">Su Cuenta Mi es la única forma de restaurar el bloqueo de su aplicación en caso de que la olvide. Inicie sesión para agregar su Cuenta Mi.</string>
     <string name="applock_bind_account_dialog_title">Agregue su Cuenta Mi</string>
     <string name="applock_bind_account_title">Olvidé la contraseña</string>
-    <string name="applock_close_dialog_summary">Todas las aplicaciones ocultas serán mostradas, sus accesos directos a la Pantalla de inicio serán restaurados y tu contraseña de bloqueo de aplicación será borrada. ¿Desactivar bloqueo de aplicación?</string>
+    <string name="applock_close_dialog_summary">Se eliminará la contraseña de bloqueo de la aplicación. ¿Desactivar el bloqueo de aplicaciones ahora?</string>
     <string name="applock_close_dialog_title">¿Desactivar bloqueo de aplicaciones?</string>
     <string name="applock_exit_account_info">La cuenta se eliminará automáticamente al cerrar la sesión</string>
     <string name="applock_face_unlock_summary">Desbloquee aplicaciones con su rostro</string>
@@ -2037,7 +2037,7 @@ de sus sesiones de juego"</string>
     <string name="gd_setting_group_custom_line_location">Posición de la caja de herramientas</string>
     <string name="gd_setting_group_custom_settings">Personalización</string>
     <string name="gd_setting_group_custom_vtb_apps">Aplicaciones de video</string>
-    <string name="gd_setting_group_smart_tool_box">Caja de herramientas inteligente</string>
+    <string name="gd_setting_group_smart_tool_box">Barra lateral</string>
     <string name="gd_setting_group_title_switch">Escenas</string>
     <string name="gd_setting_gtb">Mostrar mientras juegas</string>
     <string name="gd_setting_gtb_desc">Funciones especiales para juegos</string>
@@ -2046,7 +2046,7 @@ de sus sesiones de juego"</string>
     <string name="gd_setting_guide_two">Desliza el dedo desde el borde para abrir la caja de herramientas de video</string>
     <string name="gd_setting_miui_dock">Mostrar siempre</string>
     <string name="gd_setting_shorthand">Notas rápidas</string>
-    <string name="gd_setting_title">Caja de herramientas inteligente</string>
+    <string name="gd_setting_title">Barra lateral</string>
     <string name="gd_setting_vtb">Mostrar mientras se reproducen videos</string>
     <string name="gd_setting_vtb_desc">Funciones especiales para la reproducción de video</string>
     <string name="gdpr_msg">&lt;Data&gt;Para poder detectar riesgos de seguridad y proteger sus datos, necesitamos recopilar la cantidad necesaria de información sobre su dispositivo. Lea y acepte nuestra &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Política de privacidad&lt;/a&gt; antes de utilizar nuestros servicios. En caso de que no nos permita recopilar dicha información, aún podrá usar esta aplicación, pero algunas funciones no estarán disponibles para usted. &lt;/Data&gt;</string>
@@ -2997,7 +2997,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="permission_instruction_read_contacts">This permission allows apps to access the contact info stored on your device. This info might contain the frequency of your communication with specific contacts via calls, emails, and other methods. This permission also allows apps to save contacts. Malicious apps might use this permission to share contacts without your consent.</string>
     <string name="permission_instruction_read_notify_sms">This permission allows apps to read notification text messages stored on your device or SIM card.</string>
     <string name="permission_instruction_read_phone_state">"This permission allows apps to access your phone number, IMEI, IMSI, and other device identifiers. Apps normally use this permission to determine whether your calls are being forwarded. If you're using a virtual device ID, apps won't be able to access your actual device identifiers."</string>
-    <string name="permission_instruction_read_sms">This permission allows apps to read all text messages stored on your device or SIM card. Such messages might contain passwords, bank account details, and other personal information.</string>
+    <string name="permission_instruction_read_sms">Este permiso permite que las aplicaciones lean todos los mensajes de texto y multimedia almacenados en su dispositivo o tarjeta SIM. Dichos mensajes pueden contener contraseñas, detalles de cuentas bancarias y otra información personal.</string>
     <string name="permission_instruction_read_write_calendar">This permission allows apps to access your calendar, as well as read, add, remove, edit, share, and save calendar events. Malicious apps might use this permission to send messages from your name or edit calendar events without your consent.</string>
     <string name="permission_instruction_receive_mms">This permission allows apps to read all multimedia messages stored on your device or SIM card. Such messages might contain passwords, bank account details, and other personal information.</string>
     <string name="permission_instruction_record_audio">"This permission allows apps to use the microphone for recording audio. Remember that this permission allows apps to record anything, including your conversations with others. It's best to allow apps to use this permission only while you're using the apps."</string>
@@ -3236,6 +3236,8 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="power_optimize_save_on_lockscreen">Ahorrar energía cuando el dispositivo esté bloqueado</string>
     <string name="power_optimize_set_lockscreen_time_holder">Bloquear dispositivo después de %d segundos de inactividad</string>
     <string name="power_phone">Llamadas de voz</string>
+    <string name="power_rank_surface_flinger">Renderizado</string>
+    <string name="power_rank_system">Sistema Android</string>
     <string name="power_save_mode">Ahorro de batería</string>
     <string name="power_save_mode_auto_exit_summary_new">Apague cuando la batería esté a %s o completamente cargada</string>
     <string name="power_save_mode_auto_exit_title">Desactivar cuando esté cargado</string>
@@ -4547,6 +4549,11 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="sys_app_prot_cracked_confirm">Entendido</string>
     <string name="sys_cpu_title">Uso de CPU</string>
     <string name="sys_freememory_title">Disponible</string>
+    <string name="system_anti_fraud_dialog_confirm_btn_txt">Entendido</string>
+    <string name="system_anti_fraud_dialog_content">"Parece que acaba de recibir una llamada o un mensaje fraudulento. Continuar con este pago puede causar pérdidas financieras."</string>
+    <string name="system_anti_fraud_dialog_hint">&lt;font = color=#747474&gt;Si el personal de servicio al cliente, las autoridades o las personas que podría conocer le piden que complete este pago, &lt;/font&gt;&lt;font = color=#F22424&gt;verifique su identidad antes de continuar.&lt;/font&gt;</string>
+    <string name="system_anti_fraud_dialog_image_txt">Protección antifraude</string>
+    <string name="system_anti_fraud_dialog_title">Advertencia antifraude</string>
     <string name="system_app">Aplicaciones del sistema</string>
     <string name="system_app_permission_instruction">Esta aplicación necesita los siguientes permisos para proporcionar servicios básicos del sistema. La administración de permisos está restringida para esta aplicación, ya que cambiar el estado de los permisos provocará anomalías en el funcionamiento del sistema.</string>
     <string name="system_application">Aplicaciones del sistema</string>

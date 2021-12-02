@@ -352,6 +352,23 @@
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="fmt_time_12hour">"h 'en punto'"</string>
     <string name="fmt_time_24hour">"HH 'en punto'"</string>
+    <string name="fold_close_failed">"No se pudo apagar"</string>
+    <string name="fold_close_incall_dialog_content">"Los videos de perfil ya no son compatibles. No podrá volver a activar esta función después de esto. ¿Apagar de todos modos?"</string>
+    <string name="fold_close_incall_dialog_title">Desactivar videos de perfil</string>
+    <string name="fold_close_success">Desactivado correctamente</string>
+    <string name="fold_preference_btn_close">Desactivar</string>
+    <string name="fold_preference_btn_restore">Restaurar</string>
+    <string name="fold_preference_close_incall">Desactivar videos de perfil</string>
+    <string name="fold_preference_restore_default_icon">Restaurar iconos predeterminados</string>
+    <string name="fold_preference_restore_default_theme">Restaurar tema predeterminado</string>
+    <string name="fold_restore_default_failed">"No se pudo restaurar"</string>
+    <string name="fold_restore_default_icon_dialog_content">"Los íconos no se pueden personalizar en este dispositivo ahora. Si cambió los iconos antes, puede restaurar los iconos predeterminados ahora. No podrá volver a personalizar los iconos después de esto."</string>
+    <string name="fold_restore_default_icon_dialog_title">Restaurar iconos predeterminados</string>
+    <string name="fold_restore_default_success">Restaurado con éxito</string>
+    <string name="fold_restore_default_theme_dialog_agree">Restaurar</string>
+    <string name="fold_restore_default_theme_dialog_content">"Los temas no se pueden usar en este dispositivo ahora. Si cambió su tema antes, puede restaurar el tema predeterminado ahora. No podrás volver a cambiar tu tema después de esto."</string>
+    <string name="fold_restore_default_theme_dialog_disagree">No, gracias</string>
+    <string name="fold_restore_default_theme_dialog_title">Restaurar tema predeterminado</string>
     <string name="font_compat_dialog_buy_confirm">Comprar</string>
     <string name="font_compat_dialog_buy_content">Es posible que algunas aplicaciones no admitan fuentes de terceros. Este problema de compatibilidad se solucionará con una próxima actualización del sistema. ¿Comprar esta fuente de todos modos?</string>
     <string name="font_compat_dialog_cancel">Cancelar</string>
@@ -836,6 +853,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="pull_down_view_error_message">Whoops! No se ha encontrado conexión a Internet. Compruebe su conexión o intente de nuevo.</string>
     <string name="pull_down_view_refresh">Refrescar</string>
     <string name="pull_down_view_title">"Qué hay de nuevo"</string>
+    <string name="purchased">Órdenes</string>
     <string name="read_and_agree_account_privacy"><Data>\"He leído y acepto el Acuerdo de usuario de &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;&lt;/a&gt;&lt;/font&gt; y &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%4$s\"&gt;Política de privacidad&lt;/a&gt;&lt;/font&gt;\".</Data></string>
     <string name="recently_used">Usado recientemente</string>
     <string name="recommend_trigger">Recomendaciones personalizadas</string>
