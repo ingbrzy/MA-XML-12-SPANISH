@@ -366,6 +366,7 @@
     <string name="cloud_upgrade_recommend">"No se puede sincronizar los contactos debido a que el espacio de almacenamiento en la nube es insuficiente. Mejore su plan de almacenamiento en la nube."</string>
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
+    <string name="comma">Coma</string>
     <string name="composer_failed_to_get_database_infomation">"Error al obtener información de la base de datos."</string>
     <string name="composer_has_no_exportable_contact">No hay contactos exportables. Si tiene contactos en su dispositivo, algunos proveedores de datos podrían no permitir que estos contactos sean exportados.</string>
     <string name="composer_not_initialized">"El redactor de vCard no se ha iniciado correctamente."</string>
@@ -687,6 +688,7 @@ Motivo: \"%s\""</string>
     <string name="importing_vcard_finished_title">Se ha terminado de importar la tarjeta vCard%s</string>
     <string name="insertContactDescription">Crear contacto</string>
     <string name="invalidContactMessage">"Ese contacto no existe"</string>
+    <string name="item_offical">Oficial</string>
     <string name="keep_local">"No sincronizar"</string>
     <string name="keep_local_btn">"Utilizar el almacenamiento interno del dispositivo"</string>
     <string name="label_custom_type">Personalizado</string>
@@ -887,7 +889,7 @@ Motivo: \"%s\""</string>
     <string name="permission_dailog_title">Permisos necesarios</string>
     <string name="permission_notice_desc_access_fine_location">Para importar contactos de otros dispositivos a través de Bluetooth</string>
     <string name="permission_notice_desc_add_voicemail">Para usar la función de correo de voz y mensajes de audio</string>
-    <string name="permission_notice_desc_call_phone">Para realizar llamadas en aplicaciones de terceros</string>
+    <string name="permission_notice_desc_call_phone">Para realizar llamadas a través de los atajos de la pantalla de inicio</string>
     <string name="permission_notice_desc_call_phone_for_pad">Para realizar llamadas en aplicaciones de terceros</string>
     <string name="permission_notice_desc_camera">Para tomar fotos de perfil</string>
     <string name="permission_notice_desc_read_call_logs">Para ver el historial de llamadas</string>
@@ -900,7 +902,7 @@ Motivo: \"%s\""</string>
     <string name="permission_notice_desc_write_external_storage">Para agregar fotos de perfil e importar vCards</string>
     <string name="permission_record_audio_desc">Para usar su voz durante la verificación de identificación</string>
     <string name="permission_retry_deny">Cancelar</string>
-    <string name="permission_retry_dialog_msg">Para poder usar su tarjeta SIM con esta aplicación, administrar sus contactos y mantener actualizado el historial de llamadas, permita que esta aplicación acceda y edite sus contactos y su historial de llamadas, así como para acceder a la información del dispositivo.</string>
+    <string name="permission_retry_dialog_msg">Para poder usar su tarjeta SIM con esta aplicación, realizar llamadas a través de los accesos directos de la pantalla de inicio, administrar sus contactos y mantener actualizado el historial de llamadas, permita que esta aplicación acceda y edite sus contactos y su historial de llamadas, haga llamadas y acceda a la información del dispositivo.</string>
     <string name="permission_retry_dialog_msg_pad">Para poder usar su tarjeta SIM con esta aplicación y administrar sus contactos, permita que esta aplicación acceda y edite sus contactos, así como también acceda a la información del dispositivo.</string>
     <string name="permission_retry_setting">Ajustes</string>
     <string name="permission_write_external_storage_desc">Para guardar datos de aplicaciones</string>
@@ -982,7 +984,7 @@ Motivo: \"%s\""</string>
     <string name="privacy_password_title3">Actualizar contraseña</string>
     <string name="privacy_password_title4">Contraseña actualizada</string>
     <string name="privacy_settings_call_phone">Hacer llamadas</string>
-    <string name="privacy_settings_call_phone_description">Para realizar llamadas en aplicaciones de terceros</string>
+    <string name="privacy_settings_call_phone_description">Para realizar llamadas a través de los atajos de la pantalla de inicio</string>
     <string name="privacy_settings_call_phone_description_for_pad">Para realizar llamadas en aplicaciones de terceros</string>
     <string name="privacy_settings_call_phone_for_pad">Hacer llamadas</string>
     <string name="privacy_settings_contacts">Contactos y teléfono</string>

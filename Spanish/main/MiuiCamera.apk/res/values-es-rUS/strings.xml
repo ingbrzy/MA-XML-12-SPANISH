@@ -161,6 +161,7 @@
     <string name="accessibility_preview_selected">Seleccionado</string>
     <string name="accessibility_preview_shrink">Alejar</string>
     <string name="accessibility_preview_zoom_tip">Vista previa con zoom X %1$.1f</string>
+    <string name="accessibility_privacy_watermark">Marca de agua protectora</string>
     <string name="accessibility_pro_parameters_panel_on">Abrir el menú con parámetros PRO</string>
     <string name="accessibility_pro_video_simple_mode">Modo lite</string>
     <string name="accessibility_protrait">Retrato</string>
@@ -571,6 +572,10 @@ y ajustar las preferencias automáticamente"</string>
     <string name="dialog_google_lens_option_0">Google Lens (recomendado)</string>
     <string name="dialog_ok">Aceptar</string>
     <string name="dialog_ok_time">Aceptar (%d s)</string>
+    <string name="dialog_privacy_watermark_button_cancel">Cancelar</string>
+    <string name="dialog_privacy_watermark_button_input">Ingresar</string>
+    <string name="dialog_privacy_watermark_msg">Ingrese texto</string>
+    <string name="dialog_privacy_watermark_title">Marca de agua protectora</string>
     <string name="dirty_tip_toast">El lente está sucio. Límpielo.</string>
     <string name="do_not_remind_me">"No volver a mostrar"</string>
     <string name="doc_shortcut_short">Docs</string>
@@ -1087,6 +1092,8 @@ se vean más grandes en las fotos"</string>
     <string name="network_connection_prerequisites_china">Active el Bluetooth y el WLAN en el Centro de control para poder usar la Grabación dual.</string>
     <string name="network_connection_rejected">Rechazado</string>
     <string name="network_connection_timed_out">Tiempo de conexión agotado</string>
+    <string name="newbie_privacy_watermark_msg">Utilice marcas de agua para proteger sus documentos de copias no autorizadas</string>
+    <string name="newbie_privacy_watermark_title">Proteja sus documentos</string>
     <string name="night">Tarde</string>
     <string name="no_storage">Inserte una tarjeta SD antes de usar la cámara</string>
     <string name="noon">Mediodía</string>
@@ -1155,6 +1162,7 @@ se vean más grandes en las fotos"</string>
     <string name="pm">PM</string>
     <string name="popup_tip_3d_beauty_intro_text">Modo belleza 3D</string>
     <string name="popup_tips_near_range_mode">Enfoque cercano</string>
+    <string name="popup_tips_privacy_watermark_edit">Editar marca de agua</string>
     <string name="portait_effect_entry_blackwhite">B/N</string>
     <string name="portait_effect_entry_cool">Menta</string>
     <string name="portait_effect_entry_dusk">Ocaso</string>
@@ -1534,6 +1542,11 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="pref_popup_camera_title">Cámara emergente</string>
     <string name="pref_priority_storage_title">Guardar en la tarjeta SD</string>
     <string name="pref_privacy_title">Política de Privacidad</string>
+    <string name="pref_privacy_watermark_edit">Texto personalizado</string>
+    <string name="pref_privacy_watermark_edit_clear_history">Borrar historial</string>
+    <string name="pref_privacy_watermark_edit_history">Historial</string>
+    <string name="pref_privacy_watermark_entry">Marca de agua protectora</string>
+    <string name="pref_privacy_watermark_switch">Mostrar interruptor de marca de agua</string>
     <string name="pref_qc_focus_position_title">F</string>
     <string name="pref_retain_ai_scene">Cámara AI</string>
     <string name="pref_retain_ai_scene_description">Conservar el estado de la cámara AI establecido durante la sesión anterior</string>

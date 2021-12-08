@@ -596,6 +596,7 @@
     <string name="pc_todo_fast_create_hint">Ingrese texto y presione \"Enter\" para agregar una tarea sin terminar</string>
     <string name="pc_todo_set_remind_time_hint">Definir hora</string>
     <string name="permdesc_accessNote">Aplicaciones maliciosas podrían utilizar esto para acceder a sus datos personales.</string>
+    <string name="permission_data_shared_desc">Notas de la Declaración de Compartir Datos de Terceros</string>
     <string name="permission_get_account_desc">Sincronizar notas con la nube</string>
     <string name="permission_intro_contact">Para marcar notas tomadas durante llamadas</string>
     <string name="permission_intro_microphone">Para grabar notas de voz</string>
@@ -609,6 +610,8 @@
     <string name="permission_storage_desc_pad_v12">Para agregar imágenes a notas y guardar notas como imágenes</string>
     <string name="permission_storage_desc_v12">Para agregar imágenes a notas y guardar notas como imágenes</string>
     <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI recolectará sus grabaciones de voz y ID del dispositivo para transcribir audio y crear notas de voz. Aprenda más en la &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; de Mi AI.&lt;/Data&gt;</string>
+    <string name="permission_xiaoai_desc_new"><Data>Para proporcionar servicios de transcripción de voz a texto, Mi AI necesita recopilar la entrada de audio y la identificación de su dispositivo, que se genera aleatoriamente. Lea y acepte nuestra &lt;a href=\"%1$s\"&gt;Notes Declaración de intercambio de datos de terceros&lt;/a&gt; antes de continuar. También puede obtener más información leyendo la Política de privacidad de &lt;a href=\"%2$s\"&gt;&lt;/a&gt;.</Data></string>
+    <string name="permission_xiaoai_title">Dictado a texto</string>
     <string name="permlab_accessNote">Acceso a las notas</string>
     <string name="pm">PM</string>
     <string name="pref_category_title_quick_func">Funciones rápidas</string>

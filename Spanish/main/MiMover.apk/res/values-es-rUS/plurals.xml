@@ -36,6 +36,14 @@
         <item quantity="other">Hace %d min</item>
         <item quantity="one">Hace 1 min</item>
     </plurals>
+    <plurals name="app_update_64_dialog_message">
+        <item quantity="other">%1$d aplicaciones en este dispositivo se pueden actualizar desde la arquitectura de 32 bits a la de 64 bits. Actualice estas aplicaciones para mejorar su rendimiento.</item>
+        <item quantity="one">%1$d en este dispositivo se puede actualizar desde la arquitectura de 32 bits a la de 64 bits. Actualice esta aplicación para mejorar su rendimiento.</item>
+    </plurals>
+    <plurals name="app_update_64_notification_title">
+        <item quantity="other">Versiones de 64 bits para %1$d aplicaciones están disponibles</item>
+        <item quantity="one">Una versión de 64 bits para la aplicación %1$d está disponible</item>
+    </plurals>
     <plurals name="data_item_count">
         <item quantity="other">%d elementos</item>
         <item quantity="one">%d elemento</item>

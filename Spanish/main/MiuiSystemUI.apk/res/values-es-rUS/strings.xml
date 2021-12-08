@@ -163,6 +163,7 @@
     <string name="accessibility_keyguard_face_unlock_view">Desbloqueo facial</string>
     <string name="accessibility_left_control_center_button">Acceso directo</string>
     <string name="accessibility_left_lock_screen_magazine_button">Carrusel de fondos de pantalla</string>
+    <string name="accessibility_left_xmyzl_button">Conexión rápida Xiaomi</string>
     <string name="accessibility_location_active">Solicitudes de ubicación activas</string>
     <string name="accessibility_lock_icon">Dispositivo bloqueado</string>
     <string name="accessibility_long_click_tile">Abrir configuración</string>
@@ -848,6 +849,7 @@ Si reanudas el servicio, es posible que se apliquen cargos."</string>
     <string name="face_unlock_fail">"No se pudo verificar su rostro"</string>
     <string name="face_unlock_fail_retry">"No se pudo verificar su rostro. Toque la parte superior para reintentar."</string>
     <string name="face_unlock_fail_retry_global">Toque la parte superior para usar desbloqueo facial</string>
+    <string name="face_unlock_locked">"No se puede usar el desbloqueo facial ahora"</string>
     <string name="face_unlock_not_found">"Mantenga su cara dentro del recuadro"</string>
     <string name="face_unlock_open_eye">Abre los ojos un poco más</string>
     <string name="face_unlock_password_and_fingerprint">Introducir contraseña o usar huella digital para desbloquear</string>
@@ -1054,9 +1056,12 @@ Una vez que se haya enfriado, volverá a funcionar correctamente."</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"No puede cambiar entre espacios cuando el Ahorro de batería ultra esté activado"</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Debe entrar al espacio principal después de reiniciar el dispositivo</string>
     <string name="input_password_hint_text">Ingresar contraseña</string>
-    <string name="input_pattern_after_boot_msg">Es necesario confirmar su patrón cuando el dispositivo se reinicia</string>
+    <string name="input_pattern_after_boot_msg">Se requiere dibujar su patrón cuando el dispositivo se reinicia</string>
+    <string name="input_pattern_after_face_not_allowed">Ingrese su contraseña al menos una vez cada %d horas para mantener este dispositivo seguro</string>
+    <string name="input_pattern_after_restart_msg">Confirma tu bloqueo de pantalla para continuar</string>
     <string name="input_pattern_hint_text">Dibuje su patrón de desbloqueo</string>
-    <string name="input_pin_after_boot_msg">Se requiere la confirmación de su PIN cuando el dispositivo se reinicia</string>
+    <string name="input_pattern_or_finger_after_face_not_allowed">Ingrese su contraseña o use la huella digital al menos una vez cada %d horas para mantener este dispositivo seguro</string>
+    <string name="input_pin_after_boot_msg">Se requiere ingresar su PIN cuando el dispositivo se reinicia</string>
     <string name="input_pin_code">Ingrese el PIN</string>
     <string name="input_puk_code">Ingrese el PUk</string>
     <string name="install_other_apps">Instalar aplicaciones desconocidas</string>
@@ -1718,6 +1723,7 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="open_lock_screen_magazine_hint_text">Deslice a la derecha para más opciones</string>
     <string name="open_remote_center_hint_text">Deslice a la derecha para ver los controles</string>
     <string name="open_saver_setting_action">Configuración</string>
+    <string name="open_xmyzl_hint_text">Desliza hacia la derecha para abrir Xiaomi Magic Control</string>
     <string name="orb_search_action">Acción de búsqueda</string>
     <string name="osu_completing_sign_up">Completando registro…</string>
     <string name="osu_connect_failed">No se puede conectar</string>

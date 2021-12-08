@@ -208,7 +208,7 @@ No puedes acercar con el teclado ni en la barra de navegación."</string>
     <string name="accessibility_screen_magnification_navbar_title">Ampliar con gesto</string>
     <string name="accessibility_screen_magnification_short_summary">Presiona tres veces para ampliar</string>
     <string name="accessibility_screen_magnification_state_navbar_gesture">Ampliar con acceso directo y presionar tres veces</string>
-    <string name="accessibility_screen_magnification_summary">Amplía rápidamente la pantalla para ver mejor el contenido.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Para ampliar, haz lo siguiente:&lt;/b&gt;&lt;br/&gt; 1. Usa el acceso directo para iniciar la ampliación.&lt;br/&gt; 2. Toca la pantalla.&lt;br/&gt; 3. Arrastra dos dedos para moverte por la pantalla.&lt;br/&gt; 4. Pellizca con dos dedos para ajustar el zoom.&lt;br/&gt; 5. Detén la ampliación mediante el acceso directo.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Para ampliar contenido de forma temporal, haz lo siguiente:&lt;/b&gt;&lt;br/&gt; 1. Usa el acceso directo para la ampliación.&lt;br/&gt; 2. Mantén pulsado cualquier punto de la pantalla.&lt;br/&gt; 3. Arrastra un dedo para moverte por la pantalla.&lt;br/&gt; 4. Levanta el dedo para dejar de ampliar.</string>
+    <string name="accessibility_screen_magnification_summary">Amplíe rápidamente la pantalla para agrandar el contenido.&lt;br/&gt;&lt;br/&gt; &lt;b&gt;Para acercar:&lt;/b&gt;&lt;br/&gt; {0,number,integer}. Utilice el atajo para iniciar la ampliación&lt;br/&gt; {1,number,integer}. Toque la pantalla&lt;br/&gt; {2,number,integer}. ¡Arrastre 2 dedos para moverse por la pantalla&lt;br/&gt; {3,number,integer}. ¡Pellizque con 2 dedos para ajustar el zoom&lt;br/&gt; {4,number,integer}. Use el atajo para detener la ampliación&lt;br/&gt;&lt;br/&gt; &lt;b&gt;Para acercar temporalmente:&lt;/b&gt;&lt;br/&gt; {0,number,integer}. Utilice el atajo para iniciar la ampliación&lt;br/&gt; {1,number,integer}. Toque &amp; mantenga presionado en cualquier lugar de la pantalla&lt;br/&gt; {2,number,integer}. ¡Arrastre el dedo para moverse por la pantalla&lt;br/&gt; {3,number,integer}. Levante el dedo para detener la ampliación</string>
     <string name="accessibility_screen_magnification_title">Ampliación</string>
     <string name="accessibility_screen_option">Opciones</string>
     <string name="accessibility_screen_reader_haptic_title">Lector de pantalla</string>
@@ -243,7 +243,7 @@ Para cambiar de función, desliza dos dedos hacia arriba y mantén presionada la
     <string name="accessibility_shortcut_edit_dialog_summary_software_gesture_talkback">"Desliza tres dedos hacia arriba desde la parte inferior de la pantalla.
 
 Para cambiar de función, desliza tres dedos hacia arriba y mantén presionada la pantalla."</string>
-    <string name="accessibility_shortcut_edit_dialog_summary_triple_tap">Toca la pantalla tres veces rápidamente. Esta acción puede hacer que tu dispositivo funcione más lento.</string>
+    <string name="accessibility_shortcut_edit_dialog_summary_triple_tap">¡Toque la pantalla rápidamente {0,number,integer} veces. Este acceso directo puede ralentizar su dispositivo</string>
     <string name="accessibility_shortcut_edit_dialog_title_advance">Avanzada</string>
     <string name="accessibility_shortcut_edit_dialog_title_hardware">Mantener presionadas las teclas de volumen</string>
     <string name="accessibility_shortcut_edit_dialog_title_software">Presionar el botón de accesibilidad</string>
@@ -867,6 +867,7 @@ Si este permiso está desactivado, las alarmas existentes y los eventos basados 
     <string name="auto_sync_account_title">Sincronizar datos de apps automáticamente</string>
     <string name="auto_sync_personal_account_title">Sincronizar datos personales automáticamente</string>
     <string name="auto_sync_work_account_title">Sincronizar los datos de trabajo automáticamente</string>
+    <string name="auto_task_operation_close">Cerrar</string>
     <string name="autofill_app">Servicio autocompletar</string>
     <string name="autofill_confirmation_message">"&lt;b&gt;Asegúrate de que esta app sea confiable.&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt; usa el contenido de tu pantalla para determinar qué se puede autocompletar."</string>
     <string name="autofill_keywords">automático, completar, autocompletar</string>
@@ -1372,6 +1373,8 @@ No se ha conectado a %2$s antes."</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Habilite la pila de funciones Bluetooth Gabeldorsche.</string>
     <string name="bluetooth_enable_page_scan">habilitar escaneo de página bluetooth</string>
     <string name="bluetooth_enable_page_scan_summary">deshabilitar/habilitar la exploración de páginas para la prueba de Bluetooth</string>
+    <string name="bluetooth_enable_pts_test">habilitar la prueba PTS de bluetooth</string>
+    <string name="bluetooth_enable_pts_test_summary">deshabilitar/habilitar PTS para la prueba de Bluetooth</string>
     <string name="bluetooth_enter_passkey_msg">Ingresa el código de sincronización y luego presiona Intro.</string>
     <string name="bluetooth_enter_passkey_other_device">Puede que también tengas que escribir esta clave de acceso en otro dispositivo.</string>
     <string name="bluetooth_enter_pin_other_device">Puede que también tengas que escribir este PIN en el otro dispositivo.</string>
@@ -2635,6 +2638,8 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="deny">Rechazar</string>
     <string name="detail_app_button">Informacion de la aplicación</string>
     <string name="detail_question">Detalles</string>
+    <string name="detailed_wifi_logging_disabled">El registro detallado de Wi-Fi está desactivado</string>
+    <string name="detailed_wifi_logging_enabled">El registro detallado de Wi-Fi está activado</string>
     <string name="details_subtitle">Detalles de uso</string>
     <string name="dev_logpersist_clear_warning_message">Al dejar de monitorear con el registrador de datos persistente, debemos eliminar los datos del registrador en su dispositivo.</string>
     <string name="dev_logpersist_clear_warning_title">¿Limpiar almacenamiento persistente del registrador de datos?</string>
@@ -3164,6 +3169,7 @@ Para obtener más información, comunícate con el administrador de tu organizac
     <string name="enterprise_privacy_settings_summary_with_name">Cambios y opciones de configuración que administra %s</string>
     <string name="enterprise_privacy_usage_stats">Consumo de tiempo y datos de cada app</string>
     <string name="enterprise_privacy_wipe_device">El administrador puede borrar todos los datos del dispositivo</string>
+    <string name="environmental_speech_recognition">Reconocimiento de sonido ambiental</string>
     <string name="eras_ad">DC</string>
     <string name="eras_bc">AC</string>
     <string name="erase_application">Eliminar aplicaciones</string>
@@ -3217,6 +3223,7 @@ Reinicie su dispositivo y vuelva a intentarlo."</string>
     <string name="experimental_preference">(Experimental)</string>
     <string name="expert_detail_content_description">Ver detalles</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
+    <string name="extended_power_menu">Menú de apagado extendido</string>
     <string name="exterior">Esquema de colores</string>
     <string name="external_code_size_label">Aplicación en el almacenamiento USB</string>
     <string name="external_data_size_label">Datos en el almacenamiento USB</string>
@@ -3434,6 +3441,8 @@ Para obtener más información, comuníquese con su proveedor acreedor."</string
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">"La aplicación instalada no podrá conectarse a internet con Wi-Fi cuando este interruptor esté desactivado."</string>
     <string name="firmware_version">Versión de Android</string>
+    <string name="fiveg_sa_switch_summary">Usar la red SA en la SIM secundaria (sólo para pruebas)</string>
+    <string name="fiveg_sa_vice_switch_title">SA en la SIM secundaria</string>
     <string name="fix_connectivity">Fijar conectividad</string>
     <string name="flash_drive_backup_disable">Primero conecte un dispositivo USB</string>
     <string name="flash_drive_backup_enable">Use un dispositivo USB para copiar o restaurar elementos</string>
@@ -3608,7 +3617,7 @@ Cuando activas la copia de seguridad automática, los datos del dispositivo y la
     <string name="game_settings_summary">Active el acceso directo del Tablero de juegos, etc</string>
     <string name="game_settings_title">Configuraciones de juego</string>
     <string name="game_storage_settings">Juegos</string>
-    <string name="gd_setting_title">Caja de herramientas inteligente</string>
+    <string name="gd_setting_title">Barra lateral</string>
     <string name="general_category_title">General</string>
     <string name="general_notification_header">Administrar</string>
     <string name="general_text">Campo de texto</string>
@@ -3810,6 +3819,7 @@ Cuando activas la copia de seguridad automática, los datos del dispositivo y la
     <string name="headset_remove_message_indicate">%1$s se desemparejará de todos los dispositivos asociados con esta Cuenta Mi.</string>
     <string name="headset_settings_title">Efectos de sonido</string>
     <string name="headset_spatial_audio">Audio espacial</string>
+    <string name="headset_toast_tip_disconnect_others">El auricular no se puede configurar en este momento, su auricular puede estar conectado a otro teléfono</string>
     <string name="headset_unsaved_device">Quitar el dispositivo</string>
     <string name="headset_unsaved_devices">Usado en otros dispositivos</string>
     <string name="hearing_aids_category">Herramientas de ayuda auditiva</string>
@@ -4713,7 +4723,10 @@ del segundo espacio"</string>
     <string name="low_label">Baja</string>
     <string name="low_storage_summary">Queda poco espacio de almacenamiento (en uso: %1$s; libre: %2$s)</string>
     <string name="macaddr_label">Dirección MAC:</string>
+    <string name="magic_list_empty_text">No hay aplicaciones compatibles con esta función ahora</string>
+    <string name="magic_list_empty_text_pad">No hay aplicaciones compatibles con esta función ahora</string>
     <string name="magic_window_name">Ventanas paralelas</string>
+    <string name="magic_window_name_pad">Optimice las aplicaciones para la vista horizontal</string>
     <string name="main_clear_accounts">"
 
 Actualmente ha iniciado sesión en las siguientes cuentas:
@@ -4917,6 +4930,7 @@ No podrá revertir esta acción."</string>
     <string name="memory_usage">Uso de la memoria</string>
     <string name="memory_usage_apps">Memoria que utilizan las aplicaciones</string>
     <string name="memory_use_summary">Se utilizó un promedio de %1$s de memoria en las últimas tres horas</string>
+    <string name="memorycard_calculating">Calculando…</string>
     <string name="menu_cancel">Descartar</string>
     <string name="menu_check">Experiencia</string>
     <string name="menu_delete">Eliminar APN</string>
@@ -4925,6 +4939,7 @@ No podrá revertir esta acción."</string>
     <string name="menu_duration_3h">3 horas</string>
     <string name="menu_duration_6h">6 horas</string>
     <string name="menu_hide_system">Ocultar sistema</string>
+    <string name="menu_item_notification_power_text">Optimización de la batería</string>
     <string name="menu_key">Menú</string>
     <string name="menu_new">APN nuevo</string>
     <string name="menu_proc_stats_duration">Duración</string>
@@ -5946,6 +5961,7 @@ OTG se desactiva automáticamente después de 10 minutos de inactividad."</strin
     <string name="owner_info_settings_summary">Ninguno</string>
     <string name="owner_info_settings_title">Firma en la pantalla de bloqueo</string>
     <string name="owner_space">Espacio principal</string>
+    <string name="p2p_summary_enable_GPS">Esta función funciona cuando los servicios de ubicación están activados</string>
     <string name="packages_subtitle">Paquetes incluidos</string>
     <string name="page_layout_1">Domingo 16 de agosto</string>
     <string name="page_layout_10">Ajustes</string>
@@ -7687,7 +7703,7 @@ PIN posiblemente incorrecto."</string>
     <string name="sim_pin_disable_failed">"No se puede inhabilitar el PIN."</string>
     <string name="sim_pin_enable_failed">"No se puede habilitar el PIN."</string>
     <string name="sim_pin_toggle">Bloquear la tarjeta SIM</string>
-    <string name="sim_pins_dont_match">Los PIN no coinciden</string>
+    <string name="sim_pins_dont_match">"Los PIN no coinciden"</string>
     <string name="sim_preferred_message">%1$s es la única SIM en tu dispositivo. ¿Deseas usar esta tarjeta para datos móviles, llamadas y mensajes SMS?</string>
     <string name="sim_preferred_title">¿Actualizar tarjeta SIM?</string>
     <string name="sim_radio_off">Desactivado</string>
@@ -7876,7 +7892,9 @@ Retirar el consentimiento para %s ahora?"</string>
     <string name="speed_label_very_fast">Muy rapido</string>
     <string name="speed_label_very_slow">Muy lento</string>
     <string name="speed_mode">Modo de velocidad</string>
-    <string name="speed_mode_summary">Para depurar aplicaciones.</string>
+    <string name="speed_mode_noti_summary">El modo de velocidad aumentará el consumo de energía y la generación de calor</string>
+    <string name="speed_mode_noti_title">Modo de velocidad activado</string>
+    <string name="speed_mode_summary">Cuando se enciende, el rendimiento alcanzará el estado extremo, pero aumentará el consumo de energía y generará calor. Por favor enciéndalo con cuidado</string>
     <string name="spell_checker_master_switch_title">Usar el corrector ortográfico</string>
     <string name="spell_checker_not_selected">Sin seleccionar</string>
     <string name="spell_checker_primary_switch_title">Usar el corrector ortográfico</string>
@@ -8671,7 +8689,7 @@ Las huellas digitales guardadas también se eliminarán de este dispositivo y no
     <string name="unlogin_account_summary">Todos los servicios Mi. Una Cuenta Mi.</string>
     <string name="unlogin_account_title">Iniciar sesión en Cuenta Mi</string>
     <string name="unmount_inform_text">El almacenamiento USB se desmontará.</string>
-    <string name="unmute_sound_title">Dejar de silenciar sonido</string>
+    <string name="unmute_sound_title">Reproducir sonido cuando el modo silencioso está desactivado</string>
     <string name="unrestrict_max_aspect_ratio_title">Estas aplicaciones están optimizadas para trabajar en modo pantalla completa</string>
     <string name="unrestricted_app_summary">Acceso a datos sin restricción</string>
     <string name="unrestricted_app_title">Uso de datos sin restricción</string>

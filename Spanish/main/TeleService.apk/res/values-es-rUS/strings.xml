@@ -129,6 +129,7 @@ Si este permiso está desactivado, las alarmas existentes y los eventos basados 
     <string name="alert_dialog_yes">Sí</string>
     <string name="alertdialogtitle">Resultados</string>
     <string name="all_empty_alert">Ingresa los detalles de la cuenta SIP nueva.</string>
+    <string name="allow">Concedido</string>
     <string name="allow_mock_location">Ubicaciones de prueba</string>
     <string name="allow_mock_location_summary">Permitir ubicaciones de prueba</string>
     <string name="already_auto">Ya está en selección automática.</string>
@@ -147,6 +148,7 @@ Si este permiso está desactivado, las alarmas existentes y los eventos basados 
     <string name="app_process_limit_title">Límite de procesos en segundo plano</string>
     <string name="arrears_sim_summary">Recargue el saldo de su teléfono para mantenerse conectado.</string>
     <string name="arrears_sim_title">Fondos insuficientes</string>
+    <string name="ask">Preguntar</string>
     <string name="atr_disable">Informes del tráfico de área desactivados</string>
     <string name="atr_enable">Informes del tráfico de área activados</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -1146,7 +1148,7 @@ Aún puedes realizar llamadas de emergencia.\"</string>
     <string name="label_available">Redes disponibles</string>
     <string name="label_ndp">PIN de desbloqueo de red de tarjeta SIM</string>
     <string name="label_ndp_nck">Desbloqueo de red SIM NCK</string>
-    <string name="label_phoneid">Perso bloqueado para</string>
+    <string name="label_phoneid">SIM bloqueada por la operadora</string>
     <string name="label_puk2_code">Escriba el código PUK2</string>
     <string name="lable_all_incoming">Todas las llamadas entrantes</string>
     <string name="lable_all_out_except">Llamadas salientes internacionales excepto a PLMN local</string>
@@ -1539,6 +1541,7 @@ Póngase en contacto con sus operadores"</string>
     <string name="not_set">Sin definir</string>
     <string name="not_support_forbidden_fakecell">"Su dispositivo no es compatible con la protección de nivel de chip de estaciones base falsas."</string>
     <string name="not_voice_capable">No admite llamadas de voz.</string>
+    <string name="notallow">No concedido</string>
     <string name="notification_channel_demo">Dispositivo de demostración</string>
     <string name="notification_channel_sip_account">Cuentas SIP obsoletas</string>
     <string name="notification_demo_version_text">"No puedo hacer llamadas ni usar datos móviles"</string>
@@ -1560,6 +1563,8 @@ Póngase en contacto con sus operadores"</string>
     <string name="nr_usaged_used_time">Tiempo de uso</string>
     <string name="number">Número</string>
     <string name="numerous_emergency_numbers_title">Números de emergencia</string>
+    <string name="obtain_location_information">Ubicación</string>
+    <string name="obtain_location_information_summary">Para optimizar el entorno de red actual</string>
     <string name="oem_radio_info_label">Configuración/Datos específicos del OEM</string>
     <string name="oem_unlock_enable">Desbloqueo de OEM</string>
     <string name="oem_unlock_enable_summary">Permitir que el cargador de inicio se desbloquee</string>
@@ -1670,6 +1675,7 @@ Vuelve a intentarlo o llama al servicio de atención al cliente para más opcion
 "</string>
     <string name="pause_prompt_yes">Sí</string>
     <string name="payphone">Teléfono público</string>
+    <string name="permission_description">Detalles de permisos</string>
     <string name="phoneAppLabel">Servicios telefónicos</string>
     <string name="phoneIconLabel">Teléfono</string>
     <string name="phone_account_settings">Cuentas de llamada</string>
@@ -1746,12 +1752,14 @@ Su teléfono se bloqueará automáticamente después del último intento fallido
     <string name="prefered_network_type_3g_promp">Debe desactivar VoLTE antes de seleccionar 3G como su tipo de red principal. ¿Desactivar ahora?</string>
     <string name="preference_auto_ip_summary_disable">Desactivado</string>
     <string name="preference_category_ringtone">Tono y vibración</string>
+    <string name="preference_check_privacy">Ver política de privacidad</string>
     <string name="preference_copied">Se copió \"%1$s\" en el portapapeles.</string>
     <string name="preference_countrycode_title">Prefijo internacional</string>
     <string name="preference_dial_pad_touch_tone_default">Predeterminado</string>
     <string name="preference_dial_pad_touch_tone_off">Desactivado</string>
     <string name="preference_dial_pad_touch_tone_piano">Teclas de piano</string>
     <string name="preference_dial_pad_touch_tone_title">Tonos del teclado de llamada</string>
+    <string name="preference_permission_related">Permisos</string>
     <string name="preference_telocation_summary_countrycode_off">"No marcar automáticamente el código de país"</string>
     <string name="preference_telocation_summary_countrycode_on">Marcar automáticamente el código del país</string>
     <string name="preference_telocation_summary_teloc_off">Ocultar ubicación de contacto</string>
@@ -1820,6 +1828,7 @@ Su teléfono se bloqueará automáticamente después del último intento fallido
     <string name="preferred_phone_account">Cuenta de llamada preferida</string>
     <string name="preferred_wificall_title">Preferencias de red</string>
     <string name="privacy_policy_title">Política de Privacidad</string>
+    <string name="privacy_setting">Privacidad</string>
     <string name="private_dns_broken">No se puede acceder al servidor DNS privado</string>
     <string name="private_dns_mode_off">Desactivado</string>
     <string name="private_dns_mode_opportunistic">Automático</string>
@@ -1930,6 +1939,8 @@ Interfaz de UT: %5$s"</string>
     <string name="radio_info_voice_network_type_label">Tipo de red de voz:</string>
     <string name="radio_off_during_emergency_call">No se puede entrar en modo de avión durante una llamada de emergencia.</string>
     <string name="radio_off_error">Enciende la radio antes de ver esta configuración.</string>
+    <string name="read_call_log">Grabar audio</string>
+    <string name="read_call_log_summary">Para grabar llamadas</string>
     <string name="reading_settings">Leyendo configuración...</string>
     <string name="regional_disable">Noticias regionales desactivadas</string>
     <string name="regional_enable">Noticias regionales activadas</string>
@@ -2171,7 +2182,7 @@ Confirme la configuración de su cuenta de llamadas predeterminada."</string>
     <string name="smart_dual_sim_title">SIM dual inteligente</string>
     <string name="smart_forwarding_settings_menu">Desvío inteligente</string>
     <string name="smart_forwarding_settings_menu_summary">"Cuando un número no está disponible, siempre desvía las llamadas a tu otro número"</string>
-    <string name="smart_multinetwork_acceleration_title">Aceleración inteligente de redes múltiples</string>
+    <string name="smart_multinetwork_acceleration_title">Aceleración de red inteligente</string>
     <string name="sms_messages_title">SMS</string>
     <string name="smsc_dialog_message">"Asegúrese de que el número que ingresó es correcto o de lo contrario no podrá enviar o recibir mensajes SMS. Contacte a su operador para confirmar su número SMSC."</string>
     <string name="speed_label_fast">Rápida</string>
@@ -2494,7 +2505,6 @@ Esta tablet no cuenta con un altavoz. Puede cambiar al modo manos libres o usar 
     <string name="volte_tips_when_turn_on">Los servicios VoLTE de China Telecom sólo están disponibles en áreas con cobertura VoLTE. Los servicios VoLTE son proporcionados por su operador.</string>
     <string name="vonr_switch_summary">Utilice VoNR para mejorar la calidad de las llamadas de voz</string>
     <string name="vonr_switch_title">Utilice VoNR</string>
-    <string name="vowifi_emergency_notification_channel">Aviso de emergencia de llamadas Wi-Fi</string>
     <string name="vowifi_emergency_notification_content">Las llamadas de emergencia solo son posibles en áreas con cobertura celular</string>
     <string name="vowifi_emergency_notification_title">Llamada Wi-Fi de Vodafone</string>
     <string name="vowifi_emergency_warning_check">"No mostrar de nuevo."</string>
@@ -2504,7 +2514,6 @@ El dispositivo cambia automáticamente a una red celular (2G/3G) para realizar u
 
 Las llamadas de emergencia solo son posibles en áreas con cobertura celular."</string>
     <string name="vowifi_emergency_warning_title">Llamadas de emergencia vía llamada Wi-Fi</string>
-    <string name="vowifi_welcome_notification_channel">wifiCallWelcomeNotification</string>
     <string name="vpn_settings_not_available">La configuración de la red VPN no está disponible para este usuario.</string>
     <string name="vt_provisioned_switch_string">Videollamadas aprovisionadas</string>
     <string name="vvm_unsupported_message_format">Tipo de mensaje no compatible. Llama al %s para escucharlo.</string>

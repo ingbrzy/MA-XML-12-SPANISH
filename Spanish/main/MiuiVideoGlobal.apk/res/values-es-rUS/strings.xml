@@ -273,8 +273,6 @@
     <string name="date_picker_lunar">Calendario Chino Tradicional</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="day">día</string>
-    <string name="default_filedownloader_notification_content">FileDownloader se está ejecutando.</string>
-    <string name="default_filedownloader_notification_title">FileDownloader</string>
     <string name="default_upgrade_hint">"¡Hola!
 Mi Video está listo para una actualización.
 ¡Actualice la aplicación ahora para ver nuestras nuevas funcionalidades!
@@ -307,10 +305,11 @@ Envíe este código al supervisor."</string>
     <string name="dialog_privacy_info_new4">"¡Bienvenido a Video Mi! Esta aplicación brinda los siguientes servicios:&lt;br&gt;&lt;/br&gt; - Servicios de transmisión en línea&lt;br&gt;&lt;/br&gt;- Un reproductor de video local&lt;br&gt;&lt;/br&gt;Video Mi necesita recopilar la información personal necesaria para brindarle los servicios básicos. Puede aprender cómo manejamos la información que recopilamos en nuestra Política de Privacidad. Podrá cambiar la configuración relacionada en Ajustes&gt; Contraseñas y seguridad.&lt;br&gt;&lt;/br&gt; Lea y acepte nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; antes de usar Video Mi."</string>
     <string name="dialog_privacy_revoke_cancel">Cancelar</string>
     <string name="dialog_privacy_revoke_count_down">Retirar (%1$d s)</string>
-    <string name="dialog_privacy_revoke_description">Al desactivar el interruptor, retira su consentimiento a la Política de Privacidad de Mi Video. Dejaremos de recopilar su información personal. La información personal ya recopilada y retenida se eliminará dentro de un período específico según lo requieran las leyes aplicables. Su retirada del consentimiento a la Política de Privacidad se considerará como una negativa a aceptar los servicios online basados en la información personal recopilada.</string>
+    <string name="dialog_privacy_revoke_description">"Está a punto de retirar su consentimiento a la Política de privacidad de Mi Video. Dejaremos de recopilar su información personal. La información personal ya recopilada y retenida se eliminará dentro del período específico según lo requieran las leyes aplicables. Su retiro del consentimiento a la Política de privacidad se considerará como negarse a aceptar servicios en línea basados en la información personal recopilada."</string>
     <string name="dialog_privacy_revoke_fail">Su dispositivo debe conectarse a la red para que pueda retirar el consentimiento. Verifique la configuración de su red y vuelva a intentarlo.</string>
     <string name="dialog_privacy_revoke_ok">Retirar</string>
     <string name="dialog_privacy_revoke_success">Retirado con éxito</string>
+    <string name="dialog_privacy_revoke_title">Retiro del consentimiento</string>
     <string name="dialog_privacy_revoking">Retirando el consentimiento…</string>
     <string name="dialog_privacy_title">Términos y condiciones</string>
     <string name="dialog_revoke_privacy_info_new2">Después de revocar la autorización, la aplicación dejará de recopilar datos y toda la información relacionada se eliminará de nuestros servidores. Esto podría hacer que la aplicación sea virtualmente inutilizable. ¿Revocar autorización?</string>
@@ -321,7 +320,7 @@ Envíe este código al supervisor."</string>
     <string name="disagree">"No aceptar"</string>
     <string name="diy_channels_tips">Ahora puede personalizar la lista de sus canales.</string>
     <string name="do_not_show_again">"No mostrar de nuevo"</string>
-    <string name="download">Descargar</string>
+    <string name="download">Descargas</string>
     <string name="download_checking_tip">Preparándose para descargar…</string>
     <string name="download_complete">Descargado</string>
     <string name="download_completed_push_title">Descarga completa</string>
@@ -1256,7 +1255,10 @@ Aumentar la seguridad de su cuenta."</string>
     <string name="popup_click_for_download_video">Descargar video</string>
     <string name="popup_pip_activate_button">Ajustes</string>
     <string name="popup_pip_not_activated">Permita que Mi Video use la picture-in-picture primero.</string>
+    <string name="privacy_agree_subtitle">El consentimiento a la Política de privacidad le permite utilizar todas las funciones de Mi Video</string>
+    <string name="privacy_agree_title">Consentimiento</string>
     <string name="privacy_revoke_setting">Al desactivar el interruptor, retira su consentimiento a la Política de Privacidad de Mi Video.</string>
+    <string name="privacy_revoke_subtitle">Retirar el consentimiento a la Política de privacidad de Mi Video</string>
     <string name="privacy_revoke_title">Retirada del consentimiento</string>
     <string name="pro_prize_popup_style_one">Eliminar anuncios para %s</string>
     <string name="pro_prize_popup_style_two">Desbloquea más funciones para %s</string>
@@ -1461,6 +1463,8 @@ Aumentar la seguridad de su cuenta."</string>
     <string name="tab_name_moment">Momentos</string>
     <string name="tab_name_trending">Tendencias</string>
     <string name="tab_name_video">Videos</string>
+    <string name="talkback_ad_clicked">Anuncio</string>
+    <string name="talkback_background_playback">Reproducción en segundo plano</string>
     <string name="target_sdk_version_30_upgrade_tips">Es posible que algunos videos no se vean aquí debido a las restricciones de Android 11. Toca \"Archivos\" para buscar otros videos.</string>
     <string name="temporary_not_available">"Esta función todavía no está disponible"</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversario del Levantamiento de la Ley Marcial</string>

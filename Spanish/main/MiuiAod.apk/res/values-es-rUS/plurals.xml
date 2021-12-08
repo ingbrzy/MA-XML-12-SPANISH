@@ -40,6 +40,14 @@
         <item quantity="other">" %1$s horas %2$s"</item>
         <item quantity="one">" %1$s hora %2$s"</item>
     </plurals>
+    <plurals name="character_pitch_minus">
+        <item quantity="other">Espaciado de caracteres reducido. Espaciado de caracteres %s.</item>
+        <item quantity="one">Espaciado de caracteres reducido. Espaciado de caracteres %s.</item>
+    </plurals>
+    <plurals name="character_pitch_plus">
+        <item quantity="other">Mayor espacio entre caracteres. Espaciado de caracteres %s.</item>
+        <item quantity="one">Mayor espacio entre caracteres. Espaciado de caracteres %s.</item>
+    </plurals>
     <plurals name="choose_long_gif_limit_toast_tip">
         <item quantity="other">"La duración de reproducción de las animaciones no puede superar los %d segundos.
 Las animaciones más largas se detendrán en este punto."</item>
@@ -73,6 +81,14 @@ Las animaciones más largas se detendrán en este punto."</item>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
         <item quantity="other">Ahora mismo</item>
+    </plurals>
+    <plurals name="line_spacing_puls">
+        <item quantity="other">Mayor espacio entre líneas. Espaciado de línea %s.</item>
+        <item quantity="one">Mayor espacio entre líneas. Espaciado de línea %s.</item>
+    </plurals>
+    <plurals name="lines_pacing_minus">
+        <item quantity="other">Espaciado de línea reducido. Espaciado de línea %s.</item>
+        <item quantity="one">Espaciado de línea reducido. Espaciado de línea %s.</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elementos seleccionados</item>

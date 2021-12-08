@@ -82,6 +82,7 @@ ID de su cuenta: %s"</string>
     <string name="account_verify_guide_bind_mail_desc">Agregar un correo de recuperación</string>
     <string name="account_verify_guide_bind_phone_desc">Agregar un teléfono de recuperación</string>
     <string name="account_verify_guide_set_password_desc">Establecer una contraseña</string>
+    <string name="account_verify_guide_verify_phone_desc">Confirmar teléfono de recuperación</string>
     <string name="account_xiaomi_service">Servicios</string>
     <string name="action_add_phone">Agregar número de teléfono</string>
     <string name="action_retry">Inténtalo de nuevo</string>
@@ -120,6 +121,10 @@ Puede iniciar sesión en su Cuenta Mi usando %s."</string>
     <string name="close">Cerrar</string>
     <string name="cloud_description_closed">Ocupado | La sincronización está desactivada</string>
     <string name="cloud_description_normal">Ocupado</string>
+    <string name="cloud_service_status_backup_not_open">La copia de seguridad está desactivada</string>
+    <string name="cloud_service_status_cloud_not_open">Desactivar</string>
+    <string name="cloud_service_status_storage_full">El almacenamiento está lleno</string>
+    <string name="cloud_service_status_storage_not_enough">Sin espacio suficiente</string>
     <string name="collect_diagnosis_log">Generar registro de diagnóstico</string>
     <string name="com_facebook_device_auth_instructions">Visita &lt;b&gt;facebook.com/device&lt;/b&gt; e introduce el código que se muestra arriba.</string>
     <string name="com_facebook_image_download_unknown_error">Error inesperado al descargar la imagen.</string>
@@ -390,6 +395,8 @@ Enviar este código al supervisor."</string>
     <string name="notify_network_restricted_content_hidden_state">"La actividad en segundo plano de la Cuenta Mi está restringido. Toque para permitir."</string>
     <string name="notify_network_restricted_content_mobile_network">"El acceso a internet de la Cuenta Mi está restringido. Toque para permitir."</string>
     <string name="notify_network_restricted_title">"Cuenta Mi no se pudo conectar a la red"</string>
+    <string name="notify_verify_again_security_phone">Confirmar</string>
+    <string name="notify_verify_security_phone">Teléfono</string>
     <string name="oauth_get_scopes_failed">"No se pudo obtener información de cuenta"</string>
     <string name="oauth_getting_scopes">Verificando la cuenta…</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; obtendrá los siguientes permisos:&lt;br&gt; &lt;br&gt; %3$s</string>

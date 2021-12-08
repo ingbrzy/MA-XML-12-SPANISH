@@ -147,6 +147,13 @@
     <string name="album_page_empty">Vacío</string>
     <string name="album_page_label">Álbumes</string>
     <string name="album_pano_name">Panorámicas</string>
+    <string name="album_permission_activity_title">Administrar permisos</string>
+    <string name="album_permission_state_granted">Concedido</string>
+    <string name="album_permission_state_non_granted">Otorgar</string>
+    <string name="album_permission_subtitle_single">%2$d álbum (%1$s)</string>
+    <string name="album_permission_tip_text">La galería necesita permisos para poder sincronizar, editar y administrar los elementos que se muestran a continuación.</string>
+    <string name="album_permission_title_granted">Concedido</string>
+    <string name="album_permission_title_non_granted">No concedido</string>
     <string name="album_quota_fulfiled">Demasiados álbumes. Borre algún álbum y vuelva a intentarlo.</string>
     <string name="album_rubbish_cant_change_status">"No se pueden sincronizar los álbumes movidos a la papelera"</string>
     <string name="album_rubbish_clear_all_item_description">Limpiar basura</string>
@@ -278,6 +285,7 @@
     <string name="backup_device_space_low_title">No hay suficiente espacio de almacenamiento</string>
     <string name="backup_dirty_num">Total: %s</string>
     <string name="backup_dirty_tip">Fotos y videos no respaldados</string>
+    <string name="backup_disable_message">La galería debe borrar la caché de la aplicación porque desactivó la sincronización con la nube.</string>
     <string name="backup_file_over_size_desc">"Las fotos mayores de %1$s y los videos mayores de %2$s no pueden ser respaldados."</string>
     <string name="backup_immediately">Respaldar</string>
     <string name="backup_need_sync_desc">Toque para continuar respaldando</string>
@@ -575,6 +583,7 @@
     <string name="default_relation_name">Nuevo grupo</string>
     <string name="define_by_user">Personalizar</string>
     <string name="delete">Eliminar</string>
+    <string name="delete_account_message">La galería necesita borrar la memoria caché de la aplicación porque cerró sesión en su cuenta Mi.</string>
     <string name="delete_album_failed">"No se pudo eleminar el álbum"</string>
     <string name="delete_album_msg_format">¿Eliminar el álbum \"%2$s\" %1$s %3$s?</string>
     <string name="delete_album_msg_format_cloud">¿Eliminar %1$s %2$s de Xiaomi Cloud y todos los dispositivos sincronizados?</string>
@@ -600,6 +609,12 @@
     <string name="device_status_sending">Enviando…</string>
     <string name="device_status_success">Enviado con éxito</string>
     <string name="device_status_waiting">Esperando…</string>
+    <string name="device_storage_space_low_dialog_des">Almacene fotos y videos originales en la nube mientras mantiene copias más pequeñas de alta calidad en este dispositivo para liberar %s de almacenamiento.</string>
+    <string name="device_storage_space_low_dialog_title">No hay suficiente espacio de almacenamiento</string>
+    <string name="device_storage_space_low_notice_des">Sincroniza fotos y videos con la nube para liberar %s</string>
+    <string name="device_storage_space_low_notice_title">Sin almacenamiento</string>
+    <string name="device_storage_space_low_textline_button">Iniciar</string>
+    <string name="device_storage_space_low_textline_des">"Libera %s de almacenamiento. "</string>
     <string name="device_type_pc">Computadora</string>
     <string name="disable_auto_upload_tip">¿Desactivar sincronización con la nube para este álbum?</string>
     <string name="disable_auto_upload_title">Desactivar sincronización con la nube</string>
@@ -727,6 +742,8 @@
     <string name="error_storage_full_action">Liberar espacio</string>
     <string name="error_storage_full_msg">Libere esapcio de almacenamiento en su dispositivo y vuelva a intentarlo.</string>
     <string name="error_storage_full_tip">No hay suficiente espacio de almacenamiento</string>
+    <string name="error_storage_no_write_permission_tip_action">Otorgar</string>
+    <string name="error_storage_no_write_permission_tip_title">"Algunos álbumes requieren permisos para sincronizarse. "</string>
     <string name="error_sync_off_action">Activar</string>
     <string name="error_sync_off_msg">"Asegúrese de haber activado la sincronización con la nube."</string>
     <string name="error_sync_off_tip">La sincronización está desactivada</string>
@@ -853,6 +870,7 @@ disponibles"</string>
     <string name="filter_popular_autumn">Otoño</string>
     <string name="filter_popular_blackred">Sangría</string>
     <string name="filter_popular_bluedream">Sueño</string>
+    <string name="filter_popular_blues">Blues</string>
     <string name="filter_popular_coffee">Café</string>
     <string name="filter_popular_coldsmoke">Niebla fría</string>
     <string name="filter_popular_comic">Anime</string>
@@ -873,6 +891,7 @@ disponibles"</string>
     <string name="filter_popular_shallow_summer">Junio</string>
     <string name="filter_popular_summercloud">Vesper</string>
     <string name="filter_popular_sunset">Evento</string>
+    <string name="filter_popular_sunset_gold">Resplandor</string>
     <string name="filter_popular_wakakusa">Wakakusa</string>
     <string name="filter_popular_windchime">Carillones</string>
     <string name="filter_popular_wintersun">Inverno</string>
@@ -1053,6 +1072,7 @@ disponibles"</string>
     <string name="help">"¿No puede encontrar dispositivos?"</string>
     <string name="help_content">"Si no puede encontrar el dispositivo que necesita, pida a la otra persona que active Mi Share."</string>
     <string name="hidden_album_display_name">Álbum oculto</string>
+    <string name="hide_nearby_photos">Ocultar fotos y videos cercanos</string>
     <string name="home_menu_all_photos">Mostrar todos los elementos</string>
     <string name="home_menu_art_still">Artístico</string>
     <string name="home_menu_camera">Mostrar solo elementos de la cámara</string>
@@ -1117,6 +1137,7 @@ disponibles"</string>
     <string name="input_or_select_a_name">Introduzca o seleccione un nombre</string>
     <string name="input_relation_name">Introducir nombre del grupo</string>
     <string name="install_fail">"No se pudo cargar complemento por un error."</string>
+    <string name="install_media_editor_latest_message">Para poder editar elementos, primero descargue el último complemento.</string>
     <string name="install_media_editor_message">Para poder editar elementos, primero descargue el complemento. ¿Descargar ahora?</string>
     <string name="install_media_editor_title">Descargar complemento</string>
     <string name="internal_storage_device">Almacenamiento interno</string>
@@ -1144,7 +1165,7 @@ disponibles"</string>
     <string name="kick_sharer_successfully">Esta persona fue eliminada</string>
     <string name="limit_height">La altura debe ser &gt; 0</string>
     <string name="limit_width">El ancho debe ser &gt; 0</string>
-    <string name="live_photo">Live photo</string>
+    <string name="live_photo">Disparo dinámico</string>
     <string name="load_complete">No hay más elementos aquí</string>
     <string name="load_failed">"No se pudo cargar la info, pulse para intentar de nuevo"</string>
     <string name="load_relations">Un momento…</string>
@@ -1282,6 +1303,7 @@ disponibles"</string>
     <string name="map_grant_position_permission_after_declined_twice_message">Para ver fotos y videos en el mapa, primero permita que Galería acceda a su ubicación.</string>
     <string name="map_grant_position_permission_subtitle">Para mostrar fotos y videos cercanos en el mapa</string>
     <string name="map_guide_message">Vea sus fotos y videos en el mapa</string>
+    <string name="map_location">Mover a la ubicación actual</string>
     <string name="map_positioning_failed_tip">"No se puede obtener información de ubicación debido a una señal débil"</string>
     <string name="map_privacy_dialog_message"><Data>Este servicio le permite ver fotos y videos con información de ubicación en un mapa. Usamos Baidu Map Open SDK para brindarle este servicio. Lea &lt;a href=\"%1$s\"&gt;Política de privacidad de Baidu Map para productos y servicios de plataforma abierta&lt;/a&gt; para obtener más información.</Data></string>
     <string name="map_privacy_dialog_title">Mapa de la galería</string>
@@ -1315,6 +1337,13 @@ para personalizar la Galería"</string>
     <string name="mi_mover_working_desc">Mi Mudanza está transfiriendo elementos…</string>
     <string name="micloud_introduce">Sincronizar fotos y videos automáticamente (se necesita Cuenta Mi)</string>
     <string name="midnight">AM</string>
+    <string name="migrate_msg">Algunos álbumes requieren permisos para mover elementos después de una actualización del sistema.</string>
+    <string name="miplay_adjust_volume">Establecer el volumen a %d</string>
+    <string name="miplay_pause_video">Pausa</string>
+    <string name="miplay_play_video">Reproducir</string>
+    <string name="miplay_seekbar_content_description">Progreso de la reproducción: %1$s %2$s</string>
+    <string name="miplay_stop_video">Detener reproducción de vídeo</string>
+    <string name="miplay_volume_btn">Volumen</string>
     <string name="mishare_all_devices">Todos los dispositivos</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
@@ -1402,6 +1431,7 @@ para personalizar la Galería"</string>
     <string name="mosaic_item_talkback_effect8">Flores</string>
     <string name="mosaic_item_talkback_effect9">Estrellas</string>
     <string name="mosaic_item_talkback_eraser">Eraser</string>
+    <string name="motion_photo_enter">Disparo dinámico</string>
     <string name="motion_photo_play">Play</string>
     <string name="move_to_other_albums_tip">¿Mover este álbum a Otros álbumes?</string>
     <string name="move_to_rubbish_albums_tip">¿Mover los álbumes seleccionados a la papelera?</string>
@@ -1523,6 +1553,7 @@ para personalizar la Galería"</string>
     <string name="ocr_using_cellular_text">Reconocer el texto utilizando datos móviles puede generar tarifas adicionales para el operador. ¿Reconocer de todos modos?</string>
     <string name="ok">Aceptar</string>
     <string name="onekey_auto">Automático</string>
+    <string name="onekey_beautify_tag_done">Efectos aplicados</string>
     <string name="onekey_food">Comida</string>
     <string name="onekey_none">Original</string>
     <string name="onekey_portrait">Retrato</string>
@@ -1598,6 +1629,7 @@ La transcodificación puede llevar algo de tiempo cuando utiliza esta función p
     <string name="operation_unforce_top">Desanclar</string>
     <string name="operation_unhide">Mostrar</string>
     <string name="operation_video_compress">Comprimir video</string>
+    <string name="operation_watermark">Marca de agua protectora</string>
     <string name="orientation_lock_tip">Rotación automática desactivada</string>
     <string name="orientation_unlock_tip">Rotación automática activada</string>
     <string name="origin_gif_name">archivo original</string>
@@ -1625,6 +1657,11 @@ La transcodificación puede llevar algo de tiempo cuando utiliza esta función p
     <string name="permission_contacts_desc_2">Para asociar personas en fotos con contactos</string>
     <string name="permission_contacts_name">Contactos</string>
     <string name="permission_contacts_name_2">Acceder a contactos</string>
+    <string name="permission_custom_cta_network_button_negative">"No estoy de acuerdo"</string>
+    <string name="permission_custom_cta_network_button_positive">De acuerdo</string>
+    <string name="permission_custom_cta_network_title">Atención</string>
+    <string name="permission_location">Localización</string>
+    <string name="permission_location_desc">Para mostrar fotos y videos en el mapa</string>
     <string name="permission_optional_category">Permisos opcionales</string>
     <string name="permission_phone_desc">Para asignar dispositivos correspondientes a elementos eliminados recientemente en Xiaomi Cloud</string>
     <string name="permission_phone_name">Teléfono</string>
@@ -1690,6 +1727,7 @@ La transcodificación puede llevar algo de tiempo cuando utiliza esta función p
     <string name="photo_editor_navigator_sticker_download_without_wifi_msg">"Parece que no está conectado a una Wi-Fi. ¿Usar %1$d MB de datos móviles para descargar el complemento?"</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">"Parece que no está conectado a una WLAN. ¿Usar %1$d MB de datos móviles para descargar el complemento?"</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_title">Descargar plug-in</string>
+    <string name="photo_editor_privacy_watermark">Marca de agua protectora</string>
     <string name="photo_editor_remove_watermark">Eliminar marca de agua</string>
     <string name="photo_editor_remove_watermark_on">Agregar marca de agua</string>
     <string name="photo_editor_remover">Borrar</string>
@@ -1746,6 +1784,7 @@ La transcodificación puede llevar algo de tiempo cuando utiliza esta función p
     <string name="photo_editor_talkback_sky_audio_open">Reproducir sonido</string>
     <string name="photo_editor_talkback_undo">Deshacer</string>
     <string name="photo_editor_text">Texto</string>
+    <string name="photo_editor_watermark_default">NO COPIAR</string>
     <string name="photo_font_cancel_download">Cancelar</string>
     <string name="photo_font_download">Descargar</string>
     <string name="photo_font_download_failed_for_notwork">"No se pudo descargar. Conéctese a la red y vuelva a intentarlo."</string>
@@ -1948,6 +1987,15 @@ La transcodificación puede llevar algo de tiempo cuando utiliza esta función p
     <string name="rubbish_album_move_to_other_album_success">Ahora puede ver estos elementos en \"Otros álbumes\".</string>
     <string name="rubbish_nomedia_manager_button_text">Gestionar álbumes con archivos \".nomedia\"</string>
     <string name="runtime_permission_ungranted">Se cerró la galería, permisos insuficientes</string>
+    <string name="saf_hyper_link_text">Administrar permisos</string>
+    <string name="saf_operation_guide_1">"Gallery necesita su permiso para poder proteger y administrar sus datos. "</string>
+    <string name="saf_operation_guide_2">Para otorgar el permiso, toque \"%1$s\" y luego seleccione \"%2$s\".</string>
+    <string name="saf_operation_guide_param1">Siguiente</string>
+    <string name="saf_operation_guide_param2">Acceder a esta carpeta</string>
+    <string name="saf_requester_cancel">Cancelar</string>
+    <string name="saf_requester_title">Permitir que la galería acceda a \"%s\"</string>
+    <string name="saf_secret_album">Álbum privado</string>
+    <string name="saf_secret_album_guide">Esta aplicación necesita permisos para mostrar elementos de su álbum privado.</string>
     <string name="same_name_album_exist_and_toast">"Ya existe un álbum con el mismo nombre. Creado '%s' en su lugar."</string>
     <string name="samsung">Samsung</string>
     <string name="samsung_phone">Samsung phone</string>
@@ -1959,6 +2007,14 @@ La transcodificación puede llevar algo de tiempo cuando utiliza esta función p
     <string name="scan_barcode_to_join">Escanear código QR para agregar álbum</string>
     <string name="scan_qr_code_buttom_text">Escanear el código QR para ver este álbum</string>
     <string name="scanning_device_tips">Buscando dispositivos cercanos…Asegúrese de que el otro dispositivo está en modo visible.</string>
+    <string name="scope_storage_dialog_cancel_btn">Cancelar</string>
+    <string name="scope_storage_dialog_confirm_btn">Siguiente</string>
+    <string name="scope_storage_dialog_description">Se actualizaron los permisos de la galería. Permita que la Galería acceda a esta carpeta para poder ver su contenido.</string>
+    <string name="scope_storage_dialog_guide_content"><Data>Pulsa &lt;b&gt;\"%1$s\"&lt;/b&gt; y luego selecciona &lt;b&gt;\"%2$s\"&lt;/b&gt;.</Data></string>
+    <string name="scope_storage_dialog_guide_title">Cómo conceder permisos</string>
+    <string name="scope_storage_dialog_title">Permisos requeridos</string>
+    <string name="scope_storage_operation_btn_1">Guardar</string>
+    <string name="scope_storage_operation_btn_2">Acceder a esta carpeta</string>
     <string name="screen_doodle_talkback_size">Ancho de línea de dibujo</string>
     <string name="screen_editor_btn_delete">Eliminar</string>
     <string name="screen_editor_btn_save">Guardar</string>
@@ -2117,6 +2173,7 @@ La transcodificación puede llevar algo de tiempo cuando utiliza esta función p
     <string name="show_in_other_albums_disable_toast_long_press_menu">Movido con éxito, ir a Otros álbumes para ver</string>
     <string name="show_in_other_albums_enable_toast_long_press_menu">Movido con éxito, ir a Álbumes para ver</string>
     <string name="show_in_rubbish_albums_enable_toast_long_press_menu">Movido a la papelera con éxito</string>
+    <string name="show_nearby_photos">Mostrar fotos y vídeos cercanos</string>
     <string name="signature_dialog_clear">Borrar</string>
     <string name="signature_manage_dialog_title_string">Firma</string>
     <string name="signature_view_add_signature_String">Eliminar firma</string>
@@ -2237,6 +2294,7 @@ La transcodificación puede llevar algo de tiempo cuando utiliza esta función p
     <string name="sticker_tab_talkback_frog">Rana</string>
     <string name="sticker_tab_talkback_graduate">Graduación</string>
     <string name="sticker_tab_talkback_graffito">Lápiz</string>
+    <string name="sticker_tab_talkback_halloween">Halloween</string>
     <string name="sticker_tab_talkback_line">Líneas</string>
     <string name="sticker_tab_talkback_lovely">Cutenacidad</string>
     <string name="sticker_tab_talkback_markpen">Marcador</string>
@@ -2917,6 +2975,9 @@ La transcodificación puede llevar algo de tiempo cuando utiliza esta función p
     <string name="vlog_video_trans_code_cons">Importando…</string>
     <string name="voice_assistant">Entrada de voz</string>
     <string name="watch_all_photo">Galería</string>
+    <string name="watermark_enter">Marca de agua protectora</string>
+    <string name="watermark_summary">Reconozca fotos de identificaciones almacenadas en este dispositivo y reciba indicaciones para agregar marcas de agua protectoras</string>
+    <string name="watermark_title">Marca de agua protectora</string>
     <string name="web_sso_login_fail">Es necesario volver a iniciar sesión</string>
     <string name="web_sso_login_message">Iniciando sesión…</string>
     <string name="webview_reload">Vuelva a intentarlo</string>
